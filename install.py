@@ -44,6 +44,7 @@ def print_green(text):
 
 def setup_links_db(target_dir):
 	os.chdir(target_dir)
+	os.mkdir("log")
 	try_symlink(os.path.join(GAMEDIR, "share", "conf"), "conf", is_dir=True)
 	try_symlink(os.path.join(GAMEDIR, "share", "data"), "data", is_dir=True)
 	try_symlink(os.path.join(GAMEDIR, "share", "locale"), "locale", is_dir=True)
@@ -51,6 +52,7 @@ def setup_links_db(target_dir):
 	
 def setup_links_game(target_dir, name):
 	os.chdir(target_dir)
+	os.mkdir("log")
 	try_symlink(os.path.join(GAMEDIR, "share", "conf"), "conf", is_dir=True)
 	try_symlink(os.path.join(GAMEDIR, "share", "data"), "data", is_dir=True)
 	try_symlink(os.path.join(GAMEDIR, "share", "locale"), "locale", is_dir=True)
