@@ -67,28 +67,6 @@ INSERT INTO `account` VALUES (1,'admin','*CC67043C7BCFF5EEA5566BD9B1F3C74FD9A5CF
 UNLOCK TABLES;
 
 --
--- Table structure for table `block_exception`
---
-
-DROP TABLE IF EXISTS `block_exception`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8mb4 */;
-CREATE TABLE `block_exception` (
-  `login` int(11) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `block_exception`
---
-
-LOCK TABLES `block_exception` WRITE;
-/*!40000 ALTER TABLE `block_exception` DISABLE KEYS */;
-INSERT INTO `block_exception` VALUES (100);
-/*!40000 ALTER TABLE `block_exception` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `gametime`
 --
 
@@ -172,30 +150,6 @@ CREATE TABLE `gametimelog` (
 LOCK TABLES `gametimelog` WRITE;
 /*!40000 ALTER TABLE `gametimelog` DISABLE KEYS */;
 /*!40000 ALTER TABLE `gametimelog` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `iptocountry`
---
-
-DROP TABLE IF EXISTS `iptocountry`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8mb4 */;
-CREATE TABLE `iptocountry` (
-  `IP_FROM` varchar(16) DEFAULT NULL,
-  `IP_TO` varchar(16) DEFAULT NULL,
-  `COUNTRY_NAME` varchar(16) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `iptocountry`
---
-
-LOCK TABLES `iptocountry` WRITE;
-/*!40000 ALTER TABLE `iptocountry` DISABLE KEYS */;
-INSERT INTO `iptocountry` VALUES ('','','');
-/*!40000 ALTER TABLE `iptocountry` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
