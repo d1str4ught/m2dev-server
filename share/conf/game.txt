@@ -1,3 +1,4 @@
+DB_ADDR: 127.0.0.1
 DB_PORT: 9000
 ACCOUNT_SQL: localhost mt2 mt2@pw account
 PLAYER_SQL: localhost mt2 mt2@pw player

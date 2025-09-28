@@ -1,9 +1,9 @@
 WELCOME_MSG = "Database connector is running..."
 
-SQL_ACCOUNT 	= "localhost account mt2 mt2@pw 0"
-SQL_PLAYER 		= "localhost player mt2 mt2@pw 0"
-SQL_COMMON 		= "localhost common mt2 mt2@pw 0"
-SQL_HOTBACKUP 	= "localhost hotbackup mt2 mt2@pw 0"
+SQL_ACCOUNT 	= "127.0.0.1 account mt2 mt2@pw 0"
+SQL_PLAYER 	= "127.0.0.1 player mt2 mt2@pw 0"
+SQL_COMMON 	= "127.0.0.1 common mt2 mt2@pw 0"
+SQL_HOTBACKUP 	= "127.0.0.1 hotbackup mt2 mt2@pw 0"
 
 TABLE_POSTFIX = ""
 
