@@ -1,9 +1,9 @@
 DB_ADDR: 127.0.0.1
 DB_PORT: 9000
-ACCOUNT_SQL: localhost mt2 mt2@pw account
-PLAYER_SQL: localhost mt2 mt2@pw player
-COMMON_SQL: localhost mt2 mt2@pw common
-LOG_SQL: 	localhost mt2 mt2@pw log
+ACCOUNT_SQL: 127.0.0.1 mt2 mt2@pw account
+PLAYER_SQL: 127.0.0.1 mt2 mt2@pw player
+COMMON_SQL: 127.0.0.1 mt2 mt2@pw common
+LOG_SQL: 	127.0.0.1 mt2 mt2@pw log
 TABLE_POSTFIX: 
 PASSES_PER_SEC: 60
 SAVE_EVENT_SECOND_CYCLE: 180
