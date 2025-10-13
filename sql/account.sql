@@ -31,7 +31,6 @@ CREATE TABLE `account` (
   `create_time` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   `is_testor` tinyint(1) NOT NULL DEFAULT 0,
   `status` varchar(8) NOT NULL DEFAULT 'OK',
-  `securitycode` varchar(192) DEFAULT '',
   `newsletter` tinyint(1) DEFAULT 0,
   `empire` tinyint(4) NOT NULL DEFAULT 0,
   `name_checked` tinyint(1) NOT NULL DEFAULT 0,
