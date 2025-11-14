@@ -48,11 +48,11 @@ CREATE TABLE `account` (
   `total_mileage` int(11) NOT NULL DEFAULT 0,
   `channel_company` varchar(30) NOT NULL DEFAULT '',
   `ip` varchar(255) DEFAULT NULL,
-  `last_play` datetime NOT NULL,
+  `last_play` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   PRIMARY KEY (`id`),
   UNIQUE KEY `login` (`login`) USING BTREE,
   KEY `social_id` (`social_id`) USING BTREE
-) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=ascii COLLATE=ascii_general_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=ascii COLLATE=ascii_general_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -61,7 +61,7 @@ CREATE TABLE `account` (
 
 LOCK TABLES `account` WRITE;
 /*!40000 ALTER TABLE `account` DISABLE KEYS */;
-INSERT INTO `account` VALUES (1,'admin','*CC67043C7BCFF5EEA5566BD9B1F3C74FD9A5CF5D','1234567','','0000-00-00 00:00:00',0,'OK','',0,0,0,'0000-00-00 00:00:00',0,1650,'0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00',0,0,'',NULL,'2021-11-21 20:10:46'),(2,'test','*CC67043C7BCFF5EEA5566BD9B1F3C74FD9A5CF5D','1234567','','0000-00-00 00:00:00',0,'OK','',0,0,0,'0000-00-00 00:00:00',0,0,'0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00',0,0,'',NULL,'2021-08-06 11:42:12');
+INSERT INTO `account` VALUES (1,'admin','*CC67043C7BCFF5EEA5566BD9B1F3C74FD9A5CF5D','1234567','','0000-00-00 00:00:00',0,'OK',0,0,0,'0000-00-00 00:00:00',0,1650,'0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00',0,0,'',NULL,'2021-11-21 20:10:46'),(2,'test','*CC67043C7BCFF5EEA5566BD9B1F3C74FD9A5CF5D','1234567','','0000-00-00 00:00:00',0,'OK','',0,0,0,'0000-00-00 00:00:00',0,0,'0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00','0000-00-00 00:00:00',0,0,'',NULL,'2021-08-06 11:42:12');
 /*!40000 ALTER TABLE `account` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -79,7 +79,7 @@ CREATE TABLE `gametime` (
   `LimitDt` datetime DEFAULT '1990-01-01 00:00:00',
   `Scores` int(11) DEFAULT 0,
   PRIMARY KEY (`UserID`)
-) ENGINE=MyISAM DEFAULT CHARSET=euckr COLLATE=euckr_korean_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=euckr COLLATE=euckr_korean_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -111,7 +111,7 @@ CREATE TABLE `gametimeip` (
   PRIMARY KEY (`ipid`),
   UNIQUE KEY `ip_uniq` (`ip`,`startIP`,`endIP`),
   KEY `ip_idx` (`ip`)
-) ENGINE=MyISAM DEFAULT CHARSET=euckr COLLATE=euckr_korean_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=euckr COLLATE=euckr_korean_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -139,7 +139,7 @@ CREATE TABLE `gametimelog` (
   `ip` varchar(15) NOT NULL DEFAULT '000.000.000.000',
   `server` varchar(32) NOT NULL DEFAULT '',
   KEY `login_key` (`login`)
-) ENGINE=MyISAM DEFAULT CHARSET=gb2312 COLLATE=gb2312_chinese_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=gb2312 COLLATE=gb2312_chinese_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -162,7 +162,7 @@ CREATE TABLE `string` (
   `name` varchar(64) NOT NULL DEFAULT '',
   `text` text DEFAULT NULL,
   PRIMARY KEY (`name`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

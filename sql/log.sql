@@ -26,7 +26,7 @@ CREATE TABLE `bootlog` (
   `time` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   `hostname` char(128) NOT NULL DEFAULT 'UNKNOWN',
   `channel` tinyint(1) NOT NULL DEFAULT 0
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -137,7 +137,7 @@ CREATE TABLE `dragon_slay_log` (
   `vnum` int(11) unsigned NOT NULL,
   `start_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
   `end_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00'
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -165,7 +165,7 @@ CREATE TABLE `fish_log` (
   `waiting_time` int(11) NOT NULL DEFAULT 0,
   `success` tinyint(4) NOT NULL DEFAULT 0,
   `size` smallint(6) NOT NULL DEFAULT 0
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -222,7 +222,7 @@ CREATE TABLE `hack_crc_log` (
   `server` char(100) NOT NULL DEFAULT '',
   `why` char(255) NOT NULL DEFAULT '',
   `crc` int(11) NOT NULL DEFAULT 0
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -248,7 +248,7 @@ CREATE TABLE `hack_log` (
   `ip` char(15) NOT NULL DEFAULT '',
   `server` char(100) NOT NULL DEFAULT '',
   `why` char(255) NOT NULL DEFAULT ''
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -274,7 +274,7 @@ CREATE TABLE `hackshield_log` (
   `name` varchar(25) DEFAULT NULL,
   `time` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   `reason` varchar(25) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -301,7 +301,7 @@ CREATE TABLE `levellog` (
   `account_id` int(11) NOT NULL,
   `pid` int(11) NOT NULL,
   PRIMARY KEY (`name`,`level`)
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -395,7 +395,7 @@ CREATE TABLE `loginlog2` (
   `logout_time` datetime DEFAULT NULL,
   `playtime` int(11) NOT NULL DEFAULT 0,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -449,7 +449,7 @@ CREATE TABLE `pcbang_loginlog` (
   PRIMARY KEY (`id`),
   KEY `pid` (`pid`) USING BTREE,
   KEY `pcbang_id` (`pcbang_id`) USING BTREE
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -474,7 +474,7 @@ CREATE TABLE `playercount` (
   `count_yellow` int(11) DEFAULT NULL,
   `count_blue` int(11) DEFAULT NULL,
   `count_total` int(11) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=FIXED;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=FIXED;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -502,7 +502,7 @@ CREATE TABLE `quest_reward_log` (
   `reward_value2` int(11) DEFAULT NULL,
   `time` datetime DEFAULT NULL,
   KEY `player_id` (`player_id`) USING BTREE
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -529,7 +529,7 @@ CREATE TABLE `refinelog` (
   `time` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   `is_success` tinyint(1) NOT NULL DEFAULT 0,
   `setType` set('SOCKET','POWER','ROD','GUILD','SCROLL','HYUNIRON','GOD_SCROLL','MUSIN_SCROLL') DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -554,7 +554,7 @@ CREATE TABLE `shout_log` (
   `empire` tinyint(4) DEFAULT NULL,
   `shout` varchar(350) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci DEFAULT NULL,
   KEY `time_idx` (`time`) USING BTREE
-) ENGINE=MyISAM DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB DEFAULT CHARSET=big5 COLLATE=big5_chinese_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -579,7 +579,7 @@ CREATE TABLE `speed_hack` (
   `x` int(11) DEFAULT NULL,
   `y` int(11) DEFAULT NULL,
   `hack_count` varchar(20) CHARACTER SET big5 COLLATE big5_bin DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=DYNAMIC;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
