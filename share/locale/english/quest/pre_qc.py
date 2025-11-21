@@ -166,8 +166,13 @@ def run(filename):
 	filename = filename.strip("\n")
 	if filename == "":
 		return
-	with open(filename, "r") as fh:
-		lines = fh.readlines()
+	try:
+		with open(filename, "r", encoding='utf-8') as fh:
+			lines = fh.readlines()
+	except UnicodeDecodeError:
+		with open(filename, "r", encoding='latin1') as fh:
+			lines = fh.readlines()
+
 
 	start = MakeParameterTable(lines, parameter_table, keys)
 	if len(keys) == 0:

@@ -24,7 +24,7 @@ DROP TABLE IF EXISTS `gmhost`;
 /*!40101 SET character_set_client = utf8mb4 */;
 CREATE TABLE `gmhost` (
   `mIP` varchar(16) NOT NULL DEFAULT ''
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -52,7 +52,7 @@ CREATE TABLE `gmlist` (
   `mServerIP` varchar(16) NOT NULL DEFAULT 'ALL',
   `mAuthority` enum('IMPLEMENTOR','HIGH_WIZARD','GOD','LOW_WIZARD','PLAYER') DEFAULT 'PLAYER',
   PRIMARY KEY (`mID`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=Aria AUTO_INCREMENT=2 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -76,7 +76,7 @@ CREATE TABLE `locale` (
   `mKey` varchar(255) NOT NULL DEFAULT '',
   `mValue` varchar(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`mKey`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -101,7 +101,7 @@ CREATE TABLE `spam_db` (
   `word` varchar(256) NOT NULL,
   `score` int(11) NOT NULL DEFAULT 10,
   PRIMARY KEY (`word`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+) ENGINE=Aria DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
