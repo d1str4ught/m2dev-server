@@ -31,8 +31,8 @@ def main():
 	if os.name == "nt":
 		print(f"Skipped setting Unix permissions on Windows for: {os.path.basename(path)}.")
 	else:
-	# 777 in octal
-	permission_code = 0o777 
+		# 777 in octal
+		permission_code = 0o777 
 
 	# --- Section 1: Set permissions for files inside /var/db/mysql subdirectories ---
 	print(f"Setting permissions on files within subdirectories of '{DB_ROOT_DIR}'...")

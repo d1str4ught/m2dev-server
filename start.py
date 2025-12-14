@@ -78,7 +78,32 @@ def main():
 		time.sleep(1)
 
 		# Start Channel cores
-		for channel_id, cores in channels.CHANNEL_MAP.items():
+		# 1. Create a dictionary of channel IDs guaranteed to be integers.
+		# This ensures that string keys (e.g., '99') are correctly treated as numbers.
+		int_channel_map = {int(k): v for k, v in channels.CHANNEL_MAP.items()}
+
+		# 2. Determine which channels to start based on user input
+		channels_to_start = set()
+		for channel_id in int_channel_map.keys():
+			
+			# Add any channel that is within the user's limit (e.g., if user_input is 2, add 1 and 2)
+			if user_input and channel_id <= user_input:
+				channels_to_start.add(channel_id)
+				
+			# If there is no user input limit, start ALL channels
+			elif not user_input:
+				channels_to_start.add(channel_id)
+
+		# 3. GUARANTEE Channel 99 is included, regardless of the input limit
+		if 99 in int_channel_map:
+			channels_to_start.add(99)
+
+		# 4. Sort the list to ensure correct startup order (1, 2, ..., 99)
+		final_start_order = sorted(list(channels_to_start))
+
+		# 5. Iterate through the final, clean list
+		for channel_id in final_start_order:
+			cores = int_channel_map[channel_id] # Retrieve cores using the integer ID
 			print_green(f"> Starting CH{channel_id}:")
 			for core_id, maps in cores.items():
 				name = f"channel{channel_id}_core{core_id}"
@@ -92,9 +117,6 @@ def main():
 				)
 				time.sleep(1)
 			print()
-
-			if user_input and channel_id == user_input:
-				break
 
 		print_green("> The server is running!")
 
