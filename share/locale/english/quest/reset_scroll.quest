@@ -1,6 +1,6 @@
 quest reset_scroll begin
     state start begin
-		when 71002.use or 76001.use  begin
+		when 71002.use or 76001.use begin
 			say_title(gameforge.reset_scroll._10_sayTitle)
 
 			say(gameforge.reset_scroll._20_say)
@@ -18,7 +18,7 @@ quest reset_scroll begin
 			end
 
 			char_log(0, "RESET_ALL", "USE_ITEM(71002 or 76001)")
-            
+          
 			item.remove()
 
 			char_log(0, "RESET_ALL", "RESET_STAT_POINTS")
@@ -26,13 +26,16 @@ quest reset_scroll begin
 			char_log(0, "RESET_ALL", "RESET_SKILL_POINTS")
 			pc.clear_skill()
 			pc.set_skill_group(0)
+            		horse.set_level(horse_level)
 			char_log(0, "RESET_ALL", "RESET_END")
+			set_quest_state("skill_group", "run")
+
 		end
 
 		when 71003.use begin
 			say_title(gameforge.reset_scroll._50_sayTitle)
-            say(gameforge.reset_scroll._60_sayReward)
-            wait()
+            		say(gameforge.reset_scroll._60_sayReward)
+            		wait()
 
 			local result = BuildSkillList(pc.get_job(), pc.get_skill_group())
 

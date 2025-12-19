@@ -18,7 +18,7 @@ def stop_pid(pid, name):
 			subprocess.call(["taskkill", "/F", "/PID", str(pid)],
 			stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 		else:
-			os.kill(pid, signal.SIGHUP)
+			os.kill(pid, signal.SIGTERM)
 	except ProcessLookupError:
 		print(f"> Process {pid} ({name}) not found, skipping.")
 	except Exception as e:

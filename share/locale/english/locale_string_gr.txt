@@ -2283,3 +2283,15 @@
 
 "Ή®Α¦ ΐΤ΄Ο΄Ω.";
 "OX-Question: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Φίλοι] Δεν μπορείς να προσθέσεις τον εαυτό σου στην λίστα φίλων σου.";
+
+"[Friends] You are already friends with %s.";
+"[Φίλοι] Είσαι ήδη φίλος με τον %s.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Φίλοι] Έχεις ήδη στείλει αίτημα φιλίας στον %s.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Φίλοι] Ο %s σου έχει στείλει ήδη αίτημα φιλίας.";
