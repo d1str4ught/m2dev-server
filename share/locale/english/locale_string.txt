@@ -1007,16 +1007,16 @@
 "[Group] The target is not a member of your group.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Group] You cannot disband the group while you're in a dungeon.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Group] You cannot kick out a group member while you are in a dungeon.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Group] You have been out kicked of the group.";
+"[Group] You have been kicked out of the group.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Group] You cannot leave a group while you are in a dungeon.";
+"[Group] You cannot leave the group while you are in a dungeon.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Group] You cannot kick out group members.";
@@ -1505,7 +1505,7 @@
 "[Group] %s has joined your group.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Group] %s has joined your Group.";
+"[Group] You have joined %s's group.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "You can't use a private shop now.";
