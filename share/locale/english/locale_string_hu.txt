@@ -1,2285 +1,2285 @@
-"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Minden ember a városba lesz teleportálva hamarosan.";
+"ì ì‹œí›„ í•´ë‹¹ ë§ˆì„ì€  ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Minden ember a vÃ¡rosba lesz teleportÃ¡lva hamarosan.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
-"Nincs ilyen eszköz.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ì•„ì´í…œ ì…ë‹ˆë‹¤";
+"Nincs ilyen eszkÃ¶z.";
 
-"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
-"A doboz hirtelen felrobban! Életerõt (TP) vesztettél.";
+"ìƒìê°€ ê°‘ìê¸° í­ë°œí•˜ì˜€ìŠµë‹ˆë‹¤! ìƒëª…ë ¥ì´ ê°ì†Œí–ˆìŠµë‹ˆë‹¤.";
+"A doboz hirtelen felrobban! Ã‰leterÅ‘t (TP) vesztettÃ©l.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
-"Ha belélegzed a zöld füstöt a dobozból, méreg fog szétáradni testedben.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë…¹ìƒ‰ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ë…ì´ ì˜¨ëª¸ìœ¼ë¡œ í¼ì§‘ë‹ˆë‹¤!";
+"Ha belÃ©legzed a zÃ¶ld fÃ¼stÃ¶t a dobozbÃ³l, mÃ©reg fog szÃ©tÃ¡radni testedben.";
 
-"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
-"Kaptál %s, %d egységet.";
+"%s ì•„ì´í…œ ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤";
+"KaptÃ¡l %s, %d egysÃ©get.";
 
-"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
+"ìƒìì—ì„œ %s ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
 "%s van a dobozban.";
 
-"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
-"Úgy tûnik, ez a kulcs nem a megfelelõ.";
+"ì—´ì‡ ê°€ ë§ì§€ ì•ŠëŠ” ê²ƒ ê°™ë‹¤.";
+"Ãšgy tÅ±nik, ez a kulcs nem a megfelelÅ‘.";
 
-"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
-"Nem kaptál semmit.";
+"ì•„ë¬´ê²ƒë„ ì–»ì„ ìˆ˜ ì—†ì—ˆìŠµë‹ˆë‹¤.";
+"Nem kaptÃ¡l semmit.";
 
-"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nincs nálad elég Yang, hogy ezt a tárgyat használd.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Nincs nÃ¡lad elÃ©g Yang, hogy ezt a tÃ¡rgyat hasznÃ¡ld.";
 
-"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nincs nálad elég Yang, hogy ezt a tárgyat használd.";
+"ì†Œì§€ê¸ˆì´ ë¶€ì¡±í•˜ì—¬ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs nÃ¡lad elÃ©g Yang, hogy ezt a tÃ¡rgyat hasznÃ¡ld.";
 
-"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Csökkentetted készséged szintjét.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦¬ëŠ”ë° ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"CsÃ¶kkentetted kÃ©szsÃ©ged szintjÃ©t.";
 
-"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudod csökkenteni készséged szintjét.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudod csÃ¶kkenteni kÃ©szsÃ©ged szintjÃ©t.";
 
-"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
-"Ez a hatás már aktív.";
+"ì´ë¯¸ íš¨ê³¼ê°€ ê±¸ë ¤ ìˆìŠµë‹ˆë‹¤.";
+"Ez a hatÃ¡s mÃ¡r aktÃ­v.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ezt a tárgyat csak egy internet kávézóban lehet használni.";
+"ì´ ì•„ì´í…œì€ PCë°©ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ezt a tÃ¡rgyat csak egy internet kÃ¡vÃ©zÃ³ban lehet hasznÃ¡lni.";
 
-"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
-"Túl van a határértéken.";
+"ì‚¬ìš© ì œí•œëŸ‰ì„ ì´ˆê³¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"TÃºl van a hatÃ¡rÃ©rtÃ©ken.";
 
-"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
-"Sajnos nincs elég hely a leltáradban.";
+"ìƒí’ˆì„ ë°›ì„ ì¸ë²¤í† ë¦¬ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ë¥¼ ë¹„ì›Œì£¼ì„¸ìš”!";
+"Sajnos nincs elÃ©g hely a leltÃ¡radban.";
 
-"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
-"Használt hold süti vagy mag.";
+"ì›”ë³‘ ë˜ëŠ” ì¢…ì ë¥¼ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤";
+"HasznÃ¡lt hold sÃ¼ti vagy mag.";
 
-"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem hordhatsz Jegygyûrût, ha nem vagy házas.";
+"ê²°í˜¼ ìƒíƒœê°€ ì•„ë‹ˆë©´ ê²°í˜¼ë°˜ì§€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hordhatsz JegygyÅ±rÅ±t, ha nem vagy hÃ¡zas.";
 
-"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Az esemény érzékelõt nem lehet innen irányítani.";
+"ì´ ê³³ì—ì„  ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"Az esemÃ©ny Ã©rzÃ©kelÅ‘t nem lehet innen irÃ¡nyÃ­tani.";
 
-"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ez a tárgy nem abszorbeálható.";
+"ì´ ê°œëŸ‰ì„œë¡œ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a tÃ¡rgy nem abszorbeÃ¡lhatÃ³.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Az esemény érzékelõ a misztikus fénnyel eltûnt.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Az esemÃ©ny Ã©rzÃ©kelÅ‘ a misztikus fÃ©nnyel eltÅ±nt.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Eltûnt az esemény érzékelõ.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"EltÅ±nt az esemÃ©ny Ã©rzÃ©kelÅ‘.";
 
-"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"A Metinkõ iránytû nem mûködik a kazamatákban.";
+"ì´ ê³³ì—ì„œ ì˜ì„ ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"A MetinkÅ‘ irÃ¡nytÅ± nem mÅ±kÃ¶dik a kazamatÃ¡kban.";
 
-"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"A Metinkõ iránytû egy titokzatos fénnyel eltûnt.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A MetinkÅ‘ irÃ¡nytÅ± egy titokzatos fÃ©nnyel eltÅ±nt.";
 
-"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
-"Kaptál: %s - %d";
+"ìƒìì—ì„œ %s ê°€ %d ê°œ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"KaptÃ¡l: %s - %d";
 
-"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"A Metinkõ iránytû eltûnt.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A MetinkÅ‘ irÃ¡nytÅ± eltÅ±nt.";
 
-"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
-"Egy egyszerû kõdarabot találsz a kagylóban.";
+"ì¡°ê°œì—ì„œ ëŒì¡°ê°ì´ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Egy egyszerÅ± kÅ‘darabot talÃ¡lsz a kagylÃ³ban.";
 
-"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"A kagyló eltûnt.";
+"ì¡°ê°œê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A kagylÃ³ eltÅ±nt.";
 
-"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"A kagylóban egy fehér gyöngy van.";
+"ì¡°ê°œì—ì„œ ë°±ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"A kagylÃ³ban egy fehÃ©r gyÃ¶ngy van.";
 
-"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"A kagylóban egy kék gyöngy van.";
+"ì¡°ê°œì—ì„œ ì²­ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"A kagylÃ³ban egy kÃ©k gyÃ¶ngy van.";
 
-"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"A kagylóban egy Vérvörös Gyöngy van.";
+"ì¡°ê°œì—ì„œ í”¼ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"A kagylÃ³ban egy VÃ©rvÃ¶rÃ¶s GyÃ¶ngy van.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
-"Ezt a könyvet nehéz megérteni.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œ ì´í•´í•˜ê¸°ê°€ í˜ë“­ë‹ˆë‹¤.";
+"Ezt a kÃ¶nyvet nehÃ©z megÃ©rteni.";
 
-"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Ez a könyv nem segít neked tovább.";
+"ì´ ì±…ì€ ì•„ë¬´ë¦¬ ë´ë„ ë„ì›€ì´ ë  ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Ez a kÃ¶nyv nem segÃ­t neked tovÃ¡bb.";
 
-"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Legalább 30-as szintre van szükséged a könyv megértéséhez.";
+"ë ˆë²¨ 30ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"LegalÃ¡bb 30-as szintre van szÃ¼ksÃ©ged a kÃ¶nyv megÃ©rtÃ©sÃ©hez.";
 
-"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Legalább 50-es szintre van szükséged a könyv megértéséhez.";
+"ë ˆë²¨ 50ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"LegalÃ¡bb 50-es szintre van szÃ¼ksÃ©ged a kÃ¶nyv megÃ©rtÃ©sÃ©hez.";
 
-"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz további kombót kiképezni.";
+"ì—°ê³„ê¸°ëŠ” ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz tovÃ¡bbi kombÃ³t kikÃ©pezni.";
 
-"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
-"%s megszerezte %s zászlóját.";
+"%s ê¸¸ë“œì˜ ê¹ƒë°œì„ %s ë‹˜ì´ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s megszerezte %s zÃ¡szlÃ³jÃ¡t.";
 
-"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
-"Már megérted ezt a nyelvet.";
+"ì´ë¯¸ ì™„ë²½í•˜ê²Œ ì•Œì•„ë“¤ì„ ìˆ˜ ìˆëŠ” ì–¸ì–´ì´ë‹¤.";
+"MÃ¡r megÃ©rted ezt a nyelvet.";
 
-"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
-"Meg kell növelni szintedet, hogy el tudd olvasni ezt a könyvet.";
+"ì´ ì±…ì„ ì½ìœ¼ë ¤ë©´ ë ˆë²¨ì„ ë” ì˜¬ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Meg kell nÃ¶velni szintedet, hogy el tudd olvasni ezt a kÃ¶nyvet.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Túl nehéz a könyv a tanuláshoz.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œì„œ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TÃºl nehÃ©z a kÃ¶nyv a tanulÃ¡shoz.";
 
-"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ezzel a könyvvel nem tudsz tovább gyakorolni.";
+"ì´ ì±…ìœ¼ë¡œëŠ” ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ezzel a kÃ¶nyvvel nem tudsz tovÃ¡bb gyakorolni.";
 
-"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
-"Az adó %d%%-ra lett beállítva.";
+"ì„¸ê¸ˆì´ %d %ë¡œ ì„¤ì •ë˜ì—ˆìŠµë‹ˆë‹¤";
+"Az adÃ³ %d%%-ra lett beÃ¡llÃ­tva.";
 
-"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
-"Legalább 50-es szintûnek kell lenned a lovas kiképzéshez.";
+"ì•„ì§ ìŠ¹ë§ˆ ìŠ¤í‚¬ì„ ìˆ˜ë ¨í•  ìˆ˜ ìˆëŠ” ë ˆë²¨ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"LegalÃ¡bb 50-es szintÅ±nek kell lenned a lovas kikÃ©pzÃ©shez.";
 
-"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
-"Megúsztad a gonosz lélek átkot az ördögûzõ tekercs segítségével.";
+"ì£¼ì•ˆìˆ ì„œë¥¼ í†µí•´ ì£¼í™”ì…ë§ˆì—ì„œ ë¹ ì ¸ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"MegÃºsztad a gonosz lÃ©lek Ã¡tkot az Ã¶rdÃ¶gÅ±zÅ‘ tekercs segÃ­tsÃ©gÃ©vel.";
 
-"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Nem olvashatsz további lovaglás leírást.";
+"ë” ì´ìƒ ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem olvashatsz tovÃ¡bbi lovaglÃ¡s leÃ­rÃ¡st.";
 
-"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Elolvastad a Lovaglás könyvét, és szereztél egy lovagló pontot.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì–´ ìŠ¹ë§ˆ ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"Elolvastad a LovaglÃ¡s kÃ¶nyvÃ©t, Ã©s szereztÃ©l egy lovaglÃ³ pontot.";
 
-"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
-"Ezt a pontot a lovaglási képességed növelésére használhatod.";
+"ì–»ì€ í¬ì¸íŠ¸ë¡œëŠ” ìŠ¹ë§ˆ ìŠ¤í‚¬ì˜ ë ˆë²¨ì„ ì˜¬ë¦´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ezt a pontot a lovaglÃ¡si kÃ©pessÃ©ged nÃ¶velÃ©sÃ©re hasznÃ¡lhatod.";
 
-"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
-"A %s céh zászlaját ellopta %s játékos.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì˜ ê¹ƒë°œì„ ë¹¼ì•—ì•˜ìŠµë‹ˆë‹¤!";
+"A %s cÃ©h zÃ¡szlajÃ¡t ellopta %s jÃ¡tÃ©kos.";
 
-"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nem értetted a lovaglási leírást.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œ ì´í•´ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nem Ã©rtetted a lovaglÃ¡si leÃ­rÃ¡st.";
 
-"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
-"Szellemed tiszta. Jól tudsz koncentrálni.";
+"ë§ˆìŒì´ ë§‘ì•„ì§€ëŠ”êµ°. ê°€ìŠ´ì„ ì§“ëˆ„ë¥´ë˜ ë¬´ì–¸ê°€ê°€ ì¢€ ê°€ë²¼ì›Œì§„ ëŠë‚Œì´ì•¼.";
+"Szellemed tiszta. JÃ³l tudsz koncentrÃ¡lni.";
 
-"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
-"A rangod ennyi ponttal növekedett: %d";
+"ì„ ì•…ì¹˜ê°€ %d ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A rangod ennyi ponttal nÃ¶vekedett: %d";
 
-"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
-"Jelenlegi frizurádat nem tudod festeni vagy szõkíteni.";
+"í˜„ì¬ í—¤ì–´ìŠ¤íƒ€ì¼ì—ì„œëŠ” ì—¼ìƒ‰ê³¼ íƒˆìƒ‰ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Jelenlegi frizurÃ¡dat nem tudod festeni vagy szÅ‘kÃ­teni.";
 
-"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
-"El kell érned a %d szintet, hogy ismét befesthesd a hajad.";
+"%d ë ˆë²¨ì´ ë˜ì–´ì•¼ ë‹¤ì‹œ ì—¼ìƒ‰í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"El kell Ã©rned a %d szintet, hogy ismÃ©t befesthesd a hajad.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"A tárgyat csak a másik nem képviselõje tudja kinyitni.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A tÃ¡rgyat csak a mÃ¡sik nem kÃ©pviselÅ‘je tudja kinyitni.";
 
-"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Jelenlegi pozíciódból nem tudod kihasználni.";
+"í˜„ì¬ ìœ„ì¹˜ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Jelenlegi pozÃ­ciÃ³dbÃ³l nem tudod kihasznÃ¡lni.";
 
-"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
-"Készen állsz a teleportra, ezért nem tudod használni a Visszaszállító tekercset.";
+"ì´ë™í•  ì¤€ë¹„ê°€ ë˜ì–´ìˆìŒìœ¼ë¡œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"KÃ©szen Ã¡llsz a teleportra, ezÃ©rt nem tudod hasznÃ¡lni a VisszaszÃ¡llÃ­tÃ³ tekercset.";
 
-"¿ø·¡ À§Ä¡·Î º¹±Í";
-"Az eredeti helyszínre leszel visszatéve.";
+"ì›ë˜ ìœ„ì¹˜ë¡œ ë³µê·€";
+"Az eredeti helyszÃ­nre leszel visszatÃ©ve.";
 
-"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%s%s nem használható a kazamatában.";
+"ë˜ì „ ì•ˆì—ì„œëŠ” %s%s ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s%s nem hasznÃ¡lhatÃ³ a kazamatÃ¡ban.";
 
-"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"[Quest] Már megkaptad a jutalmad.";
+"<í€˜ìŠ¤íŠ¸> ì´ì „ì— ê°™ì€ ë³´ìƒì„ ë°›ì€ ì ì´ ìˆì–´ ë‹¤ì‹œ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Quest] MÃ¡r megkaptad a jutalmad.";
 
-"À»";
+"ì„";
 "a";
 
-"¸¦";
+"ë¥¼";
 "a";
 
-"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nincs eltávolítani való kõszilánk.";
+"ì²­ì†Œí•  ì„ì´ ë°•í˜€ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Nincs eltÃ¡volÃ­tani valÃ³ kÅ‘szilÃ¡nk.";
 
-"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"A tárgy javítását nem tudod megváltoztatni.";
+"ì†ì„±ì„ ë³€ê²½í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"A tÃ¡rgy javÃ­tÃ¡sÃ¡t nem tudod megvÃ¡ltoztatni.";
 
-"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
-"Nincs olyan javításod, amit meg tudsz változtatni.";
+"ë³€ê²½í•  ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs olyan javÃ­tÃ¡sod, amit meg tudsz vÃ¡ltoztatni.";
 
-"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
-"Ezt csak %d perccel a javítás után teheted. (%d perc van hátra)";
+"ì†ì„±ì„ ë°”ê¾¼ì§€ %dë¶„ ì´ë‚´ì—ëŠ” ë‹¤ì‹œ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%d ë¶„ ë‚¨ìŒ)";
+"Ezt csak %d perccel a javÃ­tÃ¡s utÃ¡n teheted. (%d perc van hÃ¡tra)";
 
-"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
-"Megváltoztattad a javítást.";
+"ì†ì„±ì„ ë³€ê²½í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"MegvÃ¡ltoztattad a javÃ­tÃ¡st.";
 
-"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"A javítás sikeresen hozzáadódott.";
+"ì†ì„± ì¶”ê°€ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A javÃ­tÃ¡s sikeresen hozzÃ¡adÃ³dott.";
 
-"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nincs hozzáadott fejlesztés.";
+"ì†ì„± ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nincs hozzÃ¡adott fejlesztÃ©s.";
 
-"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A Megáldó márványt kell használnod, hogy további bónuszt adj ehhez a tárgyhoz.";
+"ë”ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A MegÃ¡ldÃ³ mÃ¡rvÃ¡nyt kell hasznÃ¡lnod, hogy tovÃ¡bbi bÃ³nuszt adj ehhez a tÃ¡rgyhoz.";
 
-"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod ezen a területen.";
+"ëŒ€ë ¨ì¥ì—ì„œ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod ezen a terÃ¼leten.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ez a tárgy már nem fejleszthetõ. A bónuszok maximális mennyisége el lett érve.";
+"ë” ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a tÃ¡rgy mÃ¡r nem fejleszthetÅ‘. A bÃ³nuszok maximÃ¡lis mennyisÃ©ge el lett Ã©rve.";
 
-"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
-"A Megáldó márványt csak olyan tárgyon használhatod, amelynek már van 4 bónusza.";
+"ë¨¼ì € ì¬ê°€ë¹„ì„œë¥¼ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€ì‹œì¼œ ì£¼ì„¸ìš”.";
+"A MegÃ¡ldÃ³ mÃ¡rvÃ¡nyt csak olyan tÃ¡rgyon hasznÃ¡lhatod, amelynek mÃ¡r van 4 bÃ³nusza.";
 
-"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
-"A foglalat sikeresen hozzá lett adva.";
+"ì†Œì¼“ì´ ì„±ê³µì ìœ¼ë¡œ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A foglalat sikeresen hozzÃ¡ lett adva.";
 
-"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nem lett foglalat hozzáadva.";
+"ì†Œì¼“ ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nem lett foglalat hozzÃ¡adva.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Ehhez a tárgyhoz nem lehet több foglalatot adni.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì†Œì¼“ì„ ì¶”ê°€í•  ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Ehhez a tÃ¡rgyhoz nem lehet tÃ¶bb foglalatot adni.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Ehhez a tárgyhoz nem adhatsz foglalatot.";
+"ì´ ì•„ì´í…œìœ¼ë¡œ ì†Œì¼“ì„ ì¶”ê°€í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Ehhez a tÃ¡rgyhoz nem adhatsz foglalatot.";
 
-"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Sikeres felszerelés.";
+"ì¥ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Sikeres felszerelÃ©s.";
 
-"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Felszerelés nem sikerült.";
+"ì¥ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"FelszerelÃ©s nem sikerÃ¼lt.";
 
-"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Elõször egy foglalatot kell hozzáadnod, ehhez használj gyémántot.";
+"ë¨¼ì € ë‹¤ì´ì•„ëª¬ë“œë¡œ ì•…ì„¸ì„œë¦¬ì— ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"ElÅ‘szÃ¶r egy foglalatot kell hozzÃ¡adnod, ehhez hasznÃ¡lj gyÃ©mÃ¡ntot.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
-"Ebben a tartozékban nincs foglalat drágakövek számára.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì¥ì°©í•  ì†Œì¼“ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Ebben a tartozÃ©kban nincs foglalat drÃ¡gakÃ¶vek szÃ¡mÃ¡ra.";
 
-"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Akkor teheted meg, ha érzelem maszkot viselsz.";
+"ì—´ì •ì˜ ê°€ë©´ì„ ì°©ìš©ì‹œì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Akkor teheted meg, ha Ã©rzelem maszkot viselsz.";
 
-"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Egy foglalatot kell hozzáadnod, amikor egy gyémántot akarsz használni.";
+"ë‹¤ì´ì•„ëª¬ë“œë¡œ ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Egy foglalatot kell hozzÃ¡adnod, amikor egy gyÃ©mÃ¡ntot akarsz hasznÃ¡lni.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ehhez a tárgyhoz nem adható több drágakõ.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ë³´ì„ì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ehhez a tÃ¡rgyhoz nem adhatÃ³ tÃ¶bb drÃ¡gakÅ‘.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ezeket a tárgyakat nem lehet együtt használni.";
+"ì´ ì•„ì´í…œì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ezeket a tÃ¡rgyakat nem lehet egyÃ¼tt hasznÃ¡lni.";
 
-"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Horgászat közben nem cserélhetsz csalit.";
+"ë‚šì‹œ ì¤‘ì— ë¯¸ë¼ë¥¼ ê°ˆì•„ë¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"HorgÃ¡szat kÃ¶zben nem cserÃ©lhetsz csalit.";
 
-"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
-"Kicseréled a jelenlegi csalit. Az új csali: %s.";
+"ì´ë¯¸ ê½‚í˜€ìˆë˜ ë¯¸ë¼ë¥¼ ë¹¼ê³  %së¥¼ ë¼ì›ë‹ˆë‹¤.";
+"KicserÃ©led a jelenlegi csalit. Az Ãºj csali: %s.";
 
-"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
-"Egy %s lett csaliként a horogra tûzve.";
+"ë‚šì‹œëŒ€ì— %së¥¼ ë¯¸ë¼ë¡œ ë¼ì›ë‹ˆë‹¤.";
+"Egy %s lett csalikÃ©nt a horogra tÅ±zve.";
 
-"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Anyag hiányzik az italok keveréséhez.";
+"ë¬¼ì•½ ì¡°í•©ì„ ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Anyag hiÃ¡nyzik az italok keverÃ©sÃ©hez.";
 
-"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nincs elég anyagod (%s).";
+"ì¬ë£Œ(%s)ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Nincs elÃ©g anyagod (%s).";
 
-"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
-"Nincs elég üres üveged.";
+"ë¹ˆ ë³‘ì´ ëª¨ìë¦…ë‹ˆë‹¤.";
+"Nincs elÃ©g Ã¼res Ã¼veged.";
 
-"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Nem sikerült az ital elõállítása.";
+"ë¬¼ì•½ ì œì¡°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt az ital elÅ‘Ã¡llÃ­tÃ¡sa.";
 
-"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ezt csak nõk tehetik.";
+"ì—¬ìë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ezt csak nÅ‘k tehetik.";
 
-"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz több azonos fajta szellemkövet felerõsíteni.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ë©”í‹´ì„ì€ ì—¬ëŸ¬ê°œ ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz tÃ¶bb azonos fajta szellemkÃ¶vet felerÅ‘sÃ­teni.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ez a szellemkõ nem erõsíthetõ fel erre a fajta tárgyra.";
+"ì´ ë©”í‹´ì„ì€ ì¥ë¹„ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a szellemkÅ‘ nem erÅ‘sÃ­thetÅ‘ fel erre a fajta tÃ¡rgyra.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ezt a szellemkövet nem szerelheted fel fegyverre.";
+"ì´ ë©”í‹´ì„ì€ ë¬´ê¸°ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ezt a szellemkÃ¶vet nem szerelheted fel fegyverre.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Sikeresen felszerelted a szellemkövet.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Sikeresen felszerelted a szellemkÃ¶vet.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A szellemkõ eltört felszerelés közben.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A szellemkÅ‘ eltÃ¶rt felszerelÃ©s kÃ¶zben.";
 
-"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
-"Nincs szabad nyílás";
+"ë¶€ì°©í•  ìˆ˜ ìˆëŠ” ìŠ¬ë¡¯ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs szabad nyÃ­lÃ¡s";
 
-"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Ez a funkció itt és most nem elérhetõ.";
+"ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a funkciÃ³ itt Ã©s most nem elÃ©rhetÅ‘.";
 
-"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Birodalmi csata résztvevõjeként nem használhatod a Visszaszállító tekercset.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ ì°¸ê°€ì¤‘ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Birodalmi csata rÃ©sztvevÅ‘jekÃ©nt nem hasznÃ¡lhatod a VisszaszÃ¡llÃ­tÃ³ tekercset.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A raktár megnyitása után %d másodpercig nem használhatod a Visszaszállító tekercset.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A raktÃ¡r megnyitÃ¡sa utÃ¡n %d mÃ¡sodpercig nem hasznÃ¡lhatod a VisszaszÃ¡llÃ­tÃ³ tekercset.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod a Visszaszállító tekercset, amíg egy másik ablak nyitva van.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod a VisszaszÃ¡llÃ­tÃ³ tekercset, amÃ­g egy mÃ¡sik ablak nyitva van.";
 
-"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
-"Ez a személy nem létezik.";
+"ê·¸ëŸ° ì‚¬ëŒì´ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a szemÃ©ly nem lÃ©tezik.";
 
-"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Kereskedés után nem használhatod a tekercset %d másodpercig.";
+"ì•„ì´í…œ ê°œëŸ‰í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"KereskedÃ©s utÃ¡n nem hasznÃ¡lhatod a tekercset %d mÃ¡sodpercig.";
 
-"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A raktár megnyitása után nem használhatod a Visszaszállító tekercset további %d másodpercig.";
+"ê°œì¸ìƒì  ì‚¬ìš©í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A raktÃ¡r megnyitÃ¡sa utÃ¡n nem hasznÃ¡lhatod a VisszaszÃ¡llÃ­tÃ³ tekercset tovÃ¡bbi %d mÃ¡sodpercig.";
 
-"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod a Visszaszállító tekercset, mivel túl kicsi a távolság.";
+"ì´ë™ ë˜ì–´ì§ˆ ìœ„ì¹˜ì™€ ë„ˆë¬´ ê°€ê¹Œì›Œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod a VisszaszÃ¡llÃ­tÃ³ tekercset, mivel tÃºl kicsi a tÃ¡volsÃ¡g.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Kereskedés után nem használhatsz Visszaszállító tekercset %d másodpercig.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë“±ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"KereskedÃ©s utÃ¡n nem hasznÃ¡lhatsz VisszaszÃ¡llÃ­tÃ³ tekercset %d mÃ¡sodpercig.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nem nyithatod ki a raktárat, amíg más ablak nyitva van.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë³´ë”°ë¦¬,ë¹„ë‹¨ë³´ë”°ë¦¬ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem nyithatod ki a raktÃ¡rat, amÃ­g mÃ¡s ablak nyitva van.";
 
-"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nem dobhatod el ezt a tárgyat.";
+"ë²„ë¦´ ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nem dobhatod el ezt a tÃ¡rgyat.";
 
-"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
-"Az eldobott tárgy 5 perc múlva eltûnik.";
+"ë–¨ì–´ì§„ ì•„ì´í…œì€ 3ë¶„ í›„ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Az eldobott tÃ¡rgy 5 perc mÃºlva eltÅ±nik.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s";
+"ì•„ì´í…œ íšë“: %s";
 "%s kapott";
 
-"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
-"Túl sok tárgyat tartasz magadnál.";
+"ì†Œì§€í•˜ê³  ìˆëŠ” ì•„ì´í…œì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤.";
+"TÃºl sok tÃ¡rgyat tartasz magadnÃ¡l.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
+"ì•„ì´í…œ íšë“: %s ë‹˜ìœ¼ë¡œë¶€í„° %s";
 "%s ezt kapta: %s.";
 
-"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Hamarosan mindenki a városba teleportálódik.";
+"ì ì‹œí›„ ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Hamarosan mindenki a vÃ¡rosba teleportÃ¡lÃ³dik.";
 
-"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
-"Túl közel vagy.";
+"ë„ˆë¬´ ê°€ê¹Œì´ ìˆìŠµë‹ˆë‹¤.";
+"TÃºl kÃ¶zel vagy.";
 
-"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
-"Tárgy kereskedés: %s, %s";
+"ì•„ì´í…œ ì „ë‹¬: %s ë‹˜ì—ê²Œ %s";
+"TÃ¡rgy kereskedÃ©s: %s, %s";
 
-"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem cserélheted le a felszerelt tárgyat, amíg át vagy változtatva.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ì°©ìš©ì¤‘ì¸ ì¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem cserÃ©lheted le a felszerelt tÃ¡rgyat, amÃ­g Ã¡t vagy vÃ¡ltoztatva.";
 
-"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Nyugton kell maradnod a tárgy felszereléséhez.";
+"ê°€ë§Œíˆ ìˆì„ ë•Œë§Œ ì°©ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Nyugton kell maradnod a tÃ¡rgy felszerelÃ©sÃ©hez.";
 
-"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Eleven lovakat nem etethetsz majom növénnyel. Ez halott lovak feltámasztására való.";
+"ì£½ì§€ ì•Šì€ ë§ì—ê²Œ ì„ ì´ˆë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Eleven lovakat nem etethetsz majom nÃ¶vÃ©nnyel. Ez halott lovak feltÃ¡masztÃ¡sÃ¡ra valÃ³.";
 
-"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
+"ì£½ì€ ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Halott lovat nem etethetsz.";
 
-"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Növényekkel etetted a lovat.";
+"ë§ì—ê²Œ ì„ ì´ˆë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"NÃ¶vÃ©nyekkel etetted a lovat.";
 
-"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Megetetted a lovat.";
 
-"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
-"Túl alacsony szinten vagy egy ilyen frizura viseléséhez.";
+"ì•„ì§ ì´ ë¨¸ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ë ˆë²¨ì…ë‹ˆë‹¤.";
+"TÃºl alacsony szinten vagy egy ilyen frizura viselÃ©sÃ©hez.";
 
-"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Már most is ilyen frizurád van.";
+"ë™ì¼í•œ ë¨¸ë¦¬ ìŠ¤íƒ€ì¼ë¡œëŠ” êµì²´í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MÃ¡r most is ilyen frizurÃ¡d van.";
 
-"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
-"Már át vagy változva.";
+"ì´ë¯¸ ë‘”ê°‘ì¤‘ì¸ ìƒíƒœì…ë‹ˆë‹¤.";
+"MÃ¡r Ã¡t vagy vÃ¡ltozva.";
 
-"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
-"Túl közel vagy.";
+"ë„ˆë¬´ ë©€ë¦¬ ìˆìŠµë‹ˆë‹¤";
+"TÃºl kÃ¶zel vagy.";
 
-"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nem megfelelõ átváltoztató tárgy.";
+"ì˜ëª»ëœ ë‘”ê°‘ ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nem megfelelÅ‘ Ã¡tvÃ¡ltoztatÃ³ tÃ¡rgy.";
 
-"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem változhatsz át olyan szörnnyé, aki magasabb szintû nálad.";
+"ë‚˜ë³´ë‹¤ ë„ˆë¬´ ë†’ì€ ë ˆë²¨ì˜ ëª¬ìŠ¤í„°ë¡œëŠ” ë³€ì‹  í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem vÃ¡ltozhatsz Ã¡t olyan szÃ¶rnnyÃ©, aki magasabb szintÅ± nÃ¡lad.";
 
-"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Túl alacsony a szinted ezen tárgy felszereléséhez.";
+"ë ˆë²¨ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TÃºl alacsony a szinted ezen tÃ¡rgy felszerelÃ©sÃ©hez.";
 
-"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem vagy elég erõs, hogy magadra vedd ezt a tárgyat.";
+"ê·¼ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem vagy elÃ©g erÅ‘s, hogy magadra vedd ezt a tÃ¡rgyat.";
 
-"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem elegendõ az intelligenciád ezen tárgy felszereléséhez.";
+"ì§€ëŠ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem elegendÅ‘ az intelligenciÃ¡d ezen tÃ¡rgy felszerelÃ©sÃ©hez.";
 
-"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem elegendõ az ügyességed ezen tárgy felszereléséhez.";
+"ë¯¼ì²©ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem elegendÅ‘ az Ã¼gyessÃ©ged ezen tÃ¡rgy felszerelÃ©sÃ©hez.";
 
-"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem elegendõ az életerõd ezen tárgy felszereléséhez.";
+"ì²´ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem elegendÅ‘ az Ã©leterÅ‘d ezen tÃ¡rgy felszerelÃ©sÃ©hez.";
 
-"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod ezt a tárgyat, mert nem vagy házas.";
+"ê²°í˜¼í•˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ ì˜ˆë¬¼ì„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod ezt a tÃ¡rgyat, mert nem vagy hÃ¡zas.";
 
-"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem szerelheted fel ezt a tárgyat kétszer.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ìœ ë‹ˆí¬ ì•„ì´í…œ ë‘ ê°œë¥¼ ë™ì‹œì— ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem szerelheted fel ezt a tÃ¡rgyat kÃ©tszer.";
 
-"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
-"A %s idõbõl a foglalat eltávolításáig fennmaradó: %d";
+"%s ì—ì„œ ì†Œì¼“ ë¹ ì§ˆë•Œê¹Œì§€ ë‚¨ì€ ì‹œê°„ %d";
+"A %s idÅ‘bÅ‘l a foglalat eltÃ¡volÃ­tÃ¡sÃ¡ig fennmaradÃ³: %d";
 
-"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ezt az akciót csak egy másik nemûvel együtt hajthatod végre.";
+"ì´ì„±ê°„ì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ezt az akciÃ³t csak egy mÃ¡sik nemÅ±vel egyÃ¼tt hajthatod vÃ©gre.";
 
-"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
-"Egy drágakõ eltûnt a(z) %s foglalatából.";
+"%sì— ë°•í˜€ìˆë˜ ë³´ì„ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Egy drÃ¡gakÅ‘ eltÅ±nt a(z) %s foglalatÃ¡bÃ³l.";
 
-"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
-"[Céh] A céhnév érvénytelen.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ì´ë¦„ì´ ì í•©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hnÃ©v Ã©rvÃ©nytelen.";
 
-"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
-"[Céh] Ez a céhnév már foglalt.";
+"<ê¸¸ë“œ> ì´ë¯¸ ê°™ì€ ì´ë¦„ì˜ ê¸¸ë“œê°€ ìˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] Ez a cÃ©hnÃ©v mÃ¡r foglalt.";
 
-"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Nem hozhatsz létre céhet.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem hozhatsz lÃ©tre cÃ©het.";
 
-"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
-"A(z) %s céh háborút hirdetett %s ellen.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì— ì„ ì „í¬ê³ ë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"A(z) %s cÃ©h hÃ¡borÃºt hirdetett %s ellen.";
 
-"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
-"[Céh] %s visszautasította a céhháborút.";
+"<ê¸¸ë“œ> %s ê¸¸ë“œê°€ ê¸¸ë“œì „ì„ ê±°ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] %s visszautasÃ­totta a cÃ©hhÃ¡borÃºt.";
 
-"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
-"A céhháború pillanatokon belül elkezdõdik %s és %s között!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì ì‹œ í›„ ì „ìŸì„ ì‹œì‘í•©ë‹ˆë‹¤!";
+"A cÃ©hhÃ¡borÃº pillanatokon belÃ¼l elkezdÅ‘dik %s Ã©s %s kÃ¶zÃ¶tt!";
 
-"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
-"A céhháború elkezdõdött %s és %s között.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì „ìŸì„ ì‹œì‘í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"A cÃ©hhÃ¡borÃº elkezdÅ‘dÃ¶tt %s Ã©s %s kÃ¶zÃ¶tt.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
-"A céhháború döntetlennel végzõdött %s és %s között.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ë¬´ìŠ¹ë¶€ë¡œ ëë‚¬ìŠµë‹ˆë‹¤.";
+"A cÃ©hhÃ¡borÃº dÃ¶ntetlennel vÃ©gzÅ‘dÃ¶tt %s Ã©s %s kÃ¶zÃ¶tt.";
 
-"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
-"%s megnyerte a céhháborút %s ellen.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì™€ì˜ ì „ìŸì—ì„œ ìŠ¹ë¦¬ í–ˆìŠµë‹ˆë‹¤.";
+"%s megnyerte a cÃ©hhÃ¡borÃºt %s ellen.";
 
-"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
-"Ehhez az akcióhoz szükséged van játékostársad beleegyezésére.";
+"ì´ í–‰ë™ì€ ìƒí˜¸ë™ì˜ í•˜ì— ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Ehhez az akciÃ³hoz szÃ¼ksÃ©ged van jÃ¡tÃ©kostÃ¡rsad beleegyezÃ©sÃ©re.";
 
-"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"[Céh] A céhháború félbeszakadt.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hhÃ¡borÃº fÃ©lbeszakadt.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
-"A céhháború %s és %s között törölve lett.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A cÃ©hhÃ¡borÃº %s Ã©s %s kÃ¶zÃ¶tt tÃ¶rÃ¶lve lett.";
 
-"´İ±â";
-"Bezár";
+"ë‹«ê¸°";
+"BezÃ¡r";
 
-"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Cselekvés visszavonva. Beléptél a harcba.";
+"ì „íˆ¬ê°€ ì‹œì‘ ë˜ì–´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"CselekvÃ©s visszavonva. BelÃ©ptÃ©l a harcba.";
 
-"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
-"Valaki belépett a felhasználó neveddel. Lekapcsolunk a szerverrõl.";
+"ë‹¤ë¥¸ ì»´í“¨í„°ì—ì„œ ë¡œê·¸ì¸ í•˜ì—¬ ì ‘ì†ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤.";
+"Valaki belÃ©pett a felhasznÃ¡lÃ³ neveddel. Lekapcsolunk a szerverrÅ‘l.";
 
-"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Egy misztikus fény jelent meg a fáról.";
+"ë‚˜ë¬´ì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Egy misztikus fÃ©ny jelent meg a fÃ¡rÃ³l.";
 
-"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
-"%d játékidõ lett hozzáadva az eddigiekhez.. (Fizetési szám %d)";
+"%dë¶„ì˜ ê²°ì œì‹œê°„ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. (ê²°ì œë²ˆí˜¸ %d)";
+"%d jÃ¡tÃ©kidÅ‘ lett hozzÃ¡adva az eddigiekhez.. (FizetÃ©si szÃ¡m %d)";
 
-"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"A céhháborúban megfigyelõként részt vehetsz.";
+"ê´€ì „ ëª¨ë“œë¡œ ê¸¸ë“œì „ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"A cÃ©hhÃ¡borÃºban megfigyelÅ‘kÃ©nt rÃ©szt vehetsz.";
 
-"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
-"A karakter kiválasztásánál megjelenik egy ikon.";
+"ìì‹ ì„ ì„ íƒí•˜ì‹œë©´ ë°–ìœ¼ë¡œ ë‚˜ê°ˆ ìˆ˜ ìˆëŠ” <ê´€ëŒ ì¢…ë£Œ> ë²„íŠ¼ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"A karakter kivÃ¡lasztÃ¡sÃ¡nÃ¡l megjelenik egy ikon.";
 
-"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
-"Nincs ellenfél.";
+"ê¸¸ë“œì „ì— ì°¸ê°€í•œ ìƒëŒ€ë°© ê¸¸ë“œì›ì´ ì•„ë¬´ë„ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs ellenfÃ©l.";
 
-"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
-"A harc %s ellen megkezdõdött.";
+"%së‹˜ê³¼ì˜ ëŒ€ê²° ì‹œì‘!";
+"A harc %s ellen megkezdÅ‘dÃ¶tt.";
 
-"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
-"Ha nincs ellenség, automatikusan véget fog érni a céhharc.";
+"1ë¶„ ì´ë‚´ì— ì•„ë¬´ë„ ì ‘ì†í•˜ì§€ ì•Šìœ¼ë©´ ê¸¸ë“œì „ì´ ìë™ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Ha nincs ellensÃ©g, automatikusan vÃ©get fog Ã©rni a cÃ©hharc.";
 
-"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
-"Mivel a céhháború hamarabb befejezõdött, az eredmény döntetlennek számít.";
+"ê¸¸ë“œì „ì´ ì¼ì° ì¢…ë£Œë˜ì–´ ë¬´ìŠ¹ë¶€ë¡œ íŒì • ë˜ì—ˆìŠµë‹ˆë‹¤. (5ë¶„ì´ ì§€ë‚˜ì§€ ì•ŠìŒ)";
+"Mivel a cÃ©hhÃ¡borÃº hamarabb befejezÅ‘dÃ¶tt, az eredmÃ©ny dÃ¶ntetlennek szÃ¡mÃ­t.";
 
-"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
-"A császár áldása miatt visszaverõdik az energia.";
+"êµ°ì£¼ê°€ ë‚´ë¦° ì¶•ë³µìœ¼ë¡œ ëª¨ë“  ì—ë„ˆì§€ê°€ ê°€ë“ ì±„ì›Œì§‘ë‹ˆë‹¤";
+"A csÃ¡szÃ¡r Ã¡ldÃ¡sa miatt visszaverÅ‘dik az energia.";
 
-"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
-"%d másodperc után lehet a császár áldását felhasználni.";
+"%d ì´ˆ í›„ì— êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"%d mÃ¡sodperc utÃ¡n lehet a csÃ¡szÃ¡r Ã¡ldÃ¡sÃ¡t felhasznÃ¡lni.";
 
-"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
-"%d másodperc után lehet a császár áldását felhasználni.";
+"ì¿¨íƒ€ì„ ì ìš©ì¤‘  %d í›„ ì‚¬ìš©ê°€ëŠ¥";
+"%d mÃ¡sodperc utÃ¡n lehet a csÃ¡szÃ¡r Ã¡ldÃ¡sÃ¡t felhasznÃ¡lni.";
 
-"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
-"Nem elég az adóbevétel: %d";
+"êµ­ê³ ì— ìê¸ˆì´ ëª¨ìëë‹ˆë‹¤ êµ­ê³  : %d ";
+"Nem elÃ©g az adÃ³bevÃ©tel: %d";
 
-"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
-"[TEST_ONLY]Adó nagysága: %d";
+"[TEST_ONLY]í˜„ì¬ êµ­ê³  : %d ";
+"[TEST_ONLY]AdÃ³ nagysÃ¡ga: %d";
 
-"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
-"Hiba az átváltozásnál";
+"ë‘”ê°‘ì— ì‹¤íŒ¨ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"Hiba az Ã¡tvÃ¡ltozÃ¡snÃ¡l";
 
-"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
-"Teljesen kitanultad az átváltozást.";
+"ë‘”ê°‘ì„œ ìˆ˜ë ¨ì„ ë§ˆì²¬ìŠµë‹ˆë‹¤. ì‹ ì„ ì—ê²Œ ì°¾ì•„ê°€ì„¸ìš”.";
+"Teljesen kitanultad az Ã¡tvÃ¡ltozÃ¡st.";
 
-"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
-"Elõbb a lovadat hívd kérlek!";
+"ë§ì„ ë¨¼ì € ì†Œí™˜í•´ì£¼ì„¸ìš”.";
+"ElÅ‘bb a lovadat hÃ­vd kÃ©rlek!";
 
-"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
-"Elküldted a lovadat.";
+"ë§ì„ ëŒë ¤ë³´ëƒˆìŠµë‹ˆë‹¤.";
+"ElkÃ¼ldted a lovadat.";
 
-"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
-"%s harcra hívott téged.";
+"%së‹˜ì´ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤. ìŠ¹ë‚™í•˜ë ¤ë©´ ëŒ€ê²°ë™ì˜ë¥¼ í•˜ì„¸ìš”.";
+"%s harcra hÃ­vott tÃ©ged.";
 
-"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
-"Le kell szállnod.";
+"ë§ì—ì„œ ë¨¼ì € ë‚´ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Le kell szÃ¡llnod.";
 
-"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nem etetheted a lovadat amikor rajta ülsz.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œëŠ” ë¨¹ì´ë¥¼ ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem etetheted a lovadat amikor rajta Ã¼lsz.";
 
-"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ %s%s ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Megetetted a lovad %s%s-val.";
 
-"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
-"Szükséged van %s-re.";
+"%s ì•„ì´í…œì´ í•„ìš”í•©ë‹ˆë‹¤";
+"SzÃ¼ksÃ©ged van %s-re.";
 
-"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d másodperc a kilépésig.";
+"ì…§ë‹¤ìš´ì´ %dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d mÃ¡sodperc a kilÃ©pÃ©sig.";
 
-"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
-"%d másodperc múlva vége a játéknak.";
+"%dì´ˆ í›„ ê²Œì„ì´ ì…§ë‹¤ìš´ ë©ë‹ˆë‹¤.";
+"%d mÃ¡sodperc mÃºlva vÃ©ge a jÃ¡tÃ©knak.";
 
-"%dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d másodperc a kilépésig.";
+"%dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d mÃ¡sodperc a kilÃ©pÃ©sig.";
 
-"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"A kijelentkezés félbeszakadt.";
+"ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A kijelentkezÃ©s fÃ©lbeszakadt.";
 
-"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Vissza a bejelentkezõ ablakhoz. Kérlek várj!";
+"ë¡œê·¸ì¸ í™”ë©´ìœ¼ë¡œ ëŒì•„ ê°‘ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Vissza a bejelentkezÅ‘ ablakhoz. KÃ©rlek vÃ¡rj!";
 
-"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Lekapcsolódás a szerverrõl. Kérlek várj!";
+"ê²Œì„ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"LekapcsolÃ³dÃ¡s a szerverrÅ‘l. KÃ©rlek vÃ¡rj!";
 
-"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
-"Harcra hívtad %s-t.";
+"%sì—ê²Œ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"Harcra hÃ­vtad %s-t.";
 
-"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Karaktert cserélsz. Kérlek várj!";
+"ìºë¦­í„°ë¥¼ ì „í™˜ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Karaktert cserÃ©lsz. KÃ©rlek vÃ¡rj!";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
-"Pillanatnyilag nem lehet újrakezdeni. Kérünk, várj %d másodpercet.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%dì´ˆ ë‚¨ìŒ)";
+"Pillanatnyilag nem lehet Ãºjrakezdeni. KÃ©rÃ¼nk, vÃ¡rj %d mÃ¡sodpercet.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
-"Még nem lehet újraindítani. Kérünk, várj további %d másodpercet.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ)";
+"MÃ©g nem lehet ÃºjraindÃ­tani. KÃ©rÃ¼nk, vÃ¡rj tovÃ¡bbi %d mÃ¡sodpercet.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
-"Még nem lehet újraindítani. Kérünk, várj további %d másodpercet.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ )";
+"MÃ©g nem lehet ÃºjraindÃ­tani. KÃ©rÃ¼nk, vÃ¡rj tovÃ¡bbi %d mÃ¡sodpercet.";
 
-"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
-"Még nem tudsz újraindulni a városban. Várj további %d másodpercet.";
+"ì•„ì§ ë§ˆì„ì—ì„œ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%d ì´ˆ ë‚¨ìŒ)";
+"MÃ©g nem tudsz Ãºjraindulni a vÃ¡rosban. VÃ¡rj tovÃ¡bbi %d mÃ¡sodpercet.";
 
-"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
-"Lejárt a várakozási idõ. A városban leszel újraindítva.";
+"ì„±ì§€ì—ì„œ ë¶€í™œ ê¸°íšŒë¥¼ ëª¨ë‘ ìƒì—ˆìŠµë‹ˆë‹¤! ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤!";
+"LejÃ¡rt a vÃ¡rakozÃ¡si idÅ‘. A vÃ¡rosban leszel ÃºjraindÃ­tva.";
 
-"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nem változtathatod meg a státuszod, amíg át vagy változtatva.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ëŠ¥ë ¥ì„ ì˜¬ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem vÃ¡ltoztathatod meg a stÃ¡tuszod, amÃ­g Ã¡t vagy vÃ¡ltoztatva.";
 
-"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
-"A játékos épp párbajozik.";
+"ìƒëŒ€ë°©ì´ ëŒ€ë ¨ì¤‘ì…ë‹ˆë‹¤.";
+"A jÃ¡tÃ©kos Ã©pp pÃ¡rbajozik.";
 
-"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"[Céh] Nem tartozik a céhhez.";
+"<ê¸¸ë“œ> ê¸¸ë“œì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem tartozik a cÃ©hhez.";
 
-"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs jogosultságod a céhképességek megváltoztatására.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ ë ˆë²¨ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs jogosultsÃ¡god a cÃ©hkÃ©pessÃ©gek megvÃ¡ltoztatÃ¡sÃ¡ra.";
 
-"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
-"A kiválasztás hibás.";
+"ì˜ëª»ëœ ì„ íƒì„ í–ˆìŠµë‹ˆë‹¤";
+"A kivÃ¡lasztÃ¡s hibÃ¡s.";
 
-"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
-"[Raktár] Rossz jelszót adtál meg.";
+"<ì°½ê³ > ì˜ëª»ëœ ì•”í˜¸ë¥¼ ì…ë ¥í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] Rossz jelszÃ³t adtÃ¡l meg.";
 
-"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
-"[Raktár] A raktár már nyitva van.";
+"<ì°½ê³ > ì°½ê³ ê°€ ì´ë¯¸ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] A raktÃ¡r mÃ¡r nyitva van.";
 
-"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Raktár] 10 másodpercet kell várnod, mielõtt újra kinyithatod a raktárt.";
+"<ì°½ê³ > ì°½ê³ ë¥¼ ë‹«ì€ì§€ 10ì´ˆ ì•ˆì—ëŠ” ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] 10 mÃ¡sodpercet kell vÃ¡rnod, mielÅ‘tt Ãºjra kinyithatod a raktÃ¡rt.";
 
-"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Raktár] Túl messze vagy a raktártól, hogy kinyisd.";
+"<ì°½ê³ > ê±°ë¦¬ê°€ ë©€ì–´ì„œ ì°½ê³ ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] TÃºl messze vagy a raktÃ¡rtÃ³l, hogy kinyisd.";
 
-"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<íŒŒí‹°> ì„œë²„ ë¬¸ì œë¡œ íŒŒí‹° ê´€ë ¨ ì²˜ë¦¬ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Csoport] A szerver nem tudja feldolgozni a csoport feladatot.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hagyhatsz el csoportot egy kazamatában.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hagyhatsz el csoportot egy kazamatÃ¡ban.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
-"[Csoport] Kiléptél a csoportból.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ë‚˜ê°€ì…¨ìŠµë‹ˆë‹¤.";
+"[Csoport] KilÃ©ptÃ©l a csoportbÃ³l.";
 
-"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
-"[Céh] A céhed már egy másik harcban vesz részt.";
+"<ê¸¸ë“œ> ì´ë¯¸ ë‹¤ë¥¸ ì „ìŸì— ì°¸ì „ ì¤‘ ì…ë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hed mÃ¡r egy mÃ¡sik harcban vesz rÃ©szt.";
 
-"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs joga senkinek a céhharchoz.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì— ëŒ€í•œ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs joga senkinek a cÃ©hharchoz.";
 
-"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs ilyen nevû céh.";
+"<ê¸¸ë“œ> ê·¸ëŸ° ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs ilyen nevÅ± cÃ©h.";
 
-"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
-"Már van egy jelölés.";
+"ì´ë¯¸ ì…í›„ë³´ë˜ì–´ìˆìŠµë‹ˆë‹¤";
+"MÃ¡r van egy jelÃ¶lÃ©s.";
 
-"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Céh] A céh már harcban áll.";
+"ì´ë¯¸ ì„ ì „í¬ê³  ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h mÃ¡r harcban Ã¡ll.";
 
-"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Nincs elég Yang a céhharcban való részvételhez.";
+"<ê¸¸ë“œ> ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs elÃ©g Yang a cÃ©hharcban valÃ³ rÃ©szvÃ©telhez.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céhnek nincs elég Yangja, hogy részt vegyen a céhharcban.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hnek nincs elÃ©g Yangja, hogy rÃ©szt vegyen a cÃ©hharcban.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
-"[Céh] A céh már egy másik háborúban vesz részt.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸì´ ì˜ˆì•½ëœ ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h mÃ¡r egy mÃ¡sik hÃ¡borÃºban vesz rÃ©szt.";
 
-"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
-"[Céh] A céh már háborúban áll.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œê°€ ì´ë¯¸ ì „ìŸ ì¤‘ ì…ë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h mÃ¡r hÃ¡borÃºban Ã¡ll.";
 
-"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
-"[Céh] Legalább %d játékosnak kell részt vennie a céhháborúban.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì„ í•˜ê¸° ìœ„í•´ì„  ìµœì†Œí•œ %dëª…ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.";
+"[CÃ©h] LegalÃ¡bb %d jÃ¡tÃ©kosnak kell rÃ©szt vennie a cÃ©hhÃ¡borÃºban.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céhnek nincs elég pontja ahhoz, hogy részt tudjon venni egy céhháborúban.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hnek nincs elÃ©g pontja ahhoz, hogy rÃ©szt tudjon venni egy cÃ©hhÃ¡borÃºban.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céhnek nincs elég tagja, hogy részt tudjon venni egy céhháborúban.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì› ìˆ˜ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hnek nincs elÃ©g tagja, hogy rÃ©szt tudjon venni egy cÃ©hhÃ¡borÃºban.";
 
-"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"20-nál magasabb szinten kell állnod, hogy mobiltelefonszámod regisztrálni tudd.";
+"ë ˆë²¨ 20 ì´í•˜ëŠ” í•¸ë“œí° ë²ˆí˜¸ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"20-nÃ¡l magasabb szinten kell Ã¡llnod, hogy mobiltelefonszÃ¡mod regisztrÃ¡lni tudd.";
 
-"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
-"Nincs császári kiképzésed.";
+"êµ°ì£¼ì˜ ìê²©ì„ ê°€ì§€ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Nincs csÃ¡szÃ¡ri kikÃ©pzÃ©sed.";
 
-"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
-"%s elutasította a meghívást.";
+"%s ë‹˜ìœ¼ë¡œ ë¶€í„° ì¹œêµ¬ ë“±ë¡ì„ ê±°ë¶€ ë‹¹í–ˆìŠµë‹ˆë‹¤.";
+"%s elutasÃ­totta a meghÃ­vÃ¡st.";
 
-"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem fogadhatod el a meghívást, mivel már a csoportban vagy.";
+"ì´ë¯¸ íŒŒí‹°ì— ì†í•´ ìˆìœ¼ë¯€ë¡œ ê°€ì…ì‹ ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem fogadhatod el a meghÃ­vÃ¡st, mivel mÃ¡r a csoportban vagy.";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Csak a császár használhatja.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©ê°€ëŠ¥ í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Csak a csÃ¡szÃ¡r hasznÃ¡lhatja.";
 
-"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
-"Újrafelhasználási idõ kb. %d másodperc";
+"%d ì´ˆê°„ ì¿¨íƒ€ì„ì´ ì ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"ÃšjrafelhasznÃ¡lÃ¡si idÅ‘ kb. %d mÃ¡sodperc";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
-"Adóhiány. Jelenlegi tõke: %u hiányzó tõke: %u";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤. í˜„ì¬ : %lu í•„ìš”ê¸ˆì•¡ : %lu";
+"AdÃ³hiÃ¡ny. Jelenlegi tÅ‘ke: %u hiÃ¡nyzÃ³ tÅ‘ke: %u";
 
-"»ç¿ë¹ı: warpto <character name>";
-"Rendelés: warpto <character name>";
+"ì‚¬ìš©ë²•: warpto <character name>";
+"RendelÃ©s: warpto <character name>";
 
-"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nem transzportálhatsz egy idegen birodalom játékosához.";
+"íƒ€ì œêµ­ ìœ ì €ì—ê²ŒëŠ” ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nem transzportÃ¡lhatsz egy idegen birodalom jÃ¡tÃ©kosÃ¡hoz.";
 
-"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Játékos hozzáadása a %d csatornára. (Jelenlegi castorna %d)";
+"í•´ë‹¹ ìœ ì €ëŠ” %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"JÃ¡tÃ©kos hozzÃ¡adÃ¡sa a %d csatornÃ¡ra. (Jelenlegi castorna %d)";
 
-"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
-"Transzport a %s játékoshoz.";
+"%s ì—ê²Œë¡œ ì´ë™í•©ë‹ˆë‹¤";
+"Transzport a %s jÃ¡tÃ©koshoz.";
 
-"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nem hívhatsz ismeretlen játékosokat.";
+"íƒ€ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nem hÃ­vhatsz ismeretlen jÃ¡tÃ©kosokat.";
 
-"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] A céhháború ideje alatt nincs tapasztalati pont vadászatkor.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì¤‘ì—ëŠ” ì‚¬ëƒ¥ì— ë”°ë¥¸ ì´ìµì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hhÃ¡borÃº ideje alatt nincs tapasztalati pont vadÃ¡szatkor.";
 
-"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
-"Az %s uralkodó áldásának felhasználásánál a TP és MP helyreállítódik.";
+"êµ°ì£¼ì˜ ì¶•ë³µìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” HP,SPê°€ ëª¨ë‘ ì±„ì›Œì§‘ë‹ˆë‹¤.";
+"Az %s uralkodÃ³ Ã¡ldÃ¡sÃ¡nak felhasznÃ¡lÃ¡sÃ¡nÃ¡l a TP Ã©s MP helyreÃ¡llÃ­tÃ³dik.";
 
-"³ªÀÇ ±ºÁÖ Á¤º¸";
-"A császárom információi";
+"ë‚˜ì˜ êµ°ì£¼ ì •ë³´";
+"A csÃ¡szÃ¡rom informÃ¡ciÃ³i";
 
-"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
+"[%sêµ°ì£¼] : %s  ë³´ìœ ê¸ˆì•¡ %lld ";
 "[%sMonarch] : %s Yanggal rendelkezik %lld";
 
-"[%s±ºÁÖ] : %s  ";
+"[%sêµ°ì£¼] : %s  ";
 "[%sMonarch] : %s";
 
-"±ºÁÖ Á¤º¸";
-"Császár információk";
+"êµ°ì£¼ ì •ë³´";
+"CsÃ¡szÃ¡r informÃ¡ciÃ³k";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
-"Csak császárok használhatják.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©í• ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Csak csÃ¡szÃ¡rok hasznÃ¡lhatjÃ¡k.";
 
-"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
-"Válassz egy számot 1 és 50 között.";
+"1-50 ì‚¬ì´ì˜ ìˆ˜ì¹˜ë¥¼ ì„ íƒí•´ì£¼ì„¸ìš”";
+"VÃ¡lassz egy szÃ¡mot 1 Ã©s 50 kÃ¶zÃ¶tt.";
 
-"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
-"A szörny nem hívható, ellenõrizd a Mob-számot.";
+"ì†Œí™˜í• ìˆ˜ ì—†ëŠ” ëª¬ìŠ¤í„° ì…ë‹ˆë‹¤. ì†Œí™˜ê°€ëŠ¥í•œ ëª¬ìŠ¤í„°ëŠ” í™ˆí˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”";
+"A szÃ¶rny nem hÃ­vhatÃ³, ellenÅ‘rizd a Mob-szÃ¡mot.";
 
-"ÃÖ´ë »ı¸í·Â +%d";
-"Életerõ +%d";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d";
+"Ã‰leterÅ‘ +%d";
 
-"ÃÖ´ë Á¤½Å·Â +%d";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d";
 "Mana pontok +%d";
 
-"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
-"A császári áldás aktív.";
+"êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A csÃ¡szÃ¡ri Ã¡ldÃ¡s aktÃ­v.";
 
-"Ã¼·Â +%d";
-"Kitartás +%d";
+"ì²´ë ¥ +%d";
+"KitartÃ¡s +%d";
 
-"Áö´É +%d";
+"ì§€ëŠ¥ +%d";
 "Intelligencia +%d";
 
-"±Ù·Â +%d";
-"Erõ +%d";
+"ê·¼ë ¥ +%d";
+"ErÅ‘ +%d";
 
-"¹ÎÃ¸ +%d";
-"Ügyesség +%d";
+"ë¯¼ì²© +%d";
+"ÃœgyessÃ©g +%d";
 
-"°ø°İ¼Óµµ +%d";
-"Támadósebesség +%d";
+"ê³µê²©ì†ë„ +%d";
+"TÃ¡madÃ³sebessÃ©g +%d";
 
-"ÀÌµ¿¼Óµµ %d";
-"Mozgási sebesség %d";
+"ì´ë™ì†ë„ %d";
+"MozgÃ¡si sebessÃ©g %d";
 
-"ÄğÅ¸ÀÓ -%d";
-"Várakozási idõ -%d";
+"ì¿¨íƒ€ì„ -%d";
+"VÃ¡rakozÃ¡si idÅ‘ -%d";
 
-"»ı¸í·Â È¸º¹ +%d";
-"Energia visszaszerzés +%d";
+"ìƒëª…ë ¥ íšŒë³µ +%d";
+"Energia visszaszerzÃ©s +%d";
 
-"Á¤½Å·Â È¸º¹ +%d";
-"Mana visszanyerés +%d";
+"ì •ì‹ ë ¥ íšŒë³µ +%d";
+"Mana visszanyerÃ©s +%d";
 
-"µ¶°ø°İ %d";
-"Méreg támadás %d";
+"ë…ê³µê²© %d";
+"MÃ©reg tÃ¡madÃ¡s %d";
 
-"½ºÅÏ +%d";
+"ìŠ¤í„´ +%d";
 "Csillag +%d";
 
-"½½·Î¿ì +%d";
-"Sebesség csökkenés +%d";
+"ìŠ¬ë¡œìš° +%d";
+"SebessÃ©g csÃ¶kkenÃ©s +%d";
 
-"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
-"Kritikus támadás %d%% eséllyel.";
+"%d%% í™•ë¥ ë¡œ ì¹˜ëª…íƒ€ ê³µê²©";
+"Kritikus tÃ¡madÃ¡s %d%% esÃ©llyel.";
 
-"%d%% È®·ü·Î °üÅë °ø°İ";
-"Átható támadás %d%% eséllyel.";
+"%d%% í™•ë¥ ë¡œ ê´€í†µ ê³µê²©";
+"ÃthatÃ³ tÃ¡madÃ¡s %d%% esÃ©llyel.";
 
-"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"A játékos szörnyekkel szembeni támadóereje +%d%%";
+"ì¸ê°„ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"A jÃ¡tÃ©kos szÃ¶rnyekkel szembeni tÃ¡madÃ³ereje +%d%%";
 
-"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"A ló szörnyekkel szembeni támadóereje +%d%%";
+"ë™ë¬¼ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"A lÃ³ szÃ¶rnyekkel szembeni tÃ¡madÃ³ereje +%d%%";
 
-"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
-"Támadó erõsítés Wonggui-val szemben +%d%%";
+"ì›…ê·€ì¡± íƒ€ê²©ì¹˜ +%d%%";
+"TÃ¡madÃ³ erÅ‘sÃ­tÃ©s Wonggui-val szemben +%d%%";
 
-"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
-"Támadás erõsítés Milgyo-val szemben + %d%%";
+"ë°€êµë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"TÃ¡madÃ¡s erÅ‘sÃ­tÃ©s Milgyo-val szemben + %d%%";
 
-"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
-"Élõholtak elleni támadás növelése + %d%%";
+"ì‹œì²´ë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"Ã‰lÅ‘holtak elleni tÃ¡madÃ¡s nÃ¶velÃ©se + %d%%";
 
-"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
-"Ördög elleni támadás növelése + %d%%";
+"ì•…ë§ˆë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"Ã–rdÃ¶g elleni tÃ¡madÃ¡s nÃ¶velÃ©se + %d%%";
 
-"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Sa-Za-Hu uralkodó által %s játékosnak ezen a területen 3 percen keresztül 10%%-kal nõ a támadó ererje.";
+"êµ°ì£¼ì˜ ì‚¬ìí›„ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ê³µê²©ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Sa-Za-Hu uralkodÃ³ Ã¡ltal %s jÃ¡tÃ©kosnak ezen a terÃ¼leten 3 percen keresztÃ¼l 10%%-kal nÅ‘ a tÃ¡madÃ³ ererje.";
 
-"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
-"Energia elnyelõdés %d%% támadásnál.";
+"íƒ€ê²©ì¹˜ %d%% ë¥¼ ìƒëª…ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"Energia elnyelÅ‘dÃ©s %d%% tÃ¡madÃ¡snÃ¡l.";
 
-"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
-"Mana elnyelõdés %d%% támadásnál.";
+"íƒ€ë ¥ì¹˜ %d%% ë¥¼ ì •ì‹ ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"Mana elnyelÅ‘dÃ©s %d%% tÃ¡madÃ¡snÃ¡l.";
 
-"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
-"%d%% valószínûséggel lesz Mana elvéve az ellenségtõl.";
+"%d%% í™•ë¥ ë¡œ íƒ€ê²©ì‹œ ìƒëŒ€ ì „ì‹ ë ¥ ì†Œëª¨";
+"%d%% valÃ³szÃ­nÅ±sÃ©ggel lesz Mana elvÃ©ve az ellensÃ©gtÅ‘l.";
 
-"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
-"Mana elnyelõdés %d%% eséllyel.";
+"%d%% í™•ë¥ ë¡œ í”¼í•´ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Mana elnyelÅ‘dÃ©s %d%% esÃ©llyel.";
 
-"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
-"%d%% esély közelharci támadás blokkolására.";
+"ë¬¼ë¦¬íƒ€ê²©ì‹œ ë¸”ëŸ­ í™•ë¥  %d%%";
+"%d%% esÃ©ly kÃ¶zelharci tÃ¡madÃ¡s blokkolÃ¡sÃ¡ra.";
 
-"È° °ø°İ È¸ÇÇ È®·ü %d%%";
-"%d%% esély távolsági támadás blokkolására.";
+"í™œ ê³µê²© íšŒí”¼ í™•ë¥  %d%%";
+"%d%% esÃ©ly tÃ¡volsÃ¡gi tÃ¡madÃ¡s blokkolÃ¡sÃ¡ra.";
 
-"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
-"Egykezes kard védelem %d%%";
+"í•œì†ê²€ ë°©ì–´ %d%%";
+"Egykezes kard vÃ©delem %d%%";
 
-"¾ç¼Õ°Ë ¹æ¾î %d%%";
-"Kétkezes kard védelem %d%%";
+"ì–‘ì†ê²€ ë°©ì–´ %d%%";
+"KÃ©tkezes kard vÃ©delem %d%%";
 
-"µÎ¼Õ°Ë ¹æ¾î %d%%";
-"Kétkezes kard védelem %d%%";
+"ë‘ì†ê²€ ë°©ì–´ %d%%";
+"KÃ©tkezes kard vÃ©delem %d%%";
 
-"¹æ¿ï ¹æ¾î %d%%";
-"Harang védelem %d%%";
+"ë°©ìš¸ ë°©ì–´ %d%%";
+"Harang vÃ©delem %d%%";
 
-"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Geum-Gang-Gwon uralkodó által a %s játékoshoz ezen a területen 3 percen át 10 %%  felszerelés adódik.";
+"êµ°ì£¼ì˜ ê¸ˆê°•ê¶Œ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ë°©ì–´ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Geum-Gang-Gwon uralkodÃ³ Ã¡ltal a %s jÃ¡tÃ©koshoz ezen a terÃ¼leten 3 percen Ã¡t 10 %%  felszerelÃ©s adÃ³dik.";
 
-"ºÎÃ¤ ¹æ¾î %d%%";
-"Legyezõ védelem %d%%";
+"ë¶€ì±„ ë°©ì–´ %d%%";
+"LegyezÅ‘ vÃ©delem %d%%";
 
-"È°°ø°İ ÀúÇ× %d%%";
-"Táv támadás ellenállás %d%%";
+"í™œê³µê²© ì €í•­ %d%%";
+"TÃ¡v tÃ¡madÃ¡s ellenÃ¡llÃ¡s %d%%";
 
-"È­¿° ÀúÇ× %d%%";
-"Tûz ellenállás %d%%";
+"í™”ì—¼ ì €í•­ %d%%";
+"TÅ±z ellenÃ¡llÃ¡s %d%%";
 
-"Àü±â ÀúÇ× %d%%";
-"Villám ellenállás %d%%";
+"ì „ê¸° ì €í•­ %d%%";
+"VillÃ¡m ellenÃ¡llÃ¡s %d%%";
 
-"¸¶¹ı ÀúÇ× %d%%";
-"Mágia ellenállás %d%%";
+"ë§ˆë²• ì €í•­ %d%%";
+"MÃ¡gia ellenÃ¡llÃ¡s %d%%";
 
-"¹Ù¶÷ ÀúÇ× %d%%";
-"Szél ellenállás %d%%";
+"ë°”ëŒ ì €í•­ %d%%";
+"SzÃ©l ellenÃ¡llÃ¡s %d%%";
 
-"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
-"Közvetlen támadás visszaverése: %d%%";
+"ì§ì ‘ íƒ€ê²©ì¹˜ ë°˜ì‚¬ í™•ë¥  : %d%%";
+"KÃ¶zvetlen tÃ¡madÃ¡s visszaverÃ©se: %d%%";
 
-"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
-"Átok visszaverés: %d%%";
+"ì €ì£¼ ë˜ëŒë¦¬ê¸° í™•ë¥  %d%%";
+"Ãtok visszaverÃ©s: %d%%";
 
-"µ¶ ÀúÇ× %d%%";
-"Méreg ellenállás %d%%";
+"ë… ì €í•­ %d%%";
+"MÃ©reg ellenÃ¡llÃ¡s %d%%";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
-"Mana emelkedés %d%%-kal az ellenség feletti gyõzelemnél.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Mana emelkedÃ©s %d%%-kal az ellensÃ©g feletti gyÅ‘zelemnÃ©l.";
 
-"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
-"Az esemény már zajlik (Flag: %d)";
+"OX ì´ë²¤íŠ¸ê°€ ì´ë¯¸ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤(flag: %d)";
+"Az esemÃ©ny mÃ¡r zajlik (Flag: %d)";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
-"Tapasztalat növekedés %d%%-kal az ellenség feletti gyõzelemnél.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ê²½í—˜ì¹˜ ì¶”ê°€ ìƒìŠ¹";
+"Tapasztalat nÃ¶vekedÃ©s %d%%-kal az ellensÃ©g feletti gyÅ‘zelemnÃ©l.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
-"A zsákmányolt Yang növekedése %d%%-kal az ellenség feletti gyõzelemnél.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ëˆ 2ë°° ë“œë¡­";
+"A zsÃ¡kmÃ¡nyolt Yang nÃ¶vekedÃ©se %d%%-kal az ellensÃ©g feletti gyÅ‘zelemnÃ©l.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
-"A zsákmányolt tárgyak növekedése %d%%-kal az ellenség feletti gyõzelemnél.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì•„ì´í…œ 2ë°° ë“œë¡­";
+"A zsÃ¡kmÃ¡nyolt tÃ¡rgyak nÃ¶vekedÃ©se %d%%-kal az ellensÃ©g feletti gyÅ‘zelemnÃ©l.";
 
-"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
-"A teljesítmény növekedése %d%%-kal az ital által.";
+"ë¬¼ì•½ ì‚¬ìš©ì‹œ %d%% ì„±ëŠ¥ ì¦ê°€";
+"A teljesÃ­tmÃ©ny nÃ¶vekedÃ©se %d%%-kal az ital Ã¡ltal.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
-"%d%% esély az életerõ feltöltésére egy gyõzelem után.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ìƒëª…ë ¥ íšŒë³µ";
+"%d%% esÃ©ly az Ã©leterÅ‘ feltÃ¶ltÃ©sÃ©re egy gyÅ‘zelem utÃ¡n.";
 
-"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
-"Nincs szédülés %d%%";
+"ê¸°ì ˆí•˜ì§€ ì•ŠìŒ %d%%";
+"Nincs szÃ©dÃ¼lÃ©s %d%%";
 
-"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
-"Nincs lelassulás %d%%";
+"ëŠë ¤ì§€ì§€ ì•ŠìŒ %d%%";
+"Nincs lelassulÃ¡s %d%%";
 
-"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
-"Nincs leesés %d%%";
+"ë„˜ì–´ì§€ì§€ ì•ŠìŒ %d%%";
+"Nincs leesÃ©s %d%%";
 
-"°ø°İ·Â +%d";
-"Támadóerõ + %d";
+"ê³µê²©ë ¥ +%d";
+"TÃ¡madÃ³erÅ‘ + %d";
 
-"¹æ¾î·Â +%d";
-"Felszerelés + %d";
+"ë°©ì–´ë ¥ +%d";
+"FelszerelÃ©s + %d";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
-"OX Quiz Script nem tölthetõ be.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì‹¤íŒ¨";
+"OX Quiz Script nem tÃ¶lthetÅ‘ be.";
 
-"¸¶¹ı °ø°İ·Â +%d";
-"Mágikus támadás + %d";
+"ë§ˆë²• ê³µê²©ë ¥ +%d";
+"MÃ¡gikus tÃ¡madÃ¡s + %d";
 
-"¸¶¹ı ¹æ¾î·Â +%d";
-"Mágikus védelem + %d";
+"ë§ˆë²• ë°©ì–´ë ¥ +%d";
+"MÃ¡gikus vÃ©delem + %d";
 
-"ÃÖ´ë Áö±¸·Â +%d";
-"Maximális kitartás + %d";
+"ìµœëŒ€ ì§€êµ¬ë ¥ +%d";
+"MaximÃ¡lis kitartÃ¡s + %d";
 
-"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
-"Harcosok elleni erõ + %d%%";
+"ë¬´ì‚¬ì—ê²Œ ê°•í•¨ +%d%%";
+"Harcosok elleni erÅ‘ + %d%%";
 
-"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
-"Nindzsák elleni erõ + %d%%";
+"ìê°ì—ê²Œ ê°•í•¨ +%d%%";
+"NindzsÃ¡k elleni erÅ‘ + %d%%";
 
-"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
-"Surák elleni erõ + %d%%";
+"ìˆ˜ë¼ì—ê²Œ ê°•í•¨ +%d%%";
+"SurÃ¡k elleni erÅ‘ + %d%%";
 
-"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
-"Sámánok elleni erõ + %d%%";
+"ë¬´ë‹¹ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ¡mÃ¡nok elleni erÅ‘ + %d%%";
 
-"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
-"Szörnyek elleni erõ + %d%%";
+"ëª¬ìŠ¤í„°ì—ê²Œ ê°•í•¨ +%d%%";
+"SzÃ¶rnyek elleni erÅ‘ + %d%%";
 
-"°ø°İ·Â +%d%%";
-"Támadás + %d%%";
+"ê³µê²©ë ¥ +%d%%";
+"TÃ¡madÃ¡s + %d%%";
 
-"¹æ¾î·Â +%d%%";
-"Védekezés + %d%%";
+"ë°©ì–´ë ¥ +%d%%";
+"VÃ©dekezÃ©s + %d%%";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
-"OX Quiz Script betöltõdött.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì„±ê³µ";
+"OX Quiz Script betÃ¶ltÅ‘dÃ¶tt.";
 
-"°æÇèÄ¡ %d%%";
+"ê²½í—˜ì¹˜ %d%%";
 "Tapasztalat %d%%";
 
-"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
-"Esély egy tárgy találására %. 1f";
+"ì•„ì´í…œ ë“œë¡­ìœ¨ %.1fë°°";
+"EsÃ©ly egy tÃ¡rgy talÃ¡lÃ¡sÃ¡ra %. 1f";
 
-"µ· µå·ÓÀ² %.1f¹è";
-"Esély Yang találására %. 1f";
+"ëˆ ë“œë¡­ìœ¨ %.1fë°°";
+"EsÃ©ly Yang talÃ¡lÃ¡sÃ¡ra %. 1f";
 
-"ÃÖ´ë »ı¸í·Â +%d%%";
-"Maximális élet +%d%%";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d%%";
+"MaximÃ¡lis Ã©let +%d%%";
 
-"ÃÖ´ë Á¤½Å·Â +%d%%";
-"Maximális élet +%d%%";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d%%";
+"MaximÃ¡lis Ã©let +%d%%";
 
-"½ºÅ³ µ¥¹ÌÁö %d%%";
-"Képesség romlás %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ %d%%";
+"KÃ©pessÃ©g romlÃ¡s %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö %d%%";
-"Ütés romlás %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ %d%%";
+"ÃœtÃ©s romlÃ¡s %d%%";
 
-"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Ellenállás képességromlás ellen %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"EllenÃ¡llÃ¡s kÃ©pessÃ©gromlÃ¡s ellen %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Ellenállás ütéssel szemben %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"EllenÃ¡llÃ¡s Ã¼tÃ©ssel szemben %d%%";
 
-"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% ellenállás harcos támadással szemben";
+"ë¬´ì‚¬ê³µê²©ì— %d%% ì €í•­";
+"%d%% ellenÃ¡llÃ¡s harcos tÃ¡madÃ¡ssal szemben";
 
-"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
-"Üdvözlünk a Metin2-ben!";
+"ì•ˆë…•í•˜ì„¸ìš”. ë©”í‹´2 ì…ë‹ˆë‹¤.";
+"ÃœdvÃ¶zlÃ¼nk a Metin2-ben!";
 
-"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% ellenállás nindzsa támadással szemben";
+"ìê°ê³µê²©ì— %d%% ì €í•­";
+"%d%% ellenÃ¡llÃ¡s nindzsa tÃ¡madÃ¡ssal szemben";
 
-"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% ellenállás Sura támadással szemben";
+"ìˆ˜ë¼ê³µê²©ì— %d%% ì €í•­";
+"%d%% ellenÃ¡llÃ¡s Sura tÃ¡madÃ¡ssal szemben";
 
-"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% ellenállás sámán támadással szemben";
+"ë¬´ë‹¹ê³µê²©ì— %d%% ì €í•­";
+"%d%% ellenÃ¡llÃ¡s sÃ¡mÃ¡n tÃ¡madÃ¡ssal szemben";
 
-" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+" (ë§Œë£Œì¼ : %dë…„ %dì›” %dì¼)";
 "(Folyamat: %d j- %d m - %d t)";
 
-"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
-"A csetelésed le van tiltva.";
+"ì±„íŒ… ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤.";
+"A csetelÃ©sed le van tiltva.";
 
-"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
-"Magasabb szintûnek kell lenned, hogy hívni tudj.";
+"ì™¸ì¹˜ê¸°ëŠ” ìœ ë£ŒíšŒì›ë§Œ ì‚¬ìš©í• ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Magasabb szintÅ±nek kell lenned, hogy hÃ­vni tudj.";
 
-"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
-"Legalább %d szintûnek kell lenned, hogy hívni tudj.";
+"ì™¸ì¹˜ê¸°ëŠ” ë ˆë²¨ %d ì´ìƒë§Œ ì‚¬ìš© ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"LegalÃ¡bb %d szintÅ±nek kell lenned, hogy hÃ­vni tudj.";
 
-"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"íŒŒí‹° ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
 "Nem vagy a csoportban.";
 
-"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nem léptél be a céhbe.";
+"ê¸¸ë“œì— ê°€ì…í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nem lÃ©ptÃ©l be a cÃ©hbe.";
 
-"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"A játékos elutasította a kérésed, hogy hozzáadd a barátlistádhoz.";
+"ìƒëŒ€ë°©ì´ ë©”ì‹ ì ¸ ì¶”ê°€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"A jÃ¡tÃ©kos elutasÃ­totta a kÃ©rÃ©sed, hogy hozzÃ¡add a barÃ¡tlistÃ¡dhoz.";
 
-"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"OX Esemény elkezdõdött.";
+"OX ì´ë²¤íŠ¸ê°€ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"OX EsemÃ©ny elkezdÅ‘dÃ¶tt.";
 
-"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Barátok] Nem adhatsz GM-et a listádhoz.";
+"<ë©”ì‹ ì ¸> ìš´ì˜ìëŠ” ë©”ì‹ ì ¸ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[BarÃ¡tok] Nem adhatsz GM-et a listÃ¡dhoz.";
 
-"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
+"%s ë‹˜ì€ ì ‘ì†ë˜ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "%s nem online.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
-"Kereskedés után %d másodpercet kell várnod, hogy boltot nyithass.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì— ì°½ê³ ë¥¼ ì—´ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"KereskedÃ©s utÃ¡n %d mÃ¡sodpercet kell vÃ¡rnod, hogy boltot nyithass.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"%d másodperc múlva tudsz ismét kereskedni.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%d mÃ¡sodperc mÃºlva tudsz ismÃ©t kereskedni.";
 
-"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Több mint 2 milliárd Yangod van. Nem tudsz kereskedni.";
+"ì•¡ìˆ˜ê°€ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"TÃ¶bb mint 2 milliÃ¡rd Yangod van. Nem tudsz kereskedni.";
 
-"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nem nyithatsz magánboltot, amíg meg van nyitva egy másik ablak.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘ì¼ê²½ìš° ê°œì¸ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nem nyithatsz magÃ¡nboltot, amÃ­g meg van nyitva egy mÃ¡sik ablak.";
 
-"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"A játékos több mint 2 milliárd Yanggal rendelkezik. Nem kereskedhetsz vele.";
+"ìƒëŒ€ë°©ì˜ ì´ê¸ˆì•¡ì´ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"A jÃ¡tÃ©kos tÃ¶bb mint 2 milliÃ¡rd Yanggal rendelkezik. Nem kereskedhetsz vele.";
 
-"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"[Raktár] Mozgás nem lehetséges.";
+"<ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"[RaktÃ¡r] MozgÃ¡s nem lehetsÃ©ges.";
 
-"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
-"[Raktár] A tárgy nem raktározható.";
+"<ì°½ê³ > ì´ ì•„ì´í…œì€ ë„£ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] A tÃ¡rgy nem raktÃ¡rozhatÃ³.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] A játékos aki meghívott, nem online.";
+"<íŒŒí‹°> íŒŒí‹°ìš”ì²­ì„ í•œ ìºë¦­í„°ë¥¼ ì°¾ì„ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] A jÃ¡tÃ©kos aki meghÃ­vott, nem online.";
 
-"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
-"Uriel engedélyével a belépés megengedett.";
+"ì„ë‘ì§€ë¥¼ í†µí•˜ì—¬ ì…ì¥ ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Uriel engedÃ©lyÃ©vel a belÃ©pÃ©s megengedett.";
 
-"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Csoport] Csak a csoportvezetõ változtathatja meg.";
+"<íŒŒí‹°> ë¦¬ë”ë§Œ ë³€ê²½í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Csoport] Csak a csoportvezetÅ‘ vÃ¡ltoztathatja meg.";
 
-"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Csoport] A cél nem tagja a csoportodnak.";
+"<íŒŒí‹°> ìƒíƒœë¥¼ ë³€ê²½í•˜ë ¤ëŠ” ì‚¬ëŒì´ íŒŒí‹°ì›ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Csoport] A cÃ©l nem tagja a csoportodnak.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Egy kazamatában nem zárhatsz ki játékost.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Egy kazamatÃ¡ban nem zÃ¡rhatsz ki jÃ¡tÃ©kost.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Kazamatában nem zárhatsz ki játékost.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ì›ì„ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] KazamatÃ¡ban nem zÃ¡rhatsz ki jÃ¡tÃ©kost.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
-"[Csoport] Kizártak a csoportból.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ì¶”ë°©ë‹¹í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Csoport] KizÃ¡rtak a csoportbÃ³l.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Kazamatában nem hagyhatsz el csoportot.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ë¥¼ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] KazamatÃ¡ban nem hagyhatsz el csoportot.";
 
-"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem zárhatod ki csoporttársadat.";
+"<íŒŒí‹°> ë‹¤ë¥¸ íŒŒí‹°ì›ì„ íƒˆí‡´ì‹œí‚¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem zÃ¡rhatod ki csoporttÃ¡rsadat.";
 
-"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céh feloszlatása után %d napig nem csinálhatsz újat.";
+"<ê¸¸ë“œ> í•´ì‚°í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h feloszlatÃ¡sa utÃ¡n %d napig nem csinÃ¡lhatsz Ãºjat.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céh elhagyása után %d napig nem csinálhatsz újat.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h elhagyÃ¡sa utÃ¡n %d napig nem csinÃ¡lhatsz Ãºjat.";
 
-"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
-"A céh neve érvénytelen.";
+"ì í•©í•˜ì§€ ì•Šì€ ê¸¸ë“œ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"A cÃ©h neve Ã©rvÃ©nytelen.";
 
-"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
-"Sok játékos részvételét kérjük.";
+"ë§ì€ ì°¸ì—¬ ë¶€íƒë“œë¦½ë‹ˆë‹¤.";
+"Sok jÃ¡tÃ©kos rÃ©szvÃ©telÃ©t kÃ©rjÃ¼k.";
 
-"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
-"[Céh] [%s] létre lett hozva.";
+"<ê¸¸ë“œ> [%s] ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] [%s] lÃ©tre lett hozva.";
 
-"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Céh] Céh létrehozása nem sikerült.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìƒì„±ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] CÃ©h lÃ©trehozÃ¡sa nem sikerÃ¼lt.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Csoport] A csoport képességei csak a csoportvezetõ rendelkezésére állnak.";
+"<íŒŒí‹°> íŒŒí‹° ê¸°ìˆ ì€ íŒŒí‹°ì¥ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Csoport] A csoport kÃ©pessÃ©gei csak a csoportvezetÅ‘ rendelkezÃ©sÃ©re Ã¡llnak.";
 
-"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem lett megtalálva a cél.";
+"<íŒŒí‹°> ì†Œí™˜í•˜ë ¤ëŠ” ëŒ€ìƒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem lett megtalÃ¡lva a cÃ©l.";
 
-"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
-"[Céh] Nem megfelelõ Yang mennyiség.";
+"<ê¸¸ë“œ> ì˜ëª»ëœ ê¸ˆì•¡ì…ë‹ˆë‹¤.";
+"[CÃ©h] Nem megfelelÅ‘ Yang mennyisÃ©g.";
 
-"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Céh] Nincs nálad elég Yang.";
+"<ê¸¸ë“œ> ê°€ì§€ê³  ìˆëŠ” ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[CÃ©h] Nincs nÃ¡lad elÃ©g Yang.";
 
-"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A keresett ember nem található.";
+"<ê¸¸ë“œ> ê·¸ëŸ¬í•œ ì‚¬ëŒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A keresett ember nem talÃ¡lhatÃ³.";
 
-"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
-"[Céh] A személy nem uganahhoz a céhhez tartozik.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê°™ì€ ê¸¸ë“œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[CÃ©h] A szemÃ©ly nem uganahhoz a cÃ©hhez tartozik.";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs felhatalmazásod céhtagok elküldésére.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œí‚¬ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs felhatalmazÃ¡sod cÃ©htagok elkÃ¼ldÃ©sÃ©re.";
 
-"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Céh] %s céhtagot kizárták a céhbõl.";
+"<ê¸¸ë“œ> ê¸¸ë“œì› %s ë‹˜ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[CÃ©h] %s cÃ©htagot kizÃ¡rtÃ¡k a cÃ©hbÅ‘l.";
 
-"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
-"OX Az esemény még nem fejezõdött be. Hiba történt. (flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ë‹«íˆì§€ ì•Šì•˜ê±°ë‚˜, í€´ì¦ˆ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(flag: %d)";
+"OX Az esemÃ©ny mÃ©g nem fejezÅ‘dÃ¶tt be. Hiba tÃ¶rtÃ©nt. (flag: %d)";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Céh] Elküldtél egy céhtagot.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[CÃ©h] ElkÃ¼ldtÃ©l egy cÃ©htagot.";
 
-"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs jogosultságod a rangneved megváltoztatására.";
+"<ê¸¸ë“œ> ì§ìœ„ ì´ë¦„ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs jogosultsÃ¡god a rangneved megvÃ¡ltoztatÃ¡sÃ¡ra.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céh vezetõ jogai nem változtathatók meg";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ ì´ë¦„ì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h vezetÅ‘ jogai nem vÃ¡ltoztathatÃ³k meg";
 
-"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
-"[Céh] A rangnév érvénytelen.";
+"<ê¸¸ë“œ> ì í•©í•˜ì§€ ì•Šì€ ì§ìœ„ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"[CÃ©h] A rangnÃ©v Ã©rvÃ©nytelen.";
 
-"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs jogosultságod a hatalmi pozíciód megváltoztatására.";
+"<ê¸¸ë“œ> ì§ìœ„ ê¶Œí•œì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs jogosultsÃ¡god a hatalmi pozÃ­ciÃ³d megvÃ¡ltoztatÃ¡sÃ¡ra.";
 
-"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céh vezetõjének a jogai nem változtathatók meg.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ê¶Œí•œì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h vezetÅ‘jÃ©nek a jogai nem vÃ¡ltoztathatÃ³k meg.";
 
-"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
-"[Céh] %u tapasztalati pont lett felhasználva.";
+"<ê¸¸ë“œ> %uì˜ ê²½í—˜ì¹˜ë¥¼ íˆ¬ìí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] %u tapasztalati pont lett felhasznÃ¡lva.";
 
-"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Céh] Nem sikerült a tapasztalat bevetése.";
+"<ê¸¸ë“œ> ê²½í—˜ì¹˜ íˆ¬ìì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem sikerÃ¼lt a tapasztalat bevetÃ©se.";
 
-"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Céh] Kevés a Yang a céh-kincstárban.";
+"<ê¸¸ë“œ> ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[CÃ©h] KevÃ©s a Yang a cÃ©h-kincstÃ¡rban.";
 
-"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Céh] A sárkányszellem nem lett újrateremtve.";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ íšŒë³µì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A sÃ¡rkÃ¡nyszellem nem lett Ãºjrateremtve.";
 
-"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
-"Hamarosan újraindul az OX Esemény.";
+"ì ì‹œ í›„ OX ì´ë²¤íŠ¸ë¥¼ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆë‹¤.";
+"Hamarosan Ãºjraindul az OX EsemÃ©ny.";
 
-"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs jogod bejelentést tenni.";
+"<ê¸¸ë“œ> ê³µì§€ê¸€ì„ ì‘ì„±í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs jogod bejelentÃ©st tenni.";
 
-"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nem változtathatod meg a pozíciót.";
+"<ê¸¸ë“œ> ì§ìœ„ë¥¼ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem vÃ¡ltoztathatod meg a pozÃ­ciÃ³t.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céhmester pozíciója nem változtatható meg.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ëŠ” ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hmester pozÃ­ciÃ³ja nem vÃ¡ltoztathatÃ³ meg.";
 
-"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Nem változtathatod rangod céhmesterre.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ìœ¼ë¡œ ì§ìœ„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem vÃ¡ltoztathatod rangod cÃ©hmesterre.";
 
-"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nincs jogod ahhoz hogy céhvezetõt válassz.";
+"<ê¸¸ë“œ> ì¥êµ°ì„ ì§€ì •í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nincs jogod ahhoz hogy cÃ©hvezetÅ‘t vÃ¡lassz.";
 
-"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Nem választhatsz több céhvezetõt.";
+"<ê¸¸ë“œ> ë”ì´ìƒ ì¥ìˆ˜ë¥¼ ì§€ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem vÃ¡laszthatsz tÃ¶bb cÃ©hvezetÅ‘t.";
 
-"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nem adhatod át ezt a tárgyat.";
+"ì•„ì´í…œì„ ê±´ë„¤ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem adhatod Ã¡t ezt a tÃ¡rgyat.";
 
-"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
-"Illegális szoftvert fedeztünk fel. Vége a játékodnak!";
+"ë¶ˆë²• í”„ë¡œê·¸ë¨ì´ ê°ì§€ ë˜ì–´ ê²Œì„ì´ ì¢…ë£Œ ë©ë‹ˆë‹¤.";
+"IllegÃ¡lis szoftvert fedeztÃ¼nk fel. VÃ©ge a jÃ¡tÃ©kodnak!";
 
-"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
-"Több, mint 2 milliárd Yang van nálad. Nem kereskedhetsz.";
+"ì†Œìœ  ëˆì´ 20ì–µëƒ¥ì„ ë„˜ì–´ ê±°ë˜ë¥¼ í•¼ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"TÃ¶bb, mint 2 milliÃ¡rd Yang van nÃ¡lad. Nem kereskedhetsz.";
 
-"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Érvénytelen Yang.";
+"ê¸ˆì•¡ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Ã‰rvÃ©nytelen Yang.";
 
-"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
-"Az ajándék esemény egy területre van korlátozva.";
+"í˜„ì¬ ì´ë²¤íŠ¸ ì°¸ê°€ì ë¶„ë“¤ì€ ë§ˆì„ë¡œ ì´ë™ ë˜ê² ìŠµë‹ˆë‹¤.";
+"Az ajÃ¡ndÃ©k esemÃ©ny egy terÃ¼letre van korlÃ¡tozva.";
 
-"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
-"Rulett indítása.";
+"ì•„ì´í…œ ë£°ë › ì‹œì‘.";
+"Rulett indÃ­tÃ¡sa.";
 
-"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
-"Yang rulett indítása";
+"ë¨¸ë‹ˆ  ë£°ë › ì‹œì‘.";
+"Yang rulett indÃ­tÃ¡sa";
 
-"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
-"A játékos online. Használd a suttogást.";
+"í˜„ì¬ ì˜¨ë¼ì¸ ìƒíƒœ ì…ë‹ˆë‹¤. ê·“ë§ì„ ì´ìš©í•˜ì„¸ìš”.";
+"A jÃ¡tÃ©kos online. HasznÃ¡ld a suttogÃ¡st.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
-"A telefonszám nincs regisztrálva.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"A telefonszÃ¡m nincs regisztrÃ¡lva.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Legalább 20-as szinten kell állnod, hogy sms-t tudj küldeni.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì€ ë ˆë²¨ 20ë¶€í„° í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"LegalÃ¡bb 20-as szinten kell Ã¡llnod, hogy sms-t tudj kÃ¼ldeni.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
-"Legalább 2000 DT-re van szükség az sms küldéshez.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì—ëŠ” 2000ì›ì´ í•„ìš” í•©ë‹ˆë‹¤.";
+"LegalÃ¡bb 2000 DT-re van szÃ¼ksÃ©g az sms kÃ¼ldÃ©shez.";
 
-"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
-"El lett küldve az sms-ed.";
+"ë¬¸ì ë©”ì„¸ì§€ë¥¼ ì „ì†¡ í–ˆìŠµë‹ˆë‹¤.";
+"El lett kÃ¼ldve az sms-ed.";
 
-"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s a %s céhnek felment %d%%-ra.";
+"%s ê¸¸ë“œì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s a %s cÃ©hnek felment %d%%-ra.";
 
-"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
-"%s a %s céhnek normalizálódott.";
+"%s ê¸¸ë“œì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
+"%s a %s cÃ©hnek normalizÃ¡lÃ³dott.";
 
-"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s: %s megnövekedett %d%%-kal!";
+"%sì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s: %s megnÃ¶vekedett %d%%-kal!";
 
-"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
-"%s %s-a normalizálódott.";
+"%sì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
+"%s %s-a normalizÃ¡lÃ³dott.";
 
-"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
-"A bányász pontjaid elérték a maximumot (%d).";
+"ê³¡ê´­ì´ ìˆ˜ë ¨ë„ê°€ ìµœëŒ€(%d)ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A bÃ¡nyÃ¡sz pontjaid elÃ©rtÃ©k a maximumot (%d).";
 
-"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"A bányász pontjaid elérték a maximumot.";
+"ê³¡ê´­ì´ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A bÃ¡nyÃ¡sz pontjaid elÃ©rtÃ©k a maximumot.";
 
-"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Deokbae favágónál tudod fejleszteni a csákányod.";
+"ë‚˜ë¬´ê¾¼ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ê³¡ê´­ì´ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Deokbae favÃ¡gÃ³nÃ¡l tudod fejleszteni a csÃ¡kÃ¡nyod.";
 
-"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"Bányász pontjaid nõttek. (%d/%d)";
+"ê³¡ê´­ì´ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"BÃ¡nyÃ¡sz pontjaid nÅ‘ttek. (%d/%d)";
 
-"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
-"Csákány nélkül nem bányászhatsz.";
+"ê³¡ê´­ì´ë¥¼ ë“¤ê³  ìˆì§€ ì•Šì•„ì„œ ìº˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"CsÃ¡kÃ¡ny nÃ©lkÃ¼l nem bÃ¡nyÃ¡szhatsz.";
 
-"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
-"Nincs mit bányászni.";
+"ë”ì´ìƒ ìºë‚¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs mit bÃ¡nyÃ¡szni.";
 
-"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Sikeres volt a bányászat.";
+"ì±„ê´‘ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Sikeres volt a bÃ¡nyÃ¡szat.";
 
-"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A bányászat sikertelen volt.";
+"ì±„ê´‘ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A bÃ¡nyÃ¡szat sikertelen volt.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
-"[Barátok] %s-t felvetted barátaid közé.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ì¹œêµ¬ë¡œ ì¶”ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[BarÃ¡tok] %s-t felvetted barÃ¡taid kÃ¶zÃ©.";
 
-"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
-"A játékos rövidesen teleportálodik a városba.";
+"ì ì‹œ í›„ ë§ˆì„ë¡œ ì´ë™ë˜ê² ìŠµë‹ˆë‹¤.";
+"A jÃ¡tÃ©kos rÃ¶videsen teleportÃ¡lodik a vÃ¡rosba.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
-"[Barátok] %s-t törölted a listáról.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ë©”ì‹ ì €ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[BarÃ¡tok] %s-t tÃ¶rÃ¶lted a listÃ¡rÃ³l.";
 
-"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
-"Kritikus szerver hiba lépett fel. A szerver automatikusan újraindul.";
+"ì„œë²„ì— ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì—¬ ìë™ìœ¼ë¡œ ì¬ë¶€íŒ…ë©ë‹ˆë‹¤.";
+"Kritikus szerver hiba lÃ©pett fel. A szerver automatikusan Ãºjraindul.";
 
-"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
-"10 másodperc múlva automatikusan le leszel kapcsolva.";
+"10ì´ˆí›„ ìë™ìœ¼ë¡œ ì ‘ì†ì´ ì¢…ë£Œë˜ë©°,";
+"10 mÃ¡sodperc mÃºlva automatikusan le leszel kapcsolva.";
 
-"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
-"5 perc múlva tudsz csatlakozni.";
+"5ë¶„ í›„ì— ì •ìƒì ìœ¼ë¡œ ì ‘ì†í•˜ì‹¤ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"5 perc mÃºlva tudsz csatlakozni.";
 
-"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
-"(%s) létre kett hozva. [Átmenetileg]";
+"(%s) ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤. [ì„ì‹œ]";
+"(%s) lÃ©tre kett hozva. [Ãtmenetileg]";
 
-"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
-"Ez a céh harcban áll.";
+"í˜„ì¬ ì „ìŸì¤‘ì¸ ê¸¸ë“œ ì…ë‹ˆë‹¤";
+"Ez a cÃ©h harcban Ã¡ll.";
 
-"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
-"%s: Ez a céh nem létezik.";
+"%s: ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"%s: Ez a cÃ©h nem lÃ©tezik.";
 
-"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
-"Nem létezik céh ezzel a névvel vagy számmal.";
+"ê·¸ëŸ° ì´ë¦„ ë˜ëŠ” ë²ˆí˜¸ì˜ ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nem lÃ©tezik cÃ©h ezzel a nÃ©vvel vagy szÃ¡mmal.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
-"Nem létezik az épület.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê±´ë¬¼ì…ë‹ˆë‹¤.";
+"Nem lÃ©tezik az Ã©pÃ¼let.";
 
-"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
-"Ezt az épülettípust csak egyszer lehet megépíteni.";
+"ê°™ì´ ì§€ì„ ìˆ˜ ì—†ëŠ” ì¢…ë¥˜ì˜ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆìŠµë‹ˆë‹¤.";
+"Ezt az Ã©pÃ¼lettÃ­pust csak egyszer lehet megÃ©pÃ­teni.";
 
-"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
-"Elõször zárd be az OX eseménykártyát. (Flag: %d)";
+"OXì´ë²¤íŠ¸ ë§µì„ ë¨¼ì € ë‹«ì•„ ì£¼ì„¸ìš”.(Flag: %d)";
+"ElÅ‘szÃ¶r zÃ¡rd be az OX esemÃ©nykÃ¡rtyÃ¡t. (Flag: %d)";
 
-"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
-"A fõépületet kell elõször megépíteni.";
+"ê±´ì„¤ì— í•„ìš”í•œ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"A fÅ‘Ã©pÃ¼letet kell elÅ‘szÃ¶r megÃ©pÃ­teni.";
 
-"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Hibás árazás miatt nem sikerült az építkezés.";
+"ê±´ë¬¼ ë¹„ìš© ì •ë³´ ì´ìƒìœ¼ë¡œ ê±´ì„¤ ì‘ì—…ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"HibÃ¡s Ã¡razÃ¡s miatt nem sikerÃ¼lt az Ã©pÃ­tkezÃ©s.";
 
-"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Céhednek nincs elég Yangja, hogy felépítse ezt az épületet.";
+"ê±´ì„¤ ë¹„ìš©ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"CÃ©hednek nincs elÃ©g Yangja, hogy felÃ©pÃ­tse ezt az Ã©pÃ¼letet.";
 
-"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nincs elég építõanyagod az építkezéshez.";
+"ìì¬ê°€ ë¶€ì¡±í•˜ì—¬ ê±´ì„¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs elÃ©g Ã©pÃ­tÅ‘anyagod az Ã©pÃ­tkezÃ©shez.";
 
-"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"Ezen a helyen nem lehet építkezni.";
+"ê±´ë¬¼ì„ ì§€ì„ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"Ezen a helyen nem lehet Ã©pÃ­tkezni.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
-"Nem létezik a karakter.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ìºë¦­í„° ì…ë‹ˆë‹¤.";
+"Nem lÃ©tezik a karakter.";
 
-"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
-"A párbaj sikertelenül félbeszakadt.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì‹¤íŒ¨";
+"A pÃ¡rbaj sikertelenÃ¼l fÃ©lbeszakadt.";
 
-"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
-"A párbaj sikeresen félbeszakadt.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì„±ê³µ";
+"A pÃ¡rbaj sikeresen fÃ©lbeszakadt.";
 
-"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
-"A párbaj kezdete sikeres volt.";
+"ëŒ€ë ¨ì´ ì„±ê³µì ìœ¼ë¡œ ì‹œì‘ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A pÃ¡rbaj kezdete sikeres volt.";
 
-"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
-"Probléma merült fel a párbaj kezdetével.";
+"ëŒ€ë ¨ ì‹œì‘ì— ë¬¸ì œê°€ ìˆìŠµë‹ˆë‹¤.";
+"ProblÃ©ma merÃ¼lt fel a pÃ¡rbaj kezdetÃ©vel.";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
-"Nem lépett fel hiba.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.";
+"Nem lÃ©pett fel hiba.";
 
-"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Nincsenek párbajozók.";
+"ëŒ€ë ¨ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nincsenek pÃ¡rbajozÃ³k.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
-"Nem maradt státuszpont";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nem maradt stÃ¡tuszpont";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
-"Túl kevés státuszpont maradt.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì ìŠµë‹ˆë‹¤.";
+"TÃºl kevÃ©s stÃ¡tuszpont maradt.";
 
-"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
-"Rossz értéket adtál meg.";
+"ê°’ì„ ì˜ëª» ì…ë ¥í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Rossz Ã©rtÃ©ket adtÃ¡l meg.";
 
-"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
-"A parancs egy része hibás.";
+"ëª…ë ¹ì–´ì˜ ì„œë¸Œ ì»¤ë§¨ë“œê°€ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A parancs egy rÃ©sze hibÃ¡s.";
 
-"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
-"Felbontott szerzõdés %d játékos és %d játékos között.";
+"í”Œë ˆì´ì–´ %d ì™€ í”Œë ˆì´ì–´  %dë¥¼ íŒŒí˜¼ì‹œí‚µë‹ˆë‹¤..";
+"Felbontott szerzÅ‘dÃ©s %d jÃ¡tÃ©kos Ã©s %d jÃ¡tÃ©kos kÃ¶zÃ¶tt.";
 
-"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
-"Rulett pörgetés %d Yangért.";
+"ë£»ë ›ì„ ëŒë¦½ë‹ˆë‹¤. ê¸ˆì•¡ %d";
+"Rulett pÃ¶rgetÃ©s %d YangÃ©rt.";
 
-"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
-"A tárgylog a syslogba lett helyezve.";
+"ì•„ì´í…œë¡œê·¸ê°€ syslog ì— ë‚¨ì•˜ìŠµë‹ˆë‹¤";
+"A tÃ¡rgylog a syslogba lett helyezve.";
 
-"°¢Á¦±¹ ÁøÇà Á¤º¸";
-"Birodalmi információk";
+"ê°ì œêµ­ ì§„í–‰ ì •ë³´";
+"Birodalmi informÃ¡ciÃ³k";
 
-"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
-"Válaszd a Szent föld térkép információit %d átjáró %d %d %d";
+"ì„ íƒ ë§µ ì •ë³´ ì„±ì§€ %d í†µë¡œ %d %d %d";
+"VÃ¡laszd a Szent fÃ¶ld tÃ©rkÃ©p informÃ¡ciÃ³it %d Ã¡tjÃ¡rÃ³ %d %d %d";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
-"Hiba történt.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Hiba tÃ¶rtÃ©nt.";
 
-"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
-"%s killcount %d mobkillcount %d bosskillcount %d szent föld száma %d";
+"%s killcount %d mobkillcount %d bosskillcount %d ì„±ì§€ ì§„ì…ìˆ˜ %d";
+"%s killcount %d mobkillcount %d bosskillcount %d szent fÃ¶ld szÃ¡ma %d";
 
-"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
-"Információ a birodalmi csatáról.";
+"ë‚˜ì˜ ì‚¼ê±°ë¦¬ ì§„í–‰ì •ë³´";
+"InformÃ¡ciÃ³ a birodalmi csatÃ¡rÃ³l.";
 
-"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
-"A kérés teljesítése folyamatban. Türelmet kérünk!";
+"í€˜ìŠ¤íŠ¸ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘ì…ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤.";
+"A kÃ©rÃ©s teljesÃ­tÃ©se folyamatban. TÃ¼relmet kÃ©rÃ¼nk!";
 
-"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nem nyithatod meg a raktárat, amíg meg van nyitva egy másik ablak.";
+"ë‹¤ë¥¸ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ì°½ê³ ë¥¼ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nem nyithatod meg a raktÃ¡rat, amÃ­g meg van nyitva egy mÃ¡sik ablak.";
 
-"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
-"[Raktár] Raktár jelszó megváltoztatva.";
+"<ì°½ê³ > ì°½ê³  ë¹„ë°€ë²ˆí˜¸ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] RaktÃ¡r jelszÃ³ megvÃ¡ltoztatva.";
 
-"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
-"[Raktár] Hibás jelszót adtál meg.";
+"<ì°½ê³ > ê¸°ì¡´ ë¹„ë°€ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤.";
+"[RaktÃ¡r] HibÃ¡s jelszÃ³t adtÃ¡l meg.";
 
-"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
-"A játékidõd %d perc múlva lejár.";
+"ê²°ì¬ê¸°ê°„ì´ %dë¶„ í›„ ë§Œë£Œ ë©ë‹ˆë‹¤.";
+"A jÃ¡tÃ©kidÅ‘d %d perc mÃºlva lejÃ¡r.";
 
-"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
-"Szabályszerûen szavazott.";
+"ì •ìƒì ìœ¼ë¡œ íˆ¬í‘œë¥¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"SzabÃ¡lyszerÅ±en szavazott.";
 
-"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
-"Már szavazott.";
+"ì´ë¯¸íˆ¬í‘œë¥¼ í–ˆìŒ";
+"MÃ¡r szavazott.";
 
-"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
-"%s játékos már a választásban van.";
+"%s ë‹˜ì€ ì •ìƒì ìœ¼ë¡œ ì¶œë§ˆë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s jÃ¡tÃ©kos mÃ¡r a vÃ¡lasztÃ¡sban van.";
 
-"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
-"OX Esemény befejezõdött. Nem történt hiba.(Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ì—´ë ¤ ìˆì§€ ì•Šê±°ë‚˜ ë¬¸ì œ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(Flag: %d)";
+"OX EsemÃ©ny befejezÅ‘dÃ¶tt. Nem tÃ¶rtÃ©nt hiba.(Flag: %d)";
 
-"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nem lehet rá szavazni.";
+"ì¶œë§ˆë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nem lehet rÃ¡ szavazni.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s-nak még %u Yangja van.";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %lu ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s-nak mÃ©g %u Yangja van.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s-nak még %d Yangja van.";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %d ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s-nak mÃ©g %d Yangja van.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
-"Nincs elég Yangod.";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ëˆì„ ê°€ì ¸ì˜¬ìˆ˜ ì—†ëŠ” ìƒí™©ì…ë‹ˆë‹¤";
+"Nincs elÃ©g Yangod.";
 
-" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
-"%s-t törölve lett a császár jelöltek közül.";
+" %s êµ°ì£¼ í›„ë³´ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤";
+"%s-t tÃ¶rÃ¶lve lett a csÃ¡szÃ¡r jelÃ¶ltek kÃ¶zÃ¼l.";
 
-" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
-"%s nem császár jelölt.";
+" %s ëŠ” êµ°ì£¼ í›„ë³´ê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"%s nem csÃ¡szÃ¡r jelÃ¶lt.";
 
-" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
-"%s császárnak van jelölve.";
+" %s êµ°ì£¼ë¡œ ì…ëª… í–ˆìŠµë‹ˆë‹¤.";
+"%s csÃ¡szÃ¡rnak van jelÃ¶lve.";
 
-" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
-"%s-t nem lehet császárnak jelölni.";
+" %s ëŠ” êµ°ì£¼ë¡œ ì…ëª…í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤ .";
+"%s-t nem lehet csÃ¡szÃ¡rnak jelÃ¶lni.";
 
-" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
-"A %s császárt eltávolítják.";
+" %s êµ°ì£¼ë¥´ ì œê±° í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"A %s csÃ¡szÃ¡rt eltÃ¡volÃ­tjÃ¡k.";
 
-" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"%s császár nem eltávolítható.";
+" %s êµ°ì£¼ë¥¼ ì œê±° í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s csÃ¡szÃ¡r nem eltÃ¡volÃ­thatÃ³.";
 
-"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"OX esemény nem fogad el több jelentkezést.";
+"ë” ì´ìƒ OXì´ë²¤íŠ¸ ì°¸ê°€ìë¥¼ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"OX esemÃ©ny nem fogad el tÃ¶bb jelentkezÃ©st.";
 
-"½Å¼ö±¹";
+"ì‹ ìˆ˜êµ­";
 "Shinsoo birodalom";
 
-"ÃµÁ¶±¹";
+"ì²œì¡°êµ­";
 "Chunjo-birodalom";
 
-"Áø³ë±¹";
+"ì§„ë…¸êµ­";
 "Jinno-birodalom";
 
-"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"A horgászpontjaid nõttek! (%d/%d)";
+"ë‚šì‹œëŒ€ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"A horgÃ¡szpontjaid nÅ‘ttek! (%d/%d)";
 
-"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Elérted a halászati pontok maximális számát.";
+"ë‚šì‹œëŒ€ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ElÃ©rted a halÃ¡szati pontok maximÃ¡lis szÃ¡mÃ¡t.";
 
-"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Menj a halászhoz, és fejleszd a horgászbotod!";
+"ì–´ë¶€ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ë‚šì‹œëŒ€ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Menj a halÃ¡szhoz, Ã©s fejleszd a horgÃ¡szbotod!";
 
-"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
-"Elveszítetted csalidat.";
+"ê³ ê¸°ê°€ ë¯¸ë¼ë§Œ ë¹¼ë¨¹ê³  ì½ì‹¸ê²Œ ë„ë§ì¹©ë‹ˆë‹¤.";
+"ElveszÃ­tetted csalidat.";
 
-"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
-"Halat fogtál. (%s)";
+"ê³ ê¸°ê°€ ì¡í˜”ìŠµë‹ˆë‹¤! (%s)";
+"Halat fogtÃ¡l. (%s)";
 
-"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
+"ì´ë²ˆì— ì¡ì€ ë¬¼ê³ ê¸°ì˜ ê¸¸ì´ëŠ” %.2fcm";
 "A kifogott hal hossza %.2cm.";
 
-"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
-"Horgászverseny 'Legjobb horgász'";
+"ë‚šì‹œì´ë²¤íŠ¸ì›”ì²™ë¶•ì–´";
+"HorgÃ¡szverseny 'Legjobb horgÃ¡sz'";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
-"OX Az esemény többi résztvevõje fel van írva.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì›ì„ ê¸°ë¡í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OX Az esemÃ©ny tÃ¶bbi rÃ©sztvevÅ‘je fel van Ã­rva.";
 
-"³¬½ÃÀÌº¥Æ®À×¾î";
-"'Nyugodt erõ' horgászverseny";
+"ë‚šì‹œì´ë²¤íŠ¸ì‰ì–´";
+"'Nyugodt erÅ‘' horgÃ¡szverseny";
 
-"%s : %d ¸¶¸®";
+"%s : %d ë§ˆë¦¬";
 "%s: %d";
 
-"%d Á¾·ù %d ¸¶¸® ³¬À½";
-"%d-ból %d-t fogtál.";
+"%d ì¢…ë¥˜ %d ë§ˆë¦¬ ë‚šìŒ";
+"%d-bÃ³l %d-t fogtÃ¡l.";
 
-"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"A hal a víz mélyén eltûnt.";
+"ê³ ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A hal a vÃ­z mÃ©lyÃ©n eltÅ±nt.";
 
-"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
-"A halban egy kagyló van.";
+"ë°° ì†ì—ì„œ ì¡°ê°œê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"A halban egy kagylÃ³ van.";
 
-"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
+"ë°° ì†ì—ì„œ ì§€ë ì´ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
 "A halban egy Giliszta van.";
 
-"%s¸¦ ±¸¿ü½À´Ï´Ù.";
-"%s-t sütsz a tûz fölött.";
+"%së¥¼ êµ¬ì› ìŠµë‹ˆë‹¤.";
+"%s-t sÃ¼tsz a tÅ±z fÃ¶lÃ¶tt.";
 
-"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
-"Több mint 2 milliárd Yang van nálad, ezért nem tudsz kereskedni.";
+"20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"TÃ¶bb mint 2 milliÃ¡rd Yang van nÃ¡lad, ezÃ©rt nem tudsz kereskedni.";
 
-"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Nem adhatsz érvénytelen nevet a boltodnak.";
+"ë¹„ì†ì–´ë‚˜ ì€ì–´ê°€ í¬í•¨ëœ ìƒì  ì´ë¦„ìœ¼ë¡œ ìƒì ì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem adhatsz Ã©rvÃ©nytelen nevet a boltodnak.";
 
-"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem adhatsz el magán boltban Tárgy bolt terméket.";
+"ìœ ë£Œí™” ì•„ì´í…œì€ ê°œì¸ìƒì ì—ì„œ íŒë§¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem adhatsz el magÃ¡n boltban TÃ¡rgy bolt termÃ©ket.";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
-"OX A többi esemény résztvevõ nem lett felírva.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì› ê¸°ë¡ì„ ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"OX A tÃ¶bbi esemÃ©ny rÃ©sztvevÅ‘ nem lett felÃ­rva.";
 
-"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
-"A bányászat befejezõdött.";
+"ì±„ê´‘ì„ ì¤‘ë‹¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A bÃ¡nyÃ¡szat befejezÅ‘dÃ¶tt.";
 
-"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
-"Szükséged van egy csákányra hogy ércet szerezz!";
+"ê³¡ê´­ì´ë¥¼ ì¥ì°©í•˜ì„¸ìš”.";
+"SzÃ¼ksÃ©ged van egy csÃ¡kÃ¡nyra hogy Ã©rcet szerezz!";
 
-"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
-"Válassz ki egy horgászbotot.";
+"ë‚šì‹œëŒ€ë¥¼ ì¥ì°© í•˜ì„¸ìš”.";
+"VÃ¡lassz ki egy horgÃ¡szbotot.";
 
-"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
-"Elõször a csalit rögzítsd a horogra.";
+"ë¯¸ë¼ë¥¼ ë¼ê³  ë˜ì ¸ ì£¼ì„¸ìš”.";
+"ElÅ‘szÃ¶r a csalit rÃ¶gzÃ­tsd a horogra.";
 
-"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
-"Bot nélkül nem tudsz horgászni.";
+"ë‚šì‹œëŒ€ê°€ ì•„ë‹Œ ë¬¼ê±´ìœ¼ë¡œ ë‚šì‹œë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!";
+"Bot nÃ©lkÃ¼l nem tudsz horgÃ¡szni.";
 
-"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem intézhetsz kérést, mert a csoportvezetõ nem online.";
+"íŒŒí‹°ì¥ì´ ì ‘ì† ìƒíƒœê°€ ì•„ë‹ˆë¼ì„œ ìš”ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem intÃ©zhetsz kÃ©rÃ©st, mert a csoportvezetÅ‘ nem online.";
 
-"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Egy másik birodalom játékosával nem tudsz csoportot alkotni.";
+"<íŒŒí‹°> ë‹¤ë¥¸ ì œêµ­ê³¼ íŒŒí‹°ë¥¼ ì´ë£° ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Egy mÃ¡sik birodalom jÃ¡tÃ©kosÃ¡val nem tudsz csoportot alkotni.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Kazamatában nem intézhetsz meghívást.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] KazamatÃ¡ban nem intÃ©zhetsz meghÃ­vÃ¡st.";
 
-"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Megfigyelõ státuszban nem intézhetsz meghívást.";
+"<íŒŒí‹°> ê´€ì „ ëª¨ë“œì—ì„  íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] MegfigyelÅ‘ stÃ¡tuszban nem intÃ©zhetsz meghÃ­vÃ¡st.";
 
-"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Csoport] Csak -30 és +30 szint közötti játékosok hívhatóak meg.";
+"<íŒŒí‹°> -30 ~ +30 ë ˆë²¨ ì´ë‚´ì˜ ìƒëŒ€ë°©ë§Œ ì´ˆëŒ€í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Csoport] Csak -30 Ã©s +30 szint kÃ¶zÃ¶tti jÃ¡tÃ©kosok hÃ­vhatÃ³ak meg.";
 
-"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
-"A maradék résztvevõk száma: %d";
+"í˜„ì¬ ë‚¨ì€ ì°¸ê°€ììˆ˜ : %d";
+"A maradÃ©k rÃ©sztvevÅ‘k szÃ¡ma: %d";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hívhatod meg a játékost, mert túl alacsony szinten van.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœê³  ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë‚®ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hÃ­vhatod meg a jÃ¡tÃ©kost, mert tÃºl alacsony szinten van.";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hívhatod meg a játékost, mert túl magas szinten van.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœì € ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë†’ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hÃ­vhatod meg a jÃ¡tÃ©kost, mert tÃºl magas szinten van.";
 
-"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hívhatsz több játékost a csoportodba.";
+"<íŒŒí‹°> ë” ì´ìƒ íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hÃ­vhatsz tÃ¶bb jÃ¡tÃ©kost a csoportodba.";
 
-"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
-"Szeretnél %s csoportjába lépni.";
+"%s ë‹˜ì—ê²Œ íŒŒí‹°ê°€ì… ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"SzeretnÃ©l %s csoportjÃ¡ba lÃ©pni.";
 
-"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"A játékos nincs a csoportodban.";
+"ìƒëŒ€ë°©ì´ íŒŒí‹°ì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"A jÃ¡tÃ©kos nincs a csoportodban.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem léphetsz be a csoportba, mert már tele van.";
+"<íŒŒí‹°> íŒŒí‹°ì˜ ì¸ì›ì œí•œì´ ì´ˆê³¼í•˜ì—¬ íŒŒí‹°ì— ì°¸ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem lÃ©phetsz be a csoportba, mert mÃ¡r tele van.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Csoport] Nincs jogosultságod meghívót adni.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ìˆëŠ” ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nincs jogosultsÃ¡god meghÃ­vÃ³t adni.";
 
-"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Csoport] %s visszautasítja a meghívást a csoportodba.";
+"<íŒŒí‹°> %s ë‹˜ì´ íŒŒí‹° ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Csoport] %s visszautasÃ­tja a meghÃ­vÃ¡st a csoportodba.";
 
-"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
-"[Csoport] %s már a csoportodban van.";
+"<íŒŒí‹°> ì´ë¯¸ %së‹˜ì€ íŒŒí‹°ì— ì†í•´ ìˆìŠµë‹ˆë‹¤.";
+"[Csoport] %s mÃ¡r a csoportodban van.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Kazamatában nem tudsz elfogadni meghívást.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] KazamatÃ¡ban nem tudsz elfogadni meghÃ­vÃ¡st.";
 
-"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
-"OX Esemény befejezõdik.";
+"OX ì´ë²¤íŠ¸ë¥¼ ë§ˆì¹˜ê²ŸìŠµë‹ˆë‹¤.";
+"OX EsemÃ©ny befejezÅ‘dik.";
 
-"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
-"OX Esemény befejezõdik.";
+"OXì´ë²¤íŠ¸ë¥¼ ê°•ì œ ì¢…ë£Œ ì‹œí‚µë‹ˆë‹¤.";
+"OX EsemÃ©ny befejezÅ‘dik.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem fogadhatod el a meghívást.";
+"<íŒŒí‹°> íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem fogadhatod el a meghÃ­vÃ¡st.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
-"[Csoport] %s visszautasította a meghívásod.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹° ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Csoport] %s visszautasÃ­totta a meghÃ­vÃ¡sod.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Csoport] %s belépett a csoportodba.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Csoport] %s belÃ©pett a csoportodba.";
 
-"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Csoport] %s belépett a csoportodba.";
+"<íŒŒí‹°> %së‹˜ì˜ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Csoport] %s belÃ©pett a csoportodba.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatsz magán boltot.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ê°œì¸ìƒì ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatsz magÃ¡n boltot.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
-"A játékos egy másikkal üzletel.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ë¥¼ í•˜ê³  ìˆëŠ” ì¤‘ì…ë‹ˆë‹¤.";
+"A jÃ¡tÃ©kos egy mÃ¡sikkal Ã¼zletel.";
 
-"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
-"Metin2 Visszaigazolásszám: %s";
+"ë©”í‹´2ì¸ì¦ë²ˆí˜¸: %s";
+"Metin2 VisszaigazolÃ¡sszÃ¡m: %s";
 
-"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
-"A visszaigazolásszámod hibás. Próbáld meg újra!";
+"ì¸ì¦ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì„¸ìš”.";
+"A visszaigazolÃ¡sszÃ¡mod hibÃ¡s. PrÃ³bÃ¡ld meg Ãºjra!";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
-"A telefonszám regisztrálva van.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A telefonszÃ¡m regisztrÃ¡lva van.";
 
-"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem teleportálhatod magad a játékoshoz.";
+"ìƒëŒ€ë°©ì´ ìˆëŠ” ê³³ìœ¼ë¡œ ì›Œí”„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem teleportÃ¡lhatod magad a jÃ¡tÃ©koshoz.";
 
-"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
-"OX A díjat kiosztották. ID: %d Quantity: %d";
+"OX ìƒí’ˆì„ ì§€ê¸‰í•˜ì˜€ìŠµë‹ˆë‹¤. ID: %d ìˆ˜ëŸ‰: %d";
+"OX A dÃ­jat kiosztottÃ¡k. ID: %d Quantity: %d";
 
-"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"Nem online a játékos.";
+"ìƒëŒ€ë°©ì´ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Nem online a jÃ¡tÃ©kos.";
 
-"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"A játékos a %d csatornán van. (Te a %d csatornán vagy).";
+"ìƒëŒ€ë°©ì´ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"A jÃ¡tÃ©kos a %d csatornÃ¡n van. (Te a %d csatornÃ¡n vagy).";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"A raktár megnyitása után %d másodpercig nem mehetsz máshova.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A raktÃ¡r megnyitÃ¡sa utÃ¡n %d mÃ¡sodpercig nem mehetsz mÃ¡shova.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Kereskedés után egy ideig nem mehetsz máshova.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™,ì¢…ë£Œ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"KereskedÃ©s utÃ¡n egy ideig nem mehetsz mÃ¡shova.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%d másodpercig a kereskedés után nem tudsz máshova menni.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ì§€ì—­ìœ¼ë¡œ ì´ë™ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%d mÃ¡sodpercig a kereskedÃ©s utÃ¡n nem tudsz mÃ¡shova menni.";
 
-"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"A párbaj befejezõdött, az ellenséged eltûnt.";
+"ëŒ€ë ¨ ìƒëŒ€ê°€ ì‚¬ë¼ì ¸ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"A pÃ¡rbaj befejezÅ‘dÃ¶tt, az ellensÃ©ged eltÅ±nt.";
 
-"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
-"Az italok nincsenek limitálva.";
+"ë¬¼ì•½ ì œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"Az italok nincsenek limitÃ¡lva.";
 
-"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
-"Legfeljebb %d italt használhatsz.";
+"ë¬¼ì•½ì„ %d ê°œ ê¹Œì§€ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Legfeljebb %d italt hasznÃ¡lhatsz.";
 
-"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
-"A harc 10 másodperc múlva kezdõdik.";
+"10ì´ˆë’¤ ëŒ€ë ¨ì´ ì‹œì‘ë©ë‹ˆë‹¤.";
+"A harc 10 mÃ¡sodperc mÃºlva kezdÅ‘dik.";
 
-"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"A párbaj megkezdõdött.";
+"ëŒ€ë ¨ì´ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A pÃ¡rbaj megkezdÅ‘dÃ¶tt.";
 
-"Âü";
+"ì°¸";
 "TRUE";
 
-"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"A párbaj befejezõdik, probléma van az arénával.";
+"ëŒ€ë ¨ì¥ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"A pÃ¡rbaj befejezÅ‘dik, problÃ©ma van az arÃ©nÃ¡val.";
 
-"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"A párbaj idõtúllépés miatt befejezõdik.";
+"ëŒ€ë ¨ ì‹œê°„ ì´ˆê³¼ë¡œ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"A pÃ¡rbaj idÅ‘tÃºllÃ©pÃ©s miatt befejezÅ‘dik.";
 
-"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
-"10 másodperc múlva a városba teleportálódsz.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤.";
+"10 mÃ¡sodperc mÃºlva a vÃ¡rosba teleportÃ¡lÃ³dsz.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"A párbajt megállítják, mert probléma van az arénával.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"A pÃ¡rbajt megÃ¡llÃ­tjÃ¡k, mert problÃ©ma van az arÃ©nÃ¡val.";
 
-"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"A párbaj ellenfélnek problémái vannak. A párbajnak vége.";
+"ìƒëŒ€ë°© ìºë¦­í„°ì˜ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"A pÃ¡rbaj ellenfÃ©lnek problÃ©mÃ¡i vannak. A pÃ¡rbajnak vÃ©ge.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"A párbaj befejezõdik, mert probléma van a párbajozókkal.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"A pÃ¡rbaj befejezÅ‘dik, mert problÃ©ma van a pÃ¡rbajozÃ³kkal.";
 
-"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s megnyerte a párbajt.";
+"%s ë‹˜ì´ ëŒ€ë ¨ì—ì„œ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s megnyerte a pÃ¡rbajt.";
 
-"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"%s ë‹˜ì´ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s nyert.";
 
-"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
-"10 másodperc múlva a városba teleportálódsz.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ë˜ëŒì•„ê°‘ë‹ˆë‹¤.";
+"10 mÃ¡sodperc mÃºlva a vÃ¡rosba teleportÃ¡lÃ³dsz.";
 
-"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
-"10 másodperc múlva kezdõdik a következõ menet.";
+"10ì´ˆë’¤ ë‹¤ìŒ íŒì„ ì‹œì‘í•©ë‹ˆë‹¤.";
+"10 mÃ¡sodperc mÃºlva kezdÅ‘dik a kÃ¶vetkezÅ‘ menet.";
 
-"°ÅÁş";
+"ê±°ì§“";
 "FALSE";
 
-"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
-"A párbajozókat szétválasztották. A párbajnak vége.";
+"ìƒëŒ€ë°© ìºë¦­í„°ê°€ ì ‘ì†ì„ ì¢…ë£Œí•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ì§€í•©ë‹ˆë‹¤.";
+"A pÃ¡rbajozÃ³kat szÃ©tvÃ¡lasztottÃ¡k. A pÃ¡rbajnak vÃ©ge.";
 
-"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"A tárgy eldobás hányada a pillanatban plusz %d%%";
+"ì•„ì´í…œ ë“œë¡­ë¥   %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"A tÃ¡rgy eldobÃ¡s hÃ¡nyada a pillanatban plusz %d%%";
 
-"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"A Yang eldobás hányada pillanatnyilag plusz %d%%";
+"ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"A Yang eldobÃ¡s hÃ¡nyada pillanatnyilag plusz %d%%";
 
-"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Az esély Yang-esõre jelenleg %d%%-kal magasabb.";
+"ëŒ€ë°•ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Az esÃ©ly Yang-esÅ‘re jelenleg %d%%-kal magasabb.";
 
-"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"A tapasztalat bónusz jelenleg további %d%%.";
+"ê²½í—˜ì¹˜ %d%% ì¶”ê°€ íšë“ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"A tapasztalat bÃ³nusz jelenleg tovÃ¡bbi %d%%.";
 
-"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
-"A kliensverziód hibás. Installáld a rendes patch-et.";
+"í´ë¼ì´ì–¸íŠ¸ ë²„ì „ì´ í‹€ë ¤ ë¡œê·¸ì•„ì›ƒ ë©ë‹ˆë‹¤. ì •ìƒì ìœ¼ë¡œ íŒ¨ì¹˜ í›„ ì ‘ì†í•˜ì„¸ìš”.";
+"A kliensverziÃ³d hibÃ¡s. InstallÃ¡ld a rendes patch-et.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
-"Nem kereskedhetsz, amíg egy másik ablak nyitva van.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nem kereskedhetsz, amÃ­g egy mÃ¡sik ablak nyitva van.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
-"Túl messze vagy a bolttól, hogy vásárolj.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ ì‚´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TÃºl messze vagy a bolttÃ³l, hogy vÃ¡sÃ¡rolj.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
-"Túl messze vagy a bolttól, hogy eladj.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ íŒ” ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TÃºl messze vagy a bolttÃ³l, hogy eladj.";
 
-"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
-"Több mint 2 milliárd Yang van nálad, ezért nem tudsz kereskedni.";
+"20ì–µëƒ¥ì´ ì´ˆê³¼í•˜ì—¬ ë¬¼í’ˆì„ íŒ”ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TÃ¶bb mint 2 milliÃ¡rd Yang van nÃ¡lad, ezÃ©rt nem tudsz kereskedni.";
 
-"ÃÑ ÄûÁî ¼ö: %d";
-"A kvíz összértéke: %d";
+"ì´ í€´ì¦ˆ ìˆ˜: %d";
+"A kvÃ­z Ã¶sszÃ©rtÃ©ke: %d";
 
-"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
-"Az eladás %d%%-kal van megadóztatva.";
+"íŒë§¤ê¸ˆì•¡ì˜ %d %% ê°€ ì„¸ê¸ˆìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤";
+"Az eladÃ¡s %d%%-kal van megadÃ³ztatva.";
 
-"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz lovagolni, amíg át vagy változtatva.";
+"ë³€ì‹  ìƒíƒœì—ì„œëŠ” ë§ì— íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz lovagolni, amÃ­g Ã¡t vagy vÃ¡ltoztatva.";
 
-"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz lovagolni, amíg menyasszonyi ruhát, vagy szmokingot viselsz.";
+"ì˜ˆë³µì„ ì…ì€ ìƒíƒœì—ì„œ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz lovagolni, amÃ­g menyasszonyi ruhÃ¡t, vagy szmokingot viselsz.";
 
-"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
+"ë§ì„ ì†Œìœ í•˜ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "Nincs lovad.";
 
-"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
+"ë§ì´ ì£½ì–´ìˆëŠ” ìƒíƒœ ì…ë‹ˆë‹¤.";
 "A lovad halott.";
 
-"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"A lovad kitartása túl alacsony.";
+"ë§ì˜ ìŠ¤í…Œë¯¸ë„ˆê°€ ë¶€ì¡±í•˜ì—¬ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A lovad kitartÃ¡sa tÃºl alacsony.";
 
-"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A ló hívása sikertelen.";
+"ë§ ì†Œí™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A lÃ³ hÃ­vÃ¡sa sikertelen.";
 
-"´ÔÀÇ ¸»";
-"Ló";
+"ë‹˜ì˜ ë§";
+"LÃ³";
 
-"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
-"Mindjárt vége az esküvõnek.";
+"ê²°í˜¼ì‹ì´ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"MindjÃ¡rt vÃ©ge az eskÃ¼vÅ‘nek.";
 
-"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
-"Automatikusan kilép.";
+"ìë™ìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤.";
+"Automatikusan kilÃ©p.";
 
-"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
-"A háborúnak már vége.";
+"ì´ë¯¸ ì „ìŸì´ ëë‚¬ìŠµë‹ˆë‹¤.";
+"A hÃ¡borÃºnak mÃ¡r vÃ©ge.";
 
-"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
-"Az eredmény 10 másodperc múlva következik.";
+"10ì´ˆë’¤ íŒì •í•˜ê² ìŠµë‹ˆë‹¤.";
+"Az eredmÃ©ny 10 mÃ¡sodperc mÃºlva kÃ¶vetkezik.";
 
-"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Megfigyelésnél nem kereskedhetsz.";
+"ê´€ì „ ìƒíƒœì—ì„œëŠ” êµí™˜ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MegfigyelÃ©snÃ©l nem kereskedhetsz.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Amíg az ablak nyitva van, nem kereskedhetsz másokkal.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë ¤ìˆì„ê²½ìš° ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"AmÃ­g az ablak nyitva van, nem kereskedhetsz mÃ¡sokkal.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"A másik személy épp elfoglalt, ezért most nem tudsz vele kereskedni.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ì¤‘ì´ë¼ ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A mÃ¡sik szemÃ©ly Ã©pp elfoglalt, ezÃ©rt most nem tudsz vele kereskedni.";
 
-"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"A másik személy félbehagyta a kereskedést.";
+"ìƒëŒ€ë°©ì´ êµí™˜ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"A mÃ¡sik szemÃ©ly fÃ©lbehagyta a kereskedÃ©st.";
 
-"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Nincs elég Yang, vagy nincs hely a leltárban.";
+"ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"Nincs elÃ©g Yang, vagy nincs hely a leltÃ¡rban.";
 
-"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"A másik személynek nincs elég Yangja, vagy nincs elég helye a leltárban.";
+"ìƒëŒ€ë°©ì˜ ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"A mÃ¡sik szemÃ©lynek nincs elÃ©g Yangja, vagy nincs elÃ©g helye a leltÃ¡rban.";
 
-"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"A másik személynek nincs elég helye a leltárban.";
+"ìƒëŒ€ë°©ì˜ ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"A mÃ¡sik szemÃ©lynek nincs elÃ©g helye a leltÃ¡rban.";
 
-"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
-"Az üzlet %s személlyel sikerült.";
+"%s ë‹˜ê³¼ì˜ êµí™˜ì´ ì„±ì‚¬ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Az Ã¼zlet %s szemÃ©llyel sikerÃ¼lt.";
 
-"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"A Sárkányisten áldása miatt nem vesztettél tapasztalatot.";
+"ìš©ì‹ ì˜ ê°€í˜¸ë¡œ ê²½í—˜ì¹˜ê°€ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"A SÃ¡rkÃ¡nyisten Ã¡ldÃ¡sa miatt nem vesztettÃ©l tapasztalatot.";
 
-"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
-"Aktuális pontszám: Shinsoo %d, Chunjo %d, Jinno: %d";
+"í˜„ì¬ ìŠ¤ì½”ì–´ ì‹ ìˆ˜êµ­:%d ì²œì¡°êµ­:%d ì§„ë…¸êµ­:%d";
+"AktuÃ¡lis pontszÃ¡m: Shinsoo %d, Chunjo %d, Jinno: %d";
 
-"Á¤´äÀº";
-"A helyes válasz:";
+"ì •ë‹µì€";
+"A helyes vÃ¡lasz:";
 
-"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"ì£½ì€ ì •ë³´ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 "%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 
-"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
-"A megszentelt hely ördöge: [ENTER][ENTER]";
+"ì„±ì§€ì˜ ë§ˆì™•: ë„ˆí¬ ";
+"A megszentelt hely Ã¶rdÃ¶ge: [ENTER][ENTER]";
 
-"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
-", nincs jogod itt lenni! Birodalmad tagjai 10 másodperc múlva elhagyják ezt a megszentelt helyet.";
+"ë…€ì„ë“¤ì€ ì´ê³³ ì„±ì§€ì— ìˆì„ ìê²©ì„ ìƒì—ˆë‹¤. ëª¨ë‘ ì„±ì§€ì—ì„œ ë¬¼ëŸ¬ë‚˜ê±°ë¼~~[ENTER][ENTER] 10ì´ˆ í›„ì— ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™í•˜ê²Œ ë©ë‹ˆë‹¤. ";
+", nincs jogod itt lenni! Birodalmad tagjai 10 mÃ¡sodperc mÃºlva elhagyjÃ¡k ezt a megszentelt helyet.";
 
-"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
-"A %s vereséget szenvedett és kiesik a Birodalmi Csatából.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ì—ì„œ %s êµ­ê°€ê°€ ê°€ì¥ë¨¼ì € íƒˆë½ì„ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"A %s veresÃ©get szenvedett Ã©s kiesik a Birodalmi CsatÃ¡bÃ³l.";
 
-"»ï°Å¸® ¸÷ ¸®Á¨";
-"Szörnyek a birodalmi csatában";
+"ì‚¼ê±°ë¦¬ ëª¹ ë¦¬ì  ";
+"SzÃ¶rnyek a birodalmi csatÃ¡ban";
 
-". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
-"Ha legyõzöd a szent hely õrét, te leszel a tulajdonosa.";
+". ë„ˆí¬ê°€ ì„±ì§€ì˜ ìˆ˜í˜¸ìë¥¼ ì¡ê²Œ ëœë‹¤ë©´ ë„ˆí¬ëŠ” ì„±ì§€ì˜ ì£¼ì¸ì´ ëœë‹¤.[ENTER][ENTER] ";
+"Ha legyÅ‘zÃ¶d a szent hely Å‘rÃ©t, te leszel a tulajdonosa.";
 
-"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"A sárkány isten védelme által nem dobtál el egy tárgyat sem.";
+"ìš©ì‹ ì˜ ë³´í˜¸ë¡œ ì•„ì´í…œì´ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"A sÃ¡rkÃ¡ny isten vÃ©delme Ã¡ltal nem dobtÃ¡l el egy tÃ¡rgyat sem.";
 
-"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
-"További szúrófegyver sérülések %d";
+"ê´€í†µ ì¶”ê°€ ë°ë¯¸ì§€ %d";
+"TovÃ¡bbi szÃºrÃ³fegyver sÃ©rÃ¼lÃ©sek %d";
 
-"%s ºí·°! (%ld%%)";
+"%s ë¸”ëŸ­! (%ld%%)";
 "%s blokk! (%d%%)";
 
-"%s È¸ÇÇ! (%ld%%)";
-"%s kitérés! (%d%%)";
+"%s íšŒí”¼! (%ld%%)";
+"%s kitÃ©rÃ©s! (%d%%)";
 
-"O ÀÔ´Ï´Ù";
+"O ì…ë‹ˆë‹¤";
 "Igen (O)";
 
-"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
-"%s[%d] Támadó Pozíciója: %d %d";
+"%s[%ld]ê°€ ê³µê²© ìœ„ì¹˜: %d %d";
+"%s[%d] TÃ¡madÃ³ PozÃ­ciÃ³ja: %d %d";
 
-"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
-"Teljes hosszában add meg rendelésed.";
+"ëª…ë ¹ì–´ë¥¼ ëª¨ë‘ ì…ë ¥í•˜ì„¸ìš”.";
+"Teljes hosszÃ¡ban add meg rendelÃ©sed.";
 
-"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem teheted meg, amíg lovon ülsz.";
+"íƒ„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem teheted meg, amÃ­g lovon Ã¼lsz.";
 
-"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem teheted meg, amíg a földön fekszel.";
+"ì“°ëŸ¬ì§„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem teheted meg, amÃ­g a fÃ¶ldÃ¶n fekszel.";
 
-"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
-"Az álmaimban? Hogyan?";
+"ê¿ˆì†ì—ì„œ ì–´ë–»ê²Œìš”?";
+"Az Ã¡lmaimban? Hogyan?";
 
-"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
-"Elõször állj fel.";
+"ë¨¼ì € ì¼ì–´ ë‚˜ì„¸ìš”.";
+"ElÅ‘szÃ¶r Ã¡llj fel.";
 
-"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
-"Ez a parancs nem létezik.";
+"ê·¸ëŸ° ëª…ë ¹ì–´ëŠ” ì—†ìŠµë‹ˆë‹¤";
+"Ez a parancs nem lÃ©tezik.";
 
-"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ê°€ í•´ì‚° ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "[Csoport] feloszlott a csoport.";
 
-"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hívhatod a célt.";
+"<íŒŒí‹°> ëŒ€ìƒì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hÃ­vhatod a cÃ©lt.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Csoport] Nem hívhatod csoporttársaidat az aktuális pozíciódba.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ í˜„ì¬ ìœ„ì¹˜ë¡œ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Csoport] Nem hÃ­vhatod csoporttÃ¡rsaidat az aktuÃ¡lis pozÃ­ciÃ³dba.";
 
-"X ÀÔ´Ï´Ù";
+"X ì…ë‹ˆë‹¤";
 "Nem (X)";
 
-"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
-"A csoportod jól dolgozik együtt, és a csoport vezetõ közelében levõ csoport tagok tapasztalat bónuszt kapnak.";
+"íŒŒí‹°ì˜ í˜‘ë™ë ¥ì´ ë†’ì•„ì ¸ ì§€ê¸ˆë¶€í„° ì¶”ê°€ ê²½í—˜ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ìŠµë‹ˆë‹¤.";
+"A csoportod jÃ³l dolgozik egyÃ¼tt, Ã©s a csoport vezetÅ‘ kÃ¶zelÃ©ben levÅ‘ csoport tagok tapasztalat bÃ³nuszt kapnak.";
 
-"±æµåÀå";
-"Vezetõ";
+"ê¸¸ë“œì¥";
+"VezetÅ‘";
 
-"±æµå¿ø";
+"ê¸¸ë“œì›";
 "Tag";
 
-"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
-"[Céh] A felkínált tapasztalat nagyobb a megmaradónál.";
+"<ê¸¸ë“œ> ì œê³µí•˜ê³ ì í•˜ëŠ” ê²½í—˜ì¹˜ê°€ ë‚¨ì€ ê²½í—˜ì¹˜ë³´ë‹¤ ë§ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A felkÃ­nÃ¡lt tapasztalat nagyobb a megmaradÃ³nÃ¡l.";
 
-"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
-"[Céh] Az üzenet nem törölhetõ.";
+"<ê¸¸ë“œ> ì‚­ì œí•  ìˆ˜ ì—†ëŠ” ê¸€ì…ë‹ˆë‹¤.";
+"[CÃ©h] Az Ã¼zenet nem tÃ¶rÃ¶lhetÅ‘.";
 
-"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
-"[Céh] Nincs elég sárkány szellem. (%d, %d)";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤. (%d, %d)";
+"[CÃ©h] Nincs elÃ©g sÃ¡rkÃ¡ny szellem. (%d, %d)";
 
-"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Még nem tudod a céh képességeit használni.";
+"<ê¸¸ë“œ> ì¿¨íƒ€ì„ì´ ëë‚˜ì§€ ì•Šì•„ ê¸¸ë“œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] MÃ©g nem tudod a cÃ©h kÃ©pessÃ©geit hasznÃ¡lni.";
 
-"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
-"[Céh] %d képesség felhasználódott (%d, %d) %u-ra";
+"<ê¸¸ë“œ> %d ìŠ¤í‚¬ì„ ì‚¬ìš©í•¨ (%d, %d) to %lu";
+"[CÃ©h] %d kÃ©pessÃ©g felhasznÃ¡lÃ³dott (%d, %d) %u-ra";
 
-"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"[Céh] A játékos %d csatornán van. (Jelenleg a %d csatornán vagy).";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"[CÃ©h] A jÃ¡tÃ©kos %d csatornÃ¡n van. (Jelenleg a %d csatornÃ¡n vagy).";
 
-"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"[Céh] A játékos nem online.";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[CÃ©h] A jÃ¡tÃ©kos nem online.";
 
-"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
-"5 másodperc múlva minden résztvevõ el lesz távolítva, aki rossz választ adott.";
+"5ì´ˆ ë’¤ í‹€ë¦¬ì‹  ë¶„ë“¤ì„ ë°”ê¹¥ìœ¼ë¡œ ì´ë™ ì‹œí‚¤ê² ìŠµë‹ˆë‹¤.";
+"5 mÃ¡sodperc mÃºlva minden rÃ©sztvevÅ‘ el lesz tÃ¡volÃ­tva, aki rossz vÃ¡laszt adott.";
 
-"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Céh] A céh képesség csak a háborúban használható.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ì€ ê¸¸ë“œì „ ì¤‘ì—ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©h kÃ©pessÃ©g csak a hÃ¡borÃºban hasznÃ¡lhatÃ³.";
 
-"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
-"[Céh] %u Sárkányszellem-pont visszaállításra került.";
+"<ê¸¸ë“œ> %luì˜ ìš©ì‹ ë ¥ì„ íšŒë³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[CÃ©h] %u SÃ¡rkÃ¡nyszellem-pont visszaÃ¡llÃ­tÃ¡sra kerÃ¼lt.";
 
-"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Céh] Csak a céhvezetõ tud Yangot kivenni.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ê¸ˆê³ ì—ì„  ê¸¸ë“œì¥ë§Œ ì¶œê¸ˆí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] Csak a cÃ©hvezetÅ‘ tud Yangot kivenni.";
 
-"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Céh] A játékos elutasította a céh meghívását.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê¸¸ë“œ ì´ˆëŒ€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[CÃ©h] A jÃ¡tÃ©kos elutasÃ­totta a cÃ©h meghÃ­vÃ¡sÃ¡t.";
 
-"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Céh] Nem vagy jogosult, meghívni valakit a céhbe.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ì´ˆëŒ€í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Nem vagy jogosult, meghÃ­vni valakit a cÃ©hbe.";
 
-"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Más birodalom játékosa nem hívható meg a céhbe.";
+"<ê¸¸ë“œ> ë‹¤ë¥¸ ì œêµ­ ì‚¬ëŒì„ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] MÃ¡s birodalom jÃ¡tÃ©kosa nem hÃ­vhatÃ³ meg a cÃ©hbe.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Ezt a játékost csak %d nap múlva hívhatod meg újra.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Ezt a jÃ¡tÃ©kost csak %d nap mÃºlva hÃ­vhatod meg Ãºjra.";
 
-"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Az átszervezés után csak %d nappal hívhatsz meg új tagokat.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ í•´ì‚°í•œ ì§€ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Az Ã¡tszervezÃ©s utÃ¡n csak %d nappal hÃ­vhatsz meg Ãºj tagokat.";
 
-"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
-"[Céh] A személy már egy másik céhhez tartozik.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ì´ë¯¸ ë‹¤ë¥¸ ê¸¸ë“œì— ì†í•´ìˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] A szemÃ©ly mÃ¡r egy mÃ¡sik cÃ©hhez tartozik.";
 
-"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
-"[Céh] A maximális céhkapacitás elérve.";
+"<ê¸¸ë“œ> ìµœëŒ€ ê¸¸ë“œì› ìˆ˜ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.";
+"[CÃ©h] A maximÃ¡lis cÃ©hkapacitÃ¡s elÃ©rve.";
 
-"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
-"Készen állsz a következõ kérdésre?";
+"ë‹¤ìŒ ë¬¸ì œ ì¤€ë¹„í•´ì£¼ì„¸ìš”.";
+"KÃ©szen Ã¡llsz a kÃ¶vetkezÅ‘ kÃ©rdÃ©sre?";
 
-"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nem fejlesztheted ezt a képességet.";
+"ìˆ˜ë ¨í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Nem fejlesztheted ezt a kÃ©pessÃ©get.";
 
-"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem fejlesztheted ezt a képességet.";
+"ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem fejlesztheted ezt a kÃ©pessÃ©get.";
 
-"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Ezt a készséget nem fejlesztheted nagymester szintre.";
+"ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Ezt a kÃ©szsÃ©get nem fejlesztheted nagymester szintre.";
 
-"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Már mestere vagy ennek a képességnek. Nem fejlesztheted már.";
+"í¼í™íŠ¸ ë§ˆìŠ¤í„°ëœ ìŠ¤í‚¬ì…ë‹ˆë‹¤. ë” ì´ìƒ ìˆ˜ë ¨ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MÃ¡r mestere vagy ennek a kÃ©pessÃ©gnek. Nem fejlesztheted mÃ¡r.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Készséged nem elég nagy ahhoz, hogy nagymesterré válj.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"KÃ©szsÃ©ged nem elÃ©g nagy ahhoz, hogy nagymesterrÃ© vÃ¡lj.";
 
-"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
-"Ó, nem sikerült! Francba!";
+"í¬ìœ½, ê¸°ê°€ ì—­ë¥˜í•˜ê³  ìˆì–´! ì´ê±° ì„¤ë§ˆ ì£¼í™”ì…ë§ˆì¸ê°€!? ì  ì¥!";
+"Ã“, nem sikerÃ¼lt! Francba!";
 
-"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
-"A tréning nem sikerült. Próbáld újra késõbb!";
+"ìˆ˜ë ¨ì´ ì‹¤íŒ¨ë¡œ ëë‚¬ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ë„ì „í•´ì£¼ì‹œê¸° ë°”ëë‹ˆë‹¤.";
+"A trÃ©ning nem sikerÃ¼lt. PrÃ³bÃ¡ld Ãºjra kÃ©sÅ‘bb!";
 
-"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
-"A testem tele van erõvel!";
+"ëª¸ì—ì„œ ë­”ê°€ í˜ì´ í„°ì ¸ ë‚˜ì˜¤ëŠ” ê¸°ë¶„ì´ì•¼!";
+"A testem tele van erÅ‘vel!";
 
-"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
-"Úgy tûnik, már folyik a képzés...";
+"ëœ¨ê±°ìš´ ë¬´ì—‡ì´ ê³„ì† ìš©ì†ŸìŒì¹˜ê³  ìˆì–´! ì´ê±´, ì´ê²ƒì€!";
+"Ãšgy tÅ±nik, mÃ¡r folyik a kÃ©pzÃ©s...";
 
-"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Sikeresen befejezted a tréninget a könyv segítségével.";
+"ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"Sikeresen befejezted a trÃ©ninget a kÃ¶nyv segÃ­tsÃ©gÃ©vel.";
 
-"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Hiányos tapasztalat miatt nem tudod elolvasni.";
+"ê²½í—˜ì¹˜ê°€ ë¶€ì¡±í•˜ì—¬ ì±…ì„ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"HiÃ¡nyos tapasztalat miatt nem tudod elolvasni.";
 
 "Pregunta.";
-"Kérdés.";
+"KÃ©rdÃ©s.";
 
-"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem fejlesztheted többé ezt a képességedet könyv segítségével.";
+"ì´ ìŠ¤í‚¬ì€ ì±…ìœ¼ë¡œ ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem fejlesztheted tÃ¶bbÃ© ezt a kÃ©pessÃ©gedet kÃ¶nyv segÃ­tsÃ©gÃ©vel.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Nem elég jó ez a képességed, hogy könyv segítségével fejleszd.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ì±…ìœ¼ë¡œ ìˆ˜ë ¨í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nem elÃ©g jÃ³ ez a kÃ©pessÃ©ged, hogy kÃ¶nyv segÃ­tsÃ©gÃ©vel fejleszd.";
 
-"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
-"Elõrébb jutottam, de még mindig nem értettem meg mindent.";
+"ì–´ëŠì •ë„ ì´ ê¸°ìˆ ì— ëŒ€í•´ ì´í•´ê°€ ë˜ì—ˆì§€ë§Œ ì¡°ê¸ˆ ë¶€ì¡±í•œë“¯ í•œë°..";
+"ElÅ‘rÃ©bb jutottam, de mÃ©g mindig nem Ã©rtettem meg mindent.";
 
-"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
-"Nehéz megérteni ezeket az utasításokat. Folytatnom kell a tanulást.";
+"ë“œë””ì–´ ëì´ ë³´ì´ëŠ” ê±´ê°€...  ì´ ê¸°ìˆ ì€ ì´í•´í•˜ê¸°ê°€ ë„ˆë¬´ í˜ë“¤ì–´..";
+"NehÃ©z megÃ©rteni ezeket az utasÃ­tÃ¡sokat. Folytatnom kell a tanulÃ¡st.";
 
-"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
-"Értem ezt a fejezetet, de keményen kell dolgoznom.";
+"ì—´ì‹¬íˆ í•˜ëŠ” ë°°ì›€ì„ ê°€ì§€ëŠ” ê²ƒë§Œì´ ê¸°ìˆ ì„ ë°°ìš¸ìˆ˜ ìˆëŠ” ìœ ì¼í•œ ê¸¸ì´ë‹¤..";
+"Ã‰rtem ezt a fejezetet, de kemÃ©nyen kell dolgoznom.";
 
-"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Sikeresen befejezted a tanfolyamot a könyv segítségével.";
+"ì±…ìœ¼ë¡œ ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"Sikeresen befejezted a tanfolyamot a kÃ¶nyv segÃ­tsÃ©gÃ©vel.";
 
-"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A teleportálás sikertelen.";
+"ê·€í™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A teleportÃ¡lÃ¡s sikertelen.";
 
-"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
-"Nincs rendelkezésre álló ló. Kérdezd a Lovászinast!";
+"ë§ì´ ì—†ìŠµë‹ˆë‹¤. ë§ˆêµ¿ê°„ ê²½ë¹„ë³‘ì„ ì°¾ì•„ê°€ì„¸ìš”.";
+"Nincs rendelkezÃ©sre Ã¡llÃ³ lÃ³. KÃ©rdezd a LovÃ¡szinast!";
 
-"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
-"Használj egy tárgyat a ló hívásához.";
+"ë§ ì†Œí™˜ ì•„ì´í…œì„ ì‚¬ìš©í•˜ì„¸ìš”.";
+"HasznÃ¡lj egy tÃ¡rgyat a lÃ³ hÃ­vÃ¡sÃ¡hoz.";
 
-"%s SP¼Ò¸ğ: %d";
-"%s FP felhasználás: %d";
+"%s SPì†Œëª¨: %d";
+"%s FP felhasznÃ¡lÃ¡s: %d";
 
-"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
+"ë§ìœ¼ë©´ O, í‹€ë¦¬ë©´ Xë¡œ ì´ë™í•´ì£¼ì„¸ìš”";
 "Ha helyes menj erre: O, ha helytelen akkor erre: X.";
 
-"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
-"Belül égek, de ez megnyugtatja a testem. A Chi-met stabilizálni kell.";
+"ëª¸ ì†ì´ ëœ¨ê²êµ°. í•˜ì§€ë§Œ ì•„ì£¼ í¸ì•ˆí•´. ì´ëŒ€ë¡œ ê¸°ë¥¼ ì•ˆì •ì‹œí‚¤ì.";
+"BelÃ¼l Ã©gek, de ez megnyugtatja a testem. A Chi-met stabilizÃ¡lni kell.";
 
-"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
-"Kicsit lassan... de folyamatosan... megállás nélkül!";
+"ê·¸ë˜, ì²œì²œíˆ. ì¢€ë” ì²œì²œíˆ, ê·¸ëŸ¬ë‚˜ ë§‰í˜ ì—†ì´ ë¹ ë¥´ê²Œ!";
+"Kicsit lassan... de folyamatosan... megÃ¡llÃ¡s nÃ©lkÃ¼l!";
 
-"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
-"Igen, jó érzés. Tele vagyok Chi-vel.";
+"ê·¸ë˜, ì´ ëŠë‚Œì´ì•¼. ì²´ë‚´ì— ê¸°ê°€ ì•„ì£¼ ì¶©ë§Œí•´.";
+"Igen, jÃ³ Ã©rzÃ©s. Tele vagyok Chi-vel.";
 
-"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
+"ë‹¤ ì½ì—ˆë‹¤! ì´ì œ ë¹„ê¸‰ì— ì í˜€ìˆëŠ” ëŒ€ë¡œ ì „ì‹ ì— ê¸°ë¥¼ ëŒë¦¬ê¸°ë§Œ í•˜ë©´,";
 "Olvastam! A Chi-nek most el kell oszlania a testemben.";
 
-"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
-"A tréning lezárult.";
+"ê·¸ê²ƒìœ¼ë¡œ ìˆ˜ë ¨ì€ ëë‚œ ê±°ì•¼!";
+"A trÃ©ning lezÃ¡rult.";
 
-"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
-"A könyv utolsó oldalán járok. Mindjárt vége a tréningnek!";
+"ì´ì œ ì±…ì˜ ë§ˆì§€ë§‰ ì¥ì´ì•¼! ìˆ˜ë ¨ì˜ ëì´ ëˆˆì— ë³´ì´ê³  ìˆì–´!";
+"A kÃ¶nyv utolsÃ³ oldalÃ¡n jÃ¡rok. MindjÃ¡rt vÃ©ge a trÃ©ningnek!";
 
-"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
-"Majdnem sikerült. Még egy picit!";
+"ì–¼ë§ˆ ì•ˆ ë‚¨ì•˜ì–´! ì¡°ê¸ˆë§Œ ë”!";
+"Majdnem sikerÃ¼lt. MÃ©g egy picit!";
 
-"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
-"Értem! Majdnem átolvastam!";
+"ì¢‹ì•˜ì–´! ì¡°ê¸ˆë§Œ ë” ì½ìœ¼ë©´ ëì´ë‹¤!";
+"Ã‰rtem! Majdnem Ã¡tolvastam!";
 
-"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
-"Már csak néhány oldal, és elolvastam mindent.";
+"ì±…ì¥ë„ ì´ì œ ì–¼ë§ˆ ë‚¨ì§€ ì•Šì•˜êµ°.";
+"MÃ¡r csak nÃ©hÃ¡ny oldal, Ã©s elolvastam mindent.";
 
-"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
-"Felfrissültem.";
+"ë­”ê°€ ëª¸ ì•ˆì— í˜ì´ ìƒê¸°ëŠ” ê¸°ë¶„ì¸ ê±¸.";
+"FelfrissÃ¼ltem.";
 
-"Á¤´äÀÔ´Ï´Ù!";
+"ì •ë‹µì…ë‹ˆë‹¤!";
 "Helyes!";
 
-"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
-"Már értem!";
+"ì´ì œ ì¢€ ìŠ¬ìŠ¬ ê°€ë‹¥ì´ ì¡íˆëŠ” ê²ƒ ê°™ì€ë°.";
+"MÃ¡r Ã©rtem!";
 
-"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
-"Ok, tovább kell koncentrálnom!";
+"ì¢‹ì•„, ì´ ê¸°ì„¸ë¡œ ê³„ì† ë‚˜ê°„ë‹¤!";
+"Ok, tovÃ¡bb kell koncentrÃ¡lnom!";
 
-"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
+"ì•„ë‹ˆ ì–´ë–»ê²Œ ëœ ê²Œ ì¢…ì¼ ì½ì–´ë„ ë¨¸ë¦¬ì— ì•ˆ ë“¤ì–´ì˜¤ëƒ.";
 "Mindig ugyanazokat a sorokat olvasom.";
 
-"°øºÎÇÏ±â ½È¾îÁö³×.";
-"Nem akarok tovább tanulni.";
+"ê³µë¶€í•˜ê¸° ì‹«ì–´ì§€ë„¤.";
+"Nem akarok tovÃ¡bb tanulni.";
 
-"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
-"Ez bonyolultabb és nehezebben érthetõ, mint ahogy gondoltam.";
+"ìƒê°ë§Œí¼ ì½ê¸°ê°€ ì‰½ì§€ê°€ ì•Šêµ°. ì´í•´ë„ ì–´ë µê³  ë‚´ìš©ë„ ë‚œí•´í•´.";
+"Ez bonyolultabb Ã©s nehezebben Ã©rthetÅ‘, mint ahogy gondoltam.";
 
-"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
-"Nehéz koncentrálnom. Szünetet kellene tartanom.";
+"ì´ë˜ì„œì•¼ ê³µë¶€ê°€ ì•ˆëœë‹¤êµ¬.";
+"NehÃ©z koncentrÃ¡lnom. SzÃ¼netet kellene tartanom.";
 
-"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
-"A csetelésedet blokkolta egy admin.";
+"ìš´ì˜ì ì œì œë¡œ ì±„íŒ…ì´ ê¸ˆì§€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A csetelÃ©sedet blokkolta egy admin.";
 
-"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
-"A cseted tiltása fel lett oldva.";
+"ì±„íŒ… ê¸ˆì§€ê°€ í’€ë ¸ìŠµë‹ˆë‹¤.";
+"A cseted tiltÃ¡sa fel lett oldva.";
 
-"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
-"A gyártó ablak már nyitva van.";
+"ì´ë¯¸ ì œì¡°ì°½ì´ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"A gyÃ¡rtÃ³ ablak mÃ¡r nyitva van.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem termelhetsz, amíg egy másik kereskedõ/raktárablak nyitva van.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem termelhetsz, amÃ­g egy mÃ¡sik kereskedÅ‘/raktÃ¡rablak nyitva van.";
 
-"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem lehetséges további fejlesztés.";
+"ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem lehetsÃ©ges tovÃ¡bbi fejlesztÃ©s.";
 
-"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
-"Nincs nyitva az elõállítási ablak.";
+"ì œì¡°ì°½ì´ ì—´ë ¤ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Nincs nyitva az elÅ‘Ã¡llÃ­tÃ¡si ablak.";
 
-"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
-"Nincs megfelelõ anyagod.";
+"ì œì¡° ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤";
+"Nincs megfelelÅ‘ anyagod.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
-"[Céh] Késõbb próbáld meg újra.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤";
+"[CÃ©h] KÃ©sÅ‘bb prÃ³bÃ¡ld meg Ãºjra.";
 
-"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Még %d készségkönyvet kell elolvasnod, hogy fejlõdjön ez a készséged.";
+"%d ê¶Œì„ ë” ì½ì–´ì•¼ ìˆ˜ë ¨ì„ ì™„ë£Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MÃ©g %d kÃ©szsÃ©gkÃ¶nyvet kell elolvasnod, hogy fejlÅ‘djÃ¶n ez a kÃ©szsÃ©ged.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
-"[Céh] Próbáld meg újra késõbb.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤.";
+"[CÃ©h] PrÃ³bÃ¡ld meg Ãºjra kÃ©sÅ‘bb.";
 
-"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
-"Ez a funkció csak a kastélyban használható.";
+"ì„±ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤.";
+"Ez a funkciÃ³ csak a kastÃ©lyban hasznÃ¡lhatÃ³.";
 
-"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
-"TEST: Az aranyrudakat visszafizették a birodalom széfjébe.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ê°€ êµ­ê³ ë¡œ í™˜ì›ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TEST: Az aranyrudakat visszafizettÃ©k a birodalom szÃ©fjÃ©be.";
 
-"TEST : ÇöÀç ±¹°í : %d";
-"TEST: A birodalmad széf tartalma: %d";
+"TEST : í˜„ì¬ êµ­ê³  : %d";
+"TEST: A birodalmad szÃ©f tartalma: %d";
 
-"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"TEST: Az aranyrudakat nem tudod visszatenni a birodalom széfjébe.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ë¥¼ êµ­ê³ ë¡œ í™˜ì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TEST: Az aranyrudakat nem tudod visszatenni a birodalom szÃ©fjÃ©be.";
 
-"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
-"[Céh] A Céh %d pontot ért el.";
+"<ê¸¸ë“œ> ë˜ë” ì ìˆ˜ê°€ %d ì ì´ ë˜ì—ˆìŠµë‹ˆë‹¤";
+"[CÃ©h] A CÃ©h %d pontot Ã©rt el.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ez a tárgy nem javítható.";
+"ì´ ì•„ì´í…œì€ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a tÃ¡rgy nem javÃ­thatÃ³.";
 
-"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
-"Az ingyenes fegyverjavítás csak a 20-as szint alatti fegyverekre alkalmazható.";
+"ë¬´ë£Œ ê°œëŸ‰ ê¸°íšŒëŠ” 20 ì´í•˜ì˜ ë¬´ê¸°ë§Œ ê°€ëŠ¥í•©ë‹ˆë‹¤";
+"Az ingyenes fegyverjavÃ­tÃ¡s csak a 20-as szint alatti fegyverekre alkalmazhatÃ³.";
 
-"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod ezt a tárgyat, mert nincsenek meg az elõfeltételek.";
+"êµ°ì§ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod ezt a tÃ¡rgyat, mert nincsenek meg az elÅ‘feltÃ©telek.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem használhatod ezt a tárgyat, mert a nemed nem megfelelõ hozzá.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem hasznÃ¡lhatod ezt a tÃ¡rgyat, mert a nemed nem megfelelÅ‘ hozzÃ¡.";
 
-"»ç¿ë¹ı: transfer <name>";
-"Használd: transfer <name>";
+"ì‚¬ìš©ë²•: transfer <name>";
+"HasznÃ¡ld: transfer <name>";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Ezt a funkciót csak a császár használhatja.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš© ê°€ëŠ¥í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Ezt a funkciÃ³t csak a csÃ¡szÃ¡r hasznÃ¡lhatja.";
 
-"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem választhatsz ki játékost mást birodalomból.";
+"ë‹¤ë¥¸ ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem vÃ¡laszthatsz ki jÃ¡tÃ©kost mÃ¡st birodalombÃ³l.";
 
-"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
-"%s játékos a %d csatornán található. (Te a %d csatornán vagy)";
+"%s ë‹˜ì€ %d ì±„ë„ì— ì ‘ì† ì¤‘ ì…ë‹ˆë‹¤. (í˜„ì¬ ì±„ë„: %d)";
+"%s jÃ¡tÃ©kos a %d csatornÃ¡n talÃ¡lhatÃ³. (Te a %d csatornÃ¡n vagy)";
 
-"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
-"%s játékost választottad ki.";
+"%s ë‹˜ì„ ì†Œí™˜í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s jÃ¡tÃ©kost vÃ¡lasztottad ki.";
 
-"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Nincs játékos az általad megadott névvel.";
+"ì…ë ¥í•˜ì‹  ì´ë¦„ì„ ê°€ì§„ ì‚¬ìš©ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs jÃ¡tÃ©kos az Ã¡ltalad megadott nÃ©vvel.";
 
-"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem toborozhatod be saját magad.";
+"ìì‹ ì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem toborozhatod be sajÃ¡t magad.";
 
-"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Túl alacsony a szinted ahhoz, hogy használd ezt a tárgyat.";
+"ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TÃºl alacsony a szinted ahhoz, hogy hasznÃ¡ld ezt a tÃ¡rgyat.";
 
-"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nem tudsz fejleszteni, amíg egy másik ablak nyitva van.";
+"ì°½ê³ ,ê±°ë˜ì°½ë“±ì´ ì—´ë¦° ìƒíƒœì—ì„œëŠ” ê°œëŸ‰ì„ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nem tudsz fejleszteni, amÃ­g egy mÃ¡sik ablak nyitva van.";
 
-"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
-"%s császárát lecserálták. Az új császár: %s.";
+"%sì˜ êµ°ì£¼ê°€ %s ë‹˜ìœ¼ë¡œ êµì²´ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"%s csÃ¡szÃ¡rÃ¡t lecserÃ¡ltÃ¡k. Az Ãºj csÃ¡szÃ¡r: %s.";
 
-"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
-"Háború van %s-ben a máglya meggyújtásáért.";
+"%sì—ì„œ ë´‰í™”ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ì „íˆ¬ê°€ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤.";
+"HÃ¡borÃº van %s-ben a mÃ¡glya meggyÃºjtÃ¡sÃ¡Ã©rt.";
 
-"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
-"%s sikeresen védekezett.";
+"%sì´ ìˆ˜ì„±ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"%s sikeresen vÃ©dekezett.";
 
-"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Mostantól 30 percen át kaphat %s jutalmat a máglya szétrombolásáért.";
+"ì§€ê¸ˆë¶€í„° %sì€ 30ë¶„ê°„ ë´‰í™”ë¥¼ íŒŒê´´í•˜ì—¬ ë³´ìƒì„ íšë“ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MostantÃ³l 30 percen Ã¡t kaphat %s jutalmat a mÃ¡glya szÃ©trombolÃ¡sÃ¡Ã©rt.";
 
-"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
-"A 30 perc letelt. A máglya eltûnt.";
+"30ë¶„ì´ ê²½ê³¼í–ˆìŠµë‹ˆë‹¤.. ë´‰í™”ê°€ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A 30 perc letelt. A mÃ¡glya eltÅ±nt.";
 
-"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
-"Máglyát gyújtottak %s-nél, hogy csatára figyelmeztessenek.";
+"%sì— ì „ìŸì˜ ì‹œì‘ì„ ì•Œë¦¬ëŠ” ë´‰í™”ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤.";
+"MÃ¡glyÃ¡t gyÃºjtottak %s-nÃ©l, hogy csatÃ¡ra figyelmeztessenek.";
 
-"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
-"%s szétrombolta a máglyát.";
+"%sì´ ë´‰í™”ë¥¼ íŒŒê´´í–ˆìŠµë‹ˆë‹¤.";
+"%s szÃ©trombolta a mÃ¡glyÃ¡t.";
 
-"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
-"%s elvesztette a háborút, mert nem tudta megvédeni a kastélyt.";
+"%sì´ ìˆ˜ì„±ì— ì‹¤íŒ¨í•˜ì—¬ ì „ìŸì— íŒ¨ë°°í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"%s elvesztette a hÃ¡borÃºt, mert nem tudta megvÃ©deni a kastÃ©lyt.";
 
-"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
-"%s minden máglyát szétrombolt.";
+"%sì´ ëª¨ë“  ë´‰í™”ë¥¼ íŒŒê´´í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s minden mÃ¡glyÃ¡t szÃ©trombolt.";
 
-"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
-"Csak akkor tudod kinyitni a boltot, ha leveszed a felszerelésed.";
+"ê°‘ì˜·ì„ ë²—ì–´ì•¼ ê°œì¸ ìƒì ì„ ì—´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Csak akkor tudod kinyitni a boltot, ha leveszed a felszerelÃ©sed.";
 
-"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d óra %d perc %d másodperc van még hátra a chat tiltásodból";
+"%d ì‹œê°„ %d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d Ã³ra %d perc %d mÃ¡sodperc van mÃ©g hÃ¡tra a chat tiltÃ¡sodbÃ³l";
 
-"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d óra %d másodperc van még hátra a chat tiltásodból";
+"%d ì‹œê°„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d Ã³ra %d mÃ¡sodperc van mÃ©g hÃ¡tra a chat tiltÃ¡sodbÃ³l";
 
-"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d perc %d másodperc van még hátra a chat tiltásodból";
+"%d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d perc %d mÃ¡sodperc van mÃ©g hÃ¡tra a chat tiltÃ¡sodbÃ³l";
 
-"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
-"Esély Yang-esõre";
+"ëˆ ëŒ€ë°•ì´ ë‚˜ì˜¬ í™•ë¥ ";
+"EsÃ©ly Yang-esÅ‘re";
 
-"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nincs megfelelõ anyagod, hogy megcsináld.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Nincs megfelelÅ‘ anyagod, hogy megcsinÃ¡ld.";
 
-"ÀüÁ¦±¹";
-"Összes királyság";
+"ì „ì œêµ­";
+"Ã–sszes kirÃ¡lysÃ¡g";
 
-"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
-"Tárgy leejtési gyakoriságának aránya";
+"ì•„ì´í…œì´ ë‚˜ì˜¬ í™•ë¥ ";
+"TÃ¡rgy leejtÃ©si gyakorisÃ¡gÃ¡nak arÃ¡nya";
 
-"µ·ÀÌ ³ª¿Ã È®·ü";
-"Yang-dobási arány százalékban";
+"ëˆì´ ë‚˜ì˜¬ í™•ë¥ ";
+"Yang-dobÃ¡si arÃ¡ny szÃ¡zalÃ©kban";
 
-"°æÇèÄ¡ ¹èÀ²";
-"Tapasztalati pontok százaléka";
+"ê²½í—˜ì¹˜ ë°°ìœ¨";
+"Tapasztalati pontok szÃ¡zalÃ©ka";
 
-"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d másodperc van hátra a chat tiltásodból";
+"%d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d mÃ¡sodperc van hÃ¡tra a chat tiltÃ¡sodbÃ³l";
 
-"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz érzelmi kifejezéseket mutatni míg lovagolsz.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz Ã©rzelmi kifejezÃ©seket mutatni mÃ­g lovagolsz.";
 
-"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudsz érzelmi kifejezéseket mutatni olyan játékosnak aki lovagol.";
+"ë§ì„ íƒ„ ìƒëŒ€ì™€ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudsz Ã©rzelmi kifejezÃ©seket mutatni olyan jÃ¡tÃ©kosnak aki lovagol.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Céh] Az ellenséges céh vezetõje offline.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì¥ì´ ì ‘ì†ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[CÃ©h] Az ellensÃ©ges cÃ©h vezetÅ‘je offline.";
 
-"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] Az ellenséges céh vezetõje offline.";
+"ì „ìŸ ì„œë²„ê°€ ì—´ë ¤ìˆì§€ ì•Šì•„ ê¸¸ë“œì „ì„ ì‹œì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] Az ellensÃ©ges cÃ©h vezetÅ‘je offline.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Céh] Ez a céh éppen egy csatában vesz részt.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸ ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[CÃ©h] Ez a cÃ©h Ã©ppen egy csatÃ¡ban vesz rÃ©szt.";
 
-"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
-"Épp lovagolsz. Elõbb szállj le a hátasról.";
+"ì´ë¯¸ íƒˆê²ƒì„ ì´ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"Ã‰pp lovagolsz. ElÅ‘bb szÃ¡llj le a hÃ¡tasrÃ³l.";
 
-"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem javíthatsz tárgyakat ezzel a tekerccsel.";
+"ì´ ê°œëŸ‰ì„œë¡œ ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem javÃ­thatsz tÃ¡rgyakat ezzel a tekerccsel.";
 
-"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
-"Csak egyszer kaphatsz jutalmat a Démon-torony megbízatásért.";
+"ì‚¬ê·€ íƒ€ì›Œ ì™„ë£Œ ë³´ìƒì€ í•œë²ˆê¹Œì§€ ì‚¬ìš©ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Csak egyszer kaphatsz jutalmat a DÃ©mon-torony megbÃ­zatÃ¡sÃ©rt.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"A Sárkánykõ el lett távolítva.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A SÃ¡rkÃ¡nykÅ‘ el lett tÃ¡volÃ­tva.";
 
-"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Nem mozdíthatod el a tárgyat a finomítási ablakon belül.";
+"ê°•í™”ì°½ì„ ì—° ìƒíƒœì—ì„œëŠ” ì•„ì´í…œì„ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem mozdÃ­thatod el a tÃ¡rgyat a finomÃ­tÃ¡si ablakon belÃ¼l.";
 
-"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"A Sárkánykõ fennmaradó idõtartama ki lett nyerve.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A SÃ¡rkÃ¡nykÅ‘ fennmaradÃ³ idÅ‘tartama ki lett nyerve.";
 
-"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Sikertelen a fennmaradó élettartam meghosszabbítása.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Sikertelen a fennmaradÃ³ Ã©lettartam meghosszabbÃ­tÃ¡sa.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Nem sikerült a Sárkánykõ eltávolítása, de ezt kaptad: %s";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì—¬ %së¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt a SÃ¡rkÃ¡nykÅ‘ eltÃ¡volÃ­tÃ¡sa, de ezt kaptad: %s";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nem sikerült a Sárkánykõ eltávolítása.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt a SÃ¡rkÃ¡nykÅ‘ eltÃ¡volÃ­tÃ¡sa.";
 
-"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Ez a tárgy nem szükséges a csiszolási tisztaság emeléséhez.";
+"ë“±ê¸‰ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Ez a tÃ¡rgy nem szÃ¼ksÃ©ges a csiszolÃ¡si tisztasÃ¡g emelÃ©sÃ©hez.";
 
-"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Ez a tárgy nem szükséges a csiszolási tisztaság emeléséhez.";
+"ê°•í™”ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Ez a tÃ¡rgy nem szÃ¼ksÃ©ges a csiszolÃ¡si tisztasÃ¡g emelÃ©sÃ©hez.";
 
-"µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Ez a tárgy ilyen módon nem javítható.";
+"ë“±ê¸‰ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Ez a tÃ¡rgy ilyen mÃ³don nem javÃ­thatÃ³.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ez a tárgy ilyen módon nem javítható.";
+"ì´ ì•„ì´í…œì€ ì´ ë°©ì‹ìœ¼ë¡œëŠ” ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ez a tÃ¡rgy ilyen mÃ³don nem javÃ­thatÃ³.";
 
-"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Sikeres volt a csiszolási tisztaság növelése.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Sikeres volt a csiszolÃ¡si tisztasÃ¡g nÃ¶velÃ©se.";
 
-"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Nem sikerült egy osztály finomítása.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt egy osztÃ¡ly finomÃ­tÃ¡sa.";
 
-"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Ez a tárgy nem szükséges a finomításhoz.";
+"ë‹¨ê³„ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Ez a tÃ¡rgy nem szÃ¼ksÃ©ges a finomÃ­tÃ¡shoz.";
 
-"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Egy osztály finomítása volt sikeres.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Egy osztÃ¡ly finomÃ­tÃ¡sa volt sikeres.";
 
-"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Nem sikerült a csiszolási tisztaság emelése.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt a csiszolÃ¡si tisztasÃ¡g emelÃ©se.";
 
-"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Nincsenek nálad a szükséges anyagok a Sárkánykõ erõsítéséhez.";
+"ë‹¨ê³„ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Nincsenek nÃ¡lad a szÃ¼ksÃ©ges anyagok a SÃ¡rkÃ¡nykÅ‘ erÅ‘sÃ­tÃ©sÃ©hez.";
 
-"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Ez a Sárkánykõ nem használható erõsítéshez.";
+"ê°•í™”í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Ez a SÃ¡rkÃ¡nykÅ‘ nem hasznÃ¡lhatÃ³ erÅ‘sÃ­tÃ©shez.";
 
-"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Sikeres volt az erõsítés.";
+"ê°•í™”ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Sikeres volt az erÅ‘sÃ­tÃ©s.";
 
-"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Nem sikerült az erõsítés.";
+"ê°•í™”ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Nem sikerÃ¼lt az erÅ‘sÃ­tÃ©s.";
 
-"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Már használsz egy ilyen típusú Sárkánykövet.";
+"ì´ë¯¸ ê°™ì€ ì¢…ë¥˜ì˜ ìš©í˜¼ì„ì„ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"MÃ¡r hasznÃ¡lsz egy ilyen tÃ­pusÃº SÃ¡rkÃ¡nykÃ¶vet.";
 
-"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nem távolítható el a Sárkánykõ.";
+"ì°©ìš© ì¤‘ì¸ ìš©í˜¼ì„ì€ ì¶”ì¶œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tÃ¡volÃ­thatÃ³ el a SÃ¡rkÃ¡nykÅ‘.";
 
-"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Már van felszerelve ilyen fajta Sárkánykõ.";
+"ì´ë¯¸ ì¥ë¹„ë¥¼ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"MÃ¡r van felszerelve ilyen fajta SÃ¡rkÃ¡nykÅ‘.";
 
-"ÀÎº¥ÀÌ È°¼ºÈ­ µÇÁö ¾ÊÀ½.";
-"Mielõtt kinyitsz egy Cor Draconis-t, teljesítened kell a Sárkánykõ-küldetést és aktiválnod kell a Sárkánykõ-alkímiát.";
+"ì¸ë²¤ì´ í™œì„±í™” ë˜ì§€ ì•ŠìŒ.";
+"MielÅ‘tt kinyitsz egy Cor Draconis-t, teljesÃ­tened kell a SÃ¡rkÃ¡nykÅ‘-kÃ¼ldetÃ©st Ã©s aktivÃ¡lnod kell a SÃ¡rkÃ¡nykÅ‘-alkÃ­miÃ¡t.";
 
-"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
-"Mielõtt kinyitsz egy Cor Draconis-t, teljesítened kell a Sárkánykõ-küldetést és aktiválnod kell a Sárkánykõ-alkímiát.";
+"ë¨¼ì € ìš©í˜¼ì„ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì…”ì•¼ í•©ë‹ˆë‹¤.";
+"MielÅ‘tt kinyitsz egy Cor Draconis-t, teljesÃ­tened kell a SÃ¡rkÃ¡nykÅ‘-kÃ¼ldetÃ©st Ã©s aktivÃ¡lnod kell a SÃ¡rkÃ¡nykÅ‘-alkÃ­miÃ¡t.";
 
-"º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Az övet csak akkor lehet levenni, ha már semmilyen tárgy nincs a leltárában.";
+"ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ì— ì•„ì´í…œì´ ì¡´ì¬í•˜ë©´ í•´ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Az Ã¶vet csak akkor lehet levenni, ha mÃ¡r semmilyen tÃ¡rgy nincs a leltÃ¡rÃ¡ban.";
 
-"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
-"Egyesíteni tudod az Áldástekercset a Mágikus vasérccel.";
+"ì¶•ë³µì˜ ì„œì™€ í˜„ì² ì„ í•©ì¹  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"EgyesÃ­teni tudod az ÃldÃ¡stekercset a MÃ¡gikus vasÃ©rccel.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Nem tudod beletenni ezt a tárgyat az öv-leltáradba.";
+"ì´ ì•„ì´í…œì€ ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ë¡œ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem tudod beletenni ezt a tÃ¡rgyat az Ã¶v-leltÃ¡radba.";
 
-"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"ê°™ì€ ê°œëŸ‰ì„œë¥¼ í•©ì¹  ìˆ˜ëŠ” ì—†ìŠµë‹ˆë‹¤.";
 "[1106-??]No puedes unir esto.";
 
-"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
-"%d Yangot fektettél be.";
+"%d ëƒ¥ì„ íˆ¬ìí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"%d Yangot fektettÃ©l be.";
 
-"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
-"Nincs kivehetõ kõ.";
+"ë¹¼ë‚¼ ìˆ˜ ìˆëŠ” ë©”í‹´ì„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs kivehetÅ‘ kÅ‘.";
 
-"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
-"Nem mentheted ezt a helyszínt.";
+"ê¸°ì–µí•´ ë‘˜ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ ì…ë‹ˆë‹¤.";
+"Nem mentheted ezt a helyszÃ­nt.";
 
-"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Nincs elég hely a leltárban.";
+"ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs elÃ©g hely a leltÃ¡rban.";
 
-"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Egy idegen birodalomban nem tudod magad biztonságos helyre teleportálni.";
+"ê¸°ì–µëœ ìœ„ì¹˜ê°€ íƒ€ì œêµ­ì— ì†í•´ ìˆì–´ì„œ ê·€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Egy idegen birodalomban nem tudod magad biztonsÃ¡gos helyre teleportÃ¡lni.";
 
-"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nincs elég TP-d.";
+"ë‚¨ì€ ìƒëª…ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs elÃ©g TP-d.";
 
-"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nincs elég Manád, hogy használd.";
+"ë‚¨ì€ ì •ì‹ ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nincs elÃ©g ManÃ¡d, hogy hasznÃ¡ld.";
 
-"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
-"%d másodperccel az indítás után eléred a célhelyet.";
+"%d ì´ˆí›„ ëª©ì ì§€ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"%d mÃ¡sodperccel az indÃ­tÃ¡s utÃ¡n elÃ©red a cÃ©lhelyet.";
 
-"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Túl alacsony szinten vagy, hogy használd ezt a tárgyat.";
+"ê°œëŸ‰ëœ í›„ ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TÃºl alacsony szinten vagy, hogy hasznÃ¡ld ezt a tÃ¡rgyat.";
 
-"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
-"Csak 5 másodpercenként használhatsz Hold sütit.";
+"ì›”ë³‘,ì¢…ì ì‚¬ìš©í›„ 5ì´ˆë™ì•ˆ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ";
+"Csak 5 mÃ¡sodpercenkÃ©nt hasznÃ¡lhatsz Hold sÃ¼tit.";
 
-"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
-"A párbajban nem használhatod ezt a tárgyat.";
+"ëŒ€ë ¨ ì¤‘ì—ëŠ” ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë¬¼í’ˆì…ë‹ˆë‹¤.";
+"A pÃ¡rbajban nem hasznÃ¡lhatod ezt a tÃ¡rgyat.";
 
-"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
-"%d Yangot nyertél.";
+"%d ëƒ¥ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"%d Yangot nyertÃ©l.";
 
-"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
-"Itt nem csinálhatsz tábortüzet.";
+"ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ëŠ” ì§€ì ì…ë‹ˆë‹¤.";
+"Itt nem csinÃ¡lhatsz tÃ¡bortÃ¼zet.";
 
-"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nem csinálhatsz vízben tábortüzet.";
+"ë¬¼ ì†ì— ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nem csinÃ¡lhatsz vÃ­zben tÃ¡bortÃ¼zet.";
 
-"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
-"Zárva. Meg kell keresned a kulcsot.";
+"ì—´ì‡ ë¡œ ì ê²¨ ìˆì–´ì„œ ì—´ë¦¬ì§€ ì•ŠëŠ”ê²ƒ ê°™ë‹¤. ì—´ì‡ ë¥¼ êµ¬í•´ë³´ì.";
+"ZÃ¡rva. Meg kell keresned a kulcsot.";
 
-"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
-"Ez a tárgy nem nyitható kulccsal.";
+"ì—´ì‡ ë¡œ ì—¬ëŠ” ë¬¼ê±´ì´ ì•„ë‹Œê²ƒ ê°™ë‹¤.";
+"Ez a tÃ¡rgy nem nyithatÃ³ kulccsal.";
 
-"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
+"ì—´ì‡ ëŠ” ë§ìœ¼ë‚˜ ì•„ì´í…œ ì£¼ëŠ” ë¶€ë¶„ êµ¬í˜„ì´ ì•ˆë˜ì—ˆìŠµë‹ˆë‹¤.";
 "Ez a helyes kulcs.";
 
-"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
-"%d Yangot kaptál.";
+"ëˆ %d ëƒ¥ì„ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"%d Yangot kaptÃ¡l.";
 
-"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Misztikus fény jön a ládából.";
+"ìƒìì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Misztikus fÃ©ny jÃ¶n a lÃ¡dÃ¡bÃ³l.";
 
-"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
-"%d tapasztalatot szereztél.";
+"%dì˜ ê²½í—˜ì¹˜ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"%d tapasztalatot szereztÃ©l.";
 
-"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
-"Nézd, mi jött elõ a ládából!";
+"ìƒìì—ì„œ ëª¬ìŠ¤í„°ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤!";
+"NÃ©zd, mi jÃ¶tt elÅ‘ a lÃ¡dÃ¡bÃ³l!";
 
-"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Céh] A céhszint túl alacsony.";
+"<ê¸¸ë“œ> ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[CÃ©h] A cÃ©hszint tÃºl alacsony.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
-"Ha belélegzed a piros füstöt a ládából, növekszik a gyorsaságod.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë¹¨ê°„ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ì›€ì§ì´ëŠ” ì†ë„ê°€ ëŠë ¤ì¡ŒìŠµë‹ˆë‹¤!";
+"Ha belÃ©legzed a piros fÃ¼stÃ¶t a lÃ¡dÃ¡bÃ³l, nÃ¶vekszik a gyorsasÃ¡god.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"ë” ì´ìƒ ì´ ì•„ì´í…œìœ¼ë¡œ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
 "You cannot add more bonus.";
 
-"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"ì„±ê³µì ìœ¼ë¡œ ì†ì„±ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "New bonus added successfully.";
 
-"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"ë³€ê²½ ì‹œí‚¬ ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤";
 "You cannot change the bonuses.";
 
-"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"%sì´ í•„ìš”í•©ë‹ˆë‹¤.";
 "%s needed.";
 
-"¹®Á¦ ÀÔ´Ï´Ù.";
+"ë¬¸ì œ ì…ë‹ˆë‹¤.";
 "OX-Question: ";

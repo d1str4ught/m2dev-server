@@ -1,2285 +1,2285 @@
-"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Všichni budou brzy teleportováni do mìsta.";
+"ì ì‹œí›„ í•´ë‹¹ ë§ˆì„ì€  ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"VÅ¡ichni budou brzy teleportovÃ¡ni do mÄ›sta.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
-"Tento pøedmìt neexistuje.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ì•„ì´í…œ ì…ë‹ˆë‹¤";
+"Tento pÅ™edmÄ›t neexistuje.";
 
-"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
-"Bedna náhle vybuchla! Ztratil jsi body ivota (ZB).";
+"ìƒìê°€ ê°‘ìê¸° í­ë°œí•˜ì˜€ìŠµë‹ˆë‹¤! ìƒëª…ë ¥ì´ ê°ì†Œí–ˆìŠµë‹ˆë‹¤.";
+"Bedna nÃ¡hle vybuchla! Ztratil jsi body Å¾ivota (ZB).";
 
-"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
-"Pokud vdechneš zelenı kouø vycházející z bedny, jed se rozšíøí v tvém tìle!";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë…¹ìƒ‰ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ë…ì´ ì˜¨ëª¸ìœ¼ë¡œ í¼ì§‘ë‹ˆë‹¤!";
+"Pokud vdechneÅ¡ zelenÃ½ kouÅ™ vychÃ¡zejÃ­cÃ­ z bedny, jed se rozÅ¡Ã­Å™Ã­ v tvÃ©m tÄ›le!";
 
-"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
-"Obdrel jsi %s, %d kusù";
+"%s ì•„ì´í…œ ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤";
+"ObdrÅ¾el jsi %s, %d kusÅ¯";
 
-"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
-"V bednì je %s.";
+"ìƒìì—ì„œ %s ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"V bednÄ› je %s.";
 
-"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
-"Zdá se, e klíè nesedí k zámku.";
+"ì—´ì‡ ê°€ ë§ì§€ ì•ŠëŠ” ê²ƒ ê°™ë‹¤.";
+"ZdÃ¡ se, Å¾e klÃ­Ä nesedÃ­ k zÃ¡mku.";
 
-"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
+"ì•„ë¬´ê²ƒë„ ì–»ì„ ìˆ˜ ì—†ì—ˆìŠµë‹ˆë‹¤.";
 "Nic jsi nedostal.";
 
-"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nemáš dostatek Yangù na pouití tohoto pøedmìtu.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek YangÅ¯ na pouÅ¾itÃ­ tohoto pÅ™edmÄ›tu.";
 
-"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemáš dostatek Yangù na pouití tohoto pøedmìtu.";
+"ì†Œì§€ê¸ˆì´ ë¶€ì¡±í•˜ì—¬ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek YangÅ¯ na pouÅ¾itÃ­ tohoto pÅ™edmÄ›tu.";
 
-"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Sníil jsi svou úroveò schopností.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦¬ëŠ”ë° ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"SnÃ­Å¾il jsi svou ÃºroveÅˆ schopnostÃ­.";
 
-"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš sníit svou úroveò schopností.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ snÃ­Å¾it svou ÃºroveÅˆ schopnostÃ­.";
 
-"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
-"Efekt je ji aktivní.";
+"ì´ë¯¸ íš¨ê³¼ê°€ ê±¸ë ¤ ìˆìŠµë‹ˆë‹¤.";
+"Efekt je jiÅ¾ aktivnÃ­.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tento pøedmìt mùe bıt pouity pouze v internetové kavárnì.";
+"ì´ ì•„ì´í…œì€ PCë°©ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t mÅ¯Å¾e bÃ½t pouÅ¾ity pouze v internetovÃ© kavÃ¡rnÄ›.";
 
-"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
-"Tohle je pøes limit.";
+"ì‚¬ìš© ì œí•œëŸ‰ì„ ì´ˆê³¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Tohle je pÅ™es limit.";
 
-"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
-"Bohuel nemáš ve svém inventáøi dostatek místa.";
+"ìƒí’ˆì„ ë°›ì„ ì¸ë²¤í† ë¦¬ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ë¥¼ ë¹„ì›Œì£¼ì„¸ìš”!";
+"BohuÅ¾el nemÃ¡Å¡ ve svÃ©m inventÃ¡Å™i dostatek mÃ­sta.";
 
-"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
-"Pouitı Mìsíèní koláè, nebo semínko.";
+"ì›”ë³‘ ë˜ëŠ” ì¢…ì ë¥¼ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤";
+"PouÅ¾itÃ½ MÄ›sÃ­ÄnÃ­ kolÃ¡Ä, nebo semÃ­nko.";
 
-"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš nosit svatební prsten, pokud nejsi enatı/vdaná.";
+"ê²°í˜¼ ìƒíƒœê°€ ì•„ë‹ˆë©´ ê²°í˜¼ë°˜ì§€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ nosit svatebnÃ­ prsten, pokud nejsi Å¾enatÃ½/vdanÃ¡.";
 
-"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Nemùeš pouít Detektor událostí z tohoto místa.";
+"ì´ ê³³ì—ì„  ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Detektor udÃ¡lostÃ­ z tohoto mÃ­sta.";
 
-"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt nelze absorbovat.";
+"ì´ ê°œëŸ‰ì„œë¡œ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nelze absorbovat.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Detektor událostí zmizel v magické záøi.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Detektor udÃ¡lostÃ­ zmizel v magickÃ© zÃ¡Å™i.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Detektor událostí zmizel.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Detektor udÃ¡lostÃ­ zmizel.";
 
-"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Kompas kamene Metinu nefunguje v podzemí.";
+"ì´ ê³³ì—ì„œ ì˜ì„ ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"Kompas kamene Metinu nefunguje v podzemÃ­.";
 
-"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Kompas kamene Metinu zmizel v magické záøi.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Kompas kamene Metinu zmizel v magickÃ© zÃ¡Å™i.";
 
-"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
-"Získáš: %s - %d";
+"ìƒìì—ì„œ %s ê°€ %d ê°œ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"ZÃ­skÃ¡Å¡: %s - %d";
 
-"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "Kompas kamene Metinu zmizel.";
 
-"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
-"V mušli najdeš jen kousek kamene.";
+"ì¡°ê°œì—ì„œ ëŒì¡°ê°ì´ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"V muÅ¡li najdeÅ¡ jen kousek kamene.";
 
-"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"V mušli nic nebylo.";
+"ì¡°ê°œê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"V muì‰•i nic nebylo.";
 
-"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"V mušli je Bílá perla.";
+"ì¡°ê°œì—ì„œ ë°±ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"V muÅ¡li je BÃ­lÃ¡ perla.";
 
-"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"V mušli je Modrá perla.";
+"ì¡°ê°œì—ì„œ ì²­ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"V muÅ¡li je ModrÃ¡ perla.";
 
-"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"V mušli je Krvavì rudá perla.";
+"ì¡°ê°œì—ì„œ í”¼ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"V muÅ¡li je KrvavÄ› rudÃ¡ perla.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
-"Není jednoduché porozumìt této knize.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œ ì´í•´í•˜ê¸°ê°€ í˜ë“­ë‹ˆë‹¤.";
+"NenÃ­ jednoduchÃ© porozumÄ›t tÃ©to knize.";
 
-"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Tato kniha Ti nepomùe.";
+"ì´ ì±…ì€ ì•„ë¬´ë¦¬ ë´ë„ ë„ì›€ì´ ë  ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Tato kniha Ti nepomÅ¯Å¾e.";
 
-"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Musíš mít nejménì úroveò 30, aby jsi této knize porozumìl.";
+"ë ˆë²¨ 30ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ mÃ­t nejmÃ©nÄ› ÃºroveÅˆ 30, aby jsi tÃ©to knize porozumÄ›l.";
 
-"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Musíš mít nejménì úroveò 50, aby jsi této knize porozumìl.";
+"ë ˆë²¨ 50ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ mÃ­t nejmÃ©nÄ› ÃºroveÅˆ 50, aby jsi tÃ©to knize porozumÄ›l.";
 
-"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš trénovat další komba.";
+"ì—°ê³„ê¸°ëŠ” ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ trÃ©novat dalÅ¡Ã­ komba.";
 
-"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
-"%s cech ukoøistil vlajku %s cechu!";
+"%s ê¸¸ë“œì˜ ê¹ƒë°œì„ %s ë‹˜ì´ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s cech ukoÅ™istil vlajku %s cechu!";
 
-"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
-"Touto øeèí ji mluvíš plynule.";
+"ì´ë¯¸ ì™„ë²½í•˜ê²Œ ì•Œì•„ë“¤ì„ ìˆ˜ ìˆëŠ” ì–¸ì–´ì´ë‹¤.";
+"Touto Å™eÄÃ­ jiÅ¾ mluvÃ­Å¡ plynule.";
 
-"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
-"Musíš si zvıšit úroveò, abys porozumìl této knize.";
+"ì´ ì±…ì„ ì½ìœ¼ë ¤ë©´ ë ˆë²¨ì„ ë” ì˜¬ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"MusÃ­Å¡ si zvÃ½Å¡it ÃºroveÅˆ, abys porozumÄ›l tÃ©to knize.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tato kniha je pøíliš tìká na nauèení.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œì„œ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tato kniha je pÅ™Ã­liÅ¡ tÄ›Å¾kÃ¡ na nauÄenÃ­.";
 
-"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš dále trénovat s touto knihou.";
+"ì´ ì±…ìœ¼ë¡œëŠ” ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ dÃ¡le trÃ©novat s touto knihou.";
 
-"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
-"Danì nastaveny na %d %%.";
+"ì„¸ê¸ˆì´ %d %ë¡œ ì„¤ì •ë˜ì—ˆìŠµë‹ˆë‹¤";
+"DanÄ› nastaveny na %d %%.";
 
-"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
-"Potøebuješ minimálnì úroveò 50 na trénink jízdy na koni.";
+"ì•„ì§ ìŠ¹ë§ˆ ìŠ¤í‚¬ì„ ìˆ˜ë ¨í•  ìˆ˜ ìˆëŠ” ë ˆë²¨ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"PotÅ™ebujeÅ¡ minimÃ¡lnÄ› ÃºroveÅˆ 50 na trÃ©nink jÃ­zdy na koni.";
 
-"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
-"Unikl jsi kletbì zlého ducha za pomoci pergamenu exorcismu.";
+"ì£¼ì•ˆìˆ ì„œë¥¼ í†µí•´ ì£¼í™”ì…ë§ˆì—ì„œ ë¹ ì ¸ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Unikl jsi kletbÄ› zlÃ©ho ducha za pomoci pergamenu exorcismu.";
 
-"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš èíst více prùvodcù jízdou na koni.";
+"ë” ì´ìƒ ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ ÄÃ­st vÃ­ce prÅ¯vodcÅ¯ jÃ­zdou na koni.";
 
-"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Obdrel jsi body jízdy na koni po pøeètení prùvodce jízdou na koni.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì–´ ìŠ¹ë§ˆ ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"ObdrÅ¾el jsi body jÃ­zdy na koni po pÅ™eÄtenÃ­ prÅ¯vodce jÃ­zdou na koni.";
 
-"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
-"Tento bod mùeš pouít k vylepšení jezdeckıch schopností.";
+"ì–»ì€ í¬ì¸íŠ¸ë¡œëŠ” ìŠ¹ë§ˆ ìŠ¤í‚¬ì˜ ë ˆë²¨ì„ ì˜¬ë¦´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tento bod mÅ¯Å¾eÅ¡ pouÅ¾Ã­t k vylepÅ¡enÃ­ jezdeckÃ½ch schopnostÃ­.";
 
-"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
-"Vlajka cechu %s byla ukradena hráèem %s.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì˜ ê¹ƒë°œì„ ë¹¼ì•—ì•˜ìŠµë‹ˆë‹¤!";
+"Vlajka cechu %s byla ukradena hrÃ¡Äem %s.";
 
-"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nerozumìl jsi prùvodci jízdou na koni.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œ ì´í•´ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"NerozumÄ›l jsi prÅ¯vodci jÃ­zdou na koni.";
 
-"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
-"Tvá mysl je èistá. Teï se mùeš dobøe soustøedit.";
+"ë§ˆìŒì´ ë§‘ì•„ì§€ëŠ”êµ°. ê°€ìŠ´ì„ ì§“ëˆ„ë¥´ë˜ ë¬´ì–¸ê°€ê°€ ì¢€ ê°€ë²¼ì›Œì§„ ëŠë‚Œì´ì•¼.";
+"TvÃ¡ mysl je ÄistÃ¡. TeÄ se mÅ¯Å¾eÅ¡ dobÅ™e soustÅ™edit.";
 
-"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
-"Tvá hodnost se zvıšila o %d bodù.";
+"ì„ ì•…ì¹˜ê°€ %d ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"TvÃ¡ hodnost se zvÃ½Å¡ila o %d bodÅ¯.";
 
-"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
-"Nemùeš obarvit ani odbarvit tvùj souèasnı úèes.";
+"í˜„ì¬ í—¤ì–´ìŠ¤íƒ€ì¼ì—ì„œëŠ” ì—¼ìƒ‰ê³¼ íƒˆìƒ‰ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ obarvit ani odbarvit tvÅ¯j souÄasnÃ½ ÃºÄes.";
 
-"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
-"Musíš dosáhnout úrovnì %d, abys mohl opìt obarvit svùj úèes.";
+"%d ë ˆë²¨ì´ ë˜ì–´ì•¼ ë‹¤ì‹œ ì—¼ìƒ‰í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ dosÃ¡hnout ÃºrovnÄ› %d, abys mohl opÄ›t obarvit svÅ¯j ÃºÄes.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt mùe bıt otevøen pouze druhım pohlavím.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t mÅ¯Å¾e bÃ½t otevÅ™en pouze druhÃ½m pohlavÃ­m.";
 
-"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tohle nemùeš pouít z této pozice.";
+"í˜„ì¬ ìœ„ì¹˜ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tohle nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t z tÃ©to pozice.";
 
-"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nemùeš pouít Pergamen lokality, protoe jsi pøipraven k teleportu.";
+"ì´ë™í•  ì¤€ë¹„ê°€ ë˜ì–´ìˆìŒìœ¼ë¡œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality, protoÅ¾e jsi pÅ™ipraven k teleportu.";
 
-"¿ø·¡ À§Ä¡·Î º¹±Í";
-"Byl jsi pøenesen zpìt na místo poèátku.";
+"ì›ë˜ ìœ„ì¹˜ë¡œ ë³µê·€";
+"Byl jsi pÅ™enesen zpÄ›t na mÃ­sto poÄÃ¡tku.";
 
-"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%s%s nemohou bıt pouity v podzemí.";
+"ë˜ì „ ì•ˆì—ì„œëŠ” %s%s ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s%s nemohou bÃ½t pouÅ¾ity v podzemÃ­.";
 
-"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"[Úkol] Ji jsi odmìnu obdrel.";
+"<í€˜ìŠ¤íŠ¸> ì´ì „ì— ê°™ì€ ë³´ìƒì„ ë°›ì€ ì ì´ ìˆì–´ ë‹¤ì‹œ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Ãškol] JiÅ¾ jsi odmÄ›nu obdrÅ¾el.";
 
-"À»";
+"ì„";
 "to";
 
-"¸¦";
+"ë¥¼";
 "to";
 
-"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nejsou tu ádné odštìpky kamene k odstranìní.";
+"ì²­ì†Œí•  ì„ì´ ë°•í˜€ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Nejsou tu Å¾Ã¡dnÃ© odÅ¡tÄ›pky kamene k odstranÄ›nÃ­.";
 
-"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nemùeš mìnit vylepšení tohoto pøedmìtu.";
+"ì†ì„±ì„ ë³€ê²½í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ mÄ›nit vylepÅ¡enÃ­ tohoto pÅ™edmÄ›tu.";
 
-"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
-"Nemáš ádné vylepšení, které by jsi mohl pøípadnì mìnit.";
+"ë³€ê²½í•  ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ Å¾Ã¡dnÃ© vylepÅ¡enÃ­, kterÃ© by jsi mohl pÅ™Ã­padnÄ› mÄ›nit.";
 
-"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
-"Tohle mùeš dìlat pouze %d minut po vylepšení. (%d minut zbıvá)";
+"ì†ì„±ì„ ë°”ê¾¼ì§€ %dë¶„ ì´ë‚´ì—ëŠ” ë‹¤ì‹œ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%d ë¶„ ë‚¨ìŒ)";
+"Tohle mÅ¯Å¾eÅ¡ dÄ›lat pouze %d minut po vylepÅ¡enÃ­. (%d minut zbÃ½vÃ¡)";
 
-"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
-"Zmìnil jsi vylepšení.";
+"ì†ì„±ì„ ë³€ê²½í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ZmÄ›nil jsi vylepÅ¡enÃ­.";
 
-"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Vylepšení úspìšnì pøidáno.";
+"ì†ì„± ì¶”ê°€ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"VylepÅ¡enÃ­ ÃºspÄ›Å¡nÄ› pÅ™idÃ¡no.";
 
-"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Vylepšení nebylo pøidáno.";
+"ì†ì„± ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"VylepÅ¡enÃ­ nebylo pÅ™idÃ¡no.";
 
-"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Musíš pouít Mramor poehnání, abys mohl pøidat další bonus.";
+"ë”ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ pouÅ¾Ã­t Mramor poÅ¾ehnÃ¡nÃ­, abys mohl pÅ™idat dalÅ¡Ã­ bonus.";
 
-"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
-"Tohle nemùeš pouít v této arénì.";
+"ëŒ€ë ¨ì¥ì—ì„œ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tohle nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t v tÃ©to arÃ©nÄ›.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Vìc ji nelze dále vylepšit. Bylo dosaeno maximálního poètu bonusù.";
+"ë” ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"VÄ›c jiÅ¾ nelze dÃ¡le vylepÅ¡it. Bylo dosaÅ¾eno maximÃ¡lnÃ­ho poÄtu bonusÅ¯.";
 
-"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
-"Pokud má vìc ji 4 bonusy, mùete ji vylepšit jen pomocí Mramoru poehnání.";
+"ë¨¼ì € ì¬ê°€ë¹„ì„œë¥¼ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€ì‹œì¼œ ì£¼ì„¸ìš”.";
+"Pokud mÃ¡ vÄ›c jiÅ¾ 4 bonusy, mÅ¯Å¾ete ji vylepÅ¡it jen pomocÃ­ Mramoru poÅ¾ehnÃ¡nÃ­.";
 
-"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
-"Úchyt úspìšnì pøidán.";
+"ì†Œì¼“ì´ ì„±ê³µì ìœ¼ë¡œ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Ãšchyt ÃºspÄ›Å¡nÄ› pÅ™idÃ¡n.";
 
-"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Úchyt nebyl pøidán.";
+"ì†Œì¼“ ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ãšchyt nebyl pÅ™idÃ¡n.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Na tento pøedmìt ji nejde pøidat další úchyt.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì†Œì¼“ì„ ì¶”ê°€í•  ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Na tento pÅ™edmÄ›t jiÅ¾ nejde pÅ™idat dalÅ¡Ã­ Ãºchyt.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Tento pøedmìt nemùe mít více úchytù.";
+"ì´ ì•„ì´í…œìœ¼ë¡œ ì†Œì¼“ì„ ì¶”ê°€í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾e mÃ­t vÃ­ce ÃºchytÅ¯.";
 
-"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Ozbrojení úspìšné.";
+"ì¥ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OzbrojenÃ­ ÃºspÄ›Å¡nÃ©.";
 
-"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Ozbrojení selhalo.";
+"ì¥ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OzbrojenÃ­ selhalo.";
 
-"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Nejprve musíš pøidat úchyt. Na to pouij diamant.";
+"ë¨¼ì € ë‹¤ì´ì•„ëª¬ë“œë¡œ ì•…ì„¸ì„œë¦¬ì— ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Nejprve musÃ­Å¡ pÅ™idat Ãºchyt. Na to pouÅ¾ij diamant.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
-"Zde nejsou ádné úchyty pro drahokamy.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì¥ì°©í•  ì†Œì¼“ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Zde nejsou Å¾Ã¡dnÃ© Ãºchyty pro drahokamy.";
 
-"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tohle mùeš provést pokud nosíš masku emocí.";
+"ì—´ì •ì˜ ê°€ë©´ì„ ì°©ìš©ì‹œì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tohle mÅ¯Å¾eÅ¡ provÃ©st pokud nosÃ­Å¡ masku emocÃ­.";
 
-"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Musíš pøidat úchyt, pokud chceš pouít diamant.";
+"ë‹¤ì´ì•„ëª¬ë“œë¡œ ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"MusÃ­Å¡ pÅ™idat Ãºchyt, pokud chceÅ¡ pouÅ¾Ã­t diamant.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na tento pøedmìt ji nelze pøidat více drahokamù.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ë³´ì„ì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na tento pÅ™edmÄ›t jiÅ¾ nelze pÅ™idat vÃ­ce drahokamÅ¯.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tyto pøedmìty nemohou bıt pouity spolu.";
+"ì´ ì•„ì´í…œì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tyto pÅ™edmÄ›ty nemohou bÃ½t pouÅ¾ity spolu.";
 
-"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš mìnit návnadu zatímco rybaøíš.";
+"ë‚šì‹œ ì¤‘ì— ë¯¸ë¼ë¥¼ ê°ˆì•„ë¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ mÄ›nit nÃ¡vnadu zatÃ­mco rybaÅ™Ã­Å¡.";
 
-"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
-"Vymìnil jsi dosavadní návnadu za %s.";
+"ì´ë¯¸ ê½‚í˜€ìˆë˜ ë¯¸ë¼ë¥¼ ë¹¼ê³  %së¥¼ ë¼ì›ë‹ˆë‹¤.";
+"VymÄ›nil jsi dosavadnÃ­ nÃ¡vnadu za %s.";
 
-"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
-"Pøipevnil jsi %s na háèek jako návnadu.";
+"ë‚šì‹œëŒ€ì— %së¥¼ ë¯¸ë¼ë¡œ ë¼ì›ë‹ˆë‹¤.";
+"PÅ™ipevnil jsi %s na hÃ¡Äek jako nÃ¡vnadu.";
 
-"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nemáš všechny suroviny na vırobu elixíru.";
+"ë¬¼ì•½ ì¡°í•©ì„ ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NemÃ¡Å¡ vÅ¡echny suroviny na vÃ½robu elixÃ­ru.";
 
-"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nemáš dostatek surovin (%s).";
+"ì¬ë£Œ(%s)ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek surovin (%s).";
 
-"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
-"Nemáš dostatek prázdnıch lahví.";
+"ë¹ˆ ë³‘ì´ ëª¨ìë¦…ë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek prÃ¡zdnÃ½ch lahvÃ­.";
 
-"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Míchání elixíru bylo neúspìšné.";
+"ë¬¼ì•½ ì œì¡°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"MÃ­chÃ¡nÃ­ elixÃ­ru bylo neÃºspÄ›Å¡nÃ©.";
 
-"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Pouze eny tohle dokáí.";
+"ì—¬ìë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Pouze Å¾eny tohle dokÃ¡Å¾Ã­.";
 
-"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pøidat více kamenù stejného typu.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ë©”í‹´ì„ì€ ì—¬ëŸ¬ê°œ ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pÅ™idat vÃ­ce kamenÅ¯ stejnÃ©ho typu.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento kámen ducha nemùeš pøidat na tento typ pøedmìtu.";
+"ì´ ë©”í‹´ì„ì€ ì¥ë¹„ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento kÃ¡men ducha nemÅ¯Å¾eÅ¡ pÅ™idat na tento typ pÅ™edmÄ›tu.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento kámen ducha nemùeš pøidat na zbraò.";
+"ì´ ë©”í‹´ì„ì€ ë¬´ê¸°ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento kÃ¡men ducha nemÅ¯Å¾eÅ¡ pÅ™idat na zbraÅˆ.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Kámen ducha úspìšnì pøidán.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KÃ¡men ducha ÃºspÄ›Å¡nÄ› pÅ™idÃ¡n.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Kámen ducha se pøi pøidávání rozpadl.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KÃ¡men ducha se pÅ™i pÅ™idÃ¡vÃ¡nÃ­ rozpadl.";
 
-"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
-"ádné volné úchyty.";
+"ë¶€ì°©í•  ìˆ˜ ìˆëŠ” ìŠ¬ë¡¯ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Å½Ã¡dnÃ© volnÃ© Ãºchyty.";
 
-"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Teï a zde tato funkce není k dispozici.";
+"ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TeÄ a zde tato funkce nenÃ­ k dispozici.";
 
-"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít Pergamen lokality v prùbìhu bitvy království.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ ì°¸ê°€ì¤‘ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality v prÅ¯bÄ›hu bitvy krÃ¡lovstvÃ­.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít Pergamen lokality %d vteøin po otevøení skladištì.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality %d vteÅ™in po otevÅ™enÃ­ skladiÅ¡tÄ›.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít Pergamen lokality pokud máš otevøené další okno.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality pokud mÃ¡Å¡ otevÅ™enÃ© dalÅ¡Ã­ okno.";
 
-"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
+"ê·¸ëŸ° ì‚¬ëŒì´ ì—†ìŠµë‹ˆë‹¤.";
 "Tato osoba neexistuje.";
 
-"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít pergamen %d sekund po obchodu.";
+"ì•„ì´í…œ ê°œëŸ‰í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t pergamen %d sekund po obchodu.";
 
-"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít Pergamen lokality %d vteøin po otevøení skladištì.";
+"ê°œì¸ìƒì  ì‚¬ìš©í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality %d vteÅ™in po otevÅ™enÃ­ skladiÅ¡tÄ›.";
 
-"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít Pergamen lokality, protoe vzdálenost je pøíliš malá.";
+"ì´ë™ ë˜ì–´ì§ˆ ìœ„ì¹˜ì™€ ë„ˆë¬´ ê°€ê¹Œì›Œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality, protoÅ¾e vzdÃ¡lenost je pÅ™Ã­liÅ¡ malÃ¡.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Po obchodování nemùeš pouít Pergamen lokality po dobu %d vteøin.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë“±ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Po obchodovÃ¡nÃ­ nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t Pergamen lokality po dobu %d vteÅ™in.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš otevøít skladištì, pokud je ji otevøené jiné okno.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë³´ë”°ë¦¬,ë¹„ë‹¨ë³´ë”°ë¦¬ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ otevÅ™Ã­t skladiÅ¡tÄ›, pokud je jiÅ¾ otevÅ™enÃ© jinÃ© okno.";
 
-"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Tento pøedmìt nemùeš zahodit.";
+"ë²„ë¦´ ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾eÅ¡ zahodit.";
 
-"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
-"Zahozenı pøedmìt zmizí za 5 minut.";
+"ë–¨ì–´ì§„ ì•„ì´í…œì€ 3ë¶„ í›„ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"ZahozenÃ½ pÅ™edmÄ›t zmizÃ­ za 5 minut.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s";
-"%s obdreno.";
+"ì•„ì´í…œ íšë“: %s";
+"%s obdrì—no.";
 
-"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
-"Máš pøíliš mnoho vìcí v inventáøi.";
+"ì†Œì§€í•˜ê³  ìˆëŠ” ì•„ì´í…œì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤.";
+"MÃ¡Å¡ pÅ™Ã­liÅ¡ mnoho vÄ›cÃ­ v inventÃ¡Å™i.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
-"%s získává %s.";
+"ì•„ì´í…œ íšë“: %s ë‹˜ìœ¼ë¡œë¶€í„° %s";
+"%s zÃ­skÃ¡vÃ¡ %s.";
 
-"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Všichni budou zanedlouho teleportováni do mìsta.";
+"ì ì‹œí›„ ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"VÅ¡ichni budou zanedlouho teleportovÃ¡ni do mÄ›sta.";
 
-"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
-"Jsi pøíliš blízko.";
+"ë„ˆë¬´ ê°€ê¹Œì´ ìˆìŠµë‹ˆë‹¤.";
+"Jsi pÅ™Ã­liÅ¡ blÃ­zko.";
 
-"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
-"Obchod s pøedmìtem: %s, %s";
+"ì•„ì´í…œ ì „ë‹¬: %s ë‹˜ì—ê²Œ %s";
+"Obchod s pÅ™edmÄ›tem: %s, %s";
 
-"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš mìnit pouívané vìci po dobu tvé pøemìny.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ì°©ìš©ì¤‘ì¸ ì¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ mÄ›nit pouÅ¾Ã­vanÃ© vÄ›ci po dobu tvÃ© pÅ™emÄ›ny.";
 
-"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Pro nasazení tohoto pøedmìtu musíš bıt nehybnı.";
+"ê°€ë§Œíˆ ìˆì„ ë•Œë§Œ ì°©ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Pro nasazenÃ­ tohoto pÅ™edmÄ›tu musÃ­Å¡ bÃ½t nehybnÃ½.";
 
-"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Opièí bylinky nejsou urèeny ke krmení ivıch koní. Jsou pouívány k oivení koní mrtvıch.";
+"ì£½ì§€ ì•Šì€ ë§ì—ê²Œ ì„ ì´ˆë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"OpiÄÃ­ bylinky nejsou urÄeny ke krmenÃ­ Å¾ivÃ½ch konÃ­. Jsou pouÅ¾Ã­vÃ¡ny k oÅ¾ivenÃ­ konÃ­ mrtvÃ½ch.";
 
-"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš krmit mrtvého konì.";
+"ì£½ì€ ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ krmit mrtvÃ©ho konÄ›.";
 
-"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Nakrmil jsi konì bylinkami.";
+"ë§ì—ê²Œ ì„ ì´ˆë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"Nakrmil jsi konÄ› bylinkami.";
 
-"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Nakrmil jsi konì.";
+"ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"Nakrmil jsi konÄ›.";
 
-"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
-"Pro nošení tohoto úèesu máš pøíliš nízkou úroveò.";
+"ì•„ì§ ì´ ë¨¸ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ë ˆë²¨ì…ë‹ˆë‹¤.";
+"Pro noÅ¡enÃ­ tohoto ÃºÄesu mÃ¡Å¡ pÅ™Ã­liÅ¡ nÃ­zkou ÃºroveÅˆ.";
 
-"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento úèes ji máš.";
+"ë™ì¼í•œ ë¨¸ë¦¬ ìŠ¤íƒ€ì¼ë¡œëŠ” êµì²´í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento ÃºÄes jiÅ¾ mÃ¡Å¡.";
 
-"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
-"U jsi promìnìn.";
+"ì´ë¯¸ ë‘”ê°‘ì¤‘ì¸ ìƒíƒœì…ë‹ˆë‹¤.";
+"UÅ¾ jsi promÄ›nÄ›n.";
 
-"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
-"Jsi pøíliš daleko.";
+"ë„ˆë¬´ ë©€ë¦¬ ìˆìŠµë‹ˆë‹¤";
+"Jsi pÅ™Ã­liÅ¡ daleko.";
 
-"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"To je špatnı pøedmìt na promìòování.";
+"ì˜ëª»ëœ ë‘”ê°‘ ì•„ì´í…œì…ë‹ˆë‹¤.";
+"To je Å¡patnÃ½ pÅ™edmÄ›t na promÄ›ÅˆovÃ¡nÃ­.";
 
-"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš se promìnit v pøíšeru, která má vyšší úroveò ne ty.";
+"ë‚˜ë³´ë‹¤ ë„ˆë¬´ ë†’ì€ ë ˆë²¨ì˜ ëª¬ìŠ¤í„°ë¡œëŠ” ë³€ì‹  í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ se promÄ›nit v pÅ™Ã­Å¡eru, kterÃ¡ mÃ¡ vyÅ¡Å¡Ã­ ÃºroveÅˆ neÅ¾ ty.";
 
-"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tvá úroveò je pøíliš nízká pro nošení tohoto pøedmìtu.";
+"ë ˆë²¨ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TvÃ¡ ÃºroveÅˆ je pÅ™Ã­liÅ¡ nÃ­zkÃ¡ pro noÅ¡enÃ­ tohoto pÅ™edmÄ›tu.";
 
-"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na nošení tohoto pøedmìtu nejsi dost silnı.";
+"ê·¼ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na noÅ¡enÃ­ tohoto pÅ™edmÄ›tu nejsi dost silnÃ½.";
 
-"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na nošení tohoto pøedmìtu nemáš dostateènou inteligenci.";
+"ì§€ëŠ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na noÅ¡enÃ­ tohoto pÅ™edmÄ›tu nemÃ¡Å¡ dostateÄnou inteligenci.";
 
-"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na nošení tohoto pøedmìtu nemáš dostateènou pohyblivost.";
+"ë¯¼ì²©ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na noÅ¡enÃ­ tohoto pÅ™edmÄ›tu nemÃ¡Å¡ dostateÄnou pohyblivost.";
 
-"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na nošení tohoto pøedmìtu nemáš dostateènou vitalitu.";
+"ì²´ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na noÅ¡enÃ­ tohoto pÅ™edmÄ›tu nemÃ¡Å¡ dostateÄnou vitalitu.";
 
-"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt nemùeš pouít, protoe nejsi enatı/vdaná.";
+"ê²°í˜¼í•˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ ì˜ˆë¬¼ì„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t, protoÅ¾e nejsi Å¾enatÃ½/vdanÃ¡.";
 
-"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt nemùeš nosit dvakrát.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ìœ ë‹ˆí¬ ì•„ì´í…œ ë‘ ê°œë¥¼ ë™ì‹œì— ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾eÅ¡ nosit dvakrÃ¡t.";
 
-"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
-"Do odstranìní úchytu z %s zbıvá èasu: %d";
+"%s ì—ì„œ ì†Œì¼“ ë¹ ì§ˆë•Œê¹Œì§€ ë‚¨ì€ ì‹œê°„ %d";
+"Do odstranÄ›nÃ­ Ãºchytu z %s zbÃ½vÃ¡ Äasu: %d";
 
-"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tohle mùe udìlat pouze druhé pohlaví.";
+"ì´ì„±ê°„ì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tohle mÅ¯Å¾e udÄ›lat pouze druhÃ© pohlavÃ­.";
 
-"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
-"Drahokam zasazenı v %s zmizel.";
+"%sì— ë°•í˜€ìˆë˜ ë³´ì„ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Drahokam zasazenÃ½ v %s zmizel.";
 
-"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
-"[Cech] Jméno cechu je neplatné.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ì´ë¦„ì´ ì í•©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Cech] JmÃ©no cechu je neplatnÃ©.";
 
-"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
-"[Cech] Tohle jméno cechu je ji obsazeno.";
+"<ê¸¸ë“œ> ì´ë¯¸ ê°™ì€ ì´ë¦„ì˜ ê¸¸ë“œê°€ ìˆìŠµë‹ˆë‹¤.";
+"[Cech] Tohle jmÃ©no cechu je jiÅ¾ obsazeno.";
 
-"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš vytvoøit cech.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ vytvoÅ™it cech.";
 
-"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
-"%s cech vyhlásil válku %s cechu!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì— ì„ ì „í¬ê³ ë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"%s cech vyhlÃ¡sil vÃ¡lku %s cechu!";
 
-"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
-"[Cech] %s nepøijal cechovní válku.";
+"<ê¸¸ë“œ> %s ê¸¸ë“œê°€ ê¸¸ë“œì „ì„ ê±°ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] %s nepÅ™ijal cechovnÃ­ vÃ¡lku.";
 
-"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
-"Cechovní válka mezi %s a %s zapoène za pár vteøin!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì ì‹œ í›„ ì „ìŸì„ ì‹œì‘í•©ë‹ˆë‹¤!";
+"CechovnÃ­ vÃ¡lka mezi %s a %s zapoÄne za pÃ¡r vteÅ™in!";
 
-"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
-"Válka mezi %s a %s zaèala!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì „ìŸì„ ì‹œì‘í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"VÃ¡lka mezi %s a %s zaÄala!";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
-"Válka mezi %s a %s skonèila nerozhodnì.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ë¬´ìŠ¹ë¶€ë¡œ ëë‚¬ìŠµë‹ˆë‹¤.";
+"VÃ¡lka mezi %s a %s skonÄila nerozhodnÄ›.";
 
-"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
-"Cech %s vyhrál válku proti cechu %s.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì™€ì˜ ì „ìŸì—ì„œ ìŠ¹ë¦¬ í–ˆìŠµë‹ˆë‹¤.";
+"Cech %s vyhrÃ¡l vÃ¡lku proti cechu %s.";
 
-"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
-"Na tohle potøebuješ souhlas svého spoluhráèe.";
+"ì´ í–‰ë™ì€ ìƒí˜¸ë™ì˜ í•˜ì— ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Na tohle potÅ™ebujeÅ¡ souhlas svÃ©ho spoluhrÃ¡Äe.";
 
-"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"[Cech] Válka cechù byla zrušena.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Cech] VÃ¡lka cechÅ¯ byla zruÅ¡ena.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
-"Válka mezi cechem %s a cechem %s byla zrušena.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.";
+"VÃ¡lka mezi cechem %s a cechem %s byla zruÅ¡ena.";
 
-"´İ±â";
-"Zavøít";
+"ë‹«ê¸°";
+"ZavÅ™Ã­t";
 
-"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Zrušeno. Vstoupili jste do bitvy.";
+"ì „íˆ¬ê°€ ì‹œì‘ ë˜ì–´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Zruì‰‹no. Vstoupili jste do bitvy.";
 
-"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
-"Nìkdo se pøihlásil na tvoje konto. Budeš odpojen.";
+"ë‹¤ë¥¸ ì»´í“¨í„°ì—ì„œ ë¡œê·¸ì¸ í•˜ì—¬ ì ‘ì†ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤.";
+"NÄ›kdo se pÅ™ihlÃ¡sil na tvoje konto. BudeÅ¡ odpojen.";
 
-"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Ze stromu pøichází tajemné svìtlo.";
+"ë‚˜ë¬´ì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Ze stromu pÅ™ichÃ¡zÃ­ tajemnÃ© svÄ›tlo.";
 
-"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
-"%d herního èasu bylo pøidáno na tvoje konto. (Èíslo platby %d)";
+"%dë¶„ì˜ ê²°ì œì‹œê°„ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. (ê²°ì œë²ˆí˜¸ %d)";
+"%d hernÃ­ho Äasu bylo pÅ™idÃ¡no na tvoje konto. (ÄŒÃ­slo platby %d)";
 
-"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"Mùeš se zúèastnit cechovního boje v reimu diváka.";
+"ê´€ì „ ëª¨ë“œë¡œ ê¸¸ë“œì „ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"MÅ¯Å¾eÅ¡ se zÃºÄastnit cechovnÃ­ho boje v reÅ¾imu divÃ¡ka.";
 
-"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
-"Pøi vıbìru postavy se objeví ikona.";
+"ìì‹ ì„ ì„ íƒí•˜ì‹œë©´ ë°–ìœ¼ë¡œ ë‚˜ê°ˆ ìˆ˜ ìˆëŠ” <ê´€ëŒ ì¢…ë£Œ> ë²„íŠ¼ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"PÅ™i vÃ½bÄ›ru postavy se objevÃ­ ikona.";
 
-"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
-"Nejsou ádní nepøátelé.";
+"ê¸¸ë“œì „ì— ì°¸ê°€í•œ ìƒëŒ€ë°© ê¸¸ë“œì›ì´ ì•„ë¬´ë„ ì—†ìŠµë‹ˆë‹¤.";
+"Nejsou Å¾Ã¡dnÃ­ nepÅ™Ã¡telÃ©.";
 
-"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
-"Boj s %s zaèal!";
+"%së‹˜ê³¼ì˜ ëŒ€ê²° ì‹œì‘!";
+"Boj s %s zaÄal!";
 
-"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
-"Pokud nebude nalezen ádnı nepøítel, cechovní válka bude automaticky ukonèena.";
+"1ë¶„ ì´ë‚´ì— ì•„ë¬´ë„ ì ‘ì†í•˜ì§€ ì•Šìœ¼ë©´ ê¸¸ë“œì „ì´ ìë™ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Pokud nebude nalezen Å¾Ã¡dnÃ½ nepÅ™Ã­tel, cechovnÃ­ vÃ¡lka bude automaticky ukonÄena.";
 
-"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
-"Protoe cechovní válka byla ukonèena pøedèasnì, bude posuzována jako remíza.";
+"ê¸¸ë“œì „ì´ ì¼ì° ì¢…ë£Œë˜ì–´ ë¬´ìŠ¹ë¶€ë¡œ íŒì • ë˜ì—ˆìŠµë‹ˆë‹¤. (5ë¶„ì´ ì§€ë‚˜ì§€ ì•ŠìŒ)";
+"ProtoÅ¾e cechovnÃ­ vÃ¡lka byla ukonÄena pÅ™edÄasnÄ›, bude posuzovÃ¡na jako remÃ­za.";
 
-"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
-"Energie je odráena císaøskım poehnáním.";
+"êµ°ì£¼ê°€ ë‚´ë¦° ì¶•ë³µìœ¼ë¡œ ëª¨ë“  ì—ë„ˆì§€ê°€ ê°€ë“ ì±„ì›Œì§‘ë‹ˆë‹¤";
+"Energie je odrÃ¡Å¾ena cÃ­saÅ™skÃ½m poÅ¾ehnÃ¡nÃ­m.";
 
-"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
-"Za %d vteøin mùeš pouít císaøské poehnání.";
+"%d ì´ˆ í›„ì— êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Za %d vteÅ™in mÅ¯Å¾eÅ¡ pouÅ¾Ã­t cÃ­saÅ™skÃ© poÅ¾ehnÃ¡nÃ­.";
 
-"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
-"Za %d vteøin mùeš pouít císaøské poehnání.";
+"ì¿¨íƒ€ì„ ì ìš©ì¤‘  %d í›„ ì‚¬ìš©ê°€ëŠ¥";
+"Za %d vteÅ™in mÅ¯Å¾eÅ¡ pouÅ¾Ã­t cÃ­saÅ™skÃ© poÅ¾ehnÃ¡nÃ­.";
 
-"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
-"Nedostatek pøíjmu z daní: %d.";
+"êµ­ê³ ì— ìê¸ˆì´ ëª¨ìëë‹ˆë‹¤ êµ­ê³  : %d ";
+"Nedostatek pÅ™Ã­jmu z danÃ­: %d.";
 
-"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
-"[TEST_ONLY]Daò: %d";
+"[TEST_ONLY]í˜„ì¬ êµ­ê³  : %d ";
+"[TEST_ONLY]DaÅˆ: %d";
 
-"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
-"Chyba pøi pøemìòování.";
+"ë‘”ê°‘ì— ì‹¤íŒ¨ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"Chyba pÅ™i pÅ™emÄ›ÅˆovÃ¡nÃ­.";
 
-"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
-"Pøemìnu jsi se nauèil kompletnì.";
+"ë‘”ê°‘ì„œ ìˆ˜ë ¨ì„ ë§ˆì²¬ìŠµë‹ˆë‹¤. ì‹ ì„ ì—ê²Œ ì°¾ì•„ê°€ì„¸ìš”.";
+"PÅ™emÄ›nu jsi se nauÄil kompletnÄ›.";
 
-"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
-"Nejdøíve si zavolej konì prosím.";
+"ë§ì„ ë¨¼ì € ì†Œí™˜í•´ì£¼ì„¸ìš”.";
+"NejdÅ™Ã­ve si zavolej konÄ› prosÃ­m.";
 
-"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
-"Poslal jsi zpátky svého konì.";
+"ë§ì„ ëŒë ¤ë³´ëƒˆìŠµë‹ˆë‹¤.";
+"Poslal jsi zpÃ¡tky svÃ©ho konÄ›.";
 
-"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
-"%s tì vyzval na souboj!";
+"%së‹˜ì´ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤. ìŠ¹ë‚™í•˜ë ¤ë©´ ëŒ€ê²°ë™ì˜ë¥¼ í•˜ì„¸ìš”.";
+"%s tÄ› vyzval na souboj!";
 
-"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
-"Musíš sesednout z konì.";
+"ë§ì—ì„œ ë¨¼ì € ë‚´ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"MusÃ­Å¡ sesednout z konÄ›.";
 
-"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš nakrmit svého konì kdy na nìm sedíš!";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œëŠ” ë¨¹ì´ë¥¼ ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ nakrmit svÃ©ho konÄ› kdyÅ¾ na nÄ›m sedÃ­Å¡!";
 
-"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ %s%s ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Dal jsi %s%s koni.";
 
-"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
-"Potøebuješ %s.";
+"%s ì•„ì´í…œì´ í•„ìš”í•©ë‹ˆë‹¤";
+"PotÅ™ebujeÅ¡ %s.";
 
-"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d vteøin do vypnutí.";
+"ì…§ë‹¤ìš´ì´ %dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d vteÅ™in do vypnutÃ­.";
 
-"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
-"Hra bude ukonèena za %d vteøin.";
+"%dì´ˆ í›„ ê²Œì„ì´ ì…§ë‹¤ìš´ ë©ë‹ˆë‹¤.";
+"Hra bude ukonÄena za %d vteÅ™in.";
 
-"%dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d vteøin do vypnutí.";
+"%dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d vteÅ™in do vypnutÃ­.";
 
-"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Tvé odhlášení bylo zrušeno.";
+"ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TvÃ© odhlÃ¡Å¡enÃ­ bylo zruÅ¡eno.";
 
-"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Návrat do pøihlašovacího okna. Prosím èekej.";
+"ë¡œê·¸ì¸ í™”ë©´ìœ¼ë¡œ ëŒì•„ ê°‘ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"NÃ¡vrat do pÅ™ihlaÅ¡ovacÃ­ho okna. ProsÃ­m Äekej.";
 
-"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Byl jsi odpojen od serveru. Prosím èekej.";
+"ê²Œì„ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Byl jsi odpojen od serveru. ProsÃ­m Äekej.";
 
-"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
+"%sì—ê²Œ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
 "Vyzval jsi %s na souboj.";
 
-"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Zmìnil jsi osobu. Prosím èekej.";
+"ìºë¦­í„°ë¥¼ ì „í™˜ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"ZmÄ›nil jsi osobu. ProsÃ­m Äekej.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
-"Novı start není momentálnì monı. Poèkej %d vteøin.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%dì´ˆ ë‚¨ìŒ)";
+"NovÃ½ start nenÃ­ momentÃ¡lnÄ› moÅ¾nÃ½. PoÄkej %d vteÅ™in.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
-"Restart není monı. Poèkej dalších %d vteøin.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ)";
+"Restart nenÃ­ moÅ¾nÃ½. PoÄkej dalÅ¡Ã­ch %d vteÅ™in.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
-"Restart není monı. Poèkej dalších %d vteøin.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ )";
+"Restart nenÃ­ moÅ¾nÃ½. PoÄkej dalÅ¡Ã­ch %d vteÅ™in.";
 
-"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
-"Stále není monı restart ve mìstì. Poèkej dalších %d vteøin.";
+"ì•„ì§ ë§ˆì„ì—ì„œ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%d ì´ˆ ë‚¨ìŒ)";
+"StÃ¡le nenÃ­ moÅ¾nÃ½ restart ve mÄ›stÄ›. PoÄkej dalÅ¡Ã­ch %d vteÅ™in.";
 
-"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
-"Ztratil jsi šanci na oivení. Vrátíš se do mìsta.";
+"ì„±ì§€ì—ì„œ ë¶€í™œ ê¸°íšŒë¥¼ ëª¨ë‘ ìƒì—ˆìŠµë‹ˆë‹¤! ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤!";
+"Ztratil jsi Å¡anci na oÅ¾ivenÃ­. VrÃ¡tÃ­Å¡ se do mÄ›sta.";
 
-"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš mìnit svùj status po dobu tvé pøemìny.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ëŠ¥ë ¥ì„ ì˜¬ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ mÄ›nit svÅ¯j status po dobu tvÃ© pÅ™emÄ›ny.";
 
-"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
-"Hráè právì bojuje.";
+"ìƒëŒ€ë°©ì´ ëŒ€ë ¨ì¤‘ì…ë‹ˆë‹¤.";
+"HrÃ¡Ä prÃ¡vÄ› bojuje.";
 
-"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"[Cech]Tohle nepatøí cechu.";
+"<ê¸¸ë“œ> ê¸¸ë“œì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Cech]Tohle nepatÅ™Ã­ cechu.";
 
-"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech]Nejsi oprávnìn mìnit úroveò cechovních schopností.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ ë ˆë²¨ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech]Nejsi oprÃ¡vnÄ›n mÄ›nit ÃºroveÅˆ cechovnÃ­ch schopnostÃ­.";
 
-"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
-"Volba není správná.";
+"ì˜ëª»ëœ ì„ íƒì„ í–ˆìŠµë‹ˆë‹¤";
+"Volba nenÃ­ sprÃ¡vnÃ¡.";
 
-"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
-"[Skladištì]Vloil jsi špatné heslo.";
+"<ì°½ê³ > ì˜ëª»ëœ ì•”í˜¸ë¥¼ ì…ë ¥í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›]VloÅ¾il jsi Å¡patnÃ© heslo.";
 
-"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
-"[Skladištì]Skladištì je ji otevøeno.";
+"<ì°½ê³ > ì°½ê³ ê°€ ì´ë¯¸ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›]SkladiÅ¡tÄ› je jiÅ¾ otevÅ™eno.";
 
-"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Skladištì]Musíš poèkat 10 vteøin na opìtovné otevøení skladištì.";
+"<ì°½ê³ > ì°½ê³ ë¥¼ ë‹«ì€ì§€ 10ì´ˆ ì•ˆì—ëŠ” ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›]MusÃ­Å¡ poÄkat 10 vteÅ™in na opÄ›tovnÃ© otevÅ™enÃ­ skladiÅ¡tÄ›.";
 
-"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Skladištì] Jsi pøíliš daleko na otevøení skladištì.";
+"<ì°½ê³ > ê±°ë¦¬ê°€ ë©€ì–´ì„œ ì°½ê³ ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›] Jsi pÅ™Ã­liÅ¡ daleko na otevÅ™enÃ­ skladiÅ¡tÄ›.";
 
-"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Server nemùe vykonat skupinovou ádost.";
+"<íŒŒí‹°> ì„œë²„ ë¬¸ì œë¡œ íŒŒí‹° ê´€ë ¨ ì²˜ë¦¬ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Server nemÅ¯Å¾e vykonat skupinovou Å¾Ã¡dost.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš opustit skupinu.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ opustit skupinu.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ë‚˜ê°€ì…¨ìŠµë‹ˆë‹¤.";
 "[Skupina] Opustil jsi skupinu.";
 
-"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
-"[Cech] Tvùj cech se ji úèastní jiné války.";
+"<ê¸¸ë“œ> ì´ë¯¸ ë‹¤ë¥¸ ì „ìŸì— ì°¸ì „ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Cech] TvÅ¯j cech se jiÅ¾ ÃºÄastnÃ­ jinÃ© vÃ¡lky.";
 
-"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Není oprávnìnı na cechovní válku.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì— ëŒ€í•œ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NenÃ­ oprÃ¡vnÄ›nÃ½ na cechovnÃ­ vÃ¡lku.";
 
-"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
-"[Cech] Cech s tímto jménem neexistuje.";
+"<ê¸¸ë“œ> ê·¸ëŸ° ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Cech s tÃ­mto jmÃ©nem neexistuje.";
 
-"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
-"Zde u je kandidatura.";
+"ì´ë¯¸ ì…í›„ë³´ë˜ì–´ìˆìŠµë‹ˆë‹¤";
+"Zde uÅ¾ je kandidatura.";
 
-"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Cech] Tento cech se ji úèastní války.";
+"ì´ë¯¸ ì„ ì „í¬ê³  ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Cech] Tento cech se jiÅ¾ ÃºÄastnÃ­ vÃ¡lky.";
 
-"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nedostatek Yangù na úèast cechovní války.";
+"<ê¸¸ë“œ> ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Nedostatek YangÅ¯ na ÃºÄast cechovnÃ­ vÃ¡lky.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Cech nemá dostatek Yangù na úèast cechovní války.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Cech nemÃ¡ dostatek YangÅ¯ na ÃºÄast cechovnÃ­ vÃ¡lky.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
-"[Cech] Tento cech je ji pøihlášen na jinou cechovní válku.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸì´ ì˜ˆì•½ëœ ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"[Cech] Tento cech je jiÅ¾ pÅ™ihlÃ¡Å¡en na jinou cechovnÃ­ vÃ¡lku.";
 
-"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
-"[Cech] Tento cech se ji úèastní jiné války.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œê°€ ì´ë¯¸ ì „ìŸ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Cech] Tento cech se jiÅ¾ ÃºÄastnÃ­ jinÃ© vÃ¡lky.";
 
-"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
-"[Cech] Do války cechù se musí pøihlásit minimálnì %d hráèù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì„ í•˜ê¸° ìœ„í•´ì„  ìµœì†Œí•œ %dëª…ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.";
+"[Cech] Do vÃ¡lky cechÅ¯ se musÃ­ pÅ™ihlÃ¡sit minimÃ¡lnÄ› %d hrÃ¡ÄÅ¯.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Cech nemá dostatek bodù na úèast ve válce.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Cech nemÃ¡ dostatek bodÅ¯ na ÃºÄast ve vÃ¡lce.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Cech nemá dostatek èlenù na úèast ve válce.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì› ìˆ˜ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Cech nemÃ¡ dostatek ÄlenÅ¯ na ÃºÄast ve vÃ¡lce.";
 
-"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tvá úroveò musí bıt vyšší ne 20 na registraci èísla tvého mobilního telefonu.";
+"ë ˆë²¨ 20 ì´í•˜ëŠ” í•¸ë“œí° ë²ˆí˜¸ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TvÃ¡ ÃºroveÅˆ musÃ­ bÃ½t vyÅ¡Å¡Ã­ neÅ¾ 20 na registraci ÄÃ­sla tvÃ©ho mobilnÃ­ho telefonu.";
 
-"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
-"Nemáte schopnosti stát se císaøem.";
+"êµ°ì£¼ì˜ ìê²©ì„ ê°€ì§€ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"NemÃ¡te schopnosti stÃ¡t se cÃ­saÅ™em.";
 
-"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
-"%s odmítl pozvání.";
+"%s ë‹˜ìœ¼ë¡œ ë¶€í„° ì¹œêµ¬ ë“±ë¡ì„ ê±°ë¶€ ë‹¹í–ˆìŠµë‹ˆë‹¤.";
+"%s odmÃ­tl pozvÃ¡nÃ­.";
 
-"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pøijmout pozvání, protoe u ve skupinì jsi.";
+"ì´ë¯¸ íŒŒí‹°ì— ì†í•´ ìˆìœ¼ë¯€ë¡œ ê°€ì…ì‹ ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pÅ™ijmout pozvÃ¡nÃ­, protoÅ¾e uÅ¾ ve skupinÄ› jsi.";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Pouze císaø mùe tohle pouít.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©ê°€ëŠ¥ í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Pouze cÃ­saÅ™ mÅ¯Å¾e tohle pouÅ¾Ã­t.";
 
-"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
-"Èas èekání pøiblinì %d vteøin.";
+"%d ì´ˆê°„ ì¿¨íƒ€ì„ì´ ì ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"ÄŒas ÄekÃ¡nÃ­ pÅ™ibliÅ¾nÄ› %d vteÅ™in.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
-"Nedostatek daní. Souèasnı kapitál: %u chybìjící kapitál: %u";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤. í˜„ì¬ : %lu í•„ìš”ê¸ˆì•¡ : %lu";
+"Nedostatek danÃ­. SouÄasnÃ½ kapitÃ¡l: %u chybÄ›jÃ­cÃ­ kapitÃ¡l: %u";
 
-"»ç¿ë¹ı: warpto <character name>";
-"Pøíkaz: warpto <character name>";
+"ì‚¬ìš©ë²•: warpto <character name>";
+"PÅ™Ã­kaz: warpto <character name>";
 
-"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nemùeš se pøemístit k neznámému hráèi.";
+"íƒ€ì œêµ­ ìœ ì €ì—ê²ŒëŠ” ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ se pÅ™emÃ­stit k neznÃ¡mÃ©mu hrÃ¡Äi.";
 
-"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Pøidání hráèe %d do kanálu. (Souèasnı Kanál %d)";
+"í•´ë‹¹ ìœ ì €ëŠ” %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"PÅ™idÃ¡nÃ­ hrÃ¡Äe %d do kanÃ¡lu. (SouÄasnÃ½ KanÃ¡l %d)";
 
-"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
-"Pøepravit k %s.";
+"%s ì—ê²Œë¡œ ì´ë™í•©ë‹ˆë‹¤";
+"PÅ™epravit k %s.";
 
-"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nemùeš volat neznámé hráèe.";
+"íƒ€ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ volat neznÃ¡mÃ© hrÃ¡Äe.";
 
-"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Bìhem cechovní války se nepoèítají bodù zkušeností za lov.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì¤‘ì—ëŠ” ì‚¬ëƒ¥ì— ë”°ë¥¸ ì´ìµì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] BÄ›hem cechovnÃ­ vÃ¡lky se nepoÄÃ­tajÃ­ bodÅ¯ zkuÅ¡enostÃ­ za lov.";
 
-"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
-"Pokud pouiješ poehnání císaøe %s ZB a MB budou opìt obnoveny.";
+"êµ°ì£¼ì˜ ì¶•ë³µìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” HP,SPê°€ ëª¨ë‘ ì±„ì›Œì§‘ë‹ˆë‹¤.";
+"Pokud pouÅ¾ijeÅ¡ poÅ¾ehnÃ¡nÃ­ cÃ­saÅ™e %s ZB a MB budou opÄ›t obnoveny.";
 
-"³ªÀÇ ±ºÁÖ Á¤º¸";
-"Má císaøská informace";
+"ë‚˜ì˜ êµ°ì£¼ ì •ë³´";
+"MÃ¡ cÃ­saÅ™skÃ¡ informace";
 
-"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
-"[%sPanovník] : %s Yangù vlastnìno %lld";
+"[%sêµ°ì£¼] : %s  ë³´ìœ ê¸ˆì•¡ %lld ";
+"[%sPanovnÃ­k] : %s YangÅ¯ vlastnÄ›no %lld";
 
-"[%s±ºÁÖ] : %s  ";
-"[%sPanovník] : %s";
+"[%sêµ°ì£¼] : %s  ";
+"[%sPanovnÃ­k] : %s";
 
-"±ºÁÖ Á¤º¸";
-"Císaøská informace";
+"êµ°ì£¼ ì •ë³´";
+"CÃ­saÅ™skÃ¡ informace";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
-"Pouze císaø smí tohle pouít";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©í• ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Pouze cÃ­saÅ™ smÃ­ tohle pouÅ¾Ã­t";
 
-"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
-"Vyber èíslo mezi 1 a 50.";
+"1-50 ì‚¬ì´ì˜ ìˆ˜ì¹˜ë¥¼ ì„ íƒí•´ì£¼ì„¸ìš”";
+"Vyber ÄÃ­slo mezi 1 a 50.";
 
-"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
-"Nestvùra nemùe bıt zavolána. Zkontroluj Mob-èíslo.";
+"ì†Œí™˜í• ìˆ˜ ì—†ëŠ” ëª¬ìŠ¤í„° ì…ë‹ˆë‹¤. ì†Œí™˜ê°€ëŠ¥í•œ ëª¬ìŠ¤í„°ëŠ” í™ˆí˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”";
+"NestvÅ¯ra nemÅ¯Å¾e bÃ½t zavolÃ¡na. Zkontroluj Mob-ÄÃ­slo.";
 
-"ÃÖ´ë »ı¸í·Â +%d";
-"Body ivota +%d";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d";
+"Body ì—vota +%d";
 
-"ÃÖ´ë Á¤½Å·Â +%d";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d";
 "Body many +%d";
 
-"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
-"Poehnání císaøe je aktivní.";
+"êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"PoÅ¾ehnÃ¡nÃ­ cÃ­saÅ™e je aktivnÃ­.";
 
-"Ã¼·Â +%d";
+"ì²´ë ¥ +%d";
 "Vytrvalost +%d";
 
-"Áö´É +%d";
+"ì§€ëŠ¥ +%d";
 "Inteligence +%d";
 
-"±Ù·Â +%d";
-"Síla +%d";
+"ê·¼ë ¥ +%d";
+"SÃ­la +%d";
 
-"¹ÎÃ¸ +%d";
+"ë¯¼ì²© +%d";
 "Pohyblivost +%d";
 
-"°ø°İ¼Óµµ +%d";
-"Rychlost útoku +%d";
+"ê³µê²©ì†ë„ +%d";
+"Rychlost Ãºtoku +%d";
 
-"ÀÌµ¿¼Óµµ %d";
+"ì´ë™ì†ë„ %d";
 "Rychlost pohybu %d";
 
-"ÄğÅ¸ÀÓ -%d";
-"Èas obnovení -%d";
+"ì¿¨íƒ€ì„ -%d";
+"ÄŒas obnovenÃ­ -%d";
 
-"»ı¸í·Â È¸º¹ +%d";
-"Obnova ivotní energie +%d";
+"ìƒëª…ë ¥ íšŒë³µ +%d";
+"Obnova Å¾ivotnÃ­ energie +%d";
 
-"Á¤½Å·Â È¸º¹ +%d";
-"Obnova bodù many +%d";
+"ì •ì‹ ë ¥ íšŒë³µ +%d";
+"Obnova bodÅ¯ many +%d";
 
-"µ¶°ø°İ %d";
-"Útok jedem %d";
+"ë…ê³µê²© %d";
+"Ãštok jedem %d";
 
-"½ºÅÏ +%d";
-"Hvìzda +%d";
+"ìŠ¤í„´ +%d";
+"HvÄ›zda +%d";
 
-"½½·Î¿ì +%d";
-"Sniování rychlosti +%d";
+"ìŠ¬ë¡œìš° +%d";
+"SniÅ¾ovÃ¡nÃ­ rychlosti +%d";
 
-"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
-"Šance na kritickı útok %d%%";
+"%d%% í™•ë¥ ë¡œ ì¹˜ëª…íƒ€ ê³µê²©";
+"Å ance na kritickÃ½ Ãºtok %d%%";
 
-"%d%% È®·ü·Î °üÅë °ø°İ";
-"Šance na pronikavı útok %d%%";
+"%d%% í™•ë¥ ë¡œ ê´€í†µ ê³µê²©";
+"Å ance na pronikavÃ½ Ãºtok %d%%";
 
-"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Hráèova síla útoku proti nestvùrám +%d%%";
+"ì¸ê°„ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"HrÃ¡Äova sÃ­la Ãºtoku proti nestvÅ¯rÃ¡m +%d%%";
 
-"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Síla útoku konì proti nestvùrám +%d%%";
+"ë™ë¬¼ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"SÃ­la Ãºtoku konÄ› proti nestvÅ¯rÃ¡m +%d%%";
 
-"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
-"Posílení útoku proti Wonggui + %d%%";
+"ì›…ê·€ì¡± íƒ€ê²©ì¹˜ +%d%%";
+"PosÃ­lenÃ­ Ãºtoku proti Wonggui + %d%%";
 
-"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
-"Posílení útoku proti Milgyo + %d%%";
+"ë°€êµë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"PosÃ­lenÃ­ Ãºtoku proti Milgyo + %d%%";
 
-"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
-"Posílení útoku proti Zombie + %d%%";
+"ì‹œì²´ë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"PosÃ­lenÃ­ Ãºtoku proti Zombie + %d%%";
 
-"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
-"Posílení útoku proti ïáblùm + %d%%";
+"ì•…ë§ˆë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"PosÃ­lenÃ­ Ãºtoku proti ÄÃ¡blÅ¯m + %d%%";
 
-"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Od císaøe Sa-Za-Hu dostal hráè %s o 10%% víc útoèné síly na 3 minuty.";
+"êµ°ì£¼ì˜ ì‚¬ìí›„ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ê³µê²©ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Od cÃ­saÅ™e Sa-Za-Hu dostal hrÃ¡Ä %s o 10%% vÃ­c ÃºtoÄnÃ© sÃ­ly na 3 minuty.";
 
-"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
-"Pohlcování ivotní energie %d%% pøi útoku.";
+"íƒ€ê²©ì¹˜ %d%% ë¥¼ ìƒëª…ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"PohlcovÃ¡nÃ­ Å¾ivotnÃ­ energie %d%% pÅ™i Ãºtoku.";
 
-"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
-"Pohlcování bodù many (MB) %d%% pøi útoku.";
+"íƒ€ë ¥ì¹˜ %d%% ë¥¼ ì •ì‹ ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"PohlcovÃ¡nÃ­ bodÅ¯ many (MB) %d%% pÅ™i Ãºtoku.";
 
-"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
-"Šancí %d%% budou body many (MB) vzaty nepøíteli.";
+"%d%% í™•ë¥ ë¡œ íƒ€ê²©ì‹œ ìƒëŒ€ ì „ì‹ ë ¥ ì†Œëª¨";
+"Å ancÃ­ %d%% budou body many (MB) vzaty nepÅ™Ã­teli.";
 
-"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
-"Pohlcení bodù many (MB) šancí %d%%";
+"%d%% í™•ë¥ ë¡œ í”¼í•´ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"PohlcenÃ­ bodÅ¯ many (MB) Å¡ancÃ­ %d%%";
 
-"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
-"%d%% šance na blok útoku boje zblízka.";
+"ë¬¼ë¦¬íƒ€ê²©ì‹œ ë¸”ëŸ­ í™•ë¥  %d%%";
+"%d%% Å¡ance na blok Ãºtoku boje zblÃ­zka.";
 
-"È° °ø°İ È¸ÇÇ È®·ü %d%%";
-"%d%% šance na blok útoku z dálky.";
+"í™œ ê³µê²© íšŒí”¼ í™•ë¥  %d%%";
+"%d%% Å¡ance na blok Ãºtoku z dÃ¡lky.";
 
-"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
-"Obrana proti jednoruèním meèùm %d%%";
+"í•œì†ê²€ ë°©ì–´ %d%%";
+"Obrana proti jednoruÄnÃ­m meÄÅ¯m %d%%";
 
-"¾ç¼Õ°Ë ¹æ¾î %d%%";
-"Obrana proti obouruèním meèùm %d%%";
+"ì–‘ì†ê²€ ë°©ì–´ %d%%";
+"Obrana proti obouruÄnÃ­m meÄÅ¯m %d%%";
 
-"µÎ¼Õ°Ë ¹æ¾î %d%%";
-"Obrana proti obouruèním meèùm %d%%";
+"ë‘ì†ê²€ ë°©ì–´ %d%%";
+"Obrana proti obouruÄnÃ­m meÄÅ¯m %d%%";
 
-"¹æ¿ï ¹æ¾î %d%%";
+"ë°©ìš¸ ë°©ì–´ %d%%";
 "Obrana proti zvonu %d%%";
 
-"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Od císaøe Geum-Gang-Gwon dostává hráè %s o 10%% více brnìní na 3 minuty.";
+"êµ°ì£¼ì˜ ê¸ˆê°•ê¶Œ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ë°©ì–´ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Od cÃ­saÅ™e Geum-Gang-Gwon dostÃ¡vÃ¡ hrÃ¡Ä %s o 10%% vÃ­ce brnÄ›nÃ­ na 3 minuty.";
 
-"ºÎÃ¤ ¹æ¾î %d%%";
-"Obrana proti vìjíøi %d%%";
+"ë¶€ì±„ ë°©ì–´ %d%%";
+"Obrana proti vÄ›jÃ­Å™i %d%%";
 
-"È°°ø°İ ÀúÇ× %d%%";
-"Odolnost proti útoku z dálky %d%%";
+"í™œê³µê²© ì €í•­ %d%%";
+"Odolnost proti Ãºtoku z dÃ¡lky %d%%";
 
-"È­¿° ÀúÇ× %d%%";
+"í™”ì—¼ ì €í•­ %d%%";
 "Odolnost proti ohni %d%%";
 
-"Àü±â ÀúÇ× %d%%";
-"Odolnost proti bleskùm %d%%";
+"ì „ê¸° ì €í•­ %d%%";
+"Odolnost proti bleskÅ¯m %d%%";
 
-"¸¶¹ı ÀúÇ× %d%%";
+"ë§ˆë²• ì €í•­ %d%%";
 "Odolnost proti magii %d%%";
 
-"¹Ù¶÷ ÀúÇ× %d%%";
-"Odolnost proti vìtru %d%%";
+"ë°”ëŒ ì €í•­ %d%%";
+"Odolnost proti vÄ›tru %d%%";
 
-"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
-"Odraení pøímého zásahu: %d%%";
+"ì§ì ‘ íƒ€ê²©ì¹˜ ë°˜ì‚¬ í™•ë¥  : %d%%";
+"OdraÅ¾enÃ­ pÅ™Ã­mÃ©ho zÃ¡sahu: %d%%";
 
-"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
-"Odraení kletby: %d%%";
+"ì €ì£¼ ë˜ëŒë¦¬ê¸° í™•ë¥  %d%%";
+"OdraÅ¾enÃ­ kletby: %d%%";
 
-"µ¶ ÀúÇ× %d%%";
+"ë… ì €í•­ %d%%";
 "Odolnost proti jedu %d%%";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
-"Body many (MB) budou zvıšeny na %d%% pokud vyhraješi.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Body many (MB) budou zvÃ½Å¡eny na %d%% pokud vyhrajeÅ¡i.";
 
-"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
-"Událost ji probíhá (Flag: %d)";
+"OX ì´ë²¤íŠ¸ê°€ ì´ë¯¸ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤(flag: %d)";
+"UdÃ¡lost jiÅ¾ probÃ­hÃ¡ (Flag: %d)";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
-"Zkušenosti budou zvıšeny na %d%% pokud vyhraješ proti nepøíteli.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ê²½í—˜ì¹˜ ì¶”ê°€ ìƒìŠ¹";
+"ZkuÅ¡enosti budou zvÃ½Å¡eny na %d%% pokud vyhrajeÅ¡ proti nepÅ™Ã­teli.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
-"Zvıšení Yangù na %d%% pokud vyhraješ proti nepøíteli.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ëˆ 2ë°° ë“œë¡­";
+"ZvÃ½Å¡enÃ­ YangÅ¯ na %d%% pokud vyhrajeÅ¡ proti nepÅ™Ã­teli.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
-"Zvıšení ukoøistìnıch pøedmìtù na %d%% pokud vyhraješ proti nepøíteli.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì•„ì´í…œ 2ë°° ë“œë¡­";
+"ZvÃ½Å¡enÃ­ ukoÅ™istÄ›nÃ½ch pÅ™edmÄ›tÅ¯ na %d%% pokud vyhrajeÅ¡ proti nepÅ™Ã­teli.";
 
-"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
-"Zvıšení síly na %d%% pøi vypití elixíru.";
+"ë¬¼ì•½ ì‚¬ìš©ì‹œ %d%% ì„±ëŠ¥ ì¦ê°€";
+"ZvÃ½Å¡enÃ­ sÃ­ly na %d%% pÅ™i vypitÃ­ elixÃ­ru.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
-"%d%% šance na naplnìní bodù ivotní energie, pokud vyhraješ.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ìƒëª…ë ¥ íšŒë³µ";
+"%d%% Å¡ance na naplnÄ›nÃ­ bodÅ¯ Å¾ivotnÃ­ energie, pokud vyhrajeÅ¡.";
 
-"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
-"adná závra %d%%";
+"ê¸°ì ˆí•˜ì§€ ì•ŠìŒ %d%%";
+"Å½adnÃ¡ zÃ¡vraÅ¥ %d%%";
 
-"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
-"ádné zpomalení %d%%";
+"ëŠë ¤ì§€ì§€ ì•ŠìŒ %d%%";
+"Å½Ã¡dnÃ© zpomalenÃ­ %d%%";
 
-"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
-"ádnı pád %d%%";
+"ë„˜ì–´ì§€ì§€ ì•ŠìŒ %d%%";
+"Å½Ã¡dnÃ½ pÃ¡d %d%%";
 
-"°ø°İ·Â +%d";
-"Síla útoku +%d";
+"ê³µê²©ë ¥ +%d";
+"SÃ­la Ãºtoku +%d";
 
-"¹æ¾î·Â +%d";
-"Brnìní + %d";
+"ë°©ì–´ë ¥ +%d";
+"BrnÄ›nÃ­ + %d";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
-"OX Quiz Skript nemùe bıt nahrán.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì‹¤íŒ¨";
+"OX Quiz Skript nemÅ¯Å¾e bÃ½t nahrÃ¡n.";
 
-"¸¶¹ı °ø°İ·Â +%d";
-"Magickı útok + %d";
+"ë§ˆë²• ê³µê²©ë ¥ +%d";
+"MagickÃ½ Ãºtok + %d";
 
-"¸¶¹ı ¹æ¾î·Â +%d";
-"Magická obrana + %d";
+"ë§ˆë²• ë°©ì–´ë ¥ +%d";
+"MagickÃ¡ obrana + %d";
 
-"ÃÖ´ë Áö±¸·Â +%d";
-"Maximální vytrvalost + %d";
+"ìµœëŒ€ ì§€êµ¬ë ¥ +%d";
+"MaximÃ¡lnÃ­ vytrvalost + %d";
 
-"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
-"Síla proti Váleèníkùm + %d%%";
+"ë¬´ì‚¬ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ­la proti VÃ¡leÄnÃ­kÅ¯m + %d%%";
 
-"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
-"Síla proti Ninjùm + %d%%";
+"ìê°ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ­la proti NinjÅ¯m + %d%%";
 
-"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
-"Síla proti Surùm + %d%%";
+"ìˆ˜ë¼ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ­la proti SurÅ¯m + %d%%";
 
-"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
-"Síla proti Šamanùm + %d%%";
+"ë¬´ë‹¹ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ­la proti Å amanÅ¯m + %d%%";
 
-"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
-"Síla proti nestvùrám + %d%%";
+"ëª¬ìŠ¤í„°ì—ê²Œ ê°•í•¨ +%d%%";
+"SÃ­la proti nestvÅ¯rÃ¡m + %d%%";
 
-"°ø°İ·Â +%d%%";
-"Útok + %d%%";
+"ê³µê²©ë ¥ +%d%%";
+"Ãštok + %d%%";
 
-"¹æ¾î·Â +%d%%";
+"ë°©ì–´ë ¥ +%d%%";
 "Obrana + %d%%";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
-"OX Quiz Skript je nahrán.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì„±ê³µ";
+"OX Quiz Skript je nahrÃ¡n.";
 
-"°æÇèÄ¡ %d%%";
-"Zkušenost %d%%";
+"ê²½í—˜ì¹˜ %d%%";
+"Zkuì‰‹nost %d%%";
 
-"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
-"Šance nalézt pøedmìt %. 1f";
+"ì•„ì´í…œ ë“œë¡­ìœ¨ %.1fë°°";
+"Å ance nalÃ©zt pÅ™edmÄ›t %. 1f";
 
-"µ· µå·ÓÀ² %.1f¹è";
-"Šance nalézt Yangy %. 1f";
+"ëˆ ë“œë¡­ìœ¨ %.1fë°°";
+"Å ance nalÃ©zt Yangy %. 1f";
 
-"ÃÖ´ë »ı¸í·Â +%d%%";
-"Horní limit ivotní energie +%d%%";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d%%";
+"HornÃ­ limit Å¾ivotnÃ­ energie +%d%%";
 
-"ÃÖ´ë Á¤½Å·Â +%d%%";
-"Horní limit ivotní energie +%d%%";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d%%";
+"HornÃ­ limit Å¾ivotnÃ­ energie +%d%%";
 
-"½ºÅ³ µ¥¹ÌÁö %d%%";
-"Poškození schopností %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ %d%%";
+"PoÅ¡kozenÃ­ schopnostÃ­ %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö %d%%";
-"Poškození úderem %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ %d%%";
+"PoÅ¡kozenÃ­ Ãºderem %d%%";
 
-"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Odolnost proti poškození schopností %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"Odolnost proti poÅ¡kozenÃ­ schopnostÃ­ %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Odolnost proti úderùm %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"Odolnost proti ÃºderÅ¯m %d%%";
 
-"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% odolnost proti útoku váleèníka";
+"ë¬´ì‚¬ê³µê²©ì— %d%% ì €í•­";
+"%d%% odolnost proti Ãºtoku vÃ¡leÄnÃ­ka";
 
-"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
-"Vítejte v Metin2.";
+"ì•ˆë…•í•˜ì„¸ìš”. ë©”í‹´2 ì…ë‹ˆë‹¤.";
+"VÃ­tejte v Metin2.";
 
-"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% odolnost proti útoku Ninji";
+"ìê°ê³µê²©ì— %d%% ì €í•­";
+"%d%% odolnost proti Ãºtoku Ninji";
 
-"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% odolnost proti útoku Sury";
+"ìˆ˜ë¼ê³µê²©ì— %d%% ì €í•­";
+"%d%% odolnost proti Ãºtoku Sury";
 
-"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% odolnost proti útoku Šamana";
+"ë¬´ë‹¹ê³µê²©ì— %d%% ì €í•­";
+"%d%% odolnost proti Ãºtoku Å amana";
 
-" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+" (ë§Œë£Œì¼ : %dë…„ %dì›” %dì¼)";
 "(Procedura: %d r- %d m - %d d)";
 
-"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
-"Tvùj chat je blokován.";
+"ì±„íŒ… ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤.";
+"TvÅ¯j chat je blokovÃ¡n.";
 
-"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
-"Potøebuješ vyšší úroveò, abys mohl volat.";
+"ì™¸ì¹˜ê¸°ëŠ” ìœ ë£ŒíšŒì›ë§Œ ì‚¬ìš©í• ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"PotÅ™ebujeÅ¡ vyÅ¡Å¡Ã­ ÃºroveÅˆ, abys mohl volat.";
 
-"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
-"Potøebuješ minimálnì úroveò %d, abys mohl volat.";
+"ì™¸ì¹˜ê¸°ëŠ” ë ˆë²¨ %d ì´ìƒë§Œ ì‚¬ìš© ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"PotÅ™ebujeÅ¡ minimÃ¡lnÄ› ÃºroveÅˆ %d, abys mohl volat.";
 
-"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"Nejsi v této skupinì.";
+"íŒŒí‹° ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Nejsi v tÃ©to skupinÄ›.";
 
-"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nepøipojil jsi se k tomuto cechu.";
+"ê¸¸ë“œì— ê°€ì…í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"NepÅ™ipojil jsi se k tomuto cechu.";
 
-"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Hráè odmítl bıt pøidán do tvého seznamu pøátel.";
+"ìƒëŒ€ë°©ì´ ë©”ì‹ ì ¸ ì¶”ê°€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"HrÃ¡Ä odmÃ­tl bÃ½t pÅ™idÃ¡n do tvÃ©ho seznamu pÅ™Ã¡tel.";
 
-"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"Soutì OX zaèala.";
+"OX ì´ë²¤íŠ¸ê°€ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"SoutÄ›Å¾ OX zaÄala.";
 
-"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Seznam pøátel]  Nemùes pøidat GM do tvého listu pøátel.";
+"<ë©”ì‹ ì ¸> ìš´ì˜ìëŠ” ë©”ì‹ ì ¸ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Seznam pÅ™Ã¡tel]  NemÅ¯Å¾es pÅ™idat GM do tvÃ©ho listu pÅ™Ã¡tel.";
 
-"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
-"%s není ve høe.";
+"%s ë‹˜ì€ ì ‘ì†ë˜ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"%s nenÃ­ ve hÅ™e.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
-"Po skonèení obchodování mùeš otevøít stánek a za %d vteøin.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì— ì°½ê³ ë¥¼ ì—´ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Po skonÄenÃ­ obchodovÃ¡nÃ­ mÅ¯Å¾eÅ¡ otevÅ™Ã­t stÃ¡nek aÅ¾ za %d vteÅ™in.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Znovu mùeš obchodovat za %d vteøin.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Znovu mÅ¯Å¾eÅ¡ obchodovat za %d vteÅ™in.";
 
-"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Máš víc jak 2 Biliony Yangù. Nemùeš obchodovat.";
+"ì•¡ìˆ˜ê°€ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"MÃ¡Å¡ vÃ­c jak 2 Biliony YangÅ¯. NemÅ¯Å¾eÅ¡ obchodovat.";
 
-"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nemùeš otevøít soukromı stánek, kdy je otevøeno další okno.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘ì¼ê²½ìš° ê°œì¸ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ otevÅ™Ã­t soukromÃ½ stÃ¡nek, kdyÅ¾ je otevÅ™eno dalÅ¡Ã­ okno.";
 
-"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Hráè má více jak 2 Biliony Yangù. Nemùeš s ním obchodovat.";
+"ìƒëŒ€ë°©ì˜ ì´ê¸ˆì•¡ì´ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"HrÃ¡Ä mÃ¡ vÃ­ce jak 2 Biliony YangÅ¯. NemÅ¯Å¾eÅ¡ s nÃ­m obchodovat.";
 
-"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"[Skladištì] Není monı ádnı pøesun.";
+"<ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›] NenÃ­ moÅ¾nÃ½ Å¾Ã¡dnÃ½ pÅ™esun.";
 
-"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
-"[Skladištì] Pøedmìt nemùe bıt uskladnìn.";
+"<ì°½ê³ > ì´ ì•„ì´í…œì€ ë„£ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›] PÅ™edmÄ›t nemÅ¯Å¾e bÃ½t uskladnÄ›n.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Hráè kterı zval, není online.";
+"<íŒŒí‹°> íŒŒí‹°ìš”ì²­ì„ í•œ ìºë¦­í„°ë¥¼ ì°¾ì„ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] HrÃ¡Ä kterÃ½ zval, nenÃ­ online.";
 
-"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
-"S Urielovım svolením mùeš vstoupit.";
+"ì„ë‘ì§€ë¥¼ í†µí•˜ì—¬ ì…ì¥ ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"S UrielovÃ½m svolenÃ­m mÅ¯Å¾eÅ¡ vstoupit.";
 
-"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Skupina] Pouze vùdce skupiny mùe tohle zmìnit.";
+"<íŒŒí‹°> ë¦¬ë”ë§Œ ë³€ê²½í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Skupina] Pouze vÅ¯dce skupiny mÅ¯Å¾e tohle zmÄ›nit.";
 
-"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Skupina] Cíl není èlen tvé skupiny.";
+"<íŒŒí‹°> ìƒíƒœë¥¼ ë³€ê²½í•˜ë ¤ëŠ” ì‚¬ëŒì´ íŒŒí‹°ì›ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Skupina] CÃ­l nenÃ­ Älen tvÃ© skupiny.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš vykopnout hráèe ze skupiny.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ vykopnout hrÃ¡Äe ze skupiny.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš vykopnout hráèe ze skupiny.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ì›ì„ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ vykopnout hrÃ¡Äe ze skupiny.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ì¶”ë°©ë‹¹í•˜ì…¨ìŠµë‹ˆë‹¤.";
 "[Skupina] Byl jsi vykopnut ze skupiny.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš opustit skupinu.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ë¥¼ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ opustit skupinu.";
 
-"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš vykopnout èleny skupiny.";
+"<íŒŒí‹°> ë‹¤ë¥¸ íŒŒí‹°ì›ì„ íƒˆí‡´ì‹œí‚¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ vykopnout Äleny skupiny.";
 
-"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Po smazání cechu nemùeš vytvoøit novı po dobu %d dní.";
+"<ê¸¸ë“œ> í•´ì‚°í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Po smazÃ¡nÃ­ cechu nemÅ¯Å¾eÅ¡ vytvoÅ™it novÃ½ po dobu %d dnÃ­.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Po opuštìní cechu nemùeš zaloit novı po dobu %d dní.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Po opuÅ¡tÄ›nÃ­ cechu nemÅ¯Å¾eÅ¡ zaloÅ¾it novÃ½ po dobu %d dnÃ­.";
 
-"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
-"Jméno cechu je neplatné.";
+"ì í•©í•˜ì§€ ì•Šì€ ê¸¸ë“œ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"JmÃ©no cechu je neplatnÃ©.";
 
-"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
-"ádáme úèast mnoha hráèù.";
+"ë§ì€ ì°¸ì—¬ ë¶€íƒë“œë¦½ë‹ˆë‹¤.";
+"Å½Ã¡dÃ¡me ÃºÄast mnoha hrÃ¡ÄÅ¯.";
 
-"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
-"[Cech] [%s] cech byl vytvoøen.";
+"<ê¸¸ë“œ> [%s] ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Cech] [%s] cech byl vytvoÅ™en.";
 
-"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Cech] Vytvoøení cechu selhalo.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìƒì„±ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] VytvoÅ™enÃ­ cechu selhalo.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Skupina] Jen vedoucí skupiny mùe pouívat skupinové schopnosti.";
+"<íŒŒí‹°> íŒŒí‹° ê¸°ìˆ ì€ íŒŒí‹°ì¥ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Skupina] Jen vedoucÃ­ skupiny mÅ¯Å¾e pouÅ¾Ã­vat skupinovÃ© schopnosti.";
 
-"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Cíl nenalezen.";
+"<íŒŒí‹°> ì†Œí™˜í•˜ë ¤ëŠ” ëŒ€ìƒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] CÃ­l nenalezen.";
 
-"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
-"[Cech] Tohle není správné mnoství Yangù.";
+"<ê¸¸ë“œ> ì˜ëª»ëœ ê¸ˆì•¡ì…ë‹ˆë‹¤.";
+"[Cech] Tohle nenÃ­ sprÃ¡vnÃ© mnoÅ¾stvÃ­ YangÅ¯.";
 
-"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Cech] Nemáš dostatek Yangù.";
+"<ê¸¸ë“œ> ê°€ì§€ê³  ìˆëŠ” ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Cech] NemÃ¡Å¡ dostatek YangÅ¯.";
 
-"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Hledaná osoba nemùe bıt nalezena.";
+"<ê¸¸ë“œ> ê·¸ëŸ¬í•œ ì‚¬ëŒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] HledanÃ¡ osoba nemÅ¯Å¾e bÃ½t nalezena.";
 
-"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
-"[Cech] Tahle osoba není ve stejném cechu.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê°™ì€ ê¸¸ë“œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Cech] Tahle osoba nenÃ­ ve stejnÃ©m cechu.";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš vykopnout èleny cechu.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œí‚¬ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ vykopnout Äleny cechu.";
 
-"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Cech] Cechovní èlen %s byl vykopnut z cechu.";
+"<ê¸¸ë“œ> ê¸¸ë“œì› %s ë‹˜ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Cech] CechovnÃ­ Älen %s byl vykopnut z cechu.";
 
-"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
-"Soutì OX ještì neskonèila, objevily se chyby.(flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ë‹«íˆì§€ ì•Šì•˜ê±°ë‚˜, í€´ì¦ˆ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(flag: %d)";
+"SoutÄ›Å¾ OX jeÅ¡tÄ› neskonÄila, objevily se chyby.(flag: %d)";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Cech] Vyhodil jsi èlena cechu.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Cech] Vyhodil jsi Älena cechu.";
 
-"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš zmìnit své hodnostní jméno.";
+"<ê¸¸ë“œ> ì§ìœ„ ì´ë¦„ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ zmÄ›nit svÃ© hodnostnÃ­ jmÃ©no.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Práva cechovního vùdce nemohou bıt zmìnìny.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ ì´ë¦„ì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] PrÃ¡va cechovnÃ­ho vÅ¯dce nemohou bÃ½t zmÄ›nÄ›ny.";
 
-"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
-"[Cech] Hodnostní jméno je neplatné.";
+"<ê¸¸ë“œ> ì í•©í•˜ì§€ ì•Šì€ ì§ìœ„ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"[Cech] HodnostnÃ­ jmÃ©no je neplatnÃ©.";
 
-"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš zmìnit svoji pozici.";
+"<ê¸¸ë“œ> ì§ìœ„ ê¶Œí•œì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ zmÄ›nit svoji pozici.";
 
-"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Práva cechovního vùdce nemùou bıt zmìnìny.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ê¶Œí•œì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] PrÃ¡va cechovnÃ­ho vÅ¯dce nemÅ¯Å¾ou bÃ½t zmÄ›nÄ›ny.";
 
-"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
-"[Cech] Pouito %u zkušeností.";
+"<ê¸¸ë“œ> %uì˜ ê²½í—˜ì¹˜ë¥¼ íˆ¬ìí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] PouÅ¾ito %u zkuÅ¡enostÃ­.";
 
-"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Cech] Uití zkušeností selhalo.";
+"<ê¸¸ë“œ> ê²½í—˜ì¹˜ íˆ¬ìì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] UÅ¾itÃ­ zkuÅ¡enostÃ­ selhalo.";
 
-"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Cech] V cechovní pokladnici nemáš dostatek Yangù!";
+"<ê¸¸ë“œ> ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Cech] V cechovnÃ­ pokladnici nemÃ¡Å¡ dostatek YangÅ¯!";
 
-"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Cech] Draèí duch nebyl obnoven.";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ íšŒë³µì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] DraÄÃ­ duch nebyl obnoven.";
 
-"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
-"Soutì OX bude zakrátko znovu spuštìna.";
+"ì ì‹œ í›„ OX ì´ë²¤íŠ¸ë¥¼ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆë‹¤.";
+"SoutÄ›Å¾ OX bude zakrÃ¡tko znovu spuÅ¡tÄ›na.";
 
-"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš udìlat prohlášení.";
+"<ê¸¸ë“œ> ê³µì§€ê¸€ì„ ì‘ì„±í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ udÄ›lat prohlÃ¡Å¡enÃ­.";
 
-"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš zmìnit pozici.";
+"<ê¸¸ë“œ> ì§ìœ„ë¥¼ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ zmÄ›nit pozici.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Hodnost cechovního vùdce nemùe bıt zmìnìna.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ëŠ” ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Hodnost cechovnÃ­ho vÅ¯dce nemÅ¯Å¾e bÃ½t zmÄ›nÄ›na.";
 
-"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš se udìlat cechovním vùdcem.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ìœ¼ë¡œ ì§ìœ„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ se udÄ›lat cechovnÃ­m vÅ¯dcem.";
 
-"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš vybrat vùdce cechu.";
+"<ê¸¸ë“œ> ì¥êµ°ì„ ì§€ì •í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ vybrat vÅ¯dce cechu.";
 
-"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš vybrat více vùdcù.";
+"<ê¸¸ë“œ> ë”ì´ìƒ ì¥ìˆ˜ë¥¼ ì§€ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ vybrat vÃ­ce vÅ¯dcÅ¯.";
 
-"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš obchodovat s tímto pøedmìtem.";
+"ì•„ì´í…œì„ ê±´ë„¤ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ obchodovat s tÃ­mto pÅ™edmÄ›tem.";
 
-"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
-"Ilegální software rozpoznán. Hra bude ukonèena.";
+"ë¶ˆë²• í”„ë¡œê·¸ë¨ì´ ê°ì§€ ë˜ì–´ ê²Œì„ì´ ì¢…ë£Œ ë©ë‹ˆë‹¤.";
+"IlegÃ¡lnÃ­ software rozpoznÃ¡n. Hra bude ukonÄena.";
 
-"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
-"Máš více jak 2 Bilionù Yangù. Nemùeš obchodovat.";
+"ì†Œìœ  ëˆì´ 20ì–µëƒ¥ì„ ë„˜ì–´ ê±°ë˜ë¥¼ í•¼ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"MÃ¡Å¡ vÃ­ce jak 2 BilionÅ¯ YangÅ¯. NemÅ¯Å¾eÅ¡ obchodovat.";
 
-"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Neplatnı Yang.";
+"ê¸ˆì•¡ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NeplatnÃ½ Yang.";
 
-"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
-"Souèasná událost je omezena jen na jednu oblast.";
+"í˜„ì¬ ì´ë²¤íŠ¸ ì°¸ê°€ì ë¶„ë“¤ì€ ë§ˆì„ë¡œ ì´ë™ ë˜ê² ìŠµë‹ˆë‹¤.";
+"SouÄasnÃ¡ udÃ¡lost je omezena jen na jednu oblast.";
 
-"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
-"Spustit ruletu pøedmìtù.";
+"ì•„ì´í…œ ë£°ë › ì‹œì‘.";
+"Spustit ruletu pÅ™edmÄ›tÅ¯.";
 
-"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
-"Spustit ruletu Yangù.";
+"ë¨¸ë‹ˆ  ë£°ë › ì‹œì‘.";
+"Spustit ruletu YangÅ¯.";
 
-"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
-"Hráè je online. Pouij šeptání na rozhovor.";
+"í˜„ì¬ ì˜¨ë¼ì¸ ìƒíƒœ ì…ë‹ˆë‹¤. ê·“ë§ì„ ì´ìš©í•˜ì„¸ìš”.";
+"HrÃ¡Ä je online. PouÅ¾ij Å¡eptÃ¡nÃ­ na rozhovor.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Mobilní telefonní èíslo není registrováno.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"MobilnÃ­ telefonnÃ­ ÄÃ­slo nenÃ­ registrovÃ¡no.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Musíš mít minimálnì úroveò 20 na posílání textovıch zpráv.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì€ ë ˆë²¨ 20ë¶€í„° í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ mÃ­t minimÃ¡lnÄ› ÃºroveÅˆ 20 na posÃ­lÃ¡nÃ­ textovÃ½ch zprÃ¡v.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
-"Potøebuješ 2000 DT na poslání textové zprávy.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì—ëŠ” 2000ì›ì´ í•„ìš” í•©ë‹ˆë‹¤.";
+"PotÅ™ebujeÅ¡ 2000 DT na poslÃ¡nÃ­ textovÃ© zprÃ¡vy.";
 
-"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
-"Tvá textová zpráva byla odeslána.";
+"ë¬¸ì ë©”ì„¸ì§€ë¥¼ ì „ì†¡ í–ˆìŠµë‹ˆë‹¤.";
+"TvÃ¡ textovÃ¡ zprÃ¡va byla odeslÃ¡na.";
 
-"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s cechu %s bylo zvıšeno na %d%%!";
+"%s ê¸¸ë“œì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s cechu %s bylo zvÃ½Å¡eno na %d%%!";
 
-"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
-"%s cechu %s je opìt normální.";
+"%s ê¸¸ë“œì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
+"%s cechu %s je opÄ›t normÃ¡lnÃ­.";
 
-"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s: %s zvıšeno o %d%%!";
+"%sì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s: %s zvÃ½Å¡eno o %d%%!";
 
-"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
-"%s 's %s je opìt normální.";
+"%sì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
+"%s 's %s je opÄ›t normÃ¡lnÃ­.";
 
-"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
-"Tvé tìební body se zvıšily na maximum. (%d).";
+"ê³¡ê´­ì´ ìˆ˜ë ¨ë„ê°€ ìµœëŒ€(%d)ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TvÃ© tÄ›Å¾ebnÃ­ body se zvÃ½Å¡ily na maximum. (%d).";
 
-"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Tvé tìební body se zvıšily na nejvyšší úroveò.";
+"ê³¡ê´­ì´ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"TvÃ© tÄ›Å¾ebnÃ­ body se zvÃ½Å¡ily na nejvyÅ¡Å¡Ã­ ÃºroveÅˆ.";
 
-"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Mùeš vylepšit svùj krumpáè s pomocí døevorubce Deokbae.";
+"ë‚˜ë¬´ê¾¼ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ê³¡ê´­ì´ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MÅ¯Å¾eÅ¡ vylepÅ¡it svÅ¯j krumpÃ¡Ä s pomocÃ­ dÅ™evorubce Deokbae.";
 
-"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"Tvé tìební body se zvıšily! (%d/%d)";
+"ê³¡ê´­ì´ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"TvÃ© tÄ›Å¾ebnÃ­ body se zvÃ½Å¡ily! (%d/%d)";
 
-"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
-"Bez krumpáèe nemùeš kopat.";
+"ê³¡ê´­ì´ë¥¼ ë“¤ê³  ìˆì§€ ì•Šì•„ì„œ ìº˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Bez krumpÃ¡Äe nemÅ¯Å¾eÅ¡ kopat.";
 
-"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
-"Zde není nic na kopání.";
+"ë”ì´ìƒ ìºë‚¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Zde nenÃ­ nic na kopÃ¡nÃ­.";
 
-"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Kopání bylo úspìšné.";
+"ì±„ê´‘ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KopÃ¡nÃ­ bylo ÃºspÄ›Å¡nÃ©.";
 
-"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Kopání se nezdaøilo.";
+"ì±„ê´‘ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KopÃ¡nÃ­ se nezdaÅ™ilo.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
-"[Seznam pøátel] Pøidal jsi %s jako pøítele.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ì¹œêµ¬ë¡œ ì¶”ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Seznam pÅ™Ã¡tel] PÅ™idal jsi %s jako pÅ™Ã­tele.";
 
-"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
-"Hráè bude za chvíli pøemístìn do mìsta.";
+"ì ì‹œ í›„ ë§ˆì„ë¡œ ì´ë™ë˜ê² ìŠµë‹ˆë‹¤.";
+"HrÃ¡Ä bude za chvÃ­li pÅ™emÃ­stÄ›n do mÄ›sta.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
-"[Seznam pøátel] Vymazal jsi %s ze seznamu.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ë©”ì‹ ì €ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Seznam pÅ™Ã¡tel] Vymazal jsi %s ze seznamu.";
 
-"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
-"Kritická chyba serveru. Server bude automaticky restartován.";
+"ì„œë²„ì— ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì—¬ ìë™ìœ¼ë¡œ ì¬ë¶€íŒ…ë©ë‹ˆë‹¤.";
+"KritickÃ¡ chyba serveru. Server bude automaticky restartovÃ¡n.";
 
-"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
-"Budeš odpojen za 10 vteøin.";
+"10ì´ˆí›„ ìë™ìœ¼ë¡œ ì ‘ì†ì´ ì¢…ë£Œë˜ë©°,";
+"BudeÅ¡ odpojen za 10 vteÅ™in.";
 
-"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
-"Mùeš se pøipojit za 5 minut.";
+"5ë¶„ í›„ì— ì •ìƒì ìœ¼ë¡œ ì ‘ì†í•˜ì‹¤ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MÅ¯Å¾eÅ¡ se pÅ™ipojit za 5 minut.";
 
-"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
-"(%s) Cech vytvoøen. [Doèasnì]";
+"(%s) ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤. [ì„ì‹œ]";
+"(%s) Cech vytvoÅ™en. [DoÄasnÄ›]";
 
-"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
-"Cech je ve válce.";
+"í˜„ì¬ ì „ìŸì¤‘ì¸ ê¸¸ë“œ ì…ë‹ˆë‹¤";
+"Cech je ve vÃ¡lce.";
 
-"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
+"%s: ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê¸¸ë“œ ì…ë‹ˆë‹¤.";
 "%s: Tento cech neexistuje.";
 
-"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
-"Cech s tímto jménem nebo èíslem neexistuje.";
+"ê·¸ëŸ° ì´ë¦„ ë˜ëŠ” ë²ˆí˜¸ì˜ ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Cech s tÃ­mto jmÃ©nem nebo ÄÃ­slem neexistuje.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê±´ë¬¼ì…ë‹ˆë‹¤.";
 "Tato budova neexistuje.";
 
-"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
-"Tenhle typ budovy mùe bıt postaven pouze jednou.";
+"ê°™ì´ ì§€ì„ ìˆ˜ ì—†ëŠ” ì¢…ë¥˜ì˜ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆìŠµë‹ˆë‹¤.";
+"Tenhle typ budovy mÅ¯Å¾e bÃ½t postaven pouze jednou.";
 
-"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
-"Nejdøíve zavøi kartu soutìe OX. (Flag: %d)";
+"OXì´ë²¤íŠ¸ ë§µì„ ë¨¼ì € ë‹«ì•„ ì£¼ì„¸ìš”.(Flag: %d)";
+"NejdÅ™Ã­ve zavÅ™i kartu soutÄ›Å¾e OX. (Flag: %d)";
 
-"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nejdøíve musí bıt postavena základní budova.";
+"ê±´ì„¤ì— í•„ìš”í•œ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"NejdÅ™Ã­ve musÃ­ bÃ½t postavena zÃ¡kladnÃ­ budova.";
 
-"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Stavba selhala kvùli špatné stavební cenì.";
+"ê±´ë¬¼ ë¹„ìš© ì •ë³´ ì´ìƒìœ¼ë¡œ ê±´ì„¤ ì‘ì—…ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Stavba selhala kvÅ¯li Å¡patnÃ© stavebnÃ­ cenÄ›.";
 
-"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Tvùj cech nemá dostatek Yangù na stavbu této budovy.";
+"ê±´ì„¤ ë¹„ìš©ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"TvÅ¯j cech nemÃ¡ dostatek YangÅ¯ na stavbu tÃ©to budovy.";
 
-"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Na tuto budovu nemáš dostatek surovin.";
+"ìì¬ê°€ ë¶€ì¡±í•˜ì—¬ ê±´ì„¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Na tuto budovu nemÃ¡Å¡ dostatek surovin.";
 
-"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"Nemùeš postavit budovu na tomto místì.";
+"ê±´ë¬¼ì„ ì§€ì„ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ postavit budovu na tomto mÃ­stÄ›.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ìºë¦­í„° ì…ë‹ˆë‹¤.";
 "Tato postava neexistuje.";
 
-"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
-"Souboj nezrušen.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì‹¤íŒ¨";
+"Souboj nezruì‰‹n.";
 
-"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
-"Souboj úspìšnì zrušen.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì„±ê³µ";
+"Souboj ÃºspÄ›Å¡nÄ› zruÅ¡en.";
 
-"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
-"Souboj úspìšnì zahájen.";
+"ëŒ€ë ¨ì´ ì„±ê³µì ìœ¼ë¡œ ì‹œì‘ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Souboj ÃºspÄ›Å¡nÄ› zahÃ¡jen.";
 
-"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
-"Problém se zahájením souboje.";
+"ëŒ€ë ¨ ì‹œì‘ì— ë¬¸ì œê°€ ìˆìŠµë‹ˆë‹¤.";
+"ProblÃ©m se zahÃ¡jenÃ­m souboje.";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
-"Nevyskytly se ádné chyby.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.";
+"Nevyskytly se Å¾Ã¡dnÃ© chyby.";
 
-"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Zde nejsou ádní bojovníci.";
+"ëŒ€ë ¨ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Zde nejsou Å¾Ã¡dnÃ­ bojovnÃ­ci.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
-"Nezbyly ádné body vlastností tìla.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nezbyly Å¾Ã¡dnÃ© body vlastnostÃ­ tÄ›la.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
-"Zbıvá pøíliš málo bodù vlastností tìla.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì ìŠµë‹ˆë‹¤.";
+"ZbÃ½vÃ¡ pÅ™Ã­liÅ¡ mÃ¡lo bodÅ¯ vlastnostÃ­ tÄ›la.";
 
-"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
-"Vloil jsi neplatnou hodnotu.";
+"ê°’ì„ ì˜ëª» ì…ë ¥í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Vloì—l jsi neplatnou hodnotu.";
 
-"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
-"Subordinace rozkazu je neplatná.";
+"ëª…ë ¹ì–´ì˜ ì„œë¸Œ ì»¤ë§¨ë“œê°€ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Subordinace rozkazu je neplatnÃ¡.";
 
-"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
-"Zrušenı kontrakt mezi hráèem %d a hráèem %d.";
+"í”Œë ˆì´ì–´ %d ì™€ í”Œë ˆì´ì–´  %dë¥¼ íŒŒí˜¼ì‹œí‚µë‹ˆë‹¤..";
+"ZruÅ¡enÃ½ kontrakt mezi hrÃ¡Äem %d a hrÃ¡Äem %d.";
 
-"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
-"Zatoèit ruletou za %d Yangù.";
+"ë£»ë ›ì„ ëŒë¦½ë‹ˆë‹¤. ê¸ˆì•¡ %d";
+"ZatoÄit ruletou za %d YangÅ¯.";
 
-"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
-"Záznam pøedmìtu uloen do systémového záznamu.";
+"ì•„ì´í…œë¡œê·¸ê°€ syslog ì— ë‚¨ì•˜ìŠµë‹ˆë‹¤";
+"ZÃ¡znam pÅ™edmÄ›tu uloÅ¾en do systÃ©movÃ©ho zÃ¡znamu.";
 
-"°¢Á¦±¹ ÁøÇà Á¤º¸";
-"Informace pro království";
+"ê°ì œêµ­ ì§„í–‰ ì •ë³´";
+"Informace pro krÃ¡lovstvÃ­";
 
-"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
-"Vyber informace mapy svaté zemì %d vstup %d %d %d";
+"ì„ íƒ ë§µ ì •ë³´ ì„±ì§€ %d í†µë¡œ %d %d %d";
+"Vyber informace mapy svatÃ© zemÄ› %d vstup %d %d %d";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Objevila se chyba.";
 
-"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
-"%s zabití %d zabité pøíšery %d zabití bossù %d Èíslo svaté zemì %d";
+"%s killcount %d mobkillcount %d bosskillcount %d ì„±ì§€ ì§„ì…ìˆ˜ %d";
+"%s zabitÃ­ %d zabitÃ© pÅ™Ã­Å¡ery %d zabitÃ­ bossÅ¯ %d ÄŒÃ­slo svatÃ© zemÄ› %d";
 
-"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
-"Informace o stavu bitvy království";
+"ë‚˜ì˜ ì‚¼ê±°ë¦¬ ì§„í–‰ì •ë³´";
+"Informace o stavu bitvy krÃ¡lovstvÃ­";
 
-"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
-"Tvùj poadavek je zavádìn. Prosím èekej.";
+"í€˜ìŠ¤íŠ¸ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘ì…ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤.";
+"TvÅ¯j poÅ¾adavek je zavÃ¡dÄ›n. ProsÃ­m Äekej.";
 
-"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nemùeš otevøít Skladištì, kdy je otevøeno další okno.";
+"ë‹¤ë¥¸ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ì°½ê³ ë¥¼ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ otevÅ™Ã­t SkladiÅ¡tÄ›, kdyÅ¾ je otevÅ™eno dalÅ¡Ã­ okno.";
 
-"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
-"[Skladištì] Heslo ke skladišti bylo zmìnìno.";
+"<ì°½ê³ > ì°½ê³  ë¹„ë°€ë²ˆí˜¸ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›] Heslo ke skladiÅ¡ti bylo zmÄ›nÄ›no.";
 
-"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
-"[Skladištì] Zadal jsi špatné heslo.";
+"<ì°½ê³ > ê¸°ì¡´ ë¹„ë°€ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤.";
+"[SkladiÅ¡tÄ›] Zadal jsi Å¡patnÃ© heslo.";
 
-"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
-"Tvùj herní èas vyprší za %d minut.";
+"ê²°ì¬ê¸°ê°„ì´ %dë¶„ í›„ ë§Œë£Œ ë©ë‹ˆë‹¤.";
+"TvÅ¯j hernÃ­ Äas vyprÅ¡Ã­ za %d minut.";
 
-"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
-"Øádnì voleno.";
+"ì •ìƒì ìœ¼ë¡œ íˆ¬í‘œë¥¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Å˜Ã¡dnÄ› voleno.";
 
-"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
-"Ji voleno.";
+"ì´ë¯¸íˆ¬í‘œë¥¼ í–ˆìŒ";
+"JiÅ¾ voleno.";
 
-"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
-"Hráè %s je ji ve volbì.";
+"%s ë‹˜ì€ ì •ìƒì ìœ¼ë¡œ ì¶œë§ˆë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"HrÃ¡Ä %s je jiÅ¾ ve volbÄ›.";
 
-"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
-"Soutì OX skonèila, nevyskytly se ádné chyby.(Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ì—´ë ¤ ìˆì§€ ì•Šê±°ë‚˜ ë¬¸ì œ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(Flag: %d)";
+"SoutÄ›Å¾ OX skonÄila, nevyskytly se Å¾Ã¡dnÃ© chyby.(Flag: %d)";
 
-"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nemùe bıt zvolen.";
+"ì¶œë§ˆë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾e bÃ½t zvolen.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s má stále %u Yangù.";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %lu ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s mÃ¡ stÃ¡le %u YangÅ¯.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s má stále %d Yangù";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %d ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s mÃ¡ stÃ¡le %d YangÅ¯";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
-"Nemáš dostatek Yangù.";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ëˆì„ ê°€ì ¸ì˜¬ìˆ˜ ì—†ëŠ” ìƒí™©ì…ë‹ˆë‹¤";
+"NemÃ¡Å¡ dostatek YangÅ¯.";
 
-" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
-"%s byl smazán jako kandidát na císaøe.";
+" %s êµ°ì£¼ í›„ë³´ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤";
+"%s byl smazÃ¡n jako kandidÃ¡t na cÃ­saÅ™e.";
 
-" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
-"%s není kandidát na císaøe.";
+" %s ëŠ” êµ°ì£¼ í›„ë³´ê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"%s nenÃ­ kandidÃ¡t na cÃ­saÅ™e.";
 
-" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
-"%s byl nominován na císaøe.";
+" %s êµ°ì£¼ë¡œ ì…ëª… í–ˆìŠµë‹ˆë‹¤.";
+"%s byl nominovÃ¡n na cÃ­saÅ™e.";
 
-" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
-"%s nemùe bıt nominován na císaøe.";
+" %s ëŠ” êµ°ì£¼ë¡œ ì…ëª…í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤ .";
+"%s nemÅ¯Å¾e bÃ½t nominovÃ¡n na cÃ­saÅ™e.";
 
-" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
-"Císaø %s byl vyhoštìn.";
+" %s êµ°ì£¼ë¥´ ì œê±° í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"CÃ­saÅ™ %s byl vyhoÅ¡tÄ›n.";
 
-" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Císaø %s nemùe bıt vyhoštìn.";
+" %s êµ°ì£¼ë¥¼ ì œê±° í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"CÃ­saÅ™ %s nemÅ¯Å¾e bÃ½t vyhoÅ¡tÄ›n.";
 
-"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"Události OX se nemùe úèastnit více lidí.";
+"ë” ì´ìƒ OXì´ë²¤íŠ¸ ì°¸ê°€ìë¥¼ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"UdÃ¡losti OX se nemÅ¯Å¾e ÃºÄastnit vÃ­ce lidÃ­.";
 
-"½Å¼ö±¹";
-"Království Shinsoo";
+"ì‹ ìˆ˜êµ­";
+"KrÃ¡lovstvÃ­ Shinsoo";
 
-"ÃµÁ¶±¹";
-"Království Chunjo";
+"ì²œì¡°êµ­";
+"KrÃ¡lovstvÃ­ Chunjo";
 
-"Áø³ë±¹";
-"Království Jinno";
+"ì§„ë…¸êµ­";
+"KrÃ¡lovstvÃ­ Jinno";
 
-"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"Tvé rybáøské body se zvıšily! (%d/%d)";
+"ë‚šì‹œëŒ€ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"TvÃ© rybÃ¡Å™skÃ© body se zvÃ½Å¡ily! (%d/%d)";
 
-"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Dosáhl jsi maximálního poètu rybáøskıch bodù.";
+"ë‚šì‹œëŒ€ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"DosÃ¡hl jsi maximÃ¡lnÃ­ho poÄtu rybÃ¡Å™skÃ½ch bodÅ¯.";
 
-"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Vylepši svùj prut za pomocí rybáøe.";
+"ì–´ë¶€ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ë‚šì‹œëŒ€ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"VylepÅ¡i svÅ¯j prut za pomocÃ­ rybÃ¡Å™e.";
 
-"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
-"Ztratil si svoji návnadu.";
+"ê³ ê¸°ê°€ ë¯¸ë¼ë§Œ ë¹¼ë¨¹ê³  ì½ì‹¸ê²Œ ë„ë§ì¹©ë‹ˆë‹¤.";
+"Ztratil si svoji nÃ¡vnadu.";
 
-"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
+"ê³ ê¸°ê°€ ì¡í˜”ìŠµë‹ˆë‹¤! (%s)";
 "Chytil jsi rybu! (%s)";
 
-"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
-"Délka chycené ryby je %.2fcm.";
+"ì´ë²ˆì— ì¡ì€ ë¬¼ê³ ê¸°ì˜ ê¸¸ì´ëŠ” %.2fcm";
+"DÃ©lka chycenÃ© ryby je %.2fcm.";
 
-"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
-"Rybáøská událost 'Nejlepší Rybáø'";
+"ë‚šì‹œì´ë²¤íŠ¸ì›”ì²™ë¶•ì–´";
+"RybÃ¡Å™skÃ¡ udÃ¡lost 'NejlepÅ¡Ã­ RybÃ¡Å™'";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
-"OX Ostatní úèastníci události jsou uvedeni.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì›ì„ ê¸°ë¡í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OX OstatnÃ­ ÃºÄastnÃ­ci udÃ¡losti jsou uvedeni.";
 
-"³¬½ÃÀÌº¥Æ®À×¾î";
-"Rybáøská událost 'Trpìlivost rùe pøináší'.";
+"ë‚šì‹œì´ë²¤íŠ¸ì‰ì–´";
+"RybÃ¡Å™skÃ¡ udÃ¡lost 'TrpÄ›livost rÅ¯Å¾e pÅ™inÃ¡Å¡Ã­'.";
 
-"%s : %d ¸¶¸®";
+"%s : %d ë§ˆë¦¬";
 "%s: %d";
 
-"%d Á¾·ù %d ¸¶¸® ³¬À½";
+"%d ì¢…ë¥˜ %d ë§ˆë¦¬ ë‚šìŒ";
 "Chytil jsi %d z %d.";
 
-"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Ryba zmizela do nekoneènıch hlubin vody...";
+"ê³ ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Ryba zmizela do nekoneÄnÃ½ch hlubin vody...";
 
-"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
-"Uvnitø ryby je mušle.";
+"ë°° ì†ì—ì„œ ì¡°ê°œê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"UvnitÅ™ ryby je muÅ¡le.";
 
-"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
-"Uvnitø ryby je èerv.";
+"ë°° ì†ì—ì„œ ì§€ë ì´ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"UvnitÅ™ ryby je Äerv.";
 
-"%s¸¦ ±¸¿ü½À´Ï´Ù.";
-"Opekáš %s nad ohnìm.";
+"%së¥¼ êµ¬ì› ìŠµë‹ˆë‹¤.";
+"OpekÃ¡Å¡ %s nad ohnÄ›m.";
 
-"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
-"Nemùeš obchodovat, protoe neseš více jak 2 Biliony Yangù.";
+"20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ obchodovat, protoÅ¾e neseÅ¡ vÃ­ce jak 2 Biliony YangÅ¯.";
 
-"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pojmenovat své skladištì neplatnım jménem.";
+"ë¹„ì†ì–´ë‚˜ ì€ì–´ê°€ í¬í•¨ëœ ìƒì  ì´ë¦„ìœ¼ë¡œ ìƒì ì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pojmenovat svÃ© skladiÅ¡tÄ› neplatnÃ½m jmÃ©nem.";
 
-"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš prodat pøedmìt z obchodu doplòkù v soukromém stánku.";
+"ìœ ë£Œí™” ì•„ì´í…œì€ ê°œì¸ìƒì ì—ì„œ íŒë§¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ prodat pÅ™edmÄ›t z obchodu doplÅˆkÅ¯ v soukromÃ©m stÃ¡nku.";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
-"OX Další úèastníci události nejsou uvedeni.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì› ê¸°ë¡ì„ ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"OX DalÅ¡Ã­ ÃºÄastnÃ­ci udÃ¡losti nejsou uvedeni.";
 
-"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
-"Kopání dokonèeno.";
+"ì±„ê´‘ì„ ì¤‘ë‹¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KopÃ¡nÃ­ dokonÄeno.";
 
-"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
-"Vezmi si krumpáè.";
+"ê³¡ê´­ì´ë¥¼ ì¥ì°©í•˜ì„¸ìš”.";
+"Vezmi si krumpÃ¡Ä.";
 
-"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
+"ë‚šì‹œëŒ€ë¥¼ ì¥ì°© í•˜ì„¸ìš”.";
 "Vyber si prut.";
 
-"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
-"Nejdøíve dej návnadu na háèek.";
+"ë¯¸ë¼ë¥¼ ë¼ê³  ë˜ì ¸ ì£¼ì„¸ìš”.";
+"NejdÅ™Ã­ve dej nÃ¡vnadu na hÃ¡Äek.";
 
-"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
-"Nemùeš jít rybaøit bez prutu.";
+"ë‚šì‹œëŒ€ê°€ ì•„ë‹Œ ë¬¼ê±´ìœ¼ë¡œ ë‚šì‹œë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!";
+"NemÅ¯Å¾eÅ¡ jÃ­t rybaÅ™it bez prutu.";
 
-"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš provést poadavek, protoe vedoucí skupiny není online.";
+"íŒŒí‹°ì¥ì´ ì ‘ì† ìƒíƒœê°€ ì•„ë‹ˆë¼ì„œ ìš”ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ provÃ©st poÅ¾adavek, protoÅ¾e vedoucÃ­ skupiny nenÃ­ online.";
 
-"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš vytvoøit skupinu s hráèi z jinıch království.";
+"<íŒŒí‹°> ë‹¤ë¥¸ ì œêµ­ê³¼ íŒŒí‹°ë¥¼ ì´ë£° ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ vytvoÅ™it skupinu s hrÃ¡Äi z jinÃ½ch krÃ¡lovstvÃ­.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš pozvat hráèe do skupiny.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ pozvat hrÃ¡Äe do skupiny.";
 
-"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš pozvat hráèe, kdy jsi v pozorovatelském módusu.";
+"<íŒŒí‹°> ê´€ì „ ëª¨ë“œì—ì„  íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ pozvat hrÃ¡Äe, kdyÅ¾ jsi v pozorovatelskÃ©m mÃ³dusu.";
 
-"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Skupina] Pouze hráèi s rozdílem úrovní od -30 do +30 mohou bıt pozváni.";
+"<íŒŒí‹°> -30 ~ +30 ë ˆë²¨ ì´ë‚´ì˜ ìƒëŒ€ë°©ë§Œ ì´ˆëŒ€í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Skupina] Pouze hrÃ¡Äi s rozdÃ­lem ÃºrovnÃ­ od -30 do +30 mohou bÃ½t pozvÃ¡ni.";
 
-"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
-"Poèet dalších úèastníkù: %d";
+"í˜„ì¬ ë‚¨ì€ ì°¸ê°€ììˆ˜ : %d";
+"PoÄet dalÅ¡Ã­ch ÃºÄastnÃ­kÅ¯: %d";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš pozvat tohoto hráèe, jeho úroveò je pøíliš nízká.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœê³  ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë‚®ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ pozvat tohoto hrÃ¡Äe, jeho ÃºroveÅˆ je pÅ™Ã­liÅ¡ nÃ­zkÃ¡.";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš pozvat tohoto hráèe, jeho úroveò je pøíliš vysoká.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœì € ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë†’ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ pozvat tohoto hrÃ¡Äe, jeho ÃºroveÅˆ je pÅ™Ã­liÅ¡ vysokÃ¡.";
 
-"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš pozvat více hráèù do své skupiny.";
+"<íŒŒí‹°> ë” ì´ìƒ íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ pozvat vÃ­ce hrÃ¡ÄÅ¯ do svÃ© skupiny.";
 
-"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
-"Chceš se pøipojit ke skupinì hráèe %s?";
+"%s ë‹˜ì—ê²Œ íŒŒí‹°ê°€ì… ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"ChceÅ¡ se pÅ™ipojit ke skupinÄ› hrÃ¡Äe %s?";
 
-"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"Tento hráè není v této skupinì.";
+"ìƒëŒ€ë°©ì´ íŒŒí‹°ì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Tento hrÃ¡Ä nenÃ­ v tÃ©to skupinÄ›.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš se pøipojit k této skupinì, tato je ji plná.";
+"<íŒŒí‹°> íŒŒí‹°ì˜ ì¸ì›ì œí•œì´ ì´ˆê³¼í•˜ì—¬ íŒŒí‹°ì— ì°¸ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ se pÅ™ipojit k tÃ©to skupinÄ›, tato je jiÅ¾ plnÃ¡.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Skupina] Nemáš právo nìkoho pozvat.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ìˆëŠ” ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÃ¡Å¡ prÃ¡vo nÄ›koho pozvat.";
 
-"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Skupina] %s odmítl pozvání do tvé skupiny.";
+"<íŒŒí‹°> %s ë‹˜ì´ íŒŒí‹° ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Skupina] %s odmÃ­tl pozvÃ¡nÃ­ do tvÃ© skupiny.";
 
-"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
-"[Skupina] %s je ji ve skupinì.";
+"<íŒŒí‹°> ì´ë¯¸ %së‹˜ì€ íŒŒí‹°ì— ì†í•´ ìˆìŠµë‹ˆë‹¤.";
+"[Skupina] %s je jiÅ¾ ve skupinÄ›.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Na tomto místì nemùeš pøijmout pozvání do skupiny.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ pÅ™ijmout pozvÃ¡nÃ­ do skupiny.";
 
-"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
-"Soutì OX je u konce.";
+"OX ì´ë²¤íŠ¸ë¥¼ ë§ˆì¹˜ê²ŸìŠµë‹ˆë‹¤.";
+"SoutÄ›Å¾ OX je u konce.";
 
-"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
-"Soutì OX je u konce.";
+"OXì´ë²¤íŠ¸ë¥¼ ê°•ì œ ì¢…ë£Œ ì‹œí‚µë‹ˆë‹¤.";
+"SoutÄ›Å¾ OX je u konce.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš pøijmout pozvání.";
+"<íŒŒí‹°> íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ pÅ™ijmout pozvÃ¡nÃ­.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
-"[Skupina] %s odmítl tvé pozvání.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹° ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Skupina] %s odmÃ­tl tvÃ© pozvÃ¡nÃ­.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Skupina] %s se pøipojil k tvé skupinì.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Skupina] %s se pÅ™ipojil k tvÃ© skupinÄ›.";
 
-"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Skupina] %s se pøipojil k tvé skupinì.";
+"<íŒŒí‹°> %së‹˜ì˜ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Skupina] %s se pÅ™ipojil k tvÃ© skupinÄ›.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Teï nemùeš pouít soukromı stánek.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ê°œì¸ìƒì ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TeÄ nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t soukromÃ½ stÃ¡nek.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
-"Tento hráè ji s nìkım obchoduje.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ë¥¼ í•˜ê³  ìˆëŠ” ì¤‘ì…ë‹ˆë‹¤.";
+"Tento hrÃ¡Ä jiÅ¾ s nÄ›kÃ½m obchoduje.";
 
-"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
-"Metin2 Potvrzovací èíslo: %s";
+"ë©”í‹´2ì¸ì¦ë²ˆí˜¸: %s";
+"Metin2 PotvrzovacÃ­ ÄÃ­slo: %s";
 
-"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
-"Vaše potvrzovací èíslo není správné. Prosím zkus to znovu.";
+"ì¸ì¦ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì„¸ìš”.";
+"VaÅ¡e potvrzovacÃ­ ÄÃ­slo nenÃ­ sprÃ¡vnÃ©. ProsÃ­m zkus to znovu.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
-"Mobilní telefonní èíslo je registrováno.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"MobilnÃ­ telefonnÃ­ ÄÃ­slo je registrovÃ¡no.";
 
-"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš se pøemístit k hráèi.";
+"ìƒëŒ€ë°©ì´ ìˆëŠ” ê³³ìœ¼ë¡œ ì›Œí”„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ se pÅ™emÃ­stit k hrÃ¡Äi.";
 
-"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
-"Odmìna soutìe OX byla pøedána. ID: %d Mnoství: %d";
+"OX ìƒí’ˆì„ ì§€ê¸‰í•˜ì˜€ìŠµë‹ˆë‹¤. ID: %d ìˆ˜ëŸ‰: %d";
+"OdmÄ›na soutÄ›Å¾e OX byla pÅ™edÃ¡na. ID: %d MnoÅ¾stvÃ­: %d";
 
-"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"Hráè není online.";
+"ìƒëŒ€ë°©ì´ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"HrÃ¡Ä nenÃ­ online.";
 
-"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Hráè je na kanále %d. (Ty jsi na kanále %d.)";
+"ìƒëŒ€ë°©ì´ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"HrÃ¡Ä je na kanÃ¡le %d. (Ty jsi na kanÃ¡le %d.)";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš jít nikam %d vteøin po otevøení skladištì.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ jÃ­t nikam %d vteÅ™in po otevÅ™enÃ­ skladiÅ¡tÄ›.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nemùeš jít nikam chvíli po obchodu.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™,ì¢…ë£Œ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ jÃ­t nikam chvÃ­li po obchodu.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš jít nikam %d vteøin po obchodu.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ì§€ì—­ìœ¼ë¡œ ì´ë™ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ jÃ­t nikam %d vteÅ™in po obchodu.";
 
-"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Souboj skonèil, tvùj bojovník zmizel.";
+"ëŒ€ë ¨ ìƒëŒ€ê°€ ì‚¬ë¼ì ¸ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Souboj skonÄil, tvÅ¯j bojovnÃ­k zmizel.";
 
-"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
-"Není limit na elixíry.";
+"ë¬¼ì•½ ì œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"NenÃ­ limit na elixÃ­ry.";
 
-"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
-"Mùeš pouít a %d elixírù.";
+"ë¬¼ì•½ì„ %d ê°œ ê¹Œì§€ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"MÅ¯Å¾eÅ¡ pouÅ¾Ã­t aÅ¾ %d elixÃ­rÅ¯.";
 
-"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
-"Souboj zaène za 10 vteøin.";
+"10ì´ˆë’¤ ëŒ€ë ¨ì´ ì‹œì‘ë©ë‹ˆë‹¤.";
+"Souboj zaÄne za 10 vteÅ™in.";
 
-"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"Souboj zaèal.";
+"ëŒ€ë ¨ì´ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Souboj zaÄal.";
 
-"Âü";
+"ì°¸";
 "TRUE";
 
-"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Souboj skonèil kvùli problému s arénou.";
+"ëŒ€ë ¨ì¥ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Souboj skonÄil kvÅ¯li problÃ©mu s arÃ©nou.";
 
-"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Souboj skonèil, èas vypršel.";
+"ëŒ€ë ¨ ì‹œê°„ ì´ˆê³¼ë¡œ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Souboj skonÄil, Äas vyprÅ¡el.";
 
-"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
-"Za 10 vteøin budeš pøesunut do mìsta.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤.";
+"Za 10 vteÅ™in budeÅ¡ pÅ™esunut do mÄ›sta.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Souboj skonèil kvùli problému s arénou.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Souboj skonÄil kvÅ¯li problÃ©mu s arÃ©nou.";
 
-"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Tvùj soupeø má problémy. Souboj se ukonèuje.";
+"ìƒëŒ€ë°© ìºë¦­í„°ì˜ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"TvÅ¯j soupeÅ™ mÃ¡ problÃ©my. Souboj se ukonÄuje.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Souboj skonèil kvùli problému se soupeøem.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Souboj skonÄil kvÅ¯li problÃ©mu se soupeÅ™em.";
 
-"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s vyhrál souboj.";
+"%s ë‹˜ì´ ëŒ€ë ¨ì—ì„œ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s vyhrÃ¡l souboj.";
 
-"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s vyhrál.";
+"%s ë‹˜ì´ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s vyhrÃ¡l.";
 
-"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
-"Budeš pøesunut do mìsta za 10 vteøin.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ë˜ëŒì•„ê°‘ë‹ˆë‹¤.";
+"BudeÅ¡ pÅ™esunut do mÄ›sta za 10 vteÅ™in.";
 
-"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
-"Další kolo zaène za 10 vteøin.";
+"10ì´ˆë’¤ ë‹¤ìŒ íŒì„ ì‹œì‘í•©ë‹ˆë‹¤.";
+"DalÅ¡Ã­ kolo zaÄne za 10 vteÅ™in.";
 
-"°ÅÁş";
+"ê±°ì§“";
 "FALSE";
 
-"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
-"Soupeø byl oddìlenı. Souboj skonèil.";
+"ìƒëŒ€ë°© ìºë¦­í„°ê°€ ì ‘ì†ì„ ì¢…ë£Œí•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ì§€í•©ë‹ˆë‹¤.";
+"SoupeÅ™ byl oddÄ›lenÃ½. Souboj skonÄil.";
 
-"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Šance na upuštìní pøedmìtù je v tuto chvíli plus %d%%";
+"ì•„ì´í…œ ë“œë¡­ë¥   %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Å ance na upuÅ¡tÄ›nÃ­ pÅ™edmÄ›tÅ¯ je v tuto chvÃ­li plus %d%%";
 
-"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Kvóta upuštìnıch Yangù je v tuto chvíli plus %d%%";
+"ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"KvÃ³ta upuÅ¡tÄ›nÃ½ch YangÅ¯ je v tuto chvÃ­li plus %d%%";
 
-"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Momentální šance na padnutí Yangù je o %d%% vyšší.";
+"ëŒ€ë°•ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"MomentÃ¡lnÃ­ Å¡ance na padnutÃ­ YangÅ¯ je o %d%% vyÅ¡Å¡Ã­.";
 
-"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Zkušenostní bonus je momentálnì dalších %d%%.";
+"ê²½í—˜ì¹˜ %d%% ì¶”ê°€ íšë“ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"ZkuÅ¡enostnÃ­ bonus je momentÃ¡lnÄ› dalÅ¡Ã­ch %d%%.";
 
-"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
-"Verze herního klienta není správná. Prosíme, nainstaluj poslední patch.";
+"í´ë¼ì´ì–¸íŠ¸ ë²„ì „ì´ í‹€ë ¤ ë¡œê·¸ì•„ì›ƒ ë©ë‹ˆë‹¤. ì •ìƒì ìœ¼ë¡œ íŒ¨ì¹˜ í›„ ì ‘ì†í•˜ì„¸ìš”.";
+"Verze hernÃ­ho klienta nenÃ­ sprÃ¡vnÃ¡. ProsÃ­me, nainstaluj poslednÃ­ patch.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
-"Nemùeš obchodovat, kdy je otevøené další okno.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ obchodovat, kdyÅ¾ je otevÅ™enÃ© dalÅ¡Ã­ okno.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
-"Jsi pøíliš daleko od obchodu na nákup.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ ì‚´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Jsi pÅ™Ã­liÅ¡ daleko od obchodu na nÃ¡kup.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
-"Jsi pøíliš daleko od obchodu na prodej.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ íŒ” ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Jsi pÅ™Ã­liÅ¡ daleko od obchodu na prodej.";
 
-"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš obchodovat, protoe neseš více jak 2 Biliony Yangù.";
+"20ì–µëƒ¥ì´ ì´ˆê³¼í•˜ì—¬ ë¬¼í’ˆì„ íŒ”ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ obchodovat, protoÅ¾e neseÅ¡ vÃ­ce jak 2 Biliony YangÅ¯.";
 
-"ÃÑ ÄûÁî ¼ö: %d";
-"Celkové èíslo kvízu: %d";
+"ì´ í€´ì¦ˆ ìˆ˜: %d";
+"CelkovÃ© ÄÃ­slo kvÃ­zu: %d";
 
-"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
-"Daò z prodeje: %d%%.";
+"íŒë§¤ê¸ˆì•¡ì˜ %d %% ê°€ ì„¸ê¸ˆìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤";
+"DaÅˆ z prodeje: %d%%.";
 
-"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš jet na koni po dobu tvoji promìny.";
+"ë³€ì‹  ìƒíƒœì—ì„œëŠ” ë§ì— íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ jet na koni po dobu tvoji promÄ›ny.";
 
-"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš jet na koni pokud máš na sobì svatební šaty, nebo smoking.";
+"ì˜ˆë³µì„ ì…ì€ ìƒíƒœì—ì„œ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ jet na koni pokud mÃ¡Å¡ na sobÄ› svatebnÃ­ Å¡aty, nebo smoking.";
 
-"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nemáš konì.";
+"ë§ì„ ì†Œìœ í•˜ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ konÄ›.";
 
-"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
-"Tvùj kùò je mrtvı.";
+"ë§ì´ ì£½ì–´ìˆëŠ” ìƒíƒœ ì…ë‹ˆë‹¤.";
+"TvÅ¯j kÅ¯Åˆ je mrtvÃ½.";
 
-"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Vytrvalost tvého konì je pøíliš malá.";
+"ë§ì˜ ìŠ¤í…Œë¯¸ë„ˆê°€ ë¶€ì¡±í•˜ì—¬ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Vytrvalost tvÃ©ho konÄ› je pÅ™Ã­liÅ¡ malÃ¡.";
 
-"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Volání konì selhalo.";
+"ë§ ì†Œí™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"VolÃ¡nÃ­ konÄ› selhalo.";
 
-"´ÔÀÇ ¸»";
-"Kùò";
+"ë‹˜ì˜ ë§";
+"KÅ¯Åˆ";
 
-"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
-"Svatba brzy skonèí.";
+"ê²°í˜¼ì‹ì´ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Svatba brzy skonÄÃ­.";
 
-"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
-"Bude automaticky opuštìno.";
+"ìë™ìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤.";
+"Bude automaticky opuÅ¡tÄ›no.";
 
-"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
-"Válka ji skonèila.";
+"ì´ë¯¸ ì „ìŸì´ ëë‚¬ìŠµë‹ˆë‹¤.";
+"VÃ¡lka jiÅ¾ skonÄila.";
 
-"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
-"Vısledek bude znám za 10 vteøin.";
+"10ì´ˆë’¤ íŒì •í•˜ê² ìŠµë‹ˆë‹¤.";
+"VÃ½sledek bude znÃ¡m za 10 vteÅ™in.";
 
-"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš obchodovat pøi pozorování.";
+"ê´€ì „ ìƒíƒœì—ì„œëŠ” êµí™˜ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ obchodovat pÅ™i pozorovÃ¡nÃ­.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Pokud je otevøeno okno, nemùeš obchodovat s ostatními.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë ¤ìˆì„ê²½ìš° ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Pokud je otevÅ™eno okno, nemÅ¯Å¾eÅ¡ obchodovat s ostatnÃ­mi.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Druhá osoba je momentálnì zaneprázdnìna, take s ní nyní nemùeš obchodovat.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ì¤‘ì´ë¼ ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DruhÃ¡ osoba je momentÃ¡lnÄ› zaneprÃ¡zdnÄ›na, takÅ¾e s nÃ­ nynÃ­ nemÅ¯Å¾eÅ¡ obchodovat.";
 
-"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Druhá osoba zrušila obchod.";
+"ìƒëŒ€ë°©ì´ êµí™˜ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"DruhÃ¡ osoba zruÅ¡ila obchod.";
 
-"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Nedostatek Yangù, nebo prostoru v inventáøi.";
+"ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"Nedostatek YangÅ¯, nebo prostoru v inventÃ¡Å™i.";
 
-"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Druhá osoba nemá dostatek Yangù, nebo místa v inventáøi.";
+"ìƒëŒ€ë°©ì˜ ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"DruhÃ¡ osoba nemÃ¡ dostatek YangÅ¯, nebo mÃ­sta v inventÃ¡Å™i.";
 
-"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Druhá osoba nemá dostatek místa v inventáøi.";
+"ìƒëŒ€ë°©ì˜ ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"DruhÃ¡ osoba nemÃ¡ dostatek mÃ­sta v inventÃ¡Å™i.";
 
-"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
-"Obchod s %s byl úspìšnı.";
+"%s ë‹˜ê³¼ì˜ êµí™˜ì´ ì„±ì‚¬ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Obchod s %s byl ÃºspÄ›Å¡nÃ½.";
 
-"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Neztratil jsi ádné zkušenosti, díky poehnání draèího boha.";
+"ìš©ì‹ ì˜ ê°€í˜¸ë¡œ ê²½í—˜ì¹˜ê°€ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Neztratil jsi Å¾Ã¡dnÃ© zkuÅ¡enosti, dÃ­ky poÅ¾ehnÃ¡nÃ­ draÄÃ­ho boha.";
 
-"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
-"Aktuální skóre:  Shinsoo: %d, Chunjo: %d, Jinno: %d";
+"í˜„ì¬ ìŠ¤ì½”ì–´ ì‹ ìˆ˜êµ­:%d ì²œì¡°êµ­:%d ì§„ë…¸êµ­:%d";
+"AktuÃ¡lnÃ­ skÃ³re:  Shinsoo: %d, Chunjo: %d, Jinno: %d";
 
-"Á¤´äÀº";
-"Správná odpovìï je:";
+"ì •ë‹µì€";
+"SprÃ¡vnÃ¡ odpovÄ›Ä je:";
 
-"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"ì£½ì€ ì •ë³´ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 "%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 
-"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
-"Ïábel svatého místa: [ENTER][ENTER]";
+"ì„±ì§€ì˜ ë§ˆì™•: ë„ˆí¬ ";
+"ÄÃ¡bel svatÃ©ho mÃ­sta: [ENTER][ENTER]";
 
-"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
-", nemáš ádné právo tu bıt. Tohle je svaté místo. Odtáhni! Pøíslušníci tvého království opustí svaté místo za 10 sekund.";
+"ë…€ì„ë“¤ì€ ì´ê³³ ì„±ì§€ì— ìˆì„ ìê²©ì„ ìƒì—ˆë‹¤. ëª¨ë‘ ì„±ì§€ì—ì„œ ë¬¼ëŸ¬ë‚˜ê±°ë¼~~[ENTER][ENTER] 10ì´ˆ í›„ì— ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™í•˜ê²Œ ë©ë‹ˆë‹¤. ";
+", nemÃ¡Å¡ Å¾Ã¡dnÃ© prÃ¡vo tu bÃ½t. Tohle je svatÃ© mÃ­sto. OdtÃ¡hni! PÅ™Ã­sluÅ¡nÃ­ci tvÃ©ho krÃ¡lovstvÃ­ opustÃ­ svatÃ© mÃ­sto za 10 sekund.";
 
-"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
-"Království %s bylo poraeno a vypadlo z bitvy království.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ì—ì„œ %s êµ­ê°€ê°€ ê°€ì¥ë¨¼ì € íƒˆë½ì„ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"KrÃ¡lovstvÃ­ %s bylo poraÅ¾eno a vypadlo z bitvy krÃ¡lovstvÃ­.";
 
-"»ï°Å¸® ¸÷ ¸®Á¨";
-"Poèet pøíšer v Bitvì královstvích:";
+"ì‚¼ê±°ë¦¬ ëª¹ ë¦¬ì  ";
+"PoÄet pÅ™Ã­Å¡er v BitvÄ› krÃ¡lovstvÃ­ch:";
 
-". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
-"Pokud porazíš stráce svatého místa, staneš se jeho vlastníkem.";
+". ë„ˆí¬ê°€ ì„±ì§€ì˜ ìˆ˜í˜¸ìë¥¼ ì¡ê²Œ ëœë‹¤ë©´ ë„ˆí¬ëŠ” ì„±ì§€ì˜ ì£¼ì¸ì´ ëœë‹¤.[ENTER][ENTER] ";
+"Pokud porazÃ­Å¡ strÃ¡Å¾ce svatÃ©ho mÃ­sta, staneÅ¡ se jeho vlastnÃ­kem.";
 
-"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Díky ochranì draèího boha, jsi nepustil ádné vìci.";
+"ìš©ì‹ ì˜ ë³´í˜¸ë¡œ ì•„ì´í…œì´ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"DÃ­ky ochranÄ› draÄÃ­ho boha, jsi nepustil Å¾Ã¡dnÃ© vÄ›ci.";
 
-"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
-"Extra poškození bodnou zbraní %d";
+"ê´€í†µ ì¶”ê°€ ë°ë¯¸ì§€ %d";
+"Extra poÅ¡kozenÃ­ bodnou zbranÃ­ %d";
 
-"%s ºí·°! (%ld%%)";
+"%s ë¸”ëŸ­! (%ld%%)";
 "%s blok! (%d%%)";
 
-"%s È¸ÇÇ! (%ld%%)";
+"%s íšŒí”¼! (%ld%%)";
 "%s vyhnout! (%d%%)";
 
-"O ÀÔ´Ï´Ù";
+"O ì…ë‹ˆë‹¤";
 "Ano (O)";
 
-"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
-"%s[%d]s Útoèná pozice: %d %d";
+"%s[%ld]ê°€ ê³µê²© ìœ„ì¹˜: %d %d";
+"%s[%d]s ÃštoÄnÃ¡ pozice: %d %d";
 
-"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
-"Prosím zadej rozkaz v plném znìní.";
+"ëª…ë ¹ì–´ë¥¼ ëª¨ë‘ ì…ë ¥í•˜ì„¸ìš”.";
+"ProsÃ­m zadej rozkaz v plnÃ©m znÄ›nÃ­.";
 
-"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tohle nemùeš dìlat pokud sedíš na koni.";
+"íƒ„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tohle nemÅ¯Å¾eÅ¡ dÄ›lat pokud sedÃ­Å¡ na koni.";
 
-"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tohle nemùeš dìlat pokud leíš na zemi.";
+"ì“°ëŸ¬ì§„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tohle nemÅ¯Å¾eÅ¡ dÄ›lat pokud leÅ¾Ã­Å¡ na zemi.";
 
-"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
-"V mıch snech? Coe?";
+"ê¿ˆì†ì—ì„œ ì–´ë–»ê²Œìš”?";
+"V mÃ½ch snech? CoÅ¾e?";
 
-"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
-"Nejprve vstaò.";
+"ë¨¼ì € ì¼ì–´ ë‚˜ì„¸ìš”.";
+"Nejprve vstaÅˆ.";
 
-"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
+"ê·¸ëŸ° ëª…ë ¹ì–´ëŠ” ì—†ìŠµë‹ˆë‹¤";
 "Tento rozkaz neexistuje.";
 
-"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
-"[Skupina] Skupina byla zrušena.";
+"<íŒŒí‹°> íŒŒí‹°ê°€ í•´ì‚° ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Skupina] Skupina byla zruì‰‹na.";
 
-"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš zavolat cíl.";
+"<íŒŒí‹°> ëŒ€ìƒì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ zavolat cÃ­l.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Skupina] Nemùeš zavolat èleny skupiny na tvoji souèasnou pozici.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ í˜„ì¬ ìœ„ì¹˜ë¡œ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Skupina] NemÅ¯Å¾eÅ¡ zavolat Äleny skupiny na tvoji souÄasnou pozici.";
 
-"X ÀÔ´Ï´Ù";
+"X ì…ë‹ˆë‹¤";
 "Ne (X)";
 
-"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
-"Skupina skvìle spolupracuje a její èlenové poblí velitele obdrí zkušenostní bonus.";
+"íŒŒí‹°ì˜ í˜‘ë™ë ¥ì´ ë†’ì•„ì ¸ ì§€ê¸ˆë¶€í„° ì¶”ê°€ ê²½í—˜ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ìŠµë‹ˆë‹¤.";
+"Skupina skvÄ›le spolupracuje a jejÃ­ ÄlenovÃ© poblÃ­Å¾ velitele obdrÅ¾Ã­ zkuÅ¡enostnÃ­ bonus.";
 
-"±æµåÀå";
-"Vùdce";
+"ê¸¸ë“œì¥";
+"VÅ¯dce";
 
-"±æµå¿ø";
-"Èlen";
+"ê¸¸ë“œì›";
+"ÄŒlen";
 
-"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
-"[Cech] Poskytnuté zkušenosti jsou vìtší ne zbylé zkušenosti.";
+"<ê¸¸ë“œ> ì œê³µí•˜ê³ ì í•˜ëŠ” ê²½í—˜ì¹˜ê°€ ë‚¨ì€ ê²½í—˜ì¹˜ë³´ë‹¤ ë§ìŠµë‹ˆë‹¤.";
+"[Cech] PoskytnutÃ© zkuÅ¡enosti jsou vÄ›tÅ¡Ã­ neÅ¾ zbylÃ© zkuÅ¡enosti.";
 
-"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
-"[Cech] Zpráva nemùe bıt smazána.";
+"<ê¸¸ë“œ> ì‚­ì œí•  ìˆ˜ ì—†ëŠ” ê¸€ì…ë‹ˆë‹¤.";
+"[Cech] ZprÃ¡va nemÅ¯Å¾e bÃ½t smazÃ¡na.";
 
-"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
-"[Cech] Nedostatek draèího ducha. (%d, %d)";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤. (%d, %d)";
+"[Cech] Nedostatek draÄÃ­ho ducha. (%d, %d)";
 
-"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš ještì uít cechovní schopnost.";
+"<ê¸¸ë“œ> ì¿¨íƒ€ì„ì´ ëë‚˜ì§€ ì•Šì•„ ê¸¸ë“œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ jeÅ¡tÄ› uÅ¾Ã­t cechovnÃ­ schopnost.";
 
-"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
-"[Cech] %d -schopnost byla uita (%d, %d) na %u.";
+"<ê¸¸ë“œ> %d ìŠ¤í‚¬ì„ ì‚¬ìš©í•¨ (%d, %d) to %lu";
+"[Cech] %d -schopnost byla uì—ta (%d, %d) na %u.";
 
-"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"[Cech] Hráè je na kanále %d. (Souèasnı kanál: %d)";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"[Cech] HrÃ¡Ä je na kanÃ¡le %d. (SouÄasnÃ½ kanÃ¡l: %d)";
 
-"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"[Cech] Hráè není online.";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Cech] HrÃ¡Ä nenÃ­ online.";
 
-"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
-"Za 5 vteøin budou všichni kdo špatnì odpovìdìli vyøazeni.";
+"5ì´ˆ ë’¤ í‹€ë¦¬ì‹  ë¶„ë“¤ì„ ë°”ê¹¥ìœ¼ë¡œ ì´ë™ ì‹œí‚¤ê² ìŠµë‹ˆë‹¤.";
+"Za 5 vteÅ™in budou vÅ¡ichni kdo Å¡patnÄ› odpovÄ›dÄ›li vyÅ™azeni.";
 
-"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Cech] Tato cechovní schopnost mùe bıt pouita pouze ve válce.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ì€ ê¸¸ë“œì „ ì¤‘ì—ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Cech] Tato cechovnÃ­ schopnost mÅ¯Å¾e bÃ½t pouÅ¾ita pouze ve vÃ¡lce.";
 
-"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
-"[Cech] %u bodù draèího ducha bylo obnoveno.";
+"<ê¸¸ë“œ> %luì˜ ìš©ì‹ ë ¥ì„ íšŒë³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Cech] %u bodÅ¯ draÄÃ­ho ducha bylo obnoveno.";
 
-"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Cech] Pouze cechovní mistr mùe vybrat Yangy.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ê¸ˆê³ ì—ì„  ê¸¸ë“œì¥ë§Œ ì¶œê¸ˆí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Cech] Pouze cechovnÃ­ mistr mÅ¯Å¾e vybrat Yangy.";
 
-"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Cech] Hráè odmítl pozvání do cechu.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê¸¸ë“œ ì´ˆëŒ€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Cech] HrÃ¡Ä odmÃ­tl pozvÃ¡nÃ­ do cechu.";
 
-"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš pøijímat nikoho do cechu.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ì´ˆëŒ€í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ pÅ™ijÃ­mat nikoho do cechu.";
 
-"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Nemùeš pøijímat do cechu hráèe z jiného království.";
+"<ê¸¸ë“œ> ë‹¤ë¥¸ ì œêµ­ ì‚¬ëŒì„ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] NemÅ¯Å¾eÅ¡ pÅ™ijÃ­mat do cechu hrÃ¡Äe z jinÃ©ho krÃ¡lovstvÃ­.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Tento hráè mùe bıt znovu pozván za %d dní.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Tento hrÃ¡Ä mÅ¯Å¾e bÃ½t znovu pozvÃ¡n za %d dnÃ­.";
 
-"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Po novém uspoøádání mùeš opìt pøijímat èleny za %d dní.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ í•´ì‚°í•œ ì§€ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] Po novÃ©m uspoÅ™Ã¡dÃ¡nÃ­ mÅ¯Å¾eÅ¡ opÄ›t pÅ™ijÃ­mat Äleny za %d dnÃ­.";
 
-"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
-"[Cech] Tato osoba je ji èlenem jiného cechu.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ì´ë¯¸ ë‹¤ë¥¸ ê¸¸ë“œì— ì†í•´ìˆìŠµë‹ˆë‹¤.";
+"[Cech] Tato osoba je jiÅ¾ Älenem jinÃ©ho cechu.";
 
-"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
-"[Cech] Kapacita cechu dosáhla nejvyšší úrovnì.";
+"<ê¸¸ë“œ> ìµœëŒ€ ê¸¸ë“œì› ìˆ˜ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.";
+"[Cech] Kapacita cechu dosÃ¡hla nejvyÅ¡Å¡Ã­ ÃºrovnÄ›.";
 
-"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
-"Pøipraven na další otázku?";
+"ë‹¤ìŒ ë¬¸ì œ ì¤€ë¹„í•´ì£¼ì„¸ìš”.";
+"PÅ™ipraven na dalÅ¡Ã­ otÃ¡zku?";
 
-"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nemùeš trénovat tuto schopnost.";
+"ìˆ˜ë ¨í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ trÃ©novat tuto schopnost.";
 
-"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš trénovat tuto schopnost.";
+"ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ trÃ©novat tuto schopnost.";
 
-"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nemùeš trénovat tuto schopnost na úroveò velmistra.";
+"ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ trÃ©novat tuto schopnost na ÃºroveÅˆ velmistra.";
 
-"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ji jsi mistr této schopnosti. Nemùeš ji dál trénovat.";
+"í¼í™íŠ¸ ë§ˆìŠ¤í„°ëœ ìŠ¤í‚¬ì…ë‹ˆë‹¤. ë” ì´ìƒ ìˆ˜ë ¨ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"JiÅ¾ jsi mistr tÃ©to schopnosti. NemÅ¯Å¾eÅ¡ ji dÃ¡l trÃ©novat.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Nemáš dost vysokou úroveò tvé schopnosti pro trénink na velmistra.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ dost vysokou ÃºroveÅˆ tvÃ© schopnosti pro trÃ©nink na velmistra.";
 
-"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
+"í¬ìœ½, ê¸°ê°€ ì—­ë¥˜í•˜ê³  ìˆì–´! ì´ê±° ì„¤ë§ˆ ì£¼í™”ì…ë§ˆì¸ê°€!? ì  ì¥!";
 "Upsala, tohle nefungovalo. Hrom do toho!";
 
-"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
-"Trénink selhal. Zkus to prosím pozdìji.";
+"ìˆ˜ë ¨ì´ ì‹¤íŒ¨ë¡œ ëë‚¬ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ë„ì „í•´ì£¼ì‹œê¸° ë°”ëë‹ˆë‹¤.";
+"TrÃ©nink selhal. Zkus to prosÃ­m pozdÄ›ji.";
 
-"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
-"Mé tìlo je plné síly!";
+"ëª¸ì—ì„œ ë­”ê°€ í˜ì´ í„°ì ¸ ë‚˜ì˜¤ëŠ” ê¸°ë¶„ì´ì•¼!";
+"MÃ© tÄ›lo je plnÃ© sÃ­ly!";
 
-"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
-"Zdá se, e trénink funguje...";
+"ëœ¨ê±°ìš´ ë¬´ì—‡ì´ ê³„ì† ìš©ì†ŸìŒì¹˜ê³  ìˆì–´! ì´ê±´, ì´ê²ƒì€!";
+"ZdÃ¡ se, Å¾e trÃ©nink funguje...";
 
-"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Dokonèil jsi trénink s knihou úspìšnì.";
+"ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"DokonÄil jsi trÃ©nink s knihou ÃºspÄ›Å¡nÄ›.";
 
-"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Tohle nemùeš pøeèíst, máš málo zkušeností.";
+"ê²½í—˜ì¹˜ê°€ ë¶€ì¡±í•˜ì—¬ ì±…ì„ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tohle nemÅ¯Å¾eÅ¡ pÅ™eÄÃ­st, mÃ¡Å¡ mÃ¡lo zkuÅ¡enostÃ­.";
 
 "Pregunta.";
-"Otázka.";
+"OtÃ¡zka.";
 
-"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"U nemùeš trénovat tuto schopnost s knihou.";
+"ì´ ìŠ¤í‚¬ì€ ì±…ìœ¼ë¡œ ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"UÅ¾ nemÅ¯Å¾eÅ¡ trÃ©novat tuto schopnost s knihou.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Tato schopnost není dost vysoká, aby mohla bıt trénována s knihou.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ì±…ìœ¼ë¡œ ìˆ˜ë ¨í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Tato schopnost nenÃ­ dost vysokÃ¡, aby mohla bÃ½t trÃ©novÃ¡na s knihou.";
 
-"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
-"Lepším se, ale stále nerozumím všemu.";
+"ì–´ëŠì •ë„ ì´ ê¸°ìˆ ì— ëŒ€í•´ ì´í•´ê°€ ë˜ì—ˆì§€ë§Œ ì¡°ê¸ˆ ë¶€ì¡±í•œë“¯ í•œë°..";
+"LepÅ¡Ã­m se, ale stÃ¡le nerozumÃ­m vÅ¡emu.";
 
-"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
-"Instrukcím je tìké porozumìt. Musím více studovat.";
+"ë“œë””ì–´ ëì´ ë³´ì´ëŠ” ê±´ê°€...  ì´ ê¸°ìˆ ì€ ì´í•´í•˜ê¸°ê°€ ë„ˆë¬´ í˜ë“¤ì–´..";
+"InstrukcÃ­m je tÄ›Å¾kÃ© porozumÄ›t. MusÃ­m vÃ­ce studovat.";
 
-"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
-"Této kapitole rozumím. Ale musel jsem tvrdì pracovat.";
+"ì—´ì‹¬íˆ í•˜ëŠ” ë°°ì›€ì„ ê°€ì§€ëŠ” ê²ƒë§Œì´ ê¸°ìˆ ì„ ë°°ìš¸ìˆ˜ ìˆëŠ” ìœ ì¼í•œ ê¸¸ì´ë‹¤..";
+"TÃ©to kapitole rozumÃ­m. Ale musel jsem tvrdÄ› pracovat.";
 
-"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Dokonèil jsi trénink s knihou úspìšnì.";
+"ì±…ìœ¼ë¡œ ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"DokonÄil jsi trÃ©nink s knihou ÃºspÄ›Å¡nÄ›.";
 
-"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Pøemístìní selhalo.";
+"ê·€í™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"PÅ™emÃ­stÄ›nÃ­ selhalo.";
 
-"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
-"Zde není ádnı kùò. Zeptej se pacholka.";
+"ë§ì´ ì—†ìŠµë‹ˆë‹¤. ë§ˆêµ¿ê°„ ê²½ë¹„ë³‘ì„ ì°¾ì•„ê°€ì„¸ìš”.";
+"Zde nenÃ­ Å¾Ã¡dnÃ½ kÅ¯Åˆ. Zeptej se pacholka.";
 
-"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
-"Pouij pøedmìt, abys zavolal konì.";
+"ë§ ì†Œí™˜ ì•„ì´í…œì„ ì‚¬ìš©í•˜ì„¸ìš”.";
+"PouÅ¾ij pÅ™edmÄ›t, abys zavolal konÄ›.";
 
-"%s SP¼Ò¸ğ: %d";
-"%s SB Spotøeba: %d";
+"%s SPì†Œëª¨: %d";
+"%s SB SpotÅ™eba: %d";
 
-"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
-"Pokud je to správnì, jdìte na O. Pokud je to špatnì, jdìte na X.";
+"ë§ìœ¼ë©´ O, í‹€ë¦¬ë©´ Xë¡œ ì´ë™í•´ì£¼ì„¸ìš”";
+"Pokud je to sprÃ¡vnÄ›, jdÄ›te na O. Pokud je to Å¡patnÄ›, jdÄ›te na X.";
 
-"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
-"Hoøím uvnitø, ale zklidòuje to mé tìlo. Moje Chi se musí stabilizovat.";
+"ëª¸ ì†ì´ ëœ¨ê²êµ°. í•˜ì§€ë§Œ ì•„ì£¼ í¸ì•ˆí•´. ì´ëŒ€ë¡œ ê¸°ë¥¼ ì•ˆì •ì‹œí‚¤ì.";
+"HoÅ™Ã­m uvnitÅ™, ale zklidÅˆuje to mÃ© tÄ›lo. Moje Chi se musÃ­ stabilizovat.";
 
-"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
-"Pomalu... ale stále... bez zastavování!";
+"ê·¸ë˜, ì²œì²œíˆ. ì¢€ë” ì²œì²œíˆ, ê·¸ëŸ¬ë‚˜ ë§‰í˜ ì—†ì´ ë¹ ë¥´ê²Œ!";
+"Pomalu... ale stÃ¡le... bez zastavovÃ¡nÃ­!";
 
-"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
-"Ano, cítím se skvìle. Mé tìlo je plné Chi.";
+"ê·¸ë˜, ì´ ëŠë‚Œì´ì•¼. ì²´ë‚´ì— ê¸°ê°€ ì•„ì£¼ ì¶©ë§Œí•´.";
+"Ano, cÃ­tÃ­m se skvÄ›le. MÃ© tÄ›lo je plnÃ© Chi.";
 
-"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
-"Pøeèetl jsem to! Nyní mım tìlem protéká Chi.";
+"ë‹¤ ì½ì—ˆë‹¤! ì´ì œ ë¹„ê¸‰ì— ì í˜€ìˆëŠ” ëŒ€ë¡œ ì „ì‹ ì— ê¸°ë¥¼ ëŒë¦¬ê¸°ë§Œ í•˜ë©´,";
+"PÅ™eÄetl jsem to! NynÃ­ mÃ½m tÄ›lem protÃ©kÃ¡ Chi.";
 
-"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
-"Trénink je ukonèen.";
+"ê·¸ê²ƒìœ¼ë¡œ ìˆ˜ë ¨ì€ ëë‚œ ê±°ì•¼!";
+"TrÃ©nink je ukonÄen.";
 
-"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
-"Jsem na poslední stránce knihy! Trénink je témìø ukonèen!";
+"ì´ì œ ì±…ì˜ ë§ˆì§€ë§‰ ì¥ì´ì•¼! ìˆ˜ë ¨ì˜ ëì´ ëˆˆì— ë³´ì´ê³  ìˆì–´!";
+"Jsem na poslednÃ­ strÃ¡nce knihy! TrÃ©nink je tÃ©mÄ›Å™ ukonÄen!";
 
-"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
-"Skoro hotovo! U jen trochu!";
+"ì–¼ë§ˆ ì•ˆ ë‚¨ì•˜ì–´! ì¡°ê¸ˆë§Œ ë”!";
+"Skoro hotovo! UÅ¾ jen trochu!";
 
-"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
-"Jsem osvícen! Skoro jsem to pøeèetl celé!";
+"ì¢‹ì•˜ì–´! ì¡°ê¸ˆë§Œ ë” ì½ìœ¼ë©´ ëì´ë‹¤!";
+"Jsem osvÃ­cen! Skoro jsem to pÅ™eÄetl celÃ©!";
 
-"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
-"U jen pár stránek zbıvá a budu to mít celé pøeèteno.";
+"ì±…ì¥ë„ ì´ì œ ì–¼ë§ˆ ë‚¨ì§€ ì•Šì•˜êµ°.";
+"UÅ¾ jen pÃ¡r strÃ¡nek zbÃ½vÃ¡ a budu to mÃ­t celÃ© pÅ™eÄteno.";
 
-"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
-"Cítím se osvìen.";
+"ë­”ê°€ ëª¸ ì•ˆì— í˜ì´ ìƒê¸°ëŠ” ê¸°ë¶„ì¸ ê±¸.";
+"CÃ­tÃ­m se osvÄ›Å¾en.";
 
-"Á¤´äÀÔ´Ï´Ù!";
-"Správnì!";
+"ì •ë‹µì…ë‹ˆë‹¤!";
+"SprÃ¡vnÄ›!";
 
-"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
-"Nyní rozumím!";
+"ì´ì œ ì¢€ ìŠ¬ìŠ¬ ê°€ë‹¥ì´ ì¡íˆëŠ” ê²ƒ ê°™ì€ë°.";
+"NynÃ­ rozumÃ­m!";
 
-"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
-"Dobøe, mìl bych zùstat dále soustøedìnı.";
+"ì¢‹ì•„, ì´ ê¸°ì„¸ë¡œ ê³„ì† ë‚˜ê°„ë‹¤!";
+"DobÅ™e, mÄ›l bych zÅ¯stat dÃ¡le soustÅ™edÄ›nÃ½.";
 
-"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
-"Ètu ten samı øádek poøád dokola.";
+"ì•„ë‹ˆ ì–´ë–»ê²Œ ëœ ê²Œ ì¢…ì¼ ì½ì–´ë„ ë¨¸ë¦¬ì— ì•ˆ ë“¤ì–´ì˜¤ëƒ.";
+"ÄŒtu ten samÃ½ Å™Ã¡dek poÅ™Ã¡d dokola.";
 
-"°øºÎÇÏ±â ½È¾îÁö³×.";
-"Nechci se uèit nic dalšího.";
+"ê³µë¶€í•˜ê¸° ì‹«ì–´ì§€ë„¤.";
+"Nechci se uÄit nic dalÅ¡Ã­ho.";
 
-"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
-"Je to sloitìjší ne jsem si myslel.";
+"ìƒê°ë§Œí¼ ì½ê¸°ê°€ ì‰½ì§€ê°€ ì•Šêµ°. ì´í•´ë„ ì–´ë µê³  ë‚´ìš©ë„ ë‚œí•´í•´.";
+"Je to sloÅ¾itÄ›jÅ¡Ã­ neÅ¾ jsem si myslel.";
 
-"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
-"Nemohu se poøádnì soustøedit. Mìl bych si dát pauzu.";
+"ì´ë˜ì„œì•¼ ê³µë¶€ê°€ ì•ˆëœë‹¤êµ¬.";
+"Nemohu se poÅ™Ã¡dnÄ› soustÅ™edit. MÄ›l bych si dÃ¡t pauzu.";
 
-"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
-"Tvùj chat byl zablokován GM.";
+"ìš´ì˜ì ì œì œë¡œ ì±„íŒ…ì´ ê¸ˆì§€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TvÅ¯j chat byl zablokovÃ¡n GM.";
 
-"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
-"Tvá blokace chatu byla zrušena.";
+"ì±„íŒ… ê¸ˆì§€ê°€ í’€ë ¸ìŠµë‹ˆë‹¤.";
+"TvÃ¡ blokace chatu byla zruÅ¡ena.";
 
-"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
-"Okno vıroby je ji otevøeno.";
+"ì´ë¯¸ ì œì¡°ì°½ì´ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"Okno vÃ½roby je jiÅ¾ otevÅ™eno.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš nic vyrábìt, pokud je jiné okno obchodu/skladištì otevøeno.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ nic vyrÃ¡bÄ›t, pokud je jinÃ© okno obchodu/skladiÅ¡tÄ› otevÅ™eno.";
 
-"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Další zlepšení není moné.";
+"ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DalÅ¡Ã­ zlepÅ¡enÃ­ nenÃ­ moÅ¾nÃ©.";
 
-"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
-"Okno vıroby není otevøeno.";
+"ì œì¡°ì°½ì´ ì—´ë ¤ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Okno vÃ½roby nenÃ­ otevÅ™eno.";
 
-"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
-"Nemáš správnı materiál.";
+"ì œì¡° ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤";
+"NemÃ¡Å¡ sprÃ¡vnÃ½ materiÃ¡l.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
-"[Cech] Zkus to prosím pozdìji.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤";
+"[Cech] Zkus to prosÃ­m pozdÄ›ji.";
 
-"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Musíš pøeèíst ještì %d knih, abys vylepšil tuto schopnost.";
+"%d ê¶Œì„ ë” ì½ì–´ì•¼ ìˆ˜ë ¨ì„ ì™„ë£Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MusÃ­Å¡ pÅ™eÄÃ­st jeÅ¡tÄ› %d knih, abys vylepÅ¡il tuto schopnost.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
-"[Cech] Zkus to prosím pozdìji.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤.";
+"[Cech] Zkus to prosÃ­m pozdÄ›ji.";
 
-"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
-"Tuhle funkci mùeš pouít pouze na hradì.";
+"ì„±ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤.";
+"Tuhle funkci mÅ¯Å¾eÅ¡ pouÅ¾Ã­t pouze na hradÄ›.";
 
-"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
-"TEST: Zlaté pruty byly vráceny zpìt do trezoru tvého království.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ê°€ êµ­ê³ ë¡œ í™˜ì›ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TEST: ZlatÃ© pruty byly vrÃ¡ceny zpÄ›t do trezoru tvÃ©ho krÃ¡lovstvÃ­.";
 
-"TEST : ÇöÀç ±¹°í : %d";
-"TEST: V trezoru tvého království je: %d";
+"TEST : í˜„ì¬ êµ­ê³  : %d";
+"TEST: V trezoru tvÃ©ho krÃ¡lovstvÃ­ je: %d";
 
-"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"TEST: Nejsi schopen zaplatit zlaté pruty zpìt do trezoru tvého království.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ë¥¼ êµ­ê³ ë¡œ í™˜ì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TEST: Nejsi schopen zaplatit zlatÃ© pruty zpÄ›t do trezoru tvÃ©ho krÃ¡lovstvÃ­.";
 
-"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
-"[Cech] Dosaeno %d bodù.";
+"<ê¸¸ë“œ> ë˜ë” ì ìˆ˜ê°€ %d ì ì´ ë˜ì—ˆìŠµë‹ˆë‹¤";
+"[Cech] DosaÅ¾eno %d bodÅ¯.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt nemùe bıt zlepšen.";
+"ì´ ì•„ì´í…œì€ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾e bÃ½t zlepÅ¡en.";
 
-"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
-"Bezplatné zbraòové zlepšení mohou bıt uity pouze na zbranì do úrovnì 20.";
+"ë¬´ë£Œ ê°œëŸ‰ ê¸°íšŒëŠ” 20 ì´í•˜ì˜ ë¬´ê¸°ë§Œ ê°€ëŠ¥í•©ë‹ˆë‹¤";
+"BezplatnÃ© zbraÅˆovÃ© zlepÅ¡enÃ­ mohou bÃ½t uÅ¾ity pouze na zbranÄ› do ÃºrovnÄ› 20.";
 
-"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nejsi schopen pouít tento pøedmìt, protoe nemáš dostateènou kvalifikaci.";
+"êµ°ì§ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nejsi schopen pouÅ¾Ã­t tento pÅ™edmÄ›t, protoÅ¾e nemÃ¡Å¡ dostateÄnou kvalifikaci.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pouít tento pøedmìt, protoe nejsi správného pohlaví.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pouÅ¾Ã­t tento pÅ™edmÄ›t, protoÅ¾e nejsi sprÃ¡vnÃ©ho pohlavÃ­.";
 
-"»ç¿ë¹ı: transfer <name>";
-"Pouít: transfer <name>";
+"ì‚¬ìš©ë²•: transfer <name>";
+"Pouìšt: transfer <name>";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Tato funkce mùe bıt pouita pouze císaøem.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš© ê°€ëŠ¥í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Tato funkce mÅ¯Å¾e bÃ½t pouÅ¾ita pouze cÃ­saÅ™em.";
 
-"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš nabírat hráèe z jiného království.";
+"ë‹¤ë¥¸ ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ nabÃ­rat hrÃ¡Äe z jinÃ©ho krÃ¡lovstvÃ­.";
 
-"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
-"Hráè %s je v tuto chvíli na kanále %d. (Tvùj kanál: %d)";
+"%s ë‹˜ì€ %d ì±„ë„ì— ì ‘ì† ì¤‘ ì…ë‹ˆë‹¤. (í˜„ì¬ ì±„ë„: %d)";
+"HrÃ¡Ä %s je v tuto chvÃ­li na kanÃ¡le %d. (TvÅ¯j kanÃ¡l: %d)";
 
-"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
-"Nabral jsi %s hráèe.";
+"%s ë‹˜ì„ ì†Œí™˜í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nabral jsi %s hrÃ¡Äe.";
 
-"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Zde není ádnı uivatel tohoto jména.";
+"ì…ë ¥í•˜ì‹  ì´ë¦„ì„ ê°€ì§„ ì‚¬ìš©ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Zde nenÃ­ Å¾Ã¡dnÃ½ uÅ¾ivatel tohoto jmÃ©na.";
 
-"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš nabrat sám sebe.";
+"ìì‹ ì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ nabrat sÃ¡m sebe.";
 
-"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Tvá úroveò je moc nízká, nemùeš pouít tento pøedmìt.";
+"ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TvÃ¡ ÃºroveÅˆ je moc nÃ­zkÃ¡, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t tento pÅ™edmÄ›t.";
 
-"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nemùeš nic vylepšit, kdy je otevøené další okno.";
+"ì°½ê³ ,ê±°ë˜ì°½ë“±ì´ ì—´ë¦° ìƒíƒœì—ì„œëŠ” ê°œëŸ‰ì„ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NemÅ¯Å¾eÅ¡ nic vylepÅ¡it, kdyÅ¾ je otevÅ™enÃ© dalÅ¡Ã­ okno.";
 
-"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
-"Císaø %s se zmìnil na %s.";
+"%sì˜ êµ°ì£¼ê°€ %s ë‹˜ìœ¼ë¡œ êµì²´ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"CÃ­saÅ™ %s se zmÄ›nil na %s.";
 
-"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
-"V %s je válka na zapálení signálního ohnì.";
+"%sì—ì„œ ë´‰í™”ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ì „íˆ¬ê°€ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤.";
+"V %s je vÃ¡lka na zapÃ¡lenÃ­ signÃ¡lnÃ­ho ohnÄ›.";
 
-"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
-"%s byl schopen se ubránit úspìšnì.";
+"%sì´ ìˆ˜ì„±ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"%s byl schopen se ubrÃ¡nit ÃºspÄ›Å¡nÄ›.";
 
-"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"30 minut od teï mue hráè %s dostat odmìnu, protoe znièil signální oheò.";
+"ì§€ê¸ˆë¶€í„° %sì€ 30ë¶„ê°„ ë´‰í™”ë¥¼ íŒŒê´´í•˜ì—¬ ë³´ìƒì„ íšë“ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"30 minut od teÄ muÅ¾e hrÃ¡Ä %s dostat odmÄ›nu, protoÅ¾e zniÄil signÃ¡lnÃ­ oheÅˆ.";
 
-"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
-"30 minut ubìhlo. Signální ohnì zmizely.";
+"30ë¶„ì´ ê²½ê³¼í–ˆìŠµë‹ˆë‹¤.. ë´‰í™”ê°€ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"30 minut ubÄ›hlo. SignÃ¡lnÃ­ ohnÄ› zmizely.";
 
-"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
-"Signální ohnì byly zapáleny v %s aby upozornily na boj.";
+"%sì— ì „ìŸì˜ ì‹œì‘ì„ ì•Œë¦¬ëŠ” ë´‰í™”ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤.";
+"SignÃ¡lnÃ­ ohnÄ› byly zapÃ¡leny v %s aby upozornily na boj.";
 
-"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
-"%s znièil signální oheò.";
+"%sì´ ë´‰í™”ë¥¼ íŒŒê´´í–ˆìŠµë‹ˆë‹¤.";
+"%s zniÄil signÃ¡lnÃ­ oheÅˆ.";
 
-"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
-"%s prohráli válku. Nebyli schopni ubránit hrad.";
+"%sì´ ìˆ˜ì„±ì— ì‹¤íŒ¨í•˜ì—¬ ì „ìŸì— íŒ¨ë°°í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"%s prohrÃ¡li vÃ¡lku. Nebyli schopni ubrÃ¡nit hrad.";
 
-"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
-"%s znièil všechny signální ohnì.";
+"%sì´ ëª¨ë“  ë´‰í™”ë¥¼ íŒŒê´´í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s zniÄil vÅ¡echny signÃ¡lnÃ­ ohnÄ›.";
 
-"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
-"Jsi schopen otevøít stánek pouze pokud se svleèeš.";
+"ê°‘ì˜·ì„ ë²—ì–´ì•¼ ê°œì¸ ìƒì ì„ ì—´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Jsi schopen otevÅ™Ã­t stÃ¡nek pouze pokud se svleÄeÅ¡.";
 
-"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d hodin, %d minut a %d sekund bude ještì trvat tvùj blok chatu";
+"%d ì‹œê°„ %d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d hodin, %d minut a %d sekund bude jeÅ¡tÄ› trvat tvÅ¯j blok chatu";
 
-"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d hodin a %d sekund budete ještì blokování na chatu";
+"%d ì‹œê°„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d hodin a %d sekund budete jeÅ¡tÄ› blokovÃ¡nÃ­ na chatu";
 
-"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d minut a %d sekund bude ještì trvat blokace chatu.";
+"%d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d minut a %d sekund bude jeÅ¡tÄ› trvat blokace chatu.";
 
-"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
-"Èetnost padání Yangù";
+"ëˆ ëŒ€ë°•ì´ ë‚˜ì˜¬ í™•ë¥ ";
+"ÄŒetnost padÃ¡nÃ­ YangÅ¯";
 
-"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nemáš správnı materiál na vırobu tohoto pøedmìtu.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NemÃ¡Å¡ sprÃ¡vnÃ½ materiÃ¡l na vÃ½robu tohoto pÅ™edmÄ›tu.";
 
-"ÀüÁ¦±¹";
-"Všechna království";
+"ì „ì œêµ­";
+"VÅ¡echna krÃ¡lovstvÃ­";
 
-"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
-"Podíl padlıch pøedmìtù";
+"ì•„ì´í…œì´ ë‚˜ì˜¬ í™•ë¥ ";
+"PodÃ­l padlÃ½ch pÅ™edmÄ›tÅ¯";
 
-"µ·ÀÌ ³ª¿Ã È®·ü";
-"Podíl padlıch Yangù";
+"ëˆì´ ë‚˜ì˜¬ í™•ë¥ ";
+"PodÃ­l padlÃ½ch YangÅ¯";
 
-"°æÇèÄ¡ ¹èÀ²";
-"Procentová míra bodù zkušeností";
+"ê²½í—˜ì¹˜ ë°°ìœ¨";
+"ProcentovÃ¡ mÃ­ra bodÅ¯ zkuÅ¡enostÃ­";
 
-"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"%d sekund bude ještì trvat blokace chatu.";
+"%d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"%d sekund bude jeÅ¡tÄ› trvat blokace chatu.";
 
-"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš vyjadøovat emoce, pokud jedeš na koni.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ vyjadÅ™ovat emoce, pokud jedeÅ¡ na koni.";
 
-"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš vyjadøovat emoce hráèi, kterı jede na koni.";
+"ë§ì„ íƒ„ ìƒëŒ€ì™€ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ vyjadÅ™ovat emoce hrÃ¡Äi, kterÃ½ jede na koni.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Cech]Velitel nepøátelského cechu je offline.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì¥ì´ ì ‘ì†ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Cech]Velitel nepÅ™Ã¡telskÃ©ho cechu je offline.";
 
-"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech]Velitel nepøátelského cechu je offline.";
+"ì „ìŸ ì„œë²„ê°€ ì—´ë ¤ìˆì§€ ì•Šì•„ ê¸¸ë“œì „ì„ ì‹œì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech]Velitel nepÅ™Ã¡telskÃ©ho cechu je offline.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Cech] Tento cech se momentálnì úèastní války.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸ ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Cech] Tento cech se momentÃ¡lnÄ› ÃºÄastnÃ­ vÃ¡lky.";
 
-"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
-"Ji jedeš. Nejprve sesedni.";
+"ì´ë¯¸ íƒˆê²ƒì„ ì´ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"JiÅ¾ jedeÅ¡. Nejprve sesedni.";
 
-"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš zlepšovat s tímto pergamenem.";
+"ì´ ê°œëŸ‰ì„œë¡œ ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ zlepÅ¡ovat s tÃ­mto pergamenem.";
 
-"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
-"Za úkol Vìe Démonù mùeš bıt odmìnìn pouze jednou.";
+"ì‚¬ê·€ íƒ€ì›Œ ì™„ë£Œ ë³´ìƒì€ í•œë²ˆê¹Œì§€ ì‚¬ìš©ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Za Ãºkol VÄ›Å¾e DÃ©monÅ¯ mÅ¯Å¾eÅ¡ bÃ½t odmÄ›nÄ›n pouze jednou.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Draèí kámen byl odebrán.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"DraÄÃ­ kÃ¡men byl odebrÃ¡n.";
 
-"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš pøesunout pøedmìt v oknì pro zušlechtìní.";
+"ê°•í™”ì°½ì„ ì—° ìƒíƒœì—ì„œëŠ” ì•„ì´í…œì„ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ pÅ™esunout pÅ™edmÄ›t v oknÄ› pro zuÅ¡lechtÄ›nÃ­.";
 
-"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Zbıvající èas Draèího kamene byl odebrán.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ZbÃ½vajÃ­cÃ­ Äas DraÄÃ­ho kamene byl odebrÃ¡n.";
 
-"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Odebrání zbıvajícího èasu selhalo.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OdebrÃ¡nÃ­ zbÃ½vajÃ­cÃ­ho Äasu selhalo.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Odebrání Draèího kamene selhalo. Ovšem povedlo se ti získat následující: %s";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì—¬ %së¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"OdebrÃ¡nÃ­ DraÄÃ­ho kamene selhalo. OvÅ¡em povedlo se ti zÃ­skat nÃ¡sledujÃ­cÃ­: %s";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Odebrání Draèího kamene selhalo.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OdebrÃ¡nÃ­ DraÄÃ­ho kamene selhalo.";
 
-"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Tento pøedmìt není pro vylepšení èirosti zapotøebí.";
+"ë“±ê¸‰ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nenÃ­ pro vylepÅ¡enÃ­ Äirosti zapotÅ™ebÃ­.";
 
-"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Tento pøedmìt není pro vylepšení èirosti zapotøebí.";
+"ê°•í™”ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nenÃ­ pro vylepÅ¡enÃ­ Äirosti zapotÅ™ebÃ­.";
 
-"µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Tento pøedmìt nemùe bıt zlepšen touto cestou.";
+"ë“±ê¸‰ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾e bÃ½t zlepÅ¡en touto cestou.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt nemùe bıt zlepšen touto cestou.";
+"ì´ ì•„ì´í…œì€ ì´ ë°©ì‹ìœ¼ë¡œëŠ” ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾e bÃ½t zlepÅ¡en touto cestou.";
 
-"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Vylepšení èirosti bylo úspìšné.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"VylepÅ¡enÃ­ Äirosti bylo ÃºspÄ›Å¡nÃ©.";
 
-"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Zušlechtìní o jeden stupeò selhalo.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"ZuÅ¡lechtÄ›nÃ­ o jeden stupeÅˆ selhalo.";
 
-"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Tento pøedmìt není pro zušlechtìní tøeba.";
+"ë‹¨ê³„ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nenÃ­ pro zuÅ¡lechtÄ›nÃ­ tÅ™eba.";
 
-"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Zušlechtìní o jeden stupeò bylo úspìšné.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"ZuÅ¡lechtÄ›nÃ­ o jeden stupeÅˆ bylo ÃºspÄ›Å¡nÃ©.";
 
-"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Vylepšení èirosti selhalo.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"VylepÅ¡enÃ­ Äirosti selhalo.";
 
-"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Nemáš všechny suroviny, potøebné pro vylepšení Draèího kamene.";
+"ë‹¨ê³„ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"NemÃ¡Å¡ vÅ¡echny suroviny, potÅ™ebnÃ© pro vylepÅ¡enÃ­ DraÄÃ­ho kamene.";
 
-"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Draèí kámen nelze vyuít pro zesílení.";
+"ê°•í™”í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"DraÄÃ­ kÃ¡men nelze vyuÅ¾Ã­t pro zesÃ­lenÃ­.";
 
-"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Zesílení bylo úspìšné.";
+"ê°•í™”ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"ZesÃ­lenÃ­ bylo ÃºspÄ›Å¡nÃ©.";
 
-"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Zesílení se nezdaøilo.";
+"ê°•í™”ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"ZesÃ­lenÃ­ se nezdaÅ™ilo.";
 
-"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Ji nosíš Draèí kámen tohoto typu.";
+"ì´ë¯¸ ê°™ì€ ì¢…ë¥˜ì˜ ìš©í˜¼ì„ì„ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"JiÅ¾ nosÃ­Å¡ DraÄÃ­ kÃ¡men tohoto typu.";
 
-"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Draèí kámen nelze odebrat.";
+"ì°©ìš© ì¤‘ì¸ ìš©í˜¼ì„ì€ ì¶”ì¶œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DraÄÃ­ kÃ¡men nelze odebrat.";
 
-"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Tento druh Draèího kamene ji máš ve vıbavì.";
+"ì´ë¯¸ ì¥ë¹„ë¥¼ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"Tento druh DraÄÃ­ho kamene jiÅ¾ mÃ¡Å¡ ve vÃ½bavÄ›.";
 
-"ÀÎº¥ÀÌ È°¼ºÈ­ µÇÁö ¾ÊÀ½.";
-"Pøed tím, ne budeš moci otevøít Cor Draconis, musíš dokonèit úkol Draèí kámen a aktivovat Alchymii Draèích kamenù.";
+"ì¸ë²¤ì´ í™œì„±í™” ë˜ì§€ ì•ŠìŒ.";
+"PÅ™ed tÃ­m, neÅ¾ budeÅ¡ moci otevÅ™Ã­t Cor Draconis, musÃ­Å¡ dokonÄit Ãºkol DraÄÃ­ kÃ¡men a aktivovat Alchymii DraÄÃ­ch kamenÅ¯.";
 
-"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
-"Pøed tím, ne budeš moci otevøít Cor Draconis, musíš dokonèit úkol Draèí kámen a aktivovat Alchymii Draèích kamenù.";
+"ë¨¼ì € ìš©í˜¼ì„ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì…”ì•¼ í•©ë‹ˆë‹¤.";
+"PÅ™ed tÃ­m, neÅ¾ budeÅ¡ moci otevÅ™Ã­t Cor Draconis, musÃ­Å¡ dokonÄit Ãºkol DraÄÃ­ kÃ¡men a aktivovat Alchymii DraÄÃ­ch kamenÅ¯.";
 
-"º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Opasek mùeš odebrat pouze pokud v nìm ji nejsou ádné pøedmìty.";
+"ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ì— ì•„ì´í…œì´ ì¡´ì¬í•˜ë©´ í•´ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Opasek mÅ¯Å¾eÅ¡ odebrat pouze pokud v nÄ›m jiÅ¾ nejsou Å¾Ã¡dnÃ© pÅ™edmÄ›ty.";
 
-"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
-"Mùete kombinovat Magickı kámen a Poehnanı pergamen.";
+"ì¶•ë³µì˜ ì„œì™€ í˜„ì² ì„ í•©ì¹  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MÅ¯Å¾ete kombinovat MagickÃ½ kÃ¡men a PoÅ¾ehnanÃ½ pergamen.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Tento pøedmìt si nemùeš na opasek pøidat.";
+"ì´ ì•„ì´í…œì€ ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ë¡œ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t si nemÅ¯Å¾eÅ¡ na opasek pÅ™idat.";
 
-"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"ê°™ì€ ê°œëŸ‰ì„œë¥¼ í•©ì¹  ìˆ˜ëŠ” ì—†ìŠµë‹ˆë‹¤.";
 "[1106-??]No puedes unir esto.";
 
-"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
-"Investoval jsi %d Yangù.";
+"%d ëƒ¥ì„ íˆ¬ìí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"Investoval jsi %d YangÅ¯.";
 
-"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
-"Zde není ádnı kámen na sebrání.";
+"ë¹¼ë‚¼ ìˆ˜ ìˆëŠ” ë©”í‹´ì„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Zde nenÃ­ Å¾Ã¡dnÃ½ kÃ¡men na sebrÃ¡nÃ­.";
 
-"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
-"Nemùeš uloit tuto pozici.";
+"ê¸°ì–µí•´ ë‘˜ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ ì…ë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ uloÅ¾it tuto pozici.";
 
-"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Nemáš dostatek místa v inventáøi.";
+"ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek mÃ­sta v inventÃ¡Å™i.";
 
-"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš se pøemístit na bezpeèné místo v cizím království.";
+"ê¸°ì–µëœ ìœ„ì¹˜ê°€ íƒ€ì œêµ­ì— ì†í•´ ìˆì–´ì„œ ê·€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ se pÅ™emÃ­stit na bezpeÄnÃ© mÃ­sto v cizÃ­m krÃ¡lovstvÃ­.";
 
-"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemáš dostatek ZB.";
+"ë‚¨ì€ ìƒëª…ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek ZB.";
 
-"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nemáš dostatek bodù magie (MB) na pouití.";
+"ë‚¨ì€ ì •ì‹ ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÃ¡Å¡ dostatek bodÅ¯ magie (MB) na pouÅ¾itÃ­.";
 
-"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
-"%d vteøin po vykonání se dostaneš do místa urèení.";
+"%d ì´ˆí›„ ëª©ì ì§€ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"%d vteÅ™in po vykonÃ¡nÃ­ se dostaneÅ¡ do mÃ­sta urÄenÃ­.";
 
-"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Tvá úroveò je pøíliš nízká na pouití tohoto pøedmìtu.";
+"ê°œëŸ‰ëœ í›„ ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TvÃ¡ ÃºroveÅˆ je pÅ™Ã­liÅ¡ nÃ­zkÃ¡ na pouÅ¾itÃ­ tohoto pÅ™edmÄ›tu.";
 
-"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
-"Mìsíèní koláèek mùeš pouít pouze kadıch 5 vteøin.";
+"ì›”ë³‘,ì¢…ì ì‚¬ìš©í›„ 5ì´ˆë™ì•ˆ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ";
+"MÄ›sÃ­ÄnÃ­ kolÃ¡Äek mÅ¯Å¾eÅ¡ pouÅ¾Ã­t pouze kaÅ¾dÃ½ch 5 vteÅ™in.";
 
-"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
-"Tento pøedmìt nemùeš pouít pøi souboji.";
+"ëŒ€ë ¨ ì¤‘ì—ëŠ” ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë¬¼í’ˆì…ë‹ˆë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾eÅ¡ pouÅ¾Ã­t pÅ™i souboji.";
 
-"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
-"Vyhrál jsi %d Yangù.";
+"%d ëƒ¥ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"VyhrÃ¡l jsi %d YangÅ¯.";
 
-"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
-"Zde nemùeš dìlat táborák.";
+"ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ëŠ” ì§€ì ì…ë‹ˆë‹¤.";
+"Zde nemÅ¯Å¾eÅ¡ dÄ›lat tÃ¡borÃ¡k.";
 
-"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nemùeš dìlat táborák pod vodou... to pøeci dá rozum.";
+"ë¬¼ ì†ì— ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NemÅ¯Å¾eÅ¡ dÄ›lat tÃ¡borÃ¡k pod vodou... to pÅ™eci dÃ¡ rozum.";
 
-"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
-"Zavøeno. Mìl bys jít hledat klíè.";
+"ì—´ì‡ ë¡œ ì ê²¨ ìˆì–´ì„œ ì—´ë¦¬ì§€ ì•ŠëŠ”ê²ƒ ê°™ë‹¤. ì—´ì‡ ë¥¼ êµ¬í•´ë³´ì.";
+"ZavÅ™eno. MÄ›l bys jÃ­t hledat klÃ­Ä.";
 
-"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
-"Tento pøedmìt nemùe bıt otevøen klíèem.";
+"ì—´ì‡ ë¡œ ì—¬ëŠ” ë¬¼ê±´ì´ ì•„ë‹Œê²ƒ ê°™ë‹¤.";
+"Tento pÅ™edmÄ›t nemÅ¯Å¾e bÃ½t otevÅ™en klÃ­Äem.";
 
-"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
-"Tohle je správnı klíè.";
+"ì—´ì‡ ëŠ” ë§ìœ¼ë‚˜ ì•„ì´í…œ ì£¼ëŠ” ë¶€ë¶„ êµ¬í˜„ì´ ì•ˆë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Tohle je sprÃ¡vnÃ½ klÃ­Ä.";
 
-"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
-"Obdrel jsi %d Yangù.";
+"ëˆ %d ëƒ¥ì„ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"ObdrÅ¾el jsi %d YangÅ¯.";
 
-"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Z této bedny vychází tajemná záøe.";
+"ìƒìì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Z tÃ©to bedny vychÃ¡zÃ­ tajemnÃ¡ zÃ¡Å™e.";
 
-"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
-"Obdrel jsi %d bodù zkušeností.";
+"%dì˜ ê²½í—˜ì¹˜ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"ObdrÅ¾el jsi %d bodÅ¯ zkuÅ¡enostÃ­.";
 
-"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
-"Podívej, co vypadlo z bedny!";
+"ìƒìì—ì„œ ëª¬ìŠ¤í„°ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤!";
+"PodÃ­vej, co vypadlo z bedny!";
 
-"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Cech] Úroveò cechu je pøíliš nízká.";
+"<ê¸¸ë“œ> ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Cech] ÃšroveÅˆ cechu je pÅ™Ã­liÅ¡ nÃ­zkÃ¡.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
-"Pokud vdechneš rudı kouø vycházející z bedny, budeš rychlejší!";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë¹¨ê°„ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ì›€ì§ì´ëŠ” ì†ë„ê°€ ëŠë ¤ì¡ŒìŠµë‹ˆë‹¤!";
+"Pokud vdechneÅ¡ rudÃ½ kouÅ™ vychÃ¡zejÃ­cÃ­ z bedny, budeÅ¡ rychlejÅ¡Ã­!";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"ë” ì´ìƒ ì´ ì•„ì´í…œìœ¼ë¡œ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
 "You cannot add more bonus.";
 
-"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"ì„±ê³µì ìœ¼ë¡œ ì†ì„±ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "New bonus added successfully.";
 
-"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"ë³€ê²½ ì‹œí‚¬ ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤";
 "You cannot change the bonuses.";
 
-"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"%sì´ í•„ìš”í•©ë‹ˆë‹¤.";
 "%s needed.";
 
-"¹®Á¦ ÀÔ´Ï´Ù.";
+"ë¬¸ì œ ì…ë‹ˆë‹¤.";
 "OX-Question: ";
