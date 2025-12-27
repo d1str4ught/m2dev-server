@@ -4,8 +4,9 @@ sys.dont_write_bytecode = True
 from pathlib import Path
 import shutil
 import subprocess
-import pre_qc
 import os
+import pre_qc
+
 
 def _clear_directory(dir_path: Path) -> None:
 	for item in dir_path.iterdir():
@@ -13,6 +14,7 @@ def _clear_directory(dir_path: Path) -> None:
 			shutil.rmtree(item)
 		else:
 			item.unlink(missing_ok=True)
+
 
 def main() -> None:
 	script_dir = Path(__file__).resolve().parent
@@ -22,38 +24,56 @@ def main() -> None:
 		_clear_directory(object_dir)
 	else:
 		object_dir.mkdir(parents=True, exist_ok=True)
-		
+
 	pre_qc_dir = script_dir / "pre_qc"
 	if pre_qc_dir.exists():
 		_clear_directory(pre_qc_dir)
 	else:
 		pre_qc_dir.mkdir(parents=True, exist_ok=True)
 
-	# --- ADDED FIXES BELOW ---
-	import grp # Need to import grp for proper chown/chgrp logic
-    
-    # 1. Set Group Ownership (equivalent to chgrp quest object)
-    # NOTE: You must know the numerical GID of the 'quest' group.
-    # A simpler shell-based approach is often safer in Python:
-	os.system('chgrp quest ' + str(object_dir))
+	if os.name != "nt":
+		# 1. Check if the 'quest' group actually exists in FreeBSD
+		group_exists = False
+		try:
+			import grp
+			grp.getgrnam('quest')
+			group_exists = True
+		except KeyError:
+			print("Warning: Group 'quest' not found. Skipping chgrp.")
 
-	# 2. Set Permissions (equivalent to chmod -R 770 object)
-	os.system('chmod -R 770 ' + str(object_dir))
-	# --- END ADDED FIXES ---
+		if group_exists:
+			try:
+				subprocess.run(["chgrp", "quest", str(object_dir)], check = True)
+			except subprocess.CalledProcessError:
+				print("Failed to change group ownership.")
 
-	qc_exe = script_dir / ("qc.exe" if sys.platform.startswith("win") else "qc")
-	
-	with open("locale_list") as file:
-		for line in file:
+		# 2. Set Permissions (This will work even if chgrp failed)
+		# Using -R inside subprocess is fine
+		subprocess.run(["chmod", "-R", "770", str(object_dir)], check = True)
+
+	qc_exe = script_dir / ("qc.exe" if os.name == "nt" else "qc")
+
+	locale_list_path = script_dir / "locale_list"
+
+	if not locale_list_path.exists():
+		raise FileNotFoundError(f"locale_list nicht gefunden: {locale_list_path}")
+
+	with locale_list_path.open("r", encoding="utf-8", errors="ignore") as file:
+		for raw_line in file:
+			line = raw_line.strip()
+			if not line or line.startswith("#"):
+				continue
+
 			print(f"Compiling {line}...")
-			r = pre_qc.run(line)
-			if r:
-				filename = os.path.join("pre_qc", line)
-			else:
-    				filename = line
-				
-			subprocess.run([str(qc_exe), str(filename.strip())], check=True)
 
+			r = pre_qc.run(line)
+
+			if r:
+				filename = pre_qc_dir / line
+			else:
+				filename = script_dir / line
+
+			subprocess.run([str(qc_exe), str(filename)], check=True)
 
 if __name__ == "__main__":
 	main()

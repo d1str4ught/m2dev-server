@@ -5,28 +5,47 @@ quest reset_status begin
             local idx = item.get_vnum() - 71103
             local func = { pc.get_ht, pc.get_iq, pc.get_st, pc.get_dx }
 
-            if func[idx+1]() == 1 then
+            -- MR-3: Individually reset stats to initial values based on job
+            local job = pc.get_job()
+            -- Stat minimums by job and stat index (HT, IQ, ST, DX)
+            local stat_min = {
+                -- Warrior
+                [0] = { 6, 3, 4, 3 },
+                -- Assassin
+                [1] = { 3, 6, 4, 3 },
+                -- Sura
+                [2] = { 4, 3, 6, 3 },
+                -- Shaman
+                [3] = { 3, 4, 3, 6 },
+            }
+
+            local initVal = stat_min[job][idx+1]
+
+            if func[idx + 1]() == initVal then
 				say_title(gameforge.reset_scroll._10_sayTitle)
-                say(name[idx+1]..gameforge.reset_status._50_say)
-                say(name[idx+1]..gameforge.reset_status._60_say)
+                say(name[idx + 1] .. string.format(gameforge.reset_status._50_say, initVal))
+                say(name[idx + 1] .. gameforge.reset_status._60_say)
                 say("")
+
                 return
             end
 		
 			say_title(gameforge.reset_scroll._10_sayTitle)
-            say(name[idx+1]..gameforge.reset_status._70_say)
+            say(name[idx + 1] .. string.format(gameforge.reset_status._70_say, initVal))
             say(gameforge.reset_status._80_say)
             say("")
             say(gameforge.reset_status._90_say)
 		
             say("")
+            -- MR-3: --- END OF -- Individually reset stats to initial values based on job
 
             local s = select(gameforge.reset_status._100_say, gameforge.reset_status._110_say)
 
             if s == 1 then
-                if pc.reset_status( idx ) == true then
+                if pc.reset_status(idx) == true then
 					say_title(gameforge.reset_scroll._10_sayTitle)
                     say(gameforge.reset_status._120_say)
+
                     pc.remove_item(item.get_vnum())
                 else
 					say_title(gameforge.reset_scroll._10_sayTitle)
