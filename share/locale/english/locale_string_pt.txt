@@ -1007,16 +1007,16 @@
 "[Grupo] O alvo não é membro do teu Grupo.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Grupo] Não podes expulsar um jogador enquanto estás numa Caverna.";
+"[Group] Não podes desfazer o grupo enquanto estás em uma masmorra.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Grupo] Não podes expulsar um jogador enquanto estás numa Caverna.";
+"[Group] Não podes expulsar um membro do grupo enquanto estás em uma masmorra.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Grupo] Foste excluído do grupo.";
+"[Group] Foste expulso do grupo.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Grupo] Não podes abandonar um Grupo quando estás numa Caverna.";
+"[Group] Não podes sair do grupo enquanto estás em uma masmorra.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Grupo] Não podes excluir Membros do Grupo.";
@@ -1505,7 +1505,7 @@
 "[Grupo] %s juntou-se ao teu Grupo.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Grupo] %s juntou-se ao teu Grupo.";
+"[Group] Entraste no grupo de %s.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Não podes abrir uma Loja Privada agora.";
@@ -2270,16 +2270,28 @@
 "Se inalares o fumo vermelho que sai da caixa irás tornar-te mais rápido.";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+"Não podes adicionar mais extras.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Extra adicionado com sucesso.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Não podes alterar os extras.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"Precisas de %s.";
 
 "문제 입니다.";
-"OX-Question: ";
+"Pergunta OX: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Amigos] Não te podes adicionar a ti mesmo como amigo.";
+
+"[Friends] You are already friends with %s.";
+"[Amigos] Já és amigo de %s.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Amigos] Já enviaste um pedido de amizade a %s.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Amigos] %s já te enviou um pedido de amizade.";
