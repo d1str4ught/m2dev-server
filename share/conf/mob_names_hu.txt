@@ -2,68 +2,68 @@ VNUM	LOCALE_NAME
 101	Vadkutya
 102	Farkas
 103	Alfa farkas
-104	Kékfarkas
-105	Alfa kékfarkas
-106	Szürkefarkas
-107	Alfa szürkefarkas
-108	Vaddisznó
-109	Vörös vaddisznó
+104	KÃ©kfarkas
+105	Alfa kÃ©kfarkas
+106	SzÃ¼rkefarkas
+107	Alfa szÃ¼rkefarkas
+108	VaddisznÃ³
+109	VÃ¶rÃ¶s vaddisznÃ³
 110	Medve
-111	Szürkemedve
+111	SzÃ¼rkemedve
 112	Feketemedve
 113	Barnamedve
 114	Tigris
-115	Fehér tigris
-131	Átkozott farkas
-132	Átkozott alfa farkas
-133	Átkozott kékfarkas
-134	Átkozott alfa kékfarkas
-135	Átkozott szürkefarkas
-136	Átk. alfa szürkefarkas
-137	Átk. vaddisznó
-138	Átk. vörös vaddisznó
-139	Átkozott medve
-140	Átkozott szürkemedve
-141	Átkozott feketemedve
-142	Átkozott barnamedve
-143	Átkozott tigris
-144	Átkozott fehér tigris
+115	FehÃ©r tigris
+131	Ãtkozott farkas
+132	Ãtkozott alfa farkas
+133	Ãtkozott kÃ©kfarkas
+134	Ãtkozott alfa kÃ©kfarkas
+135	Ãtkozott szÃ¼rkefarkas
+136	Ãtk. alfa szÃ¼rkefarkas
+137	Ãtk. vaddisznÃ³
+138	Ãtk. vÃ¶rÃ¶s vaddisznÃ³
+139	Ãtkozott medve
+140	Ãtkozott szÃ¼rkemedve
+141	Ãtkozott feketemedve
+142	Ãtkozott barnamedve
+143	Ãtkozott tigris
+144	Ãtkozott fehÃ©r tigris
 151	Cung-Mok
 152	Mu-Rang
 153	Jug-Hyul
 154	Young-Ji
 155	Li-An
-171	Éhes vadkutya
-172	Éhes farkas
-173	Éhes alfa farkas
-174	Éhes kékfarkas
-175	Éhes alfa kékfarkas
-176	Éhes szürkefarkas
-177	Éhes alfa szürkefarkas
-178	Éhes vaddisznó
-179	Éhes vörös vaddisznó
-180	Éhes medve
-181	Éhes szürkemedve
-182	Éhes fekete medve
-183	Éhes barna medve
-184	Éhes tigris
-185	Éhes fehér tigris
+171	Ã‰hes vadkutya
+172	Ã‰hes farkas
+173	Ã‰hes alfa farkas
+174	Ã‰hes kÃ©kfarkas
+175	Ã‰hes alfa kÃ©kfarkas
+176	Ã‰hes szÃ¼rkefarkas
+177	Ã‰hes alfa szÃ¼rkefarkas
+178	Ã‰hes vaddisznÃ³
+179	Ã‰hes vÃ¶rÃ¶s vaddisznÃ³
+180	Ã‰hes medve
+181	Ã‰hes szÃ¼rkemedve
+182	Ã‰hes fekete medve
+183	Ã‰hes barna medve
+184	Ã‰hes tigris
+185	Ã‰hes fehÃ©r tigris
 191	Lykos
 192	Scrofa
 193	Bera
 194	Tigris
-301	Fehér eskü katona
-302	Fehér eskü íjász
-303	Fehér eskü generális
-304	Fehér eskü parancsnok
-331	Fehér eskü katona
-332	Fehér eskü íjász
-333	Fehér eskü generális
-334	Fehér eskü parancsnok
-351	Gyáva fehér eskü katona
-352	Gyáva fehér eskü íjász
-353	Gyáva f. eskü generális
-354	Gyáva f. eskü parancsnok
+301	FehÃ©r eskÃ¼ katona
+302	FehÃ©r eskÃ¼ Ã­jÃ¡sz
+303	FehÃ©r eskÃ¼ generÃ¡lis
+304	FehÃ©r eskÃ¼ parancsnok
+331	FehÃ©r eskÃ¼ katona
+332	FehÃ©r eskÃ¼ Ã­jÃ¡sz
+333	FehÃ©r eskÃ¼ generÃ¡lis
+334	FehÃ©r eskÃ¼ parancsnok
+351	GyÃ¡va fehÃ©r eskÃ¼ katona
+352	GyÃ¡va fehÃ©r eskÃ¼ Ã­jÃ¡sz
+353	GyÃ¡va f. eskÃ¼ generÃ¡lis
+354	GyÃ¡va f. eskÃ¼ parancsnok
 391	Mi-Jung
 392	Eun-Jung
 393	Se-Rang
@@ -72,21 +72,21 @@ VNUM	LOCALE_NAME
 396	Lelketlen Eun-Jung
 397	Lelketlen Se-Rang
 398	Lelketlen Jin-Hee
-401	Feketeszél-katona
-402	Feketeszél-mániákus
-403	Feketeszél-íjász
-404	Feketeszél-Jak-To
-405	Feketeszél-To-Su
-406	Feketeszél-Gu-Ryung
+401	FeketeszÃ©l-katona
+402	FeketeszÃ©l-mÃ¡niÃ¡kus
+403	FeketeszÃ©l-Ã­jÃ¡sz
+404	FeketeszÃ©l-Jak-To
+405	FeketeszÃ©l-To-Su
+406	FeketeszÃ©l-Gu-Ryung
 431	Fekete viharkatona
-432	Fekete viharmániákus
-433	Fekete viharíjász
+432	Fekete viharmÃ¡niÃ¡kus
+433	Fekete viharÃ­jÃ¡sz
 434	Fekete vihar-Joh-Hwan
 435	Fekete vihar-Kyuk-Jan
 436	Fekete vihar-Pho-Hwan
 451	Gonosz fek. viharkatona
-452	Gon. fek. viharmániákus
-453	Gonosz fek. viharíjász
+452	Gon. fek. viharmÃ¡niÃ¡kus
+453	Gonosz fek. viharÃ­jÃ¡sz
 454	Gonosz f. vihar-Joh-Hwan
 455	Gon. f. vihar-Kyuk-Jang
 456	Gon. f. vihar-Pho-Hwan
@@ -94,271 +94,271 @@ VNUM	LOCALE_NAME
 492	Bo
 493	Goo-Pae
 494	Chuong
-501	Vad gyalogsági katona
+501	Vad gyalogsÃ¡gi katona
 502	Vad kegyenc
-503	Vad íjász
-504	Vad generális
-531	Brutális katona
-532	Brutális kegyenc
-533	Brutális íjász
-534	Brutális specialista
-551	Erõs vad gyalogos
-552	Erõs vad kegyenc
-553	Erõs vad íjász
-554	Erõs vad generális
-591	Brutális kapitány
-595	Brutális Geum-Chul
+503	Vad Ã­jÃ¡sz
+504	Vad generÃ¡lis
+531	BrutÃ¡lis katona
+532	BrutÃ¡lis kegyenc
+533	BrutÃ¡lis Ã­jÃ¡sz
+534	BrutÃ¡lis specialista
+551	ErÅ‘s vad gyalogos
+552	ErÅ‘s vad kegyenc
+553	ErÅ‘s vad Ã­jÃ¡sz
+554	ErÅ‘s vad generÃ¡lis
+591	BrutÃ¡lis kapitÃ¡ny
+595	BrutÃ¡lis Geum-Chul
 601	Ork
-602	Ork felderítõ
+602	Ork felderÃ­tÅ‘
 603	Ork harcos
-604	Ork varázsló
-631	Büszke ork
-632	Büszke ork kém
-633	Büszke ork harcos
-634	Büszke ork varázsló
-635	Büszke ork generális
+604	Ork varÃ¡zslÃ³
+631	BÃ¼szke ork
+632	BÃ¼szke ork kÃ©m
+633	BÃ¼szke ork harcos
+634	BÃ¼szke ork varÃ¡zslÃ³
+635	BÃ¼szke ork generÃ¡lis
 636	Fekete ork
-637	Fekete ork óriás
-651	Bátor nagy ork
-652	Bátor nagy ork kém
-653	Bátor nagy ork harcos
-654	Bátor nagy ork varázsló
-655	Bátor nagy ork generális
-656	Bátor fekete ork
-657	Bátor fekete ork óriás
-691	Fõork
-692	Sötét fõork
-693	Szellem orkvezér
-701	Sötét Fanatikus
-702	Sötét Arahan
-703	Sötét harcos
-704	Sötét Arahan vezér
-705	Sötét hóhér
-706	Sötét Kínzó
-707	Sötét Idézõ
-731	Büszke sötét fanatikus
-732	Büszke sötét Arahan
-733	Büszke sötét harcos
-734	Büszke sötét ezredes
-735	Büszke sötét vadász
-736	Büszke sötét kínzó
-737	Büszke sötét idézõ
+637	Fekete ork Ã³riÃ¡s
+651	BÃ¡tor nagy ork
+652	BÃ¡tor nagy ork kÃ©m
+653	BÃ¡tor nagy ork harcos
+654	BÃ¡tor nagy ork varÃ¡zslÃ³
+655	BÃ¡tor nagy ork generÃ¡lis
+656	BÃ¡tor fekete ork
+657	BÃ¡tor fekete ork Ã³riÃ¡s
+691	FÅ‘ork
+692	SÃ¶tÃ©t fÅ‘ork
+693	Szellem orkvezÃ©r
+701	SÃ¶tÃ©t Fanatikus
+702	SÃ¶tÃ©t Arahan
+703	SÃ¶tÃ©t harcos
+704	SÃ¶tÃ©t Arahan vezÃ©r
+705	SÃ¶tÃ©t hÃ³hÃ©r
+706	SÃ¶tÃ©t KÃ­nzÃ³
+707	SÃ¶tÃ©t IdÃ©zÅ‘
+731	BÃ¼szke sÃ¶tÃ©t fanatikus
+732	BÃ¼szke sÃ¶tÃ©t Arahan
+733	BÃ¼szke sÃ¶tÃ©t harcos
+734	BÃ¼szke sÃ¶tÃ©t ezredes
+735	BÃ¼szke sÃ¶tÃ©t vadÃ¡sz
+736	BÃ¼szke sÃ¶tÃ©t kÃ­nzÃ³
+737	BÃ¼szke sÃ¶tÃ©t idÃ©zÅ‘
 751	Magas fanatikus
 752	Magas Arahan
 753	Magas Arahan harcos
-754	Magas fõ-Arahan
-755	Magas hóhér
-756	Magas kínzó
-757	Magas ördögûzõ
-771	Brutális fanatikus
-772	Brutális Arahan
-773	Brutális Arahan harcos
-774	Brutális fõ-Arahan
-775	Brutális hóhér
-776	Brutális kínzó
-777	Brutális ördögûzõ
-791	Sötét vezetõ
-792	Sötét szellem-vezetõ
-793	Elit sötét vezetõ
-794	Elit szellem-vezetõ
+754	Magas fÅ‘-Arahan
+755	Magas hÃ³hÃ©r
+756	Magas kÃ­nzÃ³
+757	Magas Ã¶rdÃ¶gÅ±zÅ‘
+771	BrutÃ¡lis fanatikus
+772	BrutÃ¡lis Arahan
+773	BrutÃ¡lis Arahan harcos
+774	BrutÃ¡lis fÅ‘-Arahan
+775	BrutÃ¡lis hÃ³hÃ©r
+776	BrutÃ¡lis kÃ­nzÃ³
+777	BrutÃ¡lis Ã¶rdÃ¶gÅ±zÅ‘
+791	SÃ¶tÃ©t vezetÅ‘
+792	SÃ¶tÃ©t szellem-vezetÅ‘
+793	Elit sÃ¶tÃ©t vezetÅ‘
+794	Elit szellem-vezetÅ‘
 795	Elit harcos
-796	Elit sötét harcos
+796	Elit sÃ¶tÃ©t harcos
 901	Hulla-szellem
-902	Fertõzött kutya
-903	Fertõzött ember
-904	Fertõzött kardharcos
-905	Fertõzött lándzsás
-906	Fertõzött íjász
-907	Fertõzött vezér
-931	Dühös hulla-szellem
-932	Dühös fertõzött kutya
-933	Dühös fertõzött ember
-934	Dühös fertõzött harcos
-935	Dühös fertõzött lándzsás
-936	Dühös fertõzött íjász
-937	Dühös fertõzött vezér
-991	Fertõzött tojás
-992	Pestishordozó
-993	Óriási pestishordozó
-1001	Démon harcos
-1002	Démon íjász
-1003	Démon lándzsaharcos
-1004	Démon sámán
+902	FertÅ‘zÃ¶tt kutya
+903	FertÅ‘zÃ¶tt ember
+904	FertÅ‘zÃ¶tt kardharcos
+905	FertÅ‘zÃ¶tt lÃ¡ndzsÃ¡s
+906	FertÅ‘zÃ¶tt Ã­jÃ¡sz
+907	FertÅ‘zÃ¶tt vezÃ©r
+931	DÃ¼hÃ¶s hulla-szellem
+932	DÃ¼hÃ¶s fertÅ‘zÃ¶tt kutya
+933	DÃ¼hÃ¶s fertÅ‘zÃ¶tt ember
+934	DÃ¼hÃ¶s fertÅ‘zÃ¶tt harcos
+935	DÃ¼hÃ¶s fertÅ‘zÃ¶tt lÃ¡ndzsÃ¡s
+936	DÃ¼hÃ¶s fertÅ‘zÃ¶tt Ã­jÃ¡sz
+937	DÃ¼hÃ¶s fertÅ‘zÃ¶tt vezÃ©r
+991	FertÅ‘zÃ¶tt tojÃ¡s
+992	PestishordozÃ³
+993	Ã“riÃ¡si pestishordozÃ³
+1001	DÃ©mon harcos
+1002	DÃ©mon Ã­jÃ¡sz
+1003	DÃ©mon lÃ¡ndzsaharcos
+1004	DÃ©mon sÃ¡mÃ¡n
 1031	Gonosz katona
-1032	Gonosz íjász
-1033	Gonosz lándzsás
-1034	Gonosz sámán
-1035	Gyûlölet lelke
-1036	Káosz lelke
-1037	Gonosz démon vezér
+1032	Gonosz Ã­jÃ¡sz
+1033	Gonosz lÃ¡ndzsÃ¡s
+1034	Gonosz sÃ¡mÃ¡n
+1035	GyÅ±lÃ¶let lelke
+1036	KÃ¡osz lelke
+1037	Gonosz dÃ©mon vezÃ©r
 1038	Koponya Kardmester
-1039	Repülõ Koponya
-1040	Halhatatlan lélek
-1041	Démoni állat
+1039	RepÃ¼lÅ‘ Koponya
+1040	Halhatatlan lÃ©lek
+1041	DÃ©moni Ã¡llat
 1061	Kegyetlen szellemkatona
-1062	Kegyetlen szellem-íjász
-1063	Kegy. szellem-lándzsás
-1064	Kegyetlen szellem-sámán
-1065	Gyûlölet kegy. szelleme
-1066	Káosz kegyetlen szelleme
-1067	Vezér kegyetlen szelleme
+1062	Kegyetlen szellem-Ã­jÃ¡sz
+1063	Kegy. szellem-lÃ¡ndzsÃ¡s
+1064	Kegyetlen szellem-sÃ¡mÃ¡n
+1065	GyÅ±lÃ¶let kegy. szelleme
+1066	KÃ¡osz kegyetlen szelleme
+1067	VezÃ©r kegyetlen szelleme
 1068	Szellem Kardmester
-1069	Gonosz Repülõ Koponya
-1070	Halhatatlan lélek
-1071	Démoni állat
-1091	Démon király
-1092	Büszke démon király
-1093	Kaszás
-1094	Gonosz démon király
-1095	Kék halál
+1069	Gonosz RepÃ¼lÅ‘ Koponya
+1070	Halhatatlan lÃ©lek
+1071	DÃ©moni Ã¡llat
+1091	DÃ©mon kirÃ¡ly
+1092	BÃ¼szke dÃ©mon kirÃ¡ly
+1093	KaszÃ¡s
+1094	Gonosz dÃ©mon kirÃ¡ly
+1095	KÃ©k halÃ¡l
 1096	????
-1101	Elvarázsolt Jég
-1102	Jég Gyilkos Bálna
-1103	Jég Rovar
-1104	Jég Oroszlán
-1105	Fagyos Jégember
+1101	ElvarÃ¡zsolt JÃ©g
+1102	JÃ©g Gyilkos BÃ¡lna
+1103	JÃ©g Rovar
+1104	JÃ©g OroszlÃ¡n
+1105	Fagyos JÃ©gember
 1106	Jeti
-1107	Jég Gólem
-1131	Alvilági Jég Szilánkok
-1132	Alvilági JégGyilkosBálna
-1133	Alvilági Jég Rovar
-1134	Alvilági Jég Oroszlán
-1135	Alvilági Jégember
-1136	Alvilági Jeti
-1137	Alvilági Jég Gólem
-1151	Jég ördög
-1152	Jégfogú gyilkos bálna
-1153	Jég rovar
+1107	JÃ©g GÃ³lem
+1131	AlvilÃ¡gi JÃ©g SzilÃ¡nkok
+1132	AlvilÃ¡gi JÃ©gGyilkosBÃ¡lna
+1133	AlvilÃ¡gi JÃ©g Rovar
+1134	AlvilÃ¡gi JÃ©g OroszlÃ¡n
+1135	AlvilÃ¡gi JÃ©gember
+1136	AlvilÃ¡gi Jeti
+1137	AlvilÃ¡gi JÃ©g GÃ³lem
+1151	JÃ©g Ã¶rdÃ¶g
+1152	JÃ©gfogÃº gyilkos bÃ¡lna
+1153	JÃ©g rovar
 1154	Seol-Gu
-1155	Jég ember
-1156	Jég óriás
-1157	Jég gólem
-1171	Gonosz elvarázsolt jég
-1172	Gonosz jég gyilkos bálna
-1173	Gonosz jég rovar
-1174	Gonosz jég oroszlán
-1175	Gonosz jég ember
+1155	JÃ©g ember
+1156	JÃ©g Ã³riÃ¡s
+1157	JÃ©g gÃ³lem
+1171	Gonosz elvarÃ¡zsolt jÃ©g
+1172	Gonosz jÃ©g gyilkos bÃ¡lna
+1173	Gonosz jÃ©g rovar
+1174	Gonosz jÃ©g oroszlÃ¡n
+1175	Gonosz jÃ©g ember
 1176	Gonosz jeti
-1177	Gonosz jég gólem
-1191	Jég boszorkány
-1192	Nagy jég boszorkány
-1301	Fabéka katona
-1302	Fabéka vezér
-1303	Kísértet
-1304	Sárga tigris szellem
-1305	Kecskebéka generális
-1306	Gonosz sárga tigris szel
-1307	Gonosz sárga tigris szel
+1177	Gonosz jÃ©g gÃ³lem
+1191	JÃ©g boszorkÃ¡ny
+1192	Nagy jÃ©g boszorkÃ¡ny
+1301	FabÃ©ka katona
+1302	FabÃ©ka vezÃ©r
+1303	KÃ­sÃ©rtet
+1304	SÃ¡rga tigris szellem
+1305	KecskebÃ©ka generÃ¡lis
+1306	Gonosz sÃ¡rga tigris szel
+1307	Gonosz sÃ¡rga tigris szel
 1308	NoNAme
 1309	NoNAme
 1310	NoNAme
-1331	Nagy fabéka katona
-1332	Nagy fabéka vezér
-1333	Nagy kísértet
-1334	Nagy sárga tigris szelle
-1335	Nagy kecskebéka generáli
-1401	Romboló
-1402	Baltás harcos
+1331	Nagy fabÃ©ka katona
+1332	Nagy fabÃ©ka vezÃ©r
+1333	Nagy kÃ­sÃ©rtet
+1334	Nagy sÃ¡rga tigris szelle
+1335	Nagy kecskebÃ©ka generÃ¡li
+1401	RombolÃ³
+1402	BaltÃ¡s harcos
 1403	Ezerharcos
-1501	Kõ gólem
-1502	Kõ-óriás
-1503	Óriás szikla gólem
+1501	KÅ‘ gÃ³lem
+1502	KÅ‘-Ã³riÃ¡s
+1503	Ã“riÃ¡s szikla gÃ³lem
 1601	Ogre harcos
-1602	Ogre mészáros
+1602	Ogre mÃ©szÃ¡ros
 1603	Rettenthetetlen ork
-1901	Kilencfarkú
-1902	Elit kilencfarkú
-1903	Elit kilencfarkú
+1901	KilencfarkÃº
+1902	Elit kilencfarkÃº
+1903	Elit kilencfarkÃº
 1904	NoNAme
 1905	NoNAme
 1906	NoNAme
-2001	Bébi pók
-2002	Mérgespók
-2003	Vörös mérgespók
-2004	Ollós pók
-2005	Katona pók
-2031	Bébi mérgespók
-2032	Halálos mérgespók
-2033	Vörös halálos mérgespók
-2034	Ollós mérgespók
-2035	Katona mérgespók
-2036	Büszke katona mérgespók
-2051	Gonosz bébi mérgespók
-2052	Gon. halálos mérgespók
-2053	Gonosz vörös mérgespók
-2054	Gonosz ollós mérgespók
-2055	Gon. katona mérgespók
-2061	Kicsi mérgespók
-2062	Halálos mérgespók
-2063	Vörös halálos mérgespók
-2064	Ollós mérgespók
-2065	Katona mérgespók
-2071	Brutális bébi mérgespók
-2072	Brutális halál.mérgespók
-2073	Brut. vörös mérgespók
-2074	Brut. ollós mérgespók
-2075	Brutális katona pók
-2076	Brut. erõs mérgespók
-2091	Pók-királynõ
-2092	Pók-bárónõ
-2093	Sötét pók-királynõ
-2094	Pók-báró
-2095	Póktojás
-2101	Sivatagi róka
-2102	Sivatagi repülõ szem
-2103	Skorpiókirály
-2104	Fiatal Skorpióember
-2105	Skorpió íjász
-2106	Kígyó kardharcos
-2107	Kígyó íjász
+2001	BÃ©bi pÃ³k
+2002	MÃ©rgespÃ³k
+2003	VÃ¶rÃ¶s mÃ©rgespÃ³k
+2004	OllÃ³s pÃ³k
+2005	Katona pÃ³k
+2031	BÃ©bi mÃ©rgespÃ³k
+2032	HalÃ¡los mÃ©rgespÃ³k
+2033	VÃ¶rÃ¶s halÃ¡los mÃ©rgespÃ³k
+2034	OllÃ³s mÃ©rgespÃ³k
+2035	Katona mÃ©rgespÃ³k
+2036	BÃ¼szke katona mÃ©rgespÃ³k
+2051	Gonosz bÃ©bi mÃ©rgespÃ³k
+2052	Gon. halÃ¡los mÃ©rgespÃ³k
+2053	Gonosz vÃ¶rÃ¶s mÃ©rgespÃ³k
+2054	Gonosz ollÃ³s mÃ©rgespÃ³k
+2055	Gon. katona mÃ©rgespÃ³k
+2061	Kicsi mÃ©rgespÃ³k
+2062	HalÃ¡los mÃ©rgespÃ³k
+2063	VÃ¶rÃ¶s halÃ¡los mÃ©rgespÃ³k
+2064	OllÃ³s mÃ©rgespÃ³k
+2065	Katona mÃ©rgespÃ³k
+2071	BrutÃ¡lis bÃ©bi mÃ©rgespÃ³k
+2072	BrutÃ¡lis halÃ¡l.mÃ©rgespÃ³k
+2073	Brut. vÃ¶rÃ¶s mÃ©rgespÃ³k
+2074	Brut. ollÃ³s mÃ©rgespÃ³k
+2075	BrutÃ¡lis katona pÃ³k
+2076	Brut. erÅ‘s mÃ©rgespÃ³k
+2091	PÃ³k-kirÃ¡lynÅ‘
+2092	PÃ³k-bÃ¡rÃ³nÅ‘
+2093	SÃ¶tÃ©t pÃ³k-kirÃ¡lynÅ‘
+2094	PÃ³k-bÃ¡rÃ³
+2095	PÃ³ktojÃ¡s
+2101	Sivatagi rÃ³ka
+2102	Sivatagi repÃ¼lÅ‘ szem
+2103	SkorpiÃ³kirÃ¡ly
+2104	Fiatal SkorpiÃ³ember
+2105	SkorpiÃ³ Ã­jÃ¡sz
+2106	KÃ­gyÃ³ kardharcos
+2107	KÃ­gyÃ³ Ã­jÃ¡sz
 2108	Sivatagi bandita
-2131	Bestia Skorpióember
-2132	Skorpió íjász
-2133	Kígyó kardharcos
-2134	Kígyó íjász
+2131	Bestia SkorpiÃ³ember
+2132	SkorpiÃ³ Ã­jÃ¡sz
+2133	KÃ­gyÃ³ kardharcos
+2134	KÃ­gyÃ³ Ã­jÃ¡sz
 2135	Sivatagi bandita
-2151	Erõs sivatagi róka
-2152	Erõs dervis
-2153	Erõs skorpiókirály
-2154	Erõs skorpióember
-2155	Erõs skorpió íjász
-2156	Erõs kígyó kardharcos
-2157	Erõs kígyó íjász
-2158	Erõs sivatagi bandita
-2191	Nagy sivatagi teknõsbéka
-2192	Sötét sivatagi teknõs
+2151	ErÅ‘s sivatagi rÃ³ka
+2152	ErÅ‘s dervis
+2153	ErÅ‘s skorpiÃ³kirÃ¡ly
+2154	ErÅ‘s skorpiÃ³ember
+2155	ErÅ‘s skorpiÃ³ Ã­jÃ¡sz
+2156	ErÅ‘s kÃ­gyÃ³ kardharcos
+2157	ErÅ‘s kÃ­gyÃ³ Ã­jÃ¡sz
+2158	ErÅ‘s sivatagi bandita
+2191	Nagy sivatagi teknÅ‘sbÃ©ka
+2192	SÃ¶tÃ©t sivatagi teknÅ‘s
 2201	Harci tigris szolga
-2202	Lángszellem
+2202	LÃ¡ngszellem
 2203	Harci tigris
-2204	Láng
-2205	Lángharcos
-2206	Lángkirály
-2207	Sötét lángkirály
-2231	Erõs harci tigris szolga
-2232	Erõs láng lélek
-2233	Erõs harci tigris
-2234	Erõs láng
-2235	Erõs láng harcos
-2291	Vörös sárkány
+2204	LÃ¡ng
+2205	LÃ¡ngharcos
+2206	LÃ¡ngkirÃ¡ly
+2207	SÃ¶tÃ©t lÃ¡ngkirÃ¡ly
+2231	ErÅ‘s harci tigris szolga
+2232	ErÅ‘s lÃ¡ng lÃ©lek
+2233	ErÅ‘s harci tigris
+2234	ErÅ‘s lÃ¡ng
+2235	ErÅ‘s lÃ¡ng harcos
+2291	VÃ¶rÃ¶s sÃ¡rkÃ¡ny
 2301	Szellemfa
-2302	Szellemtuskó
-2303	Tündér
-2304	Szellemfûz
+2302	SzellemtuskÃ³
+2303	TÃ¼ndÃ©r
+2304	SzellemfÅ±z
 2305	Gonosz fa
-2306	Óriási szellemfa
+2306	Ã“riÃ¡si szellemfa
 2307	Szellemfa fejedelem
-2311	Vörös szellemfa
-2312	Vörös szellemtuskó
-2313	Vörös tündér
-2314	Vörös szellemfûz
-2315	Vörös gonosz fa
+2311	VÃ¶rÃ¶s szellemfa
+2312	VÃ¶rÃ¶s szellemtuskÃ³
+2313	VÃ¶rÃ¶s tÃ¼ndÃ©r
+2314	VÃ¶rÃ¶s szellemfÅ±z
+2315	VÃ¶rÃ¶s gonosz fa
 2401	Setaou Harcos
-2402	Setaou Vadász
-2403	Setaou látnok
-2404	Setaou Vezér
+2402	Setaou VadÃ¡sz
+2403	Setaou lÃ¡tnok
+2404	Setaou VezÃ©r
 2411	Setaou Katona
-2412	Setaou Íjász
-2413	Setaou Bíró
+2412	Setaou ÃjÃ¡sz
+2413	Setaou BÃ­rÃ³
 2414	Setaou Parancsnok
 2431	????
 2432	????
@@ -369,182 +369,182 @@ VNUM	LOCALE_NAME
 2453	?????
 2454	?????
 2491	Yonghan Parancsnok
-2492	Yonghan Tábornok
+2492	Yonghan TÃ¡bornok
 2493	Beran-Setaou
 2494	Huashin Parancsnok
-2495	Huashin Tábornok
-2501	Pokol medúza
+2495	Huashin TÃ¡bornok
+2501	Pokol medÃºza
 2502	Pokolkutya
 2503	Zombi
 2504	Pokol-tiszt
-2505	Pokol-õr
-2506	Kétfejû Pokol-íjász
+2505	Pokol-Å‘r
+2506	KÃ©tfejÅ± Pokol-Ã­jÃ¡sz
 2507	Pokolkarom
 2508	Pokolharcos
-2509	Pokol-íjász
-2510	Pokol-lándzsás
-2511	Pokol-lelkész
-2512	Pokol-õrnagy
-2513	Pokol-mészáros
-2514	Pokol-generális
+2509	Pokol-Ã­jÃ¡sz
+2510	Pokol-lÃ¡ndzsÃ¡s
+2511	Pokol-lelkÃ©sz
+2512	Pokol-Å‘rnagy
+2513	Pokol-mÃ©szÃ¡ros
+2514	Pokol-generÃ¡lis
 2541	Gonosz pokolharcos
-2542	Gonosz Pokol-íjász
-2543	Gonosz pokol-lándzsás
-2544	Gonosz pokol-lelkész
-2545	Gonosz pokol-õrnagy
-2546	Gonosz pokol-mészáros
-2547	Gonosz pokol-generális
+2542	Gonosz Pokol-Ã­jÃ¡sz
+2543	Gonosz pokol-lÃ¡ndzsÃ¡s
+2544	Gonosz pokol-lelkÃ©sz
+2545	Gonosz pokol-Å‘rnagy
+2546	Gonosz pokol-mÃ©szÃ¡ros
+2547	Gonosz pokol-generÃ¡lis
 2591	Tartaros
-2592	Pokol-fattyú
-2593	Pokol-fattyú
-2594	Pokol-fattyú
+2592	Pokol-fattyÃº
+2593	Pokol-fattyÃº
+2594	Pokol-fattyÃº
 2595	Erebos
-2596	Azrael megidézettje
+2596	Azrael megidÃ©zettje
 2597	Charon
 2598	Azrael
 3001	Gnoll harcos
-3002	Gnoll íjász
-3003	Gnoll védelmezõ
-3004	Gnoll mágus
-3005	Gnoll tábornok
-3090	Gnoll Nagyúr
-3091	Legfõbb Gnoll-õr
-3101	Egyszemû harcos
-3102	Küklopsz katona
-3103	Küklopsz mágus
-3104	Küklopsz hóhér
-3105	Outis tábornok
+3002	Gnoll Ã­jÃ¡sz
+3003	Gnoll vÃ©delmezÅ‘
+3004	Gnoll mÃ¡gus
+3005	Gnoll tÃ¡bornok
+3090	Gnoll NagyÃºr
+3091	LegfÅ‘bb Gnoll-Å‘r
+3101	EgyszemÅ± harcos
+3102	KÃ¼klopsz katona
+3103	KÃ¼klopsz mÃ¡gus
+3104	KÃ¼klopsz hÃ³hÃ©r
+3105	Outis tÃ¡bornok
 3190	Argosz
 3191	Polyphemos
-3201	Mantikór harcos
-3202	Mantikór katona
-3203	Mantikór mágus
-3204	Mantikór hóhér
-3205	Kór tábornok
+3201	MantikÃ³r harcos
+3202	MantikÃ³r katona
+3203	MantikÃ³r mÃ¡gus
+3204	MantikÃ³r hÃ³hÃ©r
+3205	KÃ³r tÃ¡bornok
 3290	Rakshasa
 3291	Martyaxwar
 3301	Lemur harcos
 3302	Lemur katona
-3303	Lemur mágus
-3304	Lemur hóhér
-3305	Lemur tábornok
+3303	Lemur mÃ¡gus
+3304	Lemur hÃ³hÃ©r
+3305	Lemur tÃ¡bornok
 3390	Lemur herceg
-3391	Lemur testõr
-3401	Tritoni muréna
-3402	Cápa katona
-3403	Tritoni mágus
-3404	Tritoni vadász
-3405	Tritoni hasító
-3490	Kappa tábornok
+3391	Lemur testÅ‘r
+3401	Tritoni murÃ©na
+3402	CÃ¡pa katona
+3403	Tritoni mÃ¡gus
+3404	Tritoni vadÃ¡sz
+3405	Tritoni hasÃ­tÃ³
+3490	Kappa tÃ¡bornok
 3491	Triton
-3501	Vörös tolvaj amazon
-3502	Vörös tolvaj orgyilkos
-3503	Vörös tolvaj mágus
-3504	Vörös tolvaj hóhér
-3505	Fekete tábornok
-3551	Brut.vörös tolvaj amazon
+3501	VÃ¶rÃ¶s tolvaj amazon
+3502	VÃ¶rÃ¶s tolvaj orgyilkos
+3503	VÃ¶rÃ¶s tolvaj mÃ¡gus
+3504	VÃ¶rÃ¶s tolvaj hÃ³hÃ©r
+3505	Fekete tÃ¡bornok
+3551	Brut.vÃ¶rÃ¶s tolvaj amazon
 3552	Brut.v.tolvaj orgyilkos
-3553	Brut. vörös tolvaj mágus
-3554	Brut. vörös tolvaj hóhér
-3555	Fehér tábornok
+3553	Brut. vÃ¶rÃ¶s tolvaj mÃ¡gus
+3554	Brut. vÃ¶rÃ¶s tolvaj hÃ³hÃ©r
+3555	FehÃ©r tÃ¡bornok
 3590	Arccsont
-3591	Vörös fõnök
-3595	Brutális Arccsont
-3596	Brutális Vörös fõnök
-3601	Tarisznyarák harcos
-3602	Skorpió lövész
-3603	Garnélarák katona
-3604	Ördögi remete
-3605	Páncélozott tarisznyarák
-3690	Homár tábornok
-3691	Tarisznyarák király
-3701	Gigantikus harapó
-3702	Gigantikus mészáros
-3703	Gigantikus mágus
+3591	VÃ¶rÃ¶s fÅ‘nÃ¶k
+3595	BrutÃ¡lis Arccsont
+3596	BrutÃ¡lis VÃ¶rÃ¶s fÅ‘nÃ¶k
+3601	TarisznyarÃ¡k harcos
+3602	SkorpiÃ³ lÃ¶vÃ©sz
+3603	GarnÃ©larÃ¡k katona
+3604	Ã–rdÃ¶gi remete
+3605	PÃ¡ncÃ©lozott tarisznyarÃ¡k
+3690	HomÃ¡r tÃ¡bornok
+3691	TarisznyarÃ¡k kirÃ¡ly
+3701	Gigantikus harapÃ³
+3702	Gigantikus mÃ©szÃ¡ros
+3703	Gigantikus mÃ¡gus
 3704	Duplantikus
-3705	Kampós kapitány
+3705	KampÃ³s kapitÃ¡ny
 3790	Gargoyle
-3791	Wubba király
+3791	Wubba kirÃ¡ly
 3801	Hangork
-3802	Íjász ogre
+3802	ÃjÃ¡sz ogre
 3803	Fegyveres ogre
-3804	Ogre mágus
-3805	Ogg tábornok
-3890	Shruk kapitány
+3804	Ogre mÃ¡gus
+3805	Ogg tÃ¡bornok
+3890	Shruk kapitÃ¡ny
 3891	A Nagy Ogre
-3901	Fûz-ember
+3901	FÅ±z-ember
 3902	Eoten
 3903	Skouman
-3904	Kampós kapitány
+3904	KampÃ³s kapitÃ¡ny
 3905	Mu-Shu
 3906	Yah-Ki
 3907	Moghu
 3908	Carnifex
-3909	Albus tábornok
+3909	Albus tÃ¡bornok
 3910	Skeletos
 3911	Aku-Boku
 3912	Arboretum
 3913	Sycomore
-5001	Tanaka kalóz
+5001	Tanaka kalÃ³z
 5002	Hae-Tae
 5003	Majom
-5004	Tanaka kalóz
+5004	Tanaka kalÃ³z
 5101	Gyenge majomkatona
-5102	Gyenge majomhajító
+5102	Gyenge majomhajÃ­tÃ³
 5103	Gyenge majomharcos
-5104	Gyenge majomgenerális
+5104	Gyenge majomgenerÃ¡lis
 5111	Majomkatona
-5112	Majomhajító
+5112	MajomhajÃ­tÃ³
 5113	Majomharcos
-5114	Majomgenerális
-5115	Kõmajom
-5116	Majomvezér
-5121	Erõs majomkatona
-5122	Erõs majomhajító
-5123	Erõs majomharcos
-5124	Erõs majomgenerális
-5125	Erõs kõmajom
-5126	Erõs aranymajom
-5127	Erõs majomvezér
+5114	MajomgenerÃ¡lis
+5115	KÅ‘majom
+5116	MajomvezÃ©r
+5121	ErÅ‘s majomkatona
+5122	ErÅ‘s majomhajÃ­tÃ³
+5123	ErÅ‘s majomharcos
+5124	ErÅ‘s majomgenerÃ¡lis
+5125	ErÅ‘s kÅ‘majom
+5126	ErÅ‘s aranymajom
+5127	ErÅ‘s majomvezÃ©r
 5131	Okos kicsi majomkatona
-5132	Okos kicsi majomhajító
+5132	Okos kicsi majomhajÃ­tÃ³
 5133	Okos kicsi majomharcos
-5134	Okos kicsi majomgenerál.
+5134	Okos kicsi majomgenerÃ¡l.
 5141	Ravasz majomkatona
-5142	Ravasz majomhajító
+5142	Ravasz majomhajÃ­tÃ³
 5143	Ravasz majomharcos
-5144	Ravasz majomgenerális
-5145	Ravasz kõmajom
-5146	Ravasz majomvezér
+5144	Ravasz majomgenerÃ¡lis
+5145	Ravasz kÅ‘majom
+5146	Ravasz majomvezÃ©r
 5151	Gonosz majomkatona
-5152	Gonosz majomhajító
+5152	Gonosz majomhajÃ­tÃ³
 5153	Gonosz majomharcos
-5154	Gonosz majomgenerális
-5155	Gonosz kõmajom
+5154	Gonosz majomgenerÃ¡lis
+5155	Gonosz kÅ‘majom
 5156	Gonosz aranymajom
-5157	Gonosz majomvezér
+5157	Gonosz majomvezÃ©r
 5161	Sziklamajom
-5162	Gyalogló majom
+5162	GyaloglÃ³ majom
 5163	Majomfejedelem
-6001	Parázs-lángszellem
-6002	Parázs-lángtigris
-6003	Parázs-láng
-6004	Parázs-lángharcos
-6005	Parázs-lángkirály
-6006	Parázs-lánggólem
-6007	Parázs-lángszakáll
-6008	Parázs-lángtábornok
-6009	Parázs-lángvezér
+6001	ParÃ¡zs-lÃ¡ngszellem
+6002	ParÃ¡zs-lÃ¡ngtigris
+6003	ParÃ¡zs-lÃ¡ng
+6004	ParÃ¡zs-lÃ¡ngharcos
+6005	ParÃ¡zs-lÃ¡ngkirÃ¡ly
+6006	ParÃ¡zs-lÃ¡nggÃ³lem
+6007	ParÃ¡zs-lÃ¡ngszakÃ¡ll
+6008	ParÃ¡zs-lÃ¡ngtÃ¡bornok
+6009	ParÃ¡zs-lÃ¡ngvezÃ©r
 6051	Ignitor
 6091	Razador
-6101	Fagykristály
-6102	Fagybogár
+6101	FagykristÃ¡ly
+6102	FagybogÃ¡r
 6103	Fagyember
 6104	Fagyjeti
-6105	Fagygólem
+6105	FagygÃ³lem
 6106	Fagytroll
-6107	Fagyszakáll
-6108	Fagytábornok
+6107	FagyszakÃ¡ll
+6108	FagytÃ¡bornok
 6109	Fagyfejedelem
 6151	Szel
 6191	Nemere
@@ -552,22 +552,22 @@ VNUM	LOCALE_NAME
 7002	Majomlovas
 7003	Gimu majomkatona
 7004	Majomparancsnok
-7005	Kõmajom
+7005	KÅ‘majom
 7006	Aranymajom
-7007	Majomgenerális
-7008	Tu-Gui dolgozó
-7009	Tu-Gui katona vizsgáló
-7010	Tu-Gui fehér parancsnok
+7007	MajomgenerÃ¡lis
+7008	Tu-Gui dolgozÃ³
+7009	Tu-Gui katona vizsgÃ¡lÃ³
+7010	Tu-Gui fehÃ©r parancsnok
 7012	Bi-Ma-Gui-An
-7013	Skorpiókirály
-7014	Okos skorpióember
-7015	Skorpió íjász
-7016	Kígyó kardharcos
-7017	Kígyó íjász
+7013	SkorpiÃ³kirÃ¡ly
+7014	Okos skorpiÃ³ember
+7015	SkorpiÃ³ Ã­jÃ¡sz
+7016	KÃ­gyÃ³ kardharcos
+7017	KÃ­gyÃ³ Ã­jÃ¡sz
 7018	Sivatagi bandita
 7019	Tu-ji katona
 7020	Hwa-ryung
-7021	Tu-Ji csavargó
+7021	Tu-Ji csavargÃ³
 7022	Cham-Ma
 7023	Teawha-Mu
 7024	Juk-gui
@@ -643,85 +643,85 @@ VNUM	LOCALE_NAME
 7094	NoNAme
 7095	NoNAme
 7096	NoNAme
-8001	Bánat Metinje
+8001	BÃ¡nat Metinje
 8002	Harc Metinje
 8003	Csata Metinje
-8004	Mohóság Metinje
+8004	MohÃ³sÃ¡g Metinje
 8005	Fekete Metinje
-8006	Sötétség Metinje
-8007	Féltékenység Metinje
-8008	Lélek Metinje
-8009	Árnyék Metinje
-8010	Keménység Metinje
-8011	Ördög Metinje
-8012	Bukás Metinje
-8013	Halál Metinje
-8014	Gyilkosság Metinje
-8015	Keménység Metinje
-8016	Ördög Metinje
-8017	Bukás Metinje
-8018	Halál Metinje
-8019	Gyilkosság Metinje
+8006	SÃ¶tÃ©tsÃ©g Metinje
+8007	FÃ©ltÃ©kenysÃ©g Metinje
+8008	LÃ©lek Metinje
+8009	ÃrnyÃ©k Metinje
+8010	KemÃ©nysÃ©g Metinje
+8011	Ã–rdÃ¶g Metinje
+8012	BukÃ¡s Metinje
+8013	HalÃ¡l Metinje
+8014	GyilkossÃ¡g Metinje
+8015	KemÃ©nysÃ©g Metinje
+8016	Ã–rdÃ¶g Metinje
+8017	BukÃ¡s Metinje
+8018	HalÃ¡l Metinje
+8019	GyilkossÃ¡g Metinje
 8020	Shinsoo szikla
 8021	Jinno szikla
 8022	Chunjo szikla
-8023	Császár szikla
+8023	CsÃ¡szÃ¡r szikla
 8024	Metin Pung-Ma
 8025	Metin Ma-An
 8026	Metin Tu-Young
 8027	Metin Jeon-Un
 8031	Hegy metinje
-8032	Bosszú Metinje
-8033	Magány metinje
-8034	Gõg metinje
-8035	Megváltás metinje
-8036	Árulás metinje
-8037	Nezehtelés metinje
-8038	Megtorlás metinje
-8039	Büszkeség metinje
+8032	BosszÃº Metinje
+8033	MagÃ¡ny metinje
+8034	GÅ‘g metinje
+8035	MegvÃ¡ltÃ¡s metinje
+8036	ÃrulÃ¡s metinje
+8037	NezehtelÃ©s metinje
+8038	MegtorlÃ¡s metinje
+8039	BÃ¼szkesÃ©g metinje
 8040	Rosszakarat metinje
-8041	Húsvét Metin
-8042	Húsvét Metin
-8043	Húsvét Metin
-8044	Húsvét Metin
-8045	Húsvét Metin
-8046	Húsvét Metin
-8047	Húsvét Metin
-8048	Húsvét Metin
-8049	Húsvét Metin
-8050	Húsvét Metin
-8051	Homály metinje
-8052	Parázs metinje
-8053	Hiúság metinje
+8041	HÃºsvÃ©t Metin
+8042	HÃºsvÃ©t Metin
+8043	HÃºsvÃ©t Metin
+8044	HÃºsvÃ©t Metin
+8045	HÃºsvÃ©t Metin
+8046	HÃºsvÃ©t Metin
+8047	HÃºsvÃ©t Metin
+8048	HÃºsvÃ©t Metin
+8049	HÃºsvÃ©t Metin
+8050	HÃºsvÃ©t Metin
+8051	HomÃ¡ly metinje
+8052	ParÃ¡zs metinje
+8053	HiÃºsÃ¡g metinje
 8054	Harag metinje
 8055	Balsors metinje
 8056	Rosszindulat metinje
-8057	Tisztítótûz metinje
-8101	Bánat Metinje
+8057	TisztÃ­tÃ³tÅ±z metinje
+8101	BÃ¡nat Metinje
 8102	Harc Metinje
 8103	Csata Metinje
-8104	Mohóság Metinje
+8104	MohÃ³sÃ¡g Metinje
 8105	Fekete Metinje
-8106	Sötétség Metinje
-8107	Féltékenység Metinje
-8108	Lélek Metinje
-8109	Árnyék Metinje
-8110	Keménység Metinje
-8111	Ördög Metinje
-8112	Bukás Metinje
-8113	Halál Metinje
-8114	Gyilkosság Metinje
+8106	SÃ¶tÃ©tsÃ©g Metinje
+8107	FÃ©ltÃ©kenysÃ©g Metinje
+8108	LÃ©lek Metinje
+8109	ÃrnyÃ©k Metinje
+8110	KemÃ©nysÃ©g Metinje
+8111	Ã–rdÃ¶g Metinje
+8112	BukÃ¡s Metinje
+8113	HalÃ¡l Metinje
+8114	GyilkossÃ¡g Metinje
 8501	Vad kutya
-8502	Vaddisznó
+8502	VaddisznÃ³
 8503	Medve
-8504	Fehér tigris
-8505	Fekete ork óriás
-8506	Fabéka vezér
+8504	FehÃ©r tigris
+8505	Fekete ork Ã³riÃ¡s
+8506	FabÃ©ka vezÃ©r
 8507	Sivatagi bandita
-8508	Ezoterikus kínzó
-8509	Ezoterikus ördögûzõ
-8510	Lángharcos
-8511	Jég gólem
+8508	Ezoterikus kÃ­nzÃ³
+8509	Ezoterikus Ã¶rdÃ¶gÅ±zÅ‘
+8510	LÃ¡ngharcos
+8511	JÃ©g gÃ³lem
 8600	?????
 8601	?????
 8602	?????
@@ -738,50 +738,50 @@ VNUM	LOCALE_NAME
 8613	????
 8614	??????
 8615	??????
-9001	Fegyverkereskedõ
-9002	Fegyverzet-kereskedõ
-9003	Vegyeskereskedõ Eladónõ
-9004	Esemény segítõ
-9005	Raktáros
-9006	Öregasszony
-9007	Fegyverkereskedõ
-9008	Fegyverzet-kereskedõ
-9009	Halász
-9010	Vegyeskereskedés
-9011	Esküvõszervezõ
+9001	FegyverkereskedÅ‘
+9002	Fegyverzet-kereskedÅ‘
+9003	VegyeskereskedÅ‘ EladÃ³nÅ‘
+9004	EsemÃ©ny segÃ­tÅ‘
+9005	RaktÃ¡ros
+9006	Ã–regasszony
+9007	FegyverkereskedÅ‘
+9008	Fegyverzet-kereskedÅ‘
+9009	HalÃ¡sz
+9010	VegyeskereskedÃ©s
+9011	EskÃ¼vÅ‘szervezÅ‘
 9012	Teleport
-10001	Yayang_Terület 4002 8995
-10002	Yongan_terület 4503 9050
+10001	Yayang_TerÃ¼let 4002 8995
+10002	Yongan_terÃ¼let 4503 9050
 10003	Bokjung_ter. 1118 2161
-10004	Joan_terület 876 2131
-10005	Bakra_terület 9064 2214
+10004	Joan_terÃ¼let 876 2131
+10005	Bakra_terÃ¼let 9064 2214
 10006	Pyungmoo_ter. 9372 2188
-10007	Yongan_terület 4188 9560
-10008	Yayang_Terület 3179 8332
-10009	Joan_terület 897 1127
+10007	Yongan_terÃ¼let 4188 9560
+10008	Yayang_TerÃ¼let 3179 8332
+10009	Joan_terÃ¼let 897 1127
 10010	Bokjung_ter. 1759 2210
 10011	Pyongmoo_ter. 9343 3143
-10012	Bakra_terület 8348 2926
+10012	Bakra_terÃ¼let 8348 2926
 10013	Hwang_templom 5536 1441
 10014	Seungryong 3326 7468
 10015	Yongbi_sivatag 3467 6329
 10016	Kuahlo_Dong 600 4960
 10017	Hwang_templom 5906 1102
 10018	Gumsan_torony 2165 7270
-10019	Yayang_Terület 3211 9009
+10019	Yayang_TerÃ¼let 3211 9009
 10020	Jungrang 1356 43
 10021	Bokjung_ter. 1168 2920
 10022	Waryong 2219 93
-10023	Bakra_terület 9098 2948
+10023	Bakra_terÃ¼let 9098 2948
 10024	Imha 2718 130
 10025	Sohan-hegy 4993 2984
 10026	Lungsam 2887 57
 10027	Lungsam 2866 437
-10028	Vörös-erdõ 11199 708
-10029	Kígyórét 10590 7262
+10028	VÃ¶rÃ¶s-erdÅ‘ 11199 708
+10029	KÃ­gyÃ³rÃ©t 10590 7262
 10030	Yongbi_sivatag 3519 6223
-10031	Kígyórét 10590 7262
-10032	Óriások_földje 8283 7635
+10031	KÃ­gyÃ³rÃ©t 10590 7262
+10032	Ã“riÃ¡sok_fÃ¶ldje 8283 7635
 10033	Zin-barlang 10594 7525
 10034	2_Zin-barlang 10594 7525
 10035	Deon-Zeon 917 5253
@@ -817,11 +817,11 @@ VNUM	LOCALE_NAME
 10065	???? 7754 10553
 10066	????? 9915 11195
 10067	Majom_kazamata 7752 4477
-10068	Yayang_Terület 4062 8756
+10068	Yayang_TerÃ¼let 4062 8756
 10069	Majom_kazamata 8520 4477
 10070	Bokjung_ter. 1611 2130
 10071	Majom_kazamata 9288 4477
-10072	Bakra_terület 8727 2100
+10072	Bakra_terÃ¼let 8727 2100
 10073	Yongbi_sivatag 3061 6202
 10074	Majom_kazamata 1352 6532
 10075	Yongbi_sivatag 2879 5407
@@ -842,18 +842,18 @@ VNUM	LOCALE_NAME
 10090	???? 9609 3188
 10091	????1? 1360 18044
 10092	????2? 2414 17361
-10093	Sárkány_Kapu 1731 12205
-10094	Sárkány_Kapu 1733 13743
-10095	Sárkány_Kapu 1728 15277
-10096	Sárkány_Kapu 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10093	SÃ¡rkÃ¡ny_Kapu 1731 12205
+10094	SÃ¡rkÃ¡ny_Kapu 1733 13743
+10095	SÃ¡rkÃ¡ny_Kapu 1728 15277
+10096	SÃ¡rkÃ¡ny_Kapu 1724 16824
+10097	Â°Ä¹Ä…ÄšÂµÅ¼Â±Ä½2Ä‚Å£ 7040 5235 
+10098	Â°Ä¹Ä…ÄšÂµÅ¼Â±Ä½3Ä‚Å£ 984 5711
 10099	Fok 11043 17885
 10100	Fok 10963 16744
 10101	Nefrit 10869 16558
 10102	Fok 11664 16779
-10103	Mennydörgés 11345 16546
-10104	Mennydörgés 11921 16550
+10103	MennydÃ¶rgÃ©s 11345 16546
+10104	MennydÃ¶rgÃ©s 11921 16550
 10105	Gautama 12263 16811
 10501	. 345 361
 10502	. 106 547
@@ -967,17 +967,17 @@ VNUM	LOCALE_NAME
 10834	. 422 935
 10835	. 500 807
 11000	Gondnok
-11001	Csata irányító
+11001	Csata irÃ¡nyÃ­tÃ³
 11002	Gondnok
-11003	Csata irányító
+11003	Csata irÃ¡nyÃ­tÃ³
 11004	Gondnok
-11005	Csata irányító
+11005	Csata irÃ¡nyÃ­tÃ³
 11100	Gondnok
-11101	Csata irányító
+11101	Csata irÃ¡nyÃ­tÃ³
 11102	Gondnok
-11103	Csata irányító
+11103	Csata irÃ¡nyÃ­tÃ³
 11104	Gondnok
-11105	Csata irányító
+11105	Csata irÃ¡nyÃ­tÃ³
 11106	???
 11107	???
 11108	???
@@ -990,55 +990,55 @@ VNUM	LOCALE_NAME
 11115	???
 11116	???
 11117	???
-11505	Arany béka
+11505	Arany bÃ©ka
 11506	??
 11507	??
 11508	??
 11509	??
 11510	??
-12000	Tábortûz
+12000	TÃ¡bortÅ±z
 13000	Fa kapu
-13001	Kõ kapu
-14000	Mûhely
-14001	Mûhely
-14002	Mûhely
-14003	Mûhely
-14004	Mûhely
-14005	Mûhely
-14006	Mûhely
-14007	Mûhely
-14008	Mûhely
-14009	Mûhely
-14010	Oltár
-14011	Oltár
-14012	Oltár
-14013	Oltár
-14014	Oltár
-14015	Oltár
-14016	Oltár
-14017	Oltár
-14018	Oltár
-14019	Oltár
-14020	Fõhadiszállás
-14021	Fõhadiszállás
-14022	Fõhadiszállás
-14023	Fõhadiszállás
-14024	Fõhadiszállás
-14025	Fõhadiszállás
-14026	Fõhadiszállás
-14027	Fõhadiszállás
-14028	Fõhadiszállás
-14029	Fõhadiszállás
-14030	Kiképzõ tábor
-14031	Kiképzõ tábor
-14032	Kiképzõ tábor
-14033	Kiképzõ tábor
-14034	Kiképzõ tábor
-14035	Kiképzõ tábor
-14036	Kiképzõ tábor
-14037	Kiképzõ tábor
-14038	Kiképzõ tábor
-14039	Kiképzõ tábor
+13001	KÅ‘ kapu
+14000	MÅ±hely
+14001	MÅ±hely
+14002	MÅ±hely
+14003	MÅ±hely
+14004	MÅ±hely
+14005	MÅ±hely
+14006	MÅ±hely
+14007	MÅ±hely
+14008	MÅ±hely
+14009	MÅ±hely
+14010	OltÃ¡r
+14011	OltÃ¡r
+14012	OltÃ¡r
+14013	OltÃ¡r
+14014	OltÃ¡r
+14015	OltÃ¡r
+14016	OltÃ¡r
+14017	OltÃ¡r
+14018	OltÃ¡r
+14019	OltÃ¡r
+14020	FÅ‘hadiszÃ¡llÃ¡s
+14021	FÅ‘hadiszÃ¡llÃ¡s
+14022	FÅ‘hadiszÃ¡llÃ¡s
+14023	FÅ‘hadiszÃ¡llÃ¡s
+14024	FÅ‘hadiszÃ¡llÃ¡s
+14025	FÅ‘hadiszÃ¡llÃ¡s
+14026	FÅ‘hadiszÃ¡llÃ¡s
+14027	FÅ‘hadiszÃ¡llÃ¡s
+14028	FÅ‘hadiszÃ¡llÃ¡s
+14029	FÅ‘hadiszÃ¡llÃ¡s
+14030	KikÃ©pzÅ‘ tÃ¡bor
+14031	KikÃ©pzÅ‘ tÃ¡bor
+14032	KikÃ©pzÅ‘ tÃ¡bor
+14033	KikÃ©pzÅ‘ tÃ¡bor
+14034	KikÃ©pzÅ‘ tÃ¡bor
+14035	KikÃ©pzÅ‘ tÃ¡bor
+14036	KikÃ©pzÅ‘ tÃ¡bor
+14037	KikÃ©pzÅ‘ tÃ¡bor
+14038	KikÃ©pzÅ‘ tÃ¡bor
+14039	KikÃ©pzÅ‘ tÃ¡bor
 14040	Kemence
 14041	Kemence
 14042	Kemence
@@ -1055,20 +1055,20 @@ VNUM	LOCALE_NAME
 20004	Koldus
 20005	Yonah
 20006	Mirine
-20007	Raktáros
+20007	RaktÃ¡ros
 20008	Octavio
-20009	Öreg ember
-20010	Házaló
+20009	Ã–reg ember
+20010	HÃ¡zalÃ³
 20011	Uriel
 20012	Yu-Rang
-20013	Halász
+20013	HalÃ¡sz
 20014	Taurean
 20015	Deokbae
-20016	Kovács
+20016	KovÃ¡cs
 20017	Yu-Hwan
 20018	Baek-Go
 20019	Yang-Shin
-20020	Áruló Balso
+20020	ÃrulÃ³ Balso
 20021	Ariyoung
 20022	Huahn-So
 20023	Soon
@@ -1076,63 +1076,63 @@ VNUM	LOCALE_NAME
 20025	.
 20026	Ji-Ryu
 20027	Gillian
-20028	Mirine testvére
+20028	Mirine testvÃ©re
 20029	Pony
-20030	Ló
-20031	Télapó
-20032	Karácsonyfa
-20033	Karácsonyfa
-20034	Karácsonyfa
-20035	Zászló
-20036	Zászló
-20037	Zászló
+20030	LÃ³
+20031	TÃ©lapÃ³
+20032	KarÃ¡csonyfa
+20033	KarÃ¡csonyfa
+20034	KarÃ¡csonyfa
+20035	ZÃ¡szlÃ³
+20036	ZÃ¡szlÃ³
+20037	ZÃ¡szlÃ³
 20038	..
 20039	.
-20040	Telek kezelõ
-20041	Részeg
-20042	Házaló
+20040	Telek kezelÅ‘
+20041	RÃ©szeg
+20042	HÃ¡zalÃ³
 20043	.
-20044	Fegyverkovács
-20045	Páncélkovács
-20046	Ékszerész
-20047	Gyémánt erezet
-20048	Borostyánkõ ér
-20049	Megkövesedett fa ér
-20050	Réz ér
-20051	Ezüst ér
-20052	Arany ér
-20053	Jáde ér
-20054	Ébenfa ér
-20055	Kagyló lerakódás
-20056	Fehérarany ér
-20057	Kristály ér
-20058	Ametiszt ér
-20059	Mennyei Könny Ér
-20060	Gyémánt alkimista
-20061	Borostyán alkimista
-20062	Megköv. fa alkimista
-20063	Réz alkimista
-20064	Ezüst alkimista
+20044	FegyverkovÃ¡cs
+20045	PÃ¡ncÃ©lkovÃ¡cs
+20046	Ã‰kszerÃ©sz
+20047	GyÃ©mÃ¡nt erezet
+20048	BorostyÃ¡nkÅ‘ Ã©r
+20049	MegkÃ¶vesedett fa Ã©r
+20050	RÃ©z Ã©r
+20051	EzÃ¼st Ã©r
+20052	Arany Ã©r
+20053	JÃ¡de Ã©r
+20054	Ã‰benfa Ã©r
+20055	KagylÃ³ lerakÃ³dÃ¡s
+20056	FehÃ©rarany Ã©r
+20057	KristÃ¡ly Ã©r
+20058	Ametiszt Ã©r
+20059	Mennyei KÃ¶nny Ã‰r
+20060	GyÃ©mÃ¡nt alkimista
+20061	BorostyÃ¡n alkimista
+20062	MegkÃ¶v. fa alkimista
+20063	RÃ©z alkimista
+20064	EzÃ¼st alkimista
 20065	Arany alkimista
-20066	Jáde alkimista
-20067	Ébenfa alkimista
-20068	Gyöngy alkimista
-20069	Fehérarany alkimista
-20070	Kristály alkimista
+20066	JÃ¡de alkimista
+20067	Ã‰benfa alkimista
+20068	GyÃ¶ngy alkimista
+20069	FehÃ©rarany alkimista
+20070	KristÃ¡ly alkimista
 20071	Ametiszt alkimista
-20072	Mennyei könny alkimista
-20073	Õsi pecsét
-20074	Torony fegyverkovács
-20075	Torony páncélkovács
-20076	Torony ékszerész
-20077	Oltár Õr
-20078	Oltár Õr
-20079	Oltár Õr
-20080	Kiképzés vezetõ
-20081	Ellopott folyosói pecsét
+20072	Mennyei kÃ¶nny alkimista
+20073	Åsi pecsÃ©t
+20074	Torony fegyverkovÃ¡cs
+20075	Torony pÃ¡ncÃ©lkovÃ¡cs
+20076	Torony Ã©kszerÃ©sz
+20077	OltÃ¡r År
+20078	OltÃ¡r År
+20079	OltÃ¡r År
+20080	KikÃ©pzÃ©s vezetÅ‘
+20081	Ellopott folyosÃ³i pecsÃ©t
 20082	Mester
 20083	Jegal-Tunseok
-20084	Chaegirab biológus
+20084	Chaegirab biolÃ³gus
 20085	Jimjunja
 20086	Handu-Up
 20087	Wonda-Rim
@@ -1145,27 +1145,27 @@ VNUM	LOCALE_NAME
 20094	Hong-Hae
 20095	Seon-Hae
 20096	??? ???
-20097	Várkapu
-20098	Várkapu
-20099	Várkapu
-20101	Fehér ló
-20102	Barna ló
-20103	Fekete ló
-20104	Fehér ló
-20105	Barna ló
-20106	Fekete ló
-20107	Fehér ló
-20108	Barna ló
-20109	Fekete ló
+20097	VÃ¡rkapu
+20098	VÃ¡rkapu
+20099	VÃ¡rkapu
+20101	FehÃ©r lÃ³
+20102	Barna lÃ³
+20103	Fekete lÃ³
+20104	FehÃ©r lÃ³
+20105	Barna lÃ³
+20106	Fekete lÃ³
+20107	FehÃ©r lÃ³
+20108	Barna lÃ³
+20109	Fekete lÃ³
 20110	Vadkan
 20111	Farkas
 20112	Tigris
-20113	Oroszlán
+20113	OroszlÃ¡n
 20114	white lion
 20115	Harci Vadkan
 20116	Harci farkas
 20117	Vihar tigris
-20118	Harci oroszlán
+20118	Harci oroszlÃ¡n
 20119	NoNAme
 20120	?????
 20121	?????
@@ -1173,7 +1173,7 @@ VNUM	LOCALE_NAME
 20123	?????
 20124	?????
 20125	?????
-20126	Télapó
+20126	TÃ©lapÃ³
 20201	??????
 20202	??????
 20203	?????
@@ -1193,117 +1193,117 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
-20300	Testi küzdelem oktató
-20301	Mentális küzdelem oktató
-20302	Tõrharc oktató
-20303	Íjászat oktató
-20304	Mágikus fegyverek oktató
-20305	Fekete mágia oktató
-20306	Sárkány hatalom oktató
-20307	Gyógyítás oktató
-20320	Testi küzdelem oktató
-20321	Mentális küzdelem oktató
-20322	Tõrharc oktató
-20323	Íjászat oktató
-20324	Mágikus fegyverek oktató
-20325	Fekete mágia oktató
-20326	Sárkány hatalom oktató
-20327	Gyógyítás oktató
-20340	Testi küzdelem oktató
-20341	Mentális küzdelem oktató
-20342	Tõrharc oktató
-20343	Íjászat oktató
-20344	Mágikus fegyverek oktató
-20345	Fekete mágia oktató
-20346	Sárkány hatalom oktató
-20347	Gyógyítás oktató
-20348	Démon-torony õr
-20349	Lovászinas
-20350	Kazamata õr
-20351	Teremõr
-20352	Hasun emlékmû
-20353	Seul Rong emlékmû
-20354	Város õr
-20355	Kapitány
-20356	Ginzeng gyûjtõ
-20357	Weol emlékmû
-20358	Névtelen virág
-20359	Öreg doboz papírokkal
-20360	Wha emlékmû
-20361	Su emlékmû
-20362	Mok emlékmû
-20363	Gum emlékmû
+20220	Ä¹Â©Â¸Â®ËÅŸÂ¸Â¶ËÅŸ Ä½Å™Â·Ä
+20221	Å”Ã¼Â°Â©Ä…Ã©Å¼Å‘
+20222	Å”Ã¼Â°Â©Ä†Å‡Â´Å‘
+20223	Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20224	Å‚Â­Ä†Å™Ã‡Åƒ Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20225	Å¼Ã«Â¸ÃÃ‡Åƒ Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20226	ÄŒÄ‡Å”Å»Â´ÄÃ„Ãœ
+20227	Ä…Ã©Å”Å»Â´ÄÃ„Ãœ
+20300	Testi kÃ¼zdelem oktatÃ³
+20301	MentÃ¡lis kÃ¼zdelem oktatÃ³
+20302	TÅ‘rharc oktatÃ³
+20303	ÃjÃ¡szat oktatÃ³
+20304	MÃ¡gikus fegyverek oktatÃ³
+20305	Fekete mÃ¡gia oktatÃ³
+20306	SÃ¡rkÃ¡ny hatalom oktatÃ³
+20307	GyÃ³gyÃ­tÃ¡s oktatÃ³
+20320	Testi kÃ¼zdelem oktatÃ³
+20321	MentÃ¡lis kÃ¼zdelem oktatÃ³
+20322	TÅ‘rharc oktatÃ³
+20323	ÃjÃ¡szat oktatÃ³
+20324	MÃ¡gikus fegyverek oktatÃ³
+20325	Fekete mÃ¡gia oktatÃ³
+20326	SÃ¡rkÃ¡ny hatalom oktatÃ³
+20327	GyÃ³gyÃ­tÃ¡s oktatÃ³
+20340	Testi kÃ¼zdelem oktatÃ³
+20341	MentÃ¡lis kÃ¼zdelem oktatÃ³
+20342	TÅ‘rharc oktatÃ³
+20343	ÃjÃ¡szat oktatÃ³
+20344	MÃ¡gikus fegyverek oktatÃ³
+20345	Fekete mÃ¡gia oktatÃ³
+20346	SÃ¡rkÃ¡ny hatalom oktatÃ³
+20347	GyÃ³gyÃ­tÃ¡s oktatÃ³
+20348	DÃ©mon-torony Å‘r
+20349	LovÃ¡szinas
+20350	Kazamata Å‘r
+20351	TeremÅ‘r
+20352	Hasun emlÃ©kmÅ±
+20353	Seul Rong emlÃ©kmÅ±
+20354	VÃ¡ros Å‘r
+20355	KapitÃ¡ny
+20356	Ginzeng gyÅ±jtÅ‘
+20357	Weol emlÃ©kmÅ±
+20358	NÃ©vtelen virÃ¡g
+20359	Ã–reg doboz papÃ­rokkal
+20360	Wha emlÃ©kmÅ±
+20361	Su emlÃ©kmÅ±
+20362	Mok emlÃ©kmÅ±
+20363	Gum emlÃ©kmÅ±
 20364	Nakajima
-20365	To emlékmû
+20365	To emlÃ©kmÅ±
 20366	Sa-Soe
-20367	Katakomba õr
-20368	Házaló
+20367	Katakomba Å‘r
+20368	HÃ¡zalÃ³
 20369	Lee Chung
-20370	Mérgezett katona
-20371	Régi sírkõ
-20372	Viharvert kõtábla
-20373	Testõr
-20374	Õr
-20375	Fa barikád
+20370	MÃ©rgezett katona
+20371	RÃ©gi sÃ­rkÅ‘
+20372	Viharvert kÅ‘tÃ¡bla
+20373	TestÅ‘r
+20374	År
+20375	Fa barikÃ¡d
 20376	Kim Rim
 20377	Yak-Hwan
-20378	Angmur Admirális
-20379	Sérült katona
+20378	Angmur AdmirÃ¡lis
+20379	SÃ©rÃ¼lt katona
 20380	Yon-I-Walker
 20381	Konfuciusz
-20382	Sziklavirág
+20382	SziklavirÃ¡g
 20383	Jae-Seon Kim
-20384	Karácsonyfa
+20384	KarÃ¡csonyfa
 20385	Am-heh szurdok
-20386	Isfet emlékköve
-20387	Végzetzár
-20388	Sárkánykapu
+20386	Isfet emlÃ©kkÃ¶ve
+20387	VÃ©gzetzÃ¡r
+20388	SÃ¡rkÃ¡nykapu
 20389	NoNAme
-20390	Taramor sírköve
-20391	Nap-növény
+20390	Taramor sÃ­rkÃ¶ve
+20391	Nap-nÃ¶vÃ©ny
 20392	NoNAme
-20393	Sebesült katona
-20394	Tûzföld-õr
-20395	Jégföld-õr
+20393	SebesÃ¼lt katona
+20394	TÅ±zfÃ¶ld-Å‘r
+20395	JÃ©gfÃ¶ld-Å‘r
 30000	????
 30001	????
 30101	Kud szobra
 30102	Bazalt obeliszk
-30103	Teknõs szikla
-30104	Rúnahalom
-30111	1. Végzet-kapu
-30112	2. Végzet-kapu
-30113	3. Végzet-kapu
-30114	4. Végzet-kapu
-30115	5. Végzet-kapu
-30116	6. Végzet-kapu
-30117	7. Végzet-kapu
-30118	8. Végzet-kapu
-30119	9. Végzet-kapu
-30120	Gyógyfû Táska
+30103	TeknÅ‘s szikla
+30104	RÃºnahalom
+30111	1. VÃ©gzet-kapu
+30112	2. VÃ©gzet-kapu
+30113	3. VÃ©gzet-kapu
+30114	4. VÃ©gzet-kapu
+30115	5. VÃ©gzet-kapu
+30116	6. VÃ©gzet-kapu
+30117	7. VÃ©gzet-kapu
+30118	8. VÃ©gzet-kapu
+30119	9. VÃ©gzet-kapu
+30120	GyÃ³gyfÅ± TÃ¡ska
 30121	Egy Sura szelleme
 30122	Egy Harcos szelleme
-30123	Sötét Oltár
-30124	Sura-Csontváz 1
-30125	Sura-Csontváz 2
-30126	Sura-Csontváz 3
-30127	Sura-Csontváz 4
-30128	Sura-Csontváz 5
-30129	Húsvéti Nyúl
-30130	Sírkõ
-30301	Lélekkristály-ér
-30302	Rubin-ér
-30303	Gránát-ér
-30304	Smaragd-ér
-30305	Zafír-ér
+30123	SÃ¶tÃ©t OltÃ¡r
+30124	Sura-CsontvÃ¡z 1
+30125	Sura-CsontvÃ¡z 2
+30126	Sura-CsontvÃ¡z 3
+30127	Sura-CsontvÃ¡z 4
+30128	Sura-CsontvÃ¡z 5
+30129	HÃºsvÃ©ti NyÃºl
+30130	SÃ­rkÅ‘
+30301	LÃ©lekkristÃ¡ly-Ã©r
+30302	Rubin-Ã©r
+30303	GrÃ¡nÃ¡t-Ã©r
+30304	Smaragd-Ã©r
+30305	ZafÃ­r-Ã©r
 33001	?????? ???
 33002	NoNAme
 33003	NoNAme
@@ -1311,25 +1311,25 @@ VNUM	LOCALE_NAME
 33005	NoNAme
 33006	NoNAme
 33007	NoNAme
-33008	Sütõtök Jack
+33008	SÃ¼tÅ‘tÃ¶k Jack
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ä†Ã„ÄŒË›
 34005	Porky
 34006	Rufusz
-34007	Kán
-34008	Leonidász
-34009	ÆÄÈ²
+34007	KÃ¡n
+34008	LeonidÃ¡sz
+34009	Ä†Ã„ÄŒË›
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
-33009	Lélekkristály kohó
-33010	Rubin kohó
-33011	Gránát kohó
-33012	Smaragd kohó
-33013	Zafír kohó
+34011	Ä¾Ä†Â±Ã¢ Ä…Ã©Â°Å‘
+34012	Ä¾Ä†Â±Ã¢ Ä†Å‡Â´Å‘
+34013	ÅŸÃ“Å”ÅŸÂµÂµÅ”Å±Â´ÃœÄ¾Ã–Â±Ã¢Å”ÄºÄ½Ã¶
+34014	ÅŸÃ“Å”ÅŸÂµÂµÅ”Å±Â´ÃœÄŒË›Â±ÃÄ¾Ã–Â±Ã¢Å”ÄºÄ½Ã¶
+34015	Ã‡Å‡Â·ÃÅ”Â©Â»Å”Â°Â­Ä¾Ä†ÃÃ¶
+34016	Å‚Ä›Å¼Â°ÅŸÅ‡Â»Ã§ÃÂ¶
+33009	LÃ©lekkristÃ¡ly kohÃ³
+33010	Rubin kohÃ³
+33011	GrÃ¡nÃ¡t kohÃ³
+33012	Smaragd kohÃ³
+33013	ZafÃ­r kohÃ³

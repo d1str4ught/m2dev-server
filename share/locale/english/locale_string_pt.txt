@@ -1,2285 +1,2285 @@
-"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Em breve todos os jogadores serão teleportados para a cidade.";
+"ì ì‹œí›„ í•´ë‹¹ ë§ˆì„ì€  ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Em breve todos os jogadores serÃ£o teleportados para a cidade.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
-"Este Item não existe.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ì•„ì´í…œ ì…ë‹ˆë‹¤";
+"Este Item nÃ£o existe.";
 
-"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
+"ìƒìê°€ ê°‘ìê¸° í­ë°œí•˜ì˜€ìŠµë‹ˆë‹¤! ìƒëª…ë ¥ì´ ê°ì†Œí–ˆìŠµë‹ˆë‹¤.";
 "A caixa explodiu de repente! Perdeste Pontos de Vida (VD).";
 
-"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
-"Se respirares o fumo verde que vem da caixa, o veneno irá espalhar-se pelo teu corpo.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë…¹ìƒ‰ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ë…ì´ ì˜¨ëª¸ìœ¼ë¡œ í¼ì§‘ë‹ˆë‹¤!";
+"Se respirares o fumo verde que vem da caixa, o veneno irÃ¡ espalhar-se pelo teu corpo.";
 
-"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
+"%s ì•„ì´í…œ ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤";
 "Encontraste %s na caixa. A caixa continha %d.";
 
-"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
-"A caixa contém %s.";
+"ìƒìì—ì„œ %s ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"A caixa contÃ©m %s.";
 
-"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
-"Esta Chave parece não corresponder à fechadura.";
+"ì—´ì‡ ê°€ ë§ì§€ ì•ŠëŠ” ê²ƒ ê°™ë‹¤.";
+"Esta Chave parece nÃ£o corresponder Ã  fechadura.";
 
-"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
-"Não recebeste nada.";
+"ì•„ë¬´ê²ƒë„ ì–»ì„ ìˆ˜ ì—†ì—ˆìŠµë‹ˆë‹¤.";
+"NÃ£o recebeste nada.";
 
-"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Não tens Yang suficiente para usar este Item!";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NÃ£o tens Yang suficiente para usar este Item!";
 
-"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não tens Yang suficiente para usar este Item!";
+"ì†Œì§€ê¸ˆì´ ë¶€ì¡±í•˜ì—¬ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o tens Yang suficiente para usar este Item!";
 
-"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"O teu Nível de Habilidade diminuiu.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦¬ëŠ”ë° ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"O teu NÃ­vel de Habilidade diminuiu.";
 
-"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
-"Não podes diminuir o teu Nível de Habilidade.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes diminuir o teu NÃ­vel de Habilidade.";
 
-"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
-"O efeito já está em acção.";
+"ì´ë¯¸ íš¨ê³¼ê°€ ê±¸ë ¤ ìˆìŠµë‹ˆë‹¤.";
+"O efeito jÃ¡ estÃ¡ em acÃ§Ã£o.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Este Item só poderá ser usado num CyberCafé.";
+"ì´ ì•„ì´í…œì€ PCë°©ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Este Item sÃ³ poderÃ¡ ser usado num CyberCafÃ©.";
 
-"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
+"ì‚¬ìš© ì œí•œëŸ‰ì„ ì´ˆê³¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Isso ultrapassa o limite.";
 
-"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
-"Infelizmente não tens espaço suficiente no teu inventário.";
+"ìƒí’ˆì„ ë°›ì„ ì¸ë²¤í† ë¦¬ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ë¥¼ ë¹„ì›Œì£¼ì„¸ìš”!";
+"Infelizmente nÃ£o tens espaÃ§o suficiente no teu inventÃ¡rio.";
 
-"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
+"ì›”ë³‘ ë˜ëŠ” ì¢…ì ë¥¼ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤";
 "Usaste Bolo Lua ou Sementes.";
 
-"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar uma Aliança se não fores casado.";
+"ê²°í˜¼ ìƒíƒœê°€ ì•„ë‹ˆë©´ ê²°í˜¼ë°˜ì§€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar uma AlianÃ§a se nÃ£o fores casado.";
 
-"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Não poderás usar o Detector de Eventos a partir desta posição.";
+"ì´ ê³³ì—ì„  ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"NÃ£o poderÃ¡s usar o Detector de Eventos a partir desta posiÃ§Ã£o.";
 
-"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Este item não pode ser absorvido.";
+"ì´ ê°œëŸ‰ì„œë¡œ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este item nÃ£o pode ser absorvido.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "O Detector de Eventos desapareceu emitindo uma luz misteriosa!";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "O Detector de Eventos desapareceu!";
 
-"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"A Bússola de Pedras Metin não funciona em locais fechados.";
+"ì´ ê³³ì—ì„œ ì˜ì„ ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"A BÃºssola de Pedras Metin nÃ£o funciona em locais fechados.";
 
-"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"A Bússola de Pedras Metin desapareceu emitindo uma luz misteriosa!";
+"ì˜ì„ ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A BÃºssola de Pedras Metin desapareceu emitindo uma luz misteriosa!";
 
-"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
+"ìƒìì—ì„œ %s ê°€ %d ê°œ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
 "Recebes: %s - %d";
 
-"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"A Bússola de Pedras Metin desapareceu.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"A BÃºssola de Pedras Metin desapareceu.";
 
-"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
-"Está uma Pedra no interior da Ostra.";
+"ì¡°ê°œì—ì„œ ëŒì¡°ê°ì´ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ uma Pedra no interior da Ostra.";
 
-"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"ì¡°ê°œê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "A Ostra desapareceu.";
 
-"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"Está uma Pérola Branca dentro da Ostra!";
+"ì¡°ê°œì—ì„œ ë°±ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ uma PÃ©rola Branca dentro da Ostra!";
 
-"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"Está uma Pérola Azul dentro da Ostra!";
+"ì¡°ê°œì—ì„œ ì²­ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ uma PÃ©rola Azul dentro da Ostra!";
 
-"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"Está uma Pérola Vermelha dentro da Ostra!";
+"ì¡°ê°œì—ì„œ í”¼ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ uma PÃ©rola Vermelha dentro da Ostra!";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
-"Não é fácil compreender este Livro.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œ ì´í•´í•˜ê¸°ê°€ í˜ë“­ë‹ˆë‹¤.";
+"NÃ£o Ã© fÃ¡cil compreender este Livro.";
 
-"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Este Livro não te irá ajudar!";
+"ì´ ì±…ì€ ì•„ë¬´ë¦¬ ë´ë„ ë„ì›€ì´ ë  ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Este Livro nÃ£o te irÃ¡ ajudar!";
 
-"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Precisas de ter pelo menos Nível 30 para compreenderes este livro.";
+"ë ˆë²¨ 30ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Precisas de ter pelo menos NÃ­vel 30 para compreenderes este livro.";
 
-"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Precisas de ter pelo menos nível 50 para compreenderes este livro.";
+"ë ˆë²¨ 50ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Precisas de ter pelo menos nÃ­vel 50 para compreenderes este livro.";
 
-"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes treinar mais Combos!";
+"ì—°ê³„ê¸°ëŠ” ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes treinar mais Combos!";
 
-"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
+"%s ê¸¸ë“œì˜ ê¹ƒë°œì„ %s ë‹˜ì´ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "A Guild %s capturou a bandeira da Guild %s!";
 
-"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
-"Já falas esta língua fluentemente.";
+"ì´ë¯¸ ì™„ë²½í•˜ê²Œ ì•Œì•„ë“¤ì„ ìˆ˜ ìˆëŠ” ì–¸ì–´ì´ë‹¤.";
+"JÃ¡ falas esta lÃ­ngua fluentemente.";
 
-"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
-"Tens de aumentar o teu Nível para que possas compreender este Livro!";
+"ì´ ì±…ì„ ì½ìœ¼ë ¤ë©´ ë ˆë²¨ì„ ë” ì˜¬ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Tens de aumentar o teu NÃ­vel para que possas compreender este Livro!";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Este Livro é demasiado difícil de compreender!";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œì„œ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este Livro Ã© demasiado difÃ­cil de compreender!";
 
-"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não poderás treinar mais com este Livro!";
+"ì´ ì±…ìœ¼ë¡œëŠ” ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o poderÃ¡s treinar mais com este Livro!";
 
-"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
-"Os impostos estão definidos nos %d%%.";
+"ì„¸ê¸ˆì´ %d %ë¡œ ì„¤ì •ë˜ì—ˆìŠµë‹ˆë‹¤";
+"Os impostos estÃ£o definidos nos %d%%.";
 
-"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
-"Precisas de ter no mínimo Nível 50 para treinar a Arte de Equitação.";
+"ì•„ì§ ìŠ¹ë§ˆ ìŠ¤í‚¬ì„ ìˆ˜ë ¨í•  ìˆ˜ ìˆëŠ” ë ˆë²¨ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Precisas de ter no mÃ­nimo NÃ­vel 50 para treinar a Arte de EquitaÃ§Ã£o.";
 
-"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
-"Escapaste à Maldição do Espírito Malvado com a ajuda de um Pergaminho do Exorcismo.";
+"ì£¼ì•ˆìˆ ì„œë¥¼ í†µí•´ ì£¼í™”ì…ë§ˆì—ì„œ ë¹ ì ¸ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Escapaste Ã  MaldiÃ§Ã£o do EspÃ­rito Malvado com a ajuda de um Pergaminho do Exorcismo.";
 
-"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Não podes ler mais Livros Arte de Equitação.";
+"ë” ì´ìƒ ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes ler mais Livros Arte de EquitaÃ§Ã£o.";
 
-"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Recebeste Pontos de Equitação depois de ler o Livro Arte de Equitação.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì–´ ìŠ¹ë§ˆ ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"Recebeste Pontos de EquitaÃ§Ã£o depois de ler o Livro Arte de EquitaÃ§Ã£o.";
 
-"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
-"Poderás aumentar o Nível das tuas Habilidades de Equitação com os Pontos recebidos.";
+"ì–»ì€ í¬ì¸íŠ¸ë¡œëŠ” ìŠ¹ë§ˆ ìŠ¤í‚¬ì˜ ë ˆë²¨ì„ ì˜¬ë¦´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"PoderÃ¡s aumentar o NÃ­vel das tuas Habilidades de EquitaÃ§Ã£o com os Pontos recebidos.";
 
-"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì˜ ê¹ƒë°œì„ ë¹¼ì•—ì•˜ìŠµë‹ˆë‹¤!";
 "A bandeira da Guild %s foi capturada pelo jogador %s.";
 
-"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Não compreendeste o Livro Arte de Equitação.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œ ì´í•´ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"NÃ£o compreendeste o Livro Arte de EquitaÃ§Ã£o.";
 
-"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
-"A tua mente está limpa. Podes agora concentrar-te.";
+"ë§ˆìŒì´ ë§‘ì•„ì§€ëŠ”êµ°. ê°€ìŠ´ì„ ì§“ëˆ„ë¥´ë˜ ë¬´ì–¸ê°€ê°€ ì¢€ ê°€ë²¼ì›Œì§„ ëŠë‚Œì´ì•¼.";
+"A tua mente estÃ¡ limpa. Podes agora concentrar-te.";
 
-"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
+"ì„ ì•…ì¹˜ê°€ %d ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "O teu Karma aumentou %d pontos.";
 
-"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
-"Não podes pintar ou branquear o teu estilo de cabelo actual.";
+"í˜„ì¬ í—¤ì–´ìŠ¤íƒ€ì¼ì—ì„œëŠ” ì—¼ìƒ‰ê³¼ íƒˆìƒ‰ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"NÃ£o podes pintar ou branquear o teu estilo de cabelo actual.";
 
-"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
-"Tens de atingir o Nível %d para poderes pintar o teu cabelo novamente.";
+"%d ë ˆë²¨ì´ ë˜ì–´ì•¼ ë‹¤ì‹œ ì—¼ìƒ‰í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tens de atingir o NÃ­vel %d para poderes pintar o teu cabelo novamente.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Este Item só pode ser aberto por um membro do sexo oposto.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este Item sÃ³ pode ser aberto por um membro do sexo oposto.";
 
-"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar isto a partir da tua localização actual.";
+"í˜„ì¬ ìœ„ì¹˜ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar isto a partir da tua localizaÃ§Ã£o actual.";
 
-"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
-"Já estás preparado para te teleportares, por isso não podes usar o Pergaminho do Retorno.";
+"ì´ë™í•  ì¤€ë¹„ê°€ ë˜ì–´ìˆìŒìœ¼ë¡œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"JÃ¡ estÃ¡s preparado para te teleportares, por isso nÃ£o podes usar o Pergaminho do Retorno.";
 
-"¿ø·¡ À§Ä¡·Î º¹±Í";
+"ì›ë˜ ìœ„ì¹˜ë¡œ ë³µê·€";
 "Foste enviado de novo para o local de origem.";
 
-"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%s%s não pode ser usado(a) numa Caverna.";
+"ë˜ì „ ì•ˆì—ì„œëŠ” %s%s ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s%s nÃ£o pode ser usado(a) numa Caverna.";
 
-"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"[Missão] Tu já recebeste a tua recompensa.";
+"<í€˜ìŠ¤íŠ¸> ì´ì „ì— ê°™ì€ ë³´ìƒì„ ë°›ì€ ì ì´ ìˆì–´ ë‹¤ì‹œ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[MissÃ£o] Tu jÃ¡ recebeste a tua recompensa.";
 
-"À»";
+"ì„";
 "o";
 
-"¸¦";
+"ë¥¼";
 "o";
 
-"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
-"Não há Pedaços de Pedras Partidas para retirar.";
+"ì²­ì†Œí•  ì„ì´ ë°•í˜€ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ PedaÃ§os de Pedras Partidas para retirar.";
 
-"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Não podes mudar o melhoramento deste Item.";
+"ì†ì„±ì„ ë³€ê²½í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"NÃ£o podes mudar o melhoramento deste Item.";
 
-"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
-"Não tens melhoramentos que possas alterar.";
+"ë³€ê²½í•  ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o tens melhoramentos que possas alterar.";
 
-"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
-"Só podes fazer isto %d Minutos depois de um melhoramento. (Faltam %d Minutos)";
+"ì†ì„±ì„ ë°”ê¾¼ì§€ %dë¶„ ì´ë‚´ì—ëŠ” ë‹¤ì‹œ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%d ë¶„ ë‚¨ìŒ)";
+"SÃ³ podes fazer isto %d Minutos depois de um melhoramento. (Faltam %d Minutos)";
 
-"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
+"ì†ì„±ì„ ë³€ê²½í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Alteraste o melhoramento.";
 
-"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ì†ì„± ì¶”ê°€ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Melhoramento bem sucedido.";
 
-"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"O Melhoramento não foi bem sucedido.";
+"ì†ì„± ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"O Melhoramento nÃ£o foi bem sucedido.";
 
-"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Terás de usar o Mármore da Bênção para adicionares outros bónus neste item.";
+"ë”ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TerÃ¡s de usar o MÃ¡rmore da BÃªnÃ§Ã£o para adicionares outros bÃ³nus neste item.";
 
-"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar isto na arena.";
+"ëŒ€ë ¨ì¥ì—ì„œ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar isto na arena.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Este item já não pode ser melhorado. Já possui o número máximo de bónus possível.";
+"ë” ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este item jÃ¡ nÃ£o pode ser melhorado. JÃ¡ possui o nÃºmero mÃ¡ximo de bÃ³nus possÃ­vel.";
 
-"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
-"Só podes usar o Mármore da Bênção num item que já possua 4 bónus.";
+"ë¨¼ì € ì¬ê°€ë¹„ì„œë¥¼ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€ì‹œì¼œ ì£¼ì„¸ìš”.";
+"SÃ³ podes usar o MÃ¡rmore da BÃªnÃ§Ã£o num item que jÃ¡ possua 4 bÃ³nus.";
 
-"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
+"ì†Œì¼“ì´ ì„±ê³µì ìœ¼ë¡œ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "Socket adicionado com sucesso.";
 
-"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"O Socket não pôde ser adicionado.";
+"ì†Œì¼“ ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"O Socket nÃ£o pÃ´de ser adicionado.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Neste Item não podem ser adicionados mais Sockets.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì†Œì¼“ì„ ì¶”ê°€í•  ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Neste Item nÃ£o podem ser adicionados mais Sockets.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Não podes adicionar um Socket a este Item.";
+"ì´ ì•„ì´í…œìœ¼ë¡œ ì†Œì¼“ì„ ì¶”ê°€í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"NÃ£o podes adicionar um Socket a este Item.";
 
-"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ì¥ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Arma equipada com sucesso.";
 
-"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Não foi possível equipar a arma.";
+"ì¥ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"NÃ£o foi possÃ­vel equipar a arma.";
 
-"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"ë¨¼ì € ë‹¤ì´ì•„ëª¬ë“œë¡œ ì•…ì„¸ì„œë¦¬ì— ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
 "Precisas de usar um Diamante para adicionar um Socket.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
-"Não há Sockets com minérios refinados.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì¥ì°©í•  ì†Œì¼“ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ Sockets com minÃ©rios refinados.";
 
-"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Podes fazer isto quando estiveres a usar uma Máscara de Emoções.";
+"ì—´ì •ì˜ ê°€ë©´ì„ ì°©ìš©ì‹œì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Podes fazer isto quando estiveres a usar uma MÃ¡scara de EmoÃ§Ãµes.";
 
-"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"ë‹¤ì´ì•„ëª¬ë“œë¡œ ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
 "Tens de adicionar um Socket se quiseres usar um Diamante.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podem ser adicionados mais minérios refinados.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ë³´ì„ì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podem ser adicionados mais minÃ©rios refinados.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Estes Items não podem ser usados ao mesmo tempo.";
+"ì´ ì•„ì´í…œì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Estes Items nÃ£o podem ser usados ao mesmo tempo.";
 
-"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Não podes mudar o isco enquanto pescas.";
+"ë‚šì‹œ ì¤‘ì— ë¯¸ë¼ë¥¼ ê°ˆì•„ë¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes mudar o isco enquanto pescas.";
 
-"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
+"ì´ë¯¸ ê½‚í˜€ìˆë˜ ë¯¸ë¼ë¥¼ ë¹¼ê³  %së¥¼ ë¼ì›ë‹ˆë‹¤.";
 "Alteraste o teu isco actual por %s.";
 
-"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
+"ë‚šì‹œëŒ€ì— %së¥¼ ë¯¸ë¼ë¡œ ë¼ì›ë‹ˆë‹¤.";
 "Prendeste um isco - %s - ao anzol.";
 
-"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Não tens todos os materiais necessários para preparar a Poção";
+"ë¬¼ì•½ ì¡°í•©ì„ ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NÃ£o tens todos os materiais necessÃ¡rios para preparar a PoÃ§Ã£o";
 
-"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Não tens materiais suficientes (%s).";
+"ì¬ë£Œ(%s)ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NÃ£o tens materiais suficientes (%s).";
 
-"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
-"Não tens Garrafas Vazias suficientes.";
+"ë¹ˆ ë³‘ì´ ëª¨ìë¦…ë‹ˆë‹¤.";
+"NÃ£o tens Garrafas Vazias suficientes.";
 
-"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"A mistura da Poção não foi bem sucedida.";
+"ë¬¼ì•½ ì œì¡°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"A mistura da PoÃ§Ã£o nÃ£o foi bem sucedida.";
 
-"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"ì—¬ìë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Apenas mulheres podem fazer isto.";
 
-"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes adicionar várias Pedras do mesmo tipo.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ë©”í‹´ì„ì€ ì—¬ëŸ¬ê°œ ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes adicionar vÃ¡rias Pedras do mesmo tipo.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Esta Pedra Espírita não pode ser adicionada a este tipo de item.";
+"ì´ ë©”í‹´ì„ì€ ì¥ë¹„ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Esta Pedra EspÃ­rita nÃ£o pode ser adicionada a este tipo de item.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes adicionar esta Pedra Espírita a uma arma.";
+"ì´ ë©”í‹´ì„ì€ ë¬´ê¸°ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes adicionar esta Pedra EspÃ­rita a uma arma.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Adicionaste a Pedra Espírita com sucesso.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Adicionaste a Pedra EspÃ­rita com sucesso.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A Pedra Espírita partiu-se enquanto a tentavas adicionar.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A Pedra EspÃ­rita partiu-se enquanto a tentavas adicionar.";
 
-"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
-"Não há Slots livres.";
+"ë¶€ì°©í•  ìˆ˜ ìˆëŠ” ìŠ¬ë¡¯ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ Slots livres.";
 
-"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Neste momento não te podes teleportar para o teu cônjuge.";
+"ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Neste momento nÃ£o te podes teleportar para o teu cÃ´njuge.";
 
-"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar um Pergaminho do Retorno durante uma Guerra dos Reinos.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ ì°¸ê°€ì¤‘ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar um Pergaminho do Retorno durante uma Guerra dos Reinos.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Depois de abrires o Armazém não podes usar um Pergaminho do Retorno durante %d segundos.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Depois de abrires o ArmazÃ©m nÃ£o podes usar um Pergaminho do Retorno durante %d segundos.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar um Pergaminho do Retorno enquanto outra janela estiver aberta.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar um Pergaminho do Retorno enquanto outra janela estiver aberta.";
 
-"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
-"Esta pessoa não existe.";
+"ê·¸ëŸ° ì‚¬ëŒì´ ì—†ìŠµë‹ˆë‹¤.";
+"Esta pessoa nÃ£o existe.";
 
-"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar um Pergaminho %d segundos após uma negociação.";
+"ì•„ì´í…œ ê°œëŸ‰í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar um Pergaminho %d segundos apÃ³s uma negociaÃ§Ã£o.";
 
-"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Depois de abrires um armazém não podes usar um Pergaminho do Retorno durante %d segundos.";
+"ê°œì¸ìƒì  ì‚¬ìš©í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Depois de abrires um armazÃ©m nÃ£o podes usar um Pergaminho do Retorno durante %d segundos.";
 
-"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar o Pergaminho do Retorno porque a distância é demasiado pequena.";
+"ì´ë™ ë˜ì–´ì§ˆ ìœ„ì¹˜ì™€ ë„ˆë¬´ ê°€ê¹Œì›Œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar o Pergaminho do Retorno porque a distÃ¢ncia Ã© demasiado pequena.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Depois de negociares não podes usar um Pergaminho do Retorno durante %d segundos.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë“±ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Depois de negociares nÃ£o podes usar um Pergaminho do Retorno durante %d segundos.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Não podes abrir o Armazém enquanto estiver outra janela aberta.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë³´ë”°ë¦¬,ë¹„ë‹¨ë³´ë”°ë¦¬ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes abrir o ArmazÃ©m enquanto estiver outra janela aberta.";
 
-"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Não podes largar este Item.";
+"ë²„ë¦´ ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"NÃ£o podes largar este Item.";
 
-"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
-"O item caído irá desaparecer dentro de 5 minutos.";
+"ë–¨ì–´ì§„ ì•„ì´í…œì€ 3ë¶„ í›„ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"O item caÃ­do irÃ¡ desaparecer dentro de 5 minutos.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s";
+"ì•„ì´í…œ íšë“: %s";
 "Recebeste %s";
 
-"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
-"Tens demasiados Itens no teu inventário.";
+"ì†Œì§€í•˜ê³  ìˆëŠ” ì•„ì´í…œì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤.";
+"Tens demasiados Itens no teu inventÃ¡rio.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
+"ì•„ì´í…œ íšë“: %s ë‹˜ìœ¼ë¡œë¶€í„° %s";
 "%s recebe %s.";
 
-"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Dentro em breve todas as pessoas serão teleportadas para a cidade escolhida.";
+"ì ì‹œí›„ ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Dentro em breve todas as pessoas serÃ£o teleportadas para a cidade escolhida.";
 
-"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
-"Estás demasiado próximo.";
+"ë„ˆë¬´ ê°€ê¹Œì´ ìˆìŠµë‹ˆë‹¤.";
+"EstÃ¡s demasiado prÃ³ximo.";
 
-"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
+"ì•„ì´í…œ ì „ë‹¬: %s ë‹˜ì—ê²Œ %s";
 "Item negociado por: %s, %s";
 
-"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes mudar os Itens equipados enquanto estiveres transformado.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ì°©ìš©ì¤‘ì¸ ì¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes mudar os Itens equipados enquanto estiveres transformado.";
 
-"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tens de permanecer imóvel para equipar o Item.";
+"ê°€ë§Œíˆ ìˆì„ ë•Œë§Œ ì°©ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tens de permanecer imÃ³vel para equipar o Item.";
 
-"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes alimentar um Cavalo vivo com Ervas. Apenas servem para ressuscitar Cavalos mortos.";
+"ì£½ì§€ ì•Šì€ ë§ì—ê²Œ ì„ ì´ˆë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes alimentar um Cavalo vivo com Ervas. Apenas servem para ressuscitar Cavalos mortos.";
 
-"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes alimentar um Cavalo morto.";
+"ì£½ì€ ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes alimentar um Cavalo morto.";
 
-"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ ì„ ì´ˆë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Alimentaste o Cavalo com Ervas.";
 
-"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Alimentaste o Cavalo.";
 
-"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
-"O teu Nível é demasiado baixo para usares este estilo de cabelo.";
+"ì•„ì§ ì´ ë¨¸ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ë ˆë²¨ì…ë‹ˆë‹¤.";
+"O teu NÃ­vel Ã© demasiado baixo para usares este estilo de cabelo.";
 
-"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tu já estás a usar este estilo de cabelo.";
+"ë™ì¼í•œ ë¨¸ë¦¬ ìŠ¤íƒ€ì¼ë¡œëŠ” êµì²´í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tu jÃ¡ estÃ¡s a usar este estilo de cabelo.";
 
-"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
-"Já estás transformado.";
+"ì´ë¯¸ ë‘”ê°‘ì¤‘ì¸ ìƒíƒœì…ë‹ˆë‹¤.";
+"JÃ¡ estÃ¡s transformado.";
 
-"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
-"Estás demasiado longe.";
+"ë„ˆë¬´ ë©€ë¦¬ ìˆìŠµë‹ˆë‹¤";
+"EstÃ¡s demasiado longe.";
 
-"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Esse Item não pertence ao negócio.";
+"ì˜ëª»ëœ ë‘”ê°‘ ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Esse Item nÃ£o pertence ao negÃ³cio.";
 
-"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não te podes transformar num monstro que tenha um Nível acima do teu.";
+"ë‚˜ë³´ë‹¤ ë„ˆë¬´ ë†’ì€ ë ˆë²¨ì˜ ëª¬ìŠ¤í„°ë¡œëŠ” ë³€ì‹  í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o te podes transformar num monstro que tenha um NÃ­vel acima do teu.";
 
-"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"O teu Nível é demasiado baixo para equipares isto.";
+"ë ˆë²¨ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"O teu NÃ­vel Ã© demasiado baixo para equipares isto.";
 
-"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não és suficientemente forte para equipares este item.";
+"ê·¼ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o Ã©s suficientemente forte para equipares este item.";
 
-"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A tua Inteligência é demasiado baixa para equipares isto.";
+"ì§€ëŠ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A tua InteligÃªncia Ã© demasiado baixa para equipares isto.";
 
-"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A tua Destreza é demasiado baixa para equipares isto.";
+"ë¯¼ì²©ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A tua Destreza Ã© demasiado baixa para equipares isto.";
 
-"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A tua Vitalidade é demasiado baixa para equipares isto.";
+"ì²´ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A tua Vitalidade Ã© demasiado baixa para equipares isto.";
 
-"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar este Item se não fores casado.";
+"ê²°í˜¼í•˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ ì˜ˆë¬¼ì„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar este Item se nÃ£o fores casado.";
 
-"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes equipar este Item duas vezes.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ìœ ë‹ˆí¬ ì•„ì´í…œ ë‘ ê°œë¥¼ ë™ì‹œì— ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes equipar este Item duas vezes.";
 
-"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
-"Tempo restante até à remoção do Socket de %s: %d";
+"%s ì—ì„œ ì†Œì¼“ ë¹ ì§ˆë•Œê¹Œì§€ ë‚¨ì€ ì‹œê°„ %d";
+"Tempo restante atÃ© Ã  remoÃ§Ã£o do Socket de %s: %d";
 
-"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"ì´ì„±ê°„ì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Isto apenas pode ser feito com um jogador de outro sexo.";
 
-"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
+"%sì— ë°•í˜€ìˆë˜ ë³´ì„ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "Desapareceu uma joia encaixada em %s.";
 
-"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
-"[Guild] O Nome da Guild é inválido.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ì´ë¦„ì´ ì í•©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Guild] O Nome da Guild Ã© invÃ¡lido.";
 
-"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
-"[Guild] Este Nome de Guild já está em uso.";
+"<ê¸¸ë“œ> ì´ë¯¸ ê°™ì€ ì´ë¦„ì˜ ê¸¸ë“œê°€ ìˆìŠµë‹ˆë‹¤.";
+"[Guild] Este Nome de Guild jÃ¡ estÃ¡ em uso.";
 
-"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Não podes criar uma Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes criar uma Guild.";
 
-"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
-"A Guild %s declarou Guerra à Guild %s!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì— ì„ ì „í¬ê³ ë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"A Guild %s declarou Guerra Ã  Guild %s!";
 
-"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
+"<ê¸¸ë“œ> %s ê¸¸ë“œê°€ ê¸¸ë“œì „ì„ ê±°ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "[Guild] A Guild %s rejeitou a Guerra.";
 
-"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
-"A Guerra entre as Guilds %s e %s começará dentro de alguns segundos!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì ì‹œ í›„ ì „ìŸì„ ì‹œì‘í•©ë‹ˆë‹¤!";
+"A Guerra entre as Guilds %s e %s comeÃ§arÃ¡ dentro de alguns segundos!";
 
-"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
-"A Guerra entre as Guilds %s e %s começou!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì „ìŸì„ ì‹œì‘í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"A Guerra entre as Guilds %s e %s comeÃ§ou!";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ë¬´ìŠ¹ë¶€ë¡œ ëë‚¬ìŠµë‹ˆë‹¤.";
 "A Guerra entre as Guilds %s e %s terminou com um empate.";
 
-"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì™€ì˜ ì „ìŸì—ì„œ ìŠ¹ë¦¬ í–ˆìŠµë‹ˆë‹¤.";
 "A Guild %s venceu a Guerra contra a Guild %s .";
 
-"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
-"Para isto necessitas da confirmação do teu parceiro.";
+"ì´ í–‰ë™ì€ ìƒí˜¸ë™ì˜ í•˜ì— ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Para isto necessitas da confirmaÃ§Ã£o do teu parceiro.";
 
-"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "[Guild] A Guerra foi cancelada.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.";
 "A Guerra entre as Guilds %s e %s foi cancelada.";
 
-"´İ±â";
+"ë‹«ê¸°";
 "Fechar";
 
-"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Acção cancelada. Entraste em combate.";
+"ì „íˆ¬ê°€ ì‹œì‘ ë˜ì–´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"AcÃ§Ã£o cancelada. Entraste em combate.";
 
-"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
-"Alguém ligou-se na tua conta. Irás ser desconectado.";
+"ë‹¤ë¥¸ ì»´í“¨í„°ì—ì„œ ë¡œê·¸ì¸ í•˜ì—¬ ì ‘ì†ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤.";
+"AlguÃ©m ligou-se na tua conta. IrÃ¡s ser desconectado.";
 
-"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Uma luz misteriosa emerge da árvore.";
+"ë‚˜ë¬´ì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Uma luz misteriosa emerge da Ã¡rvore.";
 
-"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
-"%d de Tempo de Jogo acrescentado à tua conta. (número de pagamento %d)";
+"%dë¶„ì˜ ê²°ì œì‹œê°„ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. (ê²°ì œë²ˆí˜¸ %d)";
+"%d de Tempo de Jogo acrescentado Ã  tua conta. (nÃºmero de pagamento %d)";
 
-"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"ê´€ì „ ëª¨ë“œë¡œ ê¸¸ë“œì „ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
 "Podes participar na Guerra de Guilds em Modo Observador.";
 
-"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
-"Para saíres poderás clicar no botão <Acabar com o modo observação>.";
+"ìì‹ ì„ ì„ íƒí•˜ì‹œë©´ ë°–ìœ¼ë¡œ ë‚˜ê°ˆ ìˆ˜ ìˆëŠ” <ê´€ëŒ ì¢…ë£Œ> ë²„íŠ¼ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Para saÃ­res poderÃ¡s clicar no botÃ£o <Acabar com o modo observaÃ§Ã£o>.";
 
-"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
-"Não há Inimigos.";
+"ê¸¸ë“œì „ì— ì°¸ê°€í•œ ìƒëŒ€ë°© ê¸¸ë“œì›ì´ ì•„ë¬´ë„ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ Inimigos.";
 
-"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
-"A batalha com %s começou!";
+"%së‹˜ê³¼ì˜ ëŒ€ê²° ì‹œì‘!";
+"A batalha com %s comeÃ§ou!";
 
-"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
-"Se nenhum Inimigo puder ser encontrado a Guerra de Guilds irá terminar automaticamente.";
+"1ë¶„ ì´ë‚´ì— ì•„ë¬´ë„ ì ‘ì†í•˜ì§€ ì•Šìœ¼ë©´ ê¸¸ë“œì „ì´ ìë™ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Se nenhum Inimigo puder ser encontrado a Guerra de Guilds irÃ¡ terminar automaticamente.";
 
-"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
-"Uma vez que a Guerra de Guilds terminou antecipadamente, será decidida como um Empate.";
+"ê¸¸ë“œì „ì´ ì¼ì° ì¢…ë£Œë˜ì–´ ë¬´ìŠ¹ë¶€ë¡œ íŒì • ë˜ì—ˆìŠµë‹ˆë‹¤. (5ë¶„ì´ ì§€ë‚˜ì§€ ì•ŠìŒ)";
+"Uma vez que a Guerra de Guilds terminou antecipadamente, serÃ¡ decidida como um Empate.";
 
-"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
-"A energia é reflectida devido à Bênção dos Monarcas.";
+"êµ°ì£¼ê°€ ë‚´ë¦° ì¶•ë³µìœ¼ë¡œ ëª¨ë“  ì—ë„ˆì§€ê°€ ê°€ë“ ì±„ì›Œì§‘ë‹ˆë‹¤";
+"A energia Ã© reflectida devido Ã  BÃªnÃ§Ã£o dos Monarcas.";
 
-"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
-"Daqui a %d segundos poderás usar a Bênção dos Monarcas.";
+"%d ì´ˆ í›„ì— êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Daqui a %d segundos poderÃ¡s usar a BÃªnÃ§Ã£o dos Monarcas.";
 
-"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
-"Daqui a %d segundos poderás usar a Bênção dos Monarcas.";
+"ì¿¨íƒ€ì„ ì ìš©ì¤‘  %d í›„ ì‚¬ìš©ê°€ëŠ¥";
+"Daqui a %d segundos poderÃ¡s usar a BÃªnÃ§Ã£o dos Monarcas.";
 
-"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
+"êµ­ê³ ì— ìê¸ˆì´ ëª¨ìëë‹ˆë‹¤ êµ­ê³  : %d ";
 "Fundos de Imposto insuficientes: %d.";
 
-"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
+"[TEST_ONLY]í˜„ì¬ êµ­ê³  : %d ";
 "[TEST_ONLY]Imposto : %d";
 
-"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
-"Ocorreu um erro durante a transformação.";
+"ë‘”ê°‘ì— ì‹¤íŒ¨ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"Ocorreu um erro durante a transformaÃ§Ã£o.";
 
-"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
-"Aprendeste completamente a transformação.";
+"ë‘”ê°‘ì„œ ìˆ˜ë ¨ì„ ë§ˆì²¬ìŠµë‹ˆë‹¤. ì‹ ì„ ì—ê²Œ ì°¾ì•„ê°€ì„¸ìš”.";
+"Aprendeste completamente a transformaÃ§Ã£o.";
 
-"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
+"ë§ì„ ë¨¼ì € ì†Œí™˜í•´ì£¼ì„¸ìš”.";
 "Por favor chama o teu Cavalo primeiro.";
 
-"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
+"ë§ì„ ëŒë ¤ë³´ëƒˆìŠµë‹ˆë‹¤.";
 "Mandaste embora o teu Cavalo.";
 
-"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
+"%së‹˜ì´ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤. ìŠ¹ë‚™í•˜ë ¤ë©´ ëŒ€ê²°ë™ì˜ë¥¼ í•˜ì„¸ìš”.";
 "%s desafiou-te para uma batalha!";
 
-"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
+"ë§ì—ì„œ ë¨¼ì € ë‚´ë ¤ì•¼ í•©ë‹ˆë‹¤.";
 "Tens de descer do teu Cavalo.";
 
-"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes alimentar o teu Cavalo montado nele.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œëŠ” ë¨¹ì´ë¥¼ ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes alimentar o teu Cavalo montado nele.";
 
-"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
+"ë§ì—ê²Œ %s%s ì£¼ì—ˆìŠµë‹ˆë‹¤.";
 "Deste %s%s ao teu Cavalo.";
 
-"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
+"%s ì•„ì´í…œì´ í•„ìš”í•©ë‹ˆë‹¤";
 "Precisas de %s.";
 
-"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
+"ì…§ë‹¤ìš´ì´ %dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
 "%d segundos para o servidor desligar.";
 
-"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
-"O jogo será fechado dentro de %d segundos.";
+"%dì´ˆ í›„ ê²Œì„ì´ ì…§ë‹¤ìš´ ë©ë‹ˆë‹¤.";
+"O jogo serÃ¡ fechado dentro de %d segundos.";
 
-"%dÃÊ ³²¾Ò½À´Ï´Ù.";
+"%dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
 "%d segundos para o servidor desligar.";
 
-"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "O teu Logout foi cancelado.";
 
-"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"A voltar à página de login. Por favor espera.";
+"ë¡œê·¸ì¸ í™”ë©´ìœ¼ë¡œ ëŒì•„ ê°‘ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"A voltar Ã  pÃ¡gina de login. Por favor espera.";
 
-"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Estás a ser desligado do servidor. Por favor espera.";
+"ê²Œì„ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"EstÃ¡s a ser desligado do servidor. Por favor espera.";
 
-"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
+"%sì—ê²Œ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
 "Desafiaste %s para uma batalha.";
 
-"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Estás a mudar de personagem. Por favor espera.";
+"ìºë¦­í„°ë¥¼ ì „í™˜ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"EstÃ¡s a mudar de personagem. Por favor espera.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
-"Ainda não é possível começar de novo. Por favor espera mais %d segundos.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%dì´ˆ ë‚¨ìŒ)";
+"Ainda nÃ£o Ã© possÃ­vel comeÃ§ar de novo. Por favor espera mais %d segundos.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
-"Impossível reiniciar. Por favor espera mais %d segundos.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ)";
+"ImpossÃ­vel reiniciar. Por favor espera mais %d segundos.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
-"Impossível reiniciar. Por favor espera mais %d segundos.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ )";
+"ImpossÃ­vel reiniciar. Por favor espera mais %d segundos.";
 
-"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
-"Ainda não é possível começar de novo na Cidade. Espera mais %d segundos.";
+"ì•„ì§ ë§ˆì„ì—ì„œ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%d ì´ˆ ë‚¨ìŒ)";
+"Ainda nÃ£o Ã© possÃ­vel comeÃ§ar de novo na Cidade. Espera mais %d segundos.";
 
-"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
-"Perdeste a oportunidade de ressuscitar. Irás voltar para a cidade.";
+"ì„±ì§€ì—ì„œ ë¶€í™œ ê¸°íšŒë¥¼ ëª¨ë‘ ìƒì—ˆìŠµë‹ˆë‹¤! ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤!";
+"Perdeste a oportunidade de ressuscitar. IrÃ¡s voltar para a cidade.";
 
-"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
-"Não podes alterar o teu estado enquanto estiveres transformado.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ëŠ¥ë ¥ì„ ì˜¬ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes alterar o teu estado enquanto estiveres transformado.";
 
-"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
+"ìƒëŒ€ë°©ì´ ëŒ€ë ¨ì¤‘ì…ë‹ˆë‹¤.";
 "O jogador encontra-se actualmente em combate.";
 
-"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"[Guild] Não pertence à Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o pertence Ã  Guild.";
 
-"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes mudar o Nível das Habilidades de Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ ë ˆë²¨ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes mudar o NÃ­vel das Habilidades de Guild.";
 
-"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
-"A tua escolha está errada.";
+"ì˜ëª»ëœ ì„ íƒì„ í–ˆìŠµë‹ˆë‹¤";
+"A tua escolha estÃ¡ errada.";
 
-"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
-"[Armazém] Inseriste uma palavra-passe incorrecta.";
+"<ì°½ê³ > ì˜ëª»ëœ ì•”í˜¸ë¥¼ ì…ë ¥í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] Inseriste uma palavra-passe incorrecta.";
 
-"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
-"[Armazém] O Armazém já se encontra aberto.";
+"<ì°½ê³ > ì°½ê³ ê°€ ì´ë¯¸ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] O ArmazÃ©m jÃ¡ se encontra aberto.";
 
-"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Armazém] Tens de esperar 10 segundos para abrir novamente o Armazém.";
+"<ì°½ê³ > ì°½ê³ ë¥¼ ë‹«ì€ì§€ 10ì´ˆ ì•ˆì—ëŠ” ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] Tens de esperar 10 segundos para abrir novamente o ArmazÃ©m.";
 
-"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Armazém] Estás demasiado distante do Armazém para o abrir.";
+"<ì°½ê³ > ê±°ë¦¬ê°€ ë©€ì–´ì„œ ì°½ê³ ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] EstÃ¡s demasiado distante do ArmazÃ©m para o abrir.";
 
-"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] O Servidor não pôde executar o pedido de Grupo.";
+"<íŒŒí‹°> ì„œë²„ ë¬¸ì œë¡œ íŒŒí‹° ê´€ë ¨ ì²˜ë¦¬ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] O Servidor nÃ£o pÃ´de executar o pedido de Grupo.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes abandonar um Grupo enquanto estás numa Caverna.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes abandonar um Grupo enquanto estÃ¡s numa Caverna.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ë‚˜ê°€ì…¨ìŠµë‹ˆë‹¤.";
 "[Grupo] Abandonaste o Grupo.";
 
-"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
-"[Guild] A tua Guild já está a participar noutra Guerra.";
+"<ê¸¸ë“œ> ì´ë¯¸ ë‹¤ë¥¸ ì „ìŸì— ì°¸ì „ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Guild] A tua Guild jÃ¡ estÃ¡ a participar noutra Guerra.";
 
-"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Nenhum jogador é elegível para uma Guerra de Guilds.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì— ëŒ€í•œ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Nenhum jogador Ã© elegÃ­vel para uma Guerra de Guilds.";
 
-"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
-"[Guild] Esta Guild não existe.";
+"<ê¸¸ë“œ> ê·¸ëŸ° ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Esta Guild nÃ£o existe.";
 
-"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
-"Já existe uma candidatura.";
+"ì´ë¯¸ ì…í›„ë³´ë˜ì–´ìˆìŠµë‹ˆë‹¤";
+"JÃ¡ existe uma candidatura.";
 
-"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Guild] Esta Guild já está a participar numa Guerra.";
+"ì´ë¯¸ ì„ ì „í¬ê³  ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Guild] Esta Guild jÃ¡ estÃ¡ a participar numa Guerra.";
 
-"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Não existe Yang suficiente para participar numa Guerra de Guilds.";
+"<ê¸¸ë“œ> ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o existe Yang suficiente para participar numa Guerra de Guilds.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] A Guild não tem Yang suficiente para participar numa Guerra de Guilds.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] A Guild nÃ£o tem Yang suficiente para participar numa Guerra de Guilds.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
-"[Guild] Esta Guild já está notificada para outra Guerra de Guilds.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸì´ ì˜ˆì•½ëœ ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"[Guild] Esta Guild jÃ¡ estÃ¡ notificada para outra Guerra de Guilds.";
 
-"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
-"[Guild] Esta Guild já está a participar noutra Guerra.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œê°€ ì´ë¯¸ ì „ìŸ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Guild] Esta Guild jÃ¡ estÃ¡ a participar noutra Guerra.";
 
-"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
-"[Guild] Pelo menos %d jogadores são precisos para participar numa Guerra de Guilds.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì„ í•˜ê¸° ìœ„í•´ì„  ìµœì†Œí•œ %dëª…ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.";
+"[Guild] Pelo menos %d jogadores sÃ£o precisos para participar numa Guerra de Guilds.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] A Guild não tem Pontos de Experiência suficientes para participar numa Guerra de Guilds.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] A Guild nÃ£o tem Pontos de ExperiÃªncia suficientes para participar numa Guerra de Guilds.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] A Guild não tem membros suficiente para participar numa Guerra de Guilds.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì› ìˆ˜ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] A Guild nÃ£o tem membros suficiente para participar numa Guerra de Guilds.";
 
-"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"O teu nível deve ser superior a 20 para registar um número de telemóvel.";
+"ë ˆë²¨ 20 ì´í•˜ëŠ” í•¸ë“œí° ë²ˆí˜¸ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"O teu nÃ­vel deve ser superior a 20 para registar um nÃºmero de telemÃ³vel.";
 
-"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
-"Não tens as Qualificações necessárias para ser Monarca.";
+"êµ°ì£¼ì˜ ìê²©ì„ ê°€ì§€ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"NÃ£o tens as QualificaÃ§Ãµes necessÃ¡rias para ser Monarca.";
 
-"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
+"%s ë‹˜ìœ¼ë¡œ ë¶€í„° ì¹œêµ¬ ë“±ë¡ì„ ê±°ë¶€ ë‹¹í–ˆìŠµë‹ˆë‹¤.";
 "%s rejeitou o convite.";
 
-"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes aceitar o convite porque já estás no Grupo.";
+"ì´ë¯¸ íŒŒí‹°ì— ì†í•´ ìˆìœ¼ë¯€ë¡œ ê°€ì…ì‹ ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes aceitar o convite porque jÃ¡ estÃ¡s no Grupo.";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©ê°€ëŠ¥ í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
 "Apenas o Monarca pode usar isto.";
 
-"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
-"Tempo de Recuperação de aproximadamente %d segundos.";
+"%d ì´ˆê°„ ì¿¨íƒ€ì„ì´ ì ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"Tempo de RecuperaÃ§Ã£o de aproximadamente %d segundos.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤. í˜„ì¬ : %lu í•„ìš”ê¸ˆì•¡ : %lu";
 "Fundos de Impostos insuficientes. Fundos Actuais : %u Fundos em Falta : %u";
 
-"»ç¿ë¹ı: warpto <character name>";
+"ì‚¬ìš©ë²•: warpto <character name>";
 "Pedido: warpto <character name>";
 
-"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Não podes ser teleportado para um jogador desconhecido.";
+"íƒ€ì œêµ­ ìœ ì €ì—ê²ŒëŠ” ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o podes ser teleportado para um jogador desconhecido.";
 
-"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Adição do jogador %d a este Canal. (Canal Actual: %d)";
+"í•´ë‹¹ ìœ ì €ëŠ” %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"AdiÃ§Ã£o do jogador %d a este Canal. (Canal Actual: %d)";
 
-"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
+"%s ì—ê²Œë¡œ ì´ë™í•©ë‹ˆë‹¤";
 "Teleportar para %s.";
 
-"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Não podes chamar jogadores desconhecidos.";
+"íƒ€ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o podes chamar jogadores desconhecidos.";
 
-"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não há pontos de experiência para a caça durante a Guerra de Guilds.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì¤‘ì—ëŠ” ì‚¬ëƒ¥ì— ë”°ë¥¸ ì´ìµì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o hÃ¡ pontos de experiÃªncia para a caÃ§a durante a Guerra de Guilds.";
 
-"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
-"Quando a Bênção do Monarca é usada %s o teu VD e MN são restaurados novamente.";
+"êµ°ì£¼ì˜ ì¶•ë³µìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” HP,SPê°€ ëª¨ë‘ ì±„ì›Œì§‘ë‹ˆë‹¤.";
+"Quando a BÃªnÃ§Ã£o do Monarca Ã© usada %s o teu VD e MN sÃ£o restaurados novamente.";
 
-"³ªÀÇ ±ºÁÖ Á¤º¸";
-"Informação de Monarca";
+"ë‚˜ì˜ êµ°ì£¼ ì •ë³´";
+"InformaÃ§Ã£o de Monarca";
 
-"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
+"[%sêµ°ì£¼] : %s  ë³´ìœ ê¸ˆì•¡ %lld ";
 "[%s Monarca] : %s Yang em posse %lld";
 
-"[%s±ºÁÖ] : %s  ";
+"[%sêµ°ì£¼] : %s  ";
 "[%s Monarca] : %s";
 
-"±ºÁÖ Á¤º¸";
-"Informação do Monarca";
+"êµ°ì£¼ ì •ë³´";
+"InformaÃ§Ã£o do Monarca";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©í• ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤";
 "Apenas um Monarca pode usar isto";
 
-"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
-"Escolhe um número entre 1 e 50.";
+"1-50 ì‚¬ì´ì˜ ìˆ˜ì¹˜ë¥¼ ì„ íƒí•´ì£¼ì„¸ìš”";
+"Escolhe um nÃºmero entre 1 e 50.";
 
-"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
-"O Monstro não pôde ser chamado. Verifica o Número de Mob.";
+"ì†Œí™˜í• ìˆ˜ ì—†ëŠ” ëª¬ìŠ¤í„° ì…ë‹ˆë‹¤. ì†Œí™˜ê°€ëŠ¥í•œ ëª¬ìŠ¤í„°ëŠ” í™ˆí˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”";
+"O Monstro nÃ£o pÃ´de ser chamado. Verifica o NÃºmero de Mob.";
 
-"ÃÖ´ë »ı¸í·Â +%d";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d";
 "Pontos de Vida +%d";
 
-"ÃÖ´ë Á¤½Å·Â +%d";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d";
 "Pontos de Mana +%d";
 
-"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
-"A Bênção do Monarca está activa.";
+"êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A BÃªnÃ§Ã£o do Monarca estÃ¡ activa.";
 
-"Ã¼·Â +%d";
-"Resistência +%d";
+"ì²´ë ¥ +%d";
+"ResistÃªncia +%d";
 
-"Áö´É +%d";
-"Inteligência +%d";
+"ì§€ëŠ¥ +%d";
+"InteligÃªncia +%d";
 
-"±Ù·Â +%d";
-"Força +%d";
+"ê·¼ë ¥ +%d";
+"ForÃ§a +%d";
 
-"¹ÎÃ¸ +%d";
+"ë¯¼ì²© +%d";
 "Destreza +%d";
 
-"°ø°İ¼Óµµ +%d";
+"ê³µê²©ì†ë„ +%d";
 "Rapidez de Ataque +%d";
 
-"ÀÌµ¿¼Óµµ %d";
+"ì´ë™ì†ë„ %d";
 "Rapidez de Movimento %d";
 
-"ÄğÅ¸ÀÓ -%d";
+"ì¿¨íƒ€ì„ -%d";
 "Tempo de Carregamento -%d";
 
-"»ı¸í·Â È¸º¹ +%d";
-"Regeneração de Vida +%d";
+"ìƒëª…ë ¥ íšŒë³µ +%d";
+"RegeneraÃ§Ã£o de Vida +%d";
 
-"Á¤½Å·Â È¸º¹ +%d";
-"Regeneração de Mana +%d";
+"ì •ì‹ ë ¥ íšŒë³µ +%d";
+"RegeneraÃ§Ã£o de Mana +%d";
 
-"µ¶°ø°İ %d";
+"ë…ê³µê²© %d";
 "Envenenar %d";
 
-"½ºÅÏ +%d";
+"ìŠ¤í„´ +%d";
 "Estrela +%d";
 
-"½½·Î¿ì +%d";
-"Redução de Velocidade +%d";
+"ìŠ¬ë¡œìš° +%d";
+"ReduÃ§Ã£o de Velocidade +%d";
 
-"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
-"%d%% de probabilidade de Ataque Crítico.";
+"%d%% í™•ë¥ ë¡œ ì¹˜ëª…íƒ€ ê³µê²©";
+"%d%% de probabilidade de Ataque CrÃ­tico.";
 
-"%d%% È®·ü·Î °üÅë °ø°İ";
+"%d%% í™•ë¥ ë¡œ ê´€í†µ ê³µê²©";
 "%d%% de probabilidade de Ataque Perfurante.";
 
-"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"ì¸ê°„ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
 "Poder de Ataque do Jogador contra Monstros +%d%%";
 
-"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"ë™ë¬¼ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
 "Poder de Ataque a Cavalo contra Monstros +%d%%";
 
-"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
+"ì›…ê·€ì¡± íƒ€ê²©ì¹˜ +%d%%";
 "Aumento de Ataque contra Wonggui + %d%%";
 
-"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
+"ë°€êµë¥˜ íƒ€ê²©ì¹˜ +%d%%";
 "Aumento de Ataque contra Milgyo + %d%%";
 
-"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
+"ì‹œì²´ë¥˜ íƒ€ê²©ì¹˜ +%d%%";
 "Aumento de Ataque contra Mortos Vivos + %d%%";
 
-"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
-"Aumento de Ataque contra Demónios + %d%%";
+"ì•…ë§ˆë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"Aumento de Ataque contra DemÃ³nios + %d%%";
 
-"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Pelo Imperador Sa-Za-Hu o jogador %s recebe mais 10%% de força de ataque durante 3 minutos.";
+"êµ°ì£¼ì˜ ì‚¬ìí›„ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ê³µê²©ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Pelo Imperador Sa-Za-Hu o jogador %s recebe mais 10%% de forÃ§a de ataque durante 3 minutos.";
 
-"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
-"%d%% de Absorção de Energia durante o ataque.";
+"íƒ€ê²©ì¹˜ %d%% ë¥¼ ìƒëª…ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"%d%% de AbsorÃ§Ã£o de Energia durante o ataque.";
 
-"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
-"%d%% de Absorção de Mana (MN) durante o ataque.";
+"íƒ€ë ¥ì¹˜ %d%% ë¥¼ ì •ì‹ ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"%d%% de AbsorÃ§Ã£o de Mana (MN) durante o ataque.";
 
-"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
+"%d%% í™•ë¥ ë¡œ íƒ€ê²©ì‹œ ìƒëŒ€ ì „ì‹ ë ¥ ì†Œëª¨";
 "Probabilidade de %d%% de Mana (Mana) ser roubada ao inimigo.";
 
-"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
-"%d%% de probabilidade de absorção de Mana (MN).";
+"%d%% í™•ë¥ ë¡œ í”¼í•´ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"%d%% de probabilidade de absorÃ§Ã£o de Mana (MN).";
 
-"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
-"%d%% de probabilidade de bloquear um Ataque de Curta Distância.";
+"ë¬¼ë¦¬íƒ€ê²©ì‹œ ë¸”ëŸ­ í™•ë¥  %d%%";
+"%d%% de probabilidade de bloquear um Ataque de Curta DistÃ¢ncia.";
 
-"È° °ø°İ È¸ÇÇ È®·ü %d%%";
-"%d%% de probabilidade de bloquear um Ataque a Longa Distância.";
+"í™œ ê³µê²© íšŒí”¼ í™•ë¥  %d%%";
+"%d%% de probabilidade de bloquear um Ataque a Longa DistÃ¢ncia.";
 
-"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
-"Defesa contra Espadas de 1 Mão %d%%";
+"í•œì†ê²€ ë°©ì–´ %d%%";
+"Defesa contra Espadas de 1 MÃ£o %d%%";
 
-"¾ç¼Õ°Ë ¹æ¾î %d%%";
-"Defesa contra Espadas de 2 Mãos %d%%";
+"ì–‘ì†ê²€ ë°©ì–´ %d%%";
+"Defesa contra Espadas de 2 MÃ£os %d%%";
 
-"µÎ¼Õ°Ë ¹æ¾î %d%%";
-"Defesa contra Espadas de 2 Mãos %d%%";
+"ë‘ì†ê²€ ë°©ì–´ %d%%";
+"Defesa contra Espadas de 2 MÃ£os %d%%";
 
-"¹æ¿ï ¹æ¾î %d%%";
+"ë°©ìš¸ ë°©ì–´ %d%%";
 "Defesa contra Campainhas %d%%";
 
-"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
+"êµ°ì£¼ì˜ ê¸ˆê°•ê¶Œ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ë°©ì–´ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
 "Por ordem do Imperador Geum-Gang-Gwon o jogador %s recebe mais 10%% de Defesa durante 3 minutos.";
 
-"ºÎÃ¤ ¹æ¾î %d%%";
+"ë¶€ì±„ ë°©ì–´ %d%%";
 "Defesa contra Leques %d%%";
 
-"È°°ø°İ ÀúÇ× %d%%";
-"Resistência a Ataques de Longa Distância %d%%";
+"í™œê³µê²© ì €í•­ %d%%";
+"ResistÃªncia a Ataques de Longa DistÃ¢ncia %d%%";
 
-"È­¿° ÀúÇ× %d%%";
-"Resistência ao Fogo %d%%";
+"í™”ì—¼ ì €í•­ %d%%";
+"ResistÃªncia ao Fogo %d%%";
 
-"Àü±â ÀúÇ× %d%%";
-"Resistência a Relâmpagos %d%%";
+"ì „ê¸° ì €í•­ %d%%";
+"ResistÃªncia a RelÃ¢mpagos %d%%";
 
-"¸¶¹ı ÀúÇ× %d%%";
-"Resistência Mágica %d%%";
+"ë§ˆë²• ì €í•­ %d%%";
+"ResistÃªncia MÃ¡gica %d%%";
 
-"¹Ù¶÷ ÀúÇ× %d%%";
-"Resistência ao Vento %d%%";
+"ë°”ëŒ ì €í•­ %d%%";
+"ResistÃªncia ao Vento %d%%";
 
-"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
+"ì§ì ‘ íƒ€ê²©ì¹˜ ë°˜ì‚¬ í™•ë¥  : %d%%";
 "Reflectir Ataque Directo: %d%%";
 
-"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
-"Reflectir Maldição: %d%%";
+"ì €ì£¼ ë˜ëŒë¦¬ê¸° í™•ë¥  %d%%";
+"Reflectir MaldiÃ§Ã£o: %d%%";
 
-"µ¶ ÀúÇ× %d%%";
-"Resistência ao Veneno %d%%";
+"ë… ì €í•­ %d%%";
+"ResistÃªncia ao Veneno %d%%";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
-"Se ganhares a tua Mana (MN) será aumentada para %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Se ganhares a tua Mana (MN) serÃ¡ aumentada para %d%%.";
 
-"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
-"O Evento já está a decorrer. (flag: %d)";
+"OX ì´ë²¤íŠ¸ê°€ ì´ë¯¸ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤(flag: %d)";
+"O Evento jÃ¡ estÃ¡ a decorrer. (flag: %d)";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
-"Se ganhares a tua Experiência será aumentada para %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ê²½í—˜ì¹˜ ì¶”ê°€ ìƒìŠ¹";
+"Se ganhares a tua ExperiÃªncia serÃ¡ aumentada para %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
-"Se ganhares o teu Yang será aumentado para %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ëˆ 2ë°° ë“œë¡­";
+"Se ganhares o teu Yang serÃ¡ aumentado para %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
-"Se ganhares a probabilidade de apanhares Itens será aumentada para %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì•„ì´í…œ 2ë°° ë“œë¡­";
+"Se ganhares a probabilidade de apanhares Itens serÃ¡ aumentada para %d%%.";
 
-"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
-"Ao tomar a poção o Poder será aumentado até um máximo de %d%%.";
+"ë¬¼ì•½ ì‚¬ìš©ì‹œ %d%% ì„±ëŠ¥ ì¦ê°€";
+"Ao tomar a poÃ§Ã£o o Poder serÃ¡ aumentado atÃ© um mÃ¡ximo de %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
-"%d%% de probabilidade de encheres os Pontos de Vida depois de uma vitória.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ìƒëª…ë ¥ íšŒë³µ";
+"%d%% de probabilidade de encheres os Pontos de Vida depois de uma vitÃ³ria.";
 
-"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
-"Não Atordoamento %d%%";
+"ê¸°ì ˆí•˜ì§€ ì•ŠìŒ %d%%";
+"NÃ£o Atordoamento %d%%";
 
-"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
-"Não Abrandamento %d%%";
+"ëŠë ¤ì§€ì§€ ì•ŠìŒ %d%%";
+"NÃ£o Abrandamento %d%%";
 
-"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
-"Não Cair %d%%";
+"ë„˜ì–´ì§€ì§€ ì•ŠìŒ %d%%";
+"NÃ£o Cair %d%%";
 
-"°ø°İ·Â +%d";
+"ê³µê²©ë ¥ +%d";
 "Poder de Ataque + %d";
 
-"¹æ¾î·Â +%d";
+"ë°©ì–´ë ¥ +%d";
 "Armadura + %d";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
-"O Script do Evento OX não pôde ser carregado.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì‹¤íŒ¨";
+"O Script do Evento OX nÃ£o pÃ´de ser carregado.";
 
-"¸¶¹ı °ø°İ·Â +%d";
-"Ataque Mágico + %d";
+"ë§ˆë²• ê³µê²©ë ¥ +%d";
+"Ataque MÃ¡gico + %d";
 
-"¸¶¹ı ¹æ¾î·Â +%d";
-"Defesa Mágica + %d";
+"ë§ˆë²• ë°©ì–´ë ¥ +%d";
+"Defesa MÃ¡gica + %d";
 
-"ÃÖ´ë Áö±¸·Â +%d";
-"Resistência máxima + %d";
+"ìµœëŒ€ ì§€êµ¬ë ¥ +%d";
+"ResistÃªncia mÃ¡xima + %d";
 
-"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
+"ë¬´ì‚¬ì—ê²Œ ê°•í•¨ +%d%%";
 "Forte contra Guerreiros + %d%%";
 
-"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
+"ìê°ì—ê²Œ ê°•í•¨ +%d%%";
 "Forte contra Ninjas + %d%%";
 
-"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
+"ìˆ˜ë¼ì—ê²Œ ê°•í•¨ +%d%%";
 "Forte contra Suras + %d%%";
 
-"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
-"Forte contra Xamãs + %d%%";
+"ë¬´ë‹¹ì—ê²Œ ê°•í•¨ +%d%%";
+"Forte contra XamÃ£s + %d%%";
 
-"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
+"ëª¬ìŠ¤í„°ì—ê²Œ ê°•í•¨ +%d%%";
 "Forte contra Monstros + %d%%";
 
-"°ø°İ·Â +%d%%";
+"ê³µê²©ë ¥ +%d%%";
 "Ataque + %d%%";
 
-"¹æ¾î·Â +%d%%";
+"ë°©ì–´ë ¥ +%d%%";
 "Defesa + %d%%";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì„±ê³µ";
 "O Script do Evento OX foi carregado.";
 
-"°æÇèÄ¡ %d%%";
-"Experiência %d%%";
+"ê²½í—˜ì¹˜ %d%%";
+"ExperiÃªncia %d%%";
 
-"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
+"ì•„ì´í…œ ë“œë¡­ìœ¨ %.1fë°°";
 "Probabilidade de encontrar um Item %. 1f";
 
-"µ· µå·ÓÀ² %.1f¹è";
+"ëˆ ë“œë¡­ìœ¨ %.1fë°°";
 "Probabilidade de encontrar Yang %. 1f";
 
-"ÃÖ´ë »ı¸í·Â +%d%%";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d%%";
 "Limite superior do aumento de Energia +%d%%";
 
-"ÃÖ´ë Á¤½Å·Â +%d%%";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d%%";
 "Limite superior do aumento de Energia +%d%%";
 
-"½ºÅ³ µ¥¹ÌÁö %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ %d%%";
 "Dano de Habilidades %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ %d%%";
 "Dano de Ataque %d%%";
 
-"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Resistência a Danos de Habilidades %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"ResistÃªncia a Danos de Habilidades %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Resistência contra Ataques %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"ResistÃªncia contra Ataques %d%%";
 
-"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Resistência contra Ataques de Guerreiros";
+"ë¬´ì‚¬ê³µê²©ì— %d%% ì €í•­";
+"%d%% ResistÃªncia contra Ataques de Guerreiros";
 
-"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
+"ì•ˆë…•í•˜ì„¸ìš”. ë©”í‹´2 ì…ë‹ˆë‹¤.";
 "Bem-vindo ao Metin2!";
 
-"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Resistência contra Ataques de Ninjas";
+"ìê°ê³µê²©ì— %d%% ì €í•­";
+"%d%% ResistÃªncia contra Ataques de Ninjas";
 
-"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Resistência contra Ataques de Suras";
+"ìˆ˜ë¼ê³µê²©ì— %d%% ì €í•­";
+"%d%% ResistÃªncia contra Ataques de Suras";
 
-"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Resistência contra Ataques de Xamãs";
+"ë¬´ë‹¹ê³µê²©ì— %d%% ì €í•­";
+"%d%% ResistÃªncia contra Ataques de XamÃ£s";
 
-" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+" (ë§Œë£Œì¼ : %dë…„ %dì›” %dì¼)";
 "(Procedimento: %d y- %d m - %d d)";
 
-"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
-"O teu Chat está bloqueado.";
+"ì±„íŒ… ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤.";
+"O teu Chat estÃ¡ bloqueado.";
 
-"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
-"Precisas de ser de um nível mais alto para utilizares o Chamar.";
+"ì™¸ì¹˜ê¸°ëŠ” ìœ ë£ŒíšŒì›ë§Œ ì‚¬ìš©í• ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Precisas de ser de um nÃ­vel mais alto para utilizares o Chamar.";
 
-"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
-"Precisas de ser nível %d para poderes usar o Chamar.";
+"ì™¸ì¹˜ê¸°ëŠ” ë ˆë²¨ %d ì´ìƒë§Œ ì‚¬ìš© ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Precisas de ser nÃ­vel %d para poderes usar o Chamar.";
 
-"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"Não estás neste Grupo.";
+"íŒŒí‹° ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"NÃ£o estÃ¡s neste Grupo.";
 
-"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Não te juntaste a esta Guild.";
+"ê¸¸ë“œì— ê°€ì…í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"NÃ£o te juntaste a esta Guild.";
 
-"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"ìƒëŒ€ë°©ì´ ë©”ì‹ ì ¸ ì¶”ê°€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
 "O jogador rejeitou o teu pedido de amigo.";
 
-"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"O Evento OX começou.";
+"OX ì´ë²¤íŠ¸ê°€ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"O Evento OX comeÃ§ou.";
 
-"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Contactos] Não podes adicionar um GM à tua Lista de Amigos.";
+"<ë©”ì‹ ì ¸> ìš´ì˜ìëŠ” ë©”ì‹ ì ¸ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Contactos] NÃ£o podes adicionar um GM Ã  tua Lista de Amigos.";
 
-"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
-"%s não está no jogo.";
+"%s ë‹˜ì€ ì ‘ì†ë˜ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"%s nÃ£o estÃ¡ no jogo.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
-"Depois de negociares, terás de esperar %d segundos antes de abrires uma loja.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì— ì°½ê³ ë¥¼ ì—´ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Depois de negociares, terÃ¡s de esperar %d segundos antes de abrires uma loja.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Podes voltar a negociar dentro de %d segundos.";
 
-"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Tens mais de 2 Mil Milhões de Yang. Não podes negociar.";
+"ì•¡ìˆ˜ê°€ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"Tens mais de 2 Mil MilhÃµes de Yang. NÃ£o podes negociar.";
 
-"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Não podes abrir uma loja privada enquanto outra janela está aberta.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘ì¼ê²½ìš° ê°œì¸ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes abrir uma loja privada enquanto outra janela estÃ¡ aberta.";
 
-"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"O jogador tem mais de 2 Mil Milhões de Yang. Não podes negociar com ele.";
+"ìƒëŒ€ë°©ì˜ ì´ê¸ˆì•¡ì´ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"O jogador tem mais de 2 Mil MilhÃµes de Yang. NÃ£o podes negociar com ele.";
 
-"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"[Armazém] Não é possível mover.";
+"<ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"[ArmazÃ©m] NÃ£o Ã© possÃ­vel mover.";
 
-"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
-"[Armazém] O Item não pode ser armazenado.";
+"<ì°½ê³ > ì´ ì•„ì´í…œì€ ë„£ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] O Item nÃ£o pode ser armazenado.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] O jogador que enviou o convite não se encontra online.";
+"<íŒŒí‹°> íŒŒí‹°ìš”ì²­ì„ í•œ ìºë¦­í„°ë¥¼ ì°¾ì„ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] O jogador que enviou o convite nÃ£o se encontra online.";
 
-"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
+"ì„ë‘ì§€ë¥¼ í†µí•˜ì—¬ ì…ì¥ ê°€ëŠ¥í•©ë‹ˆë‹¤.";
 "Permitida a entrada a Uriel.";
 
-"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupo] Apenas o Líder do Grupo pode mudar isto.";
+"<íŒŒí‹°> ë¦¬ë”ë§Œ ë³€ê²½í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupo] Apenas o LÃ­der do Grupo pode mudar isto.";
 
-"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Grupo] O alvo não é membro do teu Grupo.";
+"<íŒŒí‹°> ìƒíƒœë¥¼ ë³€ê²½í•˜ë ¤ëŠ” ì‚¬ëŒì´ íŒŒí‹°ì›ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Grupo] O alvo nÃ£o Ã© membro do teu Grupo.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes expulsar um jogador enquanto estás numa Caverna.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes expulsar um jogador enquanto estÃ¡s numa Caverna.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes expulsar um jogador enquanto estás numa Caverna.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ì›ì„ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes expulsar um jogador enquanto estÃ¡s numa Caverna.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
-"[Grupo] Foste excluído do grupo.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ì¶”ë°©ë‹¹í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupo] Foste excluÃ­do do grupo.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes abandonar um Grupo quando estás numa Caverna.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ë¥¼ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes abandonar um Grupo quando estÃ¡s numa Caverna.";
 
-"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes excluir Membros do Grupo.";
+"<íŒŒí‹°> ë‹¤ë¥¸ íŒŒí‹°ì›ì„ íƒˆí‡´ì‹œí‚¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes excluir Membros do Grupo.";
 
-"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Depois de apagar uma Guild não poderás criar uma durante %d dias.";
+"<ê¸¸ë“œ> í•´ì‚°í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Depois de apagar uma Guild nÃ£o poderÃ¡s criar uma durante %d dias.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Depois de sair de uma Guild não poderás criar uma por %d dias.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Depois de sair de uma Guild nÃ£o poderÃ¡s criar uma por %d dias.";
 
-"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
-"Este nome de Guild é inválido.";
+"ì í•©í•˜ì§€ ì•Šì€ ê¸¸ë“œ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"Este nome de Guild Ã© invÃ¡lido.";
 
-"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
-"Pedimos a participação de muitos jogadores.";
+"ë§ì€ ì°¸ì—¬ ë¶€íƒë“œë¦½ë‹ˆë‹¤.";
+"Pedimos a participaÃ§Ã£o de muitos jogadores.";
 
-"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
+"<ê¸¸ë“œ> [%s] ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "[Guild] A Guild [%s] foi criada.";
 
-"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Guild] A criação de uma Guild não foi bem sucedida.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìƒì„±ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Guild] A criaÃ§Ã£o de uma Guild nÃ£o foi bem sucedida.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupo] Apenas o Líder do Grupo poderá usar as Habilidades de Grupo.";
+"<íŒŒí‹°> íŒŒí‹° ê¸°ìˆ ì€ íŒŒí‹°ì¥ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupo] Apenas o LÃ­der do Grupo poderÃ¡ usar as Habilidades de Grupo.";
 
-"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] O alvo não pôde ser encontrado.";
+"<íŒŒí‹°> ì†Œí™˜í•˜ë ¤ëŠ” ëŒ€ìƒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] O alvo nÃ£o pÃ´de ser encontrado.";
 
-"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
-"[Guild] Essa quantidade de Yang não está correcta.";
+"<ê¸¸ë“œ> ì˜ëª»ëœ ê¸ˆì•¡ì…ë‹ˆë‹¤.";
+"[Guild] Essa quantidade de Yang nÃ£o estÃ¡ correcta.";
 
-"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Guild] Não tens Yang suficiente.";
+"<ê¸¸ë“œ> ê°€ì§€ê³  ìˆëŠ” ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Guild] NÃ£o tens Yang suficiente.";
 
-"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] O jogador procurado não pôde ser encontrado.";
+"<ê¸¸ë“œ> ê·¸ëŸ¬í•œ ì‚¬ëŒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] O jogador procurado nÃ£o pÃ´de ser encontrado.";
 
-"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
-"[Guild] Este jogador não está na mesma Guild.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê°™ì€ ê¸¸ë“œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Guild] Este jogador nÃ£o estÃ¡ na mesma Guild.";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes excluir Membros da Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œí‚¬ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes excluir Membros da Guild.";
 
-"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Guild] O Membro %s foi excluído da Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì› %s ë‹˜ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Guild] O Membro %s foi excluÃ­do da Guild.";
 
-"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
-"O Evento OX ainda não terminou. Ocorreu um erro. (flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ë‹«íˆì§€ ì•Šì•˜ê±°ë‚˜, í€´ì¦ˆ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(flag: %d)";
+"O Evento OX ainda nÃ£o terminou. Ocorreu um erro. (flag: %d)";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Guild] Excluíste um Membro da Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Guild] ExcluÃ­ste um Membro da Guild.";
 
-"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes alterar o nome do teu estatuto.";
+"<ê¸¸ë“œ> ì§ìœ„ ì´ë¦„ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes alterar o nome do teu estatuto.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Os poderes do Líder da Guild não podem ser alterados.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ ì´ë¦„ì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Os poderes do LÃ­der da Guild nÃ£o podem ser alterados.";
 
-"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
-"[Guild] Este nome de estatuto é inválido.";
+"<ê¸¸ë“œ> ì í•©í•˜ì§€ ì•Šì€ ì§ìœ„ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"[Guild] Este nome de estatuto Ã© invÃ¡lido.";
 
-"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes alterar o teu estatuto.";
+"<ê¸¸ë“œ> ì§ìœ„ ê¶Œí•œì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes alterar o teu estatuto.";
 
-"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Os poderes do Líder da Guild não podem ser alterados.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ê¶Œí•œì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Os poderes do LÃ­der da Guild nÃ£o podem ser alterados.";
 
-"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
-"[Guild] %u Pontos de Experiência dados.";
+"<ê¸¸ë“œ> %uì˜ ê²½í—˜ì¹˜ë¥¼ íˆ¬ìí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Guild] %u Pontos de ExperiÃªncia dados.";
 
-"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Guild] A doação de Experiência não foi bem sucedida.";
+"<ê¸¸ë“œ> ê²½í—˜ì¹˜ íˆ¬ìì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Guild] A doaÃ§Ã£o de ExperiÃªncia nÃ£o foi bem sucedida.";
 
-"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Guild] Não possuis Yang suficiente no tesouro da guild.";
+"<ê¸¸ë“œ> ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Guild] NÃ£o possuis Yang suficiente no tesouro da guild.";
 
-"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Guild] Os Dragões Fantasma não foram restaurados.";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ íšŒë³µì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Guild] Os DragÃµes Fantasma nÃ£o foram restaurados.";
 
-"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
-"O Evento OX irá ser reiniciado brevemente.";
+"ì ì‹œ í›„ OX ì´ë²¤íŠ¸ë¥¼ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆë‹¤.";
+"O Evento OX irÃ¡ ser reiniciado brevemente.";
 
-"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes criar anúncios.";
+"<ê¸¸ë“œ> ê³µì§€ê¸€ì„ ì‘ì„±í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes criar anÃºncios.";
 
-"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes alterar estatutos.";
+"<ê¸¸ë“œ> ì§ìœ„ë¥¼ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes alterar estatutos.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] O estatuto do Líder da Guild não pode ser alterado.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ëŠ” ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] O estatuto do LÃ­der da Guild nÃ£o pode ser alterado.";
 
-"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Não te podes auto-proclamar Líder da Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ìœ¼ë¡œ ì§ìœ„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o te podes auto-proclamar LÃ­der da Guild.";
 
-"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes escolher o Líder.";
+"<ê¸¸ë“œ> ì¥êµ°ì„ ì§€ì •í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes escolher o LÃ­der.";
 
-"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Não podes escolher mais Líderes.";
+"<ê¸¸ë“œ> ë”ì´ìƒ ì¥ìˆ˜ë¥¼ ì§€ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes escolher mais LÃ­deres.";
 
-"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes negociar este Item.";
+"ì•„ì´í…œì„ ê±´ë„¤ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes negociar este Item.";
 
-"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
-"Software ilegal detectado. O jogo irá ser encerrado.";
+"ë¶ˆë²• í”„ë¡œê·¸ë¨ì´ ê°ì§€ ë˜ì–´ ê²Œì„ì´ ì¢…ë£Œ ë©ë‹ˆë‹¤.";
+"Software ilegal detectado. O jogo irÃ¡ ser encerrado.";
 
-"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
-"Tens mais de 2 Mil Milhões de Yang. Não podes negociar.";
+"ì†Œìœ  ëˆì´ 20ì–µëƒ¥ì„ ë„˜ì–´ ê±°ë˜ë¥¼ í•¼ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Tens mais de 2 Mil MilhÃµes de Yang. NÃ£o podes negociar.";
 
-"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Yang inválido.";
+"ê¸ˆì•¡ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Yang invÃ¡lido.";
 
-"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
-"O Evento actual está limitado a uma área.";
+"í˜„ì¬ ì´ë²¤íŠ¸ ì°¸ê°€ì ë¶„ë“¤ì€ ë§ˆì„ë¡œ ì´ë™ ë˜ê² ìŠµë‹ˆë‹¤.";
+"O Evento actual estÃ¡ limitado a uma Ã¡rea.";
 
-"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
-"Começar a Roleta de Itens.";
+"ì•„ì´í…œ ë£°ë › ì‹œì‘.";
+"ComeÃ§ar a Roleta de Itens.";
 
-"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
-"Começar a Roleta de Yang.";
+"ë¨¸ë‹ˆ  ë£°ë › ì‹œì‘.";
+"ComeÃ§ar a Roleta de Yang.";
 
-"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
-"O jogador está online. Por favor utiliza o Segredar.";
+"í˜„ì¬ ì˜¨ë¼ì¸ ìƒíƒœ ì…ë‹ˆë‹¤. ê·“ë§ì„ ì´ìš©í•˜ì„¸ìš”.";
+"O jogador estÃ¡ online. Por favor utiliza o Segredar.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
-"O número de telemóvel não está registado.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"O nÃºmero de telemÃ³vel nÃ£o estÃ¡ registado.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tens de estar pelo menos a nível 20 para poderes enviar mensagens de texto.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì€ ë ˆë²¨ 20ë¶€í„° í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tens de estar pelo menos a nÃ­vel 20 para poderes enviar mensagens de texto.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì—ëŠ” 2000ì›ì´ í•„ìš” í•©ë‹ˆë‹¤.";
 "Precisas de 2000 Yang para enviares uma mensagem.";
 
-"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
+"ë¬¸ì ë©”ì„¸ì§€ë¥¼ ì „ì†¡ í–ˆìŠµë‹ˆë‹¤.";
 "A tua mensagem de texto foi enviada.";
 
-"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%s ê¸¸ë“œì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
 "%s da Guild %s aumentou %d%% !";
 
-"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%s ê¸¸ë“œì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
 "%s da Guild %s voltou ao normal.";
 
-"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"Os jogadores do Reino %s têm um aumento de %s em %d%% !";
+"%sì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"Os jogadores do Reino %s tÃªm um aumento de %s em %d%% !";
 
-"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
-"Os jogadores do Reino %s têm %s normal de novo.";
+"%sì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
+"Os jogadores do Reino %s tÃªm %s normal de novo.";
 
-"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
+"ê³¡ê´­ì´ ìˆ˜ë ¨ë„ê°€ ìµœëŒ€(%d)ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "Os teus Pontos de Garimpar atingiram o limite. (%d)";
 
-"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Os teus Pontos de Garimpar foram aumentados para o valor mais alto possível.";
+"ê³¡ê´­ì´ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Os teus Pontos de Garimpar foram aumentados para o valor mais alto possÃ­vel.";
 
-"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"ë‚˜ë¬´ê¾¼ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ê³¡ê´­ì´ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Podes melhorar a tua Picareta com a ajuda do Lenhador Deokbae.";
 
-"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"ê³¡ê´­ì´ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
 "Os teus Pontos de Garimpar aumentaram! (%d/%d)";
 
-"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes Garimpar sem uma Picareta.";
+"ê³¡ê´­ì´ë¥¼ ë“¤ê³  ìˆì§€ ì•Šì•„ì„œ ìº˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes Garimpar sem uma Picareta.";
 
-"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
-"Não há aqui nada para Garimpar.";
+"ë”ì´ìƒ ìºë‚¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ aqui nada para Garimpar.";
 
-"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Garimpaste o minério com sucesso.";
+"ì±„ê´‘ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Garimpaste o minÃ©rio com sucesso.";
 
-"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Não conseguíste Garimpar o minério.";
+"ì±„ê´‘ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"NÃ£o conseguÃ­ste Garimpar o minÃ©rio.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
-"[Amigos] Adicionaste o jogador %s à tua Lista de Amigos.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ì¹œêµ¬ë¡œ ì¶”ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Amigos] Adicionaste o jogador %s Ã  tua Lista de Amigos.";
 
-"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
-"O jogador será teleportado para a Cidade em breve.";
+"ì ì‹œ í›„ ë§ˆì„ë¡œ ì´ë™ë˜ê² ìŠµë‹ˆë‹¤.";
+"O jogador serÃ¡ teleportado para a Cidade em breve.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ë©”ì‹ ì €ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "[Amigos] Apagaste o jogador %s da tua Lista de Amigos.";
 
-"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
-"Erro crítico do servidor. O servidor será reiniciado automaticamente.";
+"ì„œë²„ì— ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì—¬ ìë™ìœ¼ë¡œ ì¬ë¶€íŒ…ë©ë‹ˆë‹¤.";
+"Erro crÃ­tico do servidor. O servidor serÃ¡ reiniciado automaticamente.";
 
-"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
-"Serás desligado do servidor dentro de 10 segundos.";
+"10ì´ˆí›„ ìë™ìœ¼ë¡œ ì ‘ì†ì´ ì¢…ë£Œë˜ë©°,";
+"SerÃ¡s desligado do servidor dentro de 10 segundos.";
 
-"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
-"Poderás ligar-te após 5 minutos.";
+"5ë¶„ í›„ì— ì •ìƒì ìœ¼ë¡œ ì ‘ì†í•˜ì‹¤ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"PoderÃ¡s ligar-te apÃ³s 5 minutos.";
 
-"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
-"Guild (%s) foi criada. [Temporária]";
+"(%s) ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤. [ì„ì‹œ]";
+"Guild (%s) foi criada. [TemporÃ¡ria]";
 
-"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
-"Esta Guild está em Guerra.";
+"í˜„ì¬ ì „ìŸì¤‘ì¸ ê¸¸ë“œ ì…ë‹ˆë‹¤";
+"Esta Guild estÃ¡ em Guerra.";
 
-"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
-"%s: Esta Guild não existe.";
+"%s: ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"%s: Esta Guild nÃ£o existe.";
 
-"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
-"Não existe uma Guild com este nome ou número.";
+"ê·¸ëŸ° ì´ë¦„ ë˜ëŠ” ë²ˆí˜¸ì˜ ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o existe uma Guild com este nome ou nÃºmero.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
-"Este edifício não existe.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê±´ë¬¼ì…ë‹ˆë‹¤.";
+"Este edifÃ­cio nÃ£o existe.";
 
-"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
-"Este tipo de edifício apenas pode ser construído uma vez.";
+"ê°™ì´ ì§€ì„ ìˆ˜ ì—†ëŠ” ì¢…ë¥˜ì˜ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆìŠµë‹ˆë‹¤.";
+"Este tipo de edifÃ­cio apenas pode ser construÃ­do uma vez.";
 
-"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
+"OXì´ë²¤íŠ¸ ë§µì„ ë¨¼ì € ë‹«ì•„ ì£¼ì„¸ìš”.(Flag: %d)";
 "Primeiro fecha o mapa do Evento OX. (Flag: %d)";
 
-"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
-"O Edifício Principal deverá ser construído antes.";
+"ê±´ì„¤ì— í•„ìš”í•œ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"O EdifÃ­cio Principal deverÃ¡ ser construÃ­do antes.";
 
-"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"A construção do edifício não foi bem sucedida devido a um preço incorrecto.";
+"ê±´ë¬¼ ë¹„ìš© ì •ë³´ ì´ìƒìœ¼ë¡œ ê±´ì„¤ ì‘ì—…ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"A construÃ§Ã£o do edifÃ­cio nÃ£o foi bem sucedida devido a um preÃ§o incorrecto.";
 
-"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"A tua Guild não tem o Yang necessário para erigir este edifício.";
+"ê±´ì„¤ ë¹„ìš©ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"A tua Guild nÃ£o tem o Yang necessÃ¡rio para erigir este edifÃ­cio.";
 
-"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não possuis recursos suficientes para este edifício.";
+"ìì¬ê°€ ë¶€ì¡±í•˜ì—¬ ê±´ì„¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o possuis recursos suficientes para este edifÃ­cio.";
 
-"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"Não podes construir um edifício neste local.";
+"ê±´ë¬¼ì„ ì§€ì„ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"NÃ£o podes construir um edifÃ­cio neste local.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
-"Esta personagem não existe.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ìºë¦­í„° ì…ë‹ˆë‹¤.";
+"Esta personagem nÃ£o existe.";
 
-"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
-"O Duelo não foi cancelado.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì‹¤íŒ¨";
+"O Duelo nÃ£o foi cancelado.";
 
-"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì„±ê³µ";
 "O cancelamento do Duelo foi bem sucedido.";
 
-"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
+"ëŒ€ë ¨ì´ ì„±ê³µì ìœ¼ë¡œ ì‹œì‘ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "O Duelo foi iniciado com sucesso.";
 
-"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
+"ëŒ€ë ¨ ì‹œì‘ì— ë¬¸ì œê°€ ìˆìŠµë‹ˆë‹¤.";
 "Existe um problema ao iniciar o Duelo.";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
-"Não ocorreram erros.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.";
+"NÃ£o ocorreram erros.";
 
-"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Não há inimigos disponíveis.";
+"ëŒ€ë ¨ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ inimigos disponÃ­veis.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
-"Não restaram Pontos de Estado.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o restaram Pontos de Estado.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
-"O Pontos de Estado que restam são demasiado baixos.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì ìŠµë‹ˆë‹¤.";
+"O Pontos de Estado que restam sÃ£o demasiado baixos.";
 
-"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
+"ê°’ì„ ì˜ëª» ì…ë ¥í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Inseriste um valor incorrecto.";
 
-"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
-"A Subordem da Ordem está incorrecta.";
+"ëª…ë ¹ì–´ì˜ ì„œë¸Œ ì»¤ë§¨ë“œê°€ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"A Subordem da Ordem estÃ¡ incorrecta.";
 
-"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
+"í”Œë ˆì´ì–´ %d ì™€ í”Œë ˆì´ì–´  %dë¥¼ íŒŒí˜¼ì‹œí‚µë‹ˆë‹¤..";
 "O contrato entre os jogadores %d e %d foi quebrado.";
 
-"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
-"Joga à Roleta por %d Yang.";
+"ë£»ë ›ì„ ëŒë¦½ë‹ˆë‹¤. ê¸ˆì•¡ %d";
+"Joga Ã  Roleta por %d Yang.";
 
-"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
+"ì•„ì´í…œë¡œê·¸ê°€ syslog ì— ë‚¨ì•˜ìŠµë‹ˆë‹¤";
 "O Itemlog foi colocado no Syslog.";
 
-"°¢Á¦±¹ ÁøÇà Á¤º¸";
-"Informação para os Reinos";
+"ê°ì œêµ­ ì§„í–‰ ì •ë³´";
+"InformaÃ§Ã£o para os Reinos";
 
-"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
-"Escolhe a Informação do Mapa da Terra Sagrada %d Entrada %d %d %d";
+"ì„ íƒ ë§µ ì •ë³´ ì„±ì§€ %d í†µë¡œ %d %d %d";
+"Escolhe a InformaÃ§Ã£o do Mapa da Terra Sagrada %d Entrada %d %d %d";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Ocorreu um erro.";
 
-"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
-"%s N.º Mortes %d N.º Mobs Mortos %d N.º Bosses Mortos %d N.º Terra Sagrada %d";
+"%s killcount %d mobkillcount %d bosskillcount %d ì„±ì§€ ì§„ì…ìˆ˜ %d";
+"%s N.Âº Mortes %d N.Âº Mobs Mortos %d N.Âº Bosses Mortos %d N.Âº Terra Sagrada %d";
 
-"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
-"Informação acerca da Guerras dos Reinos";
+"ë‚˜ì˜ ì‚¼ê±°ë¦¬ ì§„í–‰ì •ë³´";
+"InformaÃ§Ã£o acerca da Guerras dos Reinos";
 
-"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
-"O teu pedido está a ser carregado. Por favor seja paciente.";
+"í€˜ìŠ¤íŠ¸ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘ì…ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤.";
+"O teu pedido estÃ¡ a ser carregado. Por favor seja paciente.";
 
-"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Não podes abrir um Armazém enquanto outra janela está aberta.";
+"ë‹¤ë¥¸ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ì°½ê³ ë¥¼ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes abrir um ArmazÃ©m enquanto outra janela estÃ¡ aberta.";
 
-"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
-"[Armazém] Palavra-passe do Armazém foi alterada.";
+"<ì°½ê³ > ì°½ê³  ë¹„ë°€ë²ˆí˜¸ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] Palavra-passe do ArmazÃ©m foi alterada.";
 
-"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
-"[Armazém] Inseriste uma palavra-passe incorrecta.";
+"<ì°½ê³ > ê¸°ì¡´ ë¹„ë°€ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤.";
+"[ArmazÃ©m] Inseriste uma palavra-passe incorrecta.";
 
-"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
+"ê²°ì¬ê¸°ê°„ì´ %dë¶„ í›„ ë§Œë£Œ ë©ë‹ˆë‹¤.";
 "O teu Tempo de Jogo termina daqui a %d Minutos.";
 
-"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
+"ì •ìƒì ìœ¼ë¡œ íˆ¬í‘œë¥¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Votado regularmente.";
 
-"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
-"Já votado.";
+"ì´ë¯¸íˆ¬í‘œë¥¼ í–ˆìŒ";
+"JÃ¡ votado.";
 
-"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
-"O jogador %s já está na votação.";
+"%s ë‹˜ì€ ì •ìƒì ìœ¼ë¡œ ì¶œë§ˆë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"O jogador %s jÃ¡ estÃ¡ na votaÃ§Ã£o.";
 
-"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
-"O Evento OX terminou. Não ocorreu nenhum erro. (Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ì—´ë ¤ ìˆì§€ ì•Šê±°ë‚˜ ë¬¸ì œ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(Flag: %d)";
+"O Evento OX terminou. NÃ£o ocorreu nenhum erro. (Flag: %d)";
 
-"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Não pode ser votado.";
+"ì¶œë§ˆë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o pode ser votado.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %lu ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
 "%s ainda tem %u Yang.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %d ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
 "%s ainda tem %d Yang.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
-"Não tens Yang suficiente.";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ëˆì„ ê°€ì ¸ì˜¬ìˆ˜ ì—†ëŠ” ìƒí™©ì…ë‹ˆë‹¤";
+"NÃ£o tens Yang suficiente.";
 
-" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
+" %s êµ°ì£¼ í›„ë³´ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤";
 "%s foi apagado da lista de Candidatos a Monarca.";
 
-" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
-"%s não é um Candidato a Monarca.";
+" %s ëŠ” êµ°ì£¼ í›„ë³´ê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"%s nÃ£o Ã© um Candidato a Monarca.";
 
-" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
+" %s êµ°ì£¼ë¡œ ì…ëª… í–ˆìŠµë‹ˆë‹¤.";
 "%s foi nomeado Monarca.";
 
-" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
-"%s não pode ser nomeado Monarca.";
+" %s ëŠ” êµ°ì£¼ë¡œ ì…ëª…í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤ .";
+"%s nÃ£o pode ser nomeado Monarca.";
 
-" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
+" %s êµ°ì£¼ë¥´ ì œê±° í•˜ì˜€ìŠµë‹ˆë‹¤..";
 "O Monarca do Reino %s foi exilado.";
 
-" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"O Monarca do Reino %s não pode ser exilado.";
+" %s êµ°ì£¼ë¥¼ ì œê±° í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"O Monarca do Reino %s nÃ£o pode ser exilado.";
 
-"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"O Evento OX não aceita mais participantes.";
+"ë” ì´ìƒ OXì´ë²¤íŠ¸ ì°¸ê°€ìë¥¼ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"O Evento OX nÃ£o aceita mais participantes.";
 
-"½Å¼ö±¹";
+"ì‹ ìˆ˜êµ­";
 "Reino Shinsoo";
 
-"ÃµÁ¶±¹";
+"ì²œì¡°êµ­";
 "Reino Chunjo";
 
-"Áø³ë±¹";
+"ì§„ë…¸êµ­";
 "Reino Jinno";
 
-"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"ë‚šì‹œëŒ€ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
 "Os teus Pontos de Pesca aumentaram! (%d/%d)";
 
-"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Tu já atingiste o máximo de pontos na Cana de Pesca.";
+"ë‚šì‹œëŒ€ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Tu jÃ¡ atingiste o mÃ¡ximo de pontos na Cana de Pesca.";
 
-"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"ì–´ë¶€ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ë‚šì‹œëŒ€ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Vai ter com o Pescador e melhora a tua Cana de Pesca.";
 
-"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
+"ê³ ê¸°ê°€ ë¯¸ë¼ë§Œ ë¹¼ë¨¹ê³  ì½ì‹¸ê²Œ ë„ë§ì¹©ë‹ˆë‹¤.";
 "Perdeste o isco para o peixe.";
 
-"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
+"ê³ ê¸°ê°€ ì¡í˜”ìŠµë‹ˆë‹¤! (%s)";
 "Capturaste um peixe! (%s)";
 
-"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
-"O comprimento do peixe capturado é %.2fcm.";
+"ì´ë²ˆì— ì¡ì€ ë¬¼ê³ ê¸°ì˜ ê¸¸ì´ëŠ” %.2fcm";
+"O comprimento do peixe capturado Ã© %.2fcm.";
 
-"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
+"ë‚šì‹œì´ë²¤íŠ¸ì›”ì²™ë¶•ì–´";
 "Evento de Pesca "Grande Zander"";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
-"OX Os outros participantes no Evento estão listados.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì›ì„ ê¸°ë¡í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OX Os outros participantes no Evento estÃ£o listados.";
 
-"³¬½ÃÀÌº¥Æ®À×¾î";
+"ë‚šì‹œì´ë²¤íŠ¸ì‰ì–´";
 "'Carpa' do Evento de Pesca";
 
-"%s : %d ¸¶¸®";
+"%s : %d ë§ˆë¦¬";
 "%s: %d";
 
-"%d Á¾·ù %d ¸¶¸® ³¬À½";
+"%d ì¢…ë¥˜ %d ë§ˆë¦¬ ë‚šìŒ";
 "Apanhaste %d de %d .";
 
-"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"O peixe desapareceu nas águas profundas.";
+"ê³ ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"O peixe desapareceu nas Ã¡guas profundas.";
 
-"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
-"Está uma Ostra no interior do peixe.";
+"ë°° ì†ì—ì„œ ì¡°ê°œê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ uma Ostra no interior do peixe.";
 
-"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
-"Está um Verme dentro do peixe.";
+"ë°° ì†ì—ì„œ ì§€ë ì´ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"EstÃ¡ um Verme dentro do peixe.";
 
-"%s¸¦ ±¸¿ü½À´Ï´Ù.";
+"%së¥¼ êµ¬ì› ìŠµë‹ˆë‹¤.";
 "Colocaste %s na Fogueira.";
 
-"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
-"Não podes negociar porque tens mais de 2 Mil Milhões de Yang contigo.";
+"20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o podes negociar porque tens mais de 2 Mil MilhÃµes de Yang contigo.";
 
-"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes utilizar um nome impróprio na tua Loja.";
+"ë¹„ì†ì–´ë‚˜ ì€ì–´ê°€ í¬í•¨ëœ ìƒì  ì´ë¦„ìœ¼ë¡œ ìƒì ì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes utilizar um nome imprÃ³prio na tua Loja.";
 
-"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes vender Itens da Loja de Itens numa Loja Privada.";
+"ìœ ë£Œí™” ì•„ì´í…œì€ ê°œì¸ìƒì ì—ì„œ íŒë§¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes vender Itens da Loja de Itens numa Loja Privada.";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
-"OX Os outros participantes no Evento não estão listados.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì› ê¸°ë¡ì„ ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"OX Os outros participantes no Evento nÃ£o estÃ£o listados.";
 
-"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
+"ì±„ê´‘ì„ ì¤‘ë‹¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Terminaste de Garimpar.";
 
-"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
+"ê³¡ê´­ì´ë¥¼ ì¥ì°©í•˜ì„¸ìš”.";
 "Precisas de uma Picareta para conseguires garimpar.";
 
-"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
+"ë‚šì‹œëŒ€ë¥¼ ì¥ì°© í•˜ì„¸ìš”.";
 "Por favor escolhe uma Cana de Pesca.";
 
-"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
+"ë¯¸ë¼ë¥¼ ë¼ê³  ë˜ì ¸ ì£¼ì„¸ìš”.";
 "Primeiro coloca o isco no anzol.";
 
-"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
-"Não podes pescar sem uma Cana de Pesca!";
+"ë‚šì‹œëŒ€ê°€ ì•„ë‹Œ ë¬¼ê±´ìœ¼ë¡œ ë‚šì‹œë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!";
+"NÃ£o podes pescar sem uma Cana de Pesca!";
 
-"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes fazer um pedido porque o Líder do Grupo não está online.";
+"íŒŒí‹°ì¥ì´ ì ‘ì† ìƒíƒœê°€ ì•„ë‹ˆë¼ì„œ ìš”ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes fazer um pedido porque o LÃ­der do Grupo nÃ£o estÃ¡ online.";
 
-"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes fazer Grupo com jogadores de outros Reinos.";
+"<íŒŒí‹°> ë‹¤ë¥¸ ì œêµ­ê³¼ íŒŒí‹°ë¥¼ ì´ë£° ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes fazer Grupo com jogadores de outros Reinos.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes convidar jogadores enquanto estás numa Caverna.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes convidar jogadores enquanto estÃ¡s numa Caverna.";
 
-"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes convidar um jogador enquanto estás Modo de Observação.";
+"<íŒŒí‹°> ê´€ì „ ëª¨ë“œì—ì„  íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes convidar um jogador enquanto estÃ¡s Modo de ObservaÃ§Ã£o.";
 
-"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupo] Apenas poderás convidar jogadores dentro do limite de 30 níveis abaixo ou acima do teu.";
+"<íŒŒí‹°> -30 ~ +30 ë ˆë²¨ ì´ë‚´ì˜ ìƒëŒ€ë°©ë§Œ ì´ˆëŒ€í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupo] Apenas poderÃ¡s convidar jogadores dentro do limite de 30 nÃ­veis abaixo ou acima do teu.";
 
-"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
-"Número dos outros participantes : %d";
+"í˜„ì¬ ë‚¨ì€ ì°¸ê°€ììˆ˜ : %d";
+"NÃºmero dos outros participantes : %d";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes convidar este jogador. O seu nível é demasiado baixo.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœê³  ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë‚®ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes convidar este jogador. O seu nÃ­vel Ã© demasiado baixo.";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes convidar este jogador. O seu nível é demasiado alto.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœì € ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë†’ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes convidar este jogador. O seu nÃ­vel Ã© demasiado alto.";
 
-"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes convidar mais jogadores para o teu Grupo.";
+"<íŒŒí‹°> ë” ì´ìƒ íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes convidar mais jogadores para o teu Grupo.";
 
-"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
+"%s ë‹˜ì—ê²Œ íŒŒí‹°ê°€ì… ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
 "Queres juntar-te ao Grupo %s?";
 
-"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"O jogador não está neste Grupo.";
+"ìƒëŒ€ë°©ì´ íŒŒí‹°ì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"O jogador nÃ£o estÃ¡ neste Grupo.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não te podes juntar a este Grupo. O Grupo está cheio.";
+"<íŒŒí‹°> íŒŒí‹°ì˜ ì¸ì›ì œí•œì´ ì´ˆê³¼í•˜ì—¬ íŒŒí‹°ì— ì°¸ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o te podes juntar a este Grupo. O Grupo estÃ¡ cheio.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Grupo] Não tens permissão para convidar alguém.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ìˆëŠ” ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o tens permissÃ£o para convidar alguÃ©m.";
 
-"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"<íŒŒí‹°> %s ë‹˜ì´ íŒŒí‹° ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
 "[Grupo] %s rejeitou o convite para o teu Grupo.";
 
-"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
-"[Grupo] %s já está no Grupo.";
+"<íŒŒí‹°> ì´ë¯¸ %së‹˜ì€ íŒŒí‹°ì— ì†í•´ ìˆìŠµë‹ˆë‹¤.";
+"[Grupo] %s jÃ¡ estÃ¡ no Grupo.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes aceitar um convite quando está numa Caverna.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes aceitar um convite quando estÃ¡ numa Caverna.";
 
-"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
+"OX ì´ë²¤íŠ¸ë¥¼ ë§ˆì¹˜ê²ŸìŠµë‹ˆë‹¤.";
 "O Evento OX terminou.";
 
-"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
+"OXì´ë²¤íŠ¸ë¥¼ ê°•ì œ ì¢…ë£Œ ì‹œí‚µë‹ˆë‹¤.";
 "O Evento OX terminou.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes aceitar o convite.";
+"<íŒŒí‹°> íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes aceitar o convite.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹° ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì…¨ìŠµë‹ˆë‹¤.";
 "[Grupo] %s recusou o teu convite.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
 "[Grupo] %s juntou-se ao teu Grupo.";
 
-"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> %së‹˜ì˜ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
 "[Grupo] %s juntou-se ao teu Grupo.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes abrir uma Loja Privada agora.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ê°œì¸ìƒì ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes abrir uma Loja Privada agora.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
-"Este jogador já está a negociar com outro jogador.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ë¥¼ í•˜ê³  ìˆëŠ” ì¤‘ì…ë‹ˆë‹¤.";
+"Este jogador jÃ¡ estÃ¡ a negociar com outro jogador.";
 
-"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
-"Metin2 - Número de Confirmação: %s";
+"ë©”í‹´2ì¸ì¦ë²ˆí˜¸: %s";
+"Metin2 - NÃºmero de ConfirmaÃ§Ã£o: %s";
 
-"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
-"O teu Número de Confirmação está incorrecto. Por favor tenta de novo.";
+"ì¸ì¦ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì„¸ìš”.";
+"O teu NÃºmero de ConfirmaÃ§Ã£o estÃ¡ incorrecto. Por favor tenta de novo.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
-"Não te podes teleportar para o jogador de momento.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"NÃ£o te podes teleportar para o jogador de momento.";
 
-"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não te podes teleportar para o jogador de momento.";
+"ìƒëŒ€ë°©ì´ ìˆëŠ” ê³³ìœ¼ë¡œ ì›Œí”„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o te podes teleportar para o jogador de momento.";
 
-"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
-"O prémio do Evento OX foi atribuído. ID: %d Quantidade: %d";
+"OX ìƒí’ˆì„ ì§€ê¸‰í•˜ì˜€ìŠµë‹ˆë‹¤. ID: %d ìˆ˜ëŸ‰: %d";
+"O prÃ©mio do Evento OX foi atribuÃ­do. ID: %d Quantidade: %d";
 
-"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"O jogador não está online.";
+"ìƒëŒ€ë°©ì´ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"O jogador nÃ£o estÃ¡ online.";
 
-"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"O jogador está no Canal %d. (Tu estás no Canal %d.)";
+"ìƒëŒ€ë°©ì´ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"O jogador estÃ¡ no Canal %d. (Tu estÃ¡s no Canal %d.)";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Não podes ir a nenhum lado %d segundos depois de abrires o Armazém.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes ir a nenhum lado %d segundos depois de abrires o ArmazÃ©m.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Não podes ir a nenhum lado pouco depois de negociar.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™,ì¢…ë£Œ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o podes ir a nenhum lado pouco depois de negociar.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes ir a nenhum lado %d segundos depois de negociares.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ì§€ì—­ìœ¼ë¡œ ì´ë™ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes ir a nenhum lado %d segundos depois de negociares.";
 
-"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"ëŒ€ë ¨ ìƒëŒ€ê°€ ì‚¬ë¼ì ¸ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
 "Duelo terminado. O teu inimigo desapareceu.";
 
-"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
-"Não há limite para Poções.";
+"ë¬¼ì•½ ì œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ limite para PoÃ§Ãµes.";
 
-"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
-"Podes usar até %d Poções.";
+"ë¬¼ì•½ì„ %d ê°œ ê¹Œì§€ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Podes usar atÃ© %d PoÃ§Ãµes.";
 
-"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
-"O combate começa dentro de 10 segundos.";
+"10ì´ˆë’¤ ëŒ€ë ¨ì´ ì‹œì‘ë©ë‹ˆë‹¤.";
+"O combate comeÃ§a dentro de 10 segundos.";
 
-"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"O Duelo começou.";
+"ëŒ€ë ¨ì´ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"O Duelo comeÃ§ou.";
 
-"Âü";
+"ì°¸";
 "VERDADEIRO";
 
-"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"ëŒ€ë ¨ì¥ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
 "O Duelo terminou porque existe um problema com a arena.";
 
-"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"ëŒ€ë ¨ ì‹œê°„ ì´ˆê³¼ë¡œ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
 "O Duelo terminou porque acabou o tempo.";
 
-"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤.";
 "Vais ser teleportado para a cidade dentro de 10 segundos.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
 "O Duelo terminou porque existem problemas com a arena.";
 
-"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"O teu adversário está com problemas. O Duelo terminou.";
+"ìƒëŒ€ë°© ìºë¦­í„°ì˜ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"O teu adversÃ¡rio estÃ¡ com problemas. O Duelo terminou.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"O Duelo terminou porque existe um problema com o teu adversário.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"O Duelo terminou porque existe um problema com o teu adversÃ¡rio.";
 
-"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"%s ë‹˜ì´ ëŒ€ë ¨ì—ì„œ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s ganhou o Duelo.";
 
-"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"%s ë‹˜ì´ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s ganhou.";
 
-"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ë˜ëŒì•„ê°‘ë‹ˆë‹¤.";
 "Vais ser teleportado para a cidade dentro de 10 segundos.";
 
-"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
-"A próxima ronda começa dentro de 10 segundos.";
+"10ì´ˆë’¤ ë‹¤ìŒ íŒì„ ì‹œì‘í•©ë‹ˆë‹¤.";
+"A prÃ³xima ronda comeÃ§a dentro de 10 segundos.";
 
-"°ÅÁş";
+"ê±°ì§“";
 "FALSO";
 
-"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
+"ìƒëŒ€ë°© ìºë¦­í„°ê°€ ì ‘ì†ì„ ì¢…ë£Œí•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ì§€í•©ë‹ˆë‹¤.";
 "Os lutadores foram separados. O Duelo foi terminado.";
 
-"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"ì•„ì´í…œ ë“œë¡­ë¥   %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
 "A probabilidade de Cair Itens foi aumentada em %d%%!";
 
-"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
 "A probabilidade de Cair Yang foi aumentada em %d%%!";
 
-"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"A probabilidade de queda de chuva de Yang actualmente está %d%% mais alta.";
+"ëŒ€ë°•ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"A probabilidade de queda de chuva de Yang actualmente estÃ¡ %d%% mais alta.";
 
-"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Actualmente o bónus de experiência é %d%%.";
+"ê²½í—˜ì¹˜ %d%% ì¶”ê°€ íšë“ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Actualmente o bÃ³nus de experiÃªncia Ã© %d%%.";
 
-"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
-"A tua versão do cliente de jogo não é a correcta. Por favor instala o patch correcto.";
+"í´ë¼ì´ì–¸íŠ¸ ë²„ì „ì´ í‹€ë ¤ ë¡œê·¸ì•„ì›ƒ ë©ë‹ˆë‹¤. ì •ìƒì ìœ¼ë¡œ íŒ¨ì¹˜ í›„ ì ‘ì†í•˜ì„¸ìš”.";
+"A tua versÃ£o do cliente de jogo nÃ£o Ã© a correcta. Por favor instala o patch correcto.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
-"Não podes negociar na loja enquanto outra janela está aberta.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes negociar na loja enquanto outra janela estÃ¡ aberta.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
-"Estás demasiado longe da Loja Privada para poderes comprar.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ ì‚´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"EstÃ¡s demasiado longe da Loja Privada para poderes comprar.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
-"Estás demasiado longe da Loja Privada para poderes vender.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ íŒ” ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"EstÃ¡s demasiado longe da Loja Privada para poderes vender.";
 
-"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
-"Não podes negociar porque tens mais de 2 Mil Milhões de Yang contigo.";
+"20ì–µëƒ¥ì´ ì´ˆê³¼í•˜ì—¬ ë¬¼í’ˆì„ íŒ”ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes negociar porque tens mais de 2 Mil MilhÃµes de Yang contigo.";
 
-"ÃÑ ÄûÁî ¼ö: %d";
-"Número total do Quiz: %d";
+"ì´ í€´ì¦ˆ ìˆ˜: %d";
+"NÃºmero total do Quiz: %d";
 
-"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
+"íŒë§¤ê¸ˆì•¡ì˜ %d %% ê°€ ì„¸ê¸ˆìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤";
 "A venda tem uma Taxa de Impostos de %d%%.";
 
-"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
-"Não podes montar um Cavalo enquanto estiveres transformado.";
+"ë³€ì‹  ìƒíƒœì—ì„œëŠ” ë§ì— íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes montar um Cavalo enquanto estiveres transformado.";
 
-"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Não podes montar um Cavalo enquanto usas um Vestido de Noiva ou um Fato de Casamento.";
+"ì˜ˆë³µì„ ì…ì€ ìƒíƒœì—ì„œ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes montar um Cavalo enquanto usas um Vestido de Noiva ou um Fato de Casamento.";
 
-"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Não possuis um Cavalo.";
+"ë§ì„ ì†Œìœ í•˜ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"NÃ£o possuis um Cavalo.";
 
-"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
-"O teu Cavalo está morto.";
+"ë§ì´ ì£½ì–´ìˆëŠ” ìƒíƒœ ì…ë‹ˆë‹¤.";
+"O teu Cavalo estÃ¡ morto.";
 
-"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"A resistência do teu Cavalo é demasiado baixa.";
+"ë§ì˜ ìŠ¤í…Œë¯¸ë„ˆê°€ ë¶€ì¡±í•˜ì—¬ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A resistÃªncia do teu Cavalo Ã© demasiado baixa.";
 
-"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"ë§ ì†Œí™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "A tentativa de chamar o Cavalo falhou.";
 
-"´ÔÀÇ ¸»";
+"ë‹˜ì˜ ë§";
 "Cavalo";
 
-"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
-"O Casamento terminará em breve.";
+"ê²°í˜¼ì‹ì´ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"O Casamento terminarÃ¡ em breve.";
 
-"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
-"Sairás deste mapa automaticamente.";
+"ìë™ìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤.";
+"SairÃ¡s deste mapa automaticamente.";
 
-"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
-"A Guerra já terminou.";
+"ì´ë¯¸ ì „ìŸì´ ëë‚¬ìŠµë‹ˆë‹¤.";
+"A Guerra jÃ¡ terminou.";
 
-"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
-"A resposta será exibida dentro de 10 segundos.";
+"10ì´ˆë’¤ íŒì •í•˜ê² ìŠµë‹ˆë‹¤.";
+"A resposta serÃ¡ exibida dentro de 10 segundos.";
 
-"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes negociar enquanto estás no Modo de Observação.";
+"ê´€ì „ ìƒíƒœì—ì„œëŠ” êµí™˜ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes negociar enquanto estÃ¡s no Modo de ObservaÃ§Ã£o.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Se a janela estiver aberta, não podes negociar com outros.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë ¤ìˆì„ê²½ìš° ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Se a janela estiver aberta, nÃ£o podes negociar com outros.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"A outra pessoa encontra-se ocupada, por isso não podes negociar neste momento.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ì¤‘ì´ë¼ ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A outra pessoa encontra-se ocupada, por isso nÃ£o podes negociar neste momento.";
 
-"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"A outra pessoa cancelou o negócio.";
+"ìƒëŒ€ë°©ì´ êµí™˜ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"A outra pessoa cancelou o negÃ³cio.";
 
-"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Não tens Yang suficiente ou tens pouco espaço no Inventário.";
+"ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o tens Yang suficiente ou tens pouco espaÃ§o no InventÃ¡rio.";
 
-"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"A outra pessoa não tem Yang suficiente ou tem pouco espaço no Inventário.";
+"ìƒëŒ€ë°©ì˜ ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"A outra pessoa nÃ£o tem Yang suficiente ou tem pouco espaÃ§o no InventÃ¡rio.";
 
-"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"A outra pessoa não tem espaço no Inventário.";
+"ìƒëŒ€ë°©ì˜ ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"A outra pessoa nÃ£o tem espaÃ§o no InventÃ¡rio.";
 
-"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
-"O negócio com %s foi bem sucedido.";
+"%s ë‹˜ê³¼ì˜ êµí™˜ì´ ì„±ì‚¬ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"O negÃ³cio com %s foi bem sucedido.";
 
-"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Não perdeste Experiência devido à bênção do Deus Dragão.";
+"ìš©ì‹ ì˜ ê°€í˜¸ë¡œ ê²½í—˜ì¹˜ê°€ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"NÃ£o perdeste ExperiÃªncia devido Ã  bÃªnÃ§Ã£o do Deus DragÃ£o.";
 
-"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
-"Pontuação Actual - Shinsoo: %d, Chunjo: %d, Jinno: %d";
+"í˜„ì¬ ìŠ¤ì½”ì–´ ì‹ ìˆ˜êµ­:%d ì²œì¡°êµ­:%d ì§„ë…¸êµ­:%d";
+"PontuaÃ§Ã£o Actual - Shinsoo: %d, Chunjo: %d, Jinno: %d";
 
-"Á¤´äÀº";
-"A resposta correcta é:";
+"ì •ë‹µì€";
+"A resposta correcta Ã©:";
 
-"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
-"%s Nº Mortes (sofridas) %d Reino  %d Nº de Mortes (infligidas) %d (Propósito %d) Nº Mobs Mortos %d, Bandeira de Regeneração %d";
+"ì£½ì€ ì •ë³´ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s NÂº Mortes (sofridas) %d Reino  %d NÂº de Mortes (infligidas) %d (PropÃ³sito %d) NÂº Mobs Mortos %d, Bandeira de RegeneraÃ§Ã£o %d";
 
-"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
-"O Demónio da Terra Sagrada: [ENTER][ENTER]";
+"ì„±ì§€ì˜ ë§ˆì™•: ë„ˆí¬ ";
+"O DemÃ³nio da Terra Sagrada: [ENTER][ENTER]";
 
-"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
-", não tens qualquer direito de estar aqui! Os membros do teu reino irão abandonar este terreno sagrado dentro de 10 segundos.";
+"ë…€ì„ë“¤ì€ ì´ê³³ ì„±ì§€ì— ìˆì„ ìê²©ì„ ìƒì—ˆë‹¤. ëª¨ë‘ ì„±ì§€ì—ì„œ ë¬¼ëŸ¬ë‚˜ê±°ë¼~~[ENTER][ENTER] 10ì´ˆ í›„ì— ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™í•˜ê²Œ ë©ë‹ˆë‹¤. ";
+", nÃ£o tens qualquer direito de estar aqui! Os membros do teu reino irÃ£o abandonar este terreno sagrado dentro de 10 segundos.";
 
-"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
-"O Reino %s foi derrotado e está fora da Guerra dos Reinos.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ì—ì„œ %s êµ­ê°€ê°€ ê°€ì¥ë¨¼ì € íƒˆë½ì„ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"O Reino %s foi derrotado e estÃ¡ fora da Guerra dos Reinos.";
 
-"»ï°Å¸® ¸÷ ¸®Á¨";
-"Número de monstros na Guerra dos Reinos:";
+"ì‚¼ê±°ë¦¬ ëª¹ ë¦¬ì  ";
+"NÃºmero de monstros na Guerra dos Reinos:";
 
-". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
-"Se derrotares o Guarda do Lugar Sagrado irás tornar-te dono desse lugar.";
+". ë„ˆí¬ê°€ ì„±ì§€ì˜ ìˆ˜í˜¸ìë¥¼ ì¡ê²Œ ëœë‹¤ë©´ ë„ˆí¬ëŠ” ì„±ì§€ì˜ ì£¼ì¸ì´ ëœë‹¤.[ENTER][ENTER] ";
+"Se derrotares o Guarda do Lugar Sagrado irÃ¡s tornar-te dono desse lugar.";
 
-"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Não deixaste cair nenhum(ns) Item(s) porque estás protegido pelo Deus Dragão.";
+"ìš©ì‹ ì˜ ë³´í˜¸ë¡œ ì•„ì´í…œì´ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"NÃ£o deixaste cair nenhum(ns) Item(s) porque estÃ¡s protegido pelo Deus DragÃ£o.";
 
-"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
+"ê´€í†µ ì¶”ê°€ ë°ë¯¸ì§€ %d";
 "Dano Adicional de Impacto %d";
 
-"%s ºí·°! (%ld%%)";
+"%s ë¸”ëŸ­! (%ld%%)";
 "%s bloqueado! (%d%%)";
 
-"%s È¸ÇÇ! (%ld%%)";
+"%s íšŒí”¼! (%ld%%)";
 "%s evitado! (%d%%)";
 
-"O ÀÔ´Ï´Ù";
+"O ì…ë‹ˆë‹¤";
 "Sim (O)";
 
-"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
-"%s[%d] Posição de Ataque: %d %d";
+"%s[%ld]ê°€ ê³µê²© ìœ„ì¹˜: %d %d";
+"%s[%d] PosiÃ§Ã£o de Ataque: %d %d";
 
-"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
+"ëª…ë ¹ì–´ë¥¼ ëª¨ë‘ ì…ë ¥í•˜ì„¸ìš”.";
 "Por favor insere a Ordem completa.";
 
-"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes fazer isto enquanto estiveres montado num Cavalo.";
+"íƒ„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes fazer isto enquanto estiveres montado num Cavalo.";
 
-"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes fazer isto enquanto estás deitado no chão.";
+"ì“°ëŸ¬ì§„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes fazer isto enquanto estÃ¡s deitado no chÃ£o.";
 
-"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
-"Nos meus sonhos? O quê?";
+"ê¿ˆì†ì—ì„œ ì–´ë–»ê²Œìš”?";
+"Nos meus sonhos? O quÃª?";
 
-"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
+"ë¨¼ì € ì¼ì–´ ë‚˜ì„¸ìš”.";
 "Levanta-te primeiro.";
 
-"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
-"Esta Ordem não existe.";
+"ê·¸ëŸ° ëª…ë ¹ì–´ëŠ” ì—†ìŠµë‹ˆë‹¤";
+"Esta Ordem nÃ£o existe.";
 
-"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ê°€ í•´ì‚° ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "[Grupo] O Grupo foi apagado.";
 
-"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes chamar o alvo.";
+"<íŒŒí‹°> ëŒ€ìƒì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes chamar o alvo.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupo] Não podes chamar os Membros do Grupo para a tua localização actual.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ í˜„ì¬ ìœ„ì¹˜ë¡œ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupo] NÃ£o podes chamar os Membros do Grupo para a tua localizaÃ§Ã£o actual.";
 
-"X ÀÔ´Ï´Ù";
-"Não (X)";
+"X ì…ë‹ˆë‹¤";
+"NÃ£o (X)";
 
-"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
-"O teu grupo trabalha bem em conjunto e membros do grupo perto do líder do grupo recebem um bónus de experiência.";
+"íŒŒí‹°ì˜ í˜‘ë™ë ¥ì´ ë†’ì•„ì ¸ ì§€ê¸ˆë¶€í„° ì¶”ê°€ ê²½í—˜ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ìŠµë‹ˆë‹¤.";
+"O teu grupo trabalha bem em conjunto e membros do grupo perto do lÃ­der do grupo recebem um bÃ³nus de experiÃªncia.";
 
-"±æµåÀå";
-"Líder";
+"ê¸¸ë“œì¥";
+"LÃ­der";
 
-"±æµå¿ø";
+"ê¸¸ë“œì›";
 "Membro";
 
-"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
-"[Guild] A Experiência doada é mais alta que a Experiência em falta.";
+"<ê¸¸ë“œ> ì œê³µí•˜ê³ ì í•˜ëŠ” ê²½í—˜ì¹˜ê°€ ë‚¨ì€ ê²½í—˜ì¹˜ë³´ë‹¤ ë§ìŠµë‹ˆë‹¤.";
+"[Guild] A ExperiÃªncia doada Ã© mais alta que a ExperiÃªncia em falta.";
 
-"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
-"[Guild] A mensagem não pode ser apagada.";
+"<ê¸¸ë“œ> ì‚­ì œí•  ìˆ˜ ì—†ëŠ” ê¸€ì…ë‹ˆë‹¤.";
+"[Guild] A mensagem nÃ£o pode ser apagada.";
 
-"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
-"[Guild] Dragões Fantasma insuficientes. (%d, %d)";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤. (%d, %d)";
+"[Guild] DragÃµes Fantasma insuficientes. (%d, %d)";
 
-"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Ainda não podes usar as Habilidades de Guild.";
+"<ê¸¸ë“œ> ì¿¨íƒ€ì„ì´ ëë‚˜ì§€ ì•Šì•„ ê¸¸ë“œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Ainda nÃ£o podes usar as Habilidades de Guild.";
 
-"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
+"<ê¸¸ë“œ> %d ìŠ¤í‚¬ì„ ì‚¬ìš©í•¨ (%d, %d) to %lu";
 "[Guild] %d Habilidades usadas (%d, %d) para %u.";
 
-"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
 "[Guild] O jogador encontra-se no Canal %d. (O teu Canal actual: %d)";
 
-"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"[Guild] O jogador não se encontra online.";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Guild] O jogador nÃ£o se encontra online.";
 
-"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
-"Daqui a 5 segundos todos os participantes que deram uma resposta errada irão ser removidos.";
+"5ì´ˆ ë’¤ í‹€ë¦¬ì‹  ë¶„ë“¤ì„ ë°”ê¹¥ìœ¼ë¡œ ì´ë™ ì‹œí‚¤ê² ìŠµë‹ˆë‹¤.";
+"Daqui a 5 segundos todos os participantes que deram uma resposta errada irÃ£o ser removidos.";
 
-"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Guild] Esta Habilidade de Guild só pode ser usada em Guerras.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ì€ ê¸¸ë“œì „ ì¤‘ì—ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Guild] Esta Habilidade de Guild sÃ³ pode ser usada em Guerras.";
 
-"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
-"[Guild] %u Dragões Fantasma restaurados.";
+"<ê¸¸ë“œ> %luì˜ ìš©ì‹ ë ¥ì„ íšŒë³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Guild] %u DragÃµes Fantasma restaurados.";
 
-"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Guild] Apenas o Líder da Guild poderá retirar o Yang.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ê¸ˆê³ ì—ì„  ê¸¸ë“œì¥ë§Œ ì¶œê¸ˆí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Guild] Apenas o LÃ­der da Guild poderÃ¡ retirar o Yang.";
 
-"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê¸¸ë“œ ì´ˆëŒ€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
 "[Guild] O jogador rejeitou o teu convite para a Guild.";
 
-"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Guild] Não podes convidar jogadores para a Guild.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ì´ˆëŒ€í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes convidar jogadores para a Guild.";
 
-"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Não podes convidar jogadores de outro Reino para a Guild.";
+"<ê¸¸ë“œ> ë‹¤ë¥¸ ì œêµ­ ì‚¬ëŒì„ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] NÃ£o podes convidar jogadores de outro Reino para a Guild.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Guild] Este jogador pode ser convidado novamente daqui a %d dia(s).";
 
-"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Depois da reorganização irás poder convidar membros de novo daqui a %d dias.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ í•´ì‚°í•œ ì§€ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Depois da reorganizaÃ§Ã£o irÃ¡s poder convidar membros de novo daqui a %d dias.";
 
-"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
-"[Guild] Este jogador já é membro de outra Guild.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ì´ë¯¸ ë‹¤ë¥¸ ê¸¸ë“œì— ì†í•´ìˆìŠµë‹ˆë‹¤.";
+"[Guild] Este jogador jÃ¡ Ã© membro de outra Guild.";
 
-"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
-"[Guild] A Guild atingiu a capacidade máxima de membros.";
+"<ê¸¸ë“œ> ìµœëŒ€ ê¸¸ë“œì› ìˆ˜ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.";
+"[Guild] A Guild atingiu a capacidade mÃ¡xima de membros.";
 
-"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
-"Preparado(s) para a próxima questão?";
+"ë‹¤ìŒ ë¬¸ì œ ì¤€ë¹„í•´ì£¼ì„¸ìš”.";
+"Preparado(s) para a prÃ³xima questÃ£o?";
 
-"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Não podes treinar esta Habilidade.";
+"ìˆ˜ë ¨í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"NÃ£o podes treinar esta Habilidade.";
 
-"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes treinar esta Habilidade.";
+"ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes treinar esta Habilidade.";
 
-"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Não podes treinar esta Habilidade até Grande Mestre.";
+"ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"NÃ£o podes treinar esta Habilidade atÃ© Grande Mestre.";
 
-"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Já és Mestre nesta habilidade. Não podes treiná-la mais.";
+"í¼í™íŠ¸ ë§ˆìŠ¤í„°ëœ ìŠ¤í‚¬ì…ë‹ˆë‹¤. ë” ì´ìƒ ìˆ˜ë ¨ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"JÃ¡ Ã©s Mestre nesta habilidade. NÃ£o podes treinÃ¡-la mais.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"A tua Habilidade não é alta o suficiente para o treino de Grande Mestre.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"A tua Habilidade nÃ£o Ã© alta o suficiente para o treino de Grande Mestre.";
 
-"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
-"Não funcionou. Raios!";
+"í¬ìœ½, ê¸°ê°€ ì—­ë¥˜í•˜ê³  ìˆì–´! ì´ê±° ì„¤ë§ˆ ì£¼í™”ì…ë§ˆì¸ê°€!? ì  ì¥!";
+"NÃ£o funcionou. Raios!";
 
-"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
+"ìˆ˜ë ¨ì´ ì‹¤íŒ¨ë¡œ ëë‚¬ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ë„ì „í•´ì£¼ì‹œê¸° ë°”ëë‹ˆë‹¤.";
 "Treino falhado. Por favor tenta de novo mais tarde.";
 
-"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
-"O meu corpo está cheio de energia!";
+"ëª¸ì—ì„œ ë­”ê°€ í˜ì´ í„°ì ¸ ë‚˜ì˜¤ëŠ” ê¸°ë¶„ì´ì•¼!";
+"O meu corpo estÃ¡ cheio de energia!";
 
-"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
-"Parece que o treino já está a fazer efeito...";
+"ëœ¨ê±°ìš´ ë¬´ì—‡ì´ ê³„ì† ìš©ì†ŸìŒì¹˜ê³  ìˆì–´! ì´ê±´, ì´ê²ƒì€!";
+"Parece que o treino jÃ¡ estÃ¡ a fazer efeito...";
 
-"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
 "Terminaste com sucesso o teu treino com o Livro.";
 
-"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Não podes ler isto porque tens pouca Experiência.";
+"ê²½í—˜ì¹˜ê°€ ë¶€ì¡±í•˜ì—¬ ì±…ì„ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes ler isto porque tens pouca ExperiÃªncia.";
 
 "Pregunta.";
-"Questão.";
+"QuestÃ£o.";
 
-"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes treinar esta Habilidade com um Livro.";
+"ì´ ìŠ¤í‚¬ì€ ì±…ìœ¼ë¡œ ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes treinar esta Habilidade com um Livro.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Esta Habilidade não é alta o suficiente para ser treinada com um Livro.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ì±…ìœ¼ë¡œ ìˆ˜ë ¨í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Esta Habilidade nÃ£o Ã© alta o suficiente para ser treinada com um Livro.";
 
-"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
-"Estou a fazer progressos mas ainda não consigo entender tudo.";
+"ì–´ëŠì •ë„ ì´ ê¸°ìˆ ì— ëŒ€í•´ ì´í•´ê°€ ë˜ì—ˆì§€ë§Œ ì¡°ê¸ˆ ë¶€ì¡±í•œë“¯ í•œë°..";
+"Estou a fazer progressos mas ainda nÃ£o consigo entender tudo.";
 
-"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
-"Esta técnica é difícil de compreender. Tenho de continuar os estudos.";
+"ë“œë””ì–´ ëì´ ë³´ì´ëŠ” ê±´ê°€...  ì´ ê¸°ìˆ ì€ ì´í•´í•˜ê¸°ê°€ ë„ˆë¬´ í˜ë“¤ì–´..";
+"Esta tÃ©cnica Ã© difÃ­cil de compreender. Tenho de continuar os estudos.";
 
-"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
-"Eu entendi este capítulo mas vou ter de continuar a trabalhar muito.";
+"ì—´ì‹¬íˆ í•˜ëŠ” ë°°ì›€ì„ ê°€ì§€ëŠ” ê²ƒë§Œì´ ê¸°ìˆ ì„ ë°°ìš¸ìˆ˜ ìˆëŠ” ìœ ì¼í•œ ê¸¸ì´ë‹¤..";
+"Eu entendi este capÃ­tulo mas vou ter de continuar a trabalhar muito.";
 
-"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"ì±…ìœ¼ë¡œ ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
 "Terminaste com sucesso o teu treino com o Livro.";
 
-"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Teleportação falhada.";
+"ê·€í™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"TeleportaÃ§Ã£o falhada.";
 
-"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
-"Não há Cavalo. Pergunta ao Rapaz dos Estábulos.";
+"ë§ì´ ì—†ìŠµë‹ˆë‹¤. ë§ˆêµ¿ê°„ ê²½ë¹„ë³‘ì„ ì°¾ì•„ê°€ì„¸ìš”.";
+"NÃ£o hÃ¡ Cavalo. Pergunta ao Rapaz dos EstÃ¡bulos.";
 
-"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
+"ë§ ì†Œí™˜ ì•„ì´í…œì„ ì‚¬ìš©í•˜ì„¸ìš”.";
 "Por favor utiliza um Item para chamar um Cavalo.";
 
-"%s SP¼Ò¸ğ: %d";
-"%s Utilização de FP: %d";
+"%s SPì†Œëª¨: %d";
+"%s UtilizaÃ§Ã£o de FP: %d";
 
-"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
+"ë§ìœ¼ë©´ O, í‹€ë¦¬ë©´ Xë¡œ ì´ë™í•´ì£¼ì„¸ìš”";
 "Se estiver correcta dirige-te para o O, se estiver errada dirige-te para o X.";
 
-"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
+"ëª¸ ì†ì´ ëœ¨ê²êµ°. í•˜ì§€ë§Œ ì•„ì£¼ í¸ì•ˆí•´. ì´ëŒ€ë¡œ ê¸°ë¥¼ ì•ˆì •ì‹œí‚¤ì.";
 "Estou a arder no meu interior, mas isso relaxa o meu corpo.";
 
-"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
+"ê·¸ë˜, ì²œì²œíˆ. ì¢€ë” ì²œì²œíˆ, ê·¸ëŸ¬ë‚˜ ë§‰í˜ ì—†ì´ ë¹ ë¥´ê²Œ!";
 "Devagar, mas de forma segura... Sem paragens.";
 
-"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
-"Sim, a sensação é óptima. O meu corpo está cheio de Chi.";
+"ê·¸ë˜, ì´ ëŠë‚Œì´ì•¼. ì²´ë‚´ì— ê¸°ê°€ ì•„ì£¼ ì¶©ë§Œí•´.";
+"Sim, a sensaÃ§Ã£o Ã© Ã³ptima. O meu corpo estÃ¡ cheio de Chi.";
 
-"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
-"Eu li-o! Agora Chi irá correr pelo meu corpo.";
+"ë‹¤ ì½ì—ˆë‹¤! ì´ì œ ë¹„ê¸‰ì— ì í˜€ìˆëŠ” ëŒ€ë¡œ ì „ì‹ ì— ê¸°ë¥¼ ëŒë¦¬ê¸°ë§Œ í•˜ë©´,";
+"Eu li-o! Agora Chi irÃ¡ correr pelo meu corpo.";
 
-"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
-"O treino está terminado.";
+"ê·¸ê²ƒìœ¼ë¡œ ìˆ˜ë ¨ì€ ëë‚œ ê±°ì•¼!";
+"O treino estÃ¡ terminado.";
 
-"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
-"Cheguei à última página do livro. O meu treino está perto do fim!";
+"ì´ì œ ì±…ì˜ ë§ˆì§€ë§‰ ì¥ì´ì•¼! ìˆ˜ë ¨ì˜ ëì´ ëˆˆì— ë³´ì´ê³  ìˆì–´!";
+"Cheguei Ã  Ãºltima pÃ¡gina do livro. O meu treino estÃ¡ perto do fim!";
 
-"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
-"Está quase feito! Só falta um pouco!";
+"ì–¼ë§ˆ ì•ˆ ë‚¨ì•˜ì–´! ì¡°ê¸ˆë§Œ ë”!";
+"EstÃ¡ quase feito! SÃ³ falta um pouco!";
 
-"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
-"Sinto-me iluminado! Já o li quase todo!";
+"ì¢‹ì•˜ì–´! ì¡°ê¸ˆë§Œ ë” ì½ìœ¼ë©´ ëì´ë‹¤!";
+"Sinto-me iluminado! JÃ¡ o li quase todo!";
 
-"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
-"Mais umas páginas e já tenho tudo lido.";
+"ì±…ì¥ë„ ì´ì œ ì–¼ë§ˆ ë‚¨ì§€ ì•Šì•˜êµ°.";
+"Mais umas pÃ¡ginas e jÃ¡ tenho tudo lido.";
 
-"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
+"ë­”ê°€ ëª¸ ì•ˆì— í˜ì´ ìƒê¸°ëŠ” ê¸°ë¶„ì¸ ê±¸.";
 "Sinto-me refrescado.";
 
-"Á¤´äÀÔ´Ï´Ù!";
+"ì •ë‹µì…ë‹ˆë‹¤!";
 "Correcto!";
 
-"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
+"ì´ì œ ì¢€ ìŠ¬ìŠ¬ ê°€ë‹¥ì´ ì¡íˆëŠ” ê²ƒ ê°™ì€ë°.";
 "Agora eu compreendo!";
 
-"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
+"ì¢‹ì•„, ì´ ê¸°ì„¸ë¡œ ê³„ì† ë‚˜ê°„ë‹¤!";
 "Ok, tenho de me manter concentrado!";
 
-"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
+"ì•„ë‹ˆ ì–´ë–»ê²Œ ëœ ê²Œ ì¢…ì¼ ì½ì–´ë„ ë¨¸ë¦¬ì— ì•ˆ ë“¤ì–´ì˜¤ëƒ.";
 "Estou sempre a ler a mesma linha.";
 
-"°øºÎÇÏ±â ½È¾îÁö³×.";
-"Não quero aprender mais.";
+"ê³µë¶€í•˜ê¸° ì‹«ì–´ì§€ë„¤.";
+"NÃ£o quero aprender mais.";
 
-"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
-"É mais difícil de compreender do que eu pensava.";
+"ìƒê°ë§Œí¼ ì½ê¸°ê°€ ì‰½ì§€ê°€ ì•Šêµ°. ì´í•´ë„ ì–´ë µê³  ë‚´ìš©ë„ ë‚œí•´í•´.";
+"Ã‰ mais difÃ­cil de compreender do que eu pensava.";
 
-"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
-"É difícil concentrar-me. Eu devia descansar um pouco.";
+"ì´ë˜ì„œì•¼ ê³µë¶€ê°€ ì•ˆëœë‹¤êµ¬.";
+"Ã‰ difÃ­cil concentrar-me. Eu devia descansar um pouco.";
 
-"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
+"ìš´ì˜ì ì œì œë¡œ ì±„íŒ…ì´ ê¸ˆì§€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "O teu chat foi bloqueado por um GM.";
 
-"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
+"ì±„íŒ… ê¸ˆì§€ê°€ í’€ë ¸ìŠµë‹ˆë‹¤.";
 "O bloqueio do teu chat foi levantado.";
 
-"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
-"A Janela de Construção já está aberta.";
+"ì´ë¯¸ ì œì¡°ì°½ì´ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"A Janela de ConstruÃ§Ã£o jÃ¡ estÃ¡ aberta.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes construir nada enquanto a Janela de Comércio/Armazém estiver aberta.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes construir nada enquanto a Janela de ComÃ©rcio/ArmazÃ©m estiver aberta.";
 
-"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não é possível melhorar mais.";
+"ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o Ã© possÃ­vel melhorar mais.";
 
-"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
-"A Janela de Construção não está aberta.";
+"ì œì¡°ì°½ì´ ì—´ë ¤ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"A Janela de ConstruÃ§Ã£o nÃ£o estÃ¡ aberta.";
 
-"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
-"Não possuis o material correcto.";
+"ì œì¡° ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤";
+"NÃ£o possuis o material correcto.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤";
 "[Guild] Por favor tenta de novo mais tarde.";
 
-"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Sucesso! Já só preciso de mais %d Livros para o próximo nível.";
+"%d ê¶Œì„ ë” ì½ì–´ì•¼ ìˆ˜ë ¨ì„ ì™„ë£Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Sucesso! JÃ¡ sÃ³ preciso de mais %d Livros para o prÃ³ximo nÃ­vel.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤.";
 "[Guild] Por favor tenta de novo mais tarde.";
 
-"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
-"Está função apenas poderá ser utilizada enquanto estás no Castelo.";
+"ì„±ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤.";
+"EstÃ¡ funÃ§Ã£o apenas poderÃ¡ ser utilizada enquanto estÃ¡s no Castelo.";
 
-"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ê°€ êµ­ê³ ë¡œ í™˜ì›ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "TEST: A Barra de Ouro foi paga ao Cofre do Reino.";
 
-"TEST : ÇöÀç ±¹°í : %d";
-"TEST: No Cofre do teu Reino estão: %d";
+"TEST : í˜„ì¬ êµ­ê³  : %d";
+"TEST: No Cofre do teu Reino estÃ£o: %d";
 
-"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"TEST: Não podes pagar a Barra de Ouro ao Cofre do teu Reino.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ë¥¼ êµ­ê³ ë¡œ í™˜ì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TEST: NÃ£o podes pagar a Barra de Ouro ao Cofre do teu Reino.";
 
-"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
+"<ê¸¸ë“œ> ë˜ë” ì ìˆ˜ê°€ %d ì ì´ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "[Guild] A Guild atingiu os %d Pontos.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Este Item não pode ser melhorado.";
+"ì´ ì•„ì´í…œì€ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este Item nÃ£o pode ser melhorado.";
 
-"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
-"As adições gratuitas a armas apenas podem ser usadas em armas até ao nível 20.";
+"ë¬´ë£Œ ê°œëŸ‰ ê¸°íšŒëŠ” 20 ì´í•˜ì˜ ë¬´ê¸°ë§Œ ê°€ëŠ¥í•©ë‹ˆë‹¤";
+"As adiÃ§Ãµes gratuitas a armas apenas podem ser usadas em armas atÃ© ao nÃ­vel 20.";
 
-"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar esse Item porque não tens todas as qualificações.";
+"êµ°ì§ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar esse Item porque nÃ£o tens todas as qualificaÃ§Ãµes.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes usar esse Item porque não és do sexo correcto.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes usar esse Item porque nÃ£o Ã©s do sexo correcto.";
 
-"»ç¿ë¹ı: transfer <name>";
+"ì‚¬ìš©ë²•: transfer <name>";
 "Usar: transfer <name>";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Esta função apenas pode ser usada pelo Monarca.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš© ê°€ëŠ¥í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Esta funÃ§Ã£o apenas pode ser usada pelo Monarca.";
 
-"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes recrutar jogadores de outros Reinos.";
+"ë‹¤ë¥¸ ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes recrutar jogadores de outros Reinos.";
 
-"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
-"O jogador %s está neste momento no Canal %d (O teu Canal %d)";
+"%s ë‹˜ì€ %d ì±„ë„ì— ì ‘ì† ì¤‘ ì…ë‹ˆë‹¤. (í˜„ì¬ ì±„ë„: %d)";
+"O jogador %s estÃ¡ neste momento no Canal %d (O teu Canal %d)";
 
-"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
+"%s ë‹˜ì„ ì†Œí™˜í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Recrutaste %s jogadores.";
 
-"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Não existe nenhum utilizador com esse nome.";
+"ì…ë ¥í•˜ì‹  ì´ë¦„ì„ ê°€ì§„ ì‚¬ìš©ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o existe nenhum utilizador com esse nome.";
 
-"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes recrutar-te a ti próprio.";
+"ìì‹ ì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes recrutar-te a ti prÃ³prio.";
 
-"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"O teu Nível é mais baixo que o Nível com que o Item ficará após o melhoramento.";
+"ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"O teu NÃ­vel Ã© mais baixo que o NÃ­vel com que o Item ficarÃ¡ apÃ³s o melhoramento.";
 
-"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Não podes melhorar nada enquanto outra janela está aberta.";
+"ì°½ê³ ,ê±°ë˜ì°½ë“±ì´ ì—´ë¦° ìƒíƒœì—ì„œëŠ” ê°œëŸ‰ì„ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"NÃ£o podes melhorar nada enquanto outra janela estÃ¡ aberta.";
 
-"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
+"%sì˜ êµ°ì£¼ê°€ %s ë‹˜ìœ¼ë¡œ êµì²´ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "O Monarca de %s mudou para %s";
 
-"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
-"Estão a decorrer %s Guerras para acender as Tochas.";
+"%sì—ì„œ ë´‰í™”ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ì „íˆ¬ê°€ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤.";
+"EstÃ£o a decorrer %s Guerras para acender as Tochas.";
 
-"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
+"%sì´ ìˆ˜ì„±ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
 "%s conseguiu defender com sucesso.";
 
-"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Durante os próximos 30 minutos o jogador %s poderá receber uma recompensa pela destruição da Tocha.";
+"ì§€ê¸ˆë¶€í„° %sì€ 30ë¶„ê°„ ë´‰í™”ë¥¼ íŒŒê´´í•˜ì—¬ ë³´ìƒì„ íšë“ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Durante os prÃ³ximos 30 minutos o jogador %s poderÃ¡ receber uma recompensa pela destruiÃ§Ã£o da Tocha.";
 
-"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
+"30ë¶„ì´ ê²½ê³¼í–ˆìŠµë‹ˆë‹¤.. ë´‰í™”ê°€ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "Os 30 minutos terminaram. As Tochas desapareceram.";
 
-"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
+"%sì— ì „ìŸì˜ ì‹œì‘ì„ ì•Œë¦¬ëŠ” ë´‰í™”ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤.";
 "Uma Tocha foi acesa em %s para anunciar uma batalha.";
 
-"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
+"%sì´ ë´‰í™”ë¥¼ íŒŒê´´í–ˆìŠµë‹ˆë‹¤.";
 "%s destruiu a Tocha.";
 
-"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
-"%s perderam a Guerra porque não conseguíram defender o Castelo.";
+"%sì´ ìˆ˜ì„±ì— ì‹¤íŒ¨í•˜ì—¬ ì „ìŸì— íŒ¨ë°°í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"%s perderam a Guerra porque nÃ£o conseguÃ­ram defender o Castelo.";
 
-"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
+"%sì´ ëª¨ë“  ë´‰í™”ë¥¼ íŒŒê´´í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s destruiu a Tocha.";
 
-"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
-"Só podes abrir uma Loja Privada se desequipares a Armadura.";
+"ê°‘ì˜·ì„ ë²—ì–´ì•¼ ê°œì¸ ìƒì ì„ ì—´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"SÃ³ podes abrir uma Loja Privada se desequipares a Armadura.";
 
-"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Faltam %d horas, %d minutos e %d segundos para o bloqueio de chat passar.";
 
-"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Faltam %d horas e %d segundos para o teu bloqueio de chat passar.";
 
-"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Faltam %d minutos e %d segundos para o teu bloqueio de chat passar.";
 
-"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
+"ëˆ ëŒ€ë°•ì´ ë‚˜ì˜¬ í™•ë¥ ";
 "Probabilidade de Queda de Chuva de Yang";
 
-"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Não tens material suficiente para um melhoramento.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"NÃ£o tens material suficiente para um melhoramento.";
 
-"ÀüÁ¦±¹";
+"ì „ì œêµ­";
 "Todos os Reinos";
 
-"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
-"Rácio de queda de Itens";
+"ì•„ì´í…œì´ ë‚˜ì˜¬ í™•ë¥ ";
+"RÃ¡cio de queda de Itens";
 
-"µ·ÀÌ ³ª¿Ã È®·ü";
-"Rácio de queda de Yang";
+"ëˆì´ ë‚˜ì˜¬ í™•ë¥ ";
+"RÃ¡cio de queda de Yang";
 
-"°æÇèÄ¡ ¹èÀ²";
-"Percentagem de Experiência";
+"ê²½í—˜ì¹˜ ë°°ìœ¨";
+"Percentagem de ExperiÃªncia";
 
-"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Faltam %d segundos para o bloqueio do chat acabar.";
 
-"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não poderás efectuar emoções enquanto estiveres a montar um cavalo.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o poderÃ¡s efectuar emoÃ§Ãµes enquanto estiveres a montar um cavalo.";
 
-"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não poderás usar emoções com um jogador que esteja a montar a cavalo.";
+"ë§ì„ íƒ„ ìƒëŒ€ì™€ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o poderÃ¡s usar emoÃ§Ãµes com um jogador que esteja a montar a cavalo.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Guild] O Líder da Guild inimiga não se encontra ligado.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì¥ì´ ì ‘ì†ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Guild] O LÃ­der da Guild inimiga nÃ£o se encontra ligado.";
 
-"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] O Líder da Guild inimiga não se encontra ligado.";
+"ì „ìŸ ì„œë²„ê°€ ì—´ë ¤ìˆì§€ ì•Šì•„ ê¸¸ë“œì „ì„ ì‹œì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] O LÃ­der da Guild inimiga nÃ£o se encontra ligado.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Guild] Esta guild já se encontra numa guerra.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸ ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Guild] Esta guild jÃ¡ se encontra numa guerra.";
 
-"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
-"Já estás a montar. Desmonta-te primeiro.";
+"ì´ë¯¸ íƒˆê²ƒì„ ì´ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"JÃ¡ estÃ¡s a montar. Desmonta-te primeiro.";
 
-"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes melhorar com este Pergaminho.";
+"ì´ ê°œëŸ‰ì„œë¡œ ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes melhorar com este Pergaminho.";
 
-"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
-"Só podes melhorar um Item por cada subida à Torre.";
+"ì‚¬ê·€ íƒ€ì›Œ ì™„ë£Œ ë³´ìƒì€ í•œë²ˆê¹Œì§€ ì‚¬ìš©ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"SÃ³ podes melhorar um Item por cada subida Ã  Torre.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"A Pedra do Dragão foi removida.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A Pedra do DragÃ£o foi removida.";
 
-"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes mover o item na janela de refinamento.";
+"ê°•í™”ì°½ì„ ì—° ìƒíƒœì—ì„œëŠ” ì•„ì´í…œì„ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes mover o item na janela de refinamento.";
 
-"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"A duração restante da Pedra do Dragão foi extraída.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A duraÃ§Ã£o restante da Pedra do DragÃ£o foi extraÃ­da.";
 
-"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A extracção da duração restante falhou.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A extracÃ§Ã£o da duraÃ§Ã£o restante falhou.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
-"A remoção da Pedra do Dragão falhou. Mas recebeste o seguinte: %s";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì—¬ %së¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"A remoÃ§Ã£o da Pedra do DragÃ£o falhou. Mas recebeste o seguinte: %s";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"A remoção da Pedra do Dragão falhou.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"A remoÃ§Ã£o da Pedra do DragÃ£o falhou.";
 
-"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Este item não é necessário para melhorar o nível de clareza.";
+"ë“±ê¸‰ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Este item nÃ£o Ã© necessÃ¡rio para melhorar o nÃ­vel de clareza.";
 
-"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Este item não é necessário para melhorar o nível de clareza.";
+"ê°•í™”ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Este item nÃ£o Ã© necessÃ¡rio para melhorar o nÃ­vel de clareza.";
 
-"µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Este Item não pode ser melhorado desta forma.";
+"ë“±ê¸‰ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Este Item nÃ£o pode ser melhorado desta forma.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Este Item não pode ser melhorado desta forma.";
+"ì´ ì•„ì´í…œì€ ì´ ë°©ì‹ìœ¼ë¡œëŠ” ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Este Item nÃ£o pode ser melhorado desta forma.";
 
-"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"O melhoramento do nível de clareza foi bem sucedido.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"O melhoramento do nÃ­vel de clareza foi bem sucedido.";
 
-"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
 "O refinamento de classe falhou.";
 
-"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Este tem não é necessário para o refinamento.";
+"ë‹¨ê³„ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Este tem nÃ£o Ã© necessÃ¡rio para o refinamento.";
 
-"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
 "O refinamento de classe foi bem sucedido.";
 
-"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"O melhoramento do nível de clareza falhou.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"O melhoramento do nÃ­vel de clareza falhou.";
 
-"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Não tens os materiais necessários para fortalecer a Pedra do Dragão.";
+"ë‹¨ê³„ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"NÃ£o tens os materiais necessÃ¡rios para fortalecer a Pedra do DragÃ£o.";
 
-"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Esta Pedra do Dragão não pode ser usada para fortalecimento.";
+"ê°•í™”í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Esta Pedra do DragÃ£o nÃ£o pode ser usada para fortalecimento.";
 
-"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
+"ê°•í™”ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
 "O fortalecimento foi bem sucedido.";
 
-"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"ê°•í™”ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
 "O fortalecimento falhou.";
 
-"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Já possuis uma Pedra do Dragão deste tipo.";
+"ì´ë¯¸ ê°™ì€ ì¢…ë¥˜ì˜ ìš©í˜¼ì„ì„ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"JÃ¡ possuis uma Pedra do DragÃ£o deste tipo.";
 
-"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"A Pedra do Dragão não pode ser removida.";
+"ì°©ìš© ì¤‘ì¸ ìš©í˜¼ì„ì€ ì¶”ì¶œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"A Pedra do DragÃ£o nÃ£o pode ser removida.";
 
-"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Já equipaste este tipo de Pedra do Dragão.";
+"ì´ë¯¸ ì¥ë¹„ë¥¼ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"JÃ¡ equipaste este tipo de Pedra do DragÃ£o.";
 
-"ÀÎº¥ÀÌ È°¼ºÈ­ µÇÁö ¾ÊÀ½.";
-"Antes de abrires o Cor Draconis tens de completar a missão da Pedra do Dragão e activar a Alquimia de Pedra do Dragão.";
+"ì¸ë²¤ì´ í™œì„±í™” ë˜ì§€ ì•ŠìŒ.";
+"Antes de abrires o Cor Draconis tens de completar a missÃ£o da Pedra do DragÃ£o e activar a Alquimia de Pedra do DragÃ£o.";
 
-"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
-"Antes de abrires o Cor Draconis tens de completar a missão da Pedra do Dragão e activar a Alquimia de Pedra do Dragão.";
+"ë¨¼ì € ìš©í˜¼ì„ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì…”ì•¼ í•©ë‹ˆë‹¤.";
+"Antes de abrires o Cor Draconis tens de completar a missÃ£o da Pedra do DragÃ£o e activar a Alquimia de Pedra do DragÃ£o.";
 
-"º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Apenas poderás descartar o cinto quando já não existirem itens no seu inventário.";
+"ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ì— ì•„ì´í…œì´ ì¡´ì¬í•˜ë©´ í•´ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Apenas poderÃ¡s descartar o cinto quando jÃ¡ nÃ£o existirem itens no seu inventÃ¡rio.";
 
-"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
-"Podes combinar um Pergaminho da Bênção com o Metal Mágico.";
+"ì¶•ë³µì˜ ì„œì™€ í˜„ì² ì„ í•©ì¹  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Podes combinar um Pergaminho da BÃªnÃ§Ã£o com o Metal MÃ¡gico.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Não podes equipar este item no teu inventário do cinto.";
+"ì´ ì•„ì´í…œì€ ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ë¡œ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes equipar este item no teu inventÃ¡rio do cinto.";
 
-"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"ê°™ì€ ê°œëŸ‰ì„œë¥¼ í•©ì¹  ìˆ˜ëŠ” ì—†ìŠµë‹ˆë‹¤.";
 "[1106-??]No puedes unir esto.";
 
-"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
+"%d ëƒ¥ì„ íˆ¬ìí•˜ì…¨ìŠµë‹ˆë‹¤.";
 "Investiste %d Yang.";
 
-"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
-"Não há Pedras para serem retiradas.";
+"ë¹¼ë‚¼ ìˆ˜ ìˆëŠ” ë©”í‹´ì„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o hÃ¡ Pedras para serem retiradas.";
 
-"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
-"Não podes marcar esta localização.";
+"ê¸°ì–µí•´ ë‘˜ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ ì…ë‹ˆë‹¤.";
+"NÃ£o podes marcar esta localizaÃ§Ã£o.";
 
-"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Não existe espaço suficiente no teu Inventário.";
+"ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o existe espaÃ§o suficiente no teu InventÃ¡rio.";
 
-"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não te podes teleportar para uma localização segura no interior de um Reino inimigo.";
+"ê¸°ì–µëœ ìœ„ì¹˜ê°€ íƒ€ì œêµ­ì— ì†í•´ ìˆì–´ì„œ ê·€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o te podes teleportar para uma localizaÃ§Ã£o segura no interior de um Reino inimigo.";
 
-"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não tens VD suficiente.";
+"ë‚¨ì€ ìƒëª…ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o tens VD suficiente.";
 
-"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Não tens Mana (MN) suficiente para utilizar isto.";
+"ë‚¨ì€ ì •ì‹ ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o tens Mana (MN) suficiente para utilizar isto.";
 
-"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
-"Irás chegar ao teu destino dentro de %d segundos.";
+"%d ì´ˆí›„ ëª©ì ì§€ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"IrÃ¡s chegar ao teu destino dentro de %d segundos.";
 
-"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"O teu Nível é inferior ao nível do Item depois de ser melhorado.";
+"ê°œëŸ‰ëœ í›„ ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"O teu NÃ­vel Ã© inferior ao nÃ­vel do Item depois de ser melhorado.";
 
-"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
-"Só podes utilizar um Bolo Lua de 5 em 5 segundos.";
+"ì›”ë³‘,ì¢…ì ì‚¬ìš©í›„ 5ì´ˆë™ì•ˆ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ";
+"SÃ³ podes utilizar um Bolo Lua de 5 em 5 segundos.";
 
-"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
-"Não podes usar este Item durante um Duelo.";
+"ëŒ€ë ¨ ì¤‘ì—ëŠ” ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë¬¼í’ˆì…ë‹ˆë‹¤.";
+"NÃ£o podes usar este Item durante um Duelo.";
 
-"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
+"%d ëƒ¥ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤.";
 "Ganhaste %d Yang.";
 
-"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
-"Não podes acender uma Fogueira aqui.";
+"ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ëŠ” ì§€ì ì…ë‹ˆë‹¤.";
+"NÃ£o podes acender uma Fogueira aqui.";
 
-"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Não podes acender uma Fogueira debaixo de água.";
+"ë¬¼ ì†ì— ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"NÃ£o podes acender uma Fogueira debaixo de Ã¡gua.";
 
-"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
-"Está fechado. Deves procurar a chave.";
+"ì—´ì‡ ë¡œ ì ê²¨ ìˆì–´ì„œ ì—´ë¦¬ì§€ ì•ŠëŠ”ê²ƒ ê°™ë‹¤. ì—´ì‡ ë¥¼ êµ¬í•´ë³´ì.";
+"EstÃ¡ fechado. Deves procurar a chave.";
 
-"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
-"Este Item não pode ser aberto com uma Chave.";
+"ì—´ì‡ ë¡œ ì—¬ëŠ” ë¬¼ê±´ì´ ì•„ë‹Œê²ƒ ê°™ë‹¤.";
+"Este Item nÃ£o pode ser aberto com uma Chave.";
 
-"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
-"Essa é a Chave correcta.";
+"ì—´ì‡ ëŠ” ë§ìœ¼ë‚˜ ì•„ì´í…œ ì£¼ëŠ” ë¶€ë¶„ êµ¬í˜„ì´ ì•ˆë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Essa Ã© a Chave correcta.";
 
-"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
+"ëˆ %d ëƒ¥ì„ íšë“í–ˆìŠµë‹ˆë‹¤.";
 "Recebeste %d Yang.";
 
-"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
+"ìƒìì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
 "Uma luz misteriosa sai do interior desta caixa.";
 
-"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
-"Recebeste %d Pontos de Experiência.";
+"%dì˜ ê²½í—˜ì¹˜ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"Recebeste %d Pontos de ExperiÃªncia.";
 
-"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
+"ìƒìì—ì„œ ëª¬ìŠ¤í„°ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤!";
 "Olha o que saiu da caixa!";
 
-"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] O nível da guild é demasiado baixo.";
+"<ê¸¸ë“œ> ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] O nÃ­vel da guild Ã© demasiado baixo.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
-"Se inalares o fumo vermelho que sai da caixa irás tornar-te mais rápido.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë¹¨ê°„ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ì›€ì§ì´ëŠ” ì†ë„ê°€ ëŠë ¤ì¡ŒìŠµë‹ˆë‹¤!";
+"Se inalares o fumo vermelho que sai da caixa irÃ¡s tornar-te mais rÃ¡pido.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"ë” ì´ìƒ ì´ ì•„ì´í…œìœ¼ë¡œ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
 "You cannot add more bonus.";
 
-"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"ì„±ê³µì ìœ¼ë¡œ ì†ì„±ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "New bonus added successfully.";
 
-"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"ë³€ê²½ ì‹œí‚¬ ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤";
 "You cannot change the bonuses.";
 
-"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"%sì´ í•„ìš”í•©ë‹ˆë‹¤.";
 "%s needed.";
 
-"¹®Á¦ ÀÔ´Ï´Ù.";
+"ë¬¸ì œ ì…ë‹ˆë‹¤.";
 "OX-Question: ";

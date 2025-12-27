@@ -71,16 +71,16 @@ VNUM	LOCALE_NAME
 77	Orchideenschwert+7
 78	Orchideenschwert+8
 79	Orchideenschwert+9
-80	Anderthalbhänder+0
-81	Anderthalbhänder+1
-82	Anderthalbhänder+2
-83	Anderthalbhänder+3
-84	Anderthalbhänder+4
-85	Anderthalbhänder+5
-86	Anderthalbhänder+6
-87	Anderthalbhänder+7
-88	Anderthalbhänder+8
-89	Anderthalbhänder+9
+80	AnderthalbhÃ¤nder+0
+81	AnderthalbhÃ¤nder+1
+82	AnderthalbhÃ¤nder+2
+83	AnderthalbhÃ¤nder+3
+84	AnderthalbhÃ¤nder+4
+85	AnderthalbhÃ¤nder+5
+86	AnderthalbhÃ¤nder+6
+87	AnderthalbhÃ¤nder+7
+88	AnderthalbhÃ¤nder+8
+89	AnderthalbhÃ¤nder+9
 90	Barbarenschwert+0
 91	Barbarenschwert+1
 92	Barbarenschwert+2
@@ -101,16 +101,16 @@ VNUM	LOCALE_NAME
 107	Blutiges Schwert+7
 108	Blutiges Schwert+8
 109	Blutiges Schwert+9
-110	Großschwert+0
-111	Großschwert+1
-112	Großschwert+2
-113	Großschwert+3
-114	Großschwert+4
-115	Großschwert+5
-116	Großschwert+6
-117	Großschwert+7
-118	Großschwert+8
-119	Großschwert+9
+110	GroÃŸschwert+0
+111	GroÃŸschwert+1
+112	GroÃŸschwert+2
+113	GroÃŸschwert+3
+114	GroÃŸschwert+4
+115	GroÃŸschwert+5
+116	GroÃŸschwert+6
+117	GroÃŸschwert+7
+118	GroÃŸschwert+8
+119	GroÃŸschwert+9
 120	Zaubererschwert+0
 121	Zaubererschwert+1
 122	Zaubererschwert+2
@@ -181,16 +181,16 @@ VNUM	LOCALE_NAME
 187	Giftschwert+7
 188	Giftschwert+8
 189	Giftschwert+9
-190	Löwenschwert+0
-191	Löwenschwert+1
-192	Löwenschwert+2
-193	Löwenschwert+3
-194	Löwenschwert+4
-195	Löwenschwert+5
-196	Löwenschwert+6
-197	Löwenschwert+7
-198	Löwenschwert+8
-199	Löwenschwert+9
+190	LÃ¶wenschwert+0
+191	LÃ¶wenschwert+1
+192	LÃ¶wenschwert+2
+193	LÃ¶wenschwert+3
+194	LÃ¶wenschwert+4
+195	LÃ¶wenschwert+5
+196	LÃ¶wenschwert+6
+197	LÃ¶wenschwert+7
+198	LÃ¶wenschwert+8
+199	LÃ¶wenschwert+9
 200	Schnittklinge+0
 201	Schnittklinge+1
 202	Schnittklinge+2
@@ -201,16 +201,16 @@ VNUM	LOCALE_NAME
 207	Schnittklinge+7
 208	Schnittklinge+8
 209	Schnittklinge+9
-210	Tödliche Klinge+0
-211	Tödliche Klinge+1
-212	Tödliche Klinge+2
-213	Tödliche Klinge+3
-214	Tödliche Klinge+4
-215	Tödliche Klinge+5
-216	Tödliche Klinge+6
-217	Tödliche Klinge+7
-218	Tödliche Klinge+8
-219	Tödliche Klinge+9
+210	TÃ¶dliche Klinge+0
+211	TÃ¶dliche Klinge+1
+212	TÃ¶dliche Klinge+2
+213	TÃ¶dliche Klinge+3
+214	TÃ¶dliche Klinge+4
+215	TÃ¶dliche Klinge+5
+216	TÃ¶dliche Klinge+6
+217	TÃ¶dliche Klinge+7
+218	TÃ¶dliche Klinge+8
+219	TÃ¶dliche Klinge+9
 220	Mondschwert+0
 221	Mondschwert+1
 222	Mondschwert+2
@@ -241,16 +241,16 @@ VNUM	LOCALE_NAME
 247	Exorzismusschwert+7
 248	Exorzismusschwert+8
 249	Exorzismusschwert+9
-250	Dämonenklinge+0
-251	Dämonenklinge+1
-252	Dämonenklinge+2
-253	Dämonenklinge+3
-254	Dämonenklinge+4
-255	Dämonenklinge+5
-256	Dämonenklinge+6
-257	Dämonenklinge+7
-258	Dämonenklinge+8
-259	Dämonenklinge+9
+250	DÃ¤monenklinge+0
+251	DÃ¤monenklinge+1
+252	DÃ¤monenklinge+2
+253	DÃ¤monenklinge+3
+254	DÃ¤monenklinge+4
+255	DÃ¤monenklinge+5
+256	DÃ¤monenklinge+6
+257	DÃ¤monenklinge+7
+258	DÃ¤monenklinge+8
+259	DÃ¤monenklinge+9
 260	Baronschwert+0
 261	Baronschwert+1
 262	Baronschwert+2
@@ -341,16 +341,16 @@ VNUM	LOCALE_NAME
 1027	Scherendolch+7
 1028	Scherendolch+8
 1029	Scherendolch+9
-1030	Glücksmesser+0
-1031	Glücksmesser+1
-1032	Glücksmesser+2
-1033	Glücksmesser+3
-1034	Glücksmesser+4
-1035	Glücksmesser+5
-1036	Glücksmesser+6
-1037	Glücksmesser+7
-1038	Glücksmesser+8
-1039	Glücksmesser+9
+1030	GlÃ¼cksmesser+0
+1031	GlÃ¼cksmesser+1
+1032	GlÃ¼cksmesser+2
+1033	GlÃ¼cksmesser+3
+1034	GlÃ¼cksmesser+4
+1035	GlÃ¼cksmesser+5
+1036	GlÃ¼cksmesser+6
+1037	GlÃ¼cksmesser+7
+1038	GlÃ¼cksmesser+8
+1039	GlÃ¼cksmesser+9
 1040	Katzenbissmesser+0
 1041	Katzenbissmesser+1
 1042	Katzenbissmesser+2
@@ -441,26 +441,26 @@ VNUM	LOCALE_NAME
 1127	Siamesenmesser+7
 1128	Siamesenmesser+8
 1129	Siamesenmesser+9
-1130	Teufelsflügel-Chakram+0
-1131	Teufelsflügel-Chakram+1
-1132	Teufelsflügel-Chakram+2
-1133	Teufelsflügel-Chakram+3
-1134	Teufelsflügel-Chakram+4
-1135	Teufelsflügel-Chakram+5
-1136	Teufelsflügel-Chakram+6
-1137	Teufelsflügel-Chakram+7
-1138	Teufelsflügel-Chakram+8
-1139	Teufelsflügel-Chakram+9
-1140	Sägezahnmesser+0
-1141	Sägezahnmesser+1
-1142	Sägezahnmesser+2
-1143	Sägezahnmesser+3
-1144	Sägezahnmesser+4
-1145	Sägezahnmesser+5
-1146	Sägezahnmesser+6
-1147	Sägezahnmesser+7
-1148	Sägezahnmesser+8
-1149	Sägezahnmesser+9
+1130	TeufelsflÃ¼gel-Chakram+0
+1131	TeufelsflÃ¼gel-Chakram+1
+1132	TeufelsflÃ¼gel-Chakram+2
+1133	TeufelsflÃ¼gel-Chakram+3
+1134	TeufelsflÃ¼gel-Chakram+4
+1135	TeufelsflÃ¼gel-Chakram+5
+1136	TeufelsflÃ¼gel-Chakram+6
+1137	TeufelsflÃ¼gel-Chakram+7
+1138	TeufelsflÃ¼gel-Chakram+8
+1139	TeufelsflÃ¼gel-Chakram+9
+1140	SÃ¤gezahnmesser+0
+1141	SÃ¤gezahnmesser+1
+1142	SÃ¤gezahnmesser+2
+1143	SÃ¤gezahnmesser+3
+1144	SÃ¤gezahnmesser+4
+1145	SÃ¤gezahnmesser+5
+1146	SÃ¤gezahnmesser+6
+1147	SÃ¤gezahnmesser+7
+1148	SÃ¤gezahnmesser+8
+1149	SÃ¤gezahnmesser+9
 1150	Sonnenstrahlmesser+0
 1151	Sonnenstrahlmesser+1
 1152	Sonnenstrahlmesser+2
@@ -491,16 +491,16 @@ VNUM	LOCALE_NAME
 1177	Schwarzblattdolch+7
 1178	Schwarzblattdolch+8
 1179	Schwarzblattdolch+9
-1340	Fünf-Elemente-Klinge+0
-1341	Fünf-Elemente-Klinge+1
-1342	Fünf-Elemente-Klinge+2
-1343	Fünf-Elemente-Klinge+3
-1344	Fünf-Elemente-Klinge+4
-1345	Fünf-Elemente-Klinge+5
-1346	Fünf-Elemente-Klinge+6
-1347	Fünf-Elemente-Klinge+7
-1348	Fünf-Elemente-Klinge+8
-1349	Fünf-Elemente-Klinge+9
+1340	FÃ¼nf-Elemente-Klinge+0
+1341	FÃ¼nf-Elemente-Klinge+1
+1342	FÃ¼nf-Elemente-Klinge+2
+1343	FÃ¼nf-Elemente-Klinge+3
+1344	FÃ¼nf-Elemente-Klinge+4
+1345	FÃ¼nf-Elemente-Klinge+5
+1346	FÃ¼nf-Elemente-Klinge+6
+1347	FÃ¼nf-Elemente-Klinge+7
+1348	FÃ¼nf-Elemente-Klinge+8
+1349	FÃ¼nf-Elemente-Klinge+9
 2000	Bogen+0
 2001	Bogen+1
 2002	Bogen+2
@@ -571,16 +571,16 @@ VNUM	LOCALE_NAME
 2067	Kupferverziert. Bogen+7
 2068	Kupferverziert. Bogen+8
 2069	Kupferverziert. Bogen+9
-2070	Zerstörungsbogen+0
-2071	Zerstörungsbogen+1
-2072	Zerstörungsbogen+2
-2073	Zerstörungsbogen+3
-2074	Zerstörungsbogen+4
-2075	Zerstörungsbogen+5
-2076	Zerstörungsbogen+6
-2077	Zerstörungsbogen+7
-2078	Zerstörungsbogen+8
-2079	Zerstörungsbogen+9
+2070	ZerstÃ¶rungsbogen+0
+2071	ZerstÃ¶rungsbogen+1
+2072	ZerstÃ¶rungsbogen+2
+2073	ZerstÃ¶rungsbogen+3
+2074	ZerstÃ¶rungsbogen+4
+2075	ZerstÃ¶rungsbogen+5
+2076	ZerstÃ¶rungsbogen+6
+2077	ZerstÃ¶rungsbogen+7
+2078	ZerstÃ¶rungsbogen+8
+2079	ZerstÃ¶rungsbogen+9
 2080	Rotaugenbogen+0
 2081	Rotaugenbogen+1
 2082	Rotaugenbogen+2
@@ -621,16 +621,16 @@ VNUM	LOCALE_NAME
 2117	Einhornbogen+7
 2118	Einhornbogen+8
 2119	Einhornbogen+9
-2120	Riesenflügelbogen+0
-2121	Riesenflügelbogen+1
-2122	Riesenflügelbogen+2
-2123	Riesenflügelbogen+3
-2124	Riesenflügelbogen+4
-2125	Riesenflügelbogen+5
-2126	Riesenflügelbogen+6
-2127	Riesenflügelbogen+7
-2128	Riesenflügelbogen+8
-2129	Riesenflügelbogen+9
+2120	RiesenflÃ¼gelbogen+0
+2121	RiesenflÃ¼gelbogen+1
+2122	RiesenflÃ¼gelbogen+2
+2123	RiesenflÃ¼gelbogen+3
+2124	RiesenflÃ¼gelbogen+4
+2125	RiesenflÃ¼gelbogen+5
+2126	RiesenflÃ¼gelbogen+6
+2127	RiesenflÃ¼gelbogen+7
+2128	RiesenflÃ¼gelbogen+8
+2129	RiesenflÃ¼gelbogen+9
 2130	Aprikosen-Bogen+0
 2131	Aprikosen-Bogen+1
 2132	Aprikosen-Bogen+2
@@ -641,16 +641,16 @@ VNUM	LOCALE_NAME
 2137	Aprikosen-Bogen+7
 2138	Aprikosen-Bogen+8
 2139	Aprikosen-Bogen+9
-2140	Großgelbdrachenbogen+0
-2141	Großgelbdrachenbogen+1
-2142	Großgelbdrachenbogen+2
-2143	Großgelbdrachenbogen+3
-2144	Großgelbdrachenbogen+4
-2145	Großgelbdrachenbogen+5
-2146	Großgelbdrachenbogen+6
-2147	Großgelbdrachenbogen+7
-2148	Großgelbdrachenbogen+8
-2149	Großgelbdrachenbogen+9
+2140	GroÃŸgelbdrachenbogen+0
+2141	GroÃŸgelbdrachenbogen+1
+2142	GroÃŸgelbdrachenbogen+2
+2143	GroÃŸgelbdrachenbogen+3
+2144	GroÃŸgelbdrachenbogen+4
+2145	GroÃŸgelbdrachenbogen+5
+2146	GroÃŸgelbdrachenbogen+6
+2147	GroÃŸgelbdrachenbogen+7
+2148	GroÃŸgelbdrachenbogen+8
+2149	GroÃŸgelbdrachenbogen+9
 2150	Hornbogen+0
 2151	Hornbogen+1
 2152	Hornbogen+2
@@ -661,26 +661,26 @@ VNUM	LOCALE_NAME
 2157	Hornbogen+7
 2158	Hornbogen+8
 2159	Hornbogen+9
-2160	Großteufelbogen+0
-2161	Großteufelbogen+1
-2162	Großteufelbogen+2
-2163	Großteufelbogen+3
-2164	Großteufelbogen+4
-2165	Großteufelbogen+5
-2166	Großteufelbogen+6
-2167	Großteufelbogen+7
-2168	Großteufelbogen+8
-2169	Großteufelbogen+9
-2170	Krähenstahlbogen+0
-2171	Krähenstahlbogen+1
-2172	Krähenstahlbogen+2
-2173	Krähenstahlbogen+3
-2174	Krähenstahlbogen+4
-2175	Krähenstahlbogen+5
-2176	Krähenstahlbogen+6
-2177	Krähenstahlbogen+7
-2178	Krähenstahlbogen+8
-2179	Krähenstahlbogen+9
+2160	GroÃŸteufelbogen+0
+2161	GroÃŸteufelbogen+1
+2162	GroÃŸteufelbogen+2
+2163	GroÃŸteufelbogen+3
+2164	GroÃŸteufelbogen+4
+2165	GroÃŸteufelbogen+5
+2166	GroÃŸteufelbogen+6
+2167	GroÃŸteufelbogen+7
+2168	GroÃŸteufelbogen+8
+2169	GroÃŸteufelbogen+9
+2170	KrÃ¤henstahlbogen+0
+2171	KrÃ¤henstahlbogen+1
+2172	KrÃ¤henstahlbogen+2
+2173	KrÃ¤henstahlbogen+3
+2174	KrÃ¤henstahlbogen+4
+2175	KrÃ¤henstahlbogen+5
+2176	KrÃ¤henstahlbogen+6
+2177	KrÃ¤henstahlbogen+7
+2178	KrÃ¤henstahlbogen+8
+2179	KrÃ¤henstahlbogen+9
 2180	Blaudrachenbogen+0
 2181	Blaudrachenbogen+1
 2182	Blaudrachenbogen+2
@@ -701,16 +701,16 @@ VNUM	LOCALE_NAME
 2197	Geisterbogen+7
 2198	Geisterbogen+8
 2199	Geisterbogen+9
-2370	Phönixbogen+0
-2371	Phönixbogen+1
-2372	Phönixbogen+2
-2373	Phönixbogen+3
-2374	Phönixbogen+4
-2375	Phönixbogen+5
-2376	Phönixbogen+6
-2377	Phönixbogen+7
-2378	Phönixbogen+8
-2379	Phönixbogen+9
+2370	PhÃ¶nixbogen+0
+2371	PhÃ¶nixbogen+1
+2372	PhÃ¶nixbogen+2
+2373	PhÃ¶nixbogen+3
+2374	PhÃ¶nixbogen+4
+2375	PhÃ¶nixbogen+5
+2376	PhÃ¶nixbogen+6
+2377	PhÃ¶nixbogen+7
+2378	PhÃ¶nixbogen+8
+2379	PhÃ¶nixbogen+9
 3000	Glefe+0
 3001	Glefe+1
 3002	Glefe+2
@@ -811,36 +811,36 @@ VNUM	LOCALE_NAME
 3097	Gletscherpicke+7
 3098	Gletscherpicke+8
 3099	Gletscherpicke+9
-3100	Zwölfgeisterschwert+0
-3101	Zwölfgeisterschwert+1
-3102	Zwölfgeisterschwert+2
-3103	Zwölfgeisterschwert+3
-3104	Zwölfgeisterschwert+4
-3105	Zwölfgeisterschwert+5
-3106	Zwölfgeisterschwert+6
-3107	Zwölfgeisterschwert+7
-3108	Zwölfgeisterschwert+8
-3109	Zwölfgeisterschwert+9
-3110	Erlösungsklinge+0
-3111	Erlösungsklinge+1
-3112	Erlösungsklinge+2
-3113	Erlösungsklinge+3
-3114	Erlösungsklinge+4
-3115	Erlösungsklinge+5
-3116	Erlösungsklinge+6
-3117	Erlösungsklinge+7
-3118	Erlösungsklinge+8
-3119	Erlösungsklinge+9
-3120	Löwentöter+0
-3121	Löwentöter+1
-3122	Löwentöter+2
-3123	Löwentöter+3
-3124	Löwentöter+4
-3125	Löwentöter+5
-3126	Löwentöter+6
-3127	Löwentöter+7
-3128	Löwentöter+8
-3129	Löwentöter+9
+3100	ZwÃ¶lfgeisterschwert+0
+3101	ZwÃ¶lfgeisterschwert+1
+3102	ZwÃ¶lfgeisterschwert+2
+3103	ZwÃ¶lfgeisterschwert+3
+3104	ZwÃ¶lfgeisterschwert+4
+3105	ZwÃ¶lfgeisterschwert+5
+3106	ZwÃ¶lfgeisterschwert+6
+3107	ZwÃ¶lfgeisterschwert+7
+3108	ZwÃ¶lfgeisterschwert+8
+3109	ZwÃ¶lfgeisterschwert+9
+3110	ErlÃ¶sungsklinge+0
+3111	ErlÃ¶sungsklinge+1
+3112	ErlÃ¶sungsklinge+2
+3113	ErlÃ¶sungsklinge+3
+3114	ErlÃ¶sungsklinge+4
+3115	ErlÃ¶sungsklinge+5
+3116	ErlÃ¶sungsklinge+6
+3117	ErlÃ¶sungsklinge+7
+3118	ErlÃ¶sungsklinge+8
+3119	ErlÃ¶sungsklinge+9
+3120	LÃ¶wentÃ¶ter+0
+3121	LÃ¶wentÃ¶ter+1
+3122	LÃ¶wentÃ¶ter+2
+3123	LÃ¶wentÃ¶ter+3
+3124	LÃ¶wentÃ¶ter+4
+3125	LÃ¶wentÃ¶ter+5
+3126	LÃ¶wentÃ¶ter+6
+3127	LÃ¶wentÃ¶ter+7
+3128	LÃ¶wentÃ¶ter+8
+3129	LÃ¶wentÃ¶ter+9
 3130	Partisane+0
 3131	Partisane+1
 3132	Partisane+2
@@ -881,26 +881,26 @@ VNUM	LOCALE_NAME
 3167	Grollschwert+7
 3168	Grollschwert+8
 3169	Grollschwert+9
-3170	Gelbdrachentöter+0
-3171	Gelbdrachentöter+1
-3172	Gelbdrachentöter+2
-3173	Gelbdrachentöter+3
-3174	Gelbdrachentöter+4
-3175	Gelbdrachentöter+5
-3176	Gelbdrachentöter+6
-3177	Gelbdrachentöter+7
-3178	Gelbdrachentöter+8
-3179	Gelbdrachentöter+9
-3180	Blaudrachentöter+0
-3181	Blaudrachentöter+1
-3182	Blaudrachentöter+2
-3183	Blaudrachentöter+3
-3184	Blaudrachentöter+4
-3185	Blaudrachentöter+5
-3186	Blaudrachentöter+6
-3187	Blaudrachentöter+7
-3188	Blaudrachentöter+8
-3189	Blaudrachentöter+9
+3170	GelbdrachentÃ¶ter+0
+3171	GelbdrachentÃ¶ter+1
+3172	GelbdrachentÃ¶ter+2
+3173	GelbdrachentÃ¶ter+3
+3174	GelbdrachentÃ¶ter+4
+3175	GelbdrachentÃ¶ter+5
+3176	GelbdrachentÃ¶ter+6
+3177	GelbdrachentÃ¶ter+7
+3178	GelbdrachentÃ¶ter+8
+3179	GelbdrachentÃ¶ter+9
+3180	BlaudrachentÃ¶ter+0
+3181	BlaudrachentÃ¶ter+1
+3182	BlaudrachentÃ¶ter+2
+3183	BlaudrachentÃ¶ter+3
+3184	BlaudrachentÃ¶ter+4
+3185	BlaudrachentÃ¶ter+5
+3186	BlaudrachentÃ¶ter+6
+3187	BlaudrachentÃ¶ter+7
+3188	BlaudrachentÃ¶ter+8
+3189	BlaudrachentÃ¶ter+9
 3190	Sonnenklinge+0
 3191	Sonnenklinge+1
 3192	Sonnenklinge+2
@@ -1051,26 +1051,26 @@ VNUM	LOCALE_NAME
 5067	Magische Glocke+7
 5068	Magische Glocke+8
 5069	Magische Glocke+9
-5070	Goldkäferglocke+0
-5071	Goldkäferglocke+1
-5072	Goldkäferglocke+2
-5073	Goldkäferglocke+3
-5074	Goldkäferglocke+4
-5075	Goldkäferglocke+5
-5076	Goldkäferglocke+6
-5077	Goldkäferglocke+7
-5078	Goldkäferglocke+8
-5079	Goldkäferglocke+9
-5080	Stahlkäferglocke+0
-5081	Stahlkäferglocke+1
-5082	Stahlkäferglocke+2
-5083	Stahlkäferglocke+3
-5084	Stahlkäferglocke+4
-5085	Stahlkäferglocke+5
-5086	Stahlkäferglocke+6
-5087	Stahlkäferglocke+7
-5088	Stahlkäferglocke+8
-5089	Stahlkäferglocke+9
+5070	GoldkÃ¤ferglocke+0
+5071	GoldkÃ¤ferglocke+1
+5072	GoldkÃ¤ferglocke+2
+5073	GoldkÃ¤ferglocke+3
+5074	GoldkÃ¤ferglocke+4
+5075	GoldkÃ¤ferglocke+5
+5076	GoldkÃ¤ferglocke+6
+5077	GoldkÃ¤ferglocke+7
+5078	GoldkÃ¤ferglocke+8
+5079	GoldkÃ¤ferglocke+9
+5080	StahlkÃ¤ferglocke+0
+5081	StahlkÃ¤ferglocke+1
+5082	StahlkÃ¤ferglocke+2
+5083	StahlkÃ¤ferglocke+3
+5084	StahlkÃ¤ferglocke+4
+5085	StahlkÃ¤ferglocke+5
+5086	StahlkÃ¤ferglocke+6
+5087	StahlkÃ¤ferglocke+7
+5088	StahlkÃ¤ferglocke+8
+5089	StahlkÃ¤ferglocke+9
 5090	Donnervogelglocke+0
 5091	Donnervogelglocke+1
 5092	Donnervogelglocke+2
@@ -1161,206 +1161,206 @@ VNUM	LOCALE_NAME
 5347	Drachengeist-Glocke+7
 5348	Drachengeist-Glocke+8
 5349	Drachengeist-Glocke+9
-7000	Fächer+0
-7001	Fächer+1
-7002	Fächer+2
-7003	Fächer+3
-7004	Fächer+4
-7005	Fächer+5
-7006	Fächer+6
-7007	Fächer+7
-7008	Fächer+8
-7009	Fächer+9
-7010	Eisenfächer+0
-7011	Eisenfächer+1
-7012	Eisenfächer+2
-7013	Eisenfächer+3
-7014	Eisenfächer+4
-7015	Eisenfächer+5
-7016	Eisenfächer+6
-7017	Eisenfächer+7
-7018	Eisenfächer+8
-7019	Eisenfächer+9
-7020	Schwarztigerfächer+0
-7021	Schwarztigerfächer+1
-7022	Schwarztigerfächer+2
-7023	Schwarztigerfächer+3
-7024	Schwarztigerfächer+4
-7025	Schwarztigerfächer+5
-7026	Schwarztigerfächer+6
-7027	Schwarztigerfächer+7
-7028	Schwarztigerfächer+8
-7029	Schwarztigerfächer+9
-7030	Kranichflügelfächer+0
-7031	Kranichflügelfächer+1
-7032	Kranichflügelfächer+2
-7033	Kranichflügelfächer+3
-7034	Kranichflügelfächer+4
-7035	Kranichflügelfächer+5
-7036	Kranichflügelfächer+6
-7037	Kranichflügelfächer+7
-7038	Kranichflügelfächer+8
-7039	Kranichflügelfächer+9
-7040	Pfauenfächer+0
-7041	Pfauenfächer+1
-7042	Pfauenfächer+2
-7043	Pfauenfächer+3
-7044	Pfauenfächer+4
-7045	Pfauenfächer+5
-7046	Pfauenfächer+6
-7047	Pfauenfächer+7
-7048	Pfauenfächer+8
-7049	Pfauenfächer+9
-7050	Aquatischer Fächer+0
-7051	Aquatischer Fächer+1
-7052	Aquatischer Fächer+2
-7053	Aquatischer Fächer+3
-7054	Aquatischer Fächer+4
-7055	Aquatischer Fächer+5
-7056	Aquatischer Fächer+6
-7057	Aquatischer Fächer+7
-7058	Aquatischer Fächer+8
-7059	Aquatischer Fächer+9
-7060	Steinfächer+0
-7061	Steinfächer+1
-7062	Steinfächer+2
-7063	Steinfächer+3
-7064	Steinfächer+4
-7065	Steinfächer+5
-7066	Steinfächer+6
-7067	Steinfächer+7
-7068	Steinfächer+8
-7069	Steinfächer+9
-7070	Ozeanfächer+0
-7071	Ozeanfächer+1
-7072	Ozeanfächer+2
-7073	Ozeanfächer+3
-7074	Ozeanfächer+4
-7075	Ozeanfächer+5
-7076	Ozeanfächer+6
-7077	Ozeanfächer+7
-7078	Ozeanfächer+8
-7079	Ozeanfächer+9
-7080	Stichfächer+0
-7081	Stichfächer+1
-7082	Stichfächer+2
-7083	Stichfächer+3
-7084	Stichfächer+4
-7085	Stichfächer+5
-7086	Stichfächer+6
-7087	Stichfächer+7
-7088	Stichfächer+8
-7089	Stichfächer+9
-7090	Phönixfächer+0
-7091	Phönixfächer+1
-7092	Phönixfächer+2
-7093	Phönixfächer+3
-7094	Phönixfächer+4
-7095	Phönixfächer+5
-7096	Phönixfächer+6
-7097	Phönixfächer+7
-7098	Phönixfächer+8
-7099	Phönixfächer+9
-7100	Dreifachfächer+0
-7101	Dreifachfächer+1
-7102	Dreifachfächer+2
-7103	Dreifachfächer+3
-7104	Dreifachfächer+4
-7105	Dreifachfächer+5
-7106	Dreifachfächer+6
-7107	Dreifachfächer+7
-7108	Dreifachfächer+8
-7109	Dreifachfächer+9
-7110	Brauenfächer+0
-7111	Brauenfächer+1
-7112	Brauenfächer+2
-7113	Brauenfächer+3
-7114	Brauenfächer+4
-7115	Brauenfächer+5
-7116	Brauenfächer+6
-7117	Brauenfächer+7
-7118	Brauenfächer+8
-7119	Brauenfächer+9
-7120	Sonnenfächer+0
-7121	Sonnenfächer+1
-7122	Sonnenfächer+2
-7123	Sonnenfächer+3
-7124	Sonnenfächer+4
-7125	Sonnenfächer+5
-7126	Sonnenfächer+6
-7127	Sonnenfächer+7
-7128	Sonnenfächer+8
-7129	Sonnenfächer+9
-7130	Himmelsvogelfächer+0
-7131	Himmelsvogelfächer+1
-7132	Himmelsvogelfächer+2
-7133	Himmelsvogelfächer+3
-7134	Himmelsvogelfächer+4
-7135	Himmelsvogelfächer+5
-7136	Himmelsvogelfächer+6
-7137	Himmelsvogelfächer+7
-7138	Himmelsvogelfächer+8
-7139	Himmelsvogelfächer+9
-7140	Erlösungsfächer+0
-7141	Erlösungsfächer+1
-7142	Erlösungsfächer+2
-7143	Erlösungsfächer+3
-7144	Erlösungsfächer+4
-7145	Erlösungsfächer+5
-7146	Erlösungsfächer+6
-7147	Erlösungsfächer+7
-7148	Erlösungsfächer+8
-7149	Erlösungsfächer+9
-7150	Ekstasefächer+0
-7151	Ekstasefächer+1
-7152	Ekstasefächer+2
-7153	Ekstasefächer+3
-7154	Ekstasefächer+4
-7155	Ekstasefächer+5
-7156	Ekstasefächer+6
-7157	Ekstasefächer+7
-7158	Ekstasefächer+8
-7159	Ekstasefächer+9
-7160	Herbstwindfächer+0
-7161	Herbstwindfächer+1
-7162	Herbstwindfächer+2
-7163	Herbstwindfächer+3
-7164	Herbstwindfächer+4
-7165	Herbstwindfächer+5
-7166	Herbstwindfächer+6
-7167	Herbstwindfächer+7
-7168	Herbstwindfächer+8
-7169	Herbstwindfächer+9
-7170	Acht-Trigramme-Fächer+0
-7171	Acht-Trigramme-Fächer+1
-7172	Acht-Trigramme-Fächer+2
-7173	Acht-Trigramme-Fächer+3
-7174	Acht-Trigramme-Fächer+4
-7175	Acht-Trigramme-Fächer+5
-7176	Acht-Trigramme-Fächer+6
-7177	Acht-Trigramme-Fächer+7
-7178	Acht-Trigramme-Fächer+8
-7179	Acht-Trigramme-Fächer+9
-7180	Schwanenfächer+0
-7181	Schwanenfächer+1
-7182	Schwanenfächer+2
-7183	Schwanenfächer+3
-7184	Schwanenfächer+4
-7185	Schwanenfächer+5
-7186	Schwanenfächer+6
-7187	Schwanenfächer+7
-7188	Schwanenfächer+8
-7189	Schwanenfächer+9
-7190	Dämonenfächer+0
-7191	Dämonenfächer+1
-7192	Dämonenfächer+2
-7193	Dämonenfächer+3
-7194	Dämonenfächer+4
-7195	Dämonenfächer+5
-7196	Dämonenfächer+6
-7197	Dämonenfächer+7
-7198	Dämonenfächer+8
-7199	Dämonenfächer+9
+7000	FÃ¤cher+0
+7001	FÃ¤cher+1
+7002	FÃ¤cher+2
+7003	FÃ¤cher+3
+7004	FÃ¤cher+4
+7005	FÃ¤cher+5
+7006	FÃ¤cher+6
+7007	FÃ¤cher+7
+7008	FÃ¤cher+8
+7009	FÃ¤cher+9
+7010	EisenfÃ¤cher+0
+7011	EisenfÃ¤cher+1
+7012	EisenfÃ¤cher+2
+7013	EisenfÃ¤cher+3
+7014	EisenfÃ¤cher+4
+7015	EisenfÃ¤cher+5
+7016	EisenfÃ¤cher+6
+7017	EisenfÃ¤cher+7
+7018	EisenfÃ¤cher+8
+7019	EisenfÃ¤cher+9
+7020	SchwarztigerfÃ¤cher+0
+7021	SchwarztigerfÃ¤cher+1
+7022	SchwarztigerfÃ¤cher+2
+7023	SchwarztigerfÃ¤cher+3
+7024	SchwarztigerfÃ¤cher+4
+7025	SchwarztigerfÃ¤cher+5
+7026	SchwarztigerfÃ¤cher+6
+7027	SchwarztigerfÃ¤cher+7
+7028	SchwarztigerfÃ¤cher+8
+7029	SchwarztigerfÃ¤cher+9
+7030	KranichflÃ¼gelfÃ¤cher+0
+7031	KranichflÃ¼gelfÃ¤cher+1
+7032	KranichflÃ¼gelfÃ¤cher+2
+7033	KranichflÃ¼gelfÃ¤cher+3
+7034	KranichflÃ¼gelfÃ¤cher+4
+7035	KranichflÃ¼gelfÃ¤cher+5
+7036	KranichflÃ¼gelfÃ¤cher+6
+7037	KranichflÃ¼gelfÃ¤cher+7
+7038	KranichflÃ¼gelfÃ¤cher+8
+7039	KranichflÃ¼gelfÃ¤cher+9
+7040	PfauenfÃ¤cher+0
+7041	PfauenfÃ¤cher+1
+7042	PfauenfÃ¤cher+2
+7043	PfauenfÃ¤cher+3
+7044	PfauenfÃ¤cher+4
+7045	PfauenfÃ¤cher+5
+7046	PfauenfÃ¤cher+6
+7047	PfauenfÃ¤cher+7
+7048	PfauenfÃ¤cher+8
+7049	PfauenfÃ¤cher+9
+7050	Aquatischer FÃ¤cher+0
+7051	Aquatischer FÃ¤cher+1
+7052	Aquatischer FÃ¤cher+2
+7053	Aquatischer FÃ¤cher+3
+7054	Aquatischer FÃ¤cher+4
+7055	Aquatischer FÃ¤cher+5
+7056	Aquatischer FÃ¤cher+6
+7057	Aquatischer FÃ¤cher+7
+7058	Aquatischer FÃ¤cher+8
+7059	Aquatischer FÃ¤cher+9
+7060	SteinfÃ¤cher+0
+7061	SteinfÃ¤cher+1
+7062	SteinfÃ¤cher+2
+7063	SteinfÃ¤cher+3
+7064	SteinfÃ¤cher+4
+7065	SteinfÃ¤cher+5
+7066	SteinfÃ¤cher+6
+7067	SteinfÃ¤cher+7
+7068	SteinfÃ¤cher+8
+7069	SteinfÃ¤cher+9
+7070	OzeanfÃ¤cher+0
+7071	OzeanfÃ¤cher+1
+7072	OzeanfÃ¤cher+2
+7073	OzeanfÃ¤cher+3
+7074	OzeanfÃ¤cher+4
+7075	OzeanfÃ¤cher+5
+7076	OzeanfÃ¤cher+6
+7077	OzeanfÃ¤cher+7
+7078	OzeanfÃ¤cher+8
+7079	OzeanfÃ¤cher+9
+7080	StichfÃ¤cher+0
+7081	StichfÃ¤cher+1
+7082	StichfÃ¤cher+2
+7083	StichfÃ¤cher+3
+7084	StichfÃ¤cher+4
+7085	StichfÃ¤cher+5
+7086	StichfÃ¤cher+6
+7087	StichfÃ¤cher+7
+7088	StichfÃ¤cher+8
+7089	StichfÃ¤cher+9
+7090	PhÃ¶nixfÃ¤cher+0
+7091	PhÃ¶nixfÃ¤cher+1
+7092	PhÃ¶nixfÃ¤cher+2
+7093	PhÃ¶nixfÃ¤cher+3
+7094	PhÃ¶nixfÃ¤cher+4
+7095	PhÃ¶nixfÃ¤cher+5
+7096	PhÃ¶nixfÃ¤cher+6
+7097	PhÃ¶nixfÃ¤cher+7
+7098	PhÃ¶nixfÃ¤cher+8
+7099	PhÃ¶nixfÃ¤cher+9
+7100	DreifachfÃ¤cher+0
+7101	DreifachfÃ¤cher+1
+7102	DreifachfÃ¤cher+2
+7103	DreifachfÃ¤cher+3
+7104	DreifachfÃ¤cher+4
+7105	DreifachfÃ¤cher+5
+7106	DreifachfÃ¤cher+6
+7107	DreifachfÃ¤cher+7
+7108	DreifachfÃ¤cher+8
+7109	DreifachfÃ¤cher+9
+7110	BrauenfÃ¤cher+0
+7111	BrauenfÃ¤cher+1
+7112	BrauenfÃ¤cher+2
+7113	BrauenfÃ¤cher+3
+7114	BrauenfÃ¤cher+4
+7115	BrauenfÃ¤cher+5
+7116	BrauenfÃ¤cher+6
+7117	BrauenfÃ¤cher+7
+7118	BrauenfÃ¤cher+8
+7119	BrauenfÃ¤cher+9
+7120	SonnenfÃ¤cher+0
+7121	SonnenfÃ¤cher+1
+7122	SonnenfÃ¤cher+2
+7123	SonnenfÃ¤cher+3
+7124	SonnenfÃ¤cher+4
+7125	SonnenfÃ¤cher+5
+7126	SonnenfÃ¤cher+6
+7127	SonnenfÃ¤cher+7
+7128	SonnenfÃ¤cher+8
+7129	SonnenfÃ¤cher+9
+7130	HimmelsvogelfÃ¤cher+0
+7131	HimmelsvogelfÃ¤cher+1
+7132	HimmelsvogelfÃ¤cher+2
+7133	HimmelsvogelfÃ¤cher+3
+7134	HimmelsvogelfÃ¤cher+4
+7135	HimmelsvogelfÃ¤cher+5
+7136	HimmelsvogelfÃ¤cher+6
+7137	HimmelsvogelfÃ¤cher+7
+7138	HimmelsvogelfÃ¤cher+8
+7139	HimmelsvogelfÃ¤cher+9
+7140	ErlÃ¶sungsfÃ¤cher+0
+7141	ErlÃ¶sungsfÃ¤cher+1
+7142	ErlÃ¶sungsfÃ¤cher+2
+7143	ErlÃ¶sungsfÃ¤cher+3
+7144	ErlÃ¶sungsfÃ¤cher+4
+7145	ErlÃ¶sungsfÃ¤cher+5
+7146	ErlÃ¶sungsfÃ¤cher+6
+7147	ErlÃ¶sungsfÃ¤cher+7
+7148	ErlÃ¶sungsfÃ¤cher+8
+7149	ErlÃ¶sungsfÃ¤cher+9
+7150	EkstasefÃ¤cher+0
+7151	EkstasefÃ¤cher+1
+7152	EkstasefÃ¤cher+2
+7153	EkstasefÃ¤cher+3
+7154	EkstasefÃ¤cher+4
+7155	EkstasefÃ¤cher+5
+7156	EkstasefÃ¤cher+6
+7157	EkstasefÃ¤cher+7
+7158	EkstasefÃ¤cher+8
+7159	EkstasefÃ¤cher+9
+7160	HerbstwindfÃ¤cher+0
+7161	HerbstwindfÃ¤cher+1
+7162	HerbstwindfÃ¤cher+2
+7163	HerbstwindfÃ¤cher+3
+7164	HerbstwindfÃ¤cher+4
+7165	HerbstwindfÃ¤cher+5
+7166	HerbstwindfÃ¤cher+6
+7167	HerbstwindfÃ¤cher+7
+7168	HerbstwindfÃ¤cher+8
+7169	HerbstwindfÃ¤cher+9
+7170	Acht-Trigramme-FÃ¤cher+0
+7171	Acht-Trigramme-FÃ¤cher+1
+7172	Acht-Trigramme-FÃ¤cher+2
+7173	Acht-Trigramme-FÃ¤cher+3
+7174	Acht-Trigramme-FÃ¤cher+4
+7175	Acht-Trigramme-FÃ¤cher+5
+7176	Acht-Trigramme-FÃ¤cher+6
+7177	Acht-Trigramme-FÃ¤cher+7
+7178	Acht-Trigramme-FÃ¤cher+8
+7179	Acht-Trigramme-FÃ¤cher+9
+7180	SchwanenfÃ¤cher+0
+7181	SchwanenfÃ¤cher+1
+7182	SchwanenfÃ¤cher+2
+7183	SchwanenfÃ¤cher+3
+7184	SchwanenfÃ¤cher+4
+7185	SchwanenfÃ¤cher+5
+7186	SchwanenfÃ¤cher+6
+7187	SchwanenfÃ¤cher+7
+7188	SchwanenfÃ¤cher+8
+7189	SchwanenfÃ¤cher+9
+7190	DÃ¤monenfÃ¤cher+0
+7191	DÃ¤monenfÃ¤cher+1
+7192	DÃ¤monenfÃ¤cher+2
+7193	DÃ¤monenfÃ¤cher+3
+7194	DÃ¤monenfÃ¤cher+4
+7195	DÃ¤monenfÃ¤cher+5
+7196	DÃ¤monenfÃ¤cher+6
+7197	DÃ¤monenfÃ¤cher+7
+7198	DÃ¤monenfÃ¤cher+8
+7199	DÃ¤monenfÃ¤cher+9
 7200	Lanze+0
 7201	Lanze+1
 7202	Lanze+2
@@ -1371,16 +1371,16 @@ VNUM	LOCALE_NAME
 7207	Lanze+7
 7208	Lanze+8
 7209	Lanze+9
-7370	Drachenfächer+0
-7371	Drachenfächer+1
-7372	Drachenfächer+2
-7373	Drachenfächer+3
-7374	Drachenfächer+4
-7375	Drachenfächer+5
-7376	Drachenfächer+6
-7377	Drachenfächer+7
-7378	Drachenfächer+8
-7379	Drachenfächer+9
+7370	DrachenfÃ¤cher+0
+7371	DrachenfÃ¤cher+1
+7372	DrachenfÃ¤cher+2
+7373	DrachenfÃ¤cher+3
+7374	DrachenfÃ¤cher+4
+7375	DrachenfÃ¤cher+5
+7376	DrachenfÃ¤cher+6
+7377	DrachenfÃ¤cher+7
+7378	DrachenfÃ¤cher+8
+7379	DrachenfÃ¤cher+9
 8000	Holzpfeil
 8001	Bambuspfeil
 8002	Steinpfeil
@@ -1391,29 +1391,29 @@ VNUM	LOCALE_NAME
 8007	Giftpfeil
 8008	Eispfeil
 8009	Verfluchter Pfeil
-9001	Nahan Rüstung+5
-9002	Tanma Rüstung+5
-9003	Jinhon Rüstung+5
-9004	Chung Rüstung+5
+9001	Nahan RÃ¼stung+5
+9002	Tanma RÃ¼stung+5
+9003	Jinhon RÃ¼stung+5
+9004	Chung RÃ¼stung+5
 9501	Schwert+5
 9502	Kurzschwert+5
 9503	Kurzbogen+5
 9504	Langschwert+5
-9505	Großer Fächer+5
-11000	Wolfrüstung
-11010	Wildschweinrüstung
-11020	Bärenrüstung
-11030	Tigerrüstung
-11200	Mönchsplattenpanzer+0
-11201	Mönchsplattenpanzer+1
-11202	Mönchsplattenpanzer+2
-11203	Mönchsplattenpanzer+3
-11204	Mönchsplattenpanzer+4
-11205	Mönchsplattenpanzer+5
-11206	Mönchsplattenpanzer+6
-11207	Mönchsplattenpanzer+7
-11208	Mönchsplattenpanzer+8
-11209	Mönchsplattenpanzer+9
+9505	GroÃŸer FÃ¤cher+5
+11000	WolfrÃ¼stung
+11010	WildschweinrÃ¼stung
+11020	BÃ¤renrÃ¼stung
+11030	TigerrÃ¼stung
+11200	MÃ¶nchsplattenpanzer+0
+11201	MÃ¶nchsplattenpanzer+1
+11202	MÃ¶nchsplattenpanzer+2
+11203	MÃ¶nchsplattenpanzer+3
+11204	MÃ¶nchsplattenpanzer+4
+11205	MÃ¶nchsplattenpanzer+5
+11206	MÃ¶nchsplattenpanzer+6
+11207	MÃ¶nchsplattenpanzer+7
+11208	MÃ¶nchsplattenpanzer+8
+11209	MÃ¶nchsplattenpanzer+9
 11210	Eisenplattenpanzer+0
 11211	Eisenplattenpanzer+1
 11212	Eisenplattenpanzer+2
@@ -1434,26 +1434,26 @@ VNUM	LOCALE_NAME
 11227	Tiger-Plattenpanzer+7
 11228	Tiger-Plattenpanzer+8
 11229	Tiger-Plattenpanzer+9
-11230	Löwenplattenpanzer+0
-11231	Löwenplattenpanzer+1
-11232	Löwenplattenpanzer+2
-11233	Löwenplattenpanzer+3
-11234	Löwenplattenpanzer+4
-11235	Löwenplattenpanzer+5
-11236	Löwenplattenpanzer+6
-11237	Löwenplattenpanzer+7
-11238	Löwenplattenpanzer+8
-11239	Löwenplattenpanzer+9
-11240	Tödl. Plattenpanzer+0
-11241	Tödl. Plattenpanzer+1
-11242	Tödl. Plattenpanzer+2
-11243	Tödl. Plattenpanzer+3
-11244	Tödl. Plattenpanzer+4
-11245	Tödl. Plattenpanzer+5
-11246	Tödl. Plattenpanzer+6
-11247	Tödl. Plattenpanzer+7
-11248	Tödl. Plattenpanzer+8
-11249	Tödl. Plattenpanzer+9
+11230	LÃ¶wenplattenpanzer+0
+11231	LÃ¶wenplattenpanzer+1
+11232	LÃ¶wenplattenpanzer+2
+11233	LÃ¶wenplattenpanzer+3
+11234	LÃ¶wenplattenpanzer+4
+11235	LÃ¶wenplattenpanzer+5
+11236	LÃ¶wenplattenpanzer+6
+11237	LÃ¶wenplattenpanzer+7
+11238	LÃ¶wenplattenpanzer+8
+11239	LÃ¶wenplattenpanzer+9
+11240	TÃ¶dl. Plattenpanzer+0
+11241	TÃ¶dl. Plattenpanzer+1
+11242	TÃ¶dl. Plattenpanzer+2
+11243	TÃ¶dl. Plattenpanzer+3
+11244	TÃ¶dl. Plattenpanzer+4
+11245	TÃ¶dl. Plattenpanzer+5
+11246	TÃ¶dl. Plattenpanzer+6
+11247	TÃ¶dl. Plattenpanzer+7
+11248	TÃ¶dl. Plattenpanzer+8
+11249	TÃ¶dl. Plattenpanzer+9
 11250	Drachen-Plattenpanzer+0
 11251	Drachen-Plattenpanzer+1
 11252	Drachen-Plattenpanzer+2
@@ -1554,16 +1554,16 @@ VNUM	LOCALE_NAME
 11437	Roter Ameisenanzug+7
 11438	Roter Ameisenanzug+8
 11439	Roter Ameisenanzug+9
-11440	Ameisenlöwenanzug+0
-11441	Ameisenlöwenanzug+1
-11442	Ameisenlöwenanzug+2
-11443	Ameisenlöwenanzug+3
-11444	Ameisenlöwenanzug+4
-11445	Ameisenlöwenanzug+5
-11446	Ameisenlöwenanzug+6
-11447	Ameisenlöwenanzug+7
-11448	Ameisenlöwenanzug+8
-11449	Ameisenlöwenanzug+9
+11440	AmeisenlÃ¶wenanzug+0
+11441	AmeisenlÃ¶wenanzug+1
+11442	AmeisenlÃ¶wenanzug+2
+11443	AmeisenlÃ¶wenanzug+3
+11444	AmeisenlÃ¶wenanzug+4
+11445	AmeisenlÃ¶wenanzug+5
+11446	AmeisenlÃ¶wenanzug+6
+11447	AmeisenlÃ¶wenanzug+7
+11448	AmeisenlÃ¶wenanzug+8
+11449	AmeisenlÃ¶wenanzug+9
 11450	Ninjaanzug+0
 11451	Ninjaanzug+1
 11452	Ninjaanzug+2
@@ -1584,16 +1584,16 @@ VNUM	LOCALE_NAME
 11467	Jungdrachenanzug+7
 11468	Jungdrachenanzug+8
 11469	Jungdrachenanzug+9
-11470	Mörderwindanzug+0
-11471	Mörderwindanzug+1
-11472	Mörderwindanzug+2
-11473	Mörderwindanzug+3
-11474	Mörderwindanzug+4
-11475	Mörderwindanzug+5
-11476	Mörderwindanzug+6
-11477	Mörderwindanzug+7
-11478	Mörderwindanzug+8
-11479	Mörderwindanzug+9
+11470	MÃ¶rderwindanzug+0
+11471	MÃ¶rderwindanzug+1
+11472	MÃ¶rderwindanzug+2
+11473	MÃ¶rderwindanzug+3
+11474	MÃ¶rderwindanzug+4
+11475	MÃ¶rderwindanzug+5
+11476	MÃ¶rderwindanzug+6
+11477	MÃ¶rderwindanzug+7
+11478	MÃ¶rderwindanzug+8
+11479	MÃ¶rderwindanzug+9
 11480	Fuchsienanzug+0
 11481	Fuchsienanzug+1
 11482	Fuchsienanzug+2
@@ -1644,16 +1644,16 @@ VNUM	LOCALE_NAME
 11617	Sturm-Plattenpanzer+7
 11618	Sturm-Plattenpanzer+8
 11619	Sturm-Plattenpanzer+9
-11620	Unglücksplattenpanzer+0
-11621	Unglücksplattenpanzer+1
-11622	Unglücksplattenpanzer+2
-11623	Unglücksplattenpanzer+3
-11624	Unglücksplattenpanzer+4
-11625	Unglücksplattenpanzer+5
-11626	Unglücksplattenpanzer+6
-11627	Unglücksplattenpanzer+7
-11628	Unglücksplattenpanzer+8
-11629	Unglücksplattenpanzer+9
+11620	UnglÃ¼cksplattenpanzer+0
+11621	UnglÃ¼cksplattenpanzer+1
+11622	UnglÃ¼cksplattenpanzer+2
+11623	UnglÃ¼cksplattenpanzer+3
+11624	UnglÃ¼cksplattenpanzer+4
+11625	UnglÃ¼cksplattenpanzer+5
+11626	UnglÃ¼cksplattenpanzer+6
+11627	UnglÃ¼cksplattenpanzer+7
+11628	UnglÃ¼cksplattenpanzer+8
+11629	UnglÃ¼cksplattenpanzer+9
 11630	Geistplattenpanzer+0
 11631	Geistplattenpanzer+1
 11632	Geistplattenpanzer+2
@@ -1744,16 +1744,16 @@ VNUM	LOCALE_NAME
 11807	Purpurkleidung+7
 11808	Purpurkleidung+8
 11809	Purpurkleidung+9
-11810	Türkiskleidung+0
-11811	Türkiskleidung+1
-11812	Türkiskleidung+2
-11813	Türkiskleidung+3
-11814	Türkiskleidung+4
-11815	Türkiskleidung+5
-11816	Türkiskleidung+6
-11817	Türkiskleidung+7
-11818	Türkiskleidung+8
-11819	Türkiskleidung+9
+11810	TÃ¼rkiskleidung+0
+11811	TÃ¼rkiskleidung+1
+11812	TÃ¼rkiskleidung+2
+11813	TÃ¼rkiskleidung+3
+11814	TÃ¼rkiskleidung+4
+11815	TÃ¼rkiskleidung+5
+11816	TÃ¼rkiskleidung+6
+11817	TÃ¼rkiskleidung+7
+11818	TÃ¼rkiskleidung+8
+11819	TÃ¼rkiskleidung+9
 11820	Rosafarbene Kleidung+0
 11821	Rosafarbene Kleidung+1
 11822	Rosafarbene Kleidung+2
@@ -1842,14 +1842,14 @@ VNUM	LOCALE_NAME
 11912	Smoking
 11913	Brautkleid
 11914	Brautkleid
-11951	Mönchsplattenpanzer
+11951	MÃ¶nchsplattenpanzer
 11952	Azuranzug
 11953	Requiem-Plattenpanzer
 11954	Purpurkleidung
-11971	Hwang-Rüstung
-11972	Rote Hwang Rüstung
-11973	Zin-Hwang Rüstung
-11974	Sang-Hwang Rüstung
+11971	Hwang-RÃ¼stung
+11972	Rote Hwang RÃ¼stung
+11973	Zin-Hwang RÃ¼stung
+11974	Sang-Hwang RÃ¼stung
 12000	Aqua Kleidung+0
 12001	Aqua Kleidung+1
 12002	Aqua Kleidung+2
@@ -2010,16 +2010,16 @@ VNUM	LOCALE_NAME
 12487	Blutiger Helm+7
 12488	Blutiger Helm+8
 12489	Blutiger Helm+9
-12500	Verhöhnender Helm+0
-12501	Verhöhnender Helm+1
-12502	Verhöhnender Helm+2
-12503	Verhöhnender Helm+3
-12504	Verhöhnender Helm+4
-12505	Verhöhnender Helm+5
-12506	Verhöhnender Helm+6
-12507	Verhöhnender Helm+7
-12508	Verhöhnender Helm+8
-12509	Verhöhnender Helm+9
+12500	VerhÃ¶hnender Helm+0
+12501	VerhÃ¶hnender Helm+1
+12502	VerhÃ¶hnender Helm+2
+12503	VerhÃ¶hnender Helm+3
+12504	VerhÃ¶hnender Helm+4
+12505	VerhÃ¶hnender Helm+5
+12506	VerhÃ¶hnender Helm+6
+12507	VerhÃ¶hnender Helm+7
+12508	VerhÃ¶hnender Helm+8
+12509	VerhÃ¶hnender Helm+9
 12520	Burghelm+0
 12521	Burghelm+1
 12522	Burghelm+2
@@ -2030,16 +2030,16 @@ VNUM	LOCALE_NAME
 12527	Burghelm+7
 12528	Burghelm+8
 12529	Burghelm+9
-12530	Gehörnter Helm +0
-12531	Gehörnter Helm +1
-12532	Gehörnter Helm +2
-12533	Gehörnter Helm +3
-12534	Gehörnter Helm +4
-12535	Gehörnter Helm +5
-12536	Gehörnter Helm +6
-12537	Gehörnter Helm +7
-12538	Gehörnter Helm +8
-12539	Gehörnter Helm +9
+12530	GehÃ¶rnter Helm +0
+12531	GehÃ¶rnter Helm +1
+12532	GehÃ¶rnter Helm +2
+12533	GehÃ¶rnter Helm +3
+12534	GehÃ¶rnter Helm +4
+12535	GehÃ¶rnter Helm +5
+12536	GehÃ¶rnter Helm +6
+12537	GehÃ¶rnter Helm +7
+12538	GehÃ¶rnter Helm +8
+12539	GehÃ¶rnter Helm +9
 12540	Magischer Helm +0
 12541	Magischer Helm +1
 12542	Magischer Helm +2
@@ -2050,26 +2050,26 @@ VNUM	LOCALE_NAME
 12547	Magischer Helm +7
 12548	Magischer Helm +8
 12549	Magischer Helm +9
-12620	Mönchshut+0
-12621	Mönchshut+1
-12622	Mönchshut+2
-12623	Mönchshut+3
-12624	Mönchshut+4
-12625	Mönchshut+5
-12626	Mönchshut+6
-12627	Mönchshut+7
-12628	Mönchshut+8
-12629	Mönchshut+9
-12640	Phönixhut+0
-12641	Phönixhut+1
-12642	Phönixhut+2
-12643	Phönixhut+3
-12644	Phönixhut+4
-12645	Phönixhut+5
-12646	Phönixhut+6
-12647	Phönixhut+7
-12648	Phönixhut+8
-12649	Phönixhut+9
+12620	MÃ¶nchshut+0
+12621	MÃ¶nchshut+1
+12622	MÃ¶nchshut+2
+12623	MÃ¶nchshut+3
+12624	MÃ¶nchshut+4
+12625	MÃ¶nchshut+5
+12626	MÃ¶nchshut+6
+12627	MÃ¶nchshut+7
+12628	MÃ¶nchshut+8
+12629	MÃ¶nchshut+9
+12640	PhÃ¶nixhut+0
+12641	PhÃ¶nixhut+1
+12642	PhÃ¶nixhut+2
+12643	PhÃ¶nixhut+3
+12644	PhÃ¶nixhut+4
+12645	PhÃ¶nixhut+5
+12646	PhÃ¶nixhut+6
+12647	PhÃ¶nixhut+7
+12648	PhÃ¶nixhut+8
+12649	PhÃ¶nixhut+9
 12660	Sonnenlichthut+0
 12661	Sonnenlichthut+1
 12662	Sonnenlichthut+2
@@ -2110,16 +2110,16 @@ VNUM	LOCALE_NAME
 13007	Schlachtschild+7
 13008	Schlachtschild+8
 13009	Schlachtschild+9
-13020	Fünfeckschild+0
-13021	Fünfeckschild+1
-13022	Fünfeckschild+2
-13023	Fünfeckschild+3
-13024	Fünfeckschild+4
-13025	Fünfeckschild+5
-13026	Fünfeckschild+6
-13027	Fünfeckschild+7
-13028	Fünfeckschild+8
-13029	Fünfeckschild+9
+13020	FÃ¼nfeckschild+0
+13021	FÃ¼nfeckschild+1
+13022	FÃ¼nfeckschild+2
+13023	FÃ¼nfeckschild+3
+13024	FÃ¼nfeckschild+4
+13025	FÃ¼nfeckschild+5
+13026	FÃ¼nfeckschild+6
+13027	FÃ¼nfeckschild+7
+13028	FÃ¼nfeckschild+8
+13029	FÃ¼nfeckschild+9
 13040	Schwarzer Rundschild+0
 13041	Schwarzer Rundschild+1
 13042	Schwarzer Rundschild+2
@@ -2150,16 +2150,16 @@ VNUM	LOCALE_NAME
 13087	Tigerschild+7
 13088	Tigerschild+8
 13089	Tigerschild+9
-13100	Löwenkantenschild+0
-13101	Löwenkantenschild+1
-13102	Löwenkantenschild+2
-13103	Löwenkantenschild+3
-13104	Löwenkantenschild+4
-13105	Löwenkantenschild+5
-13106	Löwenkantenschild+6
-13107	Löwenkantenschild+7
-13108	Löwenkantenschild+8
-13109	Löwenkantenschild+9
+13100	LÃ¶wenkantenschild+0
+13101	LÃ¶wenkantenschild+1
+13102	LÃ¶wenkantenschild+2
+13103	LÃ¶wenkantenschild+3
+13104	LÃ¶wenkantenschild+4
+13105	LÃ¶wenkantenschild+5
+13106	LÃ¶wenkantenschild+6
+13107	LÃ¶wenkantenschild+7
+13108	LÃ¶wenkantenschild+8
+13109	LÃ¶wenkantenschild+9
 13120	Drachenschuppenschild+0
 13121	Drachenschuppenschild+1
 13122	Drachenschuppenschild+2
@@ -2200,16 +2200,16 @@ VNUM	LOCALE_NAME
 13187	Strahlender Schild+7
 13188	Strahlender Schild+8
 13189	Strahlender Schild+9
-13190	Fünfeckschild+0
-13191	Fünfeckschild+1
-13192	Fünfeckschild+2
-13193	Fünfeckschild+3
-13194	Fünfeckschild+4
-13195	Fünfeckschild+5
-13196	Fünfeckschild+6
-13197	Fünfeckschild+7
-13198	Fünfeckschild+8
-13199	Fünfeckschild+9
+13190	FÃ¼nfeckschild+0
+13191	FÃ¼nfeckschild+1
+13192	FÃ¼nfeckschild+2
+13193	FÃ¼nfeckschild+3
+13194	FÃ¼nfeckschild+4
+13195	FÃ¼nfeckschild+5
+13196	FÃ¼nfeckschild+6
+13197	FÃ¼nfeckschild+7
+13198	FÃ¼nfeckschild+8
+13199	FÃ¼nfeckschild+9
 13200	Schwarzer Rundschild+0
 13201	Schwarzer Rundschild+1
 13202	Schwarzer Rundschild+2
@@ -2290,16 +2290,16 @@ VNUM	LOCALE_NAME
 14127	Perlenarmband+7
 14128	Perlenarmband+8
 14129	Perlenarmband+9
-14140	Weißgoldarmband+0
-14141	Weißgoldarmband+1
-14142	Weißgoldarmband+2
-14143	Weißgoldarmband+3
-14144	Weißgoldarmband+4
-14145	Weißgoldarmband+5
-14146	Weißgoldarmband+6
-14147	Weißgoldarmband+7
-14148	Weißgoldarmband+8
-14149	Weißgoldarmband+9
+14140	WeiÃŸgoldarmband+0
+14141	WeiÃŸgoldarmband+1
+14142	WeiÃŸgoldarmband+2
+14143	WeiÃŸgoldarmband+3
+14144	WeiÃŸgoldarmband+4
+14145	WeiÃŸgoldarmband+5
+14146	WeiÃŸgoldarmband+6
+14147	WeiÃŸgoldarmband+7
+14148	WeiÃŸgoldarmband+8
+14149	WeiÃŸgoldarmband+9
 14160	Kristallarmband+0
 14161	Kristallarmband+1
 14162	Kristallarmband+2
@@ -2320,16 +2320,16 @@ VNUM	LOCALE_NAME
 14187	Amethystarmband+7
 14188	Amethystarmband+8
 14189	Amethystarmband+9
-14200	Himmelstränenarmband+0
-14201	Himmelstränenarmband+1
-14202	Himmelstränenarmband+2
-14203	Himmelstränenarmband+3
-14204	Himmelstränenarmband+4
-14205	Himmelstränenarmband+5
-14206	Himmelstränenarmband+6
-14207	Himmelstränenarmband+7
-14208	Himmelstränenarmband+8
-14209	Himmelstränenarmband+9
+14200	HimmelstrÃ¤nenarmband+0
+14201	HimmelstrÃ¤nenarmband+1
+14202	HimmelstrÃ¤nenarmband+2
+14203	HimmelstrÃ¤nenarmband+3
+14204	HimmelstrÃ¤nenarmband+4
+14205	HimmelstrÃ¤nenarmband+5
+14206	HimmelstrÃ¤nenarmband+6
+14207	HimmelstrÃ¤nenarmband+7
+14208	HimmelstrÃ¤nenarmband+8
+14209	HimmelstrÃ¤nenarmband+9
 14220	Seelenkristallarmband+0
 14221	Seelenkristallarmband+1
 14222	Seelenkristallarmband+2
@@ -2480,16 +2480,16 @@ VNUM	LOCALE_NAME
 15187	Nimbus-Stiefel+7
 15188	Nimbus-Stiefel+8
 15189	Nimbus-Stiefel+9
-15200	Phönixschuhe+0
-15201	Phönixschuhe+1
-15202	Phönixschuhe+2
-15203	Phönixschuhe+3
-15204	Phönixschuhe+4
-15205	Phönixschuhe+5
-15206	Phönixschuhe+6
-15207	Phönixschuhe+7
-15208	Phönixschuhe+8
-15209	Phönixschuhe+9
+15200	PhÃ¶nixschuhe+0
+15201	PhÃ¶nixschuhe+1
+15202	PhÃ¶nixschuhe+2
+15203	PhÃ¶nixschuhe+3
+15204	PhÃ¶nixschuhe+4
+15205	PhÃ¶nixschuhe+5
+15206	PhÃ¶nixschuhe+6
+15207	PhÃ¶nixschuhe+7
+15208	PhÃ¶nixschuhe+8
+15209	PhÃ¶nixschuhe+9
 15220	Feuervogelschuhe+0
 15221	Feuervogelschuhe+1
 15222	Feuervogelschuhe+2
@@ -2620,16 +2620,16 @@ VNUM	LOCALE_NAME
 16127	Perlenhalskette+7
 16128	Perlenhalskette+8
 16129	Perlenhalskette+9
-16140	Weißgoldhalskette+0
-16141	Weißgoldhalskette+1
-16142	Weißgoldhalskette+2
-16143	Weißgoldhalskette+3
-16144	Weißgoldhalskette+4
-16145	Weißgoldhalskette+5
-16146	Weißgoldhalskette+6
-16147	Weißgoldhalskette+7
-16148	Weißgoldhalskette+8
-16149	Weißgoldhalskette+9
+16140	WeiÃŸgoldhalskette+0
+16141	WeiÃŸgoldhalskette+1
+16142	WeiÃŸgoldhalskette+2
+16143	WeiÃŸgoldhalskette+3
+16144	WeiÃŸgoldhalskette+4
+16145	WeiÃŸgoldhalskette+5
+16146	WeiÃŸgoldhalskette+6
+16147	WeiÃŸgoldhalskette+7
+16148	WeiÃŸgoldhalskette+8
+16149	WeiÃŸgoldhalskette+9
 16160	Kristallhalskette+0
 16161	Kristallhalskette+1
 16162	Kristallhalskette+2
@@ -2650,16 +2650,16 @@ VNUM	LOCALE_NAME
 16187	Amethysthalskette+7
 16188	Amethysthalskette+8
 16189	Amethysthalskette+9
-16200	Himmelstränenhalskette+0
-16201	Himmelstränenhalskette+1
-16202	Himmelstränenhalskette+2
-16203	Himmelstränenhalskette+3
-16204	Himmelstränenhalskette+4
-16205	Himmelstränenhalskette+5
-16206	Himmelstränenhalskette+6
-16207	Himmelstränenhalskette+7
-16208	Himmelstränenhalskette+8
-16209	Himmelstränenhalskette+9
+16200	HimmelstrÃ¤nenhalskette+0
+16201	HimmelstrÃ¤nenhalskette+1
+16202	HimmelstrÃ¤nenhalskette+2
+16203	HimmelstrÃ¤nenhalskette+3
+16204	HimmelstrÃ¤nenhalskette+4
+16205	HimmelstrÃ¤nenhalskette+5
+16206	HimmelstrÃ¤nenhalskette+6
+16207	HimmelstrÃ¤nenhalskette+7
+16208	HimmelstrÃ¤nenhalskette+8
+16209	HimmelstrÃ¤nenhalskette+9
 16220	Seelenkristallkette+0
 16221	Seelenkristallkette+1
 16222	Seelenkristallkette+2
@@ -2780,16 +2780,16 @@ VNUM	LOCALE_NAME
 17127	Perlenohrringe+7
 17128	Perlenohrringe+8
 17129	Perlenohrringe+9
-17140	Weißgoldohrringe+0
-17141	Weißgoldohrringe+1
-17142	Weißgoldohrringe+2
-17143	Weißgoldohrringe+3
-17144	Weißgoldohrringe+4
-17145	Weißgoldohrringe+5
-17146	Weißgoldohrringe+6
-17147	Weißgoldohrringe+7
-17148	Weißgoldohrringe+8
-17149	Weißgoldohrringe+9
+17140	WeiÃŸgoldohrringe+0
+17141	WeiÃŸgoldohrringe+1
+17142	WeiÃŸgoldohrringe+2
+17143	WeiÃŸgoldohrringe+3
+17144	WeiÃŸgoldohrringe+4
+17145	WeiÃŸgoldohrringe+5
+17146	WeiÃŸgoldohrringe+6
+17147	WeiÃŸgoldohrringe+7
+17148	WeiÃŸgoldohrringe+8
+17149	WeiÃŸgoldohrringe+9
 17160	Kristallohrringe+0
 17161	Kristallohrringe+1
 17162	Kristallohrringe+2
@@ -2810,16 +2810,16 @@ VNUM	LOCALE_NAME
 17187	Amethystohrringe+7
 17188	Amethystohrringe+8
 17189	Amethystohrringe+9
-17200	Himmelstränenohrringe+0
-17201	Himmelstränenohrringe+1
-17202	Himmelstränenohrringe+2
-17203	Himmelstränenohrringe+3
-17204	Himmelstränenohrringe+4
-17205	Himmelstränenohrringe+5
-17206	Himmelstränenohrringe+6
-17207	Himmelstränenohrringe+7
-17208	Himmelstränenohrringe+8
-17209	Himmelstränenohrringe+9
+17200	HimmelstrÃ¤nenohrringe+0
+17201	HimmelstrÃ¤nenohrringe+1
+17202	HimmelstrÃ¤nenohrringe+2
+17203	HimmelstrÃ¤nenohrringe+3
+17204	HimmelstrÃ¤nenohrringe+4
+17205	HimmelstrÃ¤nenohrringe+5
+17206	HimmelstrÃ¤nenohrringe+6
+17207	HimmelstrÃ¤nenohrringe+7
+17208	HimmelstrÃ¤nenohrringe+8
+17209	HimmelstrÃ¤nenohrringe+9
 17220	Seelenkristallohrringe+0
 17221	Seelenkristallohrringe+1
 17222	Seelenkristallohrringe+2
@@ -2870,96 +2870,96 @@ VNUM	LOCALE_NAME
 17567	Saphirohrringe+7
 17568	Saphirohrringe+8
 17569	Saphirohrringe+9
-18000	Leinengürtel+0
-18001	Leinengürtel+1
-18002	Leinengürtel+2
-18003	Leinengürtel+3
-18004	Leinengürtel+4
-18005	Leinengürtel+5
-18006	Leinengürtel+6
-18007	Leinengürtel+7
-18008	Leinengürtel+8
-18009	Leinengürtel+9
-18010	Ledergürtel+0
-18011	Ledergürtel+1
-18012	Ledergürtel+2
-18013	Ledergürtel+3
-18014	Ledergürtel+4
-18015	Ledergürtel+5
-18016	Ledergürtel+6
-18017	Ledergürtel+7
-18018	Ledergürtel+8
-18019	Ledergürtel+9
-18020	Prunkvoller Gürtel+0
-18021	Prunkvoller Gürtel+1
-18022	Prunkvoller Gürtel+2
-18023	Prunkvoller Gürtel+3
-18024	Prunkvoller Gürtel+4
-18025	Prunkvoller Gürtel+5
-18026	Prunkvoller Gürtel+6
-18027	Prunkvoller Gürtel+7
-18028	Prunkvoller Gürtel+8
-18029	Prunkvoller Gürtel+9
-18030	Gürtel der Weisheit+0
-18031	Gürtel der Weisheit+1
-18032	Gürtel der Weisheit+2
-18033	Gürtel der Weisheit+3
-18034	Gürtel der Weisheit+4
-18035	Gürtel der Weisheit+5
-18036	Gürtel der Weisheit+6
-18037	Gürtel der Weisheit+7
-18038	Gürtel der Weisheit+8
-18039	Gürtel der Weisheit+9
-18040	Königsgürtel+0
-18041	Königsgürtel+1
-18042	Königsgürtel+2
-18043	Königsgürtel+3
-18044	Königsgürtel+4
-18045	Königsgürtel+5
-18046	Königsgürtel+6
-18047	Königsgürtel+7
-18048	Königsgürtel+8
-18049	Königsgürtel+9
-18050	Schattengürtel+0
-18051	Schattengürtel+1
-18052	Schattengürtel+2
-18053	Schattengürtel+3
-18054	Schattengürtel+4
-18055	Schattengürtel+5
-18056	Schattengürtel+6
-18057	Schattengürtel+7
-18058	Schattengürtel+8
-18059	Schattengürtel+9
-18060	Runengürtel+0
-18061	Runengürtel+1
-18062	Runengürtel+2
-18063	Runengürtel+3
-18064	Runengürtel+4
-18065	Runengürtel+5
-18066	Runengürtel+6
-18067	Runengürtel+7
-18068	Runengürtel+8
-18069	Runengürtel+9
-18070	Großer Bären-Gürtel+0
-18071	Großer Bären-Gürtel+1
-18072	Großer Bären-Gürtel+2
-18073	Großer Bären-Gürtel+3
-18074	Großer Bären-Gürtel+4
-18075	Großer Bären-Gürtel+5
-18076	Großer Bären-Gürtel+6
-18077	Großer Bären-Gürtel+7
-18078	Großer Bären-Gürtel+8
-18079	Großer Bären-Gürtel+9
-18080	Seelengürtel+0
-18081	Seelengürtel+1
-18082	Seelengürtel+2
-18083	Seelengürtel+3
-18084	Seelengürtel+4
-18085	Seelengürtel+5
-18086	Seelengürtel+6
-18087	Seelengürtel+7
-18088	Seelengürtel+8
-18089	Seelengürtel+9
+18000	LeinengÃ¼rtel+0
+18001	LeinengÃ¼rtel+1
+18002	LeinengÃ¼rtel+2
+18003	LeinengÃ¼rtel+3
+18004	LeinengÃ¼rtel+4
+18005	LeinengÃ¼rtel+5
+18006	LeinengÃ¼rtel+6
+18007	LeinengÃ¼rtel+7
+18008	LeinengÃ¼rtel+8
+18009	LeinengÃ¼rtel+9
+18010	LedergÃ¼rtel+0
+18011	LedergÃ¼rtel+1
+18012	LedergÃ¼rtel+2
+18013	LedergÃ¼rtel+3
+18014	LedergÃ¼rtel+4
+18015	LedergÃ¼rtel+5
+18016	LedergÃ¼rtel+6
+18017	LedergÃ¼rtel+7
+18018	LedergÃ¼rtel+8
+18019	LedergÃ¼rtel+9
+18020	Prunkvoller GÃ¼rtel+0
+18021	Prunkvoller GÃ¼rtel+1
+18022	Prunkvoller GÃ¼rtel+2
+18023	Prunkvoller GÃ¼rtel+3
+18024	Prunkvoller GÃ¼rtel+4
+18025	Prunkvoller GÃ¼rtel+5
+18026	Prunkvoller GÃ¼rtel+6
+18027	Prunkvoller GÃ¼rtel+7
+18028	Prunkvoller GÃ¼rtel+8
+18029	Prunkvoller GÃ¼rtel+9
+18030	GÃ¼rtel der Weisheit+0
+18031	GÃ¼rtel der Weisheit+1
+18032	GÃ¼rtel der Weisheit+2
+18033	GÃ¼rtel der Weisheit+3
+18034	GÃ¼rtel der Weisheit+4
+18035	GÃ¼rtel der Weisheit+5
+18036	GÃ¼rtel der Weisheit+6
+18037	GÃ¼rtel der Weisheit+7
+18038	GÃ¼rtel der Weisheit+8
+18039	GÃ¼rtel der Weisheit+9
+18040	KÃ¶nigsgÃ¼rtel+0
+18041	KÃ¶nigsgÃ¼rtel+1
+18042	KÃ¶nigsgÃ¼rtel+2
+18043	KÃ¶nigsgÃ¼rtel+3
+18044	KÃ¶nigsgÃ¼rtel+4
+18045	KÃ¶nigsgÃ¼rtel+5
+18046	KÃ¶nigsgÃ¼rtel+6
+18047	KÃ¶nigsgÃ¼rtel+7
+18048	KÃ¶nigsgÃ¼rtel+8
+18049	KÃ¶nigsgÃ¼rtel+9
+18050	SchattengÃ¼rtel+0
+18051	SchattengÃ¼rtel+1
+18052	SchattengÃ¼rtel+2
+18053	SchattengÃ¼rtel+3
+18054	SchattengÃ¼rtel+4
+18055	SchattengÃ¼rtel+5
+18056	SchattengÃ¼rtel+6
+18057	SchattengÃ¼rtel+7
+18058	SchattengÃ¼rtel+8
+18059	SchattengÃ¼rtel+9
+18060	RunengÃ¼rtel+0
+18061	RunengÃ¼rtel+1
+18062	RunengÃ¼rtel+2
+18063	RunengÃ¼rtel+3
+18064	RunengÃ¼rtel+4
+18065	RunengÃ¼rtel+5
+18066	RunengÃ¼rtel+6
+18067	RunengÃ¼rtel+7
+18068	RunengÃ¼rtel+8
+18069	RunengÃ¼rtel+9
+18070	GroÃŸer BÃ¤ren-GÃ¼rtel+0
+18071	GroÃŸer BÃ¤ren-GÃ¼rtel+1
+18072	GroÃŸer BÃ¤ren-GÃ¼rtel+2
+18073	GroÃŸer BÃ¤ren-GÃ¼rtel+3
+18074	GroÃŸer BÃ¤ren-GÃ¼rtel+4
+18075	GroÃŸer BÃ¤ren-GÃ¼rtel+5
+18076	GroÃŸer BÃ¤ren-GÃ¼rtel+6
+18077	GroÃŸer BÃ¤ren-GÃ¼rtel+7
+18078	GroÃŸer BÃ¤ren-GÃ¼rtel+8
+18079	GroÃŸer BÃ¤ren-GÃ¼rtel+9
+18080	SeelengÃ¼rtel+0
+18081	SeelengÃ¼rtel+1
+18082	SeelengÃ¼rtel+2
+18083	SeelengÃ¼rtel+3
+18084	SeelengÃ¼rtel+4
+18085	SeelengÃ¼rtel+5
+18086	SeelengÃ¼rtel+6
+18087	SeelengÃ¼rtel+7
+18088	SeelengÃ¼rtel+8
+18089	SeelengÃ¼rtel+9
 18900	Rotflammenstein
 20000	Teufelshornpanzer+0
 20001	Teufelshornpanzer+1
@@ -3002,7 +3002,7 @@ VNUM	LOCALE_NAME
 20758	Goldene Kleidung+8
 20759	Goldene Kleidung+9
 22000	Schriftrolle Stadt
-22001	Zurück zur Stadt
+22001	ZurÃ¼ck zur Stadt
 22010	Schriftrolle des Ortes
 22011	Schriftrolle des Ortes
 22020	Papier
@@ -3020,17 +3020,17 @@ VNUM	LOCALE_NAME
 27006	Blauer Trank (G)
 27051	Roter Trank (K)
 27052	Blauer Trank (K)
-27053	Grüner Trank (K)
+27053	GrÃ¼ner Trank (K)
 27054	Violetter Trank (K)
-27100	Grüner Trank (K)
-27101	Grüner Trank (M)
-27102	Grüner Trank (G)
+27100	GrÃ¼ner Trank (K)
+27101	GrÃ¼ner Trank (M)
+27102	GrÃ¼ner Trank (G)
 27103	Violetter Trank (K)
 27104	Violetter Trank(M)
 27105	Violetter Trank(G)
-27110	Grüner Trank (K)
-27111	Grüner Trank (M)
-27112	Grüner Trank (G)
+27110	GrÃ¼ner Trank (K)
+27111	GrÃ¼ner Trank (M)
+27112	GrÃ¼ner Trank (G)
 27113	Violetter Trank(K)
 27114	Violetter Trank(M)
 27115	Violetter Trank(G)
@@ -3063,13 +3063,13 @@ VNUM	LOCALE_NAME
 27600	Lagerfeuer
 27610	Fischkugel
 27620	Fischereibuch
-27799	Gräten
+27799	GrÃ¤ten
 27800	Paste
 27801	Wurm
 27802	Kleiner Fisch
 27803	Zander
 27804	Mandarinfisch
-27805	Großer Zander
+27805	GroÃŸer Zander
 27806	Karpfen
 27807	Lachs
 27808	Graskarpfen
@@ -3090,7 +3090,7 @@ VNUM	LOCALE_NAME
 27823	Goldfisch
 27833	Toter Zander
 27834	Toter Mandarinfisch
-27835	Toter großer Zander
+27835	Toter groÃŸer Zander
 27836	Toter Karpfen
 27837	Toter Lachs
 27838	Toter Graskarpfen
@@ -3133,9 +3133,9 @@ VNUM	LOCALE_NAME
 27987	Muschel
 27988	Schatzkarte
 27989	Kompass des Metinsteins
-27990	Steinstück
+27990	SteinstÃ¼ck
 27991	Wasserstein
-27992	Weiße Perle
+27992	WeiÃŸe Perle
 27993	Blaue Perle
 27994	Blutrote Perle
 27995	Leere Flasche
@@ -3148,7 +3148,7 @@ VNUM	LOCALE_NAME
 28008	Stein des Traumas+0
 28012	Stein der Dummheit+0
 28030	Stein des Durchbruchs+0
-28031	Stein des Todesstoß+0
+28031	Stein des TodesstoÃŸ+0
 28032	Stein der Wiederkehr+0
 28033	Stein gegen Krieger+0
 28034	Stein gegen Ninja+0
@@ -3166,7 +3166,7 @@ VNUM	LOCALE_NAME
 28108	Stein des Traumas+1
 28112	Stein der Dummheit+1
 28130	Stein des Durchbruchs+1
-28131	Stein des Todesstoß+1
+28131	Stein des TodesstoÃŸ+1
 28132	Stein der Wiederkehr+1
 28133	Stein gegen Krieger+1
 28134	Stein gegen Ninja+1
@@ -3184,7 +3184,7 @@ VNUM	LOCALE_NAME
 28208	Stein des Traumas+2
 28212	Stein der Dummheit+2
 28230	Stein des Durchbruchs+2
-28231	Stein des Todesstoß+2
+28231	Stein des TodesstoÃŸ+2
 28232	Stein der Wiederkehr+2
 28233	Stein gegen Krieger+2
 28234	Stein gegen Ninja+2
@@ -3202,7 +3202,7 @@ VNUM	LOCALE_NAME
 28308	Stein des Traumas+3
 28312	Stein der Dummheit+3
 28330	Stein des Durchbruchs+3
-28331	Stein des Todesstoß+3
+28331	Stein des TodesstoÃŸ+3
 28332	Stein der Wiederkehr+3
 28333	Stein gegen Krieger+3
 28334	Stein gegen Ninja+3
@@ -3220,7 +3220,7 @@ VNUM	LOCALE_NAME
 28408	Stein des Traumas+4
 28412	Stein der Dummheit+4
 28430	Stein des Durchbruchs+4
-28431	Stein des Todesstoß+4
+28431	Stein des TodesstoÃŸ+4
 28432	Stein der Wiederkehr+4
 28433	Stein gegen Krieger+4
 28434	Stein gegen Ninja+4
@@ -3238,7 +3238,7 @@ VNUM	LOCALE_NAME
 28508	Stein des Traumas+5
 28512	Stein der Dummheit+5
 28530	Stein des Durchbruchs+5
-28531	Stein des Todesstoß+5
+28531	Stein des TodesstoÃŸ+5
 28532	Stein der Wiederkehr+5
 28533	Stein gegen Krieger+5
 28534	Stein gegen Ninja+5
@@ -3252,7 +3252,7 @@ VNUM	LOCALE_NAME
 28542	Stein des Schutzes+5
 28543	Stein der Hast+5
 28600	Stein des Durchbruchs+6
-28601	Stein des Todesstoß+6
+28601	Stein des TodesstoÃŸ+6
 28602	Stein der Wiederkehr+6
 28603	Stein gegen Krieger+6
 28604	Stein gegen Ninja+6
@@ -3266,7 +3266,7 @@ VNUM	LOCALE_NAME
 28612	Stein des Schutzes+6
 28613	Stein der Hast+6
 28630	Aquastein Durchbruch+5
-28631	Aquastein Todesstoß+5
+28631	Aquastein TodesstoÃŸ+5
 28632	Aquastein Wiederkehr+5
 28633	Aquastein Krieger+5
 28634	Aquastein Ninja+5
@@ -3276,11 +3276,11 @@ VNUM	LOCALE_NAME
 28638	Aquastein Ausweichens+5
 28639	Aquastein Duckens+5
 28640	Aquastein Magie+5
-28641	Aquastein Vitalität+5
+28641	Aquastein VitalitÃ¤t+5
 28642	Aquastein Schutz+5
 28643	Aquastein Hast+5
 28700	Stein des Durchbruchs+7
-28701	Stein des Todesstoß+7
+28701	Stein des TodesstoÃŸ+7
 28702	Stein der Wiederkehr+7
 28703	Stein gegen Krieger+7
 28704	Stein gegen Ninja+7
@@ -3294,7 +3294,7 @@ VNUM	LOCALE_NAME
 28712	Stein des Schutzes+7
 28713	Stein der Hast+7
 28730	Aquastein Durchbruch+7
-28731	Aquastein Todesstoß+7
+28731	Aquastein TodesstoÃŸ+7
 28732	Aquastein Wiederkehr+7
 28733	Aquastein Krieger+7
 28734	Aquastein Ninja+7
@@ -3304,11 +3304,11 @@ VNUM	LOCALE_NAME
 28738	Aquastein Ausweichens+7
 28739	Aquastein Duckens+7
 28740	Aquastein Magie+7
-28741	Aquastein Vitalität+7
+28741	Aquastein VitalitÃ¤t+7
 28742	Aquastein Schutz+7
 28743	Aquastein Hast+7
 28800	Stein des Durchbruchs+8
-28801	Stein des Todesstoß+8
+28801	Stein des TodesstoÃŸ+8
 28802	Stein der Wiederkehr+8
 28803	Stein gegen Krieger+8
 28804	Stein gegen Ninja+8
@@ -3322,7 +3322,7 @@ VNUM	LOCALE_NAME
 28812	Stein des Schutzes+8
 28813	Stein der Hast+8
 28830	Aquastein Durchbruch+8
-28831	Aquastein Todesstoß+8
+28831	Aquastein TodesstoÃŸ+8
 28832	Aquastein Wiederkehr+8
 28833	Aquastein Krieger+8
 28834	Aquastein Ninja+8
@@ -3332,11 +3332,11 @@ VNUM	LOCALE_NAME
 28838	Aquastein Ausweichens+8
 28839	Aquastein Duckens+8
 28840	Aquastein Magie+8
-28841	Aquastein Vitalität+8
+28841	Aquastein VitalitÃ¤t+8
 28842	Aquastein Schutz+8
 28843	Aquastein Hast+8
 28900	Stein des Durchbruchs+9
-28901	Stein des Todesstoß+9
+28901	Stein des TodesstoÃŸ+9
 28902	Stein der Wiederkehr+9
 28903	Stein gegen Krieger+9
 28904	Stein gegen Ninja+9
@@ -3350,7 +3350,7 @@ VNUM	LOCALE_NAME
 28912	Stein des Schutzes+9
 28913	Stein der Hast+9
 28930	Aquastein Durchbruch+9
-28931	Aquastein Todesstoß+9
+28931	Aquastein TodesstoÃŸ+9
 28932	Aquastein Wiederkehr+9
 28933	Aquastein Krieger+9
 28934	Aquastein Ninja+9
@@ -3360,25 +3360,25 @@ VNUM	LOCALE_NAME
 28938	Aquastein Ausweichens+9
 28939	Aquastein Duckens+9
 28940	Aquastein Magie+9
-28941	Aquastein Vitalität+9
+28941	Aquastein VitalitÃ¤t+9
 28942	Aquastein Schutz+9
 28943	Aquastein Hast+9
-28960	Steinsplitterstück
+28960	SteinsplitterstÃ¼ck
 29001	Jakobsmuschel
 29002	Blaue Jakobsmuschel
 29003	Gelbe Jakobsmuschel
 29004	Rote Jakobsmuschel
-29005	Grüne Jakobsmuschel
+29005	GrÃ¼ne Jakobsmuschel
 29006	Gelber Weinstein
 29007	Blauer Weinstein
 29008	Blaues heiliges Wasser
 29009	Gelbes heiliges Wasser
 29010	Rotes heiliges Wasser
-29011	Grünes heiliges Wasser
+29011	GrÃ¼nes heiliges Wasser
 29012	Dunkelblaue Gotteshand
 29013	Dunkelgelbe Gotteshand
 29014	Purpurne Gotteshand
-29015	Dunkelgrüne Gotteshand
+29015	DunkelgrÃ¼ne Gotteshand
 29101	Spitzhacke+0
 29102	Spitzhacke+1
 29103	Spitzhacke+2
@@ -3394,25 +3394,25 @@ VNUM	LOCALE_NAME
 30002	Angebratene Wurst
 30003	Schweinenase
 30004	Keilerzahn
-30005	Stück kaputte Rüstung
+30005	StÃ¼ck kaputte RÃ¼stung
 30006	Orkzahn
 30007	Orkamulett
 30008	Esoterikfibel
 30009	Unbekannte Medizin
-30010	Bärengalle
-30011	Knäuel
+30010	BÃ¤rengalle
+30011	KnÃ¤uel
 30012	Weinflasche
 30013	Alkoholkrug
 30014	Yetifell
-30015	Dämonenandenken
-30016	Dämonenedelstein
-30017	Schmückende Haarnadel
+30015	DÃ¤monenandenken
+30016	DÃ¤monenedelstein
+30017	SchmÃ¼ckende Haarnadel
 30018	Rotes Haarband
-30019	Flammenmähne
+30019	FlammenmÃ¤hne
 30020	Pfirsichsamen
-30021	Stück Edelstein
+30021	StÃ¼ck Edelstein
 30022	Schlangenschwanz
-30023	Weißes Tigerfell
+30023	WeiÃŸes Tigerfell
 30024	Pferdeschwanz
 30025	Spinnen-Giftsack
 30026	Wolfsdarm
@@ -3423,26 +3423,26 @@ VNUM	LOCALE_NAME
 30031	Schmuckgegenstand
 30032	Schwarze Uniform
 30033	Zerbrochenes Porzellan
-30034	Weißes Haarband
+30034	WeiÃŸes Haarband
 30035	Gesichtscreme
 30036	Geheimnisvolles Kraut
 30037	Tigerkralle
 30038	Tigerfell
-30039	Stück Gewebe
+30039	StÃ¼ck Gewebe
 30040	Blatt
 30041	Shuriken
-30042	Reißzahn eines Tigers
+30042	ReiÃŸzahn eines Tigers
 30043	Bohne
 30044	Lehm
 30045	Skorpionnadel
 30046	Skorpionschwanz
 30047	Fluchsammlung
-30048	Eisstück
+30048	EisstÃ¼ck
 30049	Eiskillerwal-Horn
 30050	Eiskugel
 30051	Unbekannter Talisman
 30052	Flagge
-30053	Bärenfußhaut
+30053	BÃ¤renfuÃŸhaut
 30054	Ehering
 30055	Skorpionschere
 30056	Spinnennetz
@@ -3451,7 +3451,7 @@ VNUM	LOCALE_NAME
 30059	Spinnenbeine
 30060	Froschzunge
 30061	Froschschenkel
-30062	Medizinschüssel
+30062	MedizinschÃ¼ssel
 30063	Hautmedizin
 30064	Scharfer Stein
 30065	Glocke
@@ -3460,9 +3460,9 @@ VNUM	LOCALE_NAME
 30068	Tofusteak
 30069	Wolfskralle+
 30070	Wolfsfell+
-30071	Bärengalle+
-30072	Bärenfußhaut+
-30073	Weißes Haarband+
+30071	BÃ¤rengalle+
+30072	BÃ¤renfuÃŸhaut+
+30073	WeiÃŸes Haarband+
 30074	Schwarze Uniform+
 30075	Shuriken+
 30076	Orkamulett+
@@ -3474,31 +3474,31 @@ VNUM	LOCALE_NAME
 30082	Schlangenschwanz+
 30083	Unbekannte Medizin+
 30084	Unbekannter Talisman+
-30085	Stück Gewebe+
-30086	Dämonenandenken+
-30087	Dämonenedelstein+
-30088	Eisstück+
+30085	StÃ¼ck Gewebe+
+30086	DÃ¤monenandenken+
+30087	DÃ¤monenedelstein+
+30088	EisstÃ¼ck+
 30089	Yetifell+
 30090	Eiskugel+
 30091	Kriegersymbol
 30092	Kriegsbeute
-30093	Glückstasche
-30094	Glückstasche
-30095	Glückstasche
-30096	Glückstasche
-30097	Glücksbörse
-30098	Glückstasche
-30099	Glückstasche
-30100	Glückstasche
+30093	GlÃ¼ckstasche
+30094	GlÃ¼ckstasche
+30095	GlÃ¼ckstasche
+30096	GlÃ¼ckstasche
+30097	GlÃ¼cksbÃ¶rse
+30098	GlÃ¼ckstasche
+30099	GlÃ¼ckstasche
+30100	GlÃ¼ckstasche
 30101	Ariyoungs Ehering
 30102	Goldene Axt vom Schmied
 30103	Goldener Orkzahn
-30104	Wüstenspinnennetz
+30104	WÃ¼stenspinnennetz
 30105	Skorpionschwanz
-30106	Arznei für Yu-Rang
+30106	Arznei fÃ¼r Yu-Rang
 30107	Orkfangzahn
 30108	Keramikemaille
-30109	Wüstenspinnennetz
+30109	WÃ¼stenspinnennetz
 30110	Brief von Huahn-So
 30111	Stachel Skorpionschwanz
 30112	Aal
@@ -3507,7 +3507,7 @@ VNUM	LOCALE_NAME
 30115	Heilung der Plage
 30116	Froschschenkel
 30117	Brief
-30118	Dämonenschmuckkästchen
+30118	DÃ¤monenschmuckkÃ¤stchen
 30119	Glocke
 30120	Teil einer Karte
 30121	Teil einer Karte
@@ -3523,16 +3523,16 @@ VNUM	LOCALE_NAME
 30131	Brief vom Schmied
 30132	Uriels Buch
 30133	Blumenschuhe
-30134	Uriels Päckchen
+30134	Uriels PÃ¤ckchen
 30135	Ariyoungs Brief
 30136	Verzierter Bogen
 30137	Affenblut
-30138	Wüstensand
+30138	WÃ¼stensand
 30139	Ork Backenzahn
-30140	Nähgarn
-30141	Schmuckstück
+30140	NÃ¤hgarn
+30141	SchmuckstÃ¼ck
 30142	Brief
-30143	Medizinische Kräuter
+30143	Medizinische KrÃ¤uter
 30144	Leber eines Tigers
 30145	Balsos Medizin
 30146	Klumpen Eis
@@ -3544,7 +3544,7 @@ VNUM	LOCALE_NAME
 30152	Medizin
 30153	Blumen
 30154	Geheimes Tempelbuch
-30155	Mirines Anhänger
+30155	Mirines AnhÃ¤nger
 30156	Geheimes Tempelbuch
 30157	Pfeilspitze
 30158	Reiskuchen
@@ -3553,57 +3553,57 @@ VNUM	LOCALE_NAME
 30161	Speer vom Ehemann
 30162	Auge einer Spinne
 30163	Wattebausch
-30164	ÜbersetzungFluchsammlung
+30164	ÃœbersetzungFluchsammlung
 30165	Zelkova Holzast
 30166	Tugyis Tafel
 30167	Roter Geisterbaum-Ast
-30168	Notizen der Anführer
+30168	Notizen der AnfÃ¼hrer
 30169	Blutrote Blume
 30170	Orangefarbene Blume
 30171	Duftende gelbe Blume
-30172	Prächtiger Blumenstrauß
+30172	PrÃ¤chtiger BlumenstrauÃŸ
 30173	Mu-Rang-Fell
-30174	Bärentatze
-30175	Diamantharte Wallanze
+30174	BÃ¤rentatze
+30175	DiamantharteÂ Wallanze
 30176	Schimmerndes Tigerfell
-30177	Moschusöl
+30177	MoschusÃ¶l
 30178	Glyphenstein
-30179	Gewundener Schlüssel
+30179	Gewundener SchlÃ¼ssel
 30180	Drachengottamulett
 30181	Buchseite
-30182	Legendäres Tagebuch
-30183	Düstere Holzmaske
+30182	LegendÃ¤res Tagebuch
+30183	DÃ¼stere Holzmaske
 30184	Verzauberte Asche
 30185	Schwarzes Eis
-30186	Versteinerte Träne
+30186	Versteinerte TrÃ¤ne
 30187	Blutstropfen
 30188	Vulkanglas
-30189	Tränen Baljit-Elvedins
+30189	TrÃ¤nen Baljit-Elvedins
 30190	Blutstein
 30191	Blutstein
 30192	Milchsaft
 30193	Fingerknochen
 30194	Ork-Keule
 30195	Quarzsand
-30196	Dämonenasche
+30196	DÃ¤monenasche
 30197	Magische Samen
 30198	Wasserkristall
 30199	Blauer Kristall
 30201	Ring der Rache
 30202	Tanakas Ohr
 30203	Kristall
-30204	Stück Kristall
+30204	StÃ¼ck Kristall
 30205	Herstellungsmaterialien
-30210	Edelsteinstück
-30211	Edelsteinstück
-30212	Edelsteinstück
-30213	Edelsteinstück
-30214	Edelsteinstück
-30215	Edelsteinstück
-30216	Edelsteinstück
-30217	Edelsteinstück
-30218	Edelsteinstück
-30219	Edelsteinstück
+30210	EdelsteinstÃ¼ck
+30211	EdelsteinstÃ¼ck
+30212	EdelsteinstÃ¼ck
+30213	EdelsteinstÃ¼ck
+30214	EdelsteinstÃ¼ck
+30215	EdelsteinstÃ¼ck
+30216	EdelsteinstÃ¼ck
+30217	EdelsteinstÃ¼ck
+30218	EdelsteinstÃ¼ck
+30219	EdelsteinstÃ¼ck
 30220	Jinunggyis Seelenstein
 30221	Tempel Seelenstein
 30222	Sagyis Seelenstein
@@ -3611,24 +3611,24 @@ VNUM	LOCALE_NAME
 30224	Gyimoks Seelenstein
 30225	Tugyis Seelenstein
 30226	Waldgeist-Seelenstein
-30227	Seelenstein der Anführer
+30227	Seelenstein der AnfÃ¼hrer
 30228	Beran-Setaou Seelenstein
 30251	Juwel der Missgunst
 30252	Juwel der Weisheit
 30253	Juwel der Treue
-30254	Himmel und Hölle
-30265	Medaillenstück (1)
-30266	Medaillenstück (2)
-30267	Medaillenstück (3)
-30268	Medaillenstück (4)
-30269	Medaillenstück (5)
+30254	Himmel und HÃ¶lle
+30265	MedaillenstÃ¼ck (1)
+30266	MedaillenstÃ¼ck (2)
+30267	MedaillenstÃ¼ck (3)
+30268	MedaillenstÃ¼ck (4)
+30269	MedaillenstÃ¼ck (5)
 30270	Drachensteinsplitter
 30300	Unbekannte alte Kiste
-30301	Karte für Sa-Gui-Turm
+30301	Karte fÃ¼r Sa-Gui-Turm
 30302	Karte der Zin-Grotte
-30303	Bong-In-Schlüssel
-30304	Zin-Bong-In-Schlüssel
-30311	Seelenkristall-Schlüssel
+30303	Bong-In-SchlÃ¼ssel
+30304	Zin-Bong-In-SchlÃ¼ssel
+30311	Seelenkristall-SchlÃ¼ssel
 30312	Fratzen-Totem
 30315	???
 30316	Spendenteller
@@ -3636,13 +3636,13 @@ VNUM	LOCALE_NAME
 30318	Frucht des Segens
 30319	Schrumpfkopf
 30320	Schrumpfkopf
-30321	Halloween-Kürbis
+30321	Halloween-KÃ¼rbis
 30322	Zauberstab
-30323	Kürbismasken-Karte
-30324	Arachnidenschlüssel
-30325	Arachnidenschlüssel
-30326	Gift der Spinnenkönigin
-30327	Arachnidenflöte
+30323	KÃ¼rbismasken-Karte
+30324	ArachnidenschlÃ¼ssel
+30325	ArachnidenschlÃ¼ssel
+30326	Gift der SpinnenkÃ¶nigin
+30327	ArachnidenflÃ¶te
 30329	Goldenes Zahnrad
 30330	Stein der Maat
 30500	Rubin-Gravurmesser
@@ -3655,13 +3655,13 @@ VNUM	LOCALE_NAME
 30507	Bronzeschelle
 30508	Saphirverzierung
 30509	Blaudrachenstahl
-30510	Prächtiges Schulterstück
+30510	PrÃ¤chtiges SchulterstÃ¼ck
 30511	Roter Stoff
 30512	Rotdrachenstahl
-30513	Edles Schulterstück
+30513	Edles SchulterstÃ¼ck
 30514	Violetter Stoff
 30515	Purpurdrachenstahl
-30516	Antikes Schulterstück
+30516	Antikes SchulterstÃ¼ck
 30517	Goldener Stoff
 30518	Goldgarn
 30519	Goldhaken
@@ -3676,7 +3676,7 @@ VNUM	LOCALE_NAME
 30528	Bronze-Doppelring
 30529	Holz-Doppelring
 30530	Blauer Doppelring
-30531	Grüner Doppelring
+30531	GrÃ¼ner Doppelring
 30532	Roter Doppelring
 30533	Purpur Doppelring
 30534	Verarbeiteter Goldring
@@ -3693,18 +3693,18 @@ VNUM	LOCALE_NAME
 30545	Einfacher Saphirring
 30546	Einfacher Smaragdring
 30547	Einfacher Rubinring
-30548	Einfacher Gürtel (gelb)
-30549	Einfacher Gürtel (braun)
+30548	Einfacher GÃ¼rtel (gelb)
+30549	Einfacher GÃ¼rtel (braun)
 30550	Blauer Riemen
-30551	Einfacher Gürtel (schw.)
-30552	Einfacher Gürtel (lila)
-30553	Einfacher Gürtel (grün)
-30554	Glänzender Sand (orange)
-30555	Glänzender Sand(schwarz)
-30556	Glänzender Sand (blau)
-30557	Glänzender Sand (grün)
+30551	Einfacher GÃ¼rtel (schw.)
+30552	Einfacher GÃ¼rtel (lila)
+30553	Einfacher GÃ¼rtel (grÃ¼n)
+30554	GlÃ¤nzender Sand (orange)
+30555	GlÃ¤nzender Sand(schwarz)
+30556	GlÃ¤nzender Sand (blau)
+30557	GlÃ¤nzender Sand (grÃ¼n)
 30558	Leuchtendrotes Garn
-30559	Glänzender Sand (purpur)
+30559	GlÃ¤nzender Sand (purpur)
 30560	Siehe Kommentar
 30561	Siehe Kommentar
 30562	Siehe Kommentar
@@ -3729,7 +3729,7 @@ VNUM	LOCALE_NAME
 30581	Glatter Bronzeschmuck
 30582	Glatter Holzschmuck
 30583	Glatter Schmuck (blau)
-30584	Glatter Schmuck (grün)
+30584	Glatter Schmuck (grÃ¼n)
 30585	Glatter Schmuck (rot)
 30586	Glatter Schmuck(purpur)
 31001	Kopie der Inschrift
@@ -3737,16 +3737,16 @@ VNUM	LOCALE_NAME
 31003	Gegengift
 31004	Geweihtes Baumharz
 31005	Blaue Kristallessenz
-31006	Roter Höllenquarz
+31006	Roter HÃ¶llenquarz
 31007	Vulkanerde
-31008	Träne des Himmels
+31008	TrÃ¤ne des Himmels
 31009	Gnoll-Brief
 31010	Rotdieb-Brief
 31011	Letzter Roter Briefteil
 31012	Mantikor-Brief
 31013	Zettel
 31014	Yak-Hwans Brief
-31015	Kapitän Huks Brief
+31015	KapitÃ¤n Huks Brief
 31016	Lee Chungs Brief
 31017	Versiegelter Brief
 31018	Carapax-Skript
@@ -3764,54 +3764,54 @@ VNUM	LOCALE_NAME
 31030	Inneres Licht
 31031	Millennium-Essenz
 31032	Perlen des Leviathan
-31033	Umhang des Häuptlings
+31033	Umhang des HÃ¤uptlings
 31034	Totem der Giganten
 31035	Schwarzes Gestein
 31036	Schwarzes Gold
 31037	Lederbeutel
 31038	Geweihte Erde
-31039	Münzbeutel
+31039	MÃ¼nzbeutel
 31040	Goldener Orden
 31041	Fossilerde
 31042	Tritonspeer
 31043	Lemurentafel
 31044	Gnoll-Pfeffer
 31045	Gnoll-Chillipulver
-31046	Carapax-Zangenfuß
+31046	Carapax-ZangenfuÃŸ
 31047	Siehe Kommentar
 31048	Goldbeutel des Bettlers
-31049	Fleisch-Bündel
+31049	Fleisch-BÃ¼ndel
 31050	Medizin-Beutel
 31051	Eisen
 31052	Seelgeistessig
-31053	Gnoll-Fellknäuel
+31053	Gnoll-FellknÃ¤uel
 31054	Mantikor-Fellleder
-31055	Unbekannte Kräuter
+31055	Unbekannte KrÃ¤uter
 31056	Zyklopen-Fingernagel
 31057	Giganten-Horn
 31058	Oger-Huf
 31059	Seelenstein der Untoten
-31060	Tritonen-Räuchermittel
+31060	Tritonen-RÃ¤uchermittel
 31061	Zelkoven-Ast
 31062	Hochwertiges Eisen
-31063	Reisbällchen
-31064	Bewusstseinskräuter
+31063	ReisbÃ¤llchen
+31064	BewusstseinskrÃ¤uter
 31065	Mantikor-Talg
-31066	Kräuter des neuen Lebens
+31066	KrÃ¤uter des neuen Lebens
 31067	Siehe Kommentar
 31068	Drachen-Gebeine
-31069	Zelkoven-Flüssigkeit
-31070	Dömonenhund-Halskette
+31069	Zelkoven-FlÃ¼ssigkeit
+31070	DÃ¶monenhund-Halskette
 31071	Unbekannte Namensplatte
 31072	Teuefelsort
-31073	Band des Goldjägers
+31073	Band des GoldjÃ¤gers
 31074	Nietenhalsband
 31075	Stachelhalsband
-31076	Sonnenkräuter
+31076	SonnenkrÃ¤uter
 31077	Fundamentsteinpulver
 31078	Reines Lumen
 31079	Brief an Yak-Hwan
-31080	Blut des Flammenkönigs
+31080	Blut des FlammenkÃ¶nigs
 31081	Schwarze Materie
 31082	Magmaring
 31083	Ring des Samael
@@ -3822,9 +3822,9 @@ VNUM	LOCALE_NAME
 31088	Feuertrank
 31089	Magischer Eisblock
 31090	Nemeres Herz
-31091	Blut des Flammenkönigs
-31092	Kältemonster-Hautfetzen
-35000	Medizinische Kräuter+
+31091	Blut des FlammenkÃ¶nigs
+31092	KÃ¤ltemonster-Hautfetzen
+35000	Medizinische KrÃ¤uter+
 35001	Leber eines Tigers+
 38001	VIP-Feature
 38002	Tombola_ticket_today
@@ -3834,10 +3834,10 @@ VNUM	LOCALE_NAME
 38006	Momo-Reroll
 38010	Yang-Paket
 38050	Truhe der Macht
-38051	Königstiger-Kristall
-38052	Truhe der Könige
+38051	KÃ¶nigstiger-Kristall
+38052	Truhe der KÃ¶nige
 38053	Truhe des ewigen Winters
-38054	Wüstensturm-Truhe
+38054	WÃ¼stensturm-Truhe
 38055	Welpen-Box
 38056	Festtagstruhe
 38057	Truhe des Nordens
@@ -3848,7 +3848,7 @@ VNUM	LOCALE_NAME
 38201	Rufus-Siegel
 39001	Magischer Stein
 39002	Erfahrungsring
-39003	Pfirsichblütenwein
+39003	PfirsichblÃ¼tenwein
 39004	Segenskugel
 39005	Magisches Kupfererz
 39006	Tapferkeitsumhang
@@ -3866,7 +3866,7 @@ VNUM	LOCALE_NAME
 39018	Drachengott-Angriff
 39019	Drachengott-Intelligenz
 39020	Drachengott-Verteidigung
-39021	Drachengottunterstützung
+39021	DrachengottunterstÃ¼tzung
 39022	Schriftrolle des Drachen
 39023	Elixier des Forschers
 39024	Kritischer Kampf
@@ -3874,7 +3874,7 @@ VNUM	LOCALE_NAME
 39026	Geschwindigkeitstrank
 39027	Stein-Handbuch
 39028	Gegenstand verzaubern
-39029	Gegenstand verstärken
+39029	Gegenstand verstÃ¤rken
 39030	Konzentriertes Lesen
 39031	Trank der Hast
 39032	Frucht des Lebens
@@ -3896,10 +3896,10 @@ VNUM	LOCALE_NAME
 40005	Glockenklang
 40006	Lieferschein der Wilden
 40007	Brief der Wilden
-41001	Hasenkostüm (braun)
-41002	Häschenkostüm (braun)
-41003	Wüstenkämpfer
-41004	Wüstenkämpferin
+41001	HasenkostÃ¼m (braun)
+41002	HÃ¤schenkostÃ¼m (braun)
+41003	WÃ¼stenkÃ¤mpfer
+41004	WÃ¼stenkÃ¤mpferin
 41005	Fechtanzug Olympia (m)
 41006	Fechtanzug Olympia (w)
 41007	Fechtanzug GER (m)
@@ -3908,14 +3908,14 @@ VNUM	LOCALE_NAME
 41010	Fechtanzug TUR (w)
 41011	Fechtanzug BRA (m)
 41012	Fechtanzug BRA (w)
-41013	Fußballtrikot Olympia(m)
-41014	Fußballtrikot Olympia(w)
-41015	Fußballtrikot GER (m)
-41016	Fußballtrikot GER (w)
-41017	Fußballtrikot TUR (m)
-41018	Fußballtrikot TUR (w)
-41019	Fußballtrikot BRA (m)
-41020	Fußballtrikot BRA (w)
+41013	FuÃŸballtrikot Olympia(m)
+41014	FuÃŸballtrikot Olympia(w)
+41015	FuÃŸballtrikot GER (m)
+41016	FuÃŸballtrikot GER (w)
+41017	FuÃŸballtrikot TUR (m)
+41018	FuÃŸballtrikot TUR (w)
+41019	FuÃŸballtrikot BRA (m)
+41020	FuÃŸballtrikot BRA (w)
 41021	Box-Outfit Olympia (m)
 41022	Box-Outfit Olympia (w)
 41023	Box-Outfit GER (m)
@@ -3924,8 +3924,8 @@ VNUM	LOCALE_NAME
 41026	Box-Outfit TUR (w)
 41027	Box-Outfit BRA (m)
 41028	Box-Outfit BRA (w)
-41029	Wüstenkämpfer (Bonus)
-41030	Wüstenkämpferin (Bonus)
+41029	WÃ¼stenkÃ¤mpfer (Bonus)
+41030	WÃ¼stenkÃ¤mpferin (Bonus)
 41031	Fechtanzug Olympia (m)
 41032	Fechtanzug Olympia (w)
 41033	Fechtanzug GER (m)
@@ -3934,14 +3934,14 @@ VNUM	LOCALE_NAME
 41036	Fechtanzug TUR (w)
 41037	Fechtanzug BRA (m)
 41038	Fechtanzug BRA (w)
-41039	Fußballtrikot Olympia(m)
-41040	Fußballtrikot Olympia(w)
-41041	Fußballtrikot GER (m)
-41042	Fußballtrikot GER (w)
-41043	Fußballtrikot TUR (m)
-41044	Fußballtrikot TUR (w)
-41045	Fußballtrikot BRA (m)
-41046	Fußballtrikot BRA (w)
+41039	FuÃŸballtrikot Olympia(m)
+41040	FuÃŸballtrikot Olympia(w)
+41041	FuÃŸballtrikot GER (m)
+41042	FuÃŸballtrikot GER (w)
+41043	FuÃŸballtrikot TUR (m)
+41044	FuÃŸballtrikot TUR (w)
+41045	FuÃŸballtrikot BRA (m)
+41046	FuÃŸballtrikot BRA (w)
 41047	Box-Outfit Olympia (m)
 41048	Box-Outfit Olympia (w)
 41049	Box-Outfit GER (m)
@@ -3960,16 +3960,16 @@ VNUM	LOCALE_NAME
 41062	Fechtanzug ROU (w)
 41063	Fechtanzug ESP (m)
 41064	Fechtanzug ESP (w)
-41065	Fußballtrikot FRA (m)
-41066	Fußballtrikot FRA (w)
-41067	Fußballtrikot ITA (m)
-41068	Fußballtrikot ITA (w)
-41069	Fußballtrikot POL (m)
-41070	Fußballtrikot POL (w)
-41071	Fußballtrikot ROU (m)
-41072	Fußballtrikot ROU (w)
-41073	Fußballtrikot ESP (m)
-41074	Fußballtrikot ESP (w)
+41065	FuÃŸballtrikot FRA (m)
+41066	FuÃŸballtrikot FRA (w)
+41067	FuÃŸballtrikot ITA (m)
+41068	FuÃŸballtrikot ITA (w)
+41069	FuÃŸballtrikot POL (m)
+41070	FuÃŸballtrikot POL (w)
+41071	FuÃŸballtrikot ROU (m)
+41072	FuÃŸballtrikot ROU (w)
+41073	FuÃŸballtrikot ESP (m)
+41074	FuÃŸballtrikot ESP (w)
 41075	Box-Outfit FRA (m)
 41076	Box-Outfit FRA (w)
 41077	Box-Outfit ITA (m)
@@ -3990,16 +3990,16 @@ VNUM	LOCALE_NAME
 41092	Fechtanzug ROU (w)
 41093	Fechtanzug ESP (m)
 41094	Fechtanzug ESP (w)
-41095	Fußballtrikot FRA (m)
-41096	Fußballtrikot FRA (w)
-41097	Fußballtrikot ITA (m)
-41098	Fußballtrikot ITA (w)
-41099	Fußballtrikot POL (m)
-41100	Fußballtrikot POL (w)
-41101	Fußballtrikot ROU (m)
-41102	Fußballtrikot ROU (w)
-41103	Fußballtrikot ESP (m)
-41104	Fußballtrikot ESP (w)
+41095	FuÃŸballtrikot FRA (m)
+41096	FuÃŸballtrikot FRA (w)
+41097	FuÃŸballtrikot ITA (m)
+41098	FuÃŸballtrikot ITA (w)
+41099	FuÃŸballtrikot POL (m)
+41100	FuÃŸballtrikot POL (w)
+41101	FuÃŸballtrikot ROU (m)
+41102	FuÃŸballtrikot ROU (w)
+41103	FuÃŸballtrikot ESP (m)
+41104	FuÃŸballtrikot ESP (w)
 41105	Box-Outfit FRA (m)
 41106	Box-Outfit FRA (w)
 41107	Box-Outfit ITA (m)
@@ -4010,38 +4010,38 @@ VNUM	LOCALE_NAME
 41112	Box-Outfit ROU (w)
 41113	Box-Outfit ESP (m)
 41114	Box-Outfit ESP (w)
-41117	Musketier-Kostüm
-41118	Dienstmädchenuniform
+41117	Musketier-KostÃ¼m
+41118	DienstmÃ¤dchenuniform
 41119	Salsa-Anzug
 41120	Salsa-Kleid
 41121	Gentleman-Anzug
 41122	Cocktailkleid
-41125	Kürbis-Smoking
-41126	Kürbis-Kleid
-41129	Musketier-Kostüm+
-41130	Dienstmädchenuniform+
+41125	KÃ¼rbis-Smoking
+41126	KÃ¼rbis-Kleid
+41129	Musketier-KostÃ¼m+
+41130	DienstmÃ¤dchenuniform+
 41131	Salsa-Anzug+
 41132	Salsa-Kleid+
 41133	Gentleman-Anzug+
 41134	Cocktailkleid+
-41135	Kürbis-Smoking (Bonus)
-41136	Kürbis-Kleid (Bonus)
-41137	Weihnachtskostüm (rot)
+41135	KÃ¼rbis-Smoking (Bonus)
+41136	KÃ¼rbis-Kleid (Bonus)
+41137	WeihnachtskostÃ¼m (rot)
 41138	Weihnachtskleid (rot)
-41139	Weihnachtskostüm (grün)
-41140	Weihnachtskleid (grün)
-41141	Weihnachtskostüm (schw.)
+41139	WeihnachtskostÃ¼m (grÃ¼n)
+41140	Weihnachtskleid (grÃ¼n)
+41141	WeihnachtskostÃ¼m (schw.)
 41142	Weihnachtskleid (schw.)
-41143	Rentierkostüm (m)
-41144	Rentierkostüm (w)
-41145	Weihnachtskostüm+ (rot)
+41143	RentierkostÃ¼m (m)
+41144	RentierkostÃ¼m (w)
+41145	WeihnachtskostÃ¼m+ (rot)
 41146	Weihnachtskleid+ (rot)
-41147	Weihnachtskostüm+ (grün)
-41148	Weihnachtskleid+ (grün)
-41149	Weihnachtskostüm+ (schw)
+41147	WeihnachtskostÃ¼m+ (grÃ¼n)
+41148	Weihnachtskleid+ (grÃ¼n)
+41149	WeihnachtskostÃ¼m+ (schw)
 41150	Weihnachtskleid+ (schw.)
-41151	Rentierkostüm+ (m)
-41152	Rentierkostüm+ (w)
+41151	RentierkostÃ¼m+ (m)
+41152	RentierkostÃ¼m+ (w)
 41153	AC Miryang (m)
 41154	AC Miryang (w)
 41155	AFC Jayang (m)
@@ -4170,47 +4170,47 @@ VNUM	LOCALE_NAME
 41278	FC Feuerland+ (w)
 41279	FC St. Seungryong+ (m)
 41280	FC St. Seungryong+ (w)
-41291	Hasenkostüm (schwarz)
-41292	Hasenkostüm (blau)
-41293	Hasenkostüm (grün)
-41294	Hasenkostüm (pink)
-41295	Häschenkostüm (schwarz)
-41296	Häschenkostüm (blau)
-41297	Häschenkostüm (grün)
-41298	Häschenkostüm (pink)
-41299	Hasenkostüm+ (schwarz)
-41300	Hasenkostüm+ (blau)
-41301	Hasenkostüm+ (grün)
-41302	Hasenkostüm+ (pink)
-41303	Häschenkostüm+ (schwarz)
-41304	Häschenkostüm+ (blau)
-41305	Häschenkostüm+ (grün)
-41306	Häschenkostüm+ (pink)
+41291	HasenkostÃ¼m (schwarz)
+41292	HasenkostÃ¼m (blau)
+41293	HasenkostÃ¼m (grÃ¼n)
+41294	HasenkostÃ¼m (pink)
+41295	HÃ¤schenkostÃ¼m (schwarz)
+41296	HÃ¤schenkostÃ¼m (blau)
+41297	HÃ¤schenkostÃ¼m (grÃ¼n)
+41298	HÃ¤schenkostÃ¼m (pink)
+41299	HasenkostÃ¼m+ (schwarz)
+41300	HasenkostÃ¼m+ (blau)
+41301	HasenkostÃ¼m+ (grÃ¼n)
+41302	HasenkostÃ¼m+ (pink)
+41303	HÃ¤schenkostÃ¼m+ (schwarz)
+41304	HÃ¤schenkostÃ¼m+ (blau)
+41305	HÃ¤schenkostÃ¼m+ (grÃ¼n)
+41306	HÃ¤schenkostÃ¼m+ (pink)
 41307	Kobragewand (m)
 41308	Kobragewand (w)
 41309	Kobragewand+ (m)
 41310	Kobragewand+ (w)
-41311	Wüstenkämpfer (schwarz)
-41312	Wüstenkämpferin (schw.)
-41313	Wüstenkämpfer+ (schwarz)
-41314	Wüstenkämpferin+ (schw.)
-41315	Azraels Rüstung (m)
-41316	Azraels Rüstung (w)
-41317	Azraels Rüstung+ (m)
-41318	Azraels Rüstung+ (w)
-41319	Èæ»ç°©
+41311	WÃ¼stenkÃ¤mpfer (schwarz)
+41312	WÃ¼stenkÃ¤mpferin (schw.)
+41313	WÃ¼stenkÃ¤mpfer+ (schwarz)
+41314	WÃ¼stenkÃ¤mpferin+ (schw.)
+41315	Azraels RÃ¼stung (m)
+41316	Azraels RÃ¼stung (w)
+41317	Azraels RÃ¼stung+ (m)
+41318	Azraels RÃ¼stung+ (w)
+41319	ÃˆÃ¦Â»Ã§Â°Â©
 41320	Jack-Pumpkin-Anzug (m)
 41321	Jack-Pumpkin-Kleid (w)
 41322	Jack-Pumpkin-Anzug+ (m)
 41323	Jack-Pumpkin-Kleid+ (w)
-45001	Häschenohren (braun)
+45001	HÃ¤schenohren (braun)
 45002	Hasenohren (braun)
 45003	Kopftuch (m)
 45004	Kopftuch (w)
 45005	OlaSeku (m)
 45006	Fechtfrisur (w)
 45007	Irokesenschnitt (m)
-45008	Fußballfrisur GER (w)
+45008	FuÃŸballfrisur GER (w)
 45009	Rastalocken (m)
 45010	Boxfrisur GER (w)
 45011	Kopftuch+ (m)
@@ -4218,7 +4218,7 @@ VNUM	LOCALE_NAME
 45013	OlaSeku (m)
 45014	Fechtfrisur (w)
 45015	Irokesenschnitt (m)
-45016	Fußballfrisur GER (w)
+45016	FuÃŸballfrisur GER (w)
 45017	Rastalocken (m)
 45018	Boxfrisur GER (w)
 45019	Boxfrisur TUR (w)
@@ -4229,14 +4229,14 @@ VNUM	LOCALE_NAME
 45024	Boxfrisur POL (w)
 45025	Boxfrisur ROU (w)
 45026	Boxfrisur ESP (w)
-45027	Fußballfrisur TUR (w)
-45028	Fußballfrisur BRA (w)
-45029	Fußballfrisur Olympia(w)
-45030	Fußballfrisur FRA (w)
-45031	Fußballfrisur ITA (w)
-45032	Fußballfrisur POL (w)
-45033	Fußballfrisur ROU (w)
-45034	Fußballfrisur ESP (w)
+45027	FuÃŸballfrisur TUR (w)
+45028	FuÃŸballfrisur BRA (w)
+45029	FuÃŸballfrisur Olympia(w)
+45030	FuÃŸballfrisur FRA (w)
+45031	FuÃŸballfrisur ITA (w)
+45032	FuÃŸballfrisur POL (w)
+45033	FuÃŸballfrisur ROU (w)
+45034	FuÃŸballfrisur ESP (w)
 45035	Boxfrisur TUR (w)
 45036	Boxfrisur BRA (w)
 45037	Boxfrisur Olympia (w)
@@ -4245,44 +4245,44 @@ VNUM	LOCALE_NAME
 45040	Boxfrisur POL (w)
 45041	Boxfrisur ROU (w)
 45042	Boxfrisur ESP (w)
-45043	Fußballfrisur TUR (w)
-45044	Fußballfrisur BRA (w)
-45045	Fußballfrisur Olympia(w)
-45046	Fußballfrisur FRA (w)
-45047	Fußballfrisur ITA (w)
-45048	Fußballfrisur POL (w)
-45049	Fußballfrisur ROU (w)
-45050	Fußballfrisur ESP (w)
+45043	FuÃŸballfrisur TUR (w)
+45044	FuÃŸballfrisur BRA (w)
+45045	FuÃŸballfrisur Olympia(w)
+45046	FuÃŸballfrisur FRA (w)
+45047	FuÃŸballfrisur ITA (w)
+45048	FuÃŸballfrisur POL (w)
+45049	FuÃŸballfrisur ROU (w)
+45050	FuÃŸballfrisur ESP (w)
 45053	Musketier-Frisur
-45054	Dienstmädchenhaube
+45054	DienstmÃ¤dchenhaube
 45055	Mini-Iro
 45056	Salsa-Knoten
 45057	Bogarthut
 45058	Blumenfrisur
-45061	Kürbis-Maske
-45062	Kürbis-Maske
+45061	KÃ¼rbis-Maske
+45062	KÃ¼rbis-Maske
 45065	Musketier-Frisur+
-45066	Dienstmädchenhaube+
+45066	DienstmÃ¤dchenhaube+
 45067	Mini-Iro+
 45068	Salsa-Knoten+
 45069	Bogarthut+
 45070	Blumenfrisur+
-45073	Kürbis-Maske (Bonus)
-45074	Kürbis-Maske (Bonus)
-45075	Weihnachtsmütze (rot)
-45076	Weihnachtsmütze (grün)
-45077	Weihnachtsmütze (schw.)
+45073	KÃ¼rbis-Maske (Bonus)
+45074	KÃ¼rbis-Maske (Bonus)
+45075	WeihnachtsmÃ¼tze (rot)
+45076	WeihnachtsmÃ¼tze (grÃ¼n)
+45077	WeihnachtsmÃ¼tze (schw.)
 45078	Elfenhut
 45079	Rentierkopf (m)
 45080	Rentierkopf (w)
-45081	Weihnachtsmütze+ (rot)
-45082	Weihnachtsmütze+ (grün)
-45083	Weihnachtsmütze+ (schw.)
+45081	WeihnachtsmÃ¼tze+ (rot)
+45082	WeihnachtsmÃ¼tze+ (grÃ¼n)
+45083	WeihnachtsmÃ¼tze+ (schw.)
 45084	Elfenhut+
 45085	Rentierkopf+ (m)
 45086	Rentierkopf+ (w)
-45087	Bandana (weiß)
-45088	Bandana (weiß)
+45087	Bandana (weiÃŸ)
+45088	Bandana (weiÃŸ)
 45089	Bandana (schwarz)
 45090	Bandana (schwarz)
 45091	Bandana (gelb)
@@ -4291,8 +4291,8 @@ VNUM	LOCALE_NAME
 45094	Bandana (orange)
 45095	Bandana (blau)
 45096	Bandana (blau)
-45097	Bandana+ (weiß)
-45098	Bandana+ (weiß)
+45097	Bandana+ (weiÃŸ)
+45098	Bandana+ (weiÃŸ)
 45099	Bandana+ (schwarz)
 45100	Bandana+ (schwarz)
 45101	Bandana+ (gelb)
@@ -4303,20 +4303,20 @@ VNUM	LOCALE_NAME
 45106	Bandana+ (blau)
 45119	Hasenohren (schwarz)
 45120	Hasenohren (blau)
-45121	Hasenohren (grün)
+45121	Hasenohren (grÃ¼n)
 45122	Hasenohren (pink)
-45123	Häschenohren (schwarz)
-45124	Häschenohren (blau)
-45125	Häschenohren (grün)
-45126	Häschenohren (pink)
+45123	HÃ¤schenohren (schwarz)
+45124	HÃ¤schenohren (blau)
+45125	HÃ¤schenohren (grÃ¼n)
+45126	HÃ¤schenohren (pink)
 45127	Hasenohren+ (schwarz)
 45128	Hasenohren+ (blau)
-45129	Hasenohren+ (grün)
+45129	Hasenohren+ (grÃ¼n)
 45130	Hasenohren+ (pink)
-45131	Häschenohren+ (schwarz)
-45132	Häschenohren+ (blau)
-45133	Häschenohren+ (grün)
-45134	Häschenohren+ (pink)
+45131	HÃ¤schenohren+ (schwarz)
+45132	HÃ¤schenohren+ (blau)
+45133	HÃ¤schenohren+ (grÃ¼n)
+45134	HÃ¤schenohren+ (pink)
 45135	Kobrafrisur (m)
 45136	Kobrafrisur (w)
 45137	Kobrafrisur+ (m)
@@ -4337,37 +4337,37 @@ VNUM	LOCALE_NAME
 45152	Azraels Helm (w)
 45153	Azraels Helm+ (m)
 45154	Azraels Helm+ (w)
-45155	Èæ»çÅõ±¸
+45155	ÃˆÃ¦Â»Ã§Ã…ÃµÂ±Â¸
 45156	Jack-Pumpkin-Kopf (m)
 45157	Jack-Pumpkin-Kopf (w)
 45158	Jack-Pumpkin-Kopf+ (m)
 45159	Jack-Pumpkin-Kopf+ (w)
-50001	Glücksbuch
+50001	GlÃ¼cksbuch
 50002	Goldring
-50003	Fertigkeitszurücksetzung
+50003	FertigkeitszurÃ¼cksetzung
 50004	Ereignis-Detektor
 50005	Reitkarte (PM)
 50006	Goldene Schatztruhe
 50007	Silberne Schatztruhe
-50008	Goldener Schlüssel
-50009	Silberner Schlüssel
+50008	Goldener SchlÃ¼ssel
+50009	Silberner SchlÃ¼ssel
 50010	Socke
 50011	Mondlicht-Schatztruhe
 50012	Goldene Schatztruhe+
 50013	Silberne Schatztruhe+
-50014	Goldener Schlüssel+
-50015	Silberner Schlüssel+
+50014	Goldener SchlÃ¼ssel+
+50015	Silberner SchlÃ¼ssel+
 50016	Bohnenpaste
 50017	Zuckerpaste
 50018	Obstpaste
-50019	Süßer Reis
+50019	SÃ¼ÃŸer Reis
 50020	Bohnenkuchen
 50021	Zuckerkuchen
 50022	Obstkuchen
 50023	Geldtasche
 50024	Rose
 50025	Schokolade
-50026	Münzen
+50026	MÃ¼nzen
 50027	Lotterielos
 50028	Ring mit Goldgehalt 999
 50029	Ring mit Goldgehalt 750
@@ -4375,7 +4375,7 @@ VNUM	LOCALE_NAME
 50031	Rose
 50032	Bonbon
 50033	Geheimnisvolle Truhe
-50034	Rätselhafte Truhe
+50034	RÃ¤tselhafte Truhe
 50035	Geschenk (gelb)
 50036	Geschenk (violett)
 50037	Sechseckige Schatztruhe
@@ -4387,7 +4387,7 @@ VNUM	LOCALE_NAME
 50050	Pferdemedaille
 50051	Pferdebild
 50052	Waffen-Pferdebuch
-50053	Militär-Pferdebuch
+50053	MilitÃ¤r-Pferdebuch
 50054	Heu
 50055	Karotte
 50056	Roter Ginseng
@@ -4395,37 +4395,37 @@ VNUM	LOCALE_NAME
 50058	Kraut d. normalen Affen
 50059	Kraut d. schweren Affen
 50060	Buch der Reitkunst
-50061	Handbuch Pferdezähmen
+50061	Handbuch PferdezÃ¤hmen
 50062	Reiterhandbuch
 50067	Rolle der Evolution
 50068	Rolle der Mutation
 50070	Oberork-Truhe
-50071	Truhe dunkler Anführer
-50072	Truhe Geist-Anführer
-50073	Königsspinnentruhe
+50071	Truhe dunkler AnfÃ¼hrer
+50072	Truhe Geist-AnfÃ¼hrer
+50073	KÃ¶nigsspinnentruhe
 50074	Riesenspinnentruhe
-50075	Truhe des Plageträgers
-50076	Truhe Wüstenschildkröte
+50075	Truhe des PlagetrÃ¤gers
+50076	Truhe WÃ¼stenschildkrÃ¶te
 50077	Neunschwanztruhe
 50078	Truhe des gelben Tigers
-50079	Flammenkönigtruhe
+50079	FlammenkÃ¶nigtruhe
 50080	Truhe des roten Drachen
-50081	Dämonenkönigtruhe
+50081	DÃ¤monenkÃ¶nigtruhe
 50082	Sensenmanntruhe
 50083	Reitkarte
-50084	Schlüsselstein
+50084	SchlÃ¼sselstein
 50085	Samen
 50086	Mondkuchen
 50087	Mungbohnenreiskuchen
-50088	Beifußreiskuchen
-50089	Schlüsselstein
+50088	BeifuÃŸreiskuchen
+50089	SchlÃ¼sselstein
 50090	Kiste Neunschwanz Fuchs
 50091	Goldfisch-Sushi
 50092	Karpfen-Sushi
 50093	Lachs-Sushi
 50094	Wels-Sushi
-50095	Kürbis
-50096	Fußball
+50095	KÃ¼rbis
+50096	FuÃŸball
 50100	Feuerwerk
 50101	Feuerwerk
 50102	Feuerwerk
@@ -4438,8 +4438,8 @@ VNUM	LOCALE_NAME
 50109	Roter Ebenholzkasten
 50110	Prunk Ebenholzkasten
 50111	Gelber Ebenholzkasten
-50112	Hellgrüner Holzkasten
-50113	Grüner Ebenholzkasten
+50112	HellgrÃ¼ner Holzkasten
+50113	GrÃ¼ner Ebenholzkasten
 50114	Blauer Ebenholzkasten
 50115	Purpur Ebenholzkasten
 50116	Waffenwechselbon
@@ -4451,26 +4451,26 @@ VNUM	LOCALE_NAME
 50122	Eisentruhe
 50123	Eiscreme
 50124	Morsche Holzkiste
-50125	Mysteriöse Truhe
-50126	Mysteriöse Truhe
-50127	Mysteriöse Smaragdtruhe
-50128	Mysteriöse Saphirtruhe
-50129	Mysteriöse Amethysttruhe
+50125	MysteriÃ¶se Truhe
+50126	MysteriÃ¶se Truhe
+50127	MysteriÃ¶se Smaragdtruhe
+50128	MysteriÃ¶se Saphirtruhe
+50129	MysteriÃ¶se Amethysttruhe
 50130	Olympia-Truhe
-50131	Mysteriöse Citrintruhe
-50132	Mysteriöse Rubintruhe
-50133	Mysteriöse Smaragdtruhe
-50134	Mysteriöse Saphirtruhe
-50135	Mysteriöse Amethysttruhe
-50136	Mysteriöse Topastruhe
-50137	Mysteriöse Citrintruhe
-50150	Rubinschlüssel
-50151	Smaragdschlüssel
-50152	Saphirschlüssel
-50153	Amethystschlüssel
-50154	Topasschlüssel
-50155	Citrinschlüssel
-50156	Diamantschlüssel
+50131	MysteriÃ¶se Citrintruhe
+50132	MysteriÃ¶se Rubintruhe
+50133	MysteriÃ¶se Smaragdtruhe
+50134	MysteriÃ¶se Saphirtruhe
+50135	MysteriÃ¶se Amethysttruhe
+50136	MysteriÃ¶se Topastruhe
+50137	MysteriÃ¶se Citrintruhe
+50150	RubinschlÃ¼ssel
+50151	SmaragdschlÃ¼ssel
+50152	SaphirschlÃ¼ssel
+50153	AmethystschlÃ¼ssel
+50154	TopasschlÃ¼ssel
+50155	CitrinschlÃ¼ssel
+50156	DiamantschlÃ¼ssel
 50160	Osterei
 50161	Osterei
 50162	Osterei
@@ -4494,7 +4494,7 @@ VNUM	LOCALE_NAME
 50180	Leerer Korb
 50181	Korb mit Ostereiern
 50182	Segenstruhe
-50183	Süßigkeiten
+50183	SÃ¼ÃŸigkeiten
 50184	Siehe Kommentar
 50185	Siehe Kommentar
 50186	Truhe des Azrael
@@ -4507,17 +4507,17 @@ VNUM	LOCALE_NAME
 50193	Meistertruhe I
 50194	Meistertruhe II
 50195	Meistertruhe III
-50196	Großmeistertruhe
+50196	GroÃŸmeistertruhe
 50197	Unbekannter Beutel
 50198	Unbekannter Beutel
 50199	Unbekannter Beutel
-50200	Bündel
-50201	Blumenstrauß
-50202	Blumenstrauß
+50200	BÃ¼ndel
+50201	BlumenstrauÃŸ
+50202	BlumenstrauÃŸ
 50212	Lehrlingstruhe I
 50213	Lehrlingstruhe I
 50215	Halloween-Truhe
-50216	Glühwein
+50216	GlÃ¼hwein
 50249	Truhe des Triumphs
 50252	Cor Draconis
 50253	Purpurne Blattgold-Kiste
@@ -4526,7 +4526,7 @@ VNUM	LOCALE_NAME
 50256	Cor Draconis (Schliff)
 50257	Cor Draconis (Rar)
 50258	Cor Draconis (Antik)
-50259	Cor Draconis (Legendär)
+50259	Cor Draconis (LegendÃ¤r)
 50260	Cor Draconis (Roh)
 50300	Fertigkeitsbuch
 50301	Sun-zi-Kriegskunst
@@ -4559,7 +4559,7 @@ VNUM	LOCALE_NAME
 50416	Buch Durchschlag
 50417	Buch d. heftigen Schlags
 50418	Buch des Stampfens
-50419	Buch d. starken Körpers
+50419	Buch d. starken KÃ¶rpers
 50420	Schwertschlag-Buch
 50431	Hinterhalt-Buch
 50432	Blitzangriff-Buch
@@ -4575,7 +4575,7 @@ VNUM	LOCALE_NAME
 50462	Drachenwirbel-Buch
 50463	Buch verzauberte Klinge
 50464	Furcht-Buch
-50465	Buch verzaub. Rüstung
+50465	Buch verzaub. RÃ¼stung
 50466	Zauberaufhebungs-Buch
 50476	Buch d. dunklen Schlags
 50477	Flammenschlag-Buch
@@ -4584,8 +4584,8 @@ VNUM	LOCALE_NAME
 50480	Geistschlag-Buch
 50481	Buch des dunklen Steins
 50491	Buch d. flieg. Talismans
-50492	Buch d. Drachenschießens
-50493	Drachengebrüll-Buch
+50492	Buch d. DrachenschieÃŸens
+50493	DrachengebrÃ¼ll-Buch
 50494	Buch des Segnens
 50495	Buch des Reflektierens
 50496	Drachenhilfe-Buch
@@ -4606,11 +4606,11 @@ VNUM	LOCALE_NAME
 50606	Golderz
 50607	Jadeerz
 50608	Ebenholzerz
-50609	Stück Perle
-50610	Weißgolderz
+50609	StÃ¼ck Perle
+50610	WeiÃŸgolderz
 50611	Kristallerz
 50612	Amethysterz
-50613	Himmelstränenerz
+50613	HimmelstrÃ¤nenerz
 50614	Seelenkristallerz
 50615	Rubinerz
 50616	Granaterz
@@ -4625,48 +4625,48 @@ VNUM	LOCALE_NAME
 50627	Jade
 50628	Ebenholz
 50629	Perle
-50630	Weißgold
+50630	WeiÃŸgold
 50631	Kristall
 50632	Amethyst
-50633	Himmelsträne
+50633	HimmelstrÃ¤ne
 50634	Seelenkristall
 50635	Rubin
 50636	Granat
 50637	Smaragd
 50638	Saphir
-50701	Pfirsichblüte
+50701	PfirsichblÃ¼te
 50702	Glockenblume
-50703	Kakiblüte
+50703	KakiblÃ¼te
 50704	Gango-Wurzel
 50705	Flieder
 50706	Tue-Pilz
 50707	Alpenrose
 50708	Maulbeeren
-50709	Löwenzahn
+50709	LÃ¶wenzahn
 50710	Distel
 50711	Dattel
 50712	Sam-Zi Pflanze
-50721	Pfirsichblüte
+50721	PfirsichblÃ¼te
 50722	Glockenblume
-50723	Kakiblüte
+50723	KakiblÃ¼te
 50724	Gango-Wurzel
 50725	Flieder
 50726	Tue-Pilz
 50727	Alpenrose
 50728	Maulbeeren
-50729	Löwenzahn
+50729	LÃ¶wenzahn
 50730	Distel
 50731	Dattel
 50732	Sam-Zi Pflanze
-50801	Pfirsichblütensaft
+50801	PfirsichblÃ¼tensaft
 50802	Glockenblumensaft
-50803	Kakiblütensaft
+50803	KakiblÃ¼tensaft
 50804	Gango-Wurzelsaft
 50805	Fliedersaft
 50806	Tue-Pilzharz
 50807	Alpenrosensaft
 50808	Maulbeersaft
-50809	Löwenzahnsaft
+50809	LÃ¶wenzahnsaft
 50810	Distelsaft
 50811	Dattelextrakt
 50812	Sam-Zi Pflanzensaft
@@ -4681,11 +4681,11 @@ VNUM	LOCALE_NAME
 50821	Roter Tau
 50822	Pinker Tau
 50823	Gelber Tau
-50824	Grüner Tau
+50824	GrÃ¼ner Tau
 50825	Blauer Tau
-50826	Weißer Tau
+50826	WeiÃŸer Tau
 50901	Leere Flasche
-50902	Anfängerrezept
+50902	AnfÃ¤ngerrezept
 50903	Rezept
 50904	Expertenrezept
 50905	Rezept Sim-Wasser
@@ -4705,7 +4705,7 @@ VNUM	LOCALE_NAME
 51507	Cor Draconis (Schliff)
 51508	Cor Draconis (Rar)
 51509	Cor Draconis (Antik)
-51510	Cor Draconis (Legendär)
+51510	Cor Draconis (LegendÃ¤r)
 51511	Cor Diamas
 51512	Cor Rubinum
 51513	Cor Jadeit
@@ -4736,13 +4736,13 @@ VNUM	LOCALE_NAME
 51538	Cor Saphirum (makellos)
 51539	Cor Granatum (makellos)
 51540	Cor Atrum (makellos)
-51541	Cor Draconis (glühend)
-51542	Cor Diamas (glühend)
-51543	Cor Rubinum (glühend)
-51544	Cor Jadeit (glühend)
-51545	Cor Saphirum (glühend)
-51546	Cor Granatum (glühend)
-51547	Cor Atrum (glühend)
+51541	Cor Draconis (glÃ¼hend)
+51542	Cor Diamas (glÃ¼hend)
+51543	Cor Rubinum (glÃ¼hend)
+51544	Cor Jadeit (glÃ¼hend)
+51545	Cor Saphirum (glÃ¼hend)
+51546	Cor Granatum (glÃ¼hend)
+51547	Cor Atrum (glÃ¼hend)
 51548	Cor Draconis (makellos)
 51549	Cor Draconis (ewig)
 51550	Cor Diamas (ewig)
@@ -4764,13 +4764,13 @@ VNUM	LOCALE_NAME
 51566	Cor Saphirum (episch)
 51567	Cor Granatum (episch)
 51568	Cor Atrum (episch)
-51569	Cor Draconis (göttlich)
-51570	Cor Diamas (göttlich)
-51571	Cor Rubinum (göttlich)
-51572	Cor Jadeit (göttlich)
-51573	Cor Saphirum (göttlich)
-51574	Cor Granatum (göttlich)
-51575	Cor Atrum (göttlich)
+51569	Cor Draconis (gÃ¶ttlich)
+51570	Cor Diamas (gÃ¶ttlich)
+51571	Cor Rubinum (gÃ¶ttlich)
+51572	Cor Jadeit (gÃ¶ttlich)
+51573	Cor Saphirum (gÃ¶ttlich)
+51574	Cor Granatum (gÃ¶ttlich)
+51575	Cor Atrum (gÃ¶ttlich)
 51576	Cor Draconis+ (normal)
 51577	Cor Diamas+ (normal)
 51578	Cor Rubinum+ (normal)
@@ -4799,13 +4799,13 @@ VNUM	LOCALE_NAME
 51601	Cor Saphirum+ (makellos)
 51602	Cor Granatum+ (makellos)
 51603	Cor Atrum+ (makellos)
-51604	Cor Draconis+ (glühend)
-51605	Cor Diamas+ (glühend)
-51606	Cor Rubinum+ (glühend)
-51607	Cor Jadeit+ (glühend)
-51608	Cor Saphirum+ (glühend)
-51609	Cor Granatum+ (glühend)
-51610	Cor Atrum+ (glühend)
+51604	Cor Draconis+ (glÃ¼hend)
+51605	Cor Diamas+ (glÃ¼hend)
+51606	Cor Rubinum+ (glÃ¼hend)
+51607	Cor Jadeit+ (glÃ¼hend)
+51608	Cor Saphirum+ (glÃ¼hend)
+51609	Cor Granatum+ (glÃ¼hend)
+51610	Cor Atrum+ (glÃ¼hend)
 51611	Cor Draconis+ (ewig)
 51612	Cor Diamas+ (ewig)
 51613	Cor Rubinum+ (ewig)
@@ -4827,13 +4827,13 @@ VNUM	LOCALE_NAME
 51629	Cor Saphirum+ (episch)
 51630	Cor Granatum+ (episch)
 51631	Cor Atrum+ (episch)
-51632	Cor Draconis+ (göttlich)
-51633	Cor Diamas+ (göttlich)
-51634	Cor Rubinum+ (göttlich)
-51635	Cor Jadeit+ (göttlich)
-51636	Cor Saphirum+ (göttlich)
-51637	Cor Granatum+ (göttlich)
-51638	Cor Atrum+ (göttlich)
+51632	Cor Draconis+ (gÃ¶ttlich)
+51633	Cor Diamas+ (gÃ¶ttlich)
+51634	Cor Rubinum+ (gÃ¶ttlich)
+51635	Cor Jadeit+ (gÃ¶ttlich)
+51636	Cor Saphirum+ (gÃ¶ttlich)
+51637	Cor Granatum+ (gÃ¶ttlich)
+51638	Cor Atrum+ (gÃ¶ttlich)
 51639	Drachentruhe
 51640	Drachentruhe+
 51641	Drachentruhe+ (bunt)
@@ -4872,21 +4872,21 @@ VNUM	LOCALE_NAME
 52028	Tapferer Wolf (Siegel)
 52029	Tapferer Wolf (Siegel)
 52030	Tapferer Wolf (Siegel)
-52031	Junger Löwe (Siegel)
-52032	Junger Löwe (Siegel)
-52033	Junger Löwe (Siegel)
-52034	Junger Löwe (Siegel)
-52035	Junger Löwe (Siegel)
-52036	Wilder Löwe (Siegel)
-52037	Wilder Löwe (Siegel)
-52038	Wilder Löwe (Siegel)
-52039	Wilder Löwe (Siegel)
-52040	Wilder Löwe (Siegel)
-52041	Tapferer Löwe (Siegel)
-52042	Tapferer Löwe (Siegel)
-52043	Tapferer Löwe (Siegel)
-52044	Tapferer Löwe (Siegel)
-52045	Tapferer Löwe (Siegel)
+52031	Junger LÃ¶we (Siegel)
+52032	Junger LÃ¶we (Siegel)
+52033	Junger LÃ¶we (Siegel)
+52034	Junger LÃ¶we (Siegel)
+52035	Junger LÃ¶we (Siegel)
+52036	Wilder LÃ¶we (Siegel)
+52037	Wilder LÃ¶we (Siegel)
+52038	Wilder LÃ¶we (Siegel)
+52039	Wilder LÃ¶we (Siegel)
+52040	Wilder LÃ¶we (Siegel)
+52041	Tapferer LÃ¶we (Siegel)
+52042	Tapferer LÃ¶we (Siegel)
+52043	Tapferer LÃ¶we (Siegel)
+52044	Tapferer LÃ¶we (Siegel)
+52045	Tapferer LÃ¶we (Siegel)
 52046	Junger Tiger (Siegel)
 52047	Junger Tiger (Siegel)
 52048	Junger Tiger (Siegel)
@@ -4947,16 +4947,16 @@ VNUM	LOCALE_NAME
 52103	Tapferer Dragor-Siegel
 52104	Tapferer Dragor-Siegel
 52105	Tapferer Dragor-Siegel
-52701	Löwen-Urkunde
+52701	LÃ¶wen-Urkunde
 52702	Tiger-Urkunde
 52703	Keiler-Urkunde
 52704	Wolfs-Urkunde
 52705	Rentier-Urkunde (m)
 52706	Rentier-Urkunde (w)
 52707	Dragor-Urkunde
-53001	Feuerphönix-Siegel
+53001	FeuerphÃ¶nix-Siegel
 53002	Rentierjunges-Siegel
-53003	Eisphönix-Siegel
+53003	EisphÃ¶nix-Siegel
 53005	Baby-Azrael
 53006	Baby-Azrael (gold)
 53007	Bambi-Siegel
@@ -4969,26 +4969,26 @@ VNUM	LOCALE_NAME
 53014	Henkerchen-Siegel
 53015	Henkerchen-Siegel (gold)
 53016	Boney-Siegel
-53017	Jadephönix-Siegel
-53501	Feuerphönix-Käfig
+53017	JadephÃ¶nix-Siegel
+53501	FeuerphÃ¶nix-KÃ¤fig
 53502	Truhe des Rentierjungen
-53503	Eisphönix-Käfig
+53503	EisphÃ¶nix-KÃ¤fig
 53504	Truhe4
-53505	Hörner-Aufbewahrungsfach
+53505	HÃ¶rner-Aufbewahrungsfach
 53506	Azrael Box
-53507	³ì°¢ º¸°üÇÔ
-53508	³ì°¢ º¸°üÇÔ
-53509	³ì°¢ º¸°üÇÔ
-53510	³ì°¢ º¸°üÇÔ
-53511	³ì°¢ º¸°üÇÔ
-53512	³ì°¢ º¸°üÇÔ
-53513	³ì°¢ º¸°üÇÔ
-53514	³ì°¢ º¸°üÇÔ
-53515	³ì°¢ º¸°üÇÔ
+53507	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53508	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53509	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53510	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53511	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53512	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53513	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53514	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53515	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
 53516	Knochentruhe
-53517	Jadekäfig
+53517	JadekÃ¤fig
 60001	Galle
-60002	Brief des Lagerwächters
+60002	Brief des LagerwÃ¤chters
 60003	Heldensymbol
 69000	Geheimnis heft. Schlag
 69010	Chigeheimnis
@@ -5006,31 +5006,31 @@ VNUM	LOCALE_NAME
 69130	Heilgeheimnis
 69140	Geheim Hilfe des Drachen
 69150	Segengeheimnis
-70001	Puppe der Göttin
+70001	Puppe der GÃ¶ttin
 70002	Dritte Hand
-70003	Buch des Anführers
-70004	Fleißmedaille
+70003	Buch des AnfÃ¼hrers
+70004	FleiÃŸmedaille
 70005	Erfahrungsring
 70006	Sprachenring
 70007	Warpring
-70008	Weiße Flagge
+70008	WeiÃŸe Flagge
 70009	Schatztruhe
 70010	Lagerschein
 70011	Flasche verbessern
-70012	Träne der Göttin
-70013	Träne der Riesengöttin
+70012	TrÃ¤ne der GÃ¶ttin
+70013	TrÃ¤ne der RiesengÃ¶ttin
 70014	Bluttablette
-70015	Billige Bürste
+70015	Billige BÃ¼rste
 70016	Indianerarmband
 70017	Kostbares Armband
-70018	Phönixohrringe
-70019	Millionärshalskette
-70020	Pfirsichblütenwein
+70018	PhÃ¶nixohrringe
+70019	MillionÃ¤rshalskette
+70020	PfirsichblÃ¼tenwein
 70021	Segen des Engels
 70022	Beras Herz
 70023	Stock des Weisen
 70024	Segenskugel
-70025	Ring der Würde
+70025	Ring der WÃ¼rde
 70026	Unsichtbarkeitsspiegel
 70027	Notiz des Schmieds
 70028	Notiz des Weisen
@@ -5045,15 +5045,15 @@ VNUM	LOCALE_NAME
 70037	Buch des Vergessens
 70038	Tapferkeitsumhang
 70039	Schmiede-Handbuch
-70040	Orkhartnäckigkeit
-70041	Faust des Jüngers
+70040	OrkhartnÃ¤ckigkeit
+70041	Faust des JÃ¼ngers
 70042	Teufelssplitter
 70043	Diebeshandschuh
-70044	Horn des dunklen Fürsten
-70045	Zahn des dunklen Fürsten
+70044	Horn des dunklen FÃ¼rsten
+70045	Zahn des dunklen FÃ¼rsten
 70046	Gral des Drachengottes
 70047	Sprachenring (Beispiel)
-70048	Flüchtlingsumhang
+70048	FlÃ¼chtlingsumhang
 70049	Lucys Ring
 70050	Symbol d. weisen Kaisers
 70051	Handschuh weiser Kaiser
@@ -5071,16 +5071,16 @@ VNUM	LOCALE_NAME
 70106	Verwandlungskugel
 70107	Verwandlungskugel
 70201	Bleichmittel
-70202	Weißes Haarfärbemittel
-70203	Blondes Haarfärbemittel
-70204	Rotes Haarfärbemittel
-70205	Braunes Haarfärbemittel
-70206	Schwarz Haarfärbemittel
+70202	WeiÃŸes HaarfÃ¤rbemittel
+70203	Blondes HaarfÃ¤rbemittel
+70204	Rotes HaarfÃ¤rbemittel
+70205	Braunes HaarfÃ¤rbemittel
+70206	Schwarz HaarfÃ¤rbemittel
 70207	Bleichmittel
 70208	Braune Farbe
 70251	Rotes Kraut
 70252	Blaues Kraut
-70253	Grünes Kraut
+70253	GrÃ¼nes Kraut
 70254	Violettes Kraut
 70301	Verlobungsring
 70302	Ehering
@@ -5095,43 +5095,43 @@ VNUM	LOCALE_NAME
 71009	Lagertruhe
 71010	Dritte Hand
 71011	Emotionsmaske
-71012	Buch des Anführers
+71012	Buch des AnfÃ¼hrers
 71013	Feuerwerk
 71014	Trank des Angriffs +10
 71015	Erfahrungsring
 71016	Handschuhe des Diebes
-71017	Medaille des Glücks
+71017	Medaille des GlÃ¼cks
 71018	Segen des Lebens
 71019	Segen der Magie
 71020	Segen des Drachen
 71021	Schriftrolle des Krieges
-71022	Rückkehr der Intelligenz
-71023	Rückkehr der Vitalität
-71024	Rückkehr der Stärke
+71022	RÃ¼ckkehr der Intelligenz
+71023	RÃ¼ckkehr der VitalitÃ¤t
+71024	RÃ¼ckkehr der StÃ¤rke
 71025	Stein des Schmieds
 71026	Magisches Eisenerz
 71027	Drachengott-Leben
 71028	Drachengott-Angriff
 71029	Drachengott-Intelligenz
 71030	Drachengott-Verteidigung
-71031	Drachengottunterstützung
+71031	DrachengottunterstÃ¼tzung
 71032	Schriftrolle des Drachen
 71033	Emotionsmaske
 71034	Trank des Angriffs +15
 71035	Elixier des Forschers
 71036	Ruf-Rolle Oberork
-71037	Ruf-Rolle Anführer
-71038	Ruf-Rolle Königsspinne
-71039	Ruf-Rolle Schildkröte
-71040	Ruf-Rolle Flammenkönig
+71037	Ruf-Rolle AnfÃ¼hrer
+71038	Ruf-Rolle KÃ¶nigsspinne
+71039	Ruf-Rolle SchildkrÃ¶te
+71040	Ruf-Rolle FlammenkÃ¶nig
 71041	Ruf-Rolle Neunschwanz
-71042	Ruf-Rolle Dämonenkönig
+71042	Ruf-Rolle DÃ¤monenkÃ¶nig
 71043	Ruf-Rolle Tigergeist
 71044	Kritischer Kampf
 71045	Durchbohrender Kampf
 71047	Tinktur des Geiststeins
 71048	Wandelzauber
-71049	Seidenbündel
+71049	SeidenbÃ¼ndel
 71050	Geschwindigkeitstrank
 71054	Tinktur der Reiche
 71055	Tinktur des Namens
@@ -5143,7 +5143,7 @@ VNUM	LOCALE_NAME
 71061	Stein der Jadeader
 71062	Stein der Ebenholzader
 71063	Stein des Muschelstapels
-71064	Stein der Weißgoldader
+71064	Stein der WeiÃŸgoldader
 71065	Stein der Kristallader
 71066	Stein der Quarzader
 71067	Stein der Himmelsader
@@ -5154,7 +5154,7 @@ VNUM	LOCALE_NAME
 71072	Armband der Harmonie
 71073	Halskette der Liebe
 71074	Halskette der Harmonie
-71075	Haarfarbe (weiß)
+71075	Haarfarbe (weiÃŸ)
 71076	Haarfarbe (Blond)
 71077	Haarfarbe (rot)
 71078	Haarfarbe (braun)
@@ -5164,7 +5164,7 @@ VNUM	LOCALE_NAME
 71082	Metinstein (schwer)
 71083	Stein-Handbuch
 71084	Gegenstand verzaubern
-71085	Gegenstand verstärken
+71085	Gegenstand verstÃ¤rken
 71086	Level-Auftrag (20-29)
 71087	Level-Auftrag (30-39)
 71088	Missionsbuch (leicht)
@@ -5195,15 +5195,15 @@ VNUM	LOCALE_NAME
 71117	Wolf-Siegel (blau)
 71118	Tiger-Siegel (gelb)
 71119	Tiger-Siegel (blau)
-71120	Löwen-Siegel (gelb)
-71121	Löwen-Siegel (blau)
+71120	LÃ¶wen-Siegel (gelb)
+71121	LÃ¶wen-Siegel (blau)
 71122	Siehe Kommentar
 71123	Drachenschuppe
-71124	Weißer Löwe
+71124	WeiÃŸer LÃ¶we
 71125	Kriegskeiler-Siegel
 71126	Streitwolf-Siegel
 71127	Sturmtiger-Siegel
-71128	Schlachtenlöwen-Siegel
+71128	SchlachtenlÃ¶wen-Siegel
 71129	Drachenkralle
 71130	Passierschein
 71131	Rappen-Siegel
@@ -5212,22 +5212,22 @@ VNUM	LOCALE_NAME
 71134	Rappen-Siegel
 71135	Halbmondring
 71136	Lolli
-71137	Königstiger-Siegel(blau)
-71138	Königstiger-Siegel (rot)
-71139	Königstiger-Siegel(gold)
-71140	Königstiger-Siegel(grün)
-71141	Königstiger-Siegel(grau)
-71142	Königstiger-Siegel(weiß)
+71137	KÃ¶nigstiger-Siegel(blau)
+71138	KÃ¶nigstiger-Siegel (rot)
+71139	KÃ¶nigstiger-Siegel(gold)
+71140	KÃ¶nigstiger-Siegel(grÃ¼n)
+71141	KÃ¶nigstiger-Siegel(grau)
+71142	KÃ¶nigstiger-Siegel(weiÃŸ)
 71143	Ring der Freude
 71144	Weihnachtstruhe
 71145	Amulett der Ewigen Liebe
 71146	Amors Truhe (rosa)
 71147	Amors Truhe (blau)
 71148	Ring der Willenskraft
-71149	Ring der tödlichen Macht
+71149	Ring der tÃ¶dlichen Macht
 71150	Zauber-Ei
-71151	Grüner Zauber
-71152	Grüne Stärke
+71151	GrÃ¼ner Zauber
+71152	GrÃ¼ne StÃ¤rke
 71153	Trank der Weisheit
 71154	Erfahrungstrank
 71155	Erfahrungstrank
@@ -5238,7 +5238,7 @@ VNUM	LOCALE_NAME
 71160	Truhe der Athene
 71161	Equus Purpur
 71164	Komet-Siegel
-71165	Polarprädator-Siegel
+71165	PolarprÃ¤dator-Siegel
 71166	Panzerpanda-Siegel
 71171	Einhorn-Siegel
 71172	Nachtmahr-Siegel
@@ -5248,9 +5248,9 @@ VNUM	LOCALE_NAME
 72004	Handschuhe des Diebes
 72005	Handschuhe des Diebes
 72006	Handschuhe des Diebes
-72007	Seidenbündel
-72008	Seidenbündel
-72009	Seidenbündel
+72007	SeidenbÃ¼ndel
+72008	SeidenbÃ¼ndel
+72009	SeidenbÃ¼ndel
 72010	Feder der Liebenden
 72011	Feder der Liebenden
 72012	Feder der Liebenden
@@ -5263,9 +5263,9 @@ VNUM	LOCALE_NAME
 72019	Lagertruhe
 72020	Lagertruhe
 72021	Lagertruhe
-72022	Medaille des Glücks
-72023	Medaille des Glücks
-72024	Medaille des Glücks
+72022	Medaille des GlÃ¼cks
+72023	Medaille des GlÃ¼cks
+72024	Medaille des GlÃ¼cks
 72025	Kritischer Kampf
 72026	Kritischer Kampf
 72027	Kritischer Kampf
@@ -5284,9 +5284,9 @@ VNUM	LOCALE_NAME
 72040	Drachengott-Intelligenz
 72041	Drachengott-Intelligenz
 72042	Drachengott-Intelligenz
-72043	Buch des Anführers
-72044	Buch des Anführers
-72045	Buch des Anführers
+72043	Buch des AnfÃ¼hrers
+72044	Buch des AnfÃ¼hrers
+72045	Buch des AnfÃ¼hrers
 72046	Wichtige Chance
 72047	Wichtige Chance
 72048	Wichtige Chance
@@ -5337,9 +5337,9 @@ VNUM	LOCALE_NAME
 73009	Lange Haare (schwarz)
 73010	Lange Haare (rot)
 73011	Lange Haare (braun)
-73012	Lange Haare (grün)
+73012	Lange Haare (grÃ¼n)
 73251	Pferdeschwanz (braun)
-73252	Pferdeschwanz (grün)
+73252	Pferdeschwanz (grÃ¼n)
 73253	Pferdeschwanz (blau)
 73254	Pferdeschwanz (hell)
 73255	Schulterlanges Haar(rot)
@@ -5353,12 +5353,12 @@ VNUM	LOCALE_NAME
 73501	Sportliche Frisur (hell)
 73502	Sportliche Frisur(braun)
 73503	Sportliche Frisur(blond)
-73504	Sportliche Frisur (grün)
-73505	Charisma-Frisur (weiß)
+73504	Sportliche Frisur (grÃ¼n)
+73505	Charisma-Frisur (weiÃŸ)
 73506	Charisma-Frisur (rot)
 73507	Charisma-Frisur(schwarz)
 73508	Charisma-Frisur(violett)
-73509	Langer Zopf (weiß)
+73509	Langer Zopf (weiÃŸ)
 73510	Langer Zopf (blau)
 73511	Langer Zopf (schwarz)
 73512	Langer Zopf (braun)
@@ -5381,21 +5381,21 @@ VNUM	LOCALE_NAME
 74005	Stirntuch (rot)
 74006	Stirntuch(braun kariert)
 74007	Stirntuch (blau)
-74008	Stirntuch (grün kariert)
+74008	Stirntuch (grÃ¼n kariert)
 74009	Lange Haare (schwarz)
 74010	Lange Haare (rot)
 74011	Lange Haare (braun)
-74012	Lange Haare (grün)
-74013	Afro für Krieger
-74014	Afro für Krieger
-74015	Samurai-Helm für Krieger
-74016	Samurai-Helm für Krieger
-74017	Fez für Krieger
-74018	Keffiyeh für Krieger
-74019	Turban für Krieger
-74020	Kürbismaske-Krieger (m)
+74012	Lange Haare (grÃ¼n)
+74013	Afro fÃ¼r Krieger
+74014	Afro fÃ¼r Krieger
+74015	Samurai-Helm fÃ¼r Krieger
+74016	Samurai-Helm fÃ¼r Krieger
+74017	Fez fÃ¼r Krieger
+74018	Keffiyeh fÃ¼r Krieger
+74019	Turban fÃ¼r Krieger
+74020	KÃ¼rbismaske-Krieger (m)
 74251	Pferdeschwanz (braun)
-74252	Pferdeschwanz (grün)
+74252	Pferdeschwanz (grÃ¼n)
 74253	Pferdeschwanz (blau)
 74254	Pferdeschwanz (hell)
 74255	Schulterlanges Haar(rot)
@@ -5406,34 +5406,34 @@ VNUM	LOCALE_NAME
 74260	Kurzhaarfrisur (blau)
 74261	Kurzhaarfrisur (schwarz)
 74262	Kurzhaarfrisur (blond)
-74263	Afro für Ninja (w)
-74264	Afro für Ninja (w)
-74265	Blumenhut für Ninja (w)
-74266	Blumenhut für Ninja (w)
-74267	Sandmaske für Ninja (w)
-74268	Wüstenschal f. Ninja (w)
-74269	Turban für Ninja (w)
-74270	Kürbismaske-Ninja (w)
+74263	Afro fÃ¼r Ninja (w)
+74264	Afro fÃ¼r Ninja (w)
+74265	Blumenhut fÃ¼r Ninja (w)
+74266	Blumenhut fÃ¼r Ninja (w)
+74267	Sandmaske fÃ¼r Ninja (w)
+74268	WÃ¼stenschal f. Ninja (w)
+74269	Turban fÃ¼r Ninja (w)
+74270	KÃ¼rbismaske-Ninja (w)
 74501	Sportliche Frisur (hell)
 74502	Sportliche Frisur(braun)
 74503	Sportliche Frisur(blond)
-74504	Sportliche Frisur (grün)
-74505	Charisma-Frisur (weiß)
+74504	Sportliche Frisur (grÃ¼n)
+74505	Charisma-Frisur (weiÃŸ)
 74506	Charisma-Frisur (rot)
 74507	Charisma-Frisur(schwarz)
 74508	Charisma-Frisur(violett)
-74509	Langer Zopf (weiß)
+74509	Langer Zopf (weiÃŸ)
 74510	Langer Zopf (blau)
 74511	Langer Zopf (schwarz)
 74512	Langer Zopf (braun)
-74513	Afro für Sura (m)
-74514	Afro für Sura (m)
+74513	Afro fÃ¼r Sura (m)
+74514	Afro fÃ¼r Sura (m)
 74515	Samurai-Helm f. Sura (m)
 74516	Samurai-Helm f. Sura (m)
-74517	Fez für Sura (m)
-74518	Keffiyeh für Sura (m)
-74519	Turban für Sura (m)
-74520	Kürbismaske-Sura (m)
+74517	Fez fÃ¼r Sura (m)
+74518	Keffiyeh fÃ¼r Sura (m)
+74519	Turban fÃ¼r Sura (m)
+74520	KÃ¼rbismaske-Sura (m)
 74751	Edle Frisur (braun)
 74752	Edle Frisur (schwarz)
 74753	Edle Frisur (blau)
@@ -5446,14 +5446,14 @@ VNUM	LOCALE_NAME
 74760	Alte Haartracht (hell)
 74761	Alte Haartracht(violett)
 74762	Alte Haartracht (rot)
-74763	Afro für Schamanin
-74764	Afro für Schamanin
-74765	Blumenhut für Schamanin
-74766	Blumenhut für Schamanin
-74767	Sandmaske für Schamanin
-74768	Wüstenschal f. Schamanin
-74769	Turban für Schamanin
-74770	Kürbismaske-Schamane (w)
+74763	Afro fÃ¼r Schamanin
+74764	Afro fÃ¼r Schamanin
+74765	Blumenhut fÃ¼r Schamanin
+74766	Blumenhut fÃ¼r Schamanin
+74767	Sandmaske fÃ¼r Schamanin
+74768	WÃ¼stenschal f. Schamanin
+74769	Turban fÃ¼r Schamanin
+74770	KÃ¼rbismaske-Schamane (w)
 75001	Modische Frisur (rot)
 75002	Modische Frisur (hell)
 75003	Modische Frisur (blau)
@@ -5461,21 +5461,21 @@ VNUM	LOCALE_NAME
 75005	Stirntuch (braun)
 75006	Stirntuch (blond)
 75007	Stirntuch (blau)
-75008	Stirntuch (grün)
+75008	Stirntuch (grÃ¼n)
 75009	Lange Haare (schwarz)
 75010	Lange Haare (rot)
 75011	Lange Haare (braun)
-75012	Lange Haare (grün)
-75013	Afro für Kriegerin
-75014	Afro für Kriegerin
-75015	Blumenhut für Kriegerin
-75016	Blumenhut für Kriegerin
-75017	Sandmaske für Kriegerin
-75018	Wüstenschal f. Kriegerin
-75019	Turban für Kriegerin
-75020	Kürbismaske-Krieger (w)
+75012	Lange Haare (grÃ¼n)
+75013	Afro fÃ¼r Kriegerin
+75014	Afro fÃ¼r Kriegerin
+75015	Blumenhut fÃ¼r Kriegerin
+75016	Blumenhut fÃ¼r Kriegerin
+75017	Sandmaske fÃ¼r Kriegerin
+75018	WÃ¼stenschal f. Kriegerin
+75019	Turban fÃ¼r Kriegerin
+75020	KÃ¼rbismaske-Krieger (w)
 75201	Pferdeschwanz (braun)
-75202	Pferdeschwanz (grün)
+75202	Pferdeschwanz (grÃ¼n)
 75203	Pferdeschwanz (blau)
 75204	Pferdeschwanz (hell)
 75205	Schulterlanges Haar(rot)
@@ -5486,34 +5486,34 @@ VNUM	LOCALE_NAME
 75210	Kurzhaarfrisur (blau)
 75211	Kurzhaarfrisur (schwarz)
 75212	Kurzhaarfrisur (blond)
-75213	Afro für Ninja (m)
-75214	Afro für Ninja (m)
+75213	Afro fÃ¼r Ninja (m)
+75214	Afro fÃ¼r Ninja (m)
 75215	Samurai-Helm Ninja (m)
 75216	Samurai-Helm Ninja (m)
-75217	Fez für Ninja (m)
-75218	Keffiyeh für Ninja (m)
-75219	Turban für Ninja (m)
-75220	Kürbismaske-Ninja (m)
+75217	Fez fÃ¼r Ninja (m)
+75218	Keffiyeh fÃ¼r Ninja (m)
+75219	Turban fÃ¼r Ninja (m)
+75220	KÃ¼rbismaske-Ninja (m)
 75401	Sportliche Frisur (hell)
 75402	Sportliche Frisur(braun)
 75403	Sportliche Frisur(blond)
-75404	Sportliche Frisur (grün)
-75405	Charisma-Frisur (weiß)
+75404	Sportliche Frisur (grÃ¼n)
+75405	Charisma-Frisur (weiÃŸ)
 75406	Charisma-Frisur (rot)
 75407	Charisma-Frisur(schwarz)
 75408	Charisma-Frisur(violett)
-75409	Langer Zopf (weiß)
+75409	Langer Zopf (weiÃŸ)
 75410	Langer Zopf (blau)
 75411	Langer Zopf (schwarz)
 75412	Langer Zopf (braun)
-75413	Afro für Sura (w)
-75414	Afro für Sura (w)
-75415	Blumenhut für Sura (w)
-75416	Blumenhut für Sura (w)
-75417	Sandmaske für Sura (w)
-75418	Wüstenschal für Sura (w)
-75419	Turban für Sura (w)
-75420	Kürbismaske-Sura (w)
+75413	Afro fÃ¼r Sura (w)
+75414	Afro fÃ¼r Sura (w)
+75415	Blumenhut fÃ¼r Sura (w)
+75416	Blumenhut fÃ¼r Sura (w)
+75417	Sandmaske fÃ¼r Sura (w)
+75418	WÃ¼stenschal fÃ¼r Sura (w)
+75419	Turban fÃ¼r Sura (w)
+75420	KÃ¼rbismaske-Sura (w)
 75601	Edle Frisur (braun)
 75602	Edle Frisur (schwarz)
 75603	Edle Frisur (blau)
@@ -5526,15 +5526,15 @@ VNUM	LOCALE_NAME
 75610	Alte Haartracht (hell)
 75611	Alte Haartracht(violett)
 75612	Alte Haartracht (rot)
-75613	Afro für Schamanen
-75614	Afro für Schamanen
+75613	Afro fÃ¼r Schamanen
+75614	Afro fÃ¼r Schamanen
 75615	Samurai-Helm Schamanen
 75616	Samurai-Helm Schamanen
-75617	Fez für Schamanen
-75618	Keffiyeh für Schamanen
-75619	Turban für Schamanen
-75620	Kürbismaske-Schamane (m)
-76000	Pfirsichblütenwein
+75617	Fez fÃ¼r Schamanen
+75618	Keffiyeh fÃ¼r Schamanen
+75619	Turban fÃ¼r Schamanen
+75620	KÃ¼rbismaske-Schamane (m)
+76000	PfirsichblÃ¼tenwein
 76001	Status-Neuverteilung
 76002	Schrumpfkopf
 76003	Trank der Hast
@@ -5545,9 +5545,9 @@ VNUM	LOCALE_NAME
 76008	Medaille des Drachen
 76009	Schriftrolle des Drachen
 76010	Blutstein
-76011	Buch des Anführers
+76011	Buch des AnfÃ¼hrers
 76012	Geschwindigkeitstrank
-76013	Gegenstand verstärken(b)
+76013	Gegenstand verstÃ¤rken(b)
 76014	Gegenstand verzaubern(b)
 76015	Segenskugel
 76016	Segensschriftrolle
@@ -5557,8 +5557,8 @@ VNUM	LOCALE_NAME
 76020	Elixier des Forschers
 76021	Elixier der Sonne (K)
 76022	Elixier der Sonne (M)
-76023	Grüner Zauber
-76024	Grüne Stärke
+76023	GrÃ¼ner Zauber
+76024	GrÃ¼ne StÃ¤rke
 80001	Geldtasche
 80002	Leeres Papier
 80003	Silberbarren(50.000Yang)
@@ -5587,7 +5587,7 @@ VNUM	LOCALE_NAME
 100002	Elixier der Zeit (G)
 100100	Drachenzange
 100200	Zange der Zeit
-100300	Grüne Drachenbohne
+100300	GrÃ¼ne Drachenbohne
 100400	Blaue Drachenbohne
 100500	Rosa Drachenbohne
 110000~110099	Roher Drachendiamant
@@ -5635,11 +5635,11 @@ VNUM	LOCALE_NAME
 123200~123299	Antiker Drachenrubin
 123300~123399	Antiker Drachenrubin
 123400~123499	Antiker Drachenrubin
-124000~124099	Legendärer Drachenrubin
-124100~124199	Legendärer Drachenrubin
-124200~124299	Legendärer Drachenrubin
-124300~124399	Legendärer Drachenrubin
-124400~124499	Legendärer Drachenrubin
+124000~124099	LegendÃ¤rer Drachenrubin
+124100~124199	LegendÃ¤rer Drachenrubin
+124200~124299	LegendÃ¤rer Drachenrubin
+124300~124399	LegendÃ¤rer Drachenrubin
+124400~124499	LegendÃ¤rer Drachenrubin
 130000~130099	Roher Drachenjade
 130100~130199	Roher Drachenjade
 130200~130299	Roher Drachenjade
@@ -5660,11 +5660,11 @@ VNUM	LOCALE_NAME
 133200~133299	Antiker Drachenjade
 133300~133399	Antiker Drachenjade
 133400~133499	Antiker Drachenjade
-134000~134099	Legendärer Drachenjade
-134100~134199	Legendärer Drachenjade
-134200~134299	Legendärer Drachenjade
-134300~134399	Legendärer Drachenjade
-134400~134499	Legendärer Drachenjade
+134000~134099	LegendÃ¤rer Drachenjade
+134100~134199	LegendÃ¤rer Drachenjade
+134200~134299	LegendÃ¤rer Drachenjade
+134300~134399	LegendÃ¤rer Drachenjade
+134400~134499	LegendÃ¤rer Drachenjade
 140000~140099	Roher Drachensaphir
 140100~140199	Roher Drachensaphir
 140200~140299	Roher Drachensaphir
@@ -5685,11 +5685,11 @@ VNUM	LOCALE_NAME
 143200~143299	Antiker Drachensaphir
 143300~143399	Antiker Drachensaphir
 143400~143499	Antiker Drachensaphir
-144000~144099	Legendärer Drachensaphir
-144100~144199	Legendärer Drachensaphir
-144200~144299	Legendärer Drachensaphir
-144300~144399	Legendärer Drachensaphir
-144400~144499	Legendärer Drachensaphir
+144000~144099	LegendÃ¤rer Drachensaphir
+144100~144199	LegendÃ¤rer Drachensaphir
+144200~144299	LegendÃ¤rer Drachensaphir
+144300~144399	LegendÃ¤rer Drachensaphir
+144400~144499	LegendÃ¤rer Drachensaphir
 150000~150099	Roher Drachengranat
 150100~150199	Roher Drachengranat
 150200~150299	Roher Drachengranat
@@ -5710,11 +5710,11 @@ VNUM	LOCALE_NAME
 153200~153299	Antiker Drachengranat
 153300~153399	Antiker Drachengranat
 153400~153499	Antiker Drachengranat
-154000~154099	Legendärer Drachengranat
-154100~154199	Legendärer Drachengranat
-154200~154299	Legendärer Drachengranat
-154300~154399	Legendärer Drachengranat
-154400~154499	Legendärer Drachengranat
+154000~154099	LegendÃ¤rer Drachengranat
+154100~154199	LegendÃ¤rer Drachengranat
+154200~154299	LegendÃ¤rer Drachengranat
+154300~154399	LegendÃ¤rer Drachengranat
+154400~154499	LegendÃ¤rer Drachengranat
 160000~160099	Roher Drachenonyx
 160100~160199	Roher Drachenonyx
 160200~160299	Roher Drachenonyx
@@ -5735,10 +5735,10 @@ VNUM	LOCALE_NAME
 163200~163299	Antiker Drachenonyx
 163300~163399	Antiker Drachenonyx
 163400~163499	Antiker Drachenonyx
-164000~164099	Legendärer Drachenonyx
-164100~164199	Legendärer Drachenonyx
-164200~164299	Legendärer Drachenonyx
-164300~164399	Legendärer Drachenonyx
-164400~164499	Legendärer Drachenonyx
+164000~164099	LegendÃ¤rer Drachenonyx
+164100~164199	LegendÃ¤rer Drachenonyx
+164200~164299	LegendÃ¤rer Drachenonyx
+164300~164399	LegendÃ¤rer Drachenonyx
+164400~164499	LegendÃ¤rer Drachenonyx
 71051	Gegenstand verhexen
 71052	Gegenstand segnen

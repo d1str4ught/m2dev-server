@@ -1,2285 +1,2285 @@
-"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Wszyscy ludzie zostan¹ przeniesieni do miasta.";
+"ì ì‹œí›„ í•´ë‹¹ ë§ˆì„ì€  ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Wszyscy ludzie zostanÄ… przeniesieni do miasta.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ì•„ì´í…œ ì…ë‹ˆë‹¤";
 "Ta rzecz nie istnieje.";
 
-"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
-"Skrzynia niespodziewanie wybuch³a! Straci³eœ Punkty ¯ycia.";
+"ìƒìê°€ ê°‘ìê¸° í­ë°œí•˜ì˜€ìŠµë‹ˆë‹¤! ìƒëª…ë ¥ì´ ê°ì†Œí–ˆìŠµë‹ˆë‹¤.";
+"Skrzynia niespodziewanie wybuchÅ‚a! StraciÅ‚eÅ› Punkty Å»ycia.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
-"Jeœli bêdziesz wdychaæ zielony dym ze skrzyni, rozprzestrzenisz truciznê w swoim ciele!";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë…¹ìƒ‰ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ë…ì´ ì˜¨ëª¸ìœ¼ë¡œ í¼ì§‘ë‹ˆë‹¤!";
+"JeÅ›li bÄ™dziesz wdychaÄ‡ zielony dym ze skrzyni, rozprzestrzenisz truciznÄ™ w swoim ciele!";
 
-"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
+"%s ì•„ì´í…œ ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤";
 "Otrzymano %s, %d sztuk.";
 
-"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
-"Ze skrzyni wypad³ nastêpuj¹cy przedmiot: %s.";
+"ìƒìì—ì„œ %s ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ze skrzyni wypadÅ‚ nastÄ™pujÄ…cy przedmiot: %s.";
 
-"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
+"ì—´ì‡ ê°€ ë§ì§€ ì•ŠëŠ” ê²ƒ ê°™ë‹¤.";
 "Ten klucz chyba nie pasuje do zamka.";
 
-"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
-"Nic nie dosta³eœ.";
+"ì•„ë¬´ê²ƒë„ ì–»ì„ ìˆ˜ ì—†ì—ˆìŠµë‹ˆë‹¤.";
+"Nic nie dostaÅ‚eÅ›.";
 
-"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Masz za ma³o Yang, aby móc u¿yæ tego przedmiotu.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Masz za maÅ‚o Yang, aby mÃ³c uÅ¼yÄ‡ tego przedmiotu.";
 
-"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Masz za ma³o Yang, aby móc u¿yæ tego przedmiotu.";
+"ì†Œì§€ê¸ˆì´ ë¶€ì¡±í•˜ì—¬ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Masz za maÅ‚o Yang, aby mÃ³c uÅ¼yÄ‡ tego przedmiotu.";
 
-"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Obni¿y³eœ swój poziom umiejêtnoœci.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦¬ëŠ”ë° ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ObniÅ¼yÅ‚eÅ› swÃ³j poziom umiejÄ™tnoÅ›ci.";
 
-"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz obni¿yæ swojego poziomu umiejêtnoœci.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz obniÅ¼yÄ‡ swojego poziomu umiejÄ™tnoÅ›ci.";
 
-"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
-"Ten efekt jest ju¿ aktywny.";
+"ì´ë¯¸ íš¨ê³¼ê°€ ê±¸ë ¤ ìˆìŠµë‹ˆë‹¤.";
+"Ten efekt jest juÅ¼ aktywny.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ten przedmiot mo¿e byæ u¿yty tylko w kafejce internetowej.";
+"ì´ ì•„ì´í…œì€ PCë°©ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ten przedmiot moÅ¼e byÄ‡ uÅ¼yty tylko w kafejce internetowej.";
 
-"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
-"To jest powy¿ej limitu.";
+"ì‚¬ìš© ì œí•œëŸ‰ì„ ì´ˆê³¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"To jest powyí’½j limitu.";
 
-"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
-"Masz za ma³o miejsca w swoim ekwipunku.";
+"ìƒí’ˆì„ ë°›ì„ ì¸ë²¤í† ë¦¬ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ë¥¼ ë¹„ì›Œì£¼ì„¸ìš”!";
+"Masz za maì¿½ miejsca w swoim ekwipunku.";
 
-"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
-"U¿yto Ksiê¿ycowego Torcika lub Nasionka.";
+"ì›”ë³‘ ë˜ëŠ” ì¢…ì ë¥¼ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤";
+"Uí““to Ksiè½…ycowego Torcika lub Nasionka.";
 
-"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz nosiæ obr¹czki jeœli nie jesteœ w zwi¹zku ma³¿eñskim.";
+"ê²°í˜¼ ìƒíƒœê°€ ì•„ë‹ˆë©´ ê²°í˜¼ë°˜ì§€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz nosiÄ‡ obrÄ…czki jeÅ›li nie jesteÅ› w zwiÄ…zku maÅ‚Å¼eÅ„skim.";
 
-"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ wykrawacza zdarzeñ z tej pozycji.";
+"ì´ ê³³ì—ì„  ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ wykrawacza zdarzeÅ„ z tej pozycji.";
 
-"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ten przedmiot nie mo¿e byæ absorbowany.";
+"ì´ ê°œëŸ‰ì„œë¡œ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ten przedmiot nie moÅ¼e byÄ‡ absorbowany.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Wykrywacz zdarzeñ znikn¹³ w rozb³ysku tajemniczego œwiat³a.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Wykrywacz zdarzeÅ„ zniknÄ…Å‚ w rozbÅ‚ysku tajemniczego Å›wiatÅ‚a.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Wykrywacz eventów znikn¹³.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Wykrywacz eventÃ³w zniknÄ…Å‚.";
 
-"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"ì´ ê³³ì—ì„œ ì˜ì„ ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
 "Kompas Kamieni Metin nie funkcjonuje w Lochach.";
 
-"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Kompas Kamieni Metin znikn¹³ wraz z tajemniczym œwiat³em.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Kompas Kamieni Metin zniknë­„ wraz z tajemniczym ì—iatì¿®m.";
 
-"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
+"ìƒìì—ì„œ %s ê°€ %d ê°œ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
 "Otrzymaj: %s - %d";
 
-"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Kompas Kamieni Metin znikn¹³.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Kompas Kamieni Metin zniknë­„.";
 
-"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
-"W muszli znajdujesz jedynie zwyczajny Kawa³ek Kamienia.";
+"ì¡°ê°œì—ì„œ ëŒì¡°ê°ì´ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W muszli znajdujesz jedynie zwyczajny Kawaì¿®k Kamienia.";
 
-"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Muszla zniknê³a.";
+"ì¡°ê°œê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Muszla zniknÄ™Å‚a.";
 
-"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"W muszli jest Bia³a Per³a.";
+"ì¡°ê°œì—ì„œ ë°±ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W muszli jest Biaì¿ª Perì¿ª.";
 
-"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"W muszli jest Niebieska Per³a.";
+"ì¡°ê°œì—ì„œ ì²­ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W muszli jest Niebieska Perì¿ª.";
 
-"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"W muszli jest Krwawa Per³a.";
+"ì¡°ê°œì—ì„œ í”¼ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W muszli jest Krwawa Perì¿ª.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
-"Nie jest ³atwo zrozumieæ tê ksi¹¿kê.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œ ì´í•´í•˜ê¸°ê°€ í˜ë“­ë‹ˆë‹¤.";
+"Nie jest Å‚atwo zrozumieÄ‡ tÄ™ ksiÄ…Å¼kÄ™.";
 
-"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Ta ksi¹¿ka Ci nie pomo¿e.";
+"ì´ ì±…ì€ ì•„ë¬´ë¦¬ ë´ë„ ë„ì›€ì´ ë  ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Ta ksië®ˆka Ci nie pomoí’½.";
 
-"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Musisz byæ na 30 poziomie, aby zrozumieæ t¹ Ksiêge.";
+"ë ˆë²¨ 30ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Musisz byÄ‡ na 30 poziomie, aby zrozumieÄ‡ tÄ… KsiÄ™ge.";
 
-"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Musisz byæ na 50 poziomie, aby zrozumieæ t¹ Ksiêgê.";
+"ë ˆë²¨ 50ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Musisz byÄ‡ na 50 poziomie, aby zrozumieÄ‡ tÄ… KsiÄ™gÄ™.";
 
-"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz wytrenowaæ wiêcej kombinacji.";
+"ì—°ê³„ê¸°ëŠ” ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz wytrenowaÄ‡ wiÄ™cej kombinacji.";
 
-"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
-"Gildia %s przejê³a flagê Gildii %s!";
+"%s ê¸¸ë“œì˜ ê¹ƒë°œì„ %s ë‹˜ì´ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Gildia %s przejÄ™Å‚a flagÄ™ Gildii %s!";
 
-"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
-"Ju¿ mówisz p³ynnie tym jêzykiem.";
+"ì´ë¯¸ ì™„ë²½í•˜ê²Œ ì•Œì•„ë“¤ì„ ìˆ˜ ìˆëŠ” ì–¸ì–´ì´ë‹¤.";
+"JuÅ¼ mÃ³wisz pÅ‚ynnie tym jÄ™zykiem.";
 
-"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
-"Musisz podnieœæ swój poziom, aby zrozumieæ tê ksi¹¿kê.";
+"ì´ ì±…ì„ ì½ìœ¼ë ¤ë©´ ë ˆë²¨ì„ ë” ì˜¬ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Musisz podnieÅ›Ä‡ swÃ³j poziom, aby zrozumieÄ‡ tÄ™ ksiÄ…Å¼kÄ™.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ksi¹¿ka jest za trudna do nauki.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œì„œ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ksië®ˆka jest za trudna do nauki.";
 
-"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz ju¿ trenowaæ z t¹ ksi¹¿k¹.";
+"ì´ ì±…ìœ¼ë¡œëŠ” ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz juÅ¼ trenowaÄ‡ z tÄ… ksiÄ…Å¼kÄ….";
 
-"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
+"ì„¸ê¸ˆì´ %d %ë¡œ ì„¤ì •ë˜ì—ˆìŠµë‹ˆë‹¤";
 "Podatki ustawione na %d%%.";
 
-"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
-"Trening JeŸdziectwa jest dostêpny dopiero od poziomu 50.";
+"ì•„ì§ ìŠ¹ë§ˆ ìŠ¤í‚¬ì„ ìˆ˜ë ¨í•  ìˆ˜ ìˆëŠ” ë ˆë²¨ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Trening JeÅºdziectwa jest dostÄ™pny dopiero od poziomu 50.";
 
-"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
-"Unikn¹³eœ kl¹twy Z³ego Ducha przy pomocy Zwoju Egzorcyzmu.";
+"ì£¼ì•ˆìˆ ì„œë¥¼ í†µí•´ ì£¼í™”ì…ë§ˆì—ì„œ ë¹ ì ¸ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"UniknÄ…Å‚eÅ› klÄ…twy ZÅ‚ego Ducha przy pomocy Zwoju Egzorcyzmu.";
 
-"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz czytaæ wiêcej przewodników JeŸdziectwa.";
+"ë” ì´ìƒ ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz czytaÄ‡ wiÄ™cej przewodnikÃ³w JeÅºdziectwa.";
 
-"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Otrzyma³eœ punkt jeŸdziectwa po przeczytaniu przewodnika jeŸdziectwa.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì–´ ìŠ¹ë§ˆ ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"OtrzymaÅ‚eÅ› punkt jeÅºdziectwa po przeczytaniu przewodnika jeÅºdziectwa.";
 
-"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
-"Mo¿esz podnieœæ swoje umiejêtnoœci jeŸdzieckie poprzez otrzymany punkt.";
+"ì–»ì€ í¬ì¸íŠ¸ë¡œëŠ” ìŠ¹ë§ˆ ìŠ¤í‚¬ì˜ ë ˆë²¨ì„ ì˜¬ë¦´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MoÅ¼esz podnieÅ›Ä‡ swoje umiejÄ™tnoÅ›ci jeÅºdzieckie poprzez otrzymany punkt.";
 
-"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
-"Flaga Gildii %s zosta³a ukradziona przez gracza %s.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì˜ ê¹ƒë°œì„ ë¹¼ì•—ì•˜ìŠµë‹ˆë‹¤!";
+"Flaga Gildii %s zostaì¿ª ukradziona przez gracza %s.";
 
-"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nie zrozumia³eœ Przewodnika JeŸdziectwa.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œ ì´í•´ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nie zrozumiaÅ‚eÅ› Przewodnika JeÅºdziectwa.";
 
-"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
-"Twój umys³ jest czysty. Mo¿esz siê skoncentrowaæ.";
+"ë§ˆìŒì´ ë§‘ì•„ì§€ëŠ”êµ°. ê°€ìŠ´ì„ ì§“ëˆ„ë¥´ë˜ ë¬´ì–¸ê°€ê°€ ì¢€ ê°€ë²¼ì›Œì§„ ëŠë‚Œì´ì•¼.";
+"TwÃ³j umysÅ‚ jest czysty. MoÅ¼esz siÄ™ skoncentrowaÄ‡.";
 
-"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
-"Twoja Ranga zosta³a zwiêkszona o %d punktów.";
+"ì„ ì•…ì¹˜ê°€ %d ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Twoja Ranga zostaÅ‚a zwiÄ™kszona o %d punktÃ³w.";
 
-"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
-"Nie mo¿esz pofarbowaæ lub wybieliæ swojej aktualnej fryzury.";
+"í˜„ì¬ í—¤ì–´ìŠ¤íƒ€ì¼ì—ì„œëŠ” ì—¼ìƒ‰ê³¼ íƒˆìƒ‰ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Nie moÅ¼esz pofarbowaÄ‡ lub wybieliÄ‡ swojej aktualnej fryzury.";
 
-"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
-"Musisz osi¹gn¹æ poziom %d, aby móc ponownie zmieniæ kolor fryzury.";
+"%d ë ˆë²¨ì´ ë˜ì–´ì•¼ ë‹¤ì‹œ ì—¼ìƒ‰í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Musisz osiÄ…gnÄ…Ä‡ poziom %d, aby mÃ³c ponownie zmieniÄ‡ kolor fryzury.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Ten przedmiot mo¿e zostaæ otwarty tylko przez inn¹ p³eæ.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ten przedmiot moÅ¼e zostaÄ‡ otwarty tylko przez innÄ… pÅ‚eÄ‡.";
 
-"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz tego u¿yæ z Twojego aktualnego po³o¿enia.";
+"í˜„ì¬ ìœ„ì¹˜ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz tego uÅ¼yÄ‡ z Twojego aktualnego poÅ‚oÅ¼enia.";
 
-"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
-"Jesteœ gotowy do przeniesienia, wiêc nie mo¿esz skorzystaæ ze zwoju powrotu.";
+"ì´ë™í•  ì¤€ë¹„ê°€ ë˜ì–´ìˆìŒìœ¼ë¡œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"JesteÅ› gotowy do przeniesienia, wiÄ™c nie moÅ¼esz skorzystaÄ‡ ze zwoju powrotu.";
 
-"¿ø·¡ À§Ä¡·Î º¹±Í";
-"Wróci³eœ do punktu wyjœcia.";
+"ì›ë˜ ìœ„ì¹˜ë¡œ ë³µê·€";
+"WrÃ³ciÅ‚eÅ› do punktu wyjÅ›cia.";
 
-"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%s%s nie mo¿e byæ u¿yty w lochu.";
+"ë˜ì „ ì•ˆì—ì„œëŠ” %s%s ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s%s nie moÅ¼e byÄ‡ uÅ¼yty w lochu.";
 
-"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"[Misja] Odebra³eœ ju¿ swoj¹ nagrodê.";
+"<í€˜ìŠ¤íŠ¸> ì´ì „ì— ê°™ì€ ë³´ìƒì„ ë°›ì€ ì ì´ ìˆì–´ ë‹¤ì‹œ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Misja] OdebraÅ‚eÅ› juÅ¼ swojÄ… nagrodÄ™.";
 
-"À»";
+"ì„";
 "the";
 
-"¸¦";
+"ë¥¼";
 "the";
 
-"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nie posiadasz Od³amu Kamienia do usuwania.";
+"ì²­ì†Œí•  ì„ì´ ë°•í˜€ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Nie posiadasz Odì¿ªmu Kamienia do usuwania.";
 
-"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nie mo¿esz zmieniæ ulepszenia tego Przedmiotu.";
+"ì†ì„±ì„ ë³€ê²½í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz zmieniÄ‡ ulepszenia tego Przedmiotu.";
 
-"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
-"Nie masz ulepszenia, które móg³byœ zmieniæ.";
+"ë³€ê²½í•  ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nie masz ulepszenia, ktÃ³re mÃ³gÅ‚byÅ› zmieniÄ‡.";
 
-"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
-"Mo¿esz tego dokonaæ tylko w %d minut po ulepszeniu. (Zosta³o %d minut)";
+"ì†ì„±ì„ ë°”ê¾¼ì§€ %dë¶„ ì´ë‚´ì—ëŠ” ë‹¤ì‹œ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%d ë¶„ ë‚¨ìŒ)";
+"MoÅ¼esz tego dokonaÄ‡ tylko w %d minut po ulepszeniu. (ZostaÅ‚o %d minut)";
 
-"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
-"Zmieni³eœ ulepszenie.";
+"ì†ì„±ì„ ë³€ê²½í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ZmieniÅ‚eÅ› ulepszenie.";
 
-"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Ulepszenie dodane pomyœlnie.";
+"ì†ì„± ì¶”ê°€ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ulepszenie dodane pomyì‹nie.";
 
-"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Ulepszenie nie zosta³o dodane.";
+"ì†ì„± ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ulepszenie nie zostaì¿½ dodane.";
 
-"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Aby dodaæ kolejny bonus do tego przedmiotu, musisz u¿yæ kuli b³ogos³awieñstwa.";
+"ë”ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Aby dodaÄ‡ kolejny bonus do tego przedmiotu, musisz uÅ¼yÄ‡ kuli bÅ‚ogosÅ‚awieÅ„stwa.";
 
-"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ tego na arenie.";
+"ëŒ€ë ¨ì¥ì—ì„œ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ tego na arenie.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Tego przedmiotu nie mo¿na ju¿ ulepszaæ w ten sposób. Maksymalna iloœæ bonusów zosta³a osi¹gniêta.";
+"ë” ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tego przedmiotu nie moÅ¼na juÅ¼ ulepszaÄ‡ w ten sposÃ³b. Maksymalna iloÅ›Ä‡ bonusÃ³w zostaÅ‚a osiÄ…gniÄ™ta.";
 
-"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
-"Kula b³ogos³awieñstwa mo¿e zostaæ u¿yty tylko na przedmiotach, które ju¿ maj¹ 4 bonusy.";
+"ë¨¼ì € ì¬ê°€ë¹„ì„œë¥¼ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€ì‹œì¼œ ì£¼ì„¸ìš”.";
+"Kula bÅ‚ogosÅ‚awieÅ„stwa moÅ¼e zostaÄ‡ uÅ¼yty tylko na przedmiotach, ktÃ³re juÅ¼ majÄ… 4 bonusy.";
 
-"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
-"Slot dodano pomyœlnie.";
+"ì†Œì¼“ì´ ì„±ê³µì ìœ¼ë¡œ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Slot dodano pomyì‹nie.";
 
-"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Slot nie zosta³ dodany.";
+"ì†Œì¼“ ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Slot nie zostaÅ‚ dodany.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Do tego przedmiotu nie mo¿esz dodaæ wiêcej nowych slotów.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì†Œì¼“ì„ ì¶”ê°€í•  ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Do tego przedmiotu nie moÅ¼esz dodaÄ‡ wiÄ™cej nowych slotÃ³w.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nie mo¿esz przydzieliæ slotu dla tego przedmiotu.";
+"ì´ ì•„ì´í…œìœ¼ë¡œ ì†Œì¼“ì„ ì¶”ê°€í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz przydzieliÄ‡ slotu dla tego przedmiotu.";
 
-"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Uzbrajanie pomyœlne.";
+"ì¥ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Uzbrajanie pomyì‹ne.";
 
-"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Uzbrajanie niepomyœlne.";
+"ì¥ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Uzbrajanie niepomyì‹ne.";
 
-"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Musisz wpierw dodaæ slot. U¿yj do tego Diamentu.";
+"ë¨¼ì € ë‹¤ì´ì•„ëª¬ë“œë¡œ ì•…ì„¸ì„œë¦¬ì— ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Musisz wpierw dodaÄ‡ slot. UÅ¼yj do tego Diamentu.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì¥ì°©í•  ì†Œì¼“ì´ ì—†ìŠµë‹ˆë‹¤.";
 "Nie ma tu slotu z Klejnotami.";
 
-"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Mo¿esz to zrobiæ jedynie z za³o¿on¹ Mask¹ Uczuæ.";
+"ì—´ì •ì˜ ê°€ë©´ì„ ì°©ìš©ì‹œì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MoÅ¼esz to zrobiÄ‡ jedynie z zaÅ‚oÅ¼onÄ… MaskÄ… UczuÄ‡.";
 
-"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Musisz dodaæ slot, jeœli chcesz u¿yæ Diamentu.";
+"ë‹¤ì´ì•„ëª¬ë“œë¡œ ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Musisz dodaÄ‡ slot, jeÅ›li chcesz uÅ¼yÄ‡ Diamentu.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Do tego przedmiotu nie mo¿na dodaæ wiêcej klejnotów.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ë³´ì„ì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Do tego przedmiotu nie moÅ¼na dodaÄ‡ wiÄ™cej klejnotÃ³w.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Te przedmioty nie mog¹ zostaæ u¿yte razem.";
+"ì´ ì•„ì´í…œì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Te przedmioty nie mogÄ… zostaÄ‡ uÅ¼yte razem.";
 
-"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz zmieniæ przynêty podczas wêdkowania.";
+"ë‚šì‹œ ì¤‘ì— ë¯¸ë¼ë¥¼ ê°ˆì•„ë¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz zmieniÄ‡ przynÄ™ty podczas wÄ™dkowania.";
 
-"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
-"Zmieni³eœ aktualn¹ przynêtê na %s.";
+"ì´ë¯¸ ê½‚í˜€ìˆë˜ ë¯¸ë¼ë¥¼ ë¹¼ê³  %së¥¼ ë¼ì›ë‹ˆë‹¤.";
+"ZmieniÅ‚eÅ› aktualnÄ… przynÄ™tÄ™ na %s.";
 
-"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
-"Umieœci³eœ %s jako przynêtê na haczyku.";
+"ë‚šì‹œëŒ€ì— %së¥¼ ë¯¸ë¼ë¡œ ë¼ì›ë‹ˆë‹¤.";
+"UmieÅ›ciÅ‚eÅ› %s jako przynÄ™tÄ™ na haczyku.";
 
-"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nie masz wszystkich materia³ów potrzebnych do zrobienia mikstury.";
+"ë¬¼ì•½ ì¡°í•©ì„ ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Nie masz wszystkich materiaë†w potrzebnych do zrobienia mikstury.";
 
-"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Nie masz wystarczaj¹co materia³ów (%s).";
+"ì¬ë£Œ(%s)ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Nie masz wystarczají‰o materiaë†w (%s).";
 
-"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
-"Nie masz wystarczaj¹cej liczby pustych butelek.";
+"ë¹ˆ ë³‘ì´ ëª¨ìë¦…ë‹ˆë‹¤.";
+"Nie masz wystarczají‰ej liczby pustych butelek.";
 
-"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Mieszanie napoju nie powiod³o siê.";
+"ë¬¼ì•½ ì œì¡°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Mieszanie napoju nie powiodÅ‚o siÄ™.";
 
-"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Tylko kobiety mog¹ to zrobiæ.";
+"ì—¬ìë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Tylko kobiety mogÄ… to zrobiÄ‡.";
 
-"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz umieœciæ kilku Kamieni Duszy tego samego rodzaju.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ë©”í‹´ì„ì€ ì—¬ëŸ¬ê°œ ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz umieÅ›ciÄ‡ kilku Kamieni Duszy tego samego rodzaju.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ten Kamieñ Duszy nie mo¿e zostaæ umieszczony w przedmiocie tego rodzaju.";
+"ì´ ë©”í‹´ì„ì€ ì¥ë¹„ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ten KamieÅ„ Duszy nie moÅ¼e zostaÄ‡ umieszczony w przedmiocie tego rodzaju.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz umieœciæ tego Kamienia Duszy w broni.";
+"ì´ ë©”í‹´ì„ì€ ë¬´ê¸°ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz umieÅ›ciÄ‡ tego Kamienia Duszy w broni.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Pomyœlnie umieœci³eœ Kamieñ Duszy.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"PomyÅ›lnie umieÅ›ciÅ‚eÅ› KamieÅ„ Duszy.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Kamieñ Duszy pêk³ podczas umieszczania.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"KamieÅ„ Duszy pÄ™kÅ‚ podczas umieszczania.";
 
-"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
+"ë¶€ì°©í•  ìˆ˜ ìˆëŠ” ìŠ¬ë¡¯ì´ ì—†ìŠµë‹ˆë‹¤.";
 "Brak wolnych miejsc.";
 
-"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz teleportowaæ twojego partnera w tym momencie.";
+"ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz teleportowaÄ‡ twojego partnera w tym momencie.";
 
-"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ zwoju powrotu podczas Bitwy Królestw.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ ì°¸ê°€ì¤‘ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ zwoju powrotu podczas Bitwy KrÃ³lestw.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ zwoju powrotu przez %d sek. po otwarciu magazynu.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ zwoju powrotu przez %d sek. po otwarciu magazynu.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz skorzystaæ ze zwoju powrotu, gdy masz otwarte inne okno.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz skorzystaÄ‡ ze zwoju powrotu, gdy masz otwarte inne okno.";
 
-"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
+"ê·¸ëŸ° ì‚¬ëŒì´ ì—†ìŠµë‹ˆë‹¤.";
 "Ta osoba nie istnieje.";
 
-"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ Zwoju przez %d sek. po handlu.";
+"ì•„ì´í…œ ê°œëŸ‰í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ Zwoju przez %d sek. po handlu.";
 
-"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ zwoju powrotu przez %d sek. po otwarciu magazynu.";
+"ê°œì¸ìƒì  ì‚¬ìš©í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ zwoju powrotu przez %d sek. po otwarciu magazynu.";
 
-"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ zwoju powrotu, poniewa¿ odleg³oœæ jest zbyt ma³a.";
+"ì´ë™ ë˜ì–´ì§ˆ ìœ„ì¹˜ì™€ ë„ˆë¬´ ê°€ê¹Œì›Œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ zwoju powrotu, poniewaÅ¼ odlegÅ‚oÅ›Ä‡ jest zbyt maÅ‚a.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Po dokonaniu handlu nie mo¿esz skorzystaæ ze zwoju powrotu przez %d sek.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë“±ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Po dokonaniu handlu nie moÅ¼esz skorzystaÄ‡ ze zwoju powrotu przez %d sek.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz otworzyæ Magazynu, jeœli otwarte jest inne okno.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë³´ë”°ë¦¬,ë¹„ë‹¨ë³´ë”°ë¦¬ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz otworzyÄ‡ Magazynu, jeÅ›li otwarte jest inne okno.";
 
-"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nie mo¿esz wyrzuciæ tego przedmiotu.";
+"ë²„ë¦´ ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz wyrzuciÄ‡ tego przedmiotu.";
 
-"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
+"ë–¨ì–´ì§„ ì•„ì´í…œì€ 3ë¶„ í›„ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
 "Upuszczony przedmiot zniknie za 5 minut.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s";
-"Otrzyma³eœ %s";
+"ì•„ì´í…œ íšë“: %s";
+"OtrzymaÅ‚eÅ› %s";
 
-"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
-"Masz za du¿o przedmiotów w ekwipunku.";
+"ì†Œì§€í•˜ê³  ìˆëŠ” ì•„ì´í…œì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤.";
+"Masz za duÅ¼o przedmiotÃ³w w ekwipunku.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
+"ì•„ì´í…œ íšë“: %s ë‹˜ìœ¼ë¡œë¶€í„° %s";
 "%s otrzymuje %s.";
 
-"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Za chwilê wszyscy ludzie zostan¹ przeniesieni do wybranego miasta.";
+"ì ì‹œí›„ ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Za chwilÄ™ wszyscy ludzie zostanÄ… przeniesieni do wybranego miasta.";
 
-"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
-"Jesteœ za blisko.";
+"ë„ˆë¬´ ê°€ê¹Œì´ ìˆìŠµë‹ˆë‹¤.";
+"JesteÅ› za blisko.";
 
-"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
-"%s otrzyma³: %s";
+"ì•„ì´í…œ ì „ë‹¬: %s ë‹˜ì—ê²Œ %s";
+"%s otrzymaÅ‚: %s";
 
-"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz zmieniæ u¿ywanych przedmiotów, gdy jesteœ przemieniony.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ì°©ìš©ì¤‘ì¸ ì¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz zmieniÄ‡ uÅ¼ywanych przedmiotÃ³w, gdy jesteÅ› przemieniony.";
 
-"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Musisz staæ w miejscu, aby wyposa¿yæ siê w ten przedmiot.";
+"ê°€ë§Œíˆ ìˆì„ ë•Œë§Œ ì°©ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Musisz staÄ‡ w miejscu, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Zio³o z ma³p nie nadaje siê na karmê. S³u¿y o¿ywianiu martwych koni.";
+"ì£½ì§€ ì•Šì€ ë§ì—ê²Œ ì„ ì´ˆë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"ZioÅ‚o z maÅ‚p nie nadaje siÄ™ na karmÄ™. SÅ‚uÅ¼y oÅ¼ywianiu martwych koni.";
 
-"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz karmiæ martwego konia.";
+"ì£½ì€ ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz karmiÄ‡ martwego konia.";
 
-"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Nakarmi³eœ konia zio³ami.";
+"ë§ì—ê²Œ ì„ ì´ˆë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"NakarmiÅ‚eÅ› konia zioÅ‚ami.";
 
-"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Nakarmi³eœ konia.";
+"ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"NakarmiÅ‚eÅ› konia.";
 
-"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
-"Twój poziom jest za niski, aby móc nosiæ t¹ fryzurê.";
+"ì•„ì§ ì´ ë¨¸ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ë ˆë²¨ì…ë‹ˆë‹¤.";
+"TwÃ³j poziom jest za niski, aby mÃ³c nosiÄ‡ tÄ… fryzurÄ™.";
 
-"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Masz ju¿ tak¹ fryzurê.";
+"ë™ì¼í•œ ë¨¸ë¦¬ ìŠ¤íƒ€ì¼ë¡œëŠ” êµì²´í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Masz juÅ¼ takÄ… fryzurÄ™.";
 
-"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
-"Jesteœ ju¿ przemieniony.";
+"ì´ë¯¸ ë‘”ê°‘ì¤‘ì¸ ìƒíƒœì…ë‹ˆë‹¤.";
+"JesteÅ› juÅ¼ przemieniony.";
 
-"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
-"Jesteœ za daleko.";
+"ë„ˆë¬´ ë©€ë¦¬ ìˆìŠµë‹ˆë‹¤";
+"JesteÅ› za daleko.";
 
-"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"To jest z³y przedmiot na handel.";
+"ì˜ëª»ëœ ë‘”ê°‘ ì•„ì´í…œì…ë‹ˆë‹¤.";
+"To jest zí€‰ przedmiot na handel.";
 
-"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz siê przemieniæ w postaæ, która ma wy¿szy poziom od Ciebie.";
+"ë‚˜ë³´ë‹¤ ë„ˆë¬´ ë†’ì€ ë ˆë²¨ì˜ ëª¬ìŠ¤í„°ë¡œëŠ” ë³€ì‹  í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz siÄ™ przemieniÄ‡ w postaÄ‡, ktÃ³ra ma wyÅ¼szy poziom od Ciebie.";
 
-"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Twój poziom jest za niski, aby wyposa¿yæ siê w ten przedmiot.";
+"ë ˆë²¨ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TwÃ³j poziom jest za niski, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie jesteœ wystarczaj¹co silny, aby wyposa¿yæ siê w ten przedmiot.";
+"ê·¼ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie jesteÅ› wystarczajÄ…co silny, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Twój poziom Inteligencji jest za niski, aby wyposa¿yæ siê w ten przedmiot.";
+"ì§€ëŠ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TwÃ³j poziom Inteligencji jest za niski, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Masz za nisk¹ Zrêcznoœæ, aby wyposa¿yæ siê w ten przedmiot.";
+"ë¯¼ì²©ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Masz za niskÄ… ZrÄ™cznoÅ›Ä‡, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Twoja Witalnoœæ jest za niska, aby wyposa¿yæ siê w ten przedmiot.";
+"ì²´ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Twoja WitalnoÅ›Ä‡ jest za niska, aby wyposaÅ¼yÄ‡ siÄ™ w ten przedmiot.";
 
-"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ tego przedmiotu, poniewa¿ nie jesteœ w zwi¹zku ma³¿eñskim.";
+"ê²°í˜¼í•˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ ì˜ˆë¬¼ì„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ tego przedmiotu, poniewaÅ¼ nie jesteÅ› w zwiÄ…zku maÅ‚Å¼eÅ„skim.";
 
-"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz za³o¿yæ tego przedmiotu dwukrotnie.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ìœ ë‹ˆí¬ ì•„ì´í…œ ë‘ ê°œë¥¼ ë™ì‹œì— ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz zaÅ‚oÅ¼yÄ‡ tego przedmiotu dwukrotnie.";
 
-"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
-"Pozosta³y czas do usuniêcia Kieszeni %s: %d";
+"%s ì—ì„œ ì†Œì¼“ ë¹ ì§ˆë•Œê¹Œì§€ ë‚¨ì€ ì‹œê°„ %d";
+"PozostaÅ‚y czas do usuniÄ™cia Kieszeni %s: %d";
 
-"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ta akcja mo¿e zostaæ wykonana tylko z inn¹ p³ci¹.";
+"ì´ì„±ê°„ì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ta akcja moÅ¼e zostaÄ‡ wykonana tylko z innÄ… pÅ‚ciÄ….";
 
-"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
-"Z %s znikn¹³ klejnot.";
+"%sì— ë°•í˜€ìˆë˜ ë³´ì„ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Z %s zniknë­„ klejnot.";
 
-"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ì´ë¦„ì´ ì í•©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "[Gildia] Nazwa gildii jest niepoprawna.";
 
-"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
-"[Gildia] Ta nazwa jest ju¿ zajêta.";
+"<ê¸¸ë“œ> ì´ë¯¸ ê°™ì€ ì´ë¦„ì˜ ê¸¸ë“œê°€ ìˆìŠµë‹ˆë‹¤.";
+"[Gildia] Ta nazwa jest juÅ¼ zajÄ™ta.";
 
-"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz stworzyæ gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz stworzyÄ‡ gildii.";
 
-"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
-"Gildia %s wypowiedzia³a wojnê Gildii %s!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì— ì„ ì „í¬ê³ ë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"Gildia %s wypowiedziaÅ‚a wojnÄ™ Gildii %s!";
 
-"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
-"[Gildia] %s odrzuci³a wojnê gildii.";
+"<ê¸¸ë“œ> %s ê¸¸ë“œê°€ ê¸¸ë“œì „ì„ ê±°ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Gildia] %s odrzuciÅ‚a wojnÄ™ gildii.";
 
-"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
-"Wojna pomiêdzy gildiami %s i %s rozpocznie siê za kilka sekund!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì ì‹œ í›„ ì „ìŸì„ ì‹œì‘í•©ë‹ˆë‹¤!";
+"Wojna pomiÄ™dzy gildiami %s i %s rozpocznie siÄ™ za kilka sekund!";
 
-"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
-"Wojna pomiêdzy Gildiami %s oraz %s rozpoczêta!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì „ìŸì„ ì‹œì‘í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"Wojna pomiÄ™dzy Gildiami %s oraz %s rozpoczÄ™ta!";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
-"Wojna pomiêdzy Gildiami %s oraz %s zakoñczona remisem.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ë¬´ìŠ¹ë¶€ë¡œ ëë‚¬ìŠµë‹ˆë‹¤.";
+"Wojna pomiÄ™dzy Gildiami %s oraz %s zakoÅ„czona remisem.";
 
-"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
-"Gildia %s wygra³a wojnê przeciwko Gildii %s.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì™€ì˜ ì „ìŸì—ì„œ ìŠ¹ë¦¬ í–ˆìŠµë‹ˆë‹¤.";
+"Gildia %s wygraÅ‚a wojnÄ™ przeciwko Gildii %s.";
 
-"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
+"ì´ í–‰ë™ì€ ìƒí˜¸ë™ì˜ í•˜ì— ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
 "Potrzebujesz potwierdzenia partnera do tego.";
 
-"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"[Gildia] Wojna gildii zosta³a anulowana.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Gildia] Wojna gildii zostaì¿ª anulowana.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
-"Wojna pomiêdzy Gildiami %s oraz %s zosta³a anulowana.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Wojna pomiÄ™dzy Gildiami %s oraz %s zostaÅ‚a anulowana.";
 
-"´İ±â";
+"ë‹«ê¸°";
 "Zamknij";
 
-"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Akcja anulowana. Bitwa zosta³a rozpoczêta.";
+"ì „íˆ¬ê°€ ì‹œì‘ ë˜ì–´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Akcja anulowana. Bitwa zostaÅ‚a rozpoczÄ™ta.";
 
-"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
-"Ktoœ zalogowa³ siê na Twoje konto. Zostaniesz roz³¹czony.";
+"ë‹¤ë¥¸ ì»´í“¨í„°ì—ì„œ ë¡œê·¸ì¸ í•˜ì—¬ ì ‘ì†ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤.";
+"KtoÅ› zalogowaÅ‚ siÄ™ na Twoje konto. Zostaniesz rozÅ‚Ä…czony.";
 
-"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Tajemnicze œwiat³o dobiega z drzewa.";
+"ë‚˜ë¬´ì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Tajemnicze ì—iatì¿½ dobiega z drzewa.";
 
-"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
-"Czas gry ( %d ) dodany do Twojego konta. (Numer p³atnoœci %d)";
+"%dë¶„ì˜ ê²°ì œì‹œê°„ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. (ê²°ì œë²ˆí˜¸ %d)";
+"Czas gry ( %d ) dodany do Twojego konta. (Numer pì¿ªtnoìi %d)";
 
-"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"Mo¿esz uczestniczyæ w Bitwie Gildii jako Obserwator.";
+"ê´€ì „ ëª¨ë“œë¡œ ê¸¸ë“œì „ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"MoÅ¼esz uczestniczyÄ‡ w Bitwie Gildii jako Obserwator.";
 
-"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
-"Po zaznaczeniu postaci pojawi siê guzik do Zakoñczenia Obserwacji.";
+"ìì‹ ì„ ì„ íƒí•˜ì‹œë©´ ë°–ìœ¼ë¡œ ë‚˜ê°ˆ ìˆ˜ ìˆëŠ” <ê´€ëŒ ì¢…ë£Œ> ë²„íŠ¼ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Po zaznaczeniu postaci pojawi siÄ™ guzik do ZakoÅ„czenia Obserwacji.";
 
-"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
-"Nie ma ¿adnych przeciwników.";
+"ê¸¸ë“œì „ì— ì°¸ê°€í•œ ìƒëŒ€ë°© ê¸¸ë“œì›ì´ ì•„ë¬´ë„ ì—†ìŠµë‹ˆë‹¤.";
+"Nie ma Å¼adnych przeciwnikÃ³w.";
 
-"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
-"Pojedynek z %s rozpoczêty!";
+"%së‹˜ê³¼ì˜ ëŒ€ê²° ì‹œì‘!";
+"Pojedynek z %s rozpoczÄ™ty!";
 
-"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
-"Jeœli nie ma przeciwników, wojna Gildii zakoñczy siê automatycznie.";
+"1ë¶„ ì´ë‚´ì— ì•„ë¬´ë„ ì ‘ì†í•˜ì§€ ì•Šìœ¼ë©´ ê¸¸ë“œì „ì´ ìë™ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"JeÅ›li nie ma przeciwnikÃ³w, wojna Gildii zakoÅ„czy siÄ™ automatycznie.";
 
-"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
-"Jako ¿e wojna Gildii zakoñczy³a siê przed czasem, zostanie uznana jako remis.";
+"ê¸¸ë“œì „ì´ ì¼ì° ì¢…ë£Œë˜ì–´ ë¬´ìŠ¹ë¶€ë¡œ íŒì • ë˜ì—ˆìŠµë‹ˆë‹¤. (5ë¶„ì´ ì§€ë‚˜ì§€ ì•ŠìŒ)";
+"Jako Å¼e wojna Gildii zakoÅ„czyÅ‚a siÄ™ przed czasem, zostanie uznana jako remis.";
 
-"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
-"Energia zosta³a odbita z powodu B³ogos³awieñstwa Imperatora.";
+"êµ°ì£¼ê°€ ë‚´ë¦° ì¶•ë³µìœ¼ë¡œ ëª¨ë“  ì—ë„ˆì§€ê°€ ê°€ë“ ì±„ì›Œì§‘ë‹ˆë‹¤";
+"Energia zostaÅ‚a odbita z powodu BÅ‚ogosÅ‚awieÅ„stwa Imperatora.";
 
-"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
-"Po %d sekundach mo¿esz u¿yæ B³ogos³awieñstwa Imperatora.";
+"%d ì´ˆ í›„ì— êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Po %d sekundach moÅ¼esz uÅ¼yÄ‡ BÅ‚ogosÅ‚awieÅ„stwa Imperatora.";
 
-"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
-"Po %d sekundach mo¿esz u¿yæ B³ogos³awieñstwa Imperatora.";
+"ì¿¨íƒ€ì„ ì ìš©ì¤‘  %d í›„ ì‚¬ìš©ê°€ëŠ¥";
+"Po %d sekundach moÅ¼esz uÅ¼yÄ‡ BÅ‚ogosÅ‚awieÅ„stwa Imperatora.";
 
-"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
-"Za ma³y przychód z podatków : %d";
+"êµ­ê³ ì— ìê¸ˆì´ ëª¨ìëë‹ˆë‹¤ êµ­ê³  : %d ";
+"Za maÅ‚y przychÃ³d z podatkÃ³w : %d";
 
-"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
+"[TEST_ONLY]í˜„ì¬ êµ­ê³  : %d ";
 "[TEST_ONLY] Podatek: %d";
 
-"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
-"B³¹d podczas przemiany.";
+"ë‘”ê°‘ì— ì‹¤íŒ¨ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"Bë‚±d podczas przemiany.";
 
-"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
-"Ca³kowicie nauczy³eœ siê przekszta³cania.";
+"ë‘”ê°‘ì„œ ìˆ˜ë ¨ì„ ë§ˆì²¬ìŠµë‹ˆë‹¤. ì‹ ì„ ì—ê²Œ ì°¾ì•„ê°€ì„¸ìš”.";
+"CaÅ‚kowicie nauczyÅ‚eÅ› siÄ™ przeksztaÅ‚cania.";
 
-"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
-"Najpierw zawo³aj swojego konia.";
+"ë§ì„ ë¨¼ì € ì†Œí™˜í•´ì£¼ì„¸ìš”.";
+"Najpierw zawoì¿ªj swojego konia.";
 
-"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
-"Odes³a³eœ swojego konia.";
+"ë§ì„ ëŒë ¤ë³´ëƒˆìŠµë‹ˆë‹¤.";
+"OdesÅ‚aÅ‚eÅ› swojego konia.";
 
-"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
-"%s wyzwa³ Ciê na pojedynek!";
+"%së‹˜ì´ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤. ìŠ¹ë‚™í•˜ë ¤ë©´ ëŒ€ê²°ë™ì˜ë¥¼ í•˜ì„¸ìš”.";
+"%s wyzwaÅ‚ CiÄ™ na pojedynek!";
 
-"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
-"Musisz zejœæ z konia.";
+"ë§ì—ì„œ ë¨¼ì € ë‚´ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Musisz zejì’ z konia.";
 
-"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz karmiæ konia podczas siedzenia na nim.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œëŠ” ë¨¹ì´ë¥¼ ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz karmiÄ‡ konia podczas siedzenia na nim.";
 
-"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
-"Nakarmi³eœ konia (%s%s).";
+"ë§ì—ê²Œ %s%s ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"NakarmiÅ‚eÅ› konia (%s%s).";
 
-"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
+"%s ì•„ì´í…œì´ í•„ìš”í•©ë‹ˆë‹¤";
 "Potrzebujesz %s.";
 
-"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d sekund do wy³¹czenia.";
+"ì…§ë‹¤ìš´ì´ %dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d sekund do wyë‚±czenia.";
 
-"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
-"Gra zostanie zamkniêta po %d sekundach.";
+"%dì´ˆ í›„ ê²Œì„ì´ ì…§ë‹¤ìš´ ë©ë‹ˆë‹¤.";
+"Gra zostanie zamkniÄ™ta po %d sekundach.";
 
-"%dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d sekund do wy³¹czenia.";
+"%dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d sekund do wyë‚±czenia.";
 
-"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Wylogowanie zosta³o anulowane.";
+"ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Wylogowanie zostaì¿½ anulowane.";
 
-"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Powrót do okna logowania. Proszê czekaæ.";
+"ë¡œê·¸ì¸ í™”ë©´ìœ¼ë¡œ ëŒì•„ ê°‘ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"PowrÃ³t do okna logowania. ProszÄ™ czekaÄ‡.";
 
-"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Zostaniesz roz³¹czony z serwerem. Proszê czekaæ.";
+"ê²Œì„ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Zostaniesz rozÅ‚Ä…czony z serwerem. ProszÄ™ czekaÄ‡.";
 
-"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
-"Wyzwa³eœ %s na pojedynek.";
+"%sì—ê²Œ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"WyzwaÅ‚eÅ› %s na pojedynek.";
 
-"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Zmieni³eœ postaæ. Proszê czekaæ.";
+"ìºë¦­í„°ë¥¼ ì „í™˜ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"ZmieniÅ‚eÅ› postaÄ‡. ProszÄ™ czekaÄ‡.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
-"Wznowienie jeszcze nie jest mo¿liwe. Odczekaj %d sekund.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%dì´ˆ ë‚¨ìŒ)";
+"Wznowienie jeszcze nie jest moí“„iwe. Odczekaj %d sekund.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
-"Wznowienie jeszcze nie jest mo¿liwe. Odczekaj %d sekund.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ)";
+"Wznowienie jeszcze nie jest moí“„iwe. Odczekaj %d sekund.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
-"Wznowienie jeszcze nie jest mo¿liwe. Odczekaj %d sekund.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ )";
+"Wznowienie jeszcze nie jest moí“„iwe. Odczekaj %d sekund.";
 
-"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
-"Wznowienie w mieœcie jeszcze nie jest mo¿liwe. Odczekaj %d sekund.";
+"ì•„ì§ ë§ˆì„ì—ì„œ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%d ì´ˆ ë‚¨ìŒ)";
+"Wznowienie w mieìie jeszcze nie jest moí“„iwe. Odczekaj %d sekund.";
 
-"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
-"Min¹³ czas oczekiwania. Zostaniesz wskrzeszony w mieœcie.";
+"ì„±ì§€ì—ì„œ ë¶€í™œ ê¸°íšŒë¥¼ ëª¨ë‘ ìƒì—ˆìŠµë‹ˆë‹¤! ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤!";
+"Minë­„ czas oczekiwania. Zostaniesz wskrzeszony w mieìie.";
 
-"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz zmieniæ swojego stanu, gdy jesteœ przemieniony.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ëŠ¥ë ¥ì„ ì˜¬ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz zmieniÄ‡ swojego stanu, gdy jesteÅ› przemieniony.";
 
-"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
-"Gracz bierze udzia³ w walce.";
+"ìƒëŒ€ë°©ì´ ëŒ€ë ¨ì¤‘ì…ë‹ˆë‹¤.";
+"Gracz bierze udziaÅ‚ w walce.";
 
-"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"[Gildia] To nie nale¿y do gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Gildia] To nie naleí““ do gildii.";
 
-"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zmieniæ poziomu umiejêtnoœci gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ ë ˆë²¨ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zmieniÄ‡ poziomu umiejÄ™tnoÅ›ci gildii.";
 
-"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
-"Twój wybór jest b³êdny.";
+"ì˜ëª»ëœ ì„ íƒì„ í–ˆìŠµë‹ˆë‹¤";
+"TwÃ³j wybÃ³r jest bÅ‚Ä™dny.";
 
-"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
-"[Magazyn] Poda³eœ z³e has³o.";
+"<ì°½ê³ > ì˜ëª»ëœ ì•”í˜¸ë¥¼ ì…ë ¥í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Magazyn] PodaÅ‚eÅ› zÅ‚e hasÅ‚o.";
 
-"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
-"[Magazyn] Magazyn jest ju¿ otwarty.";
+"<ì°½ê³ > ì°½ê³ ê°€ ì´ë¯¸ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"[Magazyn] Magazyn jest juÅ¼ otwarty.";
 
-"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Magazyn] Musisz odczekaæ 10 sekund zanim otworzysz Magazyn ponownie.";
+"<ì°½ê³ > ì°½ê³ ë¥¼ ë‹«ì€ì§€ 10ì´ˆ ì•ˆì—ëŠ” ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Magazyn] Musisz odczekaÄ‡ 10 sekund zanim otworzysz Magazyn ponownie.";
 
-"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Magazyn] Odleg³oœæ pomiêdzy Tob¹ a magazynem jest zbyt du¿a, aby go otworzyæ.";
+"<ì°½ê³ > ê±°ë¦¬ê°€ ë©€ì–´ì„œ ì°½ê³ ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Magazyn] OdlegÅ‚oÅ›Ä‡ pomiÄ™dzy TobÄ… a magazynem jest zbyt duÅ¼a, aby go otworzyÄ‡.";
 
-"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Serwer nie mo¿e wykonaæ ¿¹dania Grupy.";
+"<íŒŒí‹°> ì„œë²„ ë¬¸ì œë¡œ íŒŒí‹° ê´€ë ¨ ì²˜ë¦¬ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Serwer nie moÅ¼e wykonaÄ‡ Å¼Ä…dania Grupy.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz opuœciæ Grupy podczas przebywania w Lochu.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz opuÅ›ciÄ‡ Grupy podczas przebywania w Lochu.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
-"[Grupa] Opuœci³eœ grupê.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ë‚˜ê°€ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] OpuÅ›ciÅ‚eÅ› grupÄ™.";
 
-"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
-"[Gildia] Twoja gildia w tym momencie jest zaanga¿owana w inn¹ wojnê.";
+"<ê¸¸ë“œ> ì´ë¯¸ ë‹¤ë¥¸ ì „ìŸì— ì°¸ì „ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Gildia] Twoja gildia w tym momencie jest zaangaÅ¼owana w innÄ… wojnÄ™.";
 
-"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nikt nie ma uprawnieñ do wojen gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì— ëŒ€í•œ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nikt nie ma uprawnieÅ„ do wojen gildii.";
 
-"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê·¸ëŸ° ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
 "[Gildia] Gildia o tej nazwie nie istnieje.";
 
-"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
-"Ju¿ jest kandydatura";
+"ì´ë¯¸ ì…í›„ë³´ë˜ì–´ìˆìŠµë‹ˆë‹¤";
+"JuÅ¼ jest kandydatura";
 
-"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Gildia] Ta gildia jest ju¿ zaanga¿owana w inn¹ wojnê.";
+"ì´ë¯¸ ì„ ì „í¬ê³  ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Gildia] Ta gildia jest juÅ¼ zaangaÅ¼owana w innÄ… wojnÄ™.";
 
-"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Nie ma wystarczaj¹cej iloœci Yang, aby uczestniczyæ w wojnie gildii.";
+"<ê¸¸ë“œ> ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie ma wystarczajÄ…cej iloÅ›ci Yang, aby uczestniczyÄ‡ w wojnie gildii.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Gildia nie posiada wystarczaj¹cej iloœci Yang by uczestniczyæ w wojnie gildii.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Gildia nie posiada wystarczajÄ…cej iloÅ›ci Yang by uczestniczyÄ‡ w wojnie gildii.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
-"[Gildia] Ta gildia jest ju¿ zapisana do innej wojny gildii.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸì´ ì˜ˆì•½ëœ ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"[Gildia] Ta gildia jest juÅ¼ zapisana do innej wojny gildii.";
 
-"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œê°€ ì´ë¯¸ ì „ìŸ ì¤‘ ì…ë‹ˆë‹¤.";
 "[Gildia] Ta gildia aktualnie uczestniczy w innej wojnie.";
 
-"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
-"[Gildia] Przynajmniej %d graczy musi uczestniczyæ w wojnie gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì„ í•˜ê¸° ìœ„í•´ì„  ìµœì†Œí•œ %dëª…ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.";
+"[Gildia] Przynajmniej %d graczy musi uczestniczyÄ‡ w wojnie gildii.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Ta gildia nie posiada wystarczaj¹cej liczby punktów rankingu, aby uczestniczyæ w wojnie gildii.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Ta gildia nie posiada wystarczajÄ…cej liczby punktÃ³w rankingu, aby uczestniczyÄ‡ w wojnie gildii.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Gildia nie posiada wystarczaj¹co du¿o cz³onków, aby uczestniczyæ w wojnie gildii.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì› ìˆ˜ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Gildia nie posiada wystarczajÄ…co duÅ¼o czÅ‚onkÃ³w, aby uczestniczyÄ‡ w wojnie gildii.";
 
-"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Twój poziom musi byæ wy¿szy ni¿ 20, aby zapisaæ numer telefonu komórkowego.";
+"ë ˆë²¨ 20 ì´í•˜ëŠ” í•¸ë“œí° ë²ˆí˜¸ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TwÃ³j poziom musi byÄ‡ wyÅ¼szy niÅ¼ 20, aby zapisaÄ‡ numer telefonu komÃ³rkowego.";
 
-"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
-"Nie nadajesz siê na Imperatora.";
+"êµ°ì£¼ì˜ ìê²©ì„ ê°€ì§€ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Nie nadajesz siÄ™ na Imperatora.";
 
-"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
-"%s odrzuci³ zaproszenie.";
+"%s ë‹˜ìœ¼ë¡œ ë¶€í„° ì¹œêµ¬ ë“±ë¡ì„ ê±°ë¶€ ë‹¹í–ˆìŠµë‹ˆë‹¤.";
+"%s odrzuciÅ‚ zaproszenie.";
 
-"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz przyj¹æ zaproszenia, poniewa¿ jesteœ ju¿ w Grupie.";
+"ì´ë¯¸ íŒŒí‹°ì— ì†í•´ ìˆìœ¼ë¯€ë¡œ ê°€ì…ì‹ ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz przyjÄ…Ä‡ zaproszenia, poniewaÅ¼ jesteÅ› juÅ¼ w Grupie.";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Tylko Imperator mo¿e tego u¿yæ.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©ê°€ëŠ¥ í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Tylko Imperator moÅ¼e tego uÅ¼yÄ‡.";
 
-"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
-"Regeneracja oko³o %d sekund.";
+"%d ì´ˆê°„ ì¿¨íƒ€ì„ì´ ì ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"Regeneracja okoì¿½ %d sekund.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
-"Brakuje podatków. Aktualny kapita³ : %u Brakuj¹cy kapita³ : %u";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤. í˜„ì¬ : %lu í•„ìš”ê¸ˆì•¡ : %lu";
+"Brakuje podatkÃ³w. Aktualny kapitaÅ‚ : %u BrakujÄ…cy kapitaÅ‚ : %u";
 
-"»ç¿ë¹ı: warpto <character name>";
+"ì‚¬ìš©ë²•: warpto <character name>";
 "Rozkaz: warpto <character name>";
 
-"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nie mo¿esz przenieœæ siê do nieznanego gracza.";
+"íƒ€ì œêµ­ ìœ ì €ì—ê²ŒëŠ” ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼esz przenieÅ›Ä‡ siÄ™ do nieznanego gracza.";
 
-"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Dodawanie gracza %d do kana³u. (Aktualny kana³ %d)";
+"í•´ë‹¹ ìœ ì €ëŠ” %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"Dodawanie gracza %d do kanaÅ‚u. (Aktualny kanaÅ‚ %d)";
 
-"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
+"%s ì—ê²Œë¡œ ì´ë™í•©ë‹ˆë‹¤";
 "Teleport do %s.";
 
-"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nie mo¿esz przenosiæ nieznanych graczy.";
+"íƒ€ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼esz przenosiÄ‡ nieznanych graczy.";
 
-"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Podczas wojny gildii nie otrzymuje siê Punktów Doœwiadczenia z polowania.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì¤‘ì—ëŠ” ì‚¬ëƒ¥ì— ë”°ë¥¸ ì´ìµì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Podczas wojny gildii nie otrzymuje siÄ™ PunktÃ³w DoÅ›wiadczenia z polowania.";
 
-"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
-"Gdy B³ogos³awieñstwo Imperatora jest u¿yte, przywraca ponownie %s punktów P¯ i PE.";
+"êµ°ì£¼ì˜ ì¶•ë³µìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” HP,SPê°€ ëª¨ë‘ ì±„ì›Œì§‘ë‹ˆë‹¤.";
+"Gdy BÅ‚ogosÅ‚awieÅ„stwo Imperatora jest uÅ¼yte, przywraca ponownie %s punktÃ³w PÅ» i PE.";
 
-"³ªÀÇ ±ºÁÖ Á¤º¸";
+"ë‚˜ì˜ êµ°ì£¼ ì •ë³´";
 "Informacje Mojego Imperatora";
 
-"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
+"[%sêµ°ì£¼] : %s  ë³´ìœ ê¸ˆì•¡ %lld ";
 "[Monarcha %s] : %s Posiadanie Yang %lld";
 
-"[%s±ºÁÖ] : %s  ";
+"[%sêµ°ì£¼] : %s  ";
 "[Monarcha %s] : %s";
 
-"±ºÁÖ Á¤º¸";
+"êµ°ì£¼ ì •ë³´";
 "Informacje Imperatora";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
-"Tylko Imperator mo¿e tego u¿yæ";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©í• ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Tylko Imperator moÅ¼e tego uÅ¼yÄ‡";
 
-"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
-"Wybierz liczbê pomiêdzy 1 a 50.";
+"1-50 ì‚¬ì´ì˜ ìˆ˜ì¹˜ë¥¼ ì„ íƒí•´ì£¼ì„¸ìš”";
+"Wybierz liczbÄ™ pomiÄ™dzy 1 a 50.";
 
-"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
-"Potwór nie mo¿e byæ przywo³any. SprawdŸ numer Potwora.";
+"ì†Œí™˜í• ìˆ˜ ì—†ëŠ” ëª¬ìŠ¤í„° ì…ë‹ˆë‹¤. ì†Œí™˜ê°€ëŠ¥í•œ ëª¬ìŠ¤í„°ëŠ” í™ˆí˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”";
+"PotwÃ³r nie moÅ¼e byÄ‡ przywoÅ‚any. SprawdÅº numer Potwora.";
 
-"ÃÖ´ë »ı¸í·Â +%d";
-"Punkty ¯ycia +%d";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d";
+"Punkty ì¹ªcia +%d";
 
-"ÃÖ´ë Á¤½Å·Â +%d";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d";
 "Punkty Energii +%d";
 
-"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
-"B³ogos³awieñstwo Imperatora jest aktywne.";
+"êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"BÅ‚ogosÅ‚awieÅ„stwo Imperatora jest aktywne.";
 
-"Ã¼·Â +%d";
-"Wytrzyma³oœæ +%d";
+"ì²´ë ¥ +%d";
+"Wytrzymaì¿½ì’ +%d";
 
-"Áö´É +%d";
+"ì§€ëŠ¥ +%d";
 "Inteligencja +%d";
 
-"±Ù·Â +%d";
-"Si³a +%d";
+"ê·¼ë ¥ +%d";
+"Siì¿ª +%d";
 
-"¹ÎÃ¸ +%d";
-"Zrêcznoœæ +%d";
+"ë¯¼ì²© +%d";
+"ZrÄ™cznoÅ›Ä‡ +%d";
 
-"°ø°İ¼Óµµ +%d";
-"Szybkoœæ Ataku +%d";
+"ê³µê²©ì†ë„ +%d";
+"Szybkoì’ Ataku +%d";
 
-"ÀÌµ¿¼Óµµ %d";
-"Szybkoœæ Ruchu %d";
+"ì´ë™ì†ë„ %d";
+"Szybkoì’ Ruchu %d";
 
-"ÄğÅ¸ÀÓ -%d";
+"ì¿¨íƒ€ì„ -%d";
 "Czas wypoczynku -%d";
 
-"»ı¸í·Â È¸º¹ +%d";
+"ìƒëª…ë ¥ íšŒë³µ +%d";
 "Odnawianie Energii +%d";
 
-"Á¤½Å·Â È¸º¹ +%d";
+"ì •ì‹ ë ¥ íšŒë³µ +%d";
 "Odnawianie Many +%d";
 
-"µ¶°ø°İ %d";
+"ë…ê³µê²© %d";
 "Atak Trucizny %d";
 
-"½ºÅÏ +%d";
+"ìŠ¤í„´ +%d";
 "Gwiazda +%d";
 
-"½½·Î¿ì +%d";
-"Redukcja Szybkoœci +%d";
+"ìŠ¬ë¡œìš° +%d";
+"Redukcja Szybkoìi +%d";
 
-"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
+"%d%% í™•ë¥ ë¡œ ì¹˜ëª…íƒ€ ê³µê²©";
 "Szansa na Krytyczny Atak %d%%";
 
-"%d%% È®·ü·Î °üÅë °ø°İ";
-"Szansa na Przeszywaj¹cy Atak od %d%%";
+"%d%% í™•ë¥ ë¡œ ê´€í†µ ê³µê²©";
+"Szansa na Przeszywají‰y Atak od %d%%";
 
-"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Si³a Ataku Gracza przeciwko Potworom +%d%%";
+"ì¸ê°„ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"Siì¿ª Ataku Gracza przeciwko Potworom +%d%%";
 
-"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Si³a Ataku Konia przeciwko Potworom +%d%%";
+"ë™ë¬¼ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"Siì¿ª Ataku Konia przeciwko Potworom +%d%%";
 
-"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
+"ì›…ê·€ì¡± íƒ€ê²©ì¹˜ +%d%%";
 "Wzmocnienie ataku przeciwko Wonggui + %d%%";
 
-"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
+"ë°€êµë¥˜ íƒ€ê²©ì¹˜ +%d%%";
 "Wzmocnienie ataku przeciwko Mistykom + %d%%";
 
-"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
-"Wzmocnienie ataku przeciwko Nieumar³ym + %d%%";
+"ì‹œì²´ë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"Wzmocnienie ataku przeciwko Nieumarí€‰m + %d%%";
 
-"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
-"Wzmocnienie ataku przeciwko Diab³om + %d%%";
+"ì•…ë§ˆë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"Wzmocnienie ataku przeciwko Diabì¿½m + %d%%";
 
-"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Dziêki Imperatorowi Sa-Za-Hu, gracz %s otrzymuje 10%% wiêcej si³y ataku przez 3 minuty.";
+"êµ°ì£¼ì˜ ì‚¬ìí›„ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ê³µê²©ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"DziÄ™ki Imperatorowi Sa-Za-Hu, gracz %s otrzymuje 10%% wiÄ™cej siÅ‚y ataku przez 3 minuty.";
 
-"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
-"Poch³anianie Energii %d%% podczas ataku.";
+"íƒ€ê²©ì¹˜ %d%% ë¥¼ ìƒëª…ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"Pochì¿ªnianie Energii %d%% podczas ataku.";
 
-"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
-"Poch³anianie Many %d%% podczas ataku.";
+"íƒ€ë ¥ì¹˜ %d%% ë¥¼ ì •ì‹ ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"Pochì¿ªnianie Many %d%% podczas ataku.";
 
-"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
-"Z szans¹ %d%% Many zostanie zabranej od wroga.";
+"%d%% í™•ë¥ ë¡œ íƒ€ê²©ì‹œ ìƒëŒ€ ì „ì‹ ë ¥ ì†Œëª¨";
+"Z szansÄ… %d%% Many zostanie zabranej od wroga.";
 
-"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
-"Absorbowanie Many z szans¹ %d%% .";
+"%d%% í™•ë¥ ë¡œ í”¼í•´ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Absorbowanie Many z szansÄ… %d%% .";
 
-"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
-"%d%% szans na blok ataku z bliskiej odleg³oœci.";
+"ë¬¼ë¦¬íƒ€ê²©ì‹œ ë¸”ëŸ­ í™•ë¥  %d%%";
+"%d%% szans na blok ataku z bliskiej odlegì¿½ìi.";
 
-"È° °ø°İ È¸ÇÇ È®·ü %d%%";
+"í™œ ê³µê²© íšŒí”¼ í™•ë¥  %d%%";
 "%d%% szans na blok ataku dystansowego";
 
-"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
-"Odpornoœæ na Miecze %d%%";
+"í•œì†ê²€ ë°©ì–´ %d%%";
+"Odpornoì’ na Miecze %d%%";
 
-"¾ç¼Õ°Ë ¹æ¾î %d%%";
-"Odpornoœæ na Broñ Dwurêczn¹ %d%%";
+"ì–‘ì†ê²€ ë°©ì–´ %d%%";
+"OdpornoÅ›Ä‡ na BroÅ„ DwurÄ™cznÄ… %d%%";
 
-"µÎ¼Õ°Ë ¹æ¾î %d%%";
-"Odpornoœæ na Broñ Dwurêczn¹ %d%%";
+"ë‘ì†ê²€ ë°©ì–´ %d%%";
+"OdpornoÅ›Ä‡ na BroÅ„ DwurÄ™cznÄ… %d%%";
 
-"¹æ¿ï ¹æ¾î %d%%";
-"Odpornoœæ na Dzwony %d%%";
+"ë°©ìš¸ ë°©ì–´ %d%%";
+"Odpornoì’ na Dzwony %d%%";
 
-"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Dziêki Imperatorowi Geum-Gang-Gwon, gracz %s otrzymuje 10%% wiêcej obrony przez 3 minuty.";
+"êµ°ì£¼ì˜ ê¸ˆê°•ê¶Œ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ë°©ì–´ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"DziÄ™ki Imperatorowi Geum-Gang-Gwon, gracz %s otrzymuje 10%% wiÄ™cej obrony przez 3 minuty.";
 
-"ºÎÃ¤ ¹æ¾î %d%%";
-"Odpornoœæ na Wachlarze %d%%";
+"ë¶€ì±„ ë°©ì–´ %d%%";
+"Odpornoì’ na Wachlarze %d%%";
 
-"È°°ø°İ ÀúÇ× %d%%";
-"Odpornoœæ na Atak z odleg³oœci %d%%";
+"í™œê³µê²© ì €í•­ %d%%";
+"Odpornoì’ na Atak z odlegì¿½ìi %d%%";
 
-"È­¿° ÀúÇ× %d%%";
-"Odpornoœæ na Ogieñ %d%%";
+"í™”ì—¼ ì €í•­ %d%%";
+"OdpornoÅ›Ä‡ na OgieÅ„ %d%%";
 
-"Àü±â ÀúÇ× %d%%";
-"Odpornoœæ na B³yskawice %d%%";
+"ì „ê¸° ì €í•­ %d%%";
+"Odpornoì’ na Bí€‰skawice %d%%";
 
-"¸¶¹ı ÀúÇ× %d%%";
-"Odpornoœæ na Magiê %d%%";
+"ë§ˆë²• ì €í•­ %d%%";
+"OdpornoÅ›Ä‡ na MagiÄ™ %d%%";
 
-"¹Ù¶÷ ÀúÇ× %d%%";
-"Odpornoœæ na Wiatr %d%%";
+"ë°”ëŒ ì €í•­ %d%%";
+"Odpornoì’ na Wiatr %d%%";
 
-"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
-"Odbicie bezpoœredniego uderzenia: %d%%";
+"ì§ì ‘ íƒ€ê²©ì¹˜ ë°˜ì‚¬ í™•ë¥  : %d%%";
+"Odbicie bezpoì’edniego uderzenia: %d%%";
 
-"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
-"Odbicie Kl¹twy: %d%%";
+"ì €ì£¼ ë˜ëŒë¦¬ê¸° í™•ë¥  %d%%";
+"Odbicie Klí‰¡wy: %d%%";
 
-"µ¶ ÀúÇ× %d%%";
-"Odpornoœæ na Trucizny %d%%";
+"ë… ì €í•­ %d%%";
+"Odpornoì’ na Trucizny %d%%";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
-"Jeœli wygrasz, Mana zostanie podniesiona do %d%%";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"Jeì‹i wygrasz, Mana zostanie podniesiona do %d%%";
 
-"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
-"Wydarzenie ju¿ trwa. (Flag: %d)";
+"OX ì´ë²¤íŠ¸ê°€ ì´ë¯¸ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤(flag: %d)";
+"Wydarzenie juÅ¼ trwa. (Flag: %d)";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
-"Jeœli wygrasz, Doœwiadczenie wzroœnie do %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ê²½í—˜ì¹˜ ì¶”ê°€ ìƒìŠ¹";
+"Jeì‹i wygrasz, Doì—iadczenie wzroìie do %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
-"Jeœli wygrasz, Yang wzrosn¹ do %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ëˆ 2ë°° ë“œë¡­";
+"JeÅ›li wygrasz, Yang wzrosnÄ… do %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
-"Jeœli wygrasz, Iloœæ przejêtych przedmiotów wzroœnie do %d%%.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì•„ì´í…œ 2ë°° ë“œë¡­";
+"JeÅ›li wygrasz, IloÅ›Ä‡ przejÄ™tych przedmiotÃ³w wzroÅ›nie do %d%%.";
 
-"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
-"Gdy weŸmiesz miksturê, Moc wzroœnie do %d%%.";
+"ë¬¼ì•½ ì‚¬ìš©ì‹œ %d%% ì„±ëŠ¥ ì¦ê°€";
+"Gdy weÅºmiesz miksturÄ™, Moc wzroÅ›nie do %d%%.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
-"%d%% szansa na uzupe³nienie Punktów Energii po zwyciêstwie.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ìƒëª…ë ¥ íšŒë³µ";
+"%d%% szansa na uzupeÅ‚nienie PunktÃ³w Energii po zwyciÄ™stwie.";
 
-"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
-"Brak Og³uszenia %d%%";
+"ê¸°ì ˆí•˜ì§€ ì•ŠìŒ %d%%";
+"Brak Ogí€…szenia %d%%";
 
-"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
+"ëŠë ¤ì§€ì§€ ì•ŠìŒ %d%%";
 "Brak Spowolnienia %d%%";
 
-"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
+"ë„˜ì–´ì§€ì§€ ì•ŠìŒ %d%%";
 "Brak Upadku %d%%";
 
-"°ø°İ·Â +%d";
-"Si³a Ataku +%d";
+"ê³µê²©ë ¥ +%d";
+"Siì¿ª Ataku +%d";
 
-"¹æ¾î·Â +%d";
+"ë°©ì–´ë ¥ +%d";
 "Obrona +%d";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
-"Pytanie OX nie zosta³o za³adowane.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì‹¤íŒ¨";
+"Pytanie OX nie zostaì¿½ zaì¿ªdowane.";
 
-"¸¶¹ı °ø°İ·Â +%d";
+"ë§ˆë²• ê³µê²©ë ¥ +%d";
 "Atak Magiczny +%d";
 
-"¸¶¹ı ¹æ¾î·Â +%d";
+"ë§ˆë²• ë°©ì–´ë ¥ +%d";
 "Obrona Magiczna +%d";
 
-"ÃÖ´ë Áö±¸·Â +%d";
-"Maksymalna Wytrzyma³oœæ +%d";
+"ìµœëŒ€ ì§€êµ¬ë ¥ +%d";
+"Maksymalna Wytrzymaì¿½ì’ +%d";
 
-"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
+"ë¬´ì‚¬ì—ê²Œ ê°•í•¨ +%d%%";
 "Silny przeciwko Wojownikom +%d%%";
 
-"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
+"ìê°ì—ê²Œ ê°•í•¨ +%d%%";
 "Silny przeciwko Ninja +%d%%";
 
-"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
+"ìˆ˜ë¼ì—ê²Œ ê°•í•¨ +%d%%";
 "Silny przeciwko Sura +%d%%";
 
-"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
+"ë¬´ë‹¹ì—ê²Œ ê°•í•¨ +%d%%";
 "Silny przeciwko Szamanom +%d%%";
 
-"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
+"ëª¬ìŠ¤í„°ì—ê²Œ ê°•í•¨ +%d%%";
 "Silny przeciwko Potworom +%d%%";
 
-"°ø°İ·Â +%d%%";
+"ê³µê²©ë ¥ +%d%%";
 "Atak +%d%%";
 
-"¹æ¾î·Â +%d%%";
+"ë°©ì–´ë ¥ +%d%%";
 "Obrona +%d%%";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
-"OX Quiz zosta³ za³adowany.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì„±ê³µ";
+"OX Quiz zostaÅ‚ zaÅ‚adowany.";
 
-"°æÇèÄ¡ %d%%";
-"Doœwiadczenie %d%%";
+"ê²½í—˜ì¹˜ %d%%";
+"Doì—iadczenie %d%%";
 
-"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
+"ì•„ì´í…œ ë“œë¡­ìœ¨ %.1fë°°";
 "Szansa na znalezienie przedmiotu %.1f";
 
-"µ· µå·ÓÀ² %.1f¹è";
+"ëˆ ë“œë¡­ìœ¨ %.1fë°°";
 "Szansa na znalezienie Yang %.1f";
 
-"ÃÖ´ë »ı¸í·Â +%d%%";
-"Górny limit Energii +%d%%";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d%%";
+"GÃ³rny limit Energii +%d%%";
 
-"ÃÖ´ë Á¤½Å·Â +%d%%";
-"Górny limit Energii +%d%%";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d%%";
+"GÃ³rny limit Energii +%d%%";
 
-"½ºÅ³ µ¥¹ÌÁö %d%%";
-"Obra¿enia Umiejêtnoœci %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ %d%%";
+"ObraÅ¼enia UmiejÄ™tnoÅ›ci %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö %d%%";
-"Obra¿enia Uderzeñ %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ %d%%";
+"ObraÅ¼enia UderzeÅ„ %d%%";
 
-"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Odpornoœæ na Obra¿enia Umiejêtnoœci %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"OdpornoÅ›Ä‡ na ObraÅ¼enia UmiejÄ™tnoÅ›ci %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Odpornoœæ na Trafienia %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"Odpornoì’ na Trafienia %d%%";
 
-"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Odpornoœæ na Ataki Wojownika";
+"ë¬´ì‚¬ê³µê²©ì— %d%% ì €í•­";
+"%d%% Odpornoì’ na Ataki Wojownika";
 
-"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
+"ì•ˆë…•í•˜ì„¸ìš”. ë©”í‹´2 ì…ë‹ˆë‹¤.";
 "Witamy w Metin2.";
 
-"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Odpornoœæ na Ataki Ninja";
+"ìê°ê³µê²©ì— %d%% ì €í•­";
+"%d%% Odpornoì’ na Ataki Ninja";
 
-"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Odpornoœæ na Ataki Sura";
+"ìˆ˜ë¼ê³µê²©ì— %d%% ì €í•­";
+"%d%% Odpornoì’ na Ataki Sura";
 
-"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Odpornoœæ na Ataki Szamana";
+"ë¬´ë‹¹ê³µê²©ì— %d%% ì €í•­";
+"%d%% Odpornoì’ na Ataki Szamana";
 
-" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+" (ë§Œë£Œì¼ : %dë…„ %dì›” %dì¼)";
 "(Procedura: %d y- %d m - %d d)";
 
-"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
-"Twój Chat jest zablokowany.";
+"ì±„íŒ… ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤.";
+"TwÃ³j Chat jest zablokowany.";
 
-"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
-"Aby móc wo³aæ, musisz mieæ wy¿szy poziom postaci.";
+"ì™¸ì¹˜ê¸°ëŠ” ìœ ë£ŒíšŒì›ë§Œ ì‚¬ìš©í• ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"Aby mÃ³c woÅ‚aÄ‡, musisz mieÄ‡ wyÅ¼szy poziom postaci.";
 
-"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
-"Musisz mieæ co najmniej %d poziom aby móc wo³aæ.";
+"ì™¸ì¹˜ê¸°ëŠ” ë ˆë²¨ %d ì´ìƒë§Œ ì‚¬ìš© ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Musisz mieÄ‡ co najmniej %d poziom aby mÃ³c woÅ‚aÄ‡.";
 
-"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"Nie jesteœ w tej Grupie.";
+"íŒŒí‹° ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Nie jesteÅ› w tej Grupie.";
 
-"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nie do³¹czy³eœ do tej Gildii.";
+"ê¸¸ë“œì— ê°€ì…í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nie doÅ‚Ä…czyÅ‚eÅ› do tej Gildii.";
 
-"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Gracz odrzuci³ twoje zaproszenie do Listy Przyjació³.";
+"ìƒëŒ€ë°©ì´ ë©”ì‹ ì ¸ ì¶”ê°€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"Gracz odrzuciÅ‚ twoje zaproszenie do Listy PrzyjaciÃ³Å‚.";
 
-"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"Konkurs OX rozpoczêty.";
+"OX ì´ë²¤íŠ¸ê°€ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Konkurs OX rozpoczÄ™ty.";
 
-"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Przyjaciele] Nie mo¿esz dodaæ GM do Listy Przyjació³.";
+"<ë©”ì‹ ì ¸> ìš´ì˜ìëŠ” ë©”ì‹ ì ¸ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Przyjaciele] Nie moÅ¼esz dodaÄ‡ GM do Listy PrzyjaciÃ³Å‚.";
 
-"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
+"%s ë‹˜ì€ ì ‘ì†ë˜ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "%s nie jest online.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
-"Po dokonaniu handlu musisz odczekaæ %d sekund, zanim bêdziesz móg³ otworzyæ Magazyn.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì— ì°½ê³ ë¥¼ ì—´ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Po dokonaniu handlu musisz odczekaÄ‡ %d sekund, zanim bÄ™dziesz mÃ³gÅ‚ otworzyÄ‡ Magazyn.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Mo¿esz handlowaæ ponownie za %d sekund.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MoÅ¼esz handlowaÄ‡ ponownie za %d sekund.";
 
-"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Masz wiêcej ni¿ 2 miliardy Yang. Nie mo¿esz handlowaæ.";
+"ì•¡ìˆ˜ê°€ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"Masz wiÄ™cej niÅ¼ 2 miliardy Yang. Nie moÅ¼esz handlowaÄ‡.";
 
-"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nie mo¿esz otworzyæ prywatnego sklepu, dopóki otwarte jest inne okno.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘ì¼ê²½ìš° ê°œì¸ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz otworzyÄ‡ prywatnego sklepu, dopÃ³ki otwarte jest inne okno.";
 
-"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Ten gracz posiada wiêcej ni¿ 2 miliardy Yang. Nie mo¿esz z nim handlowaæ.";
+"ìƒëŒ€ë°©ì˜ ì´ê¸ˆì•¡ì´ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"Ten gracz posiada wiÄ™cej niÅ¼ 2 miliardy Yang. Nie moÅ¼esz z nim handlowaÄ‡.";
 
-"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"[Magazyn] Ruch niemo¿liwy.";
+"<ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"[Magazyn] Ruch niemoí“„iwy.";
 
-"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
-"[Magazyn] Ten przedmiot nie mo¿e byæ przechowany.";
+"<ì°½ê³ > ì´ ì•„ì´í…œì€ ë„£ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Magazyn] Ten przedmiot nie moÅ¼e byÄ‡ przechowany.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
+"<íŒŒí‹°> íŒŒí‹°ìš”ì²­ì„ í•œ ìºë¦­í„°ë¥¼ ì°¾ì„ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Grupa] Zaproszony gracz jest offline.";
 
-"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
-"Uriel zezwoli³ na wejœcie.";
+"ì„ë‘ì§€ë¥¼ í†µí•˜ì—¬ ì…ì¥ ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Uriel zezwoliÅ‚ na wejÅ›cie.";
 
-"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupa] Tylko lider grupy mo¿e to zmieniæ.";
+"<íŒŒí‹°> ë¦¬ë”ë§Œ ë³€ê²½í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupa] Tylko lider grupy moÅ¼e to zmieniÄ‡.";
 
-"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Grupa] Wskazany cel nie jest cz³onkiem twojej grupy.";
+"<íŒŒí‹°> ìƒíƒœë¥¼ ë³€ê²½í•˜ë ¤ëŠ” ì‚¬ëŒì´ íŒŒí‹°ì›ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[Grupa] Wskazany cel nie jest czì¿½nkiem twojej grupy.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz wyrzuciæ gracza jeœli jesteœ w lochu.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz wyrzuciÄ‡ gracza jeÅ›li jesteÅ› w lochu.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz wyrzuciæ gracza jeœli jesteœ w lochu.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ì›ì„ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz wyrzuciÄ‡ gracza jeÅ›li jesteÅ› w lochu.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
-"[Grupa] Zosta³eœ usuniêty z Grupy.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ì¶”ë°©ë‹¹í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] ZostaÅ‚eÅ› usuniÄ™ty z Grupy.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz opuœciæ grupy w lochach.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ë¥¼ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz opuÅ›ciÄ‡ grupy w lochach.";
 
-"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz wyrzucaæ cz³onków grupy.";
+"<íŒŒí‹°> ë‹¤ë¥¸ íŒŒí‹°ì›ì„ íƒˆí‡´ì‹œí‚¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz wyrzucaÄ‡ czÅ‚onkÃ³w grupy.";
 
-"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Po usuniêciu gildii, nie mo¿esz stworzyæ nowej przez %d dni.";
+"<ê¸¸ë“œ> í•´ì‚°í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Po usuniÄ™ciu gildii, nie moÅ¼esz stworzyÄ‡ nowej przez %d dni.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Po opuszczeniu gildii, nie mo¿esz stworzyæ nowej przez %d dni.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Po opuszczeniu gildii, nie moÅ¼esz stworzyÄ‡ nowej przez %d dni.";
 
-"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
-"Nazwa Gildii jest b³êdna.";
+"ì í•©í•˜ì§€ ì•Šì€ ê¸¸ë“œ ì´ë¦„ ì…ë‹ˆë‹¤.";
+"Nazwa Gildii jest bë… dna.";
 
-"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
-"Prosimy o liczny udzia³ graczy.";
+"ë§ì€ ì°¸ì—¬ ë¶€íƒë“œë¦½ë‹ˆë‹¤.";
+"Prosimy o liczny udziaÅ‚ graczy.";
 
-"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
-"[Gildia] [%s] Gildia zosta³a stworzona.";
+"<ê¸¸ë“œ> [%s] ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Gildia] [%s] Gildia zostaì¿ª stworzona.";
 
-"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Gildia] Zak³adanie gildii nieudane.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìƒì„±ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Gildia] Zakì¿ªdanie gildii nieudane.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupa] Tylko lider grupy mo¿e u¿ywaæ zdolnoœci grupy.";
+"<íŒŒí‹°> íŒŒí‹° ê¸°ìˆ ì€ íŒŒí‹°ì¥ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupa] Tylko lider grupy moÅ¼e uÅ¼ywaÄ‡ zdolnoÅ›ci grupy.";
 
-"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Grupy] Cel nie zosta³ znaleziony.";
+"<íŒŒí‹°> ì†Œí™˜í•˜ë ¤ëŠ” ëŒ€ìƒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupy] Cel nie zostaÅ‚ znaleziony.";
 
-"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
-"[Gildia] To nie jest poprawna iloœæ Yang.";
+"<ê¸¸ë“œ> ì˜ëª»ëœ ê¸ˆì•¡ì…ë‹ˆë‹¤.";
+"[Gildia] To nie jest poprawna iloì’ Yang.";
 
-"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Gildia] Nie masz wystarczaj¹cej liczby Yang.";
+"<ê¸¸ë“œ> ê°€ì§€ê³  ìˆëŠ” ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Gildia] Nie masz wystarczají‰ej liczby Yang.";
 
-"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Poszukiwana osoba nie zosta³a odnaleziona.";
+"<ê¸¸ë“œ> ê·¸ëŸ¬í•œ ì‚¬ëŒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Poszukiwana osoba nie zostaì¿ª odnaleziona.";
 
-"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê°™ì€ ê¸¸ë“œê°€ ì•„ë‹™ë‹ˆë‹¤.";
 "[Gildia] Ta osoba nie jest w tej samej gildii.";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz wyrzucaæ cz³onków gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œí‚¬ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz wyrzucaÄ‡ czÅ‚onkÃ³w gildii.";
 
-"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Gildia] Cz³onek Gildii %s zosta³ usuniêty.";
+"<ê¸¸ë“œ> ê¸¸ë“œì› %s ë‹˜ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Gildia] CzÅ‚onek Gildii %s zostaÅ‚ usuniÄ™ty.";
 
-"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
-"Konkurs OX nie zosta³ jeszcze zakoñczony, wyst¹pi³y b³êdy. (Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ë‹«íˆì§€ ì•Šì•˜ê±°ë‚˜, í€´ì¦ˆ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(flag: %d)";
+"Konkurs OX nie zostaÅ‚ jeszcze zakoÅ„czony, wystÄ…piÅ‚y bÅ‚Ä™dy. (Flag: %d)";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Gildia] Cz³onek Gildii zosta³ usuniêty.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Gildia] CzÅ‚onek Gildii zostaÅ‚ usuniÄ™ty.";
 
-"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zmieniæ swojej rangi.";
+"<ê¸¸ë“œ> ì§ìœ„ ì´ë¦„ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zmieniÄ‡ swojej rangi.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Moce Mistrza Gildii nie mog¹ byæ zmienione.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ ì´ë¦„ì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Moce Mistrza Gildii nie mogÄ… byÄ‡ zmienione.";
 
-"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
+"<ê¸¸ë“œ> ì í•©í•˜ì§€ ì•Šì€ ì§ìœ„ ì´ë¦„ ì…ë‹ˆë‹¤.";
 "[Gildia] Ranga jest niepoprawna.";
 
-"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zmieniæ swojej pozycji.";
+"<ê¸¸ë“œ> ì§ìœ„ ê¶Œí•œì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zmieniÄ‡ swojej pozycji.";
 
-"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Prawa Lidera Gildii nie mog¹ zostaæ zmienione.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ê¶Œí•œì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Prawa Lidera Gildii nie mogÄ… zostaÄ‡ zmienione.";
 
-"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
-"[Gildia] Wykorzystane Punkty Doœwiadczenia: %u.";
+"<ê¸¸ë“œ> %uì˜ ê²½í—˜ì¹˜ë¥¼ íˆ¬ìí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Gildia] Wykorzystane Punkty Doì—iadczenia: %u.";
 
-"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Gildia] Przekazanie Punktów Doœwiadczenia nieudane.";
+"<ê¸¸ë“œ> ê²½í—˜ì¹˜ íˆ¬ìì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Gildia] Przekazanie PunktÃ³w DoÅ›wiadczenia nieudane.";
 
-"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Gildia] Za ma³o Yang w kasie gildii.";
+"<ê¸¸ë“œ> ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[Gildia] Za maì¿½ Yang w kasie gildii.";
 
-"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Gildia] Duch Smoka nie zosta³ zregenerowany.";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ íšŒë³µì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Gildia] Duch Smoka nie zostaÅ‚ zregenerowany.";
 
-"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
-"Za chwilê wydarzenie OX zostanie zrestartowane.";
+"ì ì‹œ í›„ OX ì´ë²¤íŠ¸ë¥¼ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆë‹¤.";
+"Za chwilÄ™ wydarzenie OX zostanie zrestartowane.";
 
-"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz umieszczaæ og³oszeñ.";
+"<ê¸¸ë“œ> ê³µì§€ê¸€ì„ ì‘ì„±í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz umieszczaÄ‡ ogÅ‚oszeÅ„.";
 
-"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zmieniaæ pozycji.";
+"<ê¸¸ë“œ> ì§ìœ„ë¥¼ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zmieniaÄ‡ pozycji.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Ranga Mistrza Gildii nie mo¿e byæ zmieniona.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ëŠ” ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Ranga Mistrza Gildii nie moÅ¼e byÄ‡ zmieniona.";
 
-"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz sam siebie mianowaæ mistrzem gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ìœ¼ë¡œ ì§ìœ„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz sam siebie mianowaÄ‡ mistrzem gildii.";
 
-"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz wybraæ Lidera.";
+"<ê¸¸ë“œ> ì¥êµ°ì„ ì§€ì •í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz wybraÄ‡ Lidera.";
 
-"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz wybraæ wiêcej Liderów.";
+"<ê¸¸ë“œ> ë”ì´ìƒ ì¥ìˆ˜ë¥¼ ì§€ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz wybraÄ‡ wiÄ™cej LiderÃ³w.";
 
-"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz sprzedaæ tego przedmiotu.";
+"ì•„ì´í…œì„ ê±´ë„¤ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz sprzedaÄ‡ tego przedmiotu.";
 
-"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
-"Wykryto niedozwolone oprogramowanie. Gra zostanie zakoñczona.";
+"ë¶ˆë²• í”„ë¡œê·¸ë¨ì´ ê°ì§€ ë˜ì–´ ê²Œì„ì´ ì¢…ë£Œ ë©ë‹ˆë‹¤.";
+"Wykryto niedozwolone oprogramowanie. Gra zostanie zakoÅ„czona.";
 
-"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
-"Masz wiêcej ni¿ 2 miliardy Yang. Nie mo¿esz handlowaæ.";
+"ì†Œìœ  ëˆì´ 20ì–µëƒ¥ì„ ë„˜ì–´ ê±°ë˜ë¥¼ í•¼ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Masz wiÄ™cej niÅ¼ 2 miliardy Yang. Nie moÅ¼esz handlowaÄ‡.";
 
-"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"B³êdny Yang.";
+"ê¸ˆì•¡ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Bë… dny Yang.";
 
-"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
+"í˜„ì¬ ì´ë²¤íŠ¸ ì°¸ê°€ì ë¶„ë“¤ì€ ë§ˆì„ë¡œ ì´ë™ ë˜ê² ìŠµë‹ˆë‹¤.";
 "Aktualny Wydarzenie jest ograniczone tylko do jednego obszaru.";
 
-"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
-"Rozpocznij Ruletkê Przedmiotów.";
+"ì•„ì´í…œ ë£°ë › ì‹œì‘.";
+"Rozpocznij RuletkÄ™ PrzedmiotÃ³w.";
 
-"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
-"Rozpocznij Ruletkê Yang.";
+"ë¨¸ë‹ˆ  ë£°ë › ì‹œì‘.";
+"Rozpocznij RuletkÄ™ Yang.";
 
-"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
-"Gracz jest dostêpny. Proszê skorzystaæ z szeptów.";
+"í˜„ì¬ ì˜¨ë¼ì¸ ìƒíƒœ ì…ë‹ˆë‹¤. ê·“ë§ì„ ì´ìš©í•˜ì„¸ìš”.";
+"Gracz jest dostÄ™pny. ProszÄ™ skorzystaÄ‡ z szeptÃ³w.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Numer telefonu komórkowego nie jest zapisany.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Numer telefonu komÃ³rkowego nie jest zapisany.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Musisz byæ co najmniej na poziomie 20, aby wysy³aæ wiadomoœci tekstowe.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì€ ë ˆë²¨ 20ë¶€í„° í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Musisz byÄ‡ co najmniej na poziomie 20, aby wysyÅ‚aÄ‡ wiadomoÅ›ci tekstowe.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
-"Potrzebujesz 2000 Yang, aby wys³aæ wiadomoœæ tekstow¹.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì—ëŠ” 2000ì›ì´ í•„ìš” í•©ë‹ˆë‹¤.";
+"Potrzebujesz 2000 Yang, aby wysÅ‚aÄ‡ wiadomoÅ›Ä‡ tekstowÄ….";
 
-"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
-"Twoja wiadomoœæ zosta³a wys³ana.";
+"ë¬¸ì ë©”ì„¸ì§€ë¥¼ ì „ì†¡ í–ˆìŠµë‹ˆë‹¤.";
+"Twoja wiadomoì’ zostaì¿ª wysì¿ªna.";
 
-"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s Gildii %s wzrós³ do %d%%!";
+"%s ê¸¸ë“œì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s Gildii %s wzrÃ³sÅ‚ do %d%%!";
 
-"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%s ê¸¸ë“œì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
 "%s Gildii %s jest ponownie normalny.";
 
-"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
-"%s: %s wzrós³ o %d%%!";
+"%sì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
+"%s: %s wzrÃ³sÅ‚ o %d%%!";
 
-"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%sì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
 "%s %s jest ponownie normalny.";
 
-"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
-"Twoje Punkty Wydobycia osi¹gnê³y limit. (%d)";
+"ê³¡ê´­ì´ ìˆ˜ë ¨ë„ê°€ ìµœëŒ€(%d)ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Twoje Punkty Wydobycia osií‰“næ€¨y limit. (%d)";
 
-"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Twoje punkty Wydobycia osi¹gnê³y najwy¿szy poziom.";
+"ê³¡ê´­ì´ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Twoje punkty Wydobycia osií‰“næ€¨y najwyí“‹zy poziom.";
 
-"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Mo¿esz ulepszyæ swój Kilof u Drwala Deokbae.";
+"ë‚˜ë¬´ê¾¼ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ê³¡ê´­ì´ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MoÅ¼esz ulepszyÄ‡ swÃ³j Kilof u Drwala Deokbae.";
 
-"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"Twoje Punkty Wydobycia wzros³y! (%d/%d)";
+"ê³¡ê´­ì´ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"Twoje Punkty Wydobycia wzrosí€‰! (%d/%d)";
 
-"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz wydobywaæ bez kilofu.";
+"ê³¡ê´­ì´ë¥¼ ë“¤ê³  ìˆì§€ ì•Šì•„ì„œ ìº˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz wydobywaÄ‡ bez kilofu.";
 
-"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
+"ë”ì´ìƒ ìºë‚¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nie ma tu nic do wydobycia.";
 
-"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Wydobycie zakoñczone pomyœlnie.";
+"ì±„ê´‘ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Wydobycie zakoÅ„czone pomyÅ›lnie.";
 
-"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Wydobycie niepomyœlne.";
+"ì±„ê´‘ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Wydobycie niepomyì‹ne.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
-"[Przyjaciele] Doda³eœ %s do Listy Przyjació³.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ì¹œêµ¬ë¡œ ì¶”ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Przyjaciele] DodaÅ‚eÅ› %s do Listy PrzyjaciÃ³Å‚.";
 
-"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
-"Za chwilê gracze zostan¹ przeniesieni do miasta.";
+"ì ì‹œ í›„ ë§ˆì„ë¡œ ì´ë™ë˜ê² ìŠµë‹ˆë‹¤.";
+"Za chwilÄ™ gracze zostanÄ… przeniesieni do miasta.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
-"[Przyjaciele] Usun¹³eœ %s z listy.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ë©”ì‹ ì €ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Przyjaciele] UsunÄ…Å‚eÅ› %s z listy.";
 
-"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
-"Krytyczny b³¹d serwera. Serwer zostanie uruchomiony ponownie.";
+"ì„œë²„ì— ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì—¬ ìë™ìœ¼ë¡œ ì¬ë¶€íŒ…ë©ë‹ˆë‹¤.";
+"Krytyczny bë‚±d serwera. Serwer zostanie uruchomiony ponownie.";
 
-"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
-"Zostaniesz roz³¹czony za 10 sekund.";
+"10ì´ˆí›„ ìë™ìœ¼ë¡œ ì ‘ì†ì´ ì¢…ë£Œë˜ë©°,";
+"Zostaniesz rozë‚±czony za 10 sekund.";
 
-"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
-"Mo¿esz po³¹czyæ siê ponownie za 5 minut.";
+"5ë¶„ í›„ì— ì •ìƒì ìœ¼ë¡œ ì ‘ì†í•˜ì‹¤ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MoÅ¼esz poÅ‚Ä…czyÄ‡ siÄ™ ponownie za 5 minut.";
 
-"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
+"(%s) ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤. [ì„ì‹œ]";
 "(%s) Gildia utworzona. [Tymczasowo]";
 
-"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
+"í˜„ì¬ ì „ìŸì¤‘ì¸ ê¸¸ë“œ ì…ë‹ˆë‹¤";
 "Ta Gildia jest w stanie wojny.";
 
-"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
+"%s: ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê¸¸ë“œ ì…ë‹ˆë‹¤.";
 "%s: Ta Gildia nie istnieje.";
 
-"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
+"ê·¸ëŸ° ì´ë¦„ ë˜ëŠ” ë²ˆí˜¸ì˜ ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
 "Gildia o takiej nazwie lub liczbie nie istnieje.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê±´ë¬¼ì…ë‹ˆë‹¤.";
 "Budynek nie istnieje.";
 
-"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
-"Ten typ budynku mo¿e byæ zbudowany tylko raz.";
+"ê°™ì´ ì§€ì„ ìˆ˜ ì—†ëŠ” ì¢…ë¥˜ì˜ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆìŠµë‹ˆë‹¤.";
+"Ten typ budynku moÅ¼e byÄ‡ zbudowany tylko raz.";
 
-"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
-"Najpierw zamknij Mapê OX. (Flag: %d)";
+"OXì´ë²¤íŠ¸ ë§µì„ ë¨¼ì € ë‹«ì•„ ì£¼ì„¸ìš”.(Flag: %d)";
+"Najpierw zamknij MapÄ™ OX. (Flag: %d)";
 
-"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Musisz najpierw zbudowaæ G³ówny Budynek.";
+"ê±´ì„¤ì— í•„ìš”í•œ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Musisz najpierw zbudowaÄ‡ GÅ‚Ã³wny Budynek.";
 
-"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Budowa zakoñczona niepowodzeniem z powodu b³êdnej wyceny.";
+"ê±´ë¬¼ ë¹„ìš© ì •ë³´ ì´ìƒìœ¼ë¡œ ê±´ì„¤ ì‘ì—…ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Budowa zakoÅ„czona niepowodzeniem z powodu bÅ‚Ä™dnej wyceny.";
 
-"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Twoja gildia nie posiada wystarczaj¹cej iloœci Yang, aby zbudowaæ ten budynek.";
+"ê±´ì„¤ ë¹„ìš©ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Twoja gildia nie posiada wystarczajÄ…cej iloÅ›ci Yang, aby zbudowaÄ‡ ten budynek.";
 
-"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie masz wystarczaj¹co surowców na ten budynek.";
+"ìì¬ê°€ ë¶€ì¡±í•˜ì—¬ ê±´ì„¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie masz wystarczajÄ…co surowcÃ³w na ten budynek.";
 
-"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"Nie mo¿esz zbudowaæ tego budynku w tym miejscu.";
+"ê±´ë¬¼ì„ ì§€ì„ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz zbudowaÄ‡ tego budynku w tym miejscu.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
-"Ta postaæ nie istnieje.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ìºë¦­í„° ì…ë‹ˆë‹¤.";
+"Ta postaÄ‡ nie istnieje.";
 
-"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
-"Pojedynek nie zosta³ przerwany.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì‹¤íŒ¨";
+"Pojedynek nie zostaÅ‚ przerwany.";
 
-"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
-"Pojedynek przerwany pomyœlnie.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì„±ê³µ";
+"Pojedynek przerwany pomyì‹nie.";
 
-"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
-"Pojedynek rozpoczêty pomyœlnie.";
+"ëŒ€ë ¨ì´ ì„±ê³µì ìœ¼ë¡œ ì‹œì‘ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Pojedynek rozpoczÄ™ty pomyÅ›lnie.";
 
-"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
-"Napotkano problem przy rozpoczêciu pojedynku.";
+"ëŒ€ë ¨ ì‹œì‘ì— ë¬¸ì œê°€ ìˆìŠµë‹ˆë‹¤.";
+"Napotkano problem przy rozpoczÄ™ciu pojedynku.";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
-"Nie wyst¹pi³y b³êdy.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.";
+"Nie wystí‰ií€‰ bë… dy.";
 
-"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Brak przeciwników.";
+"ëŒ€ë ¨ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Brak przeciwnikÃ³w.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
-"Nie zosta³y ¿adne Punkty Statusu.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nie zostaí€‰ í’¹dne Punkty Statusu.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
-"Pozosta³o zbyt ma³o punktów statusu.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì ìŠµë‹ˆë‹¤.";
+"PozostaÅ‚o zbyt maÅ‚o punktÃ³w statusu.";
 
-"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
-"Poda³eœ z³¹ wartoœæ.";
+"ê°’ì„ ì˜ëª» ì…ë ¥í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"PodaÅ‚eÅ› zÅ‚Ä… wartoÅ›Ä‡.";
 
-"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
-"Polecenie jest nieprawid³owe.";
+"ëª…ë ¹ì–´ì˜ ì„œë¸Œ ì»¤ë§¨ë“œê°€ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Polecenie jest nieprawidì¿½we.";
 
-"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
-"Zerwany kontrakt pomiêdzy graczami %d i %d.";
+"í”Œë ˆì´ì–´ %d ì™€ í”Œë ˆì´ì–´  %dë¥¼ íŒŒí˜¼ì‹œí‚µë‹ˆë‹¤..";
+"Zerwany kontrakt pomiÄ™dzy graczami %d i %d.";
 
-"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
-"Rozpocznij ruletkê o %d Yang.";
+"ë£»ë ›ì„ ëŒë¦½ë‹ˆë‹¤. ê¸ˆì•¡ %d";
+"Rozpocznij ruletkÄ™ o %d Yang.";
 
-"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
-"Log przedmiotów umieszczony w logu systemowym.";
+"ì•„ì´í…œë¡œê·¸ê°€ syslog ì— ë‚¨ì•˜ìŠµë‹ˆë‹¤";
+"Log przedmiotÃ³w umieszczony w logu systemowym.";
 
-"°¢Á¦±¹ ÁøÇà Á¤º¸";
-"Informacje dla Królestw";
+"ê°ì œêµ­ ì§„í–‰ ì •ë³´";
+"Informacje dla KrÃ³lestw";
 
-"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
-"Wybierz mapy Œwiêtej Ziemi %d Wejœcie %d %d %d";
+"ì„ íƒ ë§µ ì •ë³´ ì„±ì§€ %d í†µë¡œ %d %d %d";
+"Wybierz mapy ÅšwiÄ™tej Ziemi %d WejÅ›cie %d %d %d";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
-"Wyst¹pi³ b³¹d.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"WystÄ…piÅ‚ bÅ‚Ä…d.";
 
-"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
-"%s licznik zabójstw %d zabitych potworów %d zabitych bossów %d liczba œwiêtej ziemi %d";
+"%s killcount %d mobkillcount %d bosskillcount %d ì„±ì§€ ì§„ì…ìˆ˜ %d";
+"%s licznik zabÃ³jstw %d zabitych potworÃ³w %d zabitych bossÃ³w %d liczba Å›wiÄ™tej ziemi %d";
 
-"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
-"Informacje o Bitwie Królestw";
+"ë‚˜ì˜ ì‚¼ê±°ë¦¬ ì§„í–‰ì •ë³´";
+"Informacje o Bitwie KrÃ³lestw";
 
-"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
-"Twoja proœba jest wczytywana. Proszê czekaæ.";
+"í€˜ìŠ¤íŠ¸ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘ì…ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤.";
+"Twoja proÅ›ba jest wczytywana. ProszÄ™ czekaÄ‡.";
 
-"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nie mo¿esz otworzyæ magazynu, dopóki otwarte jest inne okno.";
+"ë‹¤ë¥¸ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ì°½ê³ ë¥¼ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz otworzyÄ‡ magazynu, dopÃ³ki otwarte jest inne okno.";
 
-"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
-"[Magazyn] Has³o do magazynu zosta³o zmienione.";
+"<ì°½ê³ > ì°½ê³  ë¹„ë°€ë²ˆí˜¸ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Magazyn] Hasì¿½ do magazynu zostaì¿½ zmienione.";
 
-"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
-"[Magazyn] Wprowadzono nieprawid³owe has³o.";
+"<ì°½ê³ > ê¸°ì¡´ ë¹„ë°€ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤.";
+"[Magazyn] Wprowadzono nieprawidì¿½we hasì¿½.";
 
-"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
-"Twój czas gry dobiega koñca za %d minut.";
+"ê²°ì¬ê¸°ê°„ì´ %dë¶„ í›„ ë§Œë£Œ ë©ë‹ˆë‹¤.";
+"TwÃ³j czas gry dobiega koÅ„ca za %d minut.";
 
-"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
-"G³osowanie.";
+"ì •ìƒì ìœ¼ë¡œ íˆ¬í‘œë¥¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Gì¿½sowanie.";
 
-"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
-"Ju¿ zag³osowa³eœ.";
+"ì´ë¯¸íˆ¬í‘œë¥¼ í–ˆìŒ";
+"JuÅ¼ zagÅ‚osowaÅ‚eÅ›.";
 
-"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
-"%s graczy odda³o ju¿ swój g³os.";
+"%s ë‹˜ì€ ì •ìƒì ìœ¼ë¡œ ì¶œë§ˆë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s graczy oddaÅ‚o juÅ¼ swÃ³j gÅ‚os.";
 
-"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
-"Event OX zosta³ zakoñczony. Nie wyst¹pi³y ¿adne b³êdy. (Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ì—´ë ¤ ìˆì§€ ì•Šê±°ë‚˜ ë¬¸ì œ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(Flag: %d)";
+"Event OX zostaÅ‚ zakoÅ„czony. Nie wystÄ…piÅ‚y Å¼adne bÅ‚Ä™dy. (Flag: %d)";
 
-"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nie mo¿e byæ g³osowany.";
+"ì¶œë§ˆë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼e byÄ‡ gÅ‚osowany.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %lu ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
 "%s nadal ma %u Yang.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %d ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
 "%s nadal ma %d Yang.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
-"Nie masz wystarczaj¹cej iloœci Yang.";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ëˆì„ ê°€ì ¸ì˜¬ìˆ˜ ì—†ëŠ” ìƒí™©ì…ë‹ˆë‹¤";
+"Nie masz wystarczají‰ej iloìi Yang.";
 
-" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
-"Kandydatura %s na Imperatora zosta³a skasowana.";
+" %s êµ°ì£¼ í›„ë³´ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤";
+"Kandydatura %s na Imperatora zostaì¿ª skasowana.";
 
-" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
+" %s ëŠ” êµ°ì£¼ í›„ë³´ê°€ ì•„ë‹™ë‹ˆë‹¤.";
 "%s nie jest kandydatem na Imperatora.";
 
-" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
-"%s zosta³ nominowany na Imperatora.";
+" %s êµ°ì£¼ë¡œ ì…ëª… í–ˆìŠµë‹ˆë‹¤.";
+"%s zostaÅ‚ nominowany na Imperatora.";
 
-" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
-"%s nie mo¿e byæ nominowany na Imperatora.";
+" %s ëŠ” êµ°ì£¼ë¡œ ì…ëª…í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤ .";
+"%s nie moÅ¼e byÄ‡ nominowany na Imperatora.";
 
-" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
-"Imperator %s zosta³ odwo³any.";
+" %s êµ°ì£¼ë¥´ ì œê±° í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"Imperator %s zostaÅ‚ odwoÅ‚any.";
 
-" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Imperator %s nie mo¿e zostaæ odwo³any.";
+" %s êµ°ì£¼ë¥¼ ì œê±° í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Imperator %s nie moÅ¼e zostaÄ‡ odwoÅ‚any.";
 
-"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"Konkurs OX nie przyjmuje ju¿ nowych uczestników.";
+"ë” ì´ìƒ OXì´ë²¤íŠ¸ ì°¸ê°€ìë¥¼ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Konkurs OX nie przyjmuje juÅ¼ nowych uczestnikÃ³w.";
 
-"½Å¼ö±¹";
-"Królestwo Shinsoo";
+"ì‹ ìˆ˜êµ­";
+"KrÃ³lestwo Shinsoo";
 
-"ÃµÁ¶±¹";
-"Królestwo Chunjo";
+"ì²œì¡°êµ­";
+"KrÃ³lestwo Chunjo";
 
-"Áø³ë±¹";
-"Królestwo Jinno";
+"ì§„ë…¸êµ­";
+"KrÃ³lestwo Jinno";
 
-"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
-"Twoje punkty wêdkarskie wzros³y! (%d/%d)";
+"ë‚šì‹œëŒ€ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
+"Twoje punkty wÄ™dkarskie wzrosÅ‚y! (%d/%d)";
 
-"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Osi¹gn¹³eœ maksymaln¹ iloœæ Punktów Wêdkarskich.";
+"ë‚šì‹œëŒ€ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OsiÄ…gnÄ…Å‚eÅ› maksymalnÄ… iloÅ›Ä‡ PunktÃ³w WÄ™dkarskich.";
 
-"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Ulepsz swoj¹ wêdkê u Rybaka!";
+"ì–´ë¶€ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ë‚šì‹œëŒ€ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Ulepsz swojÄ… wÄ™dkÄ™ u Rybaka!";
 
-"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
-"Straci³eœ swoj¹ przynêtê.";
+"ê³ ê¸°ê°€ ë¯¸ë¼ë§Œ ë¹¼ë¨¹ê³  ì½ì‹¸ê²Œ ë„ë§ì¹©ë‹ˆë‹¤.";
+"StraciÅ‚eÅ› swojÄ… przynÄ™tÄ™.";
 
-"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
-"Z³apa³eœ rybê! (%s)";
+"ê³ ê¸°ê°€ ì¡í˜”ìŠµë‹ˆë‹¤! (%s)";
+"ZÅ‚apaÅ‚eÅ› rybÄ™! (%s)";
 
-"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
-"D³ugoœæ z³apanej ryby wynosi %.2fcm.";
+"ì´ë²ˆì— ì¡ì€ ë¬¼ê³ ê¸°ì˜ ê¸¸ì´ëŠ” %.2fcm";
+"Dí€…goì’ zì¿ªpanej ryby wynosi %.2fcm.";
 
-"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
-"Konkurs Wêdkarski 'Najlepszy Rybak'";
+"ë‚šì‹œì´ë²¤íŠ¸ì›”ì²™ë¶•ì–´";
+"Konkurs WÄ™dkarski 'Najlepszy Rybak'";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
-"OX Inni uczestnicy Wydarzenia s¹ na liœcie.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì›ì„ ê¸°ë¡í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OX Inni uczestnicy Wydarzenia sÄ… na liÅ›cie.";
 
-"³¬½ÃÀÌº¥Æ®À×¾î";
-"Konkurs Wêdkarski 'Karp'";
+"ë‚šì‹œì´ë²¤íŠ¸ì‰ì–´";
+"Konkurs WÄ™dkarski 'Karp'";
 
-"%s : %d ¸¶¸®";
+"%s : %d ë§ˆë¦¬";
 "%s: %d";
 
-"%d Á¾·ù %d ¸¶¸® ³¬À½";
-"Z³apa³eœ %d z %d .";
+"%d ì¢…ë¥˜ %d ë§ˆë¦¬ ë‚šìŒ";
+"ZÅ‚apaÅ‚eÅ› %d z %d .";
 
-"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Ryba zniknê³a w g³êbinach wody.";
+"ê³ ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Ryba zniknæ€¨a w gë… binach wody.";
 
-"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
-"W rybie znajduje siê muszla.";
+"ë°° ì†ì—ì„œ ì¡°ê°œê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W rybie znajduje siÄ™ muszla.";
 
-"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
-"W rybie znajduje siê robak.";
+"ë°° ì†ì—ì„œ ì§€ë ì´ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"W rybie znajduje siÄ™ robak.";
 
-"%s¸¦ ±¸¿ü½À´Ï´Ù.";
+"%së¥¼ êµ¬ì› ìŠµë‹ˆë‹¤.";
 "Pieczesz %s nad ogniem.";
 
-"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
-"Nie mo¿esz handlowaæ, poniewa¿ masz przy sobie wiêcej ni¿ 2 miliardy Yang.";
+"20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼esz handlowaÄ‡, poniewaÅ¼ masz przy sobie wiÄ™cej niÅ¼ 2 miliardy Yang.";
 
-"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz nadaæ niew³aœciwej nazwy swojemu Magazynowi.";
+"ë¹„ì†ì–´ë‚˜ ì€ì–´ê°€ í¬í•¨ëœ ìƒì  ì´ë¦„ìœ¼ë¡œ ìƒì ì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz nadaÄ‡ niewÅ‚aÅ›ciwej nazwy swojemu Magazynowi.";
 
-"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz sprzedawaæ Przedmiotów z ItemShop w prywatnym Sklepie.";
+"ìœ ë£Œí™” ì•„ì´í…œì€ ê°œì¸ìƒì ì—ì„œ íŒë§¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz sprzedawaÄ‡ PrzedmiotÃ³w z ItemShop w prywatnym Sklepie.";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
-"OX Inni uczestnicy Wydarzenia nie s¹ na liœcie.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì› ê¸°ë¡ì„ ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"OX Inni uczestnicy Wydarzenia nie sÄ… na liÅ›cie.";
 
-"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
-"Górnictwo zakoñczone.";
+"ì±„ê´‘ì„ ì¤‘ë‹¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"GÃ³rnictwo zakoÅ„czone.";
 
-"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
-"Do wydobywania surowców potrzebny jest Kilof!";
+"ê³¡ê´­ì´ë¥¼ ì¥ì°©í•˜ì„¸ìš”.";
+"Do wydobywania surowcÃ³w potrzebny jest Kilof!";
 
-"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
-"Proszê wybraæ Wêdkê.";
+"ë‚šì‹œëŒ€ë¥¼ ì¥ì°© í•˜ì„¸ìš”.";
+"ProszÄ™ wybraÄ‡ WÄ™dkÄ™.";
 
-"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
-"Najpierw umieœæ przynêtê na haczyku.";
+"ë¯¸ë¼ë¥¼ ë¼ê³  ë˜ì ¸ ì£¼ì„¸ìš”.";
+"Najpierw umieÅ›Ä‡ przynÄ™tÄ™ na haczyku.";
 
-"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
-"Nie mo¿esz ³owiæ bez Wêdki!";
+"ë‚šì‹œëŒ€ê°€ ì•„ë‹Œ ë¬¼ê±´ìœ¼ë¡œ ë‚šì‹œë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!";
+"Nie moÅ¼esz Å‚owiÄ‡ bez WÄ™dki!";
 
-"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz wys³aæ Proœby, poniewa¿ Lider grupy jest offline.";
+"íŒŒí‹°ì¥ì´ ì ‘ì† ìƒíƒœê°€ ì•„ë‹ˆë¼ì„œ ìš”ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz wysÅ‚aÄ‡ ProÅ›by, poniewaÅ¼ Lider grupy jest offline.";
 
-"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz utworzyæ Grupy z graczami z innych Królestw.";
+"<íŒŒí‹°> ë‹¤ë¥¸ ì œêµ­ê³¼ íŒŒí‹°ë¥¼ ì´ë£° ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz utworzyÄ‡ Grupy z graczami z innych KrÃ³lestw.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz zaprosiæ innych graczy, gdy jesteœ w lochu.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz zaprosiÄ‡ innych graczy, gdy jesteÅ› w lochu.";
 
-"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz zaprosiæ innych graczy, gdy jesteœ w Trybie Obserwatora.";
+"<íŒŒí‹°> ê´€ì „ ëª¨ë“œì—ì„  íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz zaprosiÄ‡ innych graczy, gdy jesteÅ› w Trybie Obserwatora.";
 
-"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupa] Tylko gracze z ró¿nic¹ poziomu -30 do +30 mog¹ zostaæ zaproszeni.";
+"<íŒŒí‹°> -30 ~ +30 ë ˆë²¨ ì´ë‚´ì˜ ìƒëŒ€ë°©ë§Œ ì´ˆëŒ€í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Grupa] Tylko gracze z rÃ³Å¼nicÄ… poziomu -30 do +30 mogÄ… zostaÄ‡ zaproszeni.";
 
-"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
-"Liczba innych uczestników: %d";
+"í˜„ì¬ ë‚¨ì€ ì°¸ê°€ììˆ˜ : %d";
+"Liczba innych uczestnikÃ³w: %d";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz zaprosiæ tego gracza, jego poziom jest za niski.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœê³  ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë‚®ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz zaprosiÄ‡ tego gracza, jego poziom jest za niski.";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz zaprosiæ tego gracza, jego poziom jest za wysoki.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœì € ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë†’ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz zaprosiÄ‡ tego gracza, jego poziom jest za wysoki.";
 
-"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz zaprosiæ wiêcej graczy do swojej Grupy.";
+"<íŒŒí‹°> ë” ì´ìƒ íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz zaprosiÄ‡ wiÄ™cej graczy do swojej Grupy.";
 
-"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
-"Chcesz do³¹czyæ siê do Grupy %s.";
+"%s ë‹˜ì—ê²Œ íŒŒí‹°ê°€ì… ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"Chcesz doÅ‚Ä…czyÄ‡ siÄ™ do Grupy %s.";
 
-"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
+"ìƒëŒ€ë°©ì´ íŒŒí‹°ì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "Ten gracz nie jest w tej Grupie.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz do³¹czyæ do tej Grupy, poniewa¿ ma ona ju¿ maksymaln¹ iloœæ cz³onków.";
+"<íŒŒí‹°> íŒŒí‹°ì˜ ì¸ì›ì œí•œì´ ì´ˆê³¼í•˜ì—¬ íŒŒí‹°ì— ì°¸ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz doÅ‚Ä…czyÄ‡ do tej Grupy, poniewaÅ¼ ma ona juÅ¼ maksymalnÄ… iloÅ›Ä‡ czÅ‚onkÃ³w.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Grupa] Nie masz prawa, aby zapraszaæ kogokolwiek.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ìˆëŠ” ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie masz prawa, aby zapraszaÄ‡ kogokolwiek.";
 
-"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Grupa] %s odrzuci³ zaproszenie do twojej Grupy.";
+"<íŒŒí‹°> %s ë‹˜ì´ íŒŒí‹° ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Grupa] %s odrzuciÅ‚ zaproszenie do twojej Grupy.";
 
-"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
-"[Grupa] %s jest ju¿ w Grupie.";
+"<íŒŒí‹°> ì´ë¯¸ %së‹˜ì€ íŒŒí‹°ì— ì†í•´ ìˆìŠµë‹ˆë‹¤.";
+"[Grupa] %s jest juÅ¼ w Grupie.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz przyj¹æ zaproszenia bêd¹c w lochu.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz przyjÄ…Ä‡ zaproszenia bÄ™dÄ…c w lochu.";
 
-"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
-"Konkurs OX zakoñczony.";
+"OX ì´ë²¤íŠ¸ë¥¼ ë§ˆì¹˜ê²ŸìŠµë‹ˆë‹¤.";
+"Konkurs OX zakoÅ„czony.";
 
-"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
-"Konkurs OX zakoñczony.";
+"OXì´ë²¤íŠ¸ë¥¼ ê°•ì œ ì¢…ë£Œ ì‹œí‚µë‹ˆë‹¤.";
+"Konkurs OX zakoÅ„czony.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz przyj¹æ zaproszenia.";
+"<íŒŒí‹°> íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moí’½sz przyjë°© zaproszenia.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
-"[Grupa] %s odrzuci³ twoje zaproszenie.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹° ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] %s odrzuciÅ‚ twoje zaproszenie.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Grupa] %s do³¹czy³ do Grupy.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] %s doÅ‚Ä…czyÅ‚ do Grupy.";
 
-"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Grupa] %s do³¹czy³ do twojej Grupy.";
+"<íŒŒí‹°> %së‹˜ì˜ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] %s doÅ‚Ä…czyÅ‚ do twojej Grupy.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz skorzystaæ teraz z prywatnego Magazynu.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ê°œì¸ìƒì ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz skorzystaÄ‡ teraz z prywatnego Magazynu.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
-"W tej chwili ten gracz handluje z kimœ innym.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ë¥¼ í•˜ê³  ìˆëŠ” ì¤‘ì…ë‹ˆë‹¤.";
+"W tej chwili ten gracz handluje z kimÅ› innym.";
 
-"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
-"Numer potwierdzaj¹cy Metin2: %s";
+"ë©”í‹´2ì¸ì¦ë²ˆí˜¸: %s";
+"Numer potwierdzají‰y Metin2: %s";
 
-"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
-"Twój numer potwierdzaj¹cy jest b³êdny. Proszê spróbowaæ ponownie.";
+"ì¸ì¦ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì„¸ìš”.";
+"TwÃ³j numer potwierdzajÄ…cy jest bÅ‚Ä™dny. ProszÄ™ sprÃ³bowaÄ‡ ponownie.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
-"Numer komórkowy jest zarejestrowany.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Numer komÃ³rkowy jest zarejestrowany.";
 
-"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz przenieœæ siê do gracza.";
+"ìƒëŒ€ë°©ì´ ìˆëŠ” ê³³ìœ¼ë¡œ ì›Œí”„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz przenieÅ›Ä‡ siÄ™ do gracza.";
 
-"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
-"Nagroda za OX zosta³a wydana. ID: %d Iloœæ: %d";
+"OX ìƒí’ˆì„ ì§€ê¸‰í•˜ì˜€ìŠµë‹ˆë‹¤. ID: %d ìˆ˜ëŸ‰: %d";
+"Nagroda za OX zostaì¿ª wydana. ID: %d Iloì’: %d";
 
-"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"ìƒëŒ€ë°©ì´ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
 "Ten gracz nie jest online.";
 
-"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Gracz ten jest na kanale %d. (Ty jesteœ na kanale %d.)";
+"ìƒëŒ€ë°©ì´ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"Gracz ten jest na kanale %d. (Ty jesteÅ› na kanale %d.)";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz udaæ siê w inne miejsce przez %d sekund po otwarciu Magazynu.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz udaÄ‡ siÄ™ w inne miejsce przez %d sekund po otwarciu Magazynu.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nie mo¿esz udaæ siê w inne miejsce przez chwilê po zakoñczeniu handlu.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™,ì¢…ë£Œ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼esz udaÄ‡ siÄ™ w inne miejsce przez chwilÄ™ po zakoÅ„czeniu handlu.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz udaæ siê w inne miejsce przez %d sekund po zakoñczeniu handlu.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ì§€ì—­ìœ¼ë¡œ ì´ë™ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz udaÄ‡ siÄ™ w inne miejsce przez %d sekund po zakoÅ„czeniu handlu.";
 
-"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Pojedynek zosta³ zakoñczony, poniewa¿ znikn¹³ twój przeciwnik.";
+"ëŒ€ë ¨ ìƒëŒ€ê°€ ì‚¬ë¼ì ¸ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Pojedynek zostaÅ‚ zakoÅ„czony, poniewaÅ¼ zniknÄ…Å‚ twÃ³j przeciwnik.";
 
-"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
+"ë¬¼ì•½ ì œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
 "Nie ma limitu mikstur.";
 
-"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
-"Mo¿esz u¿yæ tylko %d mikstur.";
+"ë¬¼ì•½ì„ %d ê°œ ê¹Œì§€ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"MoÅ¼esz uÅ¼yÄ‡ tylko %d mikstur.";
 
-"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
-"Walka rozpoczyna siê za 10 sekund.";
+"10ì´ˆë’¤ ëŒ€ë ¨ì´ ì‹œì‘ë©ë‹ˆë‹¤.";
+"Walka rozpoczyna siÄ™ za 10 sekund.";
 
-"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"Pojedynek rozpoczêty.";
+"ëŒ€ë ¨ì´ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Pojedynek rozpoczÄ™ty.";
 
-"Âü";
+"ì°¸";
 "TRUE";
 
-"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Pojedynek zosta³ zakoñczony z powodu problemów z aren¹.";
+"ëŒ€ë ¨ì¥ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Pojedynek zostaÅ‚ zakoÅ„czony z powodu problemÃ³w z arenÄ….";
 
-"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Pojedynek zosta³ zakoñczony z powodu up³ywu czasu.";
+"ëŒ€ë ¨ ì‹œê°„ ì´ˆê³¼ë¡œ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Pojedynek zostaÅ‚ zakoÅ„czony z powodu upÅ‚ywu czasu.";
 
-"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤.";
 "Za 10 sekund zostaniesz przeniesiony do miasta.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Pojedynek jest zakoñczony z powodu problemów z aren¹.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Pojedynek jest zakoÅ„czony z powodu problemÃ³w z arenÄ….";
 
-"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Twój przeciwnik ma jakieœ problemy. Pojedynek zakoñczony.";
+"ìƒëŒ€ë°© ìºë¦­í„°ì˜ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"TwÃ³j przeciwnik ma jakieÅ› problemy. Pojedynek zakoÅ„czony.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Pojedynek zosta³ zakoñczony poniewa¿ jest problemów z przeciwnikiem.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Pojedynek zostaÅ‚ zakoÅ„czony poniewaÅ¼ jest problemÃ³w z przeciwnikiem.";
 
-"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s wygra³ pojedynek.";
+"%s ë‹˜ì´ ëŒ€ë ¨ì—ì„œ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s wygraÅ‚ pojedynek.";
 
-"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s wygra³.";
+"%s ë‹˜ì´ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s wygraÅ‚.";
 
-"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ë˜ëŒì•„ê°‘ë‹ˆë‹¤.";
 "Zostaniesz przeniesiony do Miasta za 10 sekund.";
 
-"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
-"Nastêpna runda rozpoczyna siê za 10 sekund.";
+"10ì´ˆë’¤ ë‹¤ìŒ íŒì„ ì‹œì‘í•©ë‹ˆë‹¤.";
+"NastÄ™pna runda rozpoczyna siÄ™ za 10 sekund.";
 
-"°ÅÁş";
+"ê±°ì§“";
 "FALSE";
 
-"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
-"Wojownicy siê rozdzielili. Pojedynek zakoñczony.";
+"ìƒëŒ€ë°© ìºë¦­í„°ê°€ ì ‘ì†ì„ ì¢…ë£Œí•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ì§€í•©ë‹ˆë‹¤.";
+"Wojownicy siÄ™ rozdzielili. Pojedynek zakoÅ„czony.";
 
-"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Aktualnie szansa na wypadniêcie przedmiotu to: +%d%%";
+"ì•„ì´í…œ ë“œë¡­ë¥   %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Aktualnie szansa na wypadniÄ™cie przedmiotu to: +%d%%";
 
-"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Iloœæ wypadaj¹cych Yang jest zwiêkszona o: %d%%";
+"ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"IloÅ›Ä‡ wypadajÄ…cych Yang jest zwiÄ™kszona o: %d%%";
 
-"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Aktualna szansa na deszcz dropów Yang jest zwiêkszona o: %d%%";
+"ëŒ€ë°•ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Aktualna szansa na deszcz dropÃ³w Yang jest zwiÄ™kszona o: %d%%";
 
-"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Bonus dodatkowego doœwiadczenia wynosi obecnie %d%%.";
+"ê²½í—˜ì¹˜ %d%% ì¶”ê°€ íšë“ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Bonus dodatkowego doì—iadczenia wynosi obecnie %d%%.";
 
-"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
-"Twoja wersja klienta jest niew³aœciwa. Proszê zainstalowaæ normalny patch.";
+"í´ë¼ì´ì–¸íŠ¸ ë²„ì „ì´ í‹€ë ¤ ë¡œê·¸ì•„ì›ƒ ë©ë‹ˆë‹¤. ì •ìƒì ìœ¼ë¡œ íŒ¨ì¹˜ í›„ ì ‘ì†í•˜ì„¸ìš”.";
+"Twoja wersja klienta jest niewÅ‚aÅ›ciwa. ProszÄ™ zainstalowaÄ‡ normalny patch.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
-"Nie mo¿esz handlowaæ w sklepie, dopóki otwarte jest inne okno.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz handlowaÄ‡ w sklepie, dopÃ³ki otwarte jest inne okno.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
-"Aby cokolwiek kupiæ, musisz podejœæ bli¿ej.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ ì‚´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Aby cokolwiek kupiÄ‡, musisz podejÅ›Ä‡ bliÅ¼ej.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
-"Znajdujesz siê za daleko od Magazynu aby sprzedawaæ.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ íŒ” ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Znajdujesz siÄ™ za daleko od Magazynu aby sprzedawaÄ‡.";
 
-"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz handlowaæ, poniewa¿ masz przy sobie wiêcej ni¿ 2 miliardy Yang.";
+"20ì–µëƒ¥ì´ ì´ˆê³¼í•˜ì—¬ ë¬¼í’ˆì„ íŒ”ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz handlowaÄ‡, poniewaÅ¼ masz przy sobie wiÄ™cej niÅ¼ 2 miliardy Yang.";
 
-"ÃÑ ÄûÁî ¼ö: %d";
-"Ca³kowita liczba Pytañ: %d";
+"ì´ í€´ì¦ˆ ìˆ˜: %d";
+"CaÅ‚kowita liczba PytaÅ„: %d";
 
-"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
-"Podatek od sprzeda¿y: %d%%.";
+"íŒë§¤ê¸ˆì•¡ì˜ %d %% ê°€ ì„¸ê¸ˆìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤";
+"Podatek od sprzedaí““: %d%%.";
 
-"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
-"Gdy jesteœ przemieniony, nie mo¿esz jeŸdziæ konno.";
+"ë³€ì‹  ìƒíƒœì—ì„œëŠ” ë§ì— íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Gdy jesteÅ› przemieniony, nie moÅ¼esz jeÅºdziÄ‡ konno.";
 
-"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz jeŸdziæ konno, gdy masz na sobie Sukniê Œlubn¹ lub Smoking.";
+"ì˜ˆë³µì„ ì…ì€ ìƒíƒœì—ì„œ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz jeÅºdziÄ‡ konno, gdy masz na sobie SukniÄ™ ÅšlubnÄ… lub Smoking.";
 
-"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
+"ë§ì„ ì†Œìœ í•˜ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "Nie masz konia.";
 
-"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
-"Twój koñ zdech³.";
+"ë§ì´ ì£½ì–´ìˆëŠ” ìƒíƒœ ì…ë‹ˆë‹¤.";
+"TwÃ³j koÅ„ zdechÅ‚.";
 
-"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Wytrzyma³oœæ Twojego konia jest za niska.";
+"ë§ì˜ ìŠ¤í…Œë¯¸ë„ˆê°€ ë¶€ì¡±í•˜ì—¬ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Wytrzymaì¿½ì’ Twojego konia jest za niska.";
 
-"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nie uda³o siê przywo³aæ konia.";
+"ë§ ì†Œí™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nie udaÅ‚o siÄ™ przywoÅ‚aÄ‡ konia.";
 
-"´ÔÀÇ ¸»";
-"Koñ";
+"ë‹˜ì˜ ë§";
+"KoÅ„";
 
-"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
-"Œlub wkrótce dobiegnie koñca.";
+"ê²°í˜¼ì‹ì´ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Åšlub wkrÃ³tce dobiegnie koÅ„ca.";
 
-"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
+"ìë™ìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤.";
 "Zostanie automatycznie opuszczony.";
 
-"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
-"Wojna ju¿ siê zakoñczy³a.";
+"ì´ë¯¸ ì „ìŸì´ ëë‚¬ìŠµë‹ˆë‹¤.";
+"Wojna juÅ¼ siÄ™ zakoÅ„czyÅ‚a.";
 
-"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
-"Wyniki zostan¹ ukazane za 10 sekund.";
+"10ì´ˆë’¤ íŒì •í•˜ê² ìŠµë‹ˆë‹¤.";
+"Wyniki zostanÄ… ukazane za 10 sekund.";
 
-"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz handlowaæ podczas obserwacji.";
+"ê´€ì „ ìƒíƒœì—ì„œëŠ” êµí™˜ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz handlowaÄ‡ podczas obserwacji.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Jeœli okno jest otwarte, nie mo¿esz handlowaæ z innymi.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë ¤ìˆì„ê²½ìš° ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"JeÅ›li okno jest otwarte, nie moÅ¼esz handlowaÄ‡ z innymi.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz handlowaæ teraz z t¹ osob¹, poniewa¿ jest ona obecnie zajêta.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ì¤‘ì´ë¼ ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz handlowaÄ‡ teraz z tÄ… osobÄ…, poniewaÅ¼ jest ona obecnie zajÄ™ta.";
 
-"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Druga osoba zablokowa³a handel.";
+"ìƒëŒ€ë°©ì´ êµí™˜ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"Druga osoba zablokowaì¿ª handel.";
 
-"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Za ma³o Yang lub brak miejsca w ekwipunku.";
+"ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"Za maì¿½ Yang lub brak miejsca w ekwipunku.";
 
-"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Druga osoba nie ma wystarczaj¹cej iloœci Yang lub nie ma miejsca w ekwipunku.";
+"ìƒëŒ€ë°©ì˜ ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"Druga osoba nie ma wystarczají‰ej iloìi Yang lub nie ma miejsca w ekwipunku.";
 
-"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"ìƒëŒ€ë°©ì˜ ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
 "Druga osoba nie ma miejsca w ekwipunku.";
 
-"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
-"Handel z %s zakoñczony pomyœlnie.";
+"%s ë‹˜ê³¼ì˜ êµí™˜ì´ ì„±ì‚¬ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Handel z %s zakoÅ„czony pomyÅ›lnie.";
 
-"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nie straci³eœ doœwiadczenia dziêki B³ogos³awieñstwu Boga Smoków.";
+"ìš©ì‹ ì˜ ê°€í˜¸ë¡œ ê²½í—˜ì¹˜ê°€ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nie straciÅ‚eÅ› doÅ›wiadczenia dziÄ™ki BÅ‚ogosÅ‚awieÅ„stwu Boga SmokÃ³w.";
 
-"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
+"í˜„ì¬ ìŠ¤ì½”ì–´ ì‹ ìˆ˜êµ­:%d ì²œì¡°êµ­:%d ì§„ë…¸êµ­:%d";
 "Aktualna punktacja: Shinsoo %d, Chunjo %d, Jinno %d";
 
-"Á¤´äÀº";
-"Prawid³owa odpowiedŸ to:";
+"ì •ë‹µì€";
+"PrawidÅ‚owa odpowiedÅº to:";
 
-"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"ì£½ì€ ì •ë³´ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 "%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 
-"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
-"Diabe³ Œwiêtej Ziemi: [ENTER][ENTER]";
+"ì„±ì§€ì˜ ë§ˆì™•: ë„ˆí¬ ";
+"DiabeÅ‚ ÅšwiÄ™tej Ziemi: [ENTER][ENTER]";
 
-"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
-", nie masz prawa tu przebywaæ. Za 10 sekund wszyscy obywatele twojego królestwa opuszcz¹ tê œwiêt¹ ziemiê.";
+"ë…€ì„ë“¤ì€ ì´ê³³ ì„±ì§€ì— ìˆì„ ìê²©ì„ ìƒì—ˆë‹¤. ëª¨ë‘ ì„±ì§€ì—ì„œ ë¬¼ëŸ¬ë‚˜ê±°ë¼~~[ENTER][ENTER] 10ì´ˆ í›„ì— ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™í•˜ê²Œ ë©ë‹ˆë‹¤. ";
+", nie masz prawa tu przebywaÄ‡. Za 10 sekund wszyscy obywatele twojego krÃ³lestwa opuszczÄ… tÄ™ Å›wiÄ™tÄ… ziemiÄ™.";
 
-"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
-"Królestwo %s zosta³o pokonane i odpada z Wojny Królestw.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ì—ì„œ %s êµ­ê°€ê°€ ê°€ì¥ë¨¼ì € íƒˆë½ì„ í•˜ì˜€ìŠµë‹ˆë‹¤";
+"KrÃ³lestwo %s zostaÅ‚o pokonane i odpada z Wojny KrÃ³lestw.";
 
-"»ï°Å¸® ¸÷ ¸®Á¨";
-"Liczba potworów w Wojnie Królestw:";
+"ì‚¼ê±°ë¦¬ ëª¹ ë¦¬ì  ";
+"Liczba potworÃ³w w Wojnie KrÃ³lestw:";
 
-". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
-"Jeœli pokonasz Stra¿nika Œwiêtej Ziemi, staniesz siê jego w³aœcicielem.";
+". ë„ˆí¬ê°€ ì„±ì§€ì˜ ìˆ˜í˜¸ìë¥¼ ì¡ê²Œ ëœë‹¤ë©´ ë„ˆí¬ëŠ” ì„±ì§€ì˜ ì£¼ì¸ì´ ëœë‹¤.[ENTER][ENTER] ";
+"JeÅ›li pokonasz StraÅ¼nika ÅšwiÄ™tej Ziemi, staniesz siÄ™ jego wÅ‚aÅ›cicielem.";
 
-"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nie upuœci³eœ ¿adnego przedmiotu, poniewa¿ jesteœ chroniony przez Boga Smoków.";
+"ìš©ì‹ ì˜ ë³´í˜¸ë¡œ ì•„ì´í…œì´ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nie upuÅ›ciÅ‚eÅ› Å¼adnego przedmiotu, poniewaÅ¼ jesteÅ› chroniony przez Boga SmokÃ³w.";
 
-"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
-"Dodatkowe obra¿enia od pchniêcia %d";
+"ê´€í†µ ì¶”ê°€ ë°ë¯¸ì§€ %d";
+"Dodatkowe obraÅ¼enia od pchniÄ™cia %d";
 
-"%s ºí·°! (%ld%%)";
+"%s ë¸”ëŸ­! (%ld%%)";
 "%s blokuje! (%d%%)";
 
-"%s È¸ÇÇ! (%ld%%)";
+"%s íšŒí”¼! (%ld%%)";
 "%s robi unik! (%d%%)";
 
-"O ÀÔ´Ï´Ù";
+"O ì…ë‹ˆë‹¤";
 "Tak (O)";
 
-"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
+"%s[%ld]ê°€ ê³µê²© ìœ„ì¹˜: %d %d";
 "%s[%d]s Pozycja ataku: %d %d";
 
-"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
-"Proszê wpisaæ pe³ne polecenie.";
+"ëª…ë ¹ì–´ë¥¼ ëª¨ë‘ ì…ë ¥í•˜ì„¸ìš”.";
+"ProszÄ™ wpisaÄ‡ peÅ‚ne polecenie.";
 
-"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz tego zrobiæ, gdy dosiadasz konia.";
+"íƒ„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz tego zrobiÄ‡, gdy dosiadasz konia.";
 
-"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz wykonaæ tej akcji le¿¹c na ziemi.";
+"ì“°ëŸ¬ì§„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz wykonaÄ‡ tej akcji leÅ¼Ä…c na ziemi.";
 
-"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
-"W moich snach? ¯e co?";
+"ê¿ˆì†ì—ì„œ ì–´ë–»ê²Œìš”?";
+"W moich snach? ì¹ co?";
 
-"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
-"Najpierw wstañ.";
+"ë¨¼ì € ì¼ì–´ ë‚˜ì„¸ìš”.";
+"Najpierw wstaÅ„.";
 
-"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
+"ê·¸ëŸ° ëª…ë ¹ì–´ëŠ” ì—†ìŠµë‹ˆë‹¤";
 "Ta komenda nie istnieje.";
 
-"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
-"[Grupa] Grupa zosta³a skasowana.";
+"<íŒŒí‹°> íŒŒí‹°ê°€ í•´ì‚° ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Grupa] Grupa zostaì¿ª skasowana.";
 
-"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz przenieœæ celu.";
+"<íŒŒí‹°> ëŒ€ìƒì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moí’½sz przenieì’ celu.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nie mo¿esz teleportowaæ cz³onków grupy na swoj¹ aktualn¹ pozycjê.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ í˜„ì¬ ìœ„ì¹˜ë¡œ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nie moÅ¼esz teleportowaÄ‡ czÅ‚onkÃ³w grupy na swojÄ… aktualnÄ… pozycjÄ™.";
 
-"X ÀÔ´Ï´Ù";
+"X ì…ë‹ˆë‹¤";
 "Nie (X)";
 
-"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
-"Twoja grupa jest bardzo zgrana i cz³onkowie grupy, którzy znajduj¹ siê w pobli¿u lidera, otrzymaj¹ bonus doœwiadczenia.";
+"íŒŒí‹°ì˜ í˜‘ë™ë ¥ì´ ë†’ì•„ì ¸ ì§€ê¸ˆë¶€í„° ì¶”ê°€ ê²½í—˜ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ìŠµë‹ˆë‹¤.";
+"Twoja grupa jest bardzo zgrana i czÅ‚onkowie grupy, ktÃ³rzy znajdujÄ… siÄ™ w pobliÅ¼u lidera, otrzymajÄ… bonus doÅ›wiadczenia.";
 
-"±æµåÀå";
+"ê¸¸ë“œì¥";
 "Lider";
 
-"±æµå¿ø";
-"Cz³onek";
+"ê¸¸ë“œì›";
+"Czì¿½nek";
 
-"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
-"[Gildia] Iloœæ przekazanego doœwiadczenie jest prawdopodobnie za du¿a.";
+"<ê¸¸ë“œ> ì œê³µí•˜ê³ ì í•˜ëŠ” ê²½í—˜ì¹˜ê°€ ë‚¨ì€ ê²½í—˜ì¹˜ë³´ë‹¤ ë§ìŠµë‹ˆë‹¤.";
+"[Gildia] Iloì’ przekazanego doì—iadczenie jest prawdopodobnie za duí’¹.";
 
-"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
-"[Gildia] Wiadomoœæ nie mo¿e zostaæ usuniêta.";
+"<ê¸¸ë“œ> ì‚­ì œí•  ìˆ˜ ì—†ëŠ” ê¸€ì…ë‹ˆë‹¤.";
+"[Gildia] WiadomoÅ›Ä‡ nie moÅ¼e zostaÄ‡ usuniÄ™ta.";
 
-"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
-"[Gildia] Za ma³o Ducha Smoka. (%d, %d)";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤. (%d, %d)";
+"[Gildia] Za maì¿½ Ducha Smoka. (%d, %d)";
 
-"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Jeszcze nie mo¿esz u¿ywaæ umiejêtnoœci gildii.";
+"<ê¸¸ë“œ> ì¿¨íƒ€ì„ì´ ëë‚˜ì§€ ì•Šì•„ ê¸¸ë“œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Jeszcze nie moÅ¼esz uÅ¼ywaÄ‡ umiejÄ™tnoÅ›ci gildii.";
 
-"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
-"[Gildia] %d umiejêtnoœæ u¿yta (%d, %d) na %u.";
+"<ê¸¸ë“œ> %d ìŠ¤í‚¬ì„ ì‚¬ìš©í•¨ (%d, %d) to %lu";
+"[Gildia] %d umiejÄ™tnoÅ›Ä‡ uÅ¼yta (%d, %d) na %u.";
 
-"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"[Gildia] Gracz jest na kanale %d (aktualny kana³: %d).";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"[Gildia] Gracz jest na kanale %d (aktualny kanaÅ‚: %d).";
 
-"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
 "[Gildia] Gracz nie jest online.";
 
-"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
-"Po 5 sekundach, uczestnicy, którzy udzielili z³ej odpowiedzi zostan¹ wykluczeni.";
+"5ì´ˆ ë’¤ í‹€ë¦¬ì‹  ë¶„ë“¤ì„ ë°”ê¹¥ìœ¼ë¡œ ì´ë™ ì‹œí‚¤ê² ìŠµë‹ˆë‹¤.";
+"Po 5 sekundach, uczestnicy, ktÃ³rzy udzielili zÅ‚ej odpowiedzi zostanÄ… wykluczeni.";
 
-"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Gildia] Ta umiejêtnoœæ gildii mo¿e byæ u¿yta tylko podczas wojny.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ì€ ê¸¸ë“œì „ ì¤‘ì—ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Gildia] Ta umiejÄ™tnoÅ›Ä‡ gildii moÅ¼e byÄ‡ uÅ¼yta tylko podczas wojny.";
 
-"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
+"<ê¸¸ë“œ> %luì˜ ìš©ì‹ ë ¥ì„ íšŒë³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "[Gildia] Zregenerowano %u Ducha Smoka.";
 
-"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Gildia] Tylko Lider Gildii mo¿e pobraæ Yang.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ê¸ˆê³ ì—ì„  ê¸¸ë“œì¥ë§Œ ì¶œê¸ˆí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Gildia] Tylko Lider Gildii moÅ¼e pobraÄ‡ Yang.";
 
-"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Gildia] Gracz odrzuci³ zaproszenie do Gildii.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê¸¸ë“œ ì´ˆëŒ€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Gildia] Gracz odrzuciÅ‚ zaproszenie do Gildii.";
 
-"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zapraszaæ osób do Gildii.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ì´ˆëŒ€í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zapraszaÄ‡ osÃ³b do Gildii.";
 
-"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Nie mo¿esz zapraszaæ do Gildii graczy z innych Królestw.";
+"<ê¸¸ë“œ> ë‹¤ë¥¸ ì œêµ­ ì‚¬ëŒì„ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Nie moÅ¼esz zapraszaÄ‡ do Gildii graczy z innych KrÃ³lestw.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Gracz mo¿e zostaæ zaproszony ponownie za: %d dzieñ/dni.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] Gracz moÅ¼e zostaÄ‡ zaproszony ponownie za: %d dzieÅ„/dni.";
 
-"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Gildia] Mo¿esz zapraszaæ cz³onków dopiero po %d dniach od reorganizacji.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ í•´ì‚°í•œ ì§€ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Gildia] MoÅ¼esz zapraszaÄ‡ czÅ‚onkÃ³w dopiero po %d dniach od reorganizacji.";
 
-"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
-"[Gildia] Ten gracz nale¿y ju¿ do innej Gildii.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ì´ë¯¸ ë‹¤ë¥¸ ê¸¸ë“œì— ì†í•´ìˆìŠµë‹ˆë‹¤.";
+"[Gildia] Ten gracz naleÅ¼y juÅ¼ do innej Gildii.";
 
-"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
-"[Gildia] Pojemnoœæ Gildii osi¹gnê³a górny limit.";
+"<ê¸¸ë“œ> ìµœëŒ€ ê¸¸ë“œì› ìˆ˜ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.";
+"[Gildia] PojemnoÅ›Ä‡ Gildii osiÄ…gnÄ™Å‚a gÃ³rny limit.";
 
-"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
-"Gotowi na nastêpne pytanie?";
+"ë‹¤ìŒ ë¬¸ì œ ì¤€ë¹„í•´ì£¼ì„¸ìš”.";
+"Gotowi na nastÄ™pne pytanie?";
 
-"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nie mo¿esz szkoliæ siê w tej umiejêtnoœci.";
+"ìˆ˜ë ¨í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz szkoliÄ‡ siÄ™ w tej umiejÄ™tnoÅ›ci.";
 
-"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz szkoliæ siê w tej umiejêtnoœci.";
+"ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz szkoliÄ‡ siÄ™ w tej umiejÄ™tnoÅ›ci.";
 
-"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nie mo¿esz szkoliæ siê w tej umiejêtnoœci do Wielkiego Mistrza.";
+"ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz szkoliÄ‡ siÄ™ w tej umiejÄ™tnoÅ›ci do Wielkiego Mistrza.";
 
-"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Jesteœ ju¿ mistrzem w tej umiejêtnoœci. Nie mo¿esz jej ju¿ szkoliæ.";
+"í¼í™íŠ¸ ë§ˆìŠ¤í„°ëœ ìŠ¤í‚¬ì…ë‹ˆë‹¤. ë” ì´ìƒ ìˆ˜ë ¨ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"JesteÅ› juÅ¼ mistrzem w tej umiejÄ™tnoÅ›ci. Nie moÅ¼esz jej juÅ¼ szkoliÄ‡.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Twoja umiejêtnoœæ nie jest na tyle wysoka, aby zostaæ Wielkim Mistrzem.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Twoja umiejÄ™tnoÅ›Ä‡ nie jest na tyle wysoka, aby zostaÄ‡ Wielkim Mistrzem.";
 
-"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
-"To nie zadzia³a³o. Bleh!";
+"í¬ìœ½, ê¸°ê°€ ì—­ë¥˜í•˜ê³  ìˆì–´! ì´ê±° ì„¤ë§ˆ ì£¼í™”ì…ë§ˆì¸ê°€!? ì  ì¥!";
+"To nie zadziaì¿ªì¿½. Bleh!";
 
-"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
-"Szkolenie niepomyœlne. Proszê spróbowaæ póŸniej.";
+"ìˆ˜ë ¨ì´ ì‹¤íŒ¨ë¡œ ëë‚¬ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ë„ì „í•´ì£¼ì‹œê¸° ë°”ëë‹ˆë‹¤.";
+"Szkolenie niepomyÅ›lne. ProszÄ™ sprÃ³bowaÄ‡ pÃ³Åºniej.";
 
-"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
-"Moje cia³o jest pe³ne energii!";
+"ëª¸ì—ì„œ ë­”ê°€ í˜ì´ í„°ì ¸ ë‚˜ì˜¤ëŠ” ê¸°ë¶„ì´ì•¼!";
+"Moje ciaì¿½ jest peì¿»e energii!";
 
-"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
-"Widaæ ju¿ skutki treningu...";
+"ëœ¨ê±°ìš´ ë¬´ì—‡ì´ ê³„ì† ìš©ì†ŸìŒì¹˜ê³  ìˆì–´! ì´ê±´, ì´ê²ƒì€!";
+"WidaÄ‡ juÅ¼ skutki treningu...";
 
-"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Pomyœlnie zakoñczy³eœ trening przy pomocy ksi¹¿ki.";
+"ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"PomyÅ›lnie zakoÅ„czyÅ‚eÅ› trening przy pomocy ksiÄ…Å¼ki.";
 
-"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz tego przeczytaæ, poniewa¿ brakuje Ci doœwiadczenia.";
+"ê²½í—˜ì¹˜ê°€ ë¶€ì¡±í•˜ì—¬ ì±…ì„ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz tego przeczytaÄ‡, poniewaÅ¼ brakuje Ci doÅ›wiadczenia.";
 
 "Pregunta.";
 "Pytanie.";
 
-"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz szkoliæ tej umiejêtnoœci za pomoc¹ Ksi¹¿ki.";
+"ì´ ìŠ¤í‚¬ì€ ì±…ìœ¼ë¡œ ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz szkoliÄ‡ tej umiejÄ™tnoÅ›ci za pomocÄ… KsiÄ…Å¼ki.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Umiejêtnoœæ nie jest odpowiednio rozwiniêta, aby szkoliæ j¹ przy pomocy Ksi¹¿ki.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ì±…ìœ¼ë¡œ ìˆ˜ë ¨í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"UmiejÄ™tnoÅ›Ä‡ nie jest odpowiednio rozwiniÄ™ta, aby szkoliÄ‡ jÄ… przy pomocy KsiÄ…Å¼ki.";
 
-"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
-"Robiê postêpy ale nie zrozumia³em jeszcze wszystkiego.";
+"ì–´ëŠì •ë„ ì´ ê¸°ìˆ ì— ëŒ€í•´ ì´í•´ê°€ ë˜ì—ˆì§€ë§Œ ì¡°ê¸ˆ ë¶€ì¡±í•œë“¯ í•œë°..";
+"RobiÄ™ postÄ™py ale nie zrozumiaÅ‚em jeszcze wszystkiego.";
 
-"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
-"Tê technikê ciê¿ko zrozumieæ. Muszê kontynuowaæ trening.";
+"ë“œë””ì–´ ëì´ ë³´ì´ëŠ” ê±´ê°€...  ì´ ê¸°ìˆ ì€ ì´í•´í•˜ê¸°ê°€ ë„ˆë¬´ í˜ë“¤ì–´..";
+"TÄ™ technikÄ™ ciÄ™Å¼ko zrozumieÄ‡. MuszÄ™ kontynuowaÄ‡ trening.";
 
-"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
-"Ten rozdzia³ ju¿ zrozumia³em, ale czeka mnie jeszcze mnóstwo ciê¿kiej pracy.";
+"ì—´ì‹¬íˆ í•˜ëŠ” ë°°ì›€ì„ ê°€ì§€ëŠ” ê²ƒë§Œì´ ê¸°ìˆ ì„ ë°°ìš¸ìˆ˜ ìˆëŠ” ìœ ì¼í•œ ê¸¸ì´ë‹¤..";
+"Ten rozdziaÅ‚ juÅ¼ zrozumiaÅ‚em, ale czeka mnie jeszcze mnÃ³stwo ciÄ™Å¼kiej pracy.";
 
-"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Pomyœlnie zakoñczy³eœ trening przy pomocy ksi¹¿ki.";
+"ì±…ìœ¼ë¡œ ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"PomyÅ›lnie zakoÅ„czyÅ‚eÅ› trening przy pomocy ksiÄ…Å¼ki.";
 
-"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Teleportacja niepomyœlna.";
+"ê·€í™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Teleportacja niepomyì‹na.";
 
-"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
+"ë§ì´ ì—†ìŠµë‹ˆë‹¤. ë§ˆêµ¿ê°„ ê²½ë¹„ë³‘ì„ ì°¾ì•„ê°€ì„¸ìš”.";
 "Nie ma tu konia. Zapytaj Stajennego.";
 
-"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
-"Proszê u¿yæ przedmiotu, aby przywo³aæ konia.";
+"ë§ ì†Œí™˜ ì•„ì´í…œì„ ì‚¬ìš©í•˜ì„¸ìš”.";
+"ProszÄ™ uÅ¼yÄ‡ przedmiotu, aby przywoÅ‚aÄ‡ konia.";
 
-"%s SP¼Ò¸ğ: %d";
-"%s U¿ycie FP: %d";
+"%s SPì†Œëª¨: %d";
+"%s Uí““cie FP: %d";
 
-"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
-"Jeœli TAK, przejdŸ na pole O, jeœli NIE, przejdŸ na pole X.";
+"ë§ìœ¼ë©´ O, í‹€ë¦¬ë©´ Xë¡œ ì´ë™í•´ì£¼ì„¸ìš”";
+"JeÅ›li TAK, przejdÅº na pole O, jeÅ›li NIE, przejdÅº na pole X.";
 
-"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
-"P³onê wewn¹trz, ale to uspokaja moje cia³o.";
+"ëª¸ ì†ì´ ëœ¨ê²êµ°. í•˜ì§€ë§Œ ì•„ì£¼ í¸ì•ˆí•´. ì´ëŒ€ë¡œ ê¸°ë¥¼ ì•ˆì •ì‹œí‚¤ì.";
+"PÅ‚onÄ™ wewnÄ…trz, ale to uspokaja moje ciaÅ‚o.";
 
-"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
+"ê·¸ë˜, ì²œì²œíˆ. ì¢€ë” ì²œì²œíˆ, ê·¸ëŸ¬ë‚˜ ë§‰í˜ ì—†ì´ ë¹ ë¥´ê²Œ!";
 "Powoli, ale spokojnie.... Bez zatrzymywania.";
 
-"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
-"Tak, to uczucie jest œwietne. Moje cia³o jest pe³ne Chi.";
+"ê·¸ë˜, ì´ ëŠë‚Œì´ì•¼. ì²´ë‚´ì— ê¸°ê°€ ì•„ì£¼ ì¶©ë§Œí•´.";
+"Tak, to uczucie jest ì—ietne. Moje ciaì¿½ jest peì¿»e Chi.";
 
-"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
-"Przeczyta³em! Teraz Chi musi pop³yn¹æ przez moje cia³o.";
+"ë‹¤ ì½ì—ˆë‹¤! ì´ì œ ë¹„ê¸‰ì— ì í˜€ìˆëŠ” ëŒ€ë¡œ ì „ì‹ ì— ê¸°ë¥¼ ëŒë¦¬ê¸°ë§Œ í•˜ë©´,";
+"Przeczytaì¿®m! Teraz Chi musi popí€‰në°© przez moje ciaì¿½.";
 
-"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
-"Trening zakoñczony.";
+"ê·¸ê²ƒìœ¼ë¡œ ìˆ˜ë ¨ì€ ëë‚œ ê±°ì•¼!";
+"Trening zakoÅ„czony.";
 
-"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
-"Jestem na ostatniej stronie! Trening jest prawie zakoñczony!";
+"ì´ì œ ì±…ì˜ ë§ˆì§€ë§‰ ì¥ì´ì•¼! ìˆ˜ë ¨ì˜ ëì´ ëˆˆì— ë³´ì´ê³  ìˆì–´!";
+"Jestem na ostatniej stronie! Trening jest prawie zakoÅ„czony!";
 
-"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
-"Prawie koniec! Jeszcze tylko troszeczkê!";
+"ì–¼ë§ˆ ì•ˆ ë‚¨ì•˜ì–´! ì¡°ê¸ˆë§Œ ë”!";
+"Prawie koniec! Jeszcze tylko troszeczkÄ™!";
 
-"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
-"Zosta³em oœwiecony! Przeczyta³em prawie wszystko!";
+"ì¢‹ì•˜ì–´! ì¡°ê¸ˆë§Œ ë” ì½ìœ¼ë©´ ëì´ë‹¤!";
+"Zostaì¿®m oì—iecony! Przeczytaì¿®m prawie wszystko!";
 
-"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
-"Zosta³o mi ju¿ tylko kilka stron do przeczytania.";
+"ì±…ì¥ë„ ì´ì œ ì–¼ë§ˆ ë‚¨ì§€ ì•Šì•˜êµ°.";
+"ZostaÅ‚o mi juÅ¼ tylko kilka stron do przeczytania.";
 
-"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
-"Czujê siê odœwie¿ony.";
+"ë­”ê°€ ëª¸ ì•ˆì— í˜ì´ ìƒê¸°ëŠ” ê¸°ë¶„ì¸ ê±¸.";
+"CzujÄ™ siÄ™ odÅ›wieÅ¼ony.";
 
-"Á¤´äÀÔ´Ï´Ù!";
-"Prawid³owo!";
+"ì •ë‹µì…ë‹ˆë‹¤!";
+"Prawidì¿½wo!";
 
-"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
+"ì´ì œ ì¢€ ìŠ¬ìŠ¬ ê°€ë‹¥ì´ ì¡íˆëŠ” ê²ƒ ê°™ì€ë°.";
 "Teraz rozumiem!";
 
-"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
-"Dobrze, teraz muszê pozostaæ skoncentrowanym!";
+"ì¢‹ì•„, ì´ ê¸°ì„¸ë¡œ ê³„ì† ë‚˜ê°„ë‹¤!";
+"Dobrze, teraz muszÄ™ pozostaÄ‡ skoncentrowanym!";
 
-"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
-"Czytam t¹ sam¹ liniê ponownie.";
+"ì•„ë‹ˆ ì–´ë–»ê²Œ ëœ ê²Œ ì¢…ì¼ ì½ì–´ë„ ë¨¸ë¦¬ì— ì•ˆ ë“¤ì–´ì˜¤ëƒ.";
+"Czytam tÄ… samÄ… liniÄ™ ponownie.";
 
-"°øºÎÇÏ±â ½È¾îÁö³×.";
-"Nie chcê ju¿ siê wiêcej uczyæ.";
+"ê³µë¶€í•˜ê¸° ì‹«ì–´ì§€ë„¤.";
+"Nie chcÄ™ juÅ¼ siÄ™ wiÄ™cej uczyÄ‡.";
 
-"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
-"To jest du¿o trudniejsze ni¿ siê spodziewa³em.";
+"ìƒê°ë§Œí¼ ì½ê¸°ê°€ ì‰½ì§€ê°€ ì•Šêµ°. ì´í•´ë„ ì–´ë µê³  ë‚´ìš©ë„ ë‚œí•´í•´.";
+"To jest duÅ¼o trudniejsze niÅ¼ siÄ™ spodziewaÅ‚em.";
 
-"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
-"Nie potrafiê siê skoncentrowaæ. Powinienem zrobiæ sobie przerwê.";
+"ì´ë˜ì„œì•¼ ê³µë¶€ê°€ ì•ˆëœë‹¤êµ¬.";
+"Nie potrafiÄ™ siÄ™ skoncentrowaÄ‡. Powinienem zrobiÄ‡ sobie przerwÄ™.";
 
-"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
-"Mo¿liwoœæ pisania zosta³a zablokowana przez GM!";
+"ìš´ì˜ì ì œì œë¡œ ì±„íŒ…ì´ ê¸ˆì§€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Moí“„iwoì’ pisania zostaì¿ª zablokowana przez GM!";
 
-"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
-"Twój Chat zosta³ odblokowany.";
+"ì±„íŒ… ê¸ˆì§€ê°€ í’€ë ¸ìŠµë‹ˆë‹¤.";
+"TwÃ³j Chat zostaÅ‚ odblokowany.";
 
-"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
-"Okno budowania jest ju¿ otwarte.";
+"ì´ë¯¸ ì œì¡°ì°½ì´ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"Okno budowania jest juÅ¼ otwarte.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz nic budowaæ, gdy jest otwarte inne okno handlu/magazynu.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz nic budowaÄ‡, gdy jest otwarte inne okno handlu/magazynu.";
 
-"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Postêp nie jest mo¿liwy";
+"ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"PostÄ™p nie jest moÅ¼liwy";
 
-"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
+"ì œì¡°ì°½ì´ ì—´ë ¤ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
 "Okno budowania nie jest otwarte";
 
-"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
-"Nie masz w³aœciwego materia³u.";
+"ì œì¡° ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤";
+"Nie masz wì¿ªìiwego materiaí€….";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
-"[Gildia] Spróbuj ponownie póŸniej.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤";
+"[Gildia] SprÃ³buj ponownie pÃ³Åºniej.";
 
-"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Musisz przeczytaæ jeszcze %d Ksi¹g Umiejêtnoœci aby ulepszyæ tê Umiejêtnoœæ.";
+"%d ê¶Œì„ ë” ì½ì–´ì•¼ ìˆ˜ë ¨ì„ ì™„ë£Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Musisz przeczytaÄ‡ jeszcze %d KsiÄ…g UmiejÄ™tnoÅ›ci aby ulepszyÄ‡ tÄ™ UmiejÄ™tnoÅ›Ä‡.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
-"[Gildia] Spróbuj ponownie póŸniej.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤.";
+"[Gildia] SprÃ³buj ponownie pÃ³Åºniej.";
 
-"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
-"Mo¿esz u¿ywaæ t¹ czynnoœæ jedynie jak jesteœ w zamku.";
+"ì„±ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤.";
+"MoÅ¼esz uÅ¼ywaÄ‡ tÄ… czynnoÅ›Ä‡ jedynie jak jesteÅ› w zamku.";
 
-"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
-"TEST: Z³ota sztabka zosta³a wp³acona do skarbca twojego królestwa.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ê°€ êµ­ê³ ë¡œ í™˜ì›ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TEST: ZÅ‚ota sztabka zostaÅ‚a wpÅ‚acona do skarbca twojego krÃ³lestwa.";
 
-"TEST : ÇöÀç ±¹°í : %d";
-"TEST: W skarbcu twojego królestwa s¹: %d";
+"TEST : í˜„ì¬ êµ­ê³  : %d";
+"TEST: W skarbcu twojego krÃ³lestwa sÄ…: %d";
 
-"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"TEST: Nie mo¿esz wp³aciæ z³otej sztabki do skarbca twojego królestwa.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ë¥¼ êµ­ê³ ë¡œ í™˜ì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TEST: Nie moÅ¼esz wpÅ‚aciÄ‡ zÅ‚otej sztabki do skarbca twojego krÃ³lestwa.";
 
-"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
-"[Gildia] Ranga osi¹gnê³a %d Punktów.";
+"<ê¸¸ë“œ> ë˜ë” ì ìˆ˜ê°€ %d ì ì´ ë˜ì—ˆìŠµë‹ˆë‹¤";
+"[Gildia] Ranga osiÄ…gnÄ™Å‚a %d PunktÃ³w.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ten przedmiot nie mo¿e byæ ulepszony.";
+"ì´ ì•„ì´í…œì€ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ten przedmiot nie moÅ¼e byÄ‡ ulepszony.";
 
-"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
-"Darmowe ulepszenie broni mo¿e byæ u¿yte jedynie w broniach do 20 poziomu.";
+"ë¬´ë£Œ ê°œëŸ‰ ê¸°íšŒëŠ” 20 ì´í•˜ì˜ ë¬´ê¸°ë§Œ ê°€ëŠ¥í•©ë‹ˆë‹¤";
+"Darmowe ulepszenie broni moÅ¼e byÄ‡ uÅ¼yte jedynie w broniach do 20 poziomu.";
 
-"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ tego przedmiotu, poniewa¿ nie masz wszystkich kwalifikacji.";
+"êµ°ì§ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ tego przedmiotu, poniewaÅ¼ nie masz wszystkich kwalifikacji.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz u¿yæ tego przedmiotu, poniewa¿ nie jesteœ odpowiedniej p³ci.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ tego przedmiotu, poniewaÅ¼ nie jesteÅ› odpowiedniej pÅ‚ci.";
 
-"»ç¿ë¹ı: transfer <name>";
-"U¿yj: transfer <name>";
+"ì‚¬ìš©ë²•: transfer <name>";
+"Uí““j: transfer <name>";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Ta czynnoœæ mo¿e byæ u¿yta tylko przez Imperatora.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš© ê°€ëŠ¥í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Ta czynnoÅ›Ä‡ moÅ¼e byÄ‡ uÅ¼yta tylko przez Imperatora.";
 
-"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz rekrutowaæ graczy z innego królestwa.";
+"ë‹¤ë¥¸ ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz rekrutowaÄ‡ graczy z innego krÃ³lestwa.";
 
-"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
-"Gracz %s obecnie przebywa na kanale %d. (Twój Kana³: %d)";
+"%s ë‹˜ì€ %d ì±„ë„ì— ì ‘ì† ì¤‘ ì…ë‹ˆë‹¤. (í˜„ì¬ ì±„ë„: %d)";
+"Gracz %s obecnie przebywa na kanale %d. (TwÃ³j KanaÅ‚: %d)";
 
-"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
-"Zrekrutowa³eœ %s graczy.";
+"%s ë‹˜ì„ ì†Œí™˜í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"ZrekrutowaÅ‚eÅ› %s graczy.";
 
-"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
+"ì…ë ¥í•˜ì‹  ì´ë¦„ì„ ê°€ì§„ ì‚¬ìš©ìê°€ ì—†ìŠµë‹ˆë‹¤.";
 "Nie ma gracza o tej nazwie.";
 
-"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz przyj¹æ samego siebie.";
+"ìì‹ ì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moí’½sz przyjë°© samego siebie.";
 
-"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Twój poziom jest ni¿szy ni¿ poziom przedmiotu po ulepszeniu.";
+"ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TwÃ³j poziom jest niÅ¼szy niÅ¼ poziom przedmiotu po ulepszeniu.";
 
-"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nie mo¿esz nic ulepszyæ, dopóki otwarte jest inne okno.";
+"ì°½ê³ ,ê±°ë˜ì°½ë“±ì´ ì—´ë¦° ìƒíƒœì—ì„œëŠ” ê°œëŸ‰ì„ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nie moÅ¼esz nic ulepszyÄ‡, dopÃ³ki otwarte jest inne okno.";
 
-"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
-"Imperator z %s zosta³ zmieniony na %s.";
+"%sì˜ êµ°ì£¼ê°€ %s ë‹˜ìœ¼ë¡œ êµì²´ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Imperator z %s zostaÅ‚ zmieniony na %s.";
 
-"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
-"S¹ %s wojny, by zapaliæ ogniska.";
+"%sì—ì„œ ë´‰í™”ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ì „íˆ¬ê°€ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤.";
+"SÄ… %s wojny, by zapaliÄ‡ ogniska.";
 
-"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
-"%s by³ w stanie obroniæ pomyœlnie.";
+"%sì´ ìˆ˜ì„±ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"%s byÅ‚ w stanie obroniÄ‡ pomyÅ›lnie.";
 
-"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Przez 30 minut od teraz gracz %s mo¿e dostaæ nagrodê, gdy¿ zniszczy³ ognisko.";
+"ì§€ê¸ˆë¶€í„° %sì€ 30ë¶„ê°„ ë´‰í™”ë¥¼ íŒŒê´´í•˜ì—¬ ë³´ìƒì„ íšë“ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Przez 30 minut od teraz gracz %s moÅ¼e dostaÄ‡ nagrodÄ™, gdyÅ¼ zniszczyÅ‚ ognisko.";
 
-"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
-"30 minut minê³o. Ogniska zgas³y.";
+"30ë¶„ì´ ê²½ê³¼í–ˆìŠµë‹ˆë‹¤.. ë´‰í™”ê°€ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"30 minut minæ€¨o. Ogniska zgasí€‰.";
 
-"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
-"Ognisko zosta³o zapalone w %s by ostrzec o bitwie.";
+"%sì— ì „ìŸì˜ ì‹œì‘ì„ ì•Œë¦¬ëŠ” ë´‰í™”ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤.";
+"Ognisko zostaì¿½ zapalone w %s by ostrzec o bitwie.";
 
-"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
-"%s zniszczy³ ognisko.";
+"%sì´ ë´‰í™”ë¥¼ íŒŒê´´í–ˆìŠµë‹ˆë‹¤.";
+"%s zniszczyÅ‚ ognisko.";
 
-"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
-"%s przegrali wojnê, poniewa¿ nie byli w stanie obroniæ zamku.";
+"%sì´ ìˆ˜ì„±ì— ì‹¤íŒ¨í•˜ì—¬ ì „ìŸì— íŒ¨ë°°í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"%s przegrali wojnÄ™, poniewaÅ¼ nie byli w stanie obroniÄ‡ zamku.";
 
-"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
-"%s zniszczy³ ognisko.";
+"%sì´ ëª¨ë“  ë´‰í™”ë¥¼ íŒŒê´´í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s zniszczyÅ‚ ognisko.";
 
-"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
-"Mo¿esz otworzyæ Sklep tylko gdy zdejmiesz Zbrojê.";
+"ê°‘ì˜·ì„ ë²—ì–´ì•¼ ê°œì¸ ìƒì ì„ ì—´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"MoÅ¼esz otworzyÄ‡ Sklep tylko gdy zdejmiesz ZbrojÄ™.";
 
-"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Twoja blokada czatu trwa jeszcze %d godzin %d minut %d sekund";
 
-"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Twoja blokada czatu trwa jeszcze %d godzin %d sekund";
 
-"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "Twoja blokada czatu trwa jeszcze %d minut %d sekund";
 
-"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
-"Szansa na deszcz dropów Yang";
+"ëˆ ëŒ€ë°•ì´ ë‚˜ì˜¬ í™•ë¥ ";
+"Szansa na deszcz dropÃ³w Yang";
 
-"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Masz za ma³o materia³u na ulepszenie.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Masz za maì¿½ materiaí€… na ulepszenie.";
 
-"ÀüÁ¦±¹";
-"Wszystkie Królestwa";
+"ì „ì œêµ­";
+"Wszystkie KrÃ³lestwa";
 
-"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
-"Czêstotliwoœæ wypadania przedmiotów";
+"ì•„ì´í…œì´ ë‚˜ì˜¬ í™•ë¥ ";
+"CzÄ™stotliwoÅ›Ä‡ wypadania przedmiotÃ³w";
 
-"µ·ÀÌ ³ª¿Ã È®·ü";
-"Czêstotliwoœæ wypadania Yang";
+"ëˆì´ ë‚˜ì˜¬ í™•ë¥ ";
+"CzÄ™stotliwoÅ›Ä‡ wypadania Yang";
 
-"°æÇèÄ¡ ¹èÀ²";
-"Procent Doœwiadczenia";
+"ê²½í—˜ì¹˜ ë°°ìœ¨";
+"Procent Doì—iadczenia";
 
-"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
-"Pozosta³o %d sekund do koñca twojej blokady pisania";
+"%d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
+"PozostaÅ‚o %d sekund do koÅ„ca twojej blokady pisania";
 
-"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz okazywaæ emocji bêd¹c na koniu.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz okazywaÄ‡ emocji bÄ™dÄ…c na koniu.";
 
-"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz okazywaæ emocji graczowi, który jest na koniu.";
+"ë§ì„ íƒ„ ìƒëŒ€ì™€ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz okazywaÄ‡ emocji graczowi, ktÃ³ry jest na koniu.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì¥ì´ ì ‘ì†ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
 "[Gildia] Lider Gildii przeciwnika jest offline.";
 
-"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì „ìŸ ì„œë²„ê°€ ì—´ë ¤ìˆì§€ ì•Šì•„ ê¸¸ë“œì „ì„ ì‹œì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Gildia] Lider Gildii przeciwnika jest offline.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Gildia] Obecnie ta Gildia uczestniczy ju¿ w walce.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸ ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Gildia] Obecnie ta Gildia uczestniczy juÅ¼ w walce.";
 
-"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
-"Jesteœ na koniu. Najpierw musisz zsi¹œæ.";
+"ì´ë¯¸ íƒˆê²ƒì„ ì´ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"JesteÅ› na koniu. Najpierw musisz zsiÄ…Å›Ä‡.";
 
-"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz ulepszaæ tym zwojem.";
+"ì´ ê°œëŸ‰ì„œë¡œ ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz ulepszaÄ‡ tym zwojem.";
 
-"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
-"Mo¿esz zostaæ nagrodzony tylko raz za ka¿d¹ wyprawê do Wie¿y Demonów.";
+"ì‚¬ê·€ íƒ€ì›Œ ì™„ë£Œ ë³´ìƒì€ í•œë²ˆê¹Œì§€ ì‚¬ìš©ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"MoÅ¼esz zostaÄ‡ nagrodzony tylko raz za kaÅ¼dÄ… wyprawÄ™ do WieÅ¼y DemonÃ³w.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Usuniêcie Smoczego Kamienia powiod³o siê.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"UsuniÄ™cie Smoczego Kamienia powiodÅ‚o siÄ™.";
 
-"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz przesuwaæ tego przedmiotu w obrêbie okienka uszlachetniania.";
+"ê°•í™”ì°½ì„ ì—° ìƒíƒœì—ì„œëŠ” ì•„ì´í…œì„ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz przesuwaÄ‡ tego przedmiotu w obrÄ™bie okienka uszlachetniania.";
 
-"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Ekstrakcja pozosta³ego czasu trwania Smoczego Kamienia powiod³a siê.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ekstrakcja pozostaÅ‚ego czasu trwania Smoczego Kamienia powiodÅ‚a siÄ™.";
 
-"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Ekstrakcja pozosta³ego czasu trwania nie powiod³a siê.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ekstrakcja pozostaÅ‚ego czasu trwania nie powiodÅ‚a siÄ™.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Usuniêcie Smoczego Kamienia nie powiod³o siê. Otrzymano jednak: %s";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì—¬ %së¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"UsuniÄ™cie Smoczego Kamienia nie powiodÅ‚o siÄ™. Otrzymano jednak: %s";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Usuniêcie Smoczego Kamienia nie powiod³o siê.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"UsuniÄ™cie Smoczego Kamienia nie powiodÅ‚o siÄ™.";
 
-"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Przedmiot ten nie jest potrzebny do podwy¿szenia stopnia jakoœci.";
+"ë“±ê¸‰ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Przedmiot ten nie jest potrzebny do podwyí“‹zenia stopnia jakoìi.";
 
-"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Przedmiot ten nie jest potrzebny do podwy¿szenia stopnia jakoœci.";
+"ê°•í™”ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Przedmiot ten nie jest potrzebny do podwyí“‹zenia stopnia jakoìi.";
 
-"µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Ten przedmiot nie mo¿e byæ ulepszony w ten sposób.";
+"ë“±ê¸‰ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Ten przedmiot nie moÅ¼e byÄ‡ ulepszony w ten sposÃ³b.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Ten przedmiot nie mo¿e byæ ulepszony w ten sposób.";
+"ì´ ì•„ì´í…œì€ ì´ ë°©ì‹ìœ¼ë¡œëŠ” ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Ten przedmiot nie moÅ¼e byÄ‡ ulepszony w ten sposÃ³b.";
 
-"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Podwy¿szenie stopnia jakoœci powiod³o siê.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"PodwyÅ¼szenie stopnia jakoÅ›ci powiodÅ‚o siÄ™.";
 
-"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Uszlachetnienie o jedn¹ klasê wzwy¿ nie powiod³o siê.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Uszlachetnienie o jednÄ… klasÄ™ wzwyÅ¼ nie powiodÅ‚o siÄ™.";
 
-"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
+"ë‹¨ê³„ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
 "Przedmiot ten nie jest potrzebny do uszlachetniania.";
 
-"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Uszlachetnienie o jedn¹ klasê wzwy¿ powiod³o siê.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Uszlachetnienie o jednÄ… klasÄ™ wzwyÅ¼ powiodÅ‚o siÄ™.";
 
-"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Podwy¿szenie stopnia jakoœci nie powiod³o siê.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"PodwyÅ¼szenie stopnia jakoÅ›ci nie powiodÅ‚o siÄ™.";
 
-"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Nie posiadasz odpowiednich materia³ów do wzmocnienia Smoczego Kamienia.";
+"ë‹¨ê³„ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Nie posiadasz odpowiednich materiaë†w do wzmocnienia Smoczego Kamienia.";
 
-"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Tego Smoczego Kamienia nie mo¿na u¿yæ w celu wzmocnienia.";
+"ê°•í™”í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Tego Smoczego Kamienia nie moÅ¼na uÅ¼yÄ‡ w celu wzmocnienia.";
 
-"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Wzmocnienie powiod³o siê.";
+"ê°•í™”ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Wzmocnienie powiodÅ‚o siÄ™.";
 
-"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Wzmocnienie nie powiod³o siê.";
+"ê°•í™”ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Wzmocnienie nie powiodÅ‚o siÄ™.";
 
-"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Nosisz ju¿ ten rodzaj Smoczego Kamienia.";
+"ì´ë¯¸ ê°™ì€ ì¢…ë¥˜ì˜ ìš©í˜¼ì„ì„ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"Nosisz juÅ¼ ten rodzaj Smoczego Kamienia.";
 
-"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿na usun¹æ tego Smoczego Kamienia.";
+"ì°©ìš© ì¤‘ì¸ ìš©í˜¼ì„ì€ ì¶”ì¶œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moí“†a usunë°© tego Smoczego Kamienia.";
 
-"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
-"Ju¿ masz na sobie taki Smoczy Kamieñ.";
+"ì´ë¯¸ ì¥ë¹„ë¥¼ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
+"JuÅ¼ masz na sobie taki Smoczy KamieÅ„.";
 
-"ÀÎº¥ÀÌ È°¼ºÈ­ µÇÁö ¾ÊÀ½.";
-"Zanim otworzysz Cor Draconis, musisz zakoñczyæ misjê Smoczego Kamienia i aktywowaæ Alchemiê Smoczych Kamieni.";
+"ì¸ë²¤ì´ í™œì„±í™” ë˜ì§€ ì•ŠìŒ.";
+"Zanim otworzysz Cor Draconis, musisz zakoÅ„czyÄ‡ misjÄ™ Smoczego Kamienia i aktywowaÄ‡ AlchemiÄ™ Smoczych Kamieni.";
 
-"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
-"Zanim otworzysz Cor Draconis, musisz zakoñczyæ misjê Smoczego Kamienia i aktywowaæ Alchemiê Smoczych Kamieni.";
+"ë¨¼ì € ìš©í˜¼ì„ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì…”ì•¼ í•©ë‹ˆë‹¤.";
+"Zanim otworzysz Cor Draconis, musisz zakoÅ„czyÄ‡ misjÄ™ Smoczego Kamienia i aktywowaÄ‡ AlchemiÄ™ Smoczych Kamieni.";
 
-"º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Mo¿esz zdj¹æ pas dopiero wtedy, gdy w jego inwentarzu nie bêdzie ¿adnego przedmiotu.";
+"ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ì— ì•„ì´í…œì´ ì¡´ì¬í•˜ë©´ í•´ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"MoÅ¼esz zdjÄ…Ä‡ pas dopiero wtedy, gdy w jego inwentarzu nie bÄ™dzie Å¼adnego przedmiotu.";
 
-"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
-"Zwój B³ogos³awieñstwa oraz Magiczny Metal mog¹ zostaæ po³¹czone.";
+"ì¶•ë³µì˜ ì„œì™€ í˜„ì² ì„ í•©ì¹  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"ZwÃ³j BÅ‚ogosÅ‚awieÅ„stwa oraz Magiczny Metal mogÄ… zostaÄ‡ poÅ‚Ä…czone.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
-"Tego przedmiotu nie mo¿esz zdeponowaæ w inwentarzu swojego pasa.";
+"ì´ ì•„ì´í…œì€ ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ë¡œ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Tego przedmiotu nie moÅ¼esz zdeponowaÄ‡ w inwentarzu swojego pasa.";
 
-"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"ê°™ì€ ê°œëŸ‰ì„œë¥¼ í•©ì¹  ìˆ˜ëŠ” ì—†ìŠµë‹ˆë‹¤.";
 "[1106-??]No puedes unir esto.";
 
-"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
-"Zainwestowa³eœ %d Yang.";
+"%d ëƒ¥ì„ íˆ¬ìí•˜ì…¨ìŠµë‹ˆë‹¤.";
+"ZainwestowaÅ‚eÅ› %d Yang.";
 
-"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
-"Nie ma ju¿ wiêcej Kamieni do wyjêcia.";
+"ë¹¼ë‚¼ ìˆ˜ ìˆëŠ” ë©”í‹´ì„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nie ma juÅ¼ wiÄ™cej Kamieni do wyjÄ™cia.";
 
-"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
-"Nie mo¿esz zapisaæ tej pozycji.";
+"ê¸°ì–µí•´ ë‘˜ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ ì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz zapisaÄ‡ tej pozycji.";
 
-"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Masz za ma³o miejsca w ekwipunku.";
+"ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Masz za maì¿½ miejsca w ekwipunku.";
 
-"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz przenieœæ siê do zapisanej pozycji w obcym Królestwie.";
+"ê¸°ì–µëœ ìœ„ì¹˜ê°€ íƒ€ì œêµ­ì— ì†í•´ ìˆì–´ì„œ ê·€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz przenieÅ›Ä‡ siÄ™ do zapisanej pozycji w obcym KrÃ³lestwie.";
 
-"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Masz za ma³o P¯.";
+"ë‚¨ì€ ìƒëª…ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Masz za maÅ‚o PÅ».";
 
-"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Masz za ma³o Punktów Energii aby tego u¿yæ.";
+"ë‚¨ì€ ì •ì‹ ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Masz za maÅ‚o PunktÃ³w Energii aby tego uÅ¼yÄ‡.";
 
-"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
-"Osi¹gniesz miejsce docelowe w %d sekund po wykonaniu.";
+"%d ì´ˆí›„ ëª©ì ì§€ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"Osií‰“niesz miejsce docelowe w %d sekund po wykonaniu.";
 
-"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Twój poziom jest ni¿szy od poziomu przedmiotu po ulepszeniu.";
+"ê°œëŸ‰ëœ í›„ ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"TwÃ³j poziom jest niÅ¼szy od poziomu przedmiotu po ulepszeniu.";
 
-"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
-"Mo¿esz u¿ywaæ Ksiê¿ycowych Torcików tylko raz na 5 sekund.";
+"ì›”ë³‘,ì¢…ì ì‚¬ìš©í›„ 5ì´ˆë™ì•ˆ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ";
+"MoÅ¼esz uÅ¼ywaÄ‡ KsiÄ™Å¼ycowych TorcikÃ³w tylko raz na 5 sekund.";
 
-"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
-"Nie mo¿esz u¿yæ tego przedmiotu w pojedynku.";
+"ëŒ€ë ¨ ì¤‘ì—ëŠ” ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë¬¼í’ˆì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz uÅ¼yÄ‡ tego przedmiotu w pojedynku.";
 
-"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
-"Wygra³eœ %d Yang.";
+"%d ëƒ¥ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"WygraÅ‚eÅ› %d Yang.";
 
-"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
-"Nie mo¿esz za³o¿yæ tutaj obozu.";
+"ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ëŠ” ì§€ì ì…ë‹ˆë‹¤.";
+"Nie moÅ¼esz zaÅ‚oÅ¼yÄ‡ tutaj obozu.";
 
-"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nie mo¿esz rozpaliæ Ogniska pod wod¹.";
+"ë¬¼ ì†ì— ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nie moÅ¼esz rozpaliÄ‡ Ogniska pod wodÄ….";
 
-"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
-"Zamkniête. Powinieneœ poszukaæ klucza.";
+"ì—´ì‡ ë¡œ ì ê²¨ ìˆì–´ì„œ ì—´ë¦¬ì§€ ì•ŠëŠ”ê²ƒ ê°™ë‹¤. ì—´ì‡ ë¥¼ êµ¬í•´ë³´ì.";
+"ZamkniÄ™te. PowinieneÅ› poszukaÄ‡ klucza.";
 
-"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
-"Ten przedmiot nie mo¿e zostaæ otwarty za pomoc¹ klucza.";
+"ì—´ì‡ ë¡œ ì—¬ëŠ” ë¬¼ê±´ì´ ì•„ë‹Œê²ƒ ê°™ë‹¤.";
+"Ten przedmiot nie moÅ¼e zostaÄ‡ otwarty za pomocÄ… klucza.";
 
-"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
-"To jest w³aœciwy klucz.";
+"ì—´ì‡ ëŠ” ë§ìœ¼ë‚˜ ì•„ì´í…œ ì£¼ëŠ” ë¶€ë¶„ êµ¬í˜„ì´ ì•ˆë˜ì—ˆìŠµë‹ˆë‹¤.";
+"To jest wì¿ªìiwy klucz.";
 
-"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
-"Otrzyma³eœ %d Yang.";
+"ëˆ %d ëƒ¥ì„ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"OtrzymaÅ‚eÅ› %d Yang.";
 
-"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Tajemnicze œwiat³o dobiega z tej skrzynki.";
+"ìƒìì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Tajemnicze ì—iatì¿½ dobiega z tej skrzynki.";
 
-"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
-"Otrzyma³eœ %d Punktów Doœwiadczenia.";
+"%dì˜ ê²½í—˜ì¹˜ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"OtrzymaÅ‚eÅ› %d PunktÃ³w DoÅ›wiadczenia.";
 
-"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
-"Zobacz, co wyskoczy³o ze skrzyni!";
+"ìƒìì—ì„œ ëª¬ìŠ¤í„°ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤!";
+"Zobacz, co wyskoczyì¿½ ze skrzyni!";
 
-"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Gildia] Poziom gildii jest za niski.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
-"Jeœli bêdziesz wdychaæ czerwony dym ze skrzyni, bêdziesz szybszy!";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë¹¨ê°„ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ì›€ì§ì´ëŠ” ì†ë„ê°€ ëŠë ¤ì¡ŒìŠµë‹ˆë‹¤!";
+"JeÅ›li bÄ™dziesz wdychaÄ‡ czerwony dym ze skrzyni, bÄ™dziesz szybszy!";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"ë” ì´ìƒ ì´ ì•„ì´í…œìœ¼ë¡œ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
 "You cannot add more bonus.";
 
-"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"ì„±ê³µì ìœ¼ë¡œ ì†ì„±ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "New bonus added successfully.";
 
-"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"ë³€ê²½ ì‹œí‚¬ ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤";
 "You cannot change the bonuses.";
 
-"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"%sì´ í•„ìš”í•©ë‹ˆë‹¤.";
 "%s needed.";
 
-"¹®Á¦ ÀÔ´Ï´Ù.";
+"ë¬¸ì œ ì…ë‹ˆë‹¤.";
 "OX-Question: ";

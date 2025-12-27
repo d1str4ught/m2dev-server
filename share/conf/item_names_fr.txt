@@ -1,26 +1,26 @@
 VNUM	LOCALE_NAME
 1	Yang
 2	By TMP4
-10	Epée+0
-11	Epée+1
-12	Epée+2
-13	Epée+3
-14	Epée+4
-15	Epée+5
-16	Epée+6
-17	Epée+7
-18	Epée+8
-19	Epée+9
-20	Epée longue+0
-21	Epée longue+1
-22	Epée longue+2
-23	Epée longue+3
-24	Epée longue+4
-25	Epée longue+5
-26	Epée longue+6
-27	Epée longue+7
-28	Epée longue+8
-29	Epée longue+9
+10	EpÃ©e+0
+11	EpÃ©e+1
+12	EpÃ©e+2
+13	EpÃ©e+3
+14	EpÃ©e+4
+15	EpÃ©e+5
+16	EpÃ©e+6
+17	EpÃ©e+7
+18	EpÃ©e+8
+19	EpÃ©e+9
+20	EpÃ©e longue+0
+21	EpÃ©e longue+1
+22	EpÃ©e longue+2
+23	EpÃ©e longue+3
+24	EpÃ©e longue+4
+25	EpÃ©e longue+5
+26	EpÃ©e longue+6
+27	EpÃ©e longue+7
+28	EpÃ©e longue+8
+29	EpÃ©e longue+9
 30	Lame courbe+0
 31	Lame courbe+1
 32	Lame courbe+2
@@ -31,56 +31,56 @@ VNUM	LOCALE_NAME
 37	Lame courbe+7
 38	Lame courbe+8
 39	Lame courbe+9
-40	Canne Epée+0
-41	Canne Epée+1
-42	Canne Epée+2
-43	Canne Epée+3
-44	Canne Epée+4
-45	Canne Epée+5
-46	Canne Epée+6
-47	Canne Epée+7
-48	Canne Epée+8
-49	Canne Epée+9
-50	Epée large+0
-51	Epée large+1
-52	Epée large+2
-53	Epée large+3
-54	Epée large+4
-55	Epée large+5
-56	Epée large+6
-57	Epée large+7
-58	Epée large+8
-59	Epée large+9
-60	Epée en argent+0
-61	Epée en argent+1
-62	Épée en argent+2
-63	Epée en argent+3
-64	Epée en argent+4
-65	Epée en argent+5
-66	Epée en argent+6
-67	Epée en argent+7
-68	Epée en argent+8
-69	Epée en argent+9
-70	Epée aux orchidées+0
-71	Epée aux orchidées+1
-72	Épée aux orchidées+2
-73	Epée aux orchidées+3
-74	Epée aux orchidées+4
-75	Epée aux orchidées+5
-76	Epée aux orchidées+6
-77	Epée aux orchidées+7
-78	Epée aux orchidées+8
-79	Epée aux orchidées+9
-80	Epée bâtarde+0
-81	Epée bâtarde+1
-82	Épée bâtarde+2
-83	Epée bâtarde+3
-84	Epée bâtarde+4
-85	Epée bâtarde+5
-86	Epée bâtarde+6
-87	Epée bâtarde+7
-88	Epée bâtarde+8
-89	Epée bâtarde+9
+40	Canne EpÃ©e+0
+41	Canne EpÃ©e+1
+42	Canne EpÃ©e+2
+43	Canne EpÃ©e+3
+44	Canne EpÃ©e+4
+45	Canne EpÃ©e+5
+46	Canne EpÃ©e+6
+47	Canne EpÃ©e+7
+48	Canne EpÃ©e+8
+49	Canne EpÃ©e+9
+50	EpÃ©e large+0
+51	EpÃ©e large+1
+52	EpÃ©e large+2
+53	EpÃ©e large+3
+54	EpÃ©e large+4
+55	EpÃ©e large+5
+56	EpÃ©e large+6
+57	EpÃ©e large+7
+58	EpÃ©e large+8
+59	EpÃ©e large+9
+60	EpÃ©e en argent+0
+61	EpÃ©e en argent+1
+62	Ã‰pÃ©e en argent+2
+63	EpÃ©e en argent+3
+64	EpÃ©e en argent+4
+65	EpÃ©e en argent+5
+66	EpÃ©e en argent+6
+67	EpÃ©e en argent+7
+68	EpÃ©e en argent+8
+69	EpÃ©e en argent+9
+70	EpÃ©e aux orchidÃ©es+0
+71	EpÃ©e aux orchidÃ©es+1
+72	Ã‰pÃ©e aux orchidÃ©es+2
+73	EpÃ©e aux orchidÃ©es+3
+74	EpÃ©e aux orchidÃ©es+4
+75	EpÃ©e aux orchidÃ©es+5
+76	EpÃ©e aux orchidÃ©es+6
+77	EpÃ©e aux orchidÃ©es+7
+78	EpÃ©e aux orchidÃ©es+8
+79	EpÃ©e aux orchidÃ©es+9
+80	EpÃ©e bÃ¢tarde+0
+81	EpÃ©e bÃ¢tarde+1
+82	Ã‰pÃ©e bÃ¢tarde+2
+83	EpÃ©e bÃ¢tarde+3
+84	EpÃ©e bÃ¢tarde+4
+85	EpÃ©e bÃ¢tarde+5
+86	EpÃ©e bÃ¢tarde+6
+87	EpÃ©e bÃ¢tarde+7
+88	EpÃ©e bÃ¢tarde+8
+89	EpÃ©e bÃ¢tarde+9
 90	Glaive barbare+0
 91	Glaive barbare+1
 92	Glaive barbare+2
@@ -91,106 +91,106 @@ VNUM	LOCALE_NAME
 97	Glaive barbare+7
 98	Glaive barbare+8
 99	Glaive barbare+9
-100	Epée sanglante+0
-101	Epée sanglante+1
-102	Epée sanglante+2
-103	Epée sanglante+3
-104	Epée sanglante+4
-105	Epée sanglante+5
-106	Epée sanglante+6
-107	Epée sanglante+7
-108	Epée sanglante+8
-109	Epée sanglante+9
-110	Grande Epée+0
-111	Grande Epée+1
-112	Grande Epée+2
-113	Grande Epée+3
-114	Grande Epée+4
-115	Grande Epée+5
-116	Grande Epée+6
-117	Grande Epée+7
-118	Grande Epée+8
-119	Grande Epée+9
-120	Epée du magic. volant+0
-121	Epée du magic. volant+1
-122	Epée du magic. volant+2
-123	Epée du magic. volant+3
-124	Epée du magic. volant+4
-125	Epée du magic. volant+5
-126	Epée du magic. volant+6
-127	Epée du magic. volant+7
-128	Epée du magic. volant+8
-129	Epée du magic. volant+9
-130	Epée de demi-lune+0
-131	Epée de demi-lune+1
-132	Epée de demi-lune+2
-133	Epée de demi-lune+3
-134	Epée de demi-lune+4
-135	Epée de demi-lune+5
-136	Epée de demi-lune+6
-137	Epée de demi-lune+7
-138	Epée de demi-lune+8
-139	Epée de demi-lune+9
-140	Epée de bataille+0
-141	Epée de bataille+1
-142	Epée de bataille+2
-143	Epée de bataille+3
-144	Epée de bataille+4
-145	Epée de bataille+5
-146	Epée de bataille+6
-147	Epée de bataille+7
-148	Epée de bataille+8
-149	Epée de bataille+9
-150	Lame de croc fantôme+0
-151	Lame de croc fantôme+1
-152	Lame de croc fantôme+2
-153	Lame de croc fantôme+3
-154	Lame de croc fantôme+4
-155	Lame de croc fantôme+5
-156	Lame de croc fantôme+6
-157	Lame de croc fantôme+7
-158	Lame de croc fantôme+8
-159	Lame de croc fantôme+9
-160	Epée de nymphe+0
-161	Epée de nymphe+1
-162	Epée de nymphe+2
-163	Epée de nymphe+3
-164	Epée de nymphe+4
-165	Epée de nymphe+5
-166	Epée de nymphe+6
-167	Epée de nymphe+7
-168	Epée de nymphe+8
-169	Epée de nymphe+9
-170	Epée de piqûre+0
-171	Epée de piqûre+1
-172	Epée de piqûre+2
-173	Epée de piqûre+3
-174	Epée de piqûre+4
-175	Epée de piqûre+5
-176	Epée de piqûre+6
-177	Epée de piqûre+7
-178	Epée de piqûre+8
-179	Epée de piqûre+9
-180	Epée empoisonnée+0
-181	Epée empoisonnée+1
-182	Epée empoisonnée+2
-183	Epée empoisonnée+3
-184	Epée empoisonnée+4
-185	Epée empoisonnée+5
-186	Epée empoisonnée+6
-187	Epée empoisonnée+7
-188	Epée empoisonnée+8
-189	Epée empoisonnée+9
-190	Epée du lion+0
-191	Epée du lion+1
-192	Epée du lion+2
-193	Epée du lion+3
-194	Epée du lion+4
-195	Epée du lion+5
-196	Epée du lion+6
-197	Epée du lion+7
-198	Epée du lion+8
-199	Epée du lion+9
+100	EpÃ©e sanglante+0
+101	EpÃ©e sanglante+1
+102	EpÃ©e sanglante+2
+103	EpÃ©e sanglante+3
+104	EpÃ©e sanglante+4
+105	EpÃ©e sanglante+5
+106	EpÃ©e sanglante+6
+107	EpÃ©e sanglante+7
+108	EpÃ©e sanglante+8
+109	EpÃ©e sanglante+9
+110	Grande EpÃ©e+0
+111	Grande EpÃ©e+1
+112	Grande EpÃ©e+2
+113	Grande EpÃ©e+3
+114	Grande EpÃ©e+4
+115	Grande EpÃ©e+5
+116	Grande EpÃ©e+6
+117	Grande EpÃ©e+7
+118	Grande EpÃ©e+8
+119	Grande EpÃ©e+9
+120	EpÃ©e du magic. volant+0
+121	EpÃ©e du magic. volant+1
+122	EpÃ©e du magic. volant+2
+123	EpÃ©e du magic. volant+3
+124	EpÃ©e du magic. volant+4
+125	EpÃ©e du magic. volant+5
+126	EpÃ©e du magic. volant+6
+127	EpÃ©e du magic. volant+7
+128	EpÃ©e du magic. volant+8
+129	EpÃ©e du magic. volant+9
+130	EpÃ©e de demi-lune+0
+131	EpÃ©e de demi-lune+1
+132	EpÃ©e de demi-lune+2
+133	EpÃ©e de demi-lune+3
+134	EpÃ©e de demi-lune+4
+135	EpÃ©e de demi-lune+5
+136	EpÃ©e de demi-lune+6
+137	EpÃ©e de demi-lune+7
+138	EpÃ©e de demi-lune+8
+139	EpÃ©e de demi-lune+9
+140	EpÃ©e de bataille+0
+141	EpÃ©e de bataille+1
+142	EpÃ©e de bataille+2
+143	EpÃ©e de bataille+3
+144	EpÃ©e de bataille+4
+145	EpÃ©e de bataille+5
+146	EpÃ©e de bataille+6
+147	EpÃ©e de bataille+7
+148	EpÃ©e de bataille+8
+149	EpÃ©e de bataille+9
+150	Lame de croc fantÃ´me+0
+151	Lame de croc fantÃ´me+1
+152	Lame de croc fantÃ´me+2
+153	Lame de croc fantÃ´me+3
+154	Lame de croc fantÃ´me+4
+155	Lame de croc fantÃ´me+5
+156	Lame de croc fantÃ´me+6
+157	Lame de croc fantÃ´me+7
+158	Lame de croc fantÃ´me+8
+159	Lame de croc fantÃ´me+9
+160	EpÃ©e de nymphe+0
+161	EpÃ©e de nymphe+1
+162	EpÃ©e de nymphe+2
+163	EpÃ©e de nymphe+3
+164	EpÃ©e de nymphe+4
+165	EpÃ©e de nymphe+5
+166	EpÃ©e de nymphe+6
+167	EpÃ©e de nymphe+7
+168	EpÃ©e de nymphe+8
+169	EpÃ©e de nymphe+9
+170	EpÃ©e de piqÃ»re+0
+171	EpÃ©e de piqÃ»re+1
+172	EpÃ©e de piqÃ»re+2
+173	EpÃ©e de piqÃ»re+3
+174	EpÃ©e de piqÃ»re+4
+175	EpÃ©e de piqÃ»re+5
+176	EpÃ©e de piqÃ»re+6
+177	EpÃ©e de piqÃ»re+7
+178	EpÃ©e de piqÃ»re+8
+179	EpÃ©e de piqÃ»re+9
+180	EpÃ©e empoisonnÃ©e+0
+181	EpÃ©e empoisonnÃ©e+1
+182	EpÃ©e empoisonnÃ©e+2
+183	EpÃ©e empoisonnÃ©e+3
+184	EpÃ©e empoisonnÃ©e+4
+185	EpÃ©e empoisonnÃ©e+5
+186	EpÃ©e empoisonnÃ©e+6
+187	EpÃ©e empoisonnÃ©e+7
+188	EpÃ©e empoisonnÃ©e+8
+189	EpÃ©e empoisonnÃ©e+9
+190	EpÃ©e du lion+0
+191	EpÃ©e du lion+1
+192	EpÃ©e du lion+2
+193	EpÃ©e du lion+3
+194	EpÃ©e du lion+4
+195	EpÃ©e du lion+5
+196	EpÃ©e du lion+6
+197	EpÃ©e du lion+7
+198	EpÃ©e du lion+8
+199	EpÃ©e du lion+9
 200	Lame tranchante+0
 201	Lame tranchante+1
 202	Lame tranchante+2
@@ -211,96 +211,96 @@ VNUM	LOCALE_NAME
 217	Lame mortelle+7
 218	Lame mortelle+8
 219	Lame mortelle+9
-220	Epée lunaire+0
-221	Epée lunaire+1
-222	Epée lunaire+2
-223	Epée lunaire+3
-224	Epée lunaire+4
-225	Epée lunaire+5
-226	Epée lunaire+6
-227	Epée lunaire+7
-228	Epée lunaire+8
-229	Epée lunaire+9
-230	Epée céleste+0
-231	Epée céleste+1
-232	Epée céleste+2
-233	Epée céleste+3
-234	Epée céleste+4
-235	Epée céleste+5
-236	Epée céleste+6
-237	Epée céleste+7
-238	Epée céleste+8
-239	Epée céleste+9
-240	Epée d'exorcisme+0
-241	Epée d'exorcisme+1
-242	Epée d'exorcisme+2
-243	Epée d'exorcisme+3
-244	Epée d'exorcisme+4
-245	Epée d'exorcisme+5
-246	Epée d'exorcisme+6
-247	Epée d'exorcisme+7
-248	Epée d'exorcisme+8
-249	Epée d'exorcisme+9
-250	Lame démoniaque+0
-251	Lame démoniaque+1
-252	Lame démoniaque+2
-253	Lame démoniaque+3
-254	Lame démoniaque+4
-255	Lame démoniaque+5
-256	Lame démoniaque+6
-257	Lame démoniaque+7
-258	Lame démoniaque+8
-259	Lame démoniaque+9
-260	Epée de baron+0
-261	Epée de baron+1
-262	Epée de baron+2
-263	Epée de baron+3
-264	Epée de baron+4
-265	Epée de baron+5
-266	Epée de baron+6
-267	Epée de baron+7
-268	Epée de baron+8
-269	Epée de baron+9
-270	Epée de Triton+0
-271	Epée de Triton+1
-272	Epée de Triton+2
-273	Epée de Triton+3
-274	Epée de Triton+4
-275	Epée de Triton+5
-276	Epée de Triton+6
-277	Epée de Triton+7
-278	Epée de Triton+8
-279	Epée de Triton+9
-280	Epée sacrée+0
-281	Epée sacrée+1
-282	Epée sacrée+2
-283	Epée sacrée+3
-284	Epée sacrée+4
-285	Epée sacrée+5
-286	Epée sacrée+6
-287	Epée sacrée+7
-288	Epée sacrée+8
-289	Epée sacrée+9
-290	Epée de la lune pleine+0
-291	Epée de la lune pleine+1
-292	Epée de la lune pleine+2
-293	Epée de la lune pleine+3
-294	Epée de la lune pleine+4
-295	Epée de la lune pleine+5
-296	Epée de la lune pleine+6
-297	Epée de la lune pleine+7
-298	Epée de la lune pleine+8
-299	Epée de la lune pleine+9
-460	Épée runique +0
-461	Épée runique +1
-462	Épée runique +2
-463	Épée runique +3
-464	Épée runique +4
-465	Épée runique +5
-466	Épée runique +6
-467	Épée runique +7
-468	Épée runique +8
-469	Épée runique +9
+220	EpÃ©e lunaire+0
+221	EpÃ©e lunaire+1
+222	EpÃ©e lunaire+2
+223	EpÃ©e lunaire+3
+224	EpÃ©e lunaire+4
+225	EpÃ©e lunaire+5
+226	EpÃ©e lunaire+6
+227	EpÃ©e lunaire+7
+228	EpÃ©e lunaire+8
+229	EpÃ©e lunaire+9
+230	EpÃ©e cÃ©leste+0
+231	EpÃ©e cÃ©leste+1
+232	EpÃ©e cÃ©leste+2
+233	EpÃ©e cÃ©leste+3
+234	EpÃ©e cÃ©leste+4
+235	EpÃ©e cÃ©leste+5
+236	EpÃ©e cÃ©leste+6
+237	EpÃ©e cÃ©leste+7
+238	EpÃ©e cÃ©leste+8
+239	EpÃ©e cÃ©leste+9
+240	EpÃ©e d'exorcisme+0
+241	EpÃ©e d'exorcisme+1
+242	EpÃ©e d'exorcisme+2
+243	EpÃ©e d'exorcisme+3
+244	EpÃ©e d'exorcisme+4
+245	EpÃ©e d'exorcisme+5
+246	EpÃ©e d'exorcisme+6
+247	EpÃ©e d'exorcisme+7
+248	EpÃ©e d'exorcisme+8
+249	EpÃ©e d'exorcisme+9
+250	Lame dÃ©moniaque+0
+251	Lame dÃ©moniaque+1
+252	Lame dÃ©moniaque+2
+253	Lame dÃ©moniaque+3
+254	Lame dÃ©moniaque+4
+255	Lame dÃ©moniaque+5
+256	Lame dÃ©moniaque+6
+257	Lame dÃ©moniaque+7
+258	Lame dÃ©moniaque+8
+259	Lame dÃ©moniaque+9
+260	EpÃ©e de baron+0
+261	EpÃ©e de baron+1
+262	EpÃ©e de baron+2
+263	EpÃ©e de baron+3
+264	EpÃ©e de baron+4
+265	EpÃ©e de baron+5
+266	EpÃ©e de baron+6
+267	EpÃ©e de baron+7
+268	EpÃ©e de baron+8
+269	EpÃ©e de baron+9
+270	EpÃ©e de Triton+0
+271	EpÃ©e de Triton+1
+272	EpÃ©e de Triton+2
+273	EpÃ©e de Triton+3
+274	EpÃ©e de Triton+4
+275	EpÃ©e de Triton+5
+276	EpÃ©e de Triton+6
+277	EpÃ©e de Triton+7
+278	EpÃ©e de Triton+8
+279	EpÃ©e de Triton+9
+280	EpÃ©e sacrÃ©e+0
+281	EpÃ©e sacrÃ©e+1
+282	EpÃ©e sacrÃ©e+2
+283	EpÃ©e sacrÃ©e+3
+284	EpÃ©e sacrÃ©e+4
+285	EpÃ©e sacrÃ©e+5
+286	EpÃ©e sacrÃ©e+6
+287	EpÃ©e sacrÃ©e+7
+288	EpÃ©e sacrÃ©e+8
+289	EpÃ©e sacrÃ©e+9
+290	EpÃ©e de la lune pleine+0
+291	EpÃ©e de la lune pleine+1
+292	EpÃ©e de la lune pleine+2
+293	EpÃ©e de la lune pleine+3
+294	EpÃ©e de la lune pleine+4
+295	EpÃ©e de la lune pleine+5
+296	EpÃ©e de la lune pleine+6
+297	EpÃ©e de la lune pleine+7
+298	EpÃ©e de la lune pleine+8
+299	EpÃ©e de la lune pleine+9
+460	Ã‰pÃ©e runique +0
+461	Ã‰pÃ©e runique +1
+462	Ã‰pÃ©e runique +2
+463	Ã‰pÃ©e runique +3
+464	Ã‰pÃ©e runique +4
+465	Ã‰pÃ©e runique +5
+466	Ã‰pÃ©e runique +6
+467	Ã‰pÃ©e runique +7
+468	Ã‰pÃ©e runique +8
+469	Ã‰pÃ©e runique +9
 470	Lame dent de dragon +0
 471	Lame dent de dragon +1
 472	Lame dent de dragon +2
@@ -421,16 +421,16 @@ VNUM	LOCALE_NAME
 1107	Couteau du dragon+7
 1108	Couteau du dragon+8
 1109	Couteau du dragon+9
-1110	Couteau d'éclairs+0
-1111	Couteau d'éclairs+1
-1112	Couteau d'éclairs+2
-1113	Couteau d'éclairs+3
-1114	Couteau d'éclairs+4
-1115	Couteau d'éclairs+5
-1116	Couteau d'éclairs+6
-1117	Couteau d'éclairs+7
-1118	Couteau d'éclairs+8
-1119	Couteau d'éclairs+9
+1110	Couteau d'Ã©clairs+0
+1111	Couteau d'Ã©clairs+1
+1112	Couteau d'Ã©clairs+2
+1113	Couteau d'Ã©clairs+3
+1114	Couteau d'Ã©clairs+4
+1115	Couteau d'Ã©clairs+5
+1116	Couteau d'Ã©clairs+6
+1117	Couteau d'Ã©clairs+7
+1118	Couteau d'Ã©clairs+8
+1119	Couteau d'Ã©clairs+9
 1120	Couteau siamois+0
 1121	Couteau siamois+1
 1122	Couteau siamois+2
@@ -451,26 +451,26 @@ VNUM	LOCALE_NAME
 1137	Chakram aile du diable+7
 1138	Chakram aile du diable+8
 1139	Chakram aile du diable+9
-1140	Cout. à dents de scie+0
-1141	Cout. à dents de scie+1
-1142	Cout. à dents de scie+2
-1143	Cout. à dents de scie+3
-1144	Cout. à dents de scie+4
-1145	Cout. à dents de scie+5
-1146	Cout. à dents de scie+6
-1147	Cout. à dents de scie+7
-1148	Cout. à dents de scie+8
-1149	Cout. à dents de scie+9
-1150	Cout. Lumière du sol.+0
-1151	Cout. Lumière du sol.+1
-1152	Cout. Lumière du sol.+2
-1153	Cout. Lumière du sol.+3
-1154	Cout. Lumière du sol.+4
-1155	Cout. Lumière du sol.+5
-1156	Cout. Lumière du sol.+6
-1157	Cout. Lumière du sol.+7
-1158	Cout. Lumière du sol.+8
-1159	Cout. Lumière du sol.+9
+1140	Cout. Ã  dents de scie+0
+1141	Cout. Ã  dents de scie+1
+1142	Cout. Ã  dents de scie+2
+1143	Cout. Ã  dents de scie+3
+1144	Cout. Ã  dents de scie+4
+1145	Cout. Ã  dents de scie+5
+1146	Cout. Ã  dents de scie+6
+1147	Cout. Ã  dents de scie+7
+1148	Cout. Ã  dents de scie+8
+1149	Cout. Ã  dents de scie+9
+1150	Cout. LumiÃ¨re du sol.+0
+1151	Cout. LumiÃ¨re du sol.+1
+1152	Cout. LumiÃ¨re du sol.+2
+1153	Cout. LumiÃ¨re du sol.+3
+1154	Cout. LumiÃ¨re du sol.+4
+1155	Cout. LumiÃ¨re du sol.+5
+1156	Cout. LumiÃ¨re du sol.+6
+1157	Cout. LumiÃ¨re du sol.+7
+1158	Cout. LumiÃ¨re du sol.+8
+1159	Cout. LumiÃ¨re du sol.+9
 1160	Couteau ruisselant+0
 1161	Couteau ruisselant+1
 1162	Couteau ruisselant+2
@@ -491,16 +491,16 @@ VNUM	LOCALE_NAME
 1177	Dague de feuille noire+7
 1178	Dague de feuille noire+8
 1179	Dague de feuille noire+9
-1340	Lame des cinq éléments+0
-1341	Lame des cinq éléments+1
-1342	Lame des cinq éléments+2
-1343	Lame des cinq éléments+3
-1344	Lame des cinq éléments+4
-1345	Lame des cinq éléments+5
-1346	Lame des cinq éléments+6
-1347	Lame des cinq éléments+7
-1348	Lame des cinq éléments+8
-1349	Lame des cinq éléments+9
+1340	Lame des cinq Ã©lÃ©ments+0
+1341	Lame des cinq Ã©lÃ©ments+1
+1342	Lame des cinq Ã©lÃ©ments+2
+1343	Lame des cinq Ã©lÃ©ments+3
+1344	Lame des cinq Ã©lÃ©ments+4
+1345	Lame des cinq Ã©lÃ©ments+5
+1346	Lame des cinq Ã©lÃ©ments+6
+1347	Lame des cinq Ã©lÃ©ments+7
+1348	Lame des cinq Ã©lÃ©ments+8
+1349	Lame des cinq Ã©lÃ©ments+9
 2000	Arc court+0
 2001	Arc court+1
 2002	Arc court+2
@@ -561,16 +561,16 @@ VNUM	LOCALE_NAME
 2057	Arc de bat. cavalerie+7
 2058	Arc de bat. cavalerie+8
 2059	Arc de bat. cavalerie+9
-2060	Arc cuivré+0
-2061	Arc cuivré+1
-2062	Arc cuivré+2
-2063	Arc cuivré+3
-2064	Arc cuivré+4
-2065	Arc cuivré+5
-2066	Arc cuivré+6
-2067	Arc cuivré+7
-2068	Arc cuivré+8
-2069	Arc cuivré+9
+2060	Arc cuivrÃ©+0
+2061	Arc cuivrÃ©+1
+2062	Arc cuivrÃ©+2
+2063	Arc cuivrÃ©+3
+2064	Arc cuivrÃ©+4
+2065	Arc cuivrÃ©+5
+2066	Arc cuivrÃ©+6
+2067	Arc cuivrÃ©+7
+2068	Arc cuivrÃ©+8
+2069	Arc cuivrÃ©+9
 2070	Arc de ruine noire+0
 2071	Arc de ruine noire+1
 2072	Arc de ruine noire+2
@@ -591,16 +591,16 @@ VNUM	LOCALE_NAME
 2087	Arc d'oeil rouge+7
 2088	Arc d'oeil rouge+8
 2089	Arc d'oeil rouge+9
-2090	Arc de feuilles épin.+0
-2091	Arc de feuilles épin.+1
-2092	Arc de feuilles épin.+2
-2093	Arc de feuilles épin.+3
-2094	Arc de feuilles épin.+4
-2095	Arc de feuilles épin.+5
-2096	Arc de feuilles épin.+6
-2097	Arc de feuilles épin.+7
-2098	Arc de feuilles épin.+8
-2099	Arc de feuilles épin.+9
+2090	Arc de feuilles Ã©pin.+0
+2091	Arc de feuilles Ã©pin.+1
+2092	Arc de feuilles Ã©pin.+2
+2093	Arc de feuilles Ã©pin.+3
+2094	Arc de feuilles Ã©pin.+4
+2095	Arc de feuilles Ã©pin.+5
+2096	Arc de feuilles Ã©pin.+6
+2097	Arc de feuilles Ã©pin.+7
+2098	Arc de feuilles Ã©pin.+8
+2099	Arc de feuilles Ã©pin.+9
 2100	Arc cornes de taureau+0
 2101	Arc cornes de taureau+1
 2102	Arc cornes de taureau+2
@@ -621,16 +621,16 @@ VNUM	LOCALE_NAME
 2117	Arc de licorne+7
 2118	Arc de licorne+8
 2119	Arc de licorne+9
-2120	Arc d'aile géante+0
-2121	Arc d'aile géante+1
-2122	Arc d'aile géante+2
-2123	Arc d'aile géante+3
-2124	Arc d'aile géante+4
-2125	Arc d'aile géante+5
-2126	Arc d'aile géante+6
-2127	Arc d'aile géante+7
-2128	Arc d'aile géante+8
-2129	Arc d'aile géante+9
+2120	Arc d'aile gÃ©ante+0
+2121	Arc d'aile gÃ©ante+1
+2122	Arc d'aile gÃ©ante+2
+2123	Arc d'aile gÃ©ante+3
+2124	Arc d'aile gÃ©ante+4
+2125	Arc d'aile gÃ©ante+5
+2126	Arc d'aile gÃ©ante+6
+2127	Arc d'aile gÃ©ante+7
+2128	Arc d'aile gÃ©ante+8
+2129	Arc d'aile gÃ©ante+9
 2130	Arc d'abricot divin+0
 2131	Arc d'abricot divin+1
 2132	Arc d'abricot divin+2
@@ -641,36 +641,36 @@ VNUM	LOCALE_NAME
 2137	Arc d'abricot divin+7
 2138	Arc d'abricot divin+8
 2139	Arc d'abricot divin+9
-2140	Arc géant drag. jaune+0
-2141	Arc géant drag. jaune+1
-2142	Arc géant drag. jaune+2
-2143	Arc géant drag. jaune+3
-2144	Arc géant drag. jaune+4
-2145	Arc géant drag. jaune+5
-2146	Arc géant drag. jaune+6
-2147	Arc géant drag. jaune+7
-2148	Arc géant drag. jaune+8
-2149	Arc géant drag. jaune+9
-2150	Arc à cornes+0
-2151	Arc à cornes+1
-2152	Arc à cornes+2
-2153	Arc à cornes+3
-2154	Arc à cornes+4
-2155	Arc à cornes+5
-2156	Arc à cornes+6
-2157	Arc à cornes+7
-2158	Arc à cornes+8
-2159	Arc à cornes+9
-2160	Arc diabolique géant+0
-2161	Arc diabolique géant+1
-2162	Arc diabolique géant+2
-2163	Arc diabolique géant+3
-2164	Arc diabolique géant+4
-2165	Arc diabolique géant+5
-2166	Arc diabolique géant+6
-2167	Arc diabolique géant+7
-2168	Arc diabolique géant+8
-2169	Arc diabolique géant+9
+2140	Arc gÃ©ant drag. jaune+0
+2141	Arc gÃ©ant drag. jaune+1
+2142	Arc gÃ©ant drag. jaune+2
+2143	Arc gÃ©ant drag. jaune+3
+2144	Arc gÃ©ant drag. jaune+4
+2145	Arc gÃ©ant drag. jaune+5
+2146	Arc gÃ©ant drag. jaune+6
+2147	Arc gÃ©ant drag. jaune+7
+2148	Arc gÃ©ant drag. jaune+8
+2149	Arc gÃ©ant drag. jaune+9
+2150	Arc Ã  cornes+0
+2151	Arc Ã  cornes+1
+2152	Arc Ã  cornes+2
+2153	Arc Ã  cornes+3
+2154	Arc Ã  cornes+4
+2155	Arc Ã  cornes+5
+2156	Arc Ã  cornes+6
+2157	Arc Ã  cornes+7
+2158	Arc Ã  cornes+8
+2159	Arc Ã  cornes+9
+2160	Arc diabolique gÃ©ant+0
+2161	Arc diabolique gÃ©ant+1
+2162	Arc diabolique gÃ©ant+2
+2163	Arc diabolique gÃ©ant+3
+2164	Arc diabolique gÃ©ant+4
+2165	Arc diabolique gÃ©ant+5
+2166	Arc diabolique gÃ©ant+6
+2167	Arc diabolique gÃ©ant+7
+2168	Arc diabolique gÃ©ant+8
+2169	Arc diabolique gÃ©ant+9
 2170	Arc de corbeau d'acier+0
 2171	Arc de corbeau d'acier+1
 2172	Arc de corbeau d'acier+2
@@ -691,26 +691,26 @@ VNUM	LOCALE_NAME
 2187	Arc du dragon bleu+7
 2188	Arc du dragon bleu+8
 2189	Arc du dragon bleu+9
-2190	Arbalète fantôme+0
-2191	Arbalète fantôme+1
-2192	Arbalète fantôme+2
-2193	Arbalète fantôme+3
-2194	Arbalète fantôme+4
-2195	Arbalète fantôme+5
-2196	Arbalète fantôme+6
-2197	Arbalète fantôme+7
-2198	Arbalète fantôme+8
-2199	Arbalète fantôme+9
-2370	Arc du phénix +0
-2371	Arc du phénix +1
-2372	Arc du phénix +2
-2373	Arc du phénix +3
-2374	Arc du phénix +4
-2375	Arc du phénix +5
-2376	Arc du phénix +6
-2377	Arc du phénix +7
-2378	Arc du phénix +8
-2379	Arc du phénix +9
+2190	ArbalÃ¨te fantÃ´me+0
+2191	ArbalÃ¨te fantÃ´me+1
+2192	ArbalÃ¨te fantÃ´me+2
+2193	ArbalÃ¨te fantÃ´me+3
+2194	ArbalÃ¨te fantÃ´me+4
+2195	ArbalÃ¨te fantÃ´me+5
+2196	ArbalÃ¨te fantÃ´me+6
+2197	ArbalÃ¨te fantÃ´me+7
+2198	ArbalÃ¨te fantÃ´me+8
+2199	ArbalÃ¨te fantÃ´me+9
+2370	Arc du phÃ©nix +0
+2371	Arc du phÃ©nix +1
+2372	Arc du phÃ©nix +2
+2373	Arc du phÃ©nix +3
+2374	Arc du phÃ©nix +4
+2375	Arc du phÃ©nix +5
+2376	Arc du phÃ©nix +6
+2377	Arc du phÃ©nix +7
+2378	Arc du phÃ©nix +8
+2379	Arc du phÃ©nix +9
 3000	Glaive+0
 3001	Glaive+1
 3002	Glaive+2
@@ -741,16 +741,16 @@ VNUM	LOCALE_NAME
 3027	Lame guillotine+7
 3028	Lame guillotine+8
 3029	Lame guillotine+9
-3030	Lance araignée+0
-3031	Lance araignée+1
-3032	Lance araignée+2
-3033	Lance araignée+3
-3034	Lance araignée+4
-3035	Lance araignée+5
-3036	Lance araignée+6
-3037	Lance araignée+7
-3038	Lance araignée+8
-3039	Lance araignée+9
+3030	Lance araignÃ©e+0
+3031	Lance araignÃ©e+1
+3032	Lance araignÃ©e+2
+3033	Lance araignÃ©e+3
+3034	Lance araignÃ©e+4
+3035	Lance araignÃ©e+5
+3036	Lance araignÃ©e+6
+3037	Lance araignÃ©e+7
+3038	Lance araignÃ©e+8
+3039	Lance araignÃ©e+9
 3040	Gisarme+0
 3041	Gisarme+1
 3042	Gisarme+2
@@ -811,16 +811,16 @@ VNUM	LOCALE_NAME
 3097	Pique de glace+7
 3098	Pique de glace+8
 3099	Pique de glace+9
-3100	Epée des douze Esprits+0
-3101	Epée des douze Esprits+1
-3102	Epée des douze Esprits+2
-3103	Epée des douze Esprits+3
-3104	Epée des douze Esprits+4
-3105	Epée des douze Esprits+5
-3106	Epée des douze Esprits+6
-3107	Epée des douze Esprits+7
-3108	Epée des douze Esprits+8
-3109	Epée des douze Esprits+9
+3100	EpÃ©e des douze Esprits+0
+3101	EpÃ©e des douze Esprits+1
+3102	EpÃ©e des douze Esprits+2
+3103	EpÃ©e des douze Esprits+3
+3104	EpÃ©e des douze Esprits+4
+3105	EpÃ©e des douze Esprits+5
+3106	EpÃ©e des douze Esprits+6
+3107	EpÃ©e des douze Esprits+7
+3108	EpÃ©e des douze Esprits+8
+3109	EpÃ©e des douze Esprits+9
 3110	Lame du salut+0
 3111	Lame du salut+1
 3112	Lame du salut+2
@@ -851,36 +851,36 @@ VNUM	LOCALE_NAME
 3137	Partisan+7
 3138	Partisan+8
 3139	Partisan+9
-3140	Lame électromagnétique+0
-3141	Lame électromagnétique+1
-3142	Lame électromagnétique+2
-3143	Lame électromagnétique+3
-3144	Lame électromagnétique+4
-3145	Lame électromagnétique+5
-3146	Lame électromagnétique+6
-3147	Lame électromagnétique+7
-3148	Lame électromagnétique+8
-3149	Lame électromagnétique+9
-3150	Lame voleuse d'âme+0
-3151	Lame voleuse d'âme+1
-3152	Lame voleuse d'âme+2
-3153	Lame voleuse d'âme+3
-3154	Lame voleuse d'âme+4
-3155	Lame voleuse d'âme+5
-3156	Lame voleuse d'âme+6
-3157	Lame voleuse d'âme+7
-3158	Lame voleuse d'âme+8
-3159	Lame voleuse d'âme+9
-3160	Epée de rancune+0
-3161	Epée de rancune+1
-3162	Epée de rancune+2
-3163	Epée de rancune+3
-3164	Epée de rancune+4
-3165	Epée de rancune+5
-3166	Epée de rancune+6
-3167	Epée de rancune+7
-3168	Epée de rancune+8
-3169	Epée de rancune+9
+3140	Lame Ã©lectromagnÃ©tique+0
+3141	Lame Ã©lectromagnÃ©tique+1
+3142	Lame Ã©lectromagnÃ©tique+2
+3143	Lame Ã©lectromagnÃ©tique+3
+3144	Lame Ã©lectromagnÃ©tique+4
+3145	Lame Ã©lectromagnÃ©tique+5
+3146	Lame Ã©lectromagnÃ©tique+6
+3147	Lame Ã©lectromagnÃ©tique+7
+3148	Lame Ã©lectromagnÃ©tique+8
+3149	Lame Ã©lectromagnÃ©tique+9
+3150	Lame voleuse d'Ã¢me+0
+3151	Lame voleuse d'Ã¢me+1
+3152	Lame voleuse d'Ã¢me+2
+3153	Lame voleuse d'Ã¢me+3
+3154	Lame voleuse d'Ã¢me+4
+3155	Lame voleuse d'Ã¢me+5
+3156	Lame voleuse d'Ã¢me+6
+3157	Lame voleuse d'Ã¢me+7
+3158	Lame voleuse d'Ã¢me+8
+3159	Lame voleuse d'Ã¢me+9
+3160	EpÃ©e de rancune+0
+3161	EpÃ©e de rancune+1
+3162	EpÃ©e de rancune+2
+3163	EpÃ©e de rancune+3
+3164	EpÃ©e de rancune+4
+3165	EpÃ©e de rancune+5
+3166	EpÃ©e de rancune+6
+3167	EpÃ©e de rancune+7
+3168	EpÃ©e de rancune+8
+3169	EpÃ©e de rancune+9
 3170	Tueuse de Dragon jaune+0
 3171	Tueuse de Dragon jaune+1
 3172	Tueuse de Dragon jaune+2
@@ -971,16 +971,16 @@ VNUM	LOCALE_NAME
 4037	Poig. Jumeau Lunaire+7
 4038	Poig. Jumeau Lunaire+8
 4039	Poig. Jumeau Lunaire+9
-4040	Couteau sans âme+0
-4041	Couteau sans âme+1
-4042	Couteau sans âme+2
-4043	Couteau sans âme+3
-4044	Couteau sans âme+4
-4045	Couteau sans âme+5
-4046	Couteau sans âme+6
-4047	Couteau sans âme+7
-4048	Couteau sans âme+8
-4049	Couteau sans âme+9
+4040	Couteau sans Ã¢me+0
+4041	Couteau sans Ã¢me+1
+4042	Couteau sans Ã¢me+2
+4043	Couteau sans Ã¢me+3
+4044	Couteau sans Ã¢me+4
+4045	Couteau sans Ã¢me+5
+4046	Couteau sans Ã¢me+6
+4047	Couteau sans Ã¢me+7
+4048	Couteau sans Ã¢me+8
+4049	Couteau sans Ã¢me+9
 5000	Gong de cuivre+0
 5001	Gong de cuivre+1
 5002	Gong de cuivre+2
@@ -1111,16 +1111,16 @@ VNUM	LOCALE_NAME
 5127	Gong de bambou+7
 5128	Gong de bambou+8
 5129	Gong de bambou+9
-5130	Gong sinistre évent.+0
-5131	Gong sinistre évent.+1
-5132	Gong sinistre évent.+2
-5133	Gong sinistre évent.+3
-5134	Gong sinistre évent.+4
-5135	Gong sinistre évent.+5
-5136	Gong sinistre évent.+6
-5137	Gong sinistre évent.+7
-5138	Gong sinistre évent.+8
-5139	Gong sinistre évent.+9
+5130	Gong sinistre Ã©vent.+0
+5131	Gong sinistre Ã©vent.+1
+5132	Gong sinistre Ã©vent.+2
+5133	Gong sinistre Ã©vent.+3
+5134	Gong sinistre Ã©vent.+4
+5135	Gong sinistre Ã©vent.+5
+5136	Gong sinistre Ã©vent.+6
+5137	Gong sinistre Ã©vent.+7
+5138	Gong sinistre Ã©vent.+8
+5139	Gong sinistre Ã©vent.+9
 5140	Gong du dragon+0
 5141	Gong du dragon+1
 5142	Gong du dragon+2
@@ -1151,16 +1151,16 @@ VNUM	LOCALE_NAME
 5337	Gong Gueule de Dragon +7
 5338	Gong Gueule de Dragon +8
 5339	Gong Gueule de Dragon +9
-5340	Cloche dragon fantôme +0
-5341	Cloche dragon fantôme +1
-5342	Cloche dragon fantôme +2
-5343	Cloche dragon fantôme +3
-5344	Cloche dragon fantôme +4
-5345	Cloche dragon fantôme +5
-5346	Cloche dragon fantôme +6
-5347	Cloche dragon fantôme +7
-5348	Cloche dragon fantôme +8
-5349	Clochedragon fantôme +9
+5340	Cloche dragon fantÃ´me +0
+5341	Cloche dragon fantÃ´me +1
+5342	Cloche dragon fantÃ´me +2
+5343	Cloche dragon fantÃ´me +3
+5344	Cloche dragon fantÃ´me +4
+5345	Cloche dragon fantÃ´me +5
+5346	Cloche dragon fantÃ´me +6
+5347	Cloche dragon fantÃ´me +7
+5348	Cloche dragon fantÃ´me +8
+5349	Clochedragon fantÃ´me +9
 7000	Eventail+0
 7001	Eventail+1
 7002	Eventail+2
@@ -1231,26 +1231,26 @@ VNUM	LOCALE_NAME
 7067	Eventail de pierre+7
 7068	Eventail de pierre+8
 7069	Eventail de pierre+9
-7070	Eventail de l'océan+0
-7071	Eventail de l'océan+1
-7072	Eventail de l'océan+2
-7073	Eventail de l'océan+3
-7074	Eventail de l'océan+4
-7075	Eventail de l'océan+5
-7076	Eventail de l'océan+6
-7077	Eventail de l'océan+7
-7078	Eventail de l'océan+8
-7079	Eventail de l'océan+9
-7080	Eventail de piqûre+0
-7081	Eventail de piqûre+1
-7082	Eventail de piqûre+2
-7083	Eventail de piqûre+3
-7084	Eventail de piqûre+4
-7085	Eventail de piqûre+5
-7086	Eventail de piqûre+6
-7087	Eventail de piqûre+7
-7088	Eventail de piqûre+8
-7089	Eventail de piqûre+9
+7070	Eventail de l'ocÃ©an+0
+7071	Eventail de l'ocÃ©an+1
+7072	Eventail de l'ocÃ©an+2
+7073	Eventail de l'ocÃ©an+3
+7074	Eventail de l'ocÃ©an+4
+7075	Eventail de l'ocÃ©an+5
+7076	Eventail de l'ocÃ©an+6
+7077	Eventail de l'ocÃ©an+7
+7078	Eventail de l'ocÃ©an+8
+7079	Eventail de l'ocÃ©an+9
+7080	Eventail de piqÃ»re+0
+7081	Eventail de piqÃ»re+1
+7082	Eventail de piqÃ»re+2
+7083	Eventail de piqÃ»re+3
+7084	Eventail de piqÃ»re+4
+7085	Eventail de piqÃ»re+5
+7086	Eventail de piqÃ»re+6
+7087	Eventail de piqÃ»re+7
+7088	Eventail de piqÃ»re+8
+7089	Eventail de piqÃ»re+9
 7090	Eventail du phoenix+0
 7091	Eventail du phoenix+1
 7092	Eventail du phoenix+2
@@ -1291,16 +1291,16 @@ VNUM	LOCALE_NAME
 7127	Eventail soleil noir+7
 7128	Eventail soleil noir+8
 7129	Eventail soleil noir+9
-7130	Event. oiseau céleste+0
-7131	Event. oiseau céleste+1
-7132	Event. oiseau céleste+2
-7133	Event. oiseau céleste+3
-7134	Event. oiseau céleste+4
-7135	Event. oiseau céleste+5
-7136	Event. oiseau céleste+6
-7137	Event. oiseau céleste+7
-7138	Event. oiseau céleste+8
-7139	Event. oiseau céleste+9
+7130	Event. oiseau cÃ©leste+0
+7131	Event. oiseau cÃ©leste+1
+7132	Event. oiseau cÃ©leste+2
+7133	Event. oiseau cÃ©leste+3
+7134	Event. oiseau cÃ©leste+4
+7135	Event. oiseau cÃ©leste+5
+7136	Event. oiseau cÃ©leste+6
+7137	Event. oiseau cÃ©leste+7
+7138	Event. oiseau cÃ©leste+8
+7139	Event. oiseau cÃ©leste+9
 7140	Eventail du salut+0
 7141	Eventail du salut+1
 7142	Eventail du salut+2
@@ -1341,26 +1341,26 @@ VNUM	LOCALE_NAME
 7177	Event. des 8 trigram.+7
 7178	Event. des 8 trigram.+8
 7179	Event. des 8 trigram.+9
-7180	Event. dragon couché+0
-7181	Event. dragon couché+1
-7182	Event. dragon couché+2
-7183	Event. dragon couché+3
-7184	Event. dragon couché+4
-7185	Event. dragon couché+5
-7186	Event. dragon couché+6
-7187	Event. dragon couché+7
-7188	Event. dragon couché+8
-7189	Event. dragon couché+9
-7190	Eventail démoniaque +0
-7191	Eventail démoniaque +1
-7192	Eventail démoniaque +2
-7193	Eventail démoniaque +3
-7194	Eventail démoniaque +4
-7195	Eventail démoniaque +5
-7196	Eventail démoniaque +6
-7197	Eventail démoniaque +7
-7198	Eventail démoniaque +8
-7199	Eventail démoniaque +9
+7180	Event. dragon couchÃ©+0
+7181	Event. dragon couchÃ©+1
+7182	Event. dragon couchÃ©+2
+7183	Event. dragon couchÃ©+3
+7184	Event. dragon couchÃ©+4
+7185	Event. dragon couchÃ©+5
+7186	Event. dragon couchÃ©+6
+7187	Event. dragon couchÃ©+7
+7188	Event. dragon couchÃ©+8
+7189	Event. dragon couchÃ©+9
+7190	Eventail dÃ©moniaque +0
+7191	Eventail dÃ©moniaque +1
+7192	Eventail dÃ©moniaque +2
+7193	Eventail dÃ©moniaque +3
+7194	Eventail dÃ©moniaque +4
+7195	Eventail dÃ©moniaque +5
+7196	Eventail dÃ©moniaque +6
+7197	Eventail dÃ©moniaque +7
+7198	Eventail dÃ©moniaque +8
+7199	Eventail dÃ©moniaque +9
 7200	Javelot+0
 7201	Javelot+1
 7202	Javelot+2
@@ -1371,34 +1371,34 @@ VNUM	LOCALE_NAME
 7207	Javelot+7
 7208	Javelot+8
 7209	Javelot+9
-7370	Event. dragon couché+0
-7371	Event. dragon couché+1
-7372	Event. dragon couché+2
-7373	Event. dragon couché+3
-7374	Event. dragon couché+4
-7375	Event. dragon couché+5
-7376	Event. dragon couché+6
-7377	Event. dragon couché+7
-7378	Event. dragon couché+8
-7379	Event. dragon couché+9
-8000	Flèche de bois
-8001	Flèche de bambou
-8002	Flèche de pierre
-8003	Flèche de fer
-8004	Flèche d'acier
-8005	Flèche d'argent
-8006	Flèche de feu
-8007	Flèche empoisonnée
-8008	Flèche de glace
-8009	Flèche maudite
+7370	Event. dragon couchÃ©+0
+7371	Event. dragon couchÃ©+1
+7372	Event. dragon couchÃ©+2
+7373	Event. dragon couchÃ©+3
+7374	Event. dragon couchÃ©+4
+7375	Event. dragon couchÃ©+5
+7376	Event. dragon couchÃ©+6
+7377	Event. dragon couchÃ©+7
+7378	Event. dragon couchÃ©+8
+7379	Event. dragon couchÃ©+9
+8000	FlÃ¨che de bois
+8001	FlÃ¨che de bambou
+8002	FlÃ¨che de pierre
+8003	FlÃ¨che de fer
+8004	FlÃ¨che d'acier
+8005	FlÃ¨che d'argent
+8006	FlÃ¨che de feu
+8007	FlÃ¨che empoisonnÃ©e
+8008	FlÃ¨che de glace
+8009	FlÃ¨che maudite
 9001	Armure nahan+5
 9002	Armure tanma+5
 9003	Armure jinhan+5
 9004	Armure Chung+5
-9501	Epée+5
-9502	Epée courte+5
-9503	Flèche courte+5
-9504	Epée longue+5
+9501	EpÃ©e+5
+9502	EpÃ©e courte+5
+9503	FlÃ¨che courte+5
+9504	EpÃ©e longue+5
 9505	Grand Eventail+5
 11000	Armure du loup
 11010	Armure sanglier sauvage
@@ -1504,14 +1504,14 @@ VNUM	LOCALE_NAME
 11297	Armure d'acier noir+7
 11298	Armure d'acier noir+8
 11299	Armure d'acier noir+9
-11300	Malléabilité
-11301	Malléabilité
+11300	MallÃ©abilitÃ©
+11301	MallÃ©abilitÃ©
 11302	Bonne endurance
 11303	Armure faible
 11304	Mur ennemi
 11305	Intelligence
 11306	Soldats
-11307	Chaussures supérieures
+11307	Chaussures supÃ©rieures
 11308	Endurance de l'ennemi
 11309	Endurance autre ennemi
 11400	Costume azur+0
@@ -1624,26 +1624,26 @@ VNUM	LOCALE_NAME
 11507	Bi-Pung
 11508	Zeok-Hyoun
 11509	Ho-Gu
-11600	Armure de réquiem+0
-11601	Armure de réquiem+1
-11602	Armure de réquiem+2
-11603	Armure de réquiem+3
-11604	Armure de réquiem+4
-11605	Armure de réquiem+5
-11606	Armure de réquiem+6
-11607	Armure de réquiem+7
-11608	Armure de réquiem+8
-11609	Armure de réquiem+9
-11610	Armure tempétueuse+0
-11611	Armure tempétueuse+1
-11612	Armure tempétueuse+2
-11613	Armure tempétueuse+3
-11614	Armure tempétueuse+4
-11615	Armure tempétueuse+5
-11616	Armure tempétueuse+6
-11617	Armure tempétueuse+7
-11618	Armure tempétueuse+8
-11619	Armure tempétueuse+9
+11600	Armure de rÃ©quiem+0
+11601	Armure de rÃ©quiem+1
+11602	Armure de rÃ©quiem+2
+11603	Armure de rÃ©quiem+3
+11604	Armure de rÃ©quiem+4
+11605	Armure de rÃ©quiem+5
+11606	Armure de rÃ©quiem+6
+11607	Armure de rÃ©quiem+7
+11608	Armure de rÃ©quiem+8
+11609	Armure de rÃ©quiem+9
+11610	Armure tempÃ©tueuse+0
+11611	Armure tempÃ©tueuse+1
+11612	Armure tempÃ©tueuse+2
+11613	Armure tempÃ©tueuse+3
+11614	Armure tempÃ©tueuse+4
+11615	Armure tempÃ©tueuse+5
+11616	Armure tempÃ©tueuse+6
+11617	Armure tempÃ©tueuse+7
+11618	Armure tempÃ©tueuse+8
+11619	Armure tempÃ©tueuse+9
 11620	Armure de malchance+0
 11621	Armure de malchance+1
 11622	Armure de malchance+2
@@ -1654,16 +1654,16 @@ VNUM	LOCALE_NAME
 11627	Armure de malchance+7
 11628	Armure de malchance+8
 11629	Armure de malchance+9
-11630	Armure de fantôme+0
-11631	Armure de fantôme+1
-11632	Armure de fantôme+2
-11633	Armure de fantôme+3
-11634	Armure de fantôme+4
-11635	Armure de fantôme+5
-11636	Armure de fantôme+6
-11637	Armure de fantôme+7
-11638	Armure de fantôme+8
-11639	Armure de fantôme+9
+11630	Armure de fantÃ´me+0
+11631	Armure de fantÃ´me+1
+11632	Armure de fantÃ´me+2
+11633	Armure de fantÃ´me+3
+11634	Armure de fantÃ´me+4
+11635	Armure de fantÃ´me+5
+11636	Armure de fantÃ´me+6
+11637	Armure de fantÃ´me+7
+11638	Armure de fantÃ´me+8
+11639	Armure de fantÃ´me+9
 11640	Armure du yin-yang+0
 11641	Armure du yin-yang+1
 11642	Armure du yin-yang+2
@@ -1684,16 +1684,16 @@ VNUM	LOCALE_NAME
 11657	Armure mystique noir+7
 11658	Armure mystique noir+8
 11659	Armure mystique noir+9
-11660	Armure nébuleuse+0
-11661	Armure nébuleuse+1
-11662	Armure nébuleuse+2
-11663	Armure nébuleuse+3
-11664	Armure nébuleuse+4
-11665	Armure nébuleuse+5
-11666	Armure nébuleuse+6
-11667	Armure nébuleuse+7
-11668	Armure nébuleuse+8
-11669	Armure nébuleuse+9
+11660	Armure nÃ©buleuse+0
+11661	Armure nÃ©buleuse+1
+11662	Armure nÃ©buleuse+2
+11663	Armure nÃ©buleuse+3
+11664	Armure nÃ©buleuse+4
+11665	Armure nÃ©buleuse+5
+11666	Armure nÃ©buleuse+6
+11667	Armure nÃ©buleuse+7
+11668	Armure nÃ©buleuse+8
+11669	Armure nÃ©buleuse+9
 11670	Arm. visage spectrale+0
 11671	Arm. visage spectrale+1
 11672	Arm. visage spectrale+2
@@ -1836,15 +1836,15 @@ VNUM	LOCALE_NAME
 11899	Robe noire+9
 11901	Smoking
 11902	Smoking
-11903	Robe de mariée
-11904	Robe de mariée
+11903	Robe de mariÃ©e
+11904	Robe de mariÃ©e
 11911	Smoking
 11912	Smoking
-11913	Robe de mariée
-11914	Robe de mariée
+11913	Robe de mariÃ©e
+11914	Robe de mariÃ©e
 11951	Armure du singe
 11952	Costume azur
-11953	Armure de réquiem
+11953	Armure de rÃ©quiem
 11954	Robe Pourpre
 11971	Armure de Hwang
 11972	Armure rouge de Hwang
@@ -1860,46 +1860,46 @@ VNUM	LOCALE_NAME
 12007	Combinaison Aqual+7
 12008	Combinaison Aqua+8
 12009	Combinaison Aqua+9
-12010	Armure d'acier azuré +0
-12011	Armure d'acier azuré +1
-12012	Armure d'acier azuré +2
-12013	Armure d'acier azuré +3
-12014	Armure d'acier azuré +4
-12015	Armure d'acier azuré +5
-12016	Armure d'acier azuré +6
-12017	Armure d'acier azuré +7
-12018	Armure d'acier azuré +8
-12019	Armure d'acier azuré +9
-12020	Cost. de dragon azuré +0
-12021	Cost. de dragon azuré +1
-12022	Cost. de dragon azuré +2
-12023	Cost. de dragon azuré +3
-12024	Cost. de dragon azuré +4
-12025	Cost. de dragon azuré +5
-12026	Cost. de dragon azuré +6
-12027	Cost. de dragon azuré +7
-12028	Cost. de dragon azuré +8
-12029	Cost. de dragon azuré +9
-12030	Plaques auréolées +0
-12031	Plaques auréolées +1
-12032	Plaques auréolées +2
-12033	Plaques auréolées +3
-12034	Plaques auréolées +4
-12035	Plaques auréolées +5
-12036	Plaques auréolées +6
-12037	Plaques auréolées +7
-12038	Plaques auréolées +8
-12039	Plaques auréolées +9
-12040	Vêtements draconiques +0
-12041	Vêtements draconiques +1
-12042	Vêtements draconiques +2
-12043	Vêtements draconiques +3
-12044	Vêtements draconiques +4
-12045	Vêtements draconiques +5
-12046	Vêtements draconiques+6
-12047	Vêtements draconiques +7
-12048	Vêtements draconiques +8
-12049	Vêtements draconiques +9
+12010	Armure d'acier azurÃ© +0
+12011	Armure d'acier azurÃ© +1
+12012	Armure d'acier azurÃ© +2
+12013	Armure d'acier azurÃ© +3
+12014	Armure d'acier azurÃ© +4
+12015	Armure d'acier azurÃ© +5
+12016	Armure d'acier azurÃ© +6
+12017	Armure d'acier azurÃ© +7
+12018	Armure d'acier azurÃ© +8
+12019	Armure d'acier azurÃ© +9
+12020	Cost. de dragon azurÃ© +0
+12021	Cost. de dragon azurÃ© +1
+12022	Cost. de dragon azurÃ© +2
+12023	Cost. de dragon azurÃ© +3
+12024	Cost. de dragon azurÃ© +4
+12025	Cost. de dragon azurÃ© +5
+12026	Cost. de dragon azurÃ© +6
+12027	Cost. de dragon azurÃ© +7
+12028	Cost. de dragon azurÃ© +8
+12029	Cost. de dragon azurÃ© +9
+12030	Plaques aurÃ©olÃ©es +0
+12031	Plaques aurÃ©olÃ©es +1
+12032	Plaques aurÃ©olÃ©es +2
+12033	Plaques aurÃ©olÃ©es +3
+12034	Plaques aurÃ©olÃ©es +4
+12035	Plaques aurÃ©olÃ©es +5
+12036	Plaques aurÃ©olÃ©es +6
+12037	Plaques aurÃ©olÃ©es +7
+12038	Plaques aurÃ©olÃ©es +8
+12039	Plaques aurÃ©olÃ©es +9
+12040	VÃªtements draconiques +0
+12041	VÃªtements draconiques +1
+12042	VÃªtements draconiques +2
+12043	VÃªtements draconiques +3
+12044	VÃªtements draconiques +4
+12045	VÃªtements draconiques +5
+12046	VÃªtements draconiques+6
+12047	VÃªtements draconiques +7
+12048	VÃªtements draconiques +8
+12049	VÃªtements draconiques +9
 12200	Heaume traditionnel+0
 12201	Heaume traditionnel+1
 12202	Heaume traditionnel+2
@@ -1940,16 +1940,16 @@ VNUM	LOCALE_NAME
 12267	Masque de la peur +7
 12268	Masque de la peur +8
 12269	Masque de la peur +9
-12280	Heaume de général +0
-12281	Heaume de général +1
-12282	Heaume de général +2
-12283	Heaume de général +3
-12284	Heaume de général +4
-12285	Heaume de général +5
-12286	Heaume de général +6
-12287	Heaume de général +7
-12288	Heaume de général +8
-12289	Heaume de général +9
+12280	Heaume de gÃ©nÃ©ral +0
+12281	Heaume de gÃ©nÃ©ral +1
+12282	Heaume de gÃ©nÃ©ral +2
+12283	Heaume de gÃ©nÃ©ral +3
+12284	Heaume de gÃ©nÃ©ral +4
+12285	Heaume de gÃ©nÃ©ral +5
+12286	Heaume de gÃ©nÃ©ral +6
+12287	Heaume de gÃ©nÃ©ral +7
+12288	Heaume de gÃ©nÃ©ral +8
+12289	Heaume de gÃ©nÃ©ral +9
 12340	Capuchon en cuir+0
 12341	Capuchon en cuir+1
 12342	Capuchon en cuir+2
@@ -1990,16 +1990,16 @@ VNUM	LOCALE_NAME
 12397	Capuchon orc +7
 12398	Capuchon orc +8
 12399	Capuchon orc +9
-12400	Capuchon arachnoïde +0
-12401	Capuchon arachnoïde +1
-12402	Capuchon arachnoïde +2
-12403	Capuchon arachnoïde +3
-12404	Capuchon arachnoïde +4
-12405	Capuchon arachnoïde +5
-12406	Capuchon arachnoïde +6
-12407	Capuchon arachnoïde +7
-12408	Capuchon arachnoïde +8
-12409	Capuchon arachnoïde +9
+12400	Capuchon arachnoÃ¯de +0
+12401	Capuchon arachnoÃ¯de +1
+12402	Capuchon arachnoÃ¯de +2
+12403	Capuchon arachnoÃ¯de +3
+12404	Capuchon arachnoÃ¯de +4
+12405	Capuchon arachnoÃ¯de +5
+12406	Capuchon arachnoÃ¯de +6
+12407	Capuchon arachnoÃ¯de +7
+12408	Capuchon arachnoÃ¯de +8
+12409	Capuchon arachnoÃ¯de +9
 12480	Heaume sanglant+0
 12481	Heaume sanglant+1
 12482	Heaume sanglant+2
@@ -2020,16 +2020,16 @@ VNUM	LOCALE_NAME
 12507	Heaume de raillerie+7
 12508	Heaume de raillerie+8
 12509	Heaume de raillerie+9
-12520	Heaume de château+0
-12521	Heaume de château+1
-12522	Heaume de château+2
-12523	Heaume de château+3
-12524	Heaume de château+4
-12525	Heaume de château+5
-12526	Heaume de château+6
-12527	Heaume de château+7
-12528	Heaume de château+8
-12529	Heaume de château+9
+12520	Heaume de chÃ¢teau+0
+12521	Heaume de chÃ¢teau+1
+12522	Heaume de chÃ¢teau+2
+12523	Heaume de chÃ¢teau+3
+12524	Heaume de chÃ¢teau+4
+12525	Heaume de chÃ¢teau+5
+12526	Heaume de chÃ¢teau+6
+12527	Heaume de chÃ¢teau+7
+12528	Heaume de chÃ¢teau+8
+12529	Heaume de chÃ¢teau+9
 12530	Heaume Viking +0
 12531	Heaume Viking +1
 12532	Heaume Viking +2
@@ -2090,16 +2090,16 @@ VNUM	LOCALE_NAME
 12677	Chapeau de cardinal +7
 12678	Chapeau de cardinal +8
 12679	Chapeau de cardinal +9
-12680	Chapeau d'éclat d'âme +0
-12681	Chapeau d'éclat d'âme +1
-12682	Chapeau d'éclat d'âme +2
-12683	Chapeau d'éclat d'âme +3
-12684	Chapeau d'éclat d'âme +4
-12685	Chapeau d'éclat d'âme +5
-12686	Chapeau d'éclat d'âme +6
-12687	Chapeau d'éclat d'âme +7
-12688	Chapeau d'éclat d'âme +8
-12689	Chapeau d'éclat d'âme +9
+12680	Chapeau d'Ã©clat d'Ã¢me +0
+12681	Chapeau d'Ã©clat d'Ã¢me +1
+12682	Chapeau d'Ã©clat d'Ã¢me +2
+12683	Chapeau d'Ã©clat d'Ã¢me +3
+12684	Chapeau d'Ã©clat d'Ã¢me +4
+12685	Chapeau d'Ã©clat d'Ã¢me +5
+12686	Chapeau d'Ã©clat d'Ã¢me +6
+12687	Chapeau d'Ã©clat d'Ã¢me +7
+12688	Chapeau d'Ã©clat d'Ã¢me +8
+12689	Chapeau d'Ã©clat d'Ã¢me +9
 13000	Bouclier de bataille+0
 13001	Bouclier de bataille+1
 13002	Bouclier de bataille+2
@@ -2160,16 +2160,16 @@ VNUM	LOCALE_NAME
 13107	Boucl. tranc. du lion+7
 13108	Boucl. tranc. du lion+8
 13109	Boucl. tranc. du lion+9
-13120	Boucl. écaille dragon+0
-13121	Boucl. écaille dragon+1
-13122	Boucl. écaille dragon+2
-13123	Boucl. écaille dragon+3
-13124	Boucl. écaille dragon+4
-13125	Boucl. écaille dragon+5
-13126	Boucl. écaille dragon+6
-13127	Boucl. écaille dragon+7
-13128	Boucl. écaille dragon+8
-13129	Boucl. écaille dragon+9
+13120	Boucl. Ã©caille dragon+0
+13121	Boucl. Ã©caille dragon+1
+13122	Boucl. Ã©caille dragon+2
+13123	Boucl. Ã©caille dragon+3
+13124	Boucl. Ã©caille dragon+4
+13125	Boucl. Ã©caille dragon+5
+13126	Boucl. Ã©caille dragon+6
+13127	Boucl. Ã©caille dragon+7
+13128	Boucl. Ã©caille dragon+8
+13129	Boucl. Ã©caille dragon+9
 13140	Bouclier des titans +0
 13141	Bouclier des titans +1
 13142	Bouclier des titans +2
@@ -2270,16 +2270,16 @@ VNUM	LOCALE_NAME
 14087	Bracelet de jade+7
 14088	Bracelet de jade+8
 14089	Bracelet de jade+9
-14100	Bracelet d'ébène+0
-14101	Bracelet d'ébène+1
-14102	Bracelet d'ébène+2
-14103	Bracelet d'ébène+3
-14104	Bracelet d'ébène+4
-14105	Bracelet d'ébène+5
-14106	Bracelet d'ébène+6
-14107	Bracelet d'ébène+7
-14108	Bracelet d'ébène+8
-14109	Bracelet d'ébène+9
+14100	Bracelet d'Ã©bÃ¨ne+0
+14101	Bracelet d'Ã©bÃ¨ne+1
+14102	Bracelet d'Ã©bÃ¨ne+2
+14103	Bracelet d'Ã©bÃ¨ne+3
+14104	Bracelet d'Ã©bÃ¨ne+4
+14105	Bracelet d'Ã©bÃ¨ne+5
+14106	Bracelet d'Ã©bÃ¨ne+6
+14107	Bracelet d'Ã©bÃ¨ne+7
+14108	Bracelet d'Ã©bÃ¨ne+8
+14109	Bracelet d'Ã©bÃ¨ne+9
 14120	Bracelet de perles+0
 14121	Bracelet de perles+1
 14122	Bracelet de perles+2
@@ -2310,36 +2310,36 @@ VNUM	LOCALE_NAME
 14167	Bracelet de cristal+7
 14168	Bracelet de cristal+8
 14169	Bracelet de cristal+9
-14180	Bracelet d'améthyste+0
-14181	bracelet d'améthyste+1
-14182	bracelet d'améthyste+2
-14183	bracelet d'améthyste+3
-14184	bracelet d'améthyste+4
-14185	bracelet d'améthyste+5
-14186	bracelet d'améthyste+6
-14187	bracelet d'améthyste+7
-14188	bracelet d'améthyste+8
-14189	bracelet d'améthyste+9
-14200	Bracelet larme céleste+0
-14201	Bracelet larme céleste+1
-14202	Bracelet larme céleste+2
-14203	Bracelet larme céleste+3
-14204	Bracelet larme céleste+4
-14205	Bracelet larme céleste+5
-14206	Bracelet larme céleste+6
-14207	Bracelet larme céleste+7
-14208	Bracelet larme céleste+8
-14209	Bracelet larme céleste+9
-14220	Bracelet cristal d'âme+0
-14221	Bracelet cristal d'âme+1
-14222	Bracelet cristal d'âme+2
-14223	Bracelet cristal d'âme+3
-14224	Bracelet cristal d'âme+4
-14225	Bracelet cristal d'âme+5
-14226	Bracelet cristal d'âme+6
-14227	Bracelet cristal d'âme+7
-14228	Bracelet cristal d'âme+8
-14229	Bracelet cristal d'âme+9
+14180	Bracelet d'amÃ©thyste+0
+14181	bracelet d'amÃ©thyste+1
+14182	bracelet d'amÃ©thyste+2
+14183	bracelet d'amÃ©thyste+3
+14184	bracelet d'amÃ©thyste+4
+14185	bracelet d'amÃ©thyste+5
+14186	bracelet d'amÃ©thyste+6
+14187	bracelet d'amÃ©thyste+7
+14188	bracelet d'amÃ©thyste+8
+14189	bracelet d'amÃ©thyste+9
+14200	Bracelet larme cÃ©leste+0
+14201	Bracelet larme cÃ©leste+1
+14202	Bracelet larme cÃ©leste+2
+14203	Bracelet larme cÃ©leste+3
+14204	Bracelet larme cÃ©leste+4
+14205	Bracelet larme cÃ©leste+5
+14206	Bracelet larme cÃ©leste+6
+14207	Bracelet larme cÃ©leste+7
+14208	Bracelet larme cÃ©leste+8
+14209	Bracelet larme cÃ©leste+9
+14220	Bracelet cristal d'Ã¢me+0
+14221	Bracelet cristal d'Ã¢me+1
+14222	Bracelet cristal d'Ã¢me+2
+14223	Bracelet cristal d'Ã¢me+3
+14224	Bracelet cristal d'Ã¢me+4
+14225	Bracelet cristal d'Ã¢me+5
+14226	Bracelet cristal d'Ã¢me+6
+14227	Bracelet cristal d'Ã¢me+7
+14228	Bracelet cristal d'Ã¢me+8
+14229	Bracelet cristal d'Ã¢me+9
 14500	Bracelet rubis +0
 14501	Bracelet rubis +1
 14502	Bracelet rubis +2
@@ -2360,16 +2360,16 @@ VNUM	LOCALE_NAME
 14527	Bracelet grenat +7
 14528	Bracelet grenat +8
 14529	Bracelet grenat +9
-14540	Bracelet émeraude +0
-14541	Bracelet émeraude +1
-14542	Bracelet émeraude +2
-14543	Bracelet émeraude +3
-14544	Bracelet émeraude +4
-14545	Bracelet émeraude +5
-14546	Bracelet émeraude +6
-14547	Bracelet émeraude +7
-14548	Bracelet émeraude +8
-14549	Bracelet émeraude +9
+14540	Bracelet Ã©meraude +0
+14541	Bracelet Ã©meraude +1
+14542	Bracelet Ã©meraude +2
+14543	Bracelet Ã©meraude +3
+14544	Bracelet Ã©meraude +4
+14545	Bracelet Ã©meraude +5
+14546	Bracelet Ã©meraude +6
+14547	Bracelet Ã©meraude +7
+14548	Bracelet Ã©meraude +8
+14549	Bracelet Ã©meraude +9
 14560	Bracelet saphir +0
 14561	Bracelet saphir +1
 14562	Bracelet saphir +2
@@ -2500,16 +2500,16 @@ VNUM	LOCALE_NAME
 15227	Chauss. oiseau de feu+7
 15228	Chauss. oiseau de feu+8
 15229	Chauss. oiseau de feu+9
-15240	Chauss. dragon caché+0
-15241	Chauss. dragon caché+1
-15242	Chauss. dragon caché+2
-15243	Chauss. dragon caché+3
-15244	Chauss. dragon caché+4
-15245	Chauss. dragon caché+5
-15246	Chauss. dragon caché+6
-15247	Chauss. dragon caché+7
-15248	Chauss. dragon caché+8
-15249	Chauss. dragon caché+9
+15240	Chauss. dragon cachÃ©+0
+15241	Chauss. dragon cachÃ©+1
+15242	Chauss. dragon cachÃ©+2
+15243	Chauss. dragon cachÃ©+3
+15244	Chauss. dragon cachÃ©+4
+15245	Chauss. dragon cachÃ©+5
+15246	Chauss. dragon cachÃ©+6
+15247	Chauss. dragon cachÃ©+7
+15248	Chauss. dragon cachÃ©+8
+15249	Chauss. dragon cachÃ©+9
 15370	Chausses d'euphorie +0
 15371	Chausses d'euphorie +1
 15372	Chausses d'euphorie +2
@@ -2520,16 +2520,16 @@ VNUM	LOCALE_NAME
 15377	Chausses d'euphorie +7
 15378	Chausses d'euphorie +8
 15379	Chausses d'euphorie +9
-15390	Bottes auréolées +0
-15391	Bottes auréolées +1
-15392	Bottes auréolées +2
-15393	Bottes auréolées +3
-15394	Bottes auréolées +4
-15395	Bottes auréolées +5
-15396	Bottes auréolées +6
-15397	Bottes auréolées +7
-15398	Bottes auréolées +8
-15399	Bottes auréolées +9
+15390	Bottes aurÃ©olÃ©es +0
+15391	Bottes aurÃ©olÃ©es +1
+15392	Bottes aurÃ©olÃ©es +2
+15393	Bottes aurÃ©olÃ©es +3
+15394	Bottes aurÃ©olÃ©es +4
+15395	Bottes aurÃ©olÃ©es +5
+15396	Bottes aurÃ©olÃ©es +6
+15397	Bottes aurÃ©olÃ©es +7
+15398	Bottes aurÃ©olÃ©es +8
+15399	Bottes aurÃ©olÃ©es +9
 15410	Bottes de Qilin +0
 15411	Bottes de Qilin +1
 15412	Bottes de Qilin +2
@@ -2600,16 +2600,16 @@ VNUM	LOCALE_NAME
 16087	Collier de jade+7
 16088	Collier de jade+8
 16089	Collier de jade+9
-16100	Collier d'ébène+0
-16101	Collier d'ébène+1
-16102	Collier d'ébène+2
-16103	Collier d'ébène+3
-16104	Collier d'ébène+4
-16105	Collier d'ébène+5
-16106	Collier d'ébène+6
-16107	Collier d'ébène+7
-16108	Collier d'ébène+8
-16109	Collier d'ébène+9
+16100	Collier d'Ã©bÃ¨ne+0
+16101	Collier d'Ã©bÃ¨ne+1
+16102	Collier d'Ã©bÃ¨ne+2
+16103	Collier d'Ã©bÃ¨ne+3
+16104	Collier d'Ã©bÃ¨ne+4
+16105	Collier d'Ã©bÃ¨ne+5
+16106	Collier d'Ã©bÃ¨ne+6
+16107	Collier d'Ã©bÃ¨ne+7
+16108	Collier d'Ã©bÃ¨ne+8
+16109	Collier d'Ã©bÃ¨ne+9
 16120	Collier de perles+0
 16121	Collier de perles+1
 16122	Collier de perles+2
@@ -2640,36 +2640,36 @@ VNUM	LOCALE_NAME
 16167	Collier de cristal+7
 16168	Collier de cristal+8
 16169	Collier de cristal+9
-16180	Collier d'améthyste+0
-16181	Collier d'améthyste+1
-16182	Collier d'améthyste+2
-16183	Collier d'améthyste+3
-16184	Collier d'améthyste+4
-16185	Collier d'améthyste+5
-16186	Collier d'améthyste+6
-16187	Collier d'améthyste+7
-16188	Collier d'améthyste+8
-16189	Collier d'améthyste+9
-16200	Collier larme céleste+0
-16201	Collier larme céleste+1
-16202	Collier larme céleste+2
-16203	Collier larme céleste+3
-16204	Collier larme céleste+4
-16205	Collier larme céleste+5
-16206	Collier larme céleste+6
-16207	Collier larme céleste+7
-16208	Collier larme céleste+8
-16209	Collier larme céleste+9
-16220	Collier cristal d'âme+0
-16221	Collier cristal d'âme+1
-16222	Collier cristal d'âme+2
-16223	Collier cristal d'âme+3
-16224	Collier cristal d'âme+4
-16225	Collier cristal d'âme+5
-16226	Collier cristal d'âme+6
-16227	Collier cristal d'âme+7
-16228	Collier cristal d'âme+8
-16229	Collier cristal d'âme+9
+16180	Collier d'amÃ©thyste+0
+16181	Collier d'amÃ©thyste+1
+16182	Collier d'amÃ©thyste+2
+16183	Collier d'amÃ©thyste+3
+16184	Collier d'amÃ©thyste+4
+16185	Collier d'amÃ©thyste+5
+16186	Collier d'amÃ©thyste+6
+16187	Collier d'amÃ©thyste+7
+16188	Collier d'amÃ©thyste+8
+16189	Collier d'amÃ©thyste+9
+16200	Collier larme cÃ©leste+0
+16201	Collier larme cÃ©leste+1
+16202	Collier larme cÃ©leste+2
+16203	Collier larme cÃ©leste+3
+16204	Collier larme cÃ©leste+4
+16205	Collier larme cÃ©leste+5
+16206	Collier larme cÃ©leste+6
+16207	Collier larme cÃ©leste+7
+16208	Collier larme cÃ©leste+8
+16209	Collier larme cÃ©leste+9
+16220	Collier cristal d'Ã¢me+0
+16221	Collier cristal d'Ã¢me+1
+16222	Collier cristal d'Ã¢me+2
+16223	Collier cristal d'Ã¢me+3
+16224	Collier cristal d'Ã¢me+4
+16225	Collier cristal d'Ã¢me+5
+16226	Collier cristal d'Ã¢me+6
+16227	Collier cristal d'Ã¢me+7
+16228	Collier cristal d'Ã¢me+8
+16229	Collier cristal d'Ã¢me+9
 16500	Collier rubis +0
 16501	Collier rubis +1
 16502	Collier rubis +2
@@ -2690,16 +2690,16 @@ VNUM	LOCALE_NAME
 16527	Collier grenat +7
 16528	Collier grenat +8
 16529	Collier grenat +9
-16540	Collier émeraude +0
-16541	Collier émeraude +1
-16542	Collier émeraude +2
-16543	Collier émeraude +3
-16544	Collier émeraude +4
-16545	Collier émeraude +5
-16546	Collier émeraude +6
-16547	Collier émeraude +7
-16548	Collier émeraude +8
-16549	Collier émeraude +9
+16540	Collier Ã©meraude +0
+16541	Collier Ã©meraude +1
+16542	Collier Ã©meraude +2
+16543	Collier Ã©meraude +3
+16544	Collier Ã©meraude +4
+16545	Collier Ã©meraude +5
+16546	Collier Ã©meraude +6
+16547	Collier Ã©meraude +7
+16548	Collier Ã©meraude +8
+16549	Collier Ã©meraude +9
 16560	Collier saphir +0
 16561	Collier saphir +1
 16562	Collier saphir +2
@@ -2760,16 +2760,16 @@ VNUM	LOCALE_NAME
 17087	Boucles oreille jade+7
 17088	Boucles oreille jade+8
 17089	Boucles oreille jade+9
-17100	Boucles oreille ébène+0
-17101	Boucles oreille ébène+1
-17102	Boucles oreille ébène+2
-17103	Boucles oreille ébène+3
-17104	Boucles oreille ébène+4
-17105	Boucles oreille ébène+5
-17106	Boucles oreille ébène+6
-17107	Boucles oreille ébène+7
-17108	Boucles oreille ébène+8
-17109	Boucles oreille ébène+9
+17100	Boucles oreille Ã©bÃ¨ne+0
+17101	Boucles oreille Ã©bÃ¨ne+1
+17102	Boucles oreille Ã©bÃ¨ne+2
+17103	Boucles oreille Ã©bÃ¨ne+3
+17104	Boucles oreille Ã©bÃ¨ne+4
+17105	Boucles oreille Ã©bÃ¨ne+5
+17106	Boucles oreille Ã©bÃ¨ne+6
+17107	Boucles oreille Ã©bÃ¨ne+7
+17108	Boucles oreille Ã©bÃ¨ne+8
+17109	Boucles oreille Ã©bÃ¨ne+9
 17120	Boucles oreille perle+0
 17121	Boucles oreille perle+1
 17122	Boucles oreille perle+2
@@ -2800,16 +2800,16 @@ VNUM	LOCALE_NAME
 17167	Boucles oreil. cristal+7
 17168	Boucles oreil. cristal+8
 17169	Boucles oreil. cristal+9
-17180	Boucle oreille améth.+0
-17181	Boucle oreille améth.+1
-17182	Boucle oreille améth.+2
-17183	Boucle oreille améth.+3
-17184	Boucle oreille améth.+4
-17185	Boucle oreille améth.+5
-17186	Boucle oreille améth.+6
-17187	Boucle oreille améth.+7
-17188	Boucle oreille améth.+8
-17189	Boucle oreille améth.+9
+17180	Boucle oreille amÃ©th.+0
+17181	Boucle oreille amÃ©th.+1
+17182	Boucle oreille amÃ©th.+2
+17183	Boucle oreille amÃ©th.+3
+17184	Boucle oreille amÃ©th.+4
+17185	Boucle oreille amÃ©th.+5
+17186	Boucle oreille amÃ©th.+6
+17187	Boucle oreille amÃ©th.+7
+17188	Boucle oreille amÃ©th.+8
+17189	Boucle oreille amÃ©th.+9
 17200	Boucle oreil. larme C+0
 17201	Boucle oreil. larme C+1
 17202	Boucle oreil. larme C+2
@@ -2820,16 +2820,16 @@ VNUM	LOCALE_NAME
 17207	Boucle oreil. larme C+7
 17208	Boucle oreil. larme C+8
 17209	Boucle oreil. larme C+9
-17220	Boucles cristal d'âme+0
-17221	Boucles cristal d'âme+1
-17222	Boucles cristal d'âme+2
-17223	Boucles cristal d'âme+3
-17224	Boucles cristal d'âme+4
-17225	Boucles cristal d'âme+5
-17226	Boucles cristal d'âme+6
-17227	Boucles cristal d'âme+7
-17228	Boucles cristal d'âme+8
-17229	Boucles cristal d'âme+9
+17220	Boucles cristal d'Ã¢me+0
+17221	Boucles cristal d'Ã¢me+1
+17222	Boucles cristal d'Ã¢me+2
+17223	Boucles cristal d'Ã¢me+3
+17224	Boucles cristal d'Ã¢me+4
+17225	Boucles cristal d'Ã¢me+5
+17226	Boucles cristal d'Ã¢me+6
+17227	Boucles cristal d'Ã¢me+7
+17228	Boucles cristal d'Ã¢me+8
+17229	Boucles cristal d'Ã¢me+9
 17500	Boucles rubis +0
 17501	Boucles rubis +1
 17502	Boucles rubis +2
@@ -2850,16 +2850,16 @@ VNUM	LOCALE_NAME
 17527	Boucles grenat +7
 17528	Boucles grenat +8
 17529	Boucles grenat +9
-17540	Boucles émeraude +0
-17541	Boucles émeraude +1
-17542	Boucles émeraude +2
-17543	Boucles émeraude +3
-17544	Boucles émeraude +4
-17545	Boucles émeraude +5
-17546	Boucles émeraude +6
-17547	Boucles émeraude +7
-17548	Boucles émeraude +8
-17549	Boucles émeraude +9
+17540	Boucles Ã©meraude +0
+17541	Boucles Ã©meraude +1
+17542	Boucles Ã©meraude +2
+17543	Boucles Ã©meraude +3
+17544	Boucles Ã©meraude +4
+17545	Boucles Ã©meraude +5
+17546	Boucles Ã©meraude +6
+17547	Boucles Ã©meraude +7
+17548	Boucles Ã©meraude +8
+17549	Boucles Ã©meraude +9
 17560	Boucles saphir +0
 17561	Boucles saphir +1
 17562	Boucles saphir +2
@@ -2920,16 +2920,16 @@ VNUM	LOCALE_NAME
 18047	Ceinture royale+7
 18048	Ceinture royale+8
 18049	Ceinture royale+9
-18050	Ceinture ténébreuse+0
-18051	Ceinture ténébreuse+1
-18052	Ceinture ténébreuse+2
-18053	Ceinture ténébreuse+3
-18054	Ceinture ténébreuse+4
-18055	Ceinture ténébreuse+5
-18056	Ceinture ténébreuse+6
-18057	Ceinture ténébreuse+7
-18058	Ceinture ténébreuse+8
-18059	Ceinture ténébreuse+9
+18050	Ceinture tÃ©nÃ©breuse+0
+18051	Ceinture tÃ©nÃ©breuse+1
+18052	Ceinture tÃ©nÃ©breuse+2
+18053	Ceinture tÃ©nÃ©breuse+3
+18054	Ceinture tÃ©nÃ©breuse+4
+18055	Ceinture tÃ©nÃ©breuse+5
+18056	Ceinture tÃ©nÃ©breuse+6
+18057	Ceinture tÃ©nÃ©breuse+7
+18058	Ceinture tÃ©nÃ©breuse+8
+18059	Ceinture tÃ©nÃ©breuse+9
 18060	Ceinture runique+0
 18061	Ceinture runique+1
 18062	Ceinture runique+2
@@ -2991,25 +2991,25 @@ VNUM	LOCALE_NAME
 20507	Armure plates d'os+7
 20508	Armure plates d'os+8
 20509	Armure plates d'os+9
-20750	Vêtement doré+0
-20751	Vêtement doré+1
-20752	Vêtement doré+2
-20753	Vêtement doré+3
-20754	Vêtement doré+4
-20755	Vêtement doré+5
-20756	Vêtement doré+6
-20757	Vêtement doré+7
-20758	Vêtement doré+8
-20759	Vêtement doré+9
+20750	VÃªtement dorÃ©+0
+20751	VÃªtement dorÃ©+1
+20752	VÃªtement dorÃ©+2
+20753	VÃªtement dorÃ©+3
+20754	VÃªtement dorÃ©+4
+20755	VÃªtement dorÃ©+5
+20756	VÃªtement dorÃ©+6
+20757	VÃªtement dorÃ©+7
+20758	VÃªtement dorÃ©+8
+20759	VÃªtement dorÃ©+9
 22000	Parchemin de Ville
 22001	Parchemin
 22010	Parchemin du lieu
 22011	Parchemin du lieu
 22020	Parchemin
-22030	Parchemin téléporteur
+22030	Parchemin tÃ©lÃ©porteur
 22040	Parchemin de vie
 22050	Parchemin d'incantation
-25040	Parchemin de Bénédiction
+25040	Parchemin de BÃ©nÃ©diction
 25041	Pierre magique
 25100	Parch. Pierre d'Esprit
 27001	Potion rouge (p)
@@ -3040,31 +3040,31 @@ VNUM	LOCALE_NAME
 27119	Potion Bleu Ciel (p)
 27120	Potion Bleu Ciel (m)
 27121	Potion Bleu Ciel (g)
-27400	Canne à pêche+1
-27410	Canne à pêche+2
-27420	Canne à pêche+3
-27430	Canne à pêche+4
-27440	Canne à pêche+5
-27450	Canne à pêche+6
-27460	Canne à pêche+7
-27470	Canne à pêche+8
-27480	Canne à pêche+9
-27490	Canne à pêche+10
-27500	Canne à pêche+11
-27510	Canne à pêche+12
-27520	Canne à pêche+13
-27530	Canne à pêche+14
-27540	Canne à pêche+15
-27550	Canne à pêche+16
-27560	Canne à pêche+17
-27570	Canne à pêche+18
-27580	Canne à pêche+19
-27590	Canne à pêche+20
+27400	Canne Ã  pÃªche+1
+27410	Canne Ã  pÃªche+2
+27420	Canne Ã  pÃªche+3
+27430	Canne Ã  pÃªche+4
+27440	Canne Ã  pÃªche+5
+27450	Canne Ã  pÃªche+6
+27460	Canne Ã  pÃªche+7
+27470	Canne Ã  pÃªche+8
+27480	Canne Ã  pÃªche+9
+27490	Canne Ã  pÃªche+10
+27500	Canne Ã  pÃªche+11
+27510	Canne Ã  pÃªche+12
+27520	Canne Ã  pÃªche+13
+27530	Canne Ã  pÃªche+14
+27540	Canne Ã  pÃªche+15
+27550	Canne Ã  pÃªche+16
+27560	Canne Ã  pÃªche+17
+27570	Canne Ã  pÃªche+18
+27580	Canne Ã  pÃªche+19
+27590	Canne Ã  pÃªche+20
 27600	Feu de joie
 27610	Boule piscicomancienne
-27620	Manuel de pêche
-27799	Arête
-27800	Pâte
+27620	Manuel de pÃªche
+27799	ArÃªte
+27800	PÃ¢te
 27801	Ver
 27802	Petit Poisson
 27803	Sandre
@@ -3076,7 +3076,7 @@ VNUM	LOCALE_NAME
 27809	Truite de ruisseau
 27810	Anguille
 27811	Truite Arc-en-ciel
-27812	Truite de rivière
+27812	Truite de riviÃ¨re
 27813	Gardon rouge
 27814	Perche
 27815	Tenchi
@@ -3086,7 +3086,7 @@ VNUM	LOCALE_NAME
 27819	Ayu
 27820	Eperlan
 27821	Shiri
-27822	Carpe Koï
+27822	Carpe KoÃ¯
 27823	Poisson d'Or
 27833	Sandre mort
 27834	Poisson mandarin mort
@@ -3097,7 +3097,7 @@ VNUM	LOCALE_NAME
 27839	Truite de ruisseau morte
 27840	Anguille morte
 27841	Truite Arc-en-ciel morte
-27842	Truite de rivière morte
+27842	Truite de riviÃ¨re morte
 27843	Gardon rouge mort
 27844	Perche morte
 27845	Tenchi mort
@@ -3107,31 +3107,31 @@ VNUM	LOCALE_NAME
 27849	Ayu mort
 27850	Eperlan mort
 27851	Shiri mort
-27852	Carpe Koï morte
+27852	Carpe KoÃ¯ morte
 27853	Poisson d'Or mort
-27863	Sandre grillé
-27864	Poisson mandarin grillé
-27865	Gros Sandre grillé
-27866	Carpe grillée
-27867	Saumon grillé
-27868	Carpe amour grillée
-27869	Truite ruiss. grillée
-27870	Anguille grillée
+27863	Sandre grillÃ©
+27864	Poisson mandarin grillÃ©
+27865	Gros Sandre grillÃ©
+27866	Carpe grillÃ©e
+27867	Saumon grillÃ©
+27868	Carpe amour grillÃ©e
+27869	Truite ruiss. grillÃ©e
+27870	Anguille grillÃ©e
 27871	Truite Arc-en-ciel gril.
-27872	Truite de riv. grillée
-27873	Gardon rouge grillé
-27874	Perche grillée
-27875	Tenchi grillé
-27876	Poisson-chat grillé
-27877	Loche grillée
-27878	Poisson Lotus grillé
-27879	Ayu grillé
-27880	Eperlan grillé
-27881	Shiri grillé
-27882	Carpe Koï grillée
-27883	Poisson d'Or grillé
+27872	Truite de riv. grillÃ©e
+27873	Gardon rouge grillÃ©
+27874	Perche grillÃ©e
+27875	Tenchi grillÃ©
+27876	Poisson-chat grillÃ©
+27877	Loche grillÃ©e
+27878	Poisson Lotus grillÃ©
+27879	Ayu grillÃ©
+27880	Eperlan grillÃ©
+27881	Shiri grillÃ©
+27882	Carpe KoÃ¯ grillÃ©e
+27883	Poisson d'Or grillÃ©
 27987	Palourde
-27988	Carte au Trésor
+27988	Carte au TrÃ©sor
 27989	Compas de la Metin
 27990	Morceau de Pierre
 27991	Pierre d'eau
@@ -3144,10 +3144,10 @@ VNUM	LOCALE_NAME
 27998	Sacoche d'Alchimiste
 27999	Bourse Pierre d'Esprit
 28000	Pierre du Massacre+0
-28004	Pierre de Paranoïa+0
+28004	Pierre de ParanoÃ¯a+0
 28008	Pierre du Traumatisme+0
 28012	Stone of Stupidity+0
-28030	Pierre de pénétration+0
+28030	Pierre de pÃ©nÃ©tration+0
 28031	Pierre Souffle mortel+0
 28032	Pierre d'apaisement+0
 28033	Pierre anti Guerrier+0
@@ -3159,13 +3159,13 @@ VNUM	LOCALE_NAME
 28039	Pierre d'Esquive+0
 28040	Pierre de Magie+0
 28041	Pierre d'Esprit de Vie+0
-28042	Pierre de Défense+0
-28043	Pierre de hâte+0
+28042	Pierre de DÃ©fense+0
+28043	Pierre de hÃ¢te+0
 28100	Pierre du Massacre+1
-28104	Pierre de Paranoïa+1
+28104	Pierre de ParanoÃ¯a+1
 28108	Pierre de Traumatisme+1
 28112	Stone of Stupidity+1
-28130	Pierre de pénétration+1
+28130	Pierre de pÃ©nÃ©tration+1
 28131	Pierre Souffle mortel+1
 28132	Pierre d'apaisement+1
 28133	Pierre anti Guerrier+1
@@ -3177,13 +3177,13 @@ VNUM	LOCALE_NAME
 28139	Pierre d'Esquive+1
 28140	Pierre de Magie+1
 28141	Pierre d'Esprit de Vie+1
-28142	Pierre de Défense+1
-28143	Pierre de hâte+1
+28142	Pierre de DÃ©fense+1
+28143	Pierre de hÃ¢te+1
 28200	Pierre du Massacre+2
-28204	Pierre de Paranoïa+2
+28204	Pierre de ParanoÃ¯a+2
 28208	Pierre de Traumatisme+2
 28212	Stone of Stupidity+2
-28230	Pierre de pénétration+2
+28230	Pierre de pÃ©nÃ©tration+2
 28231	Pierre Souffle mortel+2
 28232	Pierre d'apaisement+2
 28233	Pierre anti Guerrier+2
@@ -3195,13 +3195,13 @@ VNUM	LOCALE_NAME
 28239	Pierre d'Esquive+2
 28240	Pierre de Magie+2
 28241	Pierre d'Esprit de Vie+2
-28242	Pierre de Défense+2
-28243	Pierre de hâte+2
+28242	Pierre de DÃ©fense+2
+28243	Pierre de hÃ¢te+2
 28300	Pierre du Massacre+3
-28304	Pierre de Paranoïa+3
+28304	Pierre de ParanoÃ¯a+3
 28308	Pierre de Traumatisme+3
 28312	Stone of Stupidity+3
-28330	Pierre de pénétration+3
+28330	Pierre de pÃ©nÃ©tration+3
 28331	Pierre Souffle mortel+3
 28332	Pierre d'apaisement+3
 28333	Pierre anti Guerrier+3
@@ -3213,13 +3213,13 @@ VNUM	LOCALE_NAME
 28339	Pierre d'Esquive+3
 28340	Pierre de Magie+3
 28341	Pierre d'Esprit de Vie+3
-28342	Pierre de Défense+3
-28343	Pierre de hâte+3
+28342	Pierre de DÃ©fense+3
+28343	Pierre de hÃ¢te+3
 28400	Pierre du Massacre+4
-28404	Pierre de Paranoïa+4
+28404	Pierre de ParanoÃ¯a+4
 28408	Pierre de Traumatisme+4
 28412	Stone of Stupidity+4
-28430	Pierre de pénétration+4
+28430	Pierre de pÃ©nÃ©tration+4
 28431	Pierre Souffle mortel+4
 28432	Pierre d'apaisement+4
 28433	Pierre anti Guerrier+4
@@ -3231,13 +3231,13 @@ VNUM	LOCALE_NAME
 28439	Pierre d'Esquive+4
 28440	Pierre de Magie+4
 28441	Pierre d'Esprit de Vie+4
-28442	Pierre de Défense+4
-28443	Pierre de hâte+4
+28442	Pierre de DÃ©fense+4
+28443	Pierre de hÃ¢te+4
 28500	Pierre du Massacre+5
-28504	Pierre de Paranoïa+5
+28504	Pierre de ParanoÃ¯a+5
 28508	Pierre de Traumatisme+5
-28512	Pierre de stupidité+5
-28530	Pierre de pénétration+5
+28512	Pierre de stupiditÃ©+5
+28530	Pierre de pÃ©nÃ©tration+5
 28531	Pierre Souffle mortel+5
 28532	Pierre d'apaisement+5
 28533	Pierre anti Guerrier+5
@@ -3249,9 +3249,9 @@ VNUM	LOCALE_NAME
 28539	Pierre d'Esquive+5
 28540	Pierre de Magie+5
 28541	Pierre d'Esprit de Vie+5
-28542	Pierre de Défense+5
-28543	Pierre de hâte+5
-28600	Pierre de pénétration+6
+28542	Pierre de DÃ©fense+5
+28543	Pierre de hÃ¢te+5
+28600	Pierre de pÃ©nÃ©tration+6
 28601	Pierre Souffle mortel+6
 28602	Pierre d'apaisement+6
 28603	Pierre anti Guerrier+6
@@ -3263,9 +3263,9 @@ VNUM	LOCALE_NAME
 28609	Pierre d'Esquive+6
 28610	Pierre de Magie+6
 28611	Pierre d'Esprit de Vie+6
-28612	Pierre de Défense+6
-28613	Pierre de hâte+6
-28630	P. d'Eau pénétration+5
+28612	Pierre de DÃ©fense+6
+28613	Pierre de hÃ¢te+6
+28630	P. d'Eau pÃ©nÃ©tration+5
 28631	P. Eau Souffle mortel+5
 28632	P. d'Eau d'apaisement+5
 28633	P. d'Eau anti Guerrier+5
@@ -3273,13 +3273,13 @@ VNUM	LOCALE_NAME
 28635	P. d'Eau anti Sura+5
 28636	P. d'Eau anti chamane+5
 28637	P. Eau anti Monstre+5
-28638	Pierre d'eau d'évasion+
+28638	Pierre d'eau d'Ã©vasion+
 28639	Pierre d'eau d'esquive+
 28640	Pierre d'Eau de Magie+5
-28641	Pierre d'Eau Vitalité+5
-28642	P. d'Eau de Défense+5
-28643	Pierre d'Eau de hâte+5
-28700	Pierre de pénétration+7
+28641	Pierre d'Eau VitalitÃ©+5
+28642	P. d'Eau de DÃ©fense+5
+28643	Pierre d'Eau de hÃ¢te+5
+28700	Pierre de pÃ©nÃ©tration+7
 28701	Pierre Souffle mortel+7
 28702	Pierre d'apaisement+7
 28703	Pierre anti Guerrier+7
@@ -3291,9 +3291,9 @@ VNUM	LOCALE_NAME
 28709	Pierre d'Esquive+7
 28710	Pierre de Magie+7
 28711	Pierre d'Esprit de Vie+7
-28712	Pierre de Défense+7
-28713	Pierre de hâte+7
-28730	P. d'Eau pénétration+7
+28712	Pierre de DÃ©fense+7
+28713	Pierre de hÃ¢te+7
+28730	P. d'Eau pÃ©nÃ©tration+7
 28731	P. Eau Souffle mortel+7
 28732	P. d'Eau d'apaisement+7
 28733	P. d'Eau anti Guerrier+7
@@ -3301,13 +3301,13 @@ VNUM	LOCALE_NAME
 28735	P. d'Eau anti Sura+7
 28736	P. d'Eau anti chamane+7
 28737	P. Eau anti Monstr+7
-28738	Pierre d'eau d'évasion+
+28738	Pierre d'eau d'Ã©vasion+
 28739	Pierre d'eau d'esquive+
 28740	Pierre d'Eau de Magie+7
-28741	Pierre d'Eau Vitalité+7
-28742	P. d'Eau de Défense+7
-28743	Pierre d'Eau de hâte+7
-28800	Pierre de pénétration+8
+28741	Pierre d'Eau VitalitÃ©+7
+28742	P. d'Eau de DÃ©fense+7
+28743	Pierre d'Eau de hÃ¢te+7
+28800	Pierre de pÃ©nÃ©tration+8
 28801	Pierre Souffle mortel+8
 28802	Pierre d'apaisement+8
 28803	Pierre anti Guerrier+8
@@ -3319,9 +3319,9 @@ VNUM	LOCALE_NAME
 28809	Pierre d'Esquive+8
 28810	Pierre de Magie+8
 28811	Pierre d'Esprit de Vie+8
-28812	Pierre de Défense+8
-28813	Pierre de hâte+8
-28830	P. d'Eau pénétration+8
+28812	Pierre de DÃ©fense+8
+28813	Pierre de hÃ¢te+8
+28830	P. d'Eau pÃ©nÃ©tration+8
 28831	P. Eau Souffle mortel+8
 28832	P. d'Eau d'apaisement+8
 28833	P. d'Eau anti Guerrier+8
@@ -3329,13 +3329,13 @@ VNUM	LOCALE_NAME
 28835	P. d'Eau anti Sura+8
 28836	P. d'Eau anti chamane+8
 28837	P. Eau anti Monstre+8
-28838	Pierre d'eau d'évasion+
+28838	Pierre d'eau d'Ã©vasion+
 28839	Pierre d'eau d'esquive+
 28840	Pierre d'Eau de Magie+8
-28841	Pierre d'Eau Vitalité+8
-28842	Pierre d'Eau de Déf.+8
-28843	Pierre d'Eau de hâte+8
-28900	Pierre de pénétration+9
+28841	Pierre d'Eau VitalitÃ©+8
+28842	Pierre d'Eau de DÃ©f.+8
+28843	Pierre d'Eau de hÃ¢te+8
+28900	Pierre de pÃ©nÃ©tration+9
 28901	Pierre Souffle mortel+9
 28902	Pierre d'apaisement+9
 28903	Pierre anti Guerrier+9
@@ -3347,9 +3347,9 @@ VNUM	LOCALE_NAME
 28909	Pierre d'Esquive+9
 28910	Pierre de Magie+9
 28911	Pierre d'Esprit de Vie+9
-28912	Pierre de Défense+9
-28913	Pierre de hâte+9
-28930	P. d'Eau pénétration+9
+28912	Pierre de DÃ©fense+9
+28913	Pierre de hÃ¢te+9
+28930	P. d'Eau pÃ©nÃ©tration+9
 28931	P. Eau Souffle mortel+9
 28932	P. d'Eau d'apaisement+9
 28933	P. d'Eau anti Guerrier+9
@@ -3357,13 +3357,13 @@ VNUM	LOCALE_NAME
 28935	P. d'Eau anti Sura+9
 28936	P. d'Eau anti chamane+9
 28937	P. Eau anti Monstre+9
-28938	Pierre d'eau d'évasion+
+28938	Pierre d'eau d'Ã©vasion+
 28939	Pierre d'eau d'esquive+
 28940	Pierre d'Eau de Magie+9
-28941	Pierre d'Eau Vitalité+9
-28942	Pierre Eau de Défense+9
-28943	Pierre d'Eau de hâte+9
-28960	Morceau de Pierre brisée
+28941	Pierre d'Eau VitalitÃ©+9
+28942	Pierre Eau de DÃ©fense+9
+28943	Pierre d'Eau de hÃ¢te+9
+28960	Morceau de Pierre brisÃ©e
 29001	Coquillage
 29002	Coquillage bleu
 29003	Coquillage jaune
@@ -3371,14 +3371,14 @@ VNUM	LOCALE_NAME
 29005	Coquillage vert
 29006	Tartre jaune
 29007	Tartre Bleu
-29008	Eau bénite bleue
-29009	Eau bénite jaune
-29010	Eau bénite rouge
-29011	Eau bénite verte
-29012	Eau bénite bleue
-29013	Eau bénite jaune clair
-29014	Eau bénite rouge clair
-29015	Eau bénite verte
+29008	Eau bÃ©nite bleue
+29009	Eau bÃ©nite jaune
+29010	Eau bÃ©nite rouge
+29011	Eau bÃ©nite verte
+29012	Eau bÃ©nite bleue
+29013	Eau bÃ©nite jaune clair
+29014	Eau bÃ©nite rouge clair
+29015	Eau bÃ©nite verte
 29101	Pioche+0
 29102	Pioche+1
 29103	Pioche+2
@@ -3391,40 +3391,40 @@ VNUM	LOCALE_NAME
 29110	Pioche+9
 30000	Orge
 30001	Lettre
-30002	Saucisse grillée
+30002	Saucisse grillÃ©e
 30003	Groin
 30004	Dents de sanglier sauv.
-30005	Morceau d'armure cassée
+30005	Morceau d'armure cassÃ©e
 30006	Molaire d'orc
 30007	Amulette d'orc
-30008	Manuel d'Esotérisme
-30009	Médicament inconnu
+30008	Manuel d'EsotÃ©risme
+30009	MÃ©dicament inconnu
 30010	Bile d'ours
 30011	Pelote
 30012	Bouteille de vin
 30013	Flasque d'alcool
-30014	Fourrure de Yéti
-30015	Souvenir de Démon
-30016	Gemme du Démon
-30017	Epingle de cheveux déco.
+30014	Fourrure de YÃ©ti
+30015	Souvenir de DÃ©mon
+30016	Gemme du DÃ©mon
+30017	Epingle de cheveux dÃ©co.
 30018	Natte de ruban rouge
-30019	Crinière flamboyante
-30020	Noyau de pêche
+30019	CriniÃ¨re flamboyante
+30020	Noyau de pÃªche
 30021	Morceau de Gemme
 30022	Queue de serpent
 30023	Peau de tigre blanc
 30024	Queue de Cheval
-30025	Glande venin d'araignée
+30025	Glande venin d'araignÃ©e
 30026	Intestin de loup
 30027	Fourrure de loup
 30028	Griffe de loup
 30029	Foie de loup
-30030	Lame rouillée
+30030	Lame rouillÃ©e
 30031	Ornement
-30032	Uniforme noir usé
-30033	Porcelaine brisée
+30032	Uniforme noir usÃ©
+30033	Porcelaine brisÃ©e
 30034	Natte de ruban blanc
-30035	Crème de visage
+30035	CrÃ¨me de visage
 30036	Herbe mystique
 30037	Griffe de tigre
 30038	Fourrure de tigre
@@ -3436,7 +3436,7 @@ VNUM	LOCALE_NAME
 30044	Terre glaise
 30045	Dard de scorpion
 30046	Queue de scorpion
-30047	Livre maléfique
+30047	Livre malÃ©fique
 30048	Morceau de glace
 30049	Corne de baleine
 30050	Orbe de glace
@@ -3445,15 +3445,15 @@ VNUM	LOCALE_NAME
 30053	Peau  de patte d'ours
 30054	Alliance
 30055	Pince de scorpion
-30056	Toile d'araignée
-30057	Yeux d'araignée
-30058	Poche d'œuf d'araignée
-30059	Pattes d'araignée
+30056	Toile d'araignÃ©e
+30057	Yeux d'araignÃ©e
+30058	Poche d'Å“uf d'araignÃ©e
+30059	Pattes d'araignÃ©e
 30060	Langue de grenouille
 30061	Pattes de grenouille
-30062	Récipient médicinal
-30063	Ecorce médicinale
-30064	Pierre affutée
+30062	RÃ©cipient mÃ©dicinal
+30063	Ecorce mÃ©dicinale
+30064	Pierre affutÃ©e
 30065	Gong
 30066	Piment
 30067	Peau de serpent
@@ -3463,20 +3463,20 @@ VNUM	LOCALE_NAME
 30071	Bile d'ours+
 30072	Cuir de patte d'ours+
 30073	Natte de ruban blanc+
-30074	Uniforme noir usé+
+30074	Uniforme noir usÃ©+
 30075	Shuriken+
 30076	Amulette d'orc+
 30077	Dent d'orc+
-30078	Manuel d'Esotérisme+
+30078	Manuel d'EsotÃ©risme+
 30079	Talisman inconnu+
 30080	Livre maudit+
 30081	Queue de scorpion+
 30082	Queue de serpent+
-30083	Médicament inconnu+
+30083	MÃ©dicament inconnu+
 30084	Talisman inconnu+
 30085	Morceau de tissu+
-30086	Souvenir de Démon+
-30087	Gemme de Démon+
+30086	Souvenir de DÃ©mon+
+30087	Gemme de DÃ©mon+
 30088	Morceau de glace+
 30089	Fourrure de Yeti+
 30090	Orbe de glace+
@@ -3493,21 +3493,21 @@ VNUM	LOCALE_NAME
 30101	Alliance d'Ariyoung
 30102	Hache d'or de David Kim
 30103	Dent d'or d'Orc
-30104	Toile araignée du désert
+30104	Toile araignÃ©e du dÃ©sert
 30105	Queue scorpion moyenne
-30106	Médicaments pour Yu-rang
+30106	MÃ©dicaments pour Yu-rang
 30107	Canine d'Orc
-30108	Céramique émaillée
-30109	Toile araignée du désert
+30108	CÃ©ramique Ã©maillÃ©e
+30109	Toile araignÃ©e du dÃ©sert
 30110	Lettre de Huahn-So
 30111	Queue scorpion moyenne
 30112	Anguille
-30113	Écrits ésotériques
+30113	Ã‰crits Ã©sotÃ©riques
 30114	Peste
-30115	Malédiction de Peste
+30115	MalÃ©diction de Peste
 30116	Pattes de grenouille
 30117	Lettre
-30118	Coffre à bijoux du Démon
+30118	Coffre Ã  bijoux du DÃ©mon
 30119	Gong
 30120	Morceau d'une carte
 30121	Morceau d'une carte
@@ -3522,36 +3522,36 @@ VNUM	LOCALE_NAME
 30130	Bouteille vide
 30131	Lettre du forgeron
 30132	Livre d'Uriel
-30133	Chaussures à fleurs
+30133	Chaussures Ã  fleurs
 30134	Colis d'Uriel
 30135	Lettre d'Ariyoung
-30136	Arc ouvragé
+30136	Arc ouvragÃ©
 30137	Sang de primate
-30138	Sable du désert
+30138	Sable du dÃ©sert
 30139	Dent d'Unggyi
 30140	Fil
-30141	Pièce de Joaillerie
+30141	PiÃ¨ce de Joaillerie
 30142	Lettre
-30143	Herbes médicinales
+30143	Herbes mÃ©dicinales
 30144	Foie d'un Tigre
-30145	Remède de Balso
-30146	Glaçon
+30145	RemÃ¨de de Balso
+30146	GlaÃ§on
 30147	Doctrine du Temple
-30148	Écharpe du Temple
+30148	Ã‰charpe du Temple
 30149	Glace et sirop
 30150	Page de journal intime
 30151	Fourrure de loup
-30152	Médicaments
+30152	MÃ©dicaments
 30153	Fleur rare
 30154	Livre secret du Temple
 30155	Pendentif de Mirine
 30156	Livre du Temple Secret
-30157	Haut de flèche
-30158	Gâteau de riz
-30159	Vêtements
+30157	Haut de flÃ¨che
+30158	GÃ¢teau de riz
+30159	VÃªtements
 30160	Notes
 30161	Lance du mari
-30162	Oeil d'araignée
+30162	Oeil d'araignÃ©e
 30163	Instr. musique Yoohwans
 30164	Trad. du livre maudit
 30165	Rameau de Zelkova
@@ -3560,22 +3560,22 @@ VNUM	LOCALE_NAME
 30168	Certificat du Chef
 30169	Fleur rouge-sang
 30170	Fleur Orange
-30171	Fleur jaune parfumée
+30171	Fleur jaune parfumÃ©e
 30172	Noble bouquet de fleurs
 30173	Fourrure de Mu-Rang
 30174	Patte d'ours
 30175	Tueuse de Baleine
-30176	Fourrure de tigre éclat.
+30176	Fourrure de tigre Ã©clat.
 30177	Huile de Musc
 30178	Pierre de Glyphe
-30179	Clé en spirale
+30179	ClÃ© en spirale
 30180	Amulette du Dieu Dragon
 30181	Page
-30182	Journal Légendaire
+30182	Journal LÃ©gendaire
 30183	Sombre Masque de Bois
-30184	Cendres Ensorcelées
+30184	Cendres EnsorcelÃ©es
 30185	Glace Noire
-30186	Larme pétrifiée
+30186	Larme pÃ©trifiÃ©e
 30187	Goutte de sang
 30188	Obsidienne
 30189	Larmes de Baljit-Elvedin
@@ -3585,15 +3585,15 @@ VNUM	LOCALE_NAME
 30193	Os de doigt
 30194	Massue orque
 30195	Sable silicieux
-30196	Cendres de démon
+30196	Cendres de dÃ©mon
 30197	Graines magiques
 30198	Cristal aqueux
-30199	Cristal bleuté
+30199	Cristal bleutÃ©
 30201	Anneau de vengeance
 30202	Oreille de Danakas
 30203	Cristal
 30204	Morceau de cristal
-30205	Matériau d'artisanat
+30205	MatÃ©riau d'artisanat
 30210	Morceau de Gemme
 30211	Morceau de Gemme
 30212	Morceau de Gemme
@@ -3604,73 +3604,73 @@ VNUM	LOCALE_NAME
 30217	Morceau de Gemme
 30218	Morceau de Gemme
 30219	Morceau de Gemme
-30220	Pierre d'âme de Jinunggy
-30221	Pierre d'âme du Temple
-30222	Pierre d'âme de Sagyi
-30223	Pierre d'âme d'Aurtumry
-30224	Pierre d'âme de Gyimok
-30225	Pierre d'âme de Tugyis
-30226	Pierre d'âme du Bois Rge
-30227	Pierre d'âme du Chef
-30228	Pierre d'âme de Beran-S.
-30251	Joyau de Cruauté
+30220	Pierre d'Ã¢me de Jinunggy
+30221	Pierre d'Ã¢me du Temple
+30222	Pierre d'Ã¢me de Sagyi
+30223	Pierre d'Ã¢me d'Aurtumry
+30224	Pierre d'Ã¢me de Gyimok
+30225	Pierre d'Ã¢me de Tugyis
+30226	Pierre d'Ã¢me du Bois Rge
+30227	Pierre d'Ã¢me du Chef
+30228	Pierre d'Ã¢me de Beran-S.
+30251	Joyau de CruautÃ©
 30252	Joyau de Sagesse
-30253	Joyau de Loyauté
+30253	Joyau de LoyautÃ©
 30254	NoNAme
-30265	Morceau de médaille (1)
-30266	Morceau de médaille (2)
-30267	Morceau de médaille (3)
-30268	Morceau de médaille (4)
-30269	Morceau de médaille (5)
+30265	Morceau de mÃ©daille (1)
+30266	Morceau de mÃ©daille (2)
+30267	Morceau de mÃ©daille (3)
+30268	Morceau de mÃ©daille (4)
+30269	Morceau de mÃ©daille (5)
 30270	Fragment de pierre-dragon
 30300	Vieux coffre inconnu
 30301	Plan tour de Sa-Gui
 30302	Plan tour Zin-Sa-Gui
-30303	Clé de Bong-In
-30304	Clé de Zin-Bong
-30311	Clé à cristal d'âme
+30303	ClÃ© de Bong-In
+30304	ClÃ© de Zin-Bong
+30311	ClÃ© Ã  cristal d'Ã¢me
 30312	Totem grimace
 30315	NoNAme
 30316	NoNAme
 30317	NoNAme
 30318	NoNAme
-30319	Tête réduite
-30320	Tête réduite
+30319	TÃªte rÃ©duite
+30320	TÃªte rÃ©duite
 30321	Citrouille d'Halloween
 30322	Baguette magique
 30323	Carte: masque citrouille
-30324	Clé des araignées
-30325	Clé des araignées
-30326	Poison de reine Araignée
-30327	Flûte de l'araignée
-30329	Pignon doré
-30330	Pierre de Maât
-30500	Pointe à graver - rubis
+30324	ClÃ© des araignÃ©es
+30325	ClÃ© des araignÃ©es
+30326	Poison de reine AraignÃ©e
+30327	FlÃ»te de l'araignÃ©e
+30329	Pignon dorÃ©
+30330	Pierre de MaÃ¢t
+30500	Pointe Ã  graver - rubis
 30501	Bague en or
 30502	Ornement en rubis
-30503	Pointe à graver améthyst
+30503	Pointe Ã  graver amÃ©thyst
 30504	Bague en argent
-30505	Ornement d'émeraude
-30506	Pointe à graver saphir
+30505	Ornement d'Ã©meraude
+30506	Pointe Ã  graver saphir
 30507	Bague en bronze
 30508	Ornement de saphir
 30509	Acier de dragon bleu
-30510	Épaulette précieuse
+30510	Ã‰paulette prÃ©cieuse
 30511	Tissu rouge
 30512	Acier de dragon rouge
-30513	Épaulette noble
+30513	Ã‰paulette noble
 30514	Tissu violet
 30515	Acier de dragon violet
-30516	Épaulette antique
-30517	Tissu doré
-30518	Fil doré
-30519	Crochet doré
-30520	Boucle dorée
-30521	Élément d'anneau
-30522	Chaînon
-30523	Élément de bijou
-30524	Pierre à flammes
-30525	Pierre à flammes glacées
+30516	Ã‰paulette antique
+30517	Tissu dorÃ©
+30518	Fil dorÃ©
+30519	Crochet dorÃ©
+30520	Boucle dorÃ©e
+30521	Ã‰lÃ©ment d'anneau
+30522	ChaÃ®non
+30523	Ã‰lÃ©ment de bijou
+30524	Pierre Ã  flammes
+30525	Pierre Ã  flammes glacÃ©es
 30526	NoNAme
 30527	NoNAme
 30528	NoNAme
@@ -3695,7 +3695,7 @@ VNUM	LOCALE_NAME
 30547	NoNAme
 30548	NoNAme
 30549	NoNAme
-30550	Lanière bleue
+30550	LaniÃ¨re bleue
 30551	NoNAme
 30552	NoNAme
 30553	NoNAme
@@ -3732,10 +3732,10 @@ VNUM	LOCALE_NAME
 30584	NoNAme
 30585	NoNAme
 30586	NoNAme
-31001	Copie de l'épitaphe
+31001	Copie de l'Ã©pitaphe
 31002	Document ancien
 31003	Antidote
-31004	Résine d'arbre sacré
+31004	RÃ©sine d'arbre sacrÃ©
 31005	Essence de cristal bleu
 31006	Quartz de l'enfer rouge
 31007	Terre volcanique
@@ -3748,33 +3748,33 @@ VNUM	LOCALE_NAME
 31014	NoNAme
 31015	La lettre de Crochet
 31016	Lettre de Lee Chung
-31017	Lettre scellée
+31017	Lettre scellÃ©e
 31018	Tablette carapax
 31019	Poudre de carapax
 31020	Racine de fleur rocher
 31021	NoNAme
-31022	Écailles d'Oin
+31022	Ã‰cailles d'Oin
 31023	NoNAme
 31024	Cuir de Manticore
 31025	NoNAme
-31026	Carapace crustacée
+31026	Carapace crustacÃ©e
 31027	Sable fin
 31028	Brique
-31029	Lumière intérieure
-31030	Lumière intérieure
-31031	Essence de millénium
-31032	Perles du Léviathan
+31029	LumiÃ¨re intÃ©rieure
+31030	LumiÃ¨re intÃ©rieure
+31031	Essence de millÃ©nium
+31032	Perles du LÃ©viathan
 31033	Cape du chef
-31034	Totem des géants
+31034	Totem des gÃ©ants
 31035	Roche noire
 31036	Or noir
 31037	Sacoche en cuir
-31038	Terre bénie
+31038	Terre bÃ©nie
 31039	Bourse
-31040	Insigne doré
+31040	Insigne dorÃ©
 31041	Terre fossile
 31042	Javelot de triton
-31043	Tablette des lémures
+31043	Tablette des lÃ©mures
 31044	NoNAme
 31045	NoNAme
 31046	NoNAme
@@ -3805,16 +3805,16 @@ VNUM	LOCALE_NAME
 31071	NoNAme
 31072	NoNAme
 31073	Bandeau du prospecteur
-31074	Collier clouté
-31075	Collier à clous
+31074	Collier cloutÃ©
+31075	Collier Ã  clous
 31076	Herbes solaires
 31077	Poudre de fondation
 31078	Lumen pur
 31079	Lettre pour Yak-Hwan
 31080	Sang du roi flamme
-31081	Matière obscure
+31081	MatiÃ¨re obscure
 31082	Anneau de magma
-31083	Anneau de Samaël
+31083	Anneau de SamaÃ«l
 31084	Teinture des nimbes
 31085	NoNAme
 31086	NoNAme
@@ -3824,7 +3824,7 @@ VNUM	LOCALE_NAME
 31090	NoNAme
 31091	Sang du roi flamme
 31092	NoNAme
-35000	Herbes médicinales+
+35000	Herbes mÃ©dicinales+
 35001	Foie d'un Tigre+
 38001	VIP-Feature
 38002	Tombola_ticket_today
@@ -3836,10 +3836,10 @@ VNUM	LOCALE_NAME
 38050	Coffre du pouvoir
 38051	Cristal du tigre royal
 38052	Coffre des rois
-38053	Coffre d'hiver éternel
-38054	Coffre tempête du désert
-38055	Caisse à petits
-38056	Coffre de fête
+38053	Coffre d'hiver Ã©ternel
+38054	Coffre tempÃªte du dÃ©sert
+38055	Caisse Ã  petits
+38056	Coffre de fÃªte
 38057	Coffre du Nord
 38100	Remontant (7 jours)
 38101	Remontant (15 jours)
@@ -3847,59 +3847,59 @@ VNUM	LOCALE_NAME
 38200	Sceau Rufus
 38201	Sceau Rufus
 39001	Pierre magique
-39002	Anneau d'expérience
-39003	Vin de fleur de pêche
-39004	Orbe de bénédiction
+39002	Anneau d'expÃ©rience
+39003	Vin de fleur de pÃªche
+39004	Orbe de bÃ©nÃ©diction
 39005	Cuivre magique
 39006	Cape de bravoure
 39007	Manuel du forgeron
 39008	Parchemin d'exorcisme
-39009	Parch. oubli compétence
+39009	Parch. oubli compÃ©tence
 39010	Potion d'attaque +10
-39011	Bénédiction de Vie
-39012	Bénédiction magique
-39013	Bénédiction du Dragon
+39011	BÃ©nÃ©diction de Vie
+39012	BÃ©nÃ©diction magique
+39013	BÃ©nÃ©diction du Dragon
 39014	Parchemin de Guerre
 39015	Pierre du Forgeron
 39016	Minerai de fer magique
 39017	Vie du Dieu Dragon
 39018	Attaque du Dieu Dragon
 39019	Intellig. du Dieu Dragon
-39020	Défense du Dieu Dragon
+39020	DÃ©fense du Dieu Dragon
 39021	Aide du Dieu Dragon
 39022	Parchemin du Dieu Dragon
-39023	Élixir du chercheur
+39023	Ã‰lixir du chercheur
 39024	Attaque critique
-39025	Attaque perçante
+39025	Attaque perÃ§ante
 39026	Potion de vitesse
 39027	Livre des pierres
-39028	Objet enchanté
+39028	Objet enchantÃ©
 39029	Objet de renforcement
-39030	Lecture concentrée
-39031	Potion de célérité
+39030	Lecture concentrÃ©e
+39031	Potion de cÃ©lÃ©ritÃ©
 39032	Fruit de la vie
 39033	Parchemin de correction
 39034	Sucre pour cheval
 39035	Loupe magique
 39036	Bottes du vent
-39037	Élixir du soleil (p)
-39038	Élixir du soleil (m)
-39039	Élixir du soleil (g)
-39040	Élixir de la lune (p)
-39041	Élixir de la lune (m)
-39042	Élixir de la lune (g)
+39037	Ã‰lixir du soleil (p)
+39038	Ã‰lixir du soleil (m)
+39039	Ã‰lixir du soleil (g)
+39040	Ã‰lixir de la lune (p)
+39041	Ã‰lixir de la lune (m)
+39042	Ã‰lixir de la lune (g)
 39043	Parchemin du lieu
 40001	Anneau d'or inconnu
 40002	Anneau de Levi
 40003	Anneau de Thor
 40004	Anneau d'Eek
 40005	Gong sonore
-40006	Reçu de livr. du sauvage
+40006	ReÃ§u de livr. du sauvage
 40007	Lettre du chef sauvage
 41001	Costume de lapin (m)
 41002	Costume de hase (m)
-41003	Combattant du désert
-41004	Combattante du désert
+41003	Combattant du dÃ©sert
+41004	Combattante du dÃ©sert
 41005	Tenue d'escrime JO (h)
 41006	Tenue d'escrime JO (f)
 41007	Tenue d'escrime ALL (h)
@@ -3924,8 +3924,8 @@ VNUM	LOCALE_NAME
 41026	Tenue de boxe TR (f)
 41027	Tenue de boxe BR (h)
 41028	Tenue de boxe BR (f)
-41029	Combattant désert(bonus)
-41030	Combattantedésert(bonus)
+41029	Combattant dÃ©sert(bonus)
+41030	CombattantedÃ©sert(bonus)
 41031	Tenue d'escrime JO (h)
 41032	Tenue d'escrime JO (f)
 41033	Tenue d'escrime ALL (h)
@@ -4026,28 +4026,28 @@ VNUM	LOCALE_NAME
 41134	Robe de cocktail +
 41135	Smoking citrouil.(bonus)
 41136	Robe citrouille (bonus)
-41137	Costume de Noël (rouge)
-41138	Robe de Noël (rouge)
-41139	Costume de Noël (vert)
-41140	Robe de Noël (verte)
-41141	Costume de Noël (noir)
-41142	Robe de Noël (noire)
+41137	Costume de NoÃ«l (rouge)
+41138	Robe de NoÃ«l (rouge)
+41139	Costume de NoÃ«l (vert)
+41140	Robe de NoÃ«l (verte)
+41141	Costume de NoÃ«l (noir)
+41142	Robe de NoÃ«l (noire)
 41143	Costume de renne (h)
 41144	Costume de renne (f)
-41145	Costume de Noël+ (rouge)
-41146	Robe de Noël+ (rouge)
-41147	Costume de Noël+ (vert)
-41148	Robe de Noël+ (verte)
-41149	Costume de Noël+ (noir)
-41150	Robe de Noël+ (noire)
+41145	Costume de NoÃ«l+ (rouge)
+41146	Robe de NoÃ«l+ (rouge)
+41147	Costume de NoÃ«l+ (vert)
+41148	Robe de NoÃ«l+ (verte)
+41149	Costume de NoÃ«l+ (noir)
+41150	Robe de NoÃ«l+ (noire)
 41151	Costume de renne+ (h)
 41152	Costume de renne+ (f)
 41153	AC Miryang (h)
 41154	AC Miryang (f)
 41155	AFC Jayan (h)
 41156	AFC Jayan (f)
-41157	RSC Grande Vallée (h)
-41158	RSC Grande Vallée (f)
+41157	RSC Grande VallÃ©e (h)
+41158	RSC Grande VallÃ©e (f)
 41159	Yongan FC (h)
 41160	Yongan FC (f)
 41161	FC Bakra (h)
@@ -4082,12 +4082,12 @@ VNUM	LOCALE_NAME
 41190	Lungsam OSC (f)
 41191	Doyyumhwan CF (h)
 41192	Doyyumhwan CF (f)
-41193	Néphrite City FC (h)
-41194	Néphrite City FC (f)
+41193	NÃ©phrite City FC (h)
+41194	NÃ©phrite City FC (f)
 41195	Shinsoo United (h)
 41196	Shinsoo United (f)
-41197	Vallée du Dragon SC (h)
-41198	Vallée du Dragon SC (f)
+41197	VallÃ©e du Dragon SC (h)
+41198	VallÃ©e du Dragon SC (f)
 41199	Monts fulgurants FC (h)
 41200	Monts fulgurants FC (f)
 41201	Pyungmoo Saint-Hwang (h)
@@ -4110,8 +4110,8 @@ VNUM	LOCALE_NAME
 41218	AC Miryang+ (f)
 41219	AFC Jayan+ (h)
 41220	AFC Jayan+ (f)
-41221	RSC Grande Vallée+ (h)
-41222	RSC Grande Vallée+ (f)
+41221	RSC Grande VallÃ©e+ (h)
+41222	RSC Grande VallÃ©e+ (f)
 41223	Yongan FC+ (h)
 41224	Yongan FC+ (f)
 41225	FC Bakra+ (h)
@@ -4146,12 +4146,12 @@ VNUM	LOCALE_NAME
 41254	Lungsam OSC+ (f)
 41255	Doyyumhwan CF+ (h)
 41256	Doyyumhwan CF+ (f)
-41257	Néphrite City FC+ (h)
-41258	Néphrite City FC+ (f)
+41257	NÃ©phrite City FC+ (h)
+41258	NÃ©phrite City FC+ (f)
 41259	Shinsoo United+ (h)
 41260	Shinsoo United+ (f)
-41261	Vallée du Dragon SC+ (h)
-41262	Vallée du Dragon SC+ (f)
+41261	VallÃ©e du Dragon SC+ (h)
+41262	VallÃ©e du Dragon SC+ (f)
 41263	Monts fulgurants FC+ (h)
 41264	Monts fulgurants FC+ (f)
 41265	Pyungmoo Saint-Hwang+(h)
@@ -4190,15 +4190,15 @@ VNUM	LOCALE_NAME
 41308	Tunique cobra (f)
 41309	Tunique cobra+ (m)
 41310	Tunique cobra+ (f)
-41311	Combattant du désert n.
-41312	Combattante du désert n.
-41313	Combattant du désert+ n.
-41314	Combattante désert+ n.
-41315	Armure d'Azraël (m)
-41316	Armure d'Azraël (f)
-41317	Armure d'Azraël+ (m)
-41318	Armure d'Azraël+ (f)
-41319	Èæ»ç°©
+41311	Combattant du dÃ©sert n.
+41312	Combattante du dÃ©sert n.
+41313	Combattant du dÃ©sert+ n.
+41314	Combattante dÃ©sert+ n.
+41315	Armure d'AzraÃ«l (m)
+41316	Armure d'AzraÃ«l (f)
+41317	Armure d'AzraÃ«l+ (m)
+41318	Armure d'AzraÃ«l+ (f)
+41319	ÃˆÃ¦Â»Ã§Â°Â©
 41320	Costume de Jack Pumpkin
 41321	Robe de Jack Pumpkin (f)
 41322	Costume de Jack Pumpkin+ 
@@ -4207,17 +4207,17 @@ VNUM	LOCALE_NAME
 45002	Oreilles de lapin (m)
 45003	Turban (h)
 45004	Turban (f)
-45005	Londe-courcô (h)
+45005	Londe-courcÃ´ (h)
 45006	Coupe d'escrimeuse (f)
-45007	Crête iroquoise (h)
+45007	CrÃªte iroquoise (h)
 45008	Coupe de footb. ALL (f)
 45009	Dreadlocks (h)
 45010	Coupe de boxeuse ALL (f)
 45011	Turban (h)
 45012	Turban (f)
-45013	Londe-courcô (h)
+45013	Londe-courcÃ´ (h)
 45014	Coiffure d'escrimeuse
-45015	Crête iroquoise (h)
+45015	CrÃªte iroquoise (h)
 45016	Coupe de footb. ALL (f)
 45017	Dreadlocks (h)
 45018	Coupe de boxeuse ALL (f)
@@ -4255,7 +4255,7 @@ VNUM	LOCALE_NAME
 45050	Coupe de footb. ES (f)
 45053	Coiffure de mousquetaire
 45054	Coiffe de bonne
-45055	Mini crête
+45055	Mini crÃªte
 45056	Chignon de salsa
 45057	Chapeau Bogart
 45058	Coiffure fleurie
@@ -4263,24 +4263,24 @@ VNUM	LOCALE_NAME
 45062	Masque de citrouille
 45065	Coiffure mousquetaire +
 45066	Coiffe de bonne +
-45067	Mini crête +
+45067	Mini crÃªte +
 45068	Chignon de salsa +
 45069	Chapeau Bogart +
 45070	Coiffure fleurie +
 45073	Masque citrouille(bonus)
 45074	Masque citrouille(bonus)
-45075	Bonnet de Noël (rouge)
-45076	Bonnet de Noël (vert)
-45077	Bonnet de Noël (noir)
+45075	Bonnet de NoÃ«l (rouge)
+45076	Bonnet de NoÃ«l (vert)
+45077	Bonnet de NoÃ«l (noir)
 45078	Chapeau d'Elfe
-45079	Tête de renne (h)
-45080	Tête de renne (f)
-45081	Bonnet de Noël+ (rouge)
-45082	Bonnet de Noël+ (vert)
-45083	Bonnet de Noël+ (noir)
+45079	TÃªte de renne (h)
+45080	TÃªte de renne (f)
+45081	Bonnet de NoÃ«l+ (rouge)
+45082	Bonnet de NoÃ«l+ (vert)
+45083	Bonnet de NoÃ«l+ (noir)
 45084	Chapeau d'Elfe+
-45085	Tête de renne+ (h)
-45086	Tête de renne+ (f)
+45085	TÃªte de renne+ (h)
+45086	TÃªte de renne+ (f)
 45087	Bandana (blanc)
 45088	Bandana (blanc)
 45089	Bandana (noir)
@@ -4322,48 +4322,48 @@ VNUM	LOCALE_NAME
 45137	Coiffe cobra+ (m)
 45138	Coiffe cobra+ (f)
 45139	Masque Tengu
-45140	Masque vénitien
-45141	Masque Kifwébé
+45140	Masque vÃ©nitien
+45141	Masque KifwÃ©bÃ©
 45142	Masque Maya
 45143	Masque de tengu+
-45144	Masque vénitien+
-45145	Masque Kifwébé+
+45144	Masque vÃ©nitien+
+45145	Masque KifwÃ©bÃ©+
 45146	Masque maya+
 45147	Turban noir (m)
 45148	Turban noir (f)
 45149	Turban noir+ (m)
 45150	Turban noir+ (f)
-45151	Heaume d'Azraël (m)
-45152	Heaume d'Azraël (f)
-45153	Heaume d'Azraël+ (m)
-45154	Heaume d'Azraël+ (f)
-45155	Èæ»çÅõ±¸
-45156	Tête de Jack Pumpkin (m)
-45157	Tête de Jack Pumpkin (f)
-45158	Tête de Jack Pumpkin+ (m)
-45159	Tête de Jack Pumpkin+ (f)
+45151	Heaume d'AzraÃ«l (m)
+45152	Heaume d'AzraÃ«l (f)
+45153	Heaume d'AzraÃ«l+ (m)
+45154	Heaume d'AzraÃ«l+ (f)
+45155	ÃˆÃ¦Â»Ã§Ã…ÃµÂ±Â¸
+45156	TÃªte de Jack Pumpkin (m)
+45157	TÃªte de Jack Pumpkin (f)
+45158	TÃªte de Jack Pumpkin+ (m)
+45159	TÃªte de Jack Pumpkin+ (f)
 50001	Livre de Bonne fortune
 50002	Anneau d'or
-50003	Doc. oubli des compét.
-50004	Détecteur d'évènement
-50005	Ticket d'équitation
-50006	Coffre au trésor d'or
+50003	Doc. oubli des compÃ©t.
+50004	DÃ©tecteur d'Ã©vÃ¨nement
+50005	Ticket d'Ã©quitation
+50006	Coffre au trÃ©sor d'or
 50007	Coffre d'argent
-50008	Clé d'or
-50009	Clé d'argent
+50008	ClÃ© d'or
+50009	ClÃ© d'argent
 50010	Chaussette
 50011	Coffre de rayon de Lune
-50012	Coffre au trésor d'or+
+50012	Coffre au trÃ©sor d'or+
 50013	Coffre d'argent+
-50014	Clé d'or+
-50015	Clé d'argent+
-50016	Pâte de haricots
-50017	Pâte de sucre
-50018	Pâte de fruit
-50019	Riz sucré
-50020	Gâteau de haricots
-50021	Gâteau de sucre
-50022	Gâteau de fruits
+50014	ClÃ© d'or+
+50015	ClÃ© d'argent+
+50016	PÃ¢te de haricots
+50017	PÃ¢te de sucre
+50018	PÃ¢te de fruit
+50019	Riz sucrÃ©
+50020	GÃ¢teau de haricots
+50021	GÃ¢teau de sucre
+50022	GÃ¢teau de fruits
 50023	Bourse de Yangs
 50024	Rose
 50025	Chocolat
@@ -4374,53 +4374,53 @@ VNUM	LOCALE_NAME
 50030	Anneau d'or 14 000
 50031	Rose
 50032	Bonbon
-50033	Boîte mystérieuse
-50034	Boîte puzzle
+50033	BoÃ®te mystÃ©rieuse
+50034	BoÃ®te puzzle
 50035	Cadeau (jaune)
 50036	Cadeau (violet)
-50037	Boîte hexagonale
+50037	BoÃ®te hexagonale
 50038	Certificat de bronze
 50039	Certificat d'argent
 50040	Certificat d'or
 50041	Colis cadeau
-50042	Médaille du Héros
-50050	Médaille équestre
+50042	MÃ©daille du HÃ©ros
+50050	MÃ©daille Ã©questre
 50051	Dessin de cheval
 50052	Livre cheval de combat
-50053	Livre équit. militaire
+50053	Livre Ã©quit. militaire
 50054	Foin
 50055	Carotte
 50056	Ginseng rouge
 50057	Herbe des singes (F)
 50058	Herbe des singes (N)
 50059	Herbe des singes (D)
-50060	Manuel d'équitation
+50060	Manuel d'Ã©quitation
 50061	Manuel appriv. chevaux
 50062	Manuel sur les chevaux
-50067	Parchemin d'évolution
+50067	Parchemin d'Ã©volution
 50068	Parchemin de mutation
-50070	Boîte du Chef Orc
-50071	Boîte du chef funeste
+50070	BoÃ®te du Chef Orc
+50071	BoÃ®te du chef funeste
 50072	Bte du chef fant.
-50073	Bte de la Reine Araignée
-50074	Bte de l'araignée géante
-50075	Bte porteur géant pest.
-50076	Bte de la Tortue géante
-50077	Boîte de Neuf-queues
-50078	Boîte du Tigre jaune
-50079	Boîte du roi des flammes
-50080	Boîte du Dragon rouge
-50081	Boîte du Roi Démon
-50082	Boîte de la faucheuse
-50083	Ticket d'équitation
+50073	Bte de la Reine AraignÃ©e
+50074	Bte de l'araignÃ©e gÃ©ante
+50075	Bte porteur gÃ©ant pest.
+50076	Bte de la Tortue gÃ©ante
+50077	BoÃ®te de Neuf-queues
+50078	BoÃ®te du Tigre jaune
+50079	BoÃ®te du roi des flammes
+50080	BoÃ®te du Dragon rouge
+50081	BoÃ®te du Roi DÃ©mon
+50082	BoÃ®te de la faucheuse
+50083	Ticket d'Ã©quitation
 50084	Pierre d'ouverture
 50085	Noyau
-50086	Gâteau de Lune
-50087	Gâteau riz-haricots Mung
-50088	Gâteau de riz et armoise
+50086	GÃ¢teau de Lune
+50087	GÃ¢teau riz-haricots Mung
+50088	GÃ¢teau de riz et armoise
 50089	Pierre d'ouverture
-50090	Bte du Renard à 9 queues
-50091	Sushi de carpe dorée
+50090	Bte du Renard Ã  9 queues
+50091	Sushi de carpe dorÃ©e
 50092	Sushi de carpe
 50093	Sushi de saumon
 50094	Sushi de poisson-chat
@@ -4432,82 +4432,82 @@ VNUM	LOCALE_NAME
 50103	Diablotin de feu
 50104	Diablotin de feu
 50105	Diablotin de feu
-50106	Feu d'artifice de Noël
+50106	Feu d'artifice de NoÃ«l
 50107	Feu d'artifice chinois
 50108	Toupie de feu d'artifice
-50109	Boîte d'ébène rouge
-50110	Boîte d'ébène d'apparat
-50111	Boîte d'ébène jaune
-50112	Boîte d'ébène vert clair
-50113	Boîte d'ébène vert
-50114	Boîte d'ébène bleue
-50115	Boîte d'ébène pourpre
-50116	Bon d'échange d'arme
-50117	Boîte à bijoux
+50109	BoÃ®te d'Ã©bÃ¨ne rouge
+50110	BoÃ®te d'Ã©bÃ¨ne d'apparat
+50111	BoÃ®te d'Ã©bÃ¨ne jaune
+50112	BoÃ®te d'Ã©bÃ¨ne vert clair
+50113	BoÃ®te d'Ã©bÃ¨ne vert
+50114	BoÃ®te d'Ã©bÃ¨ne bleue
+50115	BoÃ®te d'Ã©bÃ¨ne pourpre
+50116	Bon d'Ã©change d'arme
+50117	BoÃ®te Ã  bijoux
 50118	NoNAme
 50119	NoNAme
 50120	Cassette en fer
 50121	Coffret en fer
 50122	Coffre en fer
 50123	NoNAme
-50124	Boîte en Bois Usé
-50125	Coffre mystérieux
-50126	Coffre mystérieux
-50127	Myst. coffre - Émeraudes
+50124	BoÃ®te en Bois UsÃ©
+50125	Coffre mystÃ©rieux
+50126	Coffre mystÃ©rieux
+50127	Myst. coffre - Ã‰meraudes
 50128	Myst. coffre - Saphirs
-50129	Myst. coffre - Améthyste
+50129	Myst. coffre - AmÃ©thyste
 50130	Coffre olympique
 50131	Myst. coffre - Citrines
 50132	Myst. coffre - Rubis
-50133	Myst. coffre - Émeraudes
+50133	Myst. coffre - Ã‰meraudes
 50134	Myst. coffre - Saphirs
-50135	Myst. coffre - Améthyste
+50135	Myst. coffre - AmÃ©thyste
 50136	Myst. coffre - Topazes
 50137	Myst. coffre - Citrines
-50150	Clé sertie d'un rubis
-50151	Clé sertie d'émeraudes
-50152	Clé sertie d'un saphir
-50153	Clé sertie d'améthyste
-50154	Clé sertie d'une topaze
-50155	Clé sertie d'une citrine
-50156	Clé sertie d'un rubis
-50160	Œuf de Pâques
-50161	Œuf de Pâques
-50162	Œuf de Pâques
-50163	Œuf de Pâques
-50164	Œuf de Pâques
-50165	Œuf de Pâques
-50166	Œuf de Pâques
-50167	Œuf de Pâques
-50168	Œuf de Pâques
-50169	Œuf de Pâques
-50170	Œuf de Pâques
-50171	Œuf de Pâques
-50172	Œuf de Pâques
-50173	Œuf de Pâques
-50174	Œuf de Pâques
-50175	Œuf de Pâques
-50176	Œuf de Pâques
-50177	Œuf de Pâques
-50178	Œuf de Pâques
-50179	Œuf de Pâques
+50150	ClÃ© sertie d'un rubis
+50151	ClÃ© sertie d'Ã©meraudes
+50152	ClÃ© sertie d'un saphir
+50153	ClÃ© sertie d'amÃ©thyste
+50154	ClÃ© sertie d'une topaze
+50155	ClÃ© sertie d'une citrine
+50156	ClÃ© sertie d'un rubis
+50160	Å’uf de PÃ¢ques
+50161	Å’uf de PÃ¢ques
+50162	Å’uf de PÃ¢ques
+50163	Å’uf de PÃ¢ques
+50164	Å’uf de PÃ¢ques
+50165	Å’uf de PÃ¢ques
+50166	Å’uf de PÃ¢ques
+50167	Å’uf de PÃ¢ques
+50168	Å’uf de PÃ¢ques
+50169	Å’uf de PÃ¢ques
+50170	Å’uf de PÃ¢ques
+50171	Å’uf de PÃ¢ques
+50172	Å’uf de PÃ¢ques
+50173	Å’uf de PÃ¢ques
+50174	Å’uf de PÃ¢ques
+50175	Å’uf de PÃ¢ques
+50176	Å’uf de PÃ¢ques
+50177	Å’uf de PÃ¢ques
+50178	Å’uf de PÃ¢ques
+50179	Å’uf de PÃ¢ques
 50180	Panier vide
-50181	Panier d'œufs de Pâques
-50182	Coffre béni
+50181	Panier d'Å“ufs de PÃ¢ques
+50182	Coffre bÃ©ni
 50183	Sucreries
 50184	NoNAme
 50185	NoNAme
-50186	Coffre d'Azraël
+50186	Coffre d'AzraÃ«l
 50187	Coffre d'apprenti I
 50188	Coffre d'apprenti II
 50189	Coffre d'apprenti III
 50190	Coffre d'expert I
 50191	Coffre d'expert II
 50192	Coffre d'expert III
-50193	Coffre de maître I
-50194	Coffre de maître II
-50195	Coffre de maître III
-50196	Coffre de grand maître
+50193	Coffre de maÃ®tre I
+50194	Coffre de maÃ®tre II
+50195	Coffre de maÃ®tre III
+50196	Coffre de grand maÃ®tre
 50197	NoNAme
 50198	NoNAme
 50199	NoNAme
@@ -4521,82 +4521,82 @@ VNUM	LOCALE_NAME
 50249	Coffre du triomphe
 50252	Cor Draconis
 50253	NoNAme
-50254	Coffre de l'obscurité
+50254	Coffre de l'obscuritÃ©
 50255	Cor Draconis (brut)
-50256	Cor Draconis (taillé)
+50256	Cor Draconis (taillÃ©)
 50257	Cor Draconis (rare)
 50258	Cor Draconis (antique)
-50259	Cor Draconis (légend.)
+50259	Cor Draconis (lÃ©gend.)
 50260	Cor Draconis (brut)
-50300	Livre de compétence
+50300	Livre de compÃ©tence
 50301	L'Art de guerre Sun-Zi
 50302	L'Art de guerre Wu-Zi
 50303	WeiLiao Zi
-50304	Maîtrise du combo
-50305	Arch. Maîtres du Combo
+50304	MaÃ®trise du combo
+50305	Arch. MaÃ®tres du Combo
 50306	Art du Combo
-50307	Livre de Quête (Facile)
-50308	Livre de Quête(Normal)
-50309	Livre de Quête (Diff.)
-50310	Livre de Quête (Expert)
+50307	Livre de QuÃªte (Facile)
+50308	Livre de QuÃªte(Normal)
+50309	Livre de QuÃªte (Diff.)
+50310	Livre de QuÃªte (Expert)
 50311	Parler le Shinsoo
 50312	Parler le Chunjo
 50313	Parler le Jinno
 50314	Livre de polymorphie
-50315	Livre polymorph. avancée
-50316	Livre Maître Polymorph.
-50317	Livre de Quête (Test)
-50318	Livre de quête (Facile)
-50319	Livre de Quête(Normal)
-50320	Livre de Quête(Diff.)
-50321	Livre de Quête(Expert)
+50315	Livre polymorph. avancÃ©e
+50316	Livre MaÃ®tre Polymorph.
+50317	Livre de QuÃªte (Test)
+50318	Livre de quÃªte (Facile)
+50319	Livre de QuÃªte(Normal)
+50320	Livre de QuÃªte(Diff.)
+50321	Livre de QuÃªte(Expert)
 50322	Pers. de transformation
-50401	Man. Triple Lacération
-50402	Man. Moulinet à l'épée
+50401	Man. Triple LacÃ©ration
+50402	Man. Moulinet Ã  l'Ã©pÃ©e
 50403	Manuel de Berserk
-50404	Manuel d'Aura de l'Epée
-50405	Manuel d'Accélération
+50404	Manuel d'Aura de l'EpÃ©e
+50405	Manuel d'AccÃ©lÃ©ration
 50416	Man. attaque de l'Esprit
 50417	Manuel de la paume
 50418	Manuel de Charge
 50419	Manuel de Corps puissant
-50420	Man. d'attaque à l'Epée
+50420	Man. d'attaque Ã  l'EpÃ©e
 50431	Manuel d'embuscade
 50432	Manuel d'attaque rapide
 50433	Manuel de Dague filante
-50434	Manuel de furtivité
-50435	Manuel Brume empoisonnée
-50446	Manuel Tir à répétition
-50447	Manuel Pluie de flèches
-50448	Manuel de Flèche de Feu
+50434	Manuel de furtivitÃ©
+50435	Manuel Brume empoisonnÃ©e
+50446	Manuel Tir Ã  rÃ©pÃ©tition
+50447	Manuel Pluie de flÃ¨ches
+50448	Manuel de FlÃ¨che de Feu
 50449	Manuel de Pas de plume
-50450	Man. Flèche empoisonnée
-50461	Manuel Toucher brûlant
+50450	Man. FlÃ¨che empoisonnÃ©e
+50461	Manuel Toucher brÃ»lant
 50462	Man. Tourbillon du Drag.
-50463	Manuel de Lame enchantée
+50463	Manuel de Lame enchantÃ©e
 50464	Manuel de Peur
-50465	Manuel armure enchantée
-50466	Manuel Contre-sortilège
-50476	Man. attaque Ténèbres
+50465	Manuel armure enchantÃ©e
+50466	Manuel Contre-sortilÃ¨ge
+50476	Man. attaque TÃ©nÃ¨bres
 50477	Man. attaque de flammes
 50478	Manuel Esprit de flammes
-50479	Man. Protect. Ténèbres
+50479	Man. Protect. TÃ©nÃ¨bres
 50480	Man. frappe de l'Esprit
-50481	Man. Orbe des Ténèbres
+50481	Man. Orbe des TÃ©nÃ¨bres
 50491	Manuel Talisman volant
 50492	Manuel Dragon chassant
 50493	Manuel Dragon rugissant
-50494	Manuel de Bénédiction
+50494	Manuel de BÃ©nÃ©diction
 50495	Manuel de Reflet
 50496	Manuel Aide du Dragon
-50506	Manuel de Jet de Lumière
-50507	Man. appel de la Lumière
-50508	Manuel Griffe de Lumière
+50506	Manuel de Jet de LumiÃ¨re
+50507	Man. appel de la LumiÃ¨re
+50508	Manuel Griffe de LumiÃ¨re
 50509	Manuel de Soin
 50510	Manuel de Promptitude
-50511	Manuel attaque renforcée
+50511	Manuel attaque renforcÃ©e
 50512	Pierre Arc-en-ciel
-50513	Pierre d'âme
+50513	Pierre d'Ã¢me
 50600	Manuel d'extraction
 50601	Pierre de Diamant
 50602	Pierre d'ambre
@@ -4605,16 +4605,16 @@ VNUM	LOCALE_NAME
 50605	Minerai d'argent
 50606	Minerai d'or
 50607	Minerai de jade
-50608	Minerai d'ébène
+50608	Minerai d'Ã©bÃ¨ne
 50609	Morceau de Perle
 50610	Minerai d'or blanc
 50611	Minerai de cristal
-50612	Minerai d'améthyste
-50613	Minerai de céleste
-50614	Minerai de cristal d'âme
+50612	Minerai d'amÃ©thyste
+50613	Minerai de cÃ©leste
+50614	Minerai de cristal d'Ã¢me
 50615	Minerai de rubis
 50616	Minerai de grenat
-50617	Minerai d'émeraude
+50617	Minerai d'Ã©meraude
 50618	Minerai de saphir
 50621	Diamant
 50622	Ambre
@@ -4623,18 +4623,18 @@ VNUM	LOCALE_NAME
 50625	Argent
 50626	Or
 50627	Jade
-50628	Pierre d'ébène
+50628	Pierre d'Ã©bÃ¨ne
 50629	Perle
 50630	Or blanc
 50631	Cristal
-50632	Améthyste
-50633	Larme céleste
-50634	Cristal d'âme
+50632	AmÃ©thyste
+50633	Larme cÃ©leste
+50634	Cristal d'Ã¢me
 50635	Rubis
 50636	Grenat
-50637	Émeraude
+50637	Ã‰meraude
 50638	Saphir
-50701	Fleur de pêcher
+50701	Fleur de pÃªcher
 50702	Campanule
 50703	Fleur Kaki
 50704	Racine de Gango
@@ -4646,7 +4646,7 @@ VNUM	LOCALE_NAME
 50710	Chardon
 50711	Datte
 50712	Plante Sam-Zi
-50721	Fleur de pêcher
+50721	Fleur de pÃªcher
 50722	Campanule
 50723	Fleur de kaki
 50724	Racine de gango
@@ -4658,7 +4658,7 @@ VNUM	LOCALE_NAME
 50730	Chardon
 50731	Datte
 50732	Plante Sam-Zi
-50801	Sirop de Fleur de pêcher
+50801	Sirop de Fleur de pÃªcher
 50802	Sirop de Campanule
 50803	Sirop de Fleur Kaki
 50804	Sirop de Racine de Gango
@@ -4678,14 +4678,14 @@ VNUM	LOCALE_NAME
 50818	Eau de SamBo
 50819	Eau de Mong
 50820	Eau de Hwal
-50821	Rosée rouge
-50822	Rosée rose
-50823	Rosée jaune
-50824	Rosée verte
-50825	Rosée bleue
-50826	Rosée blanche
+50821	RosÃ©e rouge
+50822	RosÃ©e rose
+50823	RosÃ©e jaune
+50824	RosÃ©e verte
+50825	RosÃ©e bleue
+50826	RosÃ©e blanche
 50901	Bouteille vide
-50902	Recette des débutants
+50902	Recette des dÃ©butants
 50903	Recette
 50904	Recette professionnels
 50905	Recette d'eau de Sim
@@ -4694,18 +4694,18 @@ VNUM	LOCALE_NAME
 50908	Recette d'eau de Yuong
 50909	Recette d'eau de Zin
 50910	Recette d'eau de Hwal
-51001	Fragment d'énergie
-51002	Cristal d'énergie
+51001	Fragment d'Ã©nergie
+51002	Cristal d'Ã©nergie
 51501	Cor Draconis (brut)
 51502	Cor Draconis (brut)
 51503	Cor Draconis (normal)
 51504	Cor Draconis (noble)
-51505	Cor Draconis (précieux)
+51505	Cor Draconis (prÃ©cieux)
 51506	Cor Draconis (mythique)
-51507	Cor Draconis (taillé)
+51507	Cor Draconis (taillÃ©)
 51508	Cor Draconis (rare)
 51509	Cor Draconis (antique)
-51510	Cor Draconis (légendaire)
+51510	Cor Draconis (lÃ©gendaire)
 51511	Cor Diamas
 51512	Cor Rubinum
 51513	Cor Jadeit
@@ -4724,12 +4724,12 @@ VNUM	LOCALE_NAME
 51526	Cor Saphirum (noble)
 51527	Cor Granatum (noble)
 51528	Cor Atrum (noble)
-51529	Cor Diamas (précieux)
-51530	Cor Rubinum (précieux)
-51531	Cor Jadeit (précieux)
-51532	Cor Saphirum (précieux)
-51533	Cor Granatum (précieux)
-51534	Cor Atrum (précieux)
+51529	Cor Diamas (prÃ©cieux)
+51530	Cor Rubinum (prÃ©cieux)
+51531	Cor Jadeit (prÃ©cieux)
+51532	Cor Saphirum (prÃ©cieux)
+51533	Cor Granatum (prÃ©cieux)
+51534	Cor Atrum (prÃ©cieux)
 51535	Cor Diamas (pur)
 51536	Cor Rubinum (pur)
 51537	Cor Jadeit (pur)
@@ -4744,26 +4744,26 @@ VNUM	LOCALE_NAME
 51546	Cor Granatum (brillant)
 51547	Cor Atrum (brillant)
 51548	Cor Draconis (pur)
-51549	Cor Draconis (éternel)
-51550	Cor Diamas (éternel)
-51551	Cor Rubinum (éternel)
-51552	Cor Jadeit (éternel)
-51553	Cor Saphirum (éternel)
-51554	Cor Granatum (éternel)
-51555	Cor Atrum (éternel)
+51549	Cor Draconis (Ã©ternel)
+51550	Cor Diamas (Ã©ternel)
+51551	Cor Rubinum (Ã©ternel)
+51552	Cor Jadeit (Ã©ternel)
+51553	Cor Saphirum (Ã©ternel)
+51554	Cor Granatum (Ã©ternel)
+51555	Cor Atrum (Ã©ternel)
 51556	Cor Diamas (mythique)
 51557	Cor Rubinum (mythique)
 51558	Cor Jadeit (mythique)
 51559	Cor Saphirum (mythique)
 51560	Cor Granatum (mythique)
 51561	Cor Atrum (mythique)
-51562	Cor Draconis (épique)
-51563	Cor Diamas (épique)
-51564	Cor Rubinum (épique)
-51565	Cor Jadeit (épique)
-51566	Cor Saphirum (épique)
-51567	Cor Granatum (épique)
-51568	Cor Atrum (épique)
+51562	Cor Draconis (Ã©pique)
+51563	Cor Diamas (Ã©pique)
+51564	Cor Rubinum (Ã©pique)
+51565	Cor Jadeit (Ã©pique)
+51566	Cor Saphirum (Ã©pique)
+51567	Cor Granatum (Ã©pique)
+51568	Cor Atrum (Ã©pique)
 51569	Cor Draconis (divin)
 51570	Cor Diamas (divin)
 51571	Cor Rubinum (divin)
@@ -4785,13 +4785,13 @@ VNUM	LOCALE_NAME
 51587	Cor Saphirum+ (noble)
 51588	Cor Granatum+ (noble)
 51589	Cor Atrum+ (noble)
-51590	Cor Draconis+ (précieux)
-51591	Cor Diamas+ (précieux)
-51592	Cor Rubinum+ (précieux)
-51593	Cor Jadeit+ (précieux)
-51594	Cor Saphirum+ (précieux)
-51595	Cor Granatum+ (précieux)
-51596	Cor Atrum+ (précieux)
+51590	Cor Draconis+ (prÃ©cieux)
+51591	Cor Diamas+ (prÃ©cieux)
+51592	Cor Rubinum+ (prÃ©cieux)
+51593	Cor Jadeit+ (prÃ©cieux)
+51594	Cor Saphirum+ (prÃ©cieux)
+51595	Cor Granatum+ (prÃ©cieux)
+51596	Cor Atrum+ (prÃ©cieux)
 51597	Cor Draconis+ (pur)
 51598	Cor Diamas+ (pur)
 51599	Cor Rubinum+ (pur)
@@ -4806,13 +4806,13 @@ VNUM	LOCALE_NAME
 51608	Cor Saphirum+ (brillant)
 51609	Cor Granatum+ (brillant)
 51610	Cor Atrum+ (brillant)
-51611	Cor Draconis+ (éternel)
-51612	Cor Diamas+ (éternel)
-51613	Cor Rubinum+ (éternel)
-51614	Cor Jadeit+ (éternel)
-51615	Cor Saphirum+ (éternel)
-51616	Cor Granatum+ (éternel)
-51617	Cor Atrum+ (éternel)
+51611	Cor Draconis+ (Ã©ternel)
+51612	Cor Diamas+ (Ã©ternel)
+51613	Cor Rubinum+ (Ã©ternel)
+51614	Cor Jadeit+ (Ã©ternel)
+51615	Cor Saphirum+ (Ã©ternel)
+51616	Cor Granatum+ (Ã©ternel)
+51617	Cor Atrum+ (Ã©ternel)
 51618	Cor Draconis+ (mythique)
 51619	Cor Diamas+ (mythique)
 51620	Cor Rubinum+ (mythique)
@@ -4820,13 +4820,13 @@ VNUM	LOCALE_NAME
 51622	Cor Saphirum+ (mythique)
 51623	Cor Granatum+ (mythique)
 51624	Cor Atrum+ (mythique)
-51625	Cor Draconis+ (épique)
-51626	Cor Diamas+ (épique)
-51627	Cor Rubinum+ (épique)
-51628	Cor Jadeit+ (épique)
-51629	Cor Saphirum+ (épique)
-51630	Cor Granatum+ (épique)
-51631	Cor Atrum+ (épique)
+51625	Cor Draconis+ (Ã©pique)
+51626	Cor Diamas+ (Ã©pique)
+51627	Cor Rubinum+ (Ã©pique)
+51628	Cor Jadeit+ (Ã©pique)
+51629	Cor Saphirum+ (Ã©pique)
+51630	Cor Granatum+ (Ã©pique)
+51631	Cor Atrum+ (Ã©pique)
 51632	Cor Draconis+ (divin)
 51633	Cor Diamas+ (divin)
 51634	Cor Rubinum+ (divin)
@@ -4836,8 +4836,8 @@ VNUM	LOCALE_NAME
 51638	Cor Atrum+ (divin)
 51639	Coffre-dragon
 51640	Coffre-dragon+
-51641	Coffre-dragon+ (coloré)
-51642	Coffre-dragon (coloré)
+51641	Coffre-dragon+ (colorÃ©)
+51642	Coffre-dragon (colorÃ©)
 51643	Coffre-dragon noble
 51644	Coffre-dragon+ noble
 51645	Coffre-dragon+ nob. col.
@@ -4956,13 +4956,13 @@ VNUM	LOCALE_NAME
 52707	Certificat de Dragor
 53001	NoNAme
 53002	Sceau du faon
-53003	Sceau : phœnix de glace
-53005	Bébé Azraël
-53006	Bébé Azraël (or)
+53003	SceauÂ : phÅ“nix de glace
+53005	BÃ©bÃ© AzraÃ«l
+53006	BÃ©bÃ© AzraÃ«l (or)
 53007	Sceau Bambi
 53008	Sceau de Knuud
 53009	Sceau Bao Bao
-53010	Sceau Léonidas
+53010	Sceau LÃ©onidas
 53011	Sceau Khan
 53012	Sceau Porky
 53013	Sceau Rufus
@@ -4972,76 +4972,76 @@ VNUM	LOCALE_NAME
 53017	Sceau du Phoenix de jade
 53501	NoNAme
 53502	Coffre du faon
-53503	Cage de phœnix de glace
+53503	Cage de phÅ“nix de glace
 53504	NoNAme
 53505	NoNAme
 53506	NoNAme
-53507	³ì°¢ º¸°üÇÔ
-53508	³ì°¢ º¸°üÇÔ
-53509	³ì°¢ º¸°üÇÔ
-53510	³ì°¢ º¸°üÇÔ
-53511	³ì°¢ º¸°üÇÔ
-53512	³ì°¢ º¸°üÇÔ
-53513	³ì°¢ º¸°üÇÔ
-53514	³ì°¢ º¸°üÇÔ
-53515	³ì°¢ º¸°üÇÔ
+53507	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53508	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53509	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53510	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53511	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53512	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53513	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53514	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
+53515	Â³Ã¬Â°Â¢ ÂºÂ¸Â°Ã¼Ã‡Ã”
 53516	Coffre d'os
 53517	Cage de jade
 60001	Bile
 60002	Note pour le gardien
-60003	Symbole de Héros
+60003	Symbole de HÃ©ros
 69000	Coup Secret
 69010	Secret de Chi
 69020	Secret du coup d'esprit
 69030	Secret du coup d'attaque
 69040	Secret d'embuscade
-69050	Secret des flèches
+69050	Secret des flÃ¨ches
 69060	Secret de la plume
 69070	Secret attaque rapide
 69080	Secret d'attaque obscure
 69090	Secret tourbillon Dragon
 69100	Secret Terre et Ciel
-69110	Secret Epée enchantée
+69110	Secret EpÃ©e enchantÃ©e
 69120	Secret Talisman volant
 69130	Secret soin
 69140	Secret: Griffe du dragon
-69150	Secret Bénédiction
-70001	Poupée de la Déesse
-70002	Troisième main
+69150	Secret BÃ©nÃ©diction
+70001	PoupÃ©e de la DÃ©esse
+70002	TroisiÃ¨me main
 70003	Livre du chef
-70004	Médaille d'attention
-70005	Anneau d'expérience
+70004	MÃ©daille d'attention
+70005	Anneau d'expÃ©rience
 70006	Anneau de Langage
-70007	Anneau d'étourdissement
+70007	Anneau d'Ã©tourdissement
 70008	Drapeau blanc
-70009	Coffre au trésor
+70009	Coffre au trÃ©sor
 70010	Ticket de stockage
-70011	Bouteille d'amélioration
-70012	Larme de la Déesse
-70013	Larme de la Déesse G.
-70014	Dragée de sang
-70015	Pinceau bon marché
+70011	Bouteille d'amÃ©lioration
+70012	Larme de la DÃ©esse
+70013	Larme de la DÃ©esse G.
+70014	DragÃ©e de sang
+70015	Pinceau bon marchÃ©
 70016	Bracelet indien
-70017	Bracelet précieux
+70017	Bracelet prÃ©cieux
 70018	B. d'oreille du Phoenix
 70019	Collier de millionnaire
-70020	Vin de fleur de pêche
-70021	Bénédiction de l'ange
+70020	Vin de fleur de pÃªche
+70021	BÃ©nÃ©diction de l'ange
 70022	Coeur de Bera
 70023	Canne de l'homme sage
-70024	Orbe de bénédiction
-70025	Anneau de fierté
+70024	Orbe de bÃ©nÃ©diction
+70025	Anneau de fiertÃ©
 70026	Miroir de disparition
 70027	Notes du forgeron
 70028	Notes de l'homme sage
-70029	Plume rouge d'écriture
+70029	Plume rouge d'Ã©criture
 70030	Monocle rouge
-70031	Traité d'escrime
-70032	Manuel d'armes à 2 mains
-70033	Manuel d'arme à une main
+70031	TraitÃ© d'escrime
+70032	Manuel d'armes Ã  2 mains
+70033	Manuel d'arme Ã  une main
 70034	Manuel de Dague
 70035	Cuivre magique
-70036	Notes de l'étudiant
+70036	Notes de l'Ã©tudiant
 70037	Livre de l'oubli
 70038	Cape de bravoure
 70039	Manuel du forgeron
@@ -5053,7 +5053,7 @@ VNUM	LOCALE_NAME
 70045	Crocs du Seigneur des T.
 70046	Graal du Dieu Dragon
 70047	Anneau de Langage(ex)
-70048	Cape de l'évadé
+70048	Cape de l'Ã©vadÃ©
 70049	Anneau de Lucie
 70050	Symbole du Roi sage
 70051	Gants du Roi sage
@@ -5062,7 +5062,7 @@ VNUM	LOCALE_NAME
 70054	Charme Karma 3
 70056	Grenadine+
 70057	Cape de bravoure
-70058	Anneau de téléportation
+70058	Anneau de tÃ©lÃ©portation
 70101	Livre de la Providence
 70102	Haricot Zen
 70103	Sutra
@@ -5070,66 +5070,66 @@ VNUM	LOCALE_NAME
 70105	Orbe de Polymorphie
 70106	Orbe de Polymorphie
 70107	Orbe de Polymorphie
-70201	Décolorant
+70201	DÃ©colorant
 70202	Teint. cheveux blanche
 70203	Teint. cheveux blond
 70204	Teint. cheveux rouge
 70205	Teinture de cheveux brun
 70206	Teinture de cheveux noir
-70207	Décolorant
+70207	DÃ©colorant
 70208	Teinture marron
-70251	Herbes médic. rouges
-70252	Herbes médic. bleues
-70253	Herbes médic. vertes
-70254	Herbes médic. pourpres
+70251	Herbes mÃ©dic. rouges
+70252	Herbes mÃ©dic. bleues
+70253	Herbes mÃ©dic. vertes
+70254	Herbes mÃ©dic. pourpres
 70301	Anneau de couple
 70302	Alliance
 71001	Parchemin d'exorcisme
 71002	Redistribution de statut
-71003	Parch. oubli compétence
-71004	Médaille du Dragon
+71003	Parch. oubli compÃ©tence
+71004	MÃ©daille du Dragon
 71005	Anneau de Langage
 71006	Anneau de Langage
 71007	Anneau de Langage
-71008	Manuel de pêche
+71008	Manuel de pÃªche
 71009	Stockage agrandi
-71010	Troisième Main
-71011	Masque d'émotions
+71010	TroisiÃ¨me Main
+71011	Masque d'Ã©motions
 71012	Livre du Chef
 71013	Feux d'artifice
 71014	Potion d'attaque +10
-71015	Anneau d'expérience
+71015	Anneau d'expÃ©rience
 71016	Gants de voleur
-71017	Médaille de Chance
-71018	Bénédiction de Vie
-71019	Bénédiction magique
-71020	Bénédiction du Dragon
+71017	MÃ©daille de Chance
+71018	BÃ©nÃ©diction de Vie
+71019	BÃ©nÃ©diction magique
+71020	BÃ©nÃ©diction du Dragon
 71021	Parchemin de Guerre
 71022	Retour d'Intelligence
-71023	Retour de Vitalité
+71023	Retour de VitalitÃ©
 71024	Retour de Force
 71025	Pierre du Forgeron
 71026	Minerai de fer magique
 71027	Vie du Dieu Dragon
 71028	Attaque du Dieu Dragon
 71029	Intellig. du Dieu Dragon
-71030	Défense du Dieu Dragon
+71030	DÃ©fense du Dieu Dragon
 71031	Aide du Dieu Dragon
 71032	Parchemin du Dieu Dragon
-71033	Masque d'émotions
+71033	Masque d'Ã©motions
 71034	Potion d'attaque +15
-71035	Élixir du chercheur
+71035	Ã‰lixir du chercheur
 71036	Parchemin - Chef Orc
-71037	Parchemin - Chef Esotér.
-71038	Parchemin - R. Araignée
+71037	Parchemin - Chef EsotÃ©r.
+71038	Parchemin - R. AraignÃ©e
 71039	Parchemin - Tortue
 71040	Parchemin du roi des flam
 71041	Parchemin - Neuf-Queues
-71042	Parchemin - Roi Démon
+71042	Parchemin - Roi DÃ©mon
 71043	Parch - Esprit du Tigre
 71044	Attaque critique
-71045	Attaque perçante
-71047	Color. Pierre Fantôme
+71045	Attaque perÃ§ante
+71047	Color. Pierre FantÃ´me
 71048	Sort de Changement
 71049	Paquet de soie
 71050	Potion de vitesse
@@ -5141,12 +5141,12 @@ VNUM	LOCALE_NAME
 71059	Parch. - Veine d'Argent
 71060	Parchemin - Veine d'Or
 71061	Parchemin - Veine Jade
-71062	Parch. - Veine d'Ebène
+71062	Parch. - Veine d'EbÃ¨ne
 71063	Parch. - Veine de Perle
 71064	Parch. - Veine or blanc
 71065	Parch. - Veine Cristal
-71066	Parch. - Veine Améthyste
-71067	Parch. - Larme Céleste
+71066	Parch. - Veine AmÃ©thyste
+71067	Parch. - Larme CÃ©leste
 71068	Plume des amoureux
 71069	Anneaux d'harmonie
 71070	Bracelet d'Amour
@@ -5163,22 +5163,22 @@ VNUM	LOCALE_NAME
 71081	Pierre Metin (N)
 71082	Pierre Metin (D)
 71083	Livre des pierres
-71084	Objet enchanté
+71084	Objet enchantÃ©
 71085	Objet de renforcement
-71086	Q. amélior. niv.(20-29)
-71087	Q. amélior. niv.(30-39)
-71088	Livre de quête (Facile)
-71089	Livre de Quête (Normal)
-71090	Livre de Quête (Diff.)
+71086	Q. amÃ©lior. niv.(20-29)
+71087	Q. amÃ©lior. niv.(30-39)
+71088	Livre de quÃªte (Facile)
+71089	Livre de QuÃªte (Normal)
+71090	Livre de QuÃªte (Diff.)
 71091	Coloration du commerce
 71092	Livre de polymorphie
 71093	Orbe de Polymorphie
-71094	Lecture concentrée
+71094	Lecture concentrÃ©e
 71095	Ticket
 71096	Tableau de passage
 71099	Anneau de remplacement
-71100	Parchemin de compétence
-71101	Potion de célérité
+71100	Parchemin de compÃ©tence
+71101	Potion de cÃ©lÃ©ritÃ©
 71102	NoNAme
 71103	Redistribution (VIT)
 71104	Redistribution (INT)
@@ -5198,11 +5198,11 @@ VNUM	LOCALE_NAME
 71120	Sceau Jaune du Lion
 71121	Sceau Bleu du Lion
 71122	NoNAme
-71123	Écaille de dragon
+71123	Ã‰caille de dragon
 71124	Lion blanc
 71125	Sceau Sanglier Pugnace
 71126	Sceau Loup Bagarreur
-71127	Sceau Tigre Tempétueux
+71127	Sceau Tigre TempÃ©tueux
 71128	Sceau Lion Carnassier
 71129	Griffe de dragon
 71130	Ticket
@@ -5219,13 +5219,13 @@ VNUM	LOCALE_NAME
 71141	Sceau: tigre royal gris
 71142	Sceau: tigre royal blanc
 71143	Anneau de la joie
-71144	Coffre de Noël
-71145	Bijou de l'amour éternel
+71144	Coffre de NoÃ«l
+71145	Bijou de l'amour Ã©ternel
 71146	Coffre d'Amor (rose)
 71147	Coffre d'Amor (bleu)
-71148	Anneau de Volonté
+71148	Anneau de VolontÃ©
 71149	Anneau de Force mortelle
-71150	Œuf magique
+71150	Å’uf magique
 71151	Sort vert
 71152	Force verte
 71153	Potion de sagesse
@@ -5233,18 +5233,18 @@ VNUM	LOCALE_NAME
 71155	Potion de sagesse (3h)
 71156	Potion d'esprit (3h)
 71157	NoNAme
-71158	Médaille de héros
+71158	MÃ©daille de hÃ©ros
 71159	Coffre de Milon
-71160	Coffre des Athéniens
+71160	Coffre des AthÃ©niens
 71161	Equus Purpur
-71164	Sceau Comète
-71165	Sceau du prédateur pol.
-71166	Sceau du panda blindé
+71164	Sceau ComÃ¨te
+71165	Sceau du prÃ©dateur pol.
+71166	Sceau du panda blindÃ©
 71171	Sceau de Licorne
 71172	Sceau de Carnemar
-72001	Anneau d'expérience
-72002	Anneau d'expérience
-72003	Anneau d'expérience
+72001	Anneau d'expÃ©rience
+72002	Anneau d'expÃ©rience
+72003	Anneau d'expÃ©rience
 72004	Gants de voleur
 72005	Gants de voleur
 72006	Gants de voleur
@@ -5254,18 +5254,18 @@ VNUM	LOCALE_NAME
 72010	Plume des amoureux
 72011	Plume des amoureux
 72012	Plume des amoureux
-72013	Manuel de pêche
-72014	Manuel de pêche
-72015	Manuel de pêche
-72016	Troisième main
-72017	Troisième main
-72018	Troisième main
+72013	Manuel de pÃªche
+72014	Manuel de pÃªche
+72015	Manuel de pÃªche
+72016	TroisiÃ¨me main
+72017	TroisiÃ¨me main
+72018	TroisiÃ¨me main
 72019	Extension du Stockage
 72020	Extension du Stockage
 72021	Extension du Stockage
-72022	Médaille de Chance
-72023	Médaille de Chance
-72024	Médaille de Chance
+72022	MÃ©daille de Chance
+72023	MÃ©daille de Chance
+72024	MÃ©daille de Chance
 72025	Attaque critique
 72026	Attaque critique
 72027	Attaque critique
@@ -5275,9 +5275,9 @@ VNUM	LOCALE_NAME
 72031	Attaque du Dieu Dragon
 72032	Attaque du Dieu Dragon
 72033	Attaque du Dieu Dragon
-72034	Défense du Dieu Dragon
-72035	Défense du Dieu Dragon
-72036	Défense du Dieu Dragon
+72034	DÃ©fense du Dieu Dragon
+72035	DÃ©fense du Dieu Dragon
+72036	DÃ©fense du Dieu Dragon
 72037	Vie du Dieu Dragon
 72038	Vie du Dieu Dragon
 72039	Vie du Dieu Dragon
@@ -5287,12 +5287,12 @@ VNUM	LOCALE_NAME
 72043	Livre du Chef
 72044	Livre du Chef
 72045	Livre du Chef
-72046	Chance de coup perçant
-72047	Chance de coup perçant
-72048	Chance de coup perçant
-72049	Anneau d'expérience
-72050	Anneau d'expérience
-72301	Parchemin de Bénédiction
+72046	Chance de coup perÃ§ant
+72047	Chance de coup perÃ§ant
+72048	Chance de coup perÃ§ant
+72049	Anneau d'expÃ©rience
+72050	Anneau d'expÃ©rience
+72301	Parchemin de BÃ©nÃ©diction
 72302	NoNAme
 72303	NoNAme
 72304	NoNAme
@@ -5306,10 +5306,10 @@ VNUM	LOCALE_NAME
 72312	NoNAme
 72313	NoNAme
 72314	NoNAme
-72501	Anneau d'exp.(iCafé)
-72502	Gants de voleur (iCafé)
+72501	Anneau d'exp.(iCafÃ©)
+72502	Gants de voleur (iCafÃ©)
 72701	Bottes du vent
-72702	Bottes du vent+ (négoc.)
+72702	Bottes du vent+ (nÃ©goc.)
 72703	Boucles en os de tigre
 72704	Boucles en os de dragon
 72705	Bracelet os de tigre
@@ -5318,18 +5318,18 @@ VNUM	LOCALE_NAME
 72710	Boucles en os de dragon
 72711	Bracelet os de Tigre
 72712	Bracelet os de Dragon
-72723	Élixir du soleil (p)
-72724	Élixir du soleil (m)
-72725	Élixir du soleil (g)
-72726	Élixir du soleil (sp)
-72727	Élixir de la lune (p)
-72728	Élixir de la lune (m)
-72729	Élixir de la lune (g)
-72730	Élixir de la lune (sp)
-73001	Coupe à la mode (rouge)
-73002	Coupe à la mode (clair)
-73003	Coupe à la mode (bleu)
-73004	Coupe à la mode (brun)
+72723	Ã‰lixir du soleil (p)
+72724	Ã‰lixir du soleil (m)
+72725	Ã‰lixir du soleil (g)
+72726	Ã‰lixir du soleil (sp)
+72727	Ã‰lixir de la lune (p)
+72728	Ã‰lixir de la lune (m)
+72729	Ã‰lixir de la lune (g)
+72730	Ã‰lixir de la lune (sp)
+73001	Coupe Ã  la mode (rouge)
+73002	Coupe Ã  la mode (clair)
+73003	Coupe Ã  la mode (bleu)
+73004	Coupe Ã  la mode (brun)
 73005	Bandeau
 73006	Bandeau
 73007	Bandeau
@@ -5342,10 +5342,10 @@ VNUM	LOCALE_NAME
 73252	Queue de cheval (vert)
 73253	Queue de cheval (bleu)
 73254	Queue de cheval (clair)
-73255	Coupe aux épaules(rouge)
-73256	Coupe aux épaules(brun)
-73257	Coupe aux épaules(clair)
-73258	Coupe aux épaules(mauve)
+73255	Coupe aux Ã©paules(rouge)
+73256	Coupe aux Ã©paules(brun)
+73257	Coupe aux Ã©paules(clair)
+73258	Coupe aux Ã©paules(mauve)
 73259	Coupe courte (rouge)
 73260	Coupe courte (bleu)
 73261	Coupe courte (noir)
@@ -5358,10 +5358,10 @@ VNUM	LOCALE_NAME
 73506	Coupe respect. (rouge)
 73507	Coupe respectable (noir)
 73508	Coupe respect. (lilas)
-73509	C. libres stylés(blanc)
-73510	C. libres stylés(bleu)
-73511	C. libres stylés (noir)
-73512	C. libres stylés (brun)
+73509	C. libres stylÃ©s(blanc)
+73510	C. libres stylÃ©s(bleu)
+73511	C. libres stylÃ©s (noir)
+73512	C. libres stylÃ©s (brun)
 73751	Coiffure noble (brun)
 73752	Coiffure noble (noir)
 73753	Coiffure noble (bleu)
@@ -5375,9 +5375,9 @@ VNUM	LOCALE_NAME
 73761	Coupe semi-courte(lilas)
 73762	Coupe semi-courte (brun)
 74001	Coupe courte (rouge)
-74002	Coupe à la mode (clair)
-74003	Coupe à la mode (bleu)
-74004	Coupe à la mode (brun)
+74002	Coupe Ã  la mode (clair)
+74003	Coupe Ã  la mode (bleu)
+74004	Coupe Ã  la mode (brun)
 74005	Bandeau (rouge)
 74006	Bandeau (brun)
 74007	Bandeau (bleu)
@@ -5388,8 +5388,8 @@ VNUM	LOCALE_NAME
 74012	Cheveux longs(vert)
 74013	Coupe afro (guerrier)
 74014	Coupe afro (guerrier)
-74015	Casque samouraï (gu/h)
-74016	Casque samouraï (gu/h)
+74015	Casque samouraÃ¯ (gu/h)
+74016	Casque samouraÃ¯ (gu/h)
 74017	Fez pour guerrier
 74018	Keffieh pour guerriers
 74019	Turban pour guerrier
@@ -5398,10 +5398,10 @@ VNUM	LOCALE_NAME
 74252	Queue de cheval (vert)
 74253	Queue de cheval (bleu)
 74254	Queue de cheval (ivoire)
-74255	Coupe aux épaules(rouge)
-74256	Coupe aux épaules (brun)
-74257	Coupe aux épaules(clair)
-74258	Coupe aux épaules(mauve)
+74255	Coupe aux Ã©paules(rouge)
+74256	Coupe aux Ã©paules (brun)
+74257	Coupe aux Ã©paules(clair)
+74258	Coupe aux Ã©paules(mauve)
 74259	Coupe courte (rouge)
 74260	Coupe courte (bleu ciel)
 74261	Coupe courte (noir)
@@ -5411,7 +5411,7 @@ VNUM	LOCALE_NAME
 74265	Chapeau fleuri (ninja/f)
 74266	Chapeau fleuri (ninja/f)
 74267	Foulard (ninja/f)
-74268	Foulard désert (ninja/f)
+74268	Foulard dÃ©sert (ninja/f)
 74269	Turban (ninja/f)
 74270	Masque citr. ninja (f)
 74501	Coupe sportive (clair)
@@ -5423,13 +5423,13 @@ VNUM	LOCALE_NAME
 74507	Coupe respectable (noir)
 74508	Coupe respect. (lilas)
 74509	Longue natte (blanc)
-74510	C. libres stylés(bleu)
-74511	C. libres stylés (noir)
-74512	C. libres stylés (brun)
+74510	C. libres stylÃ©s(bleu)
+74511	C. libres stylÃ©s (noir)
+74512	C. libres stylÃ©s (brun)
 74513	Coupe afro (sura/h)
 74514	Coupe afro (sura/h)
-74515	Casque samouraï Sura (h)
-74516	Casque samouraï Sura (h)
+74515	Casque samouraÃ¯ Sura (h)
+74516	Casque samouraÃ¯ Sura (h)
 74517	Fez pour Sura (h)
 74518	Keffieh pour Sura (h)
 74519	Turban pour Sura (h)
@@ -5451,13 +5451,13 @@ VNUM	LOCALE_NAME
 74765	Chapeau fleuri (ch/f)
 74766	Chapeau fleuri (ch/f)
 74767	Foulard (chamane/f)
-74768	Foulard désert (ch/f)
+74768	Foulard dÃ©sert (ch/f)
 74769	Turban pour chamane (f)
 74770	Masque citr. chamane (f)
-75001	Coupe à la mode (rouge)
-75002	Coupe à la mode (claire)
-75003	Coupe à la mode (bleu)
-75004	Coupe à la mode (brun)
+75001	Coupe Ã  la mode (rouge)
+75002	Coupe Ã  la mode (claire)
+75003	Coupe Ã  la mode (bleu)
+75004	Coupe Ã  la mode (brun)
 75005	Bandeau (brun)
 75006	Bandeau (blond)
 75007	Bandeau (bleu)
@@ -5466,30 +5466,30 @@ VNUM	LOCALE_NAME
 75010	Cheveux longs (rouge)
 75011	Cheveux longs (brun)
 75012	Cheveux longs (vert)
-75013	Coupe afro (guerrière)
-75014	Coupe afro (guerrière)
+75013	Coupe afro (guerriÃ¨re)
+75014	Coupe afro (guerriÃ¨re)
 75015	Chapeau fleuri (gu/f)
 75016	Chapeau fleuri (gu/f)
-75017	Foulard pour guerrière
-75018	Foulard désert (gu/f)
-75019	Turban pour guerrière
-75020	Masque citr. guerrière
+75017	Foulard pour guerriÃ¨re
+75018	Foulard dÃ©sert (gu/f)
+75019	Turban pour guerriÃ¨re
+75020	Masque citr. guerriÃ¨re
 75201	Queue de cheval (brun)
 75202	Queue de cheval (vert)
 75203	Queue de cheval (bleu)
 75204	Queue de cheval (clair)
-75205	Coupe aux épaule (rouge)
-75206	Coupe aux épaules (brun)
-75207	Coupe aux épaules(clair)
-75208	Coupe aux épaules(mauve)
+75205	Coupe aux Ã©paule (rouge)
+75206	Coupe aux Ã©paules (brun)
+75207	Coupe aux Ã©paules(clair)
+75208	Coupe aux Ã©paules(mauve)
 75209	Coupe courte (rouge)
 75210	Coupe courte (bleu)
 75211	Coupe courte (noir)
 75212	Coupe courte (blond)
 75213	Afro pour ninja (h)
 75214	Afro pour ninja (h)
-75215	Casque samouraï (Ni/h)
-75216	Casque samouraï (ni/h)
+75215	Casque samouraÃ¯ (Ni/h)
+75216	Casque samouraÃ¯ (ni/h)
 75217	Fez pour ninja (h)
 75218	Keffieh pour ninja (h)
 75219	Turban pour ninja (h)
@@ -5511,7 +5511,7 @@ VNUM	LOCALE_NAME
 75415	Chapeau fleuri (sura/f)
 75416	Chapeau fleuri (sura/f)
 75417	Foulard pour Sura (f)
-75418	Foulard désert (sura/f)
+75418	Foulard dÃ©sert (sura/f)
 75419	Turban pour Sura (f)
 75420	Masque citr. sura (f)
 75601	Coiffure noble (brun)
@@ -5528,35 +5528,35 @@ VNUM	LOCALE_NAME
 75612	C. traditionnelle(rouge)
 75613	Coupe afro (chamanes/h)
 75614	Coupe afro (chamanes/h)
-75615	Casque samouraï (ch/h)
-75616	Casque samouraï (ch/h)
+75615	Casque samouraÃ¯ (ch/h)
+75616	Casque samouraÃ¯ (ch/h)
 75617	Fez pour chamane homme
 75618	Keffieh (chamane h)
 75619	Turban pour chamane (h)
 75620	Masque citr. chamane (h)
-76000	Vin de fleur de pêche
+76000	Vin de fleur de pÃªche
 76001	Redistribution de statut
-76002	Tête réduite
-76003	Potion de célérité
-76004	Élixir de la lune (p)
-76005	Élixir de la lune (m)
+76002	TÃªte rÃ©duite
+76003	Potion de cÃ©lÃ©ritÃ©
+76004	Ã‰lixir de la lune (p)
+76005	Ã‰lixir de la lune (m)
 76006	Compas de la Metin
 76007	Cape de bravoure
-76008	Médaille du Dragon
+76008	MÃ©daille du Dragon
 76009	Parchemin du Dieu Dragon
 76010	Pierre de sang
 76011	Livre du chef
 76012	Potion de vitesse
 76013	Objet de renforcement(b)
-76014	Objet enchanté (b)
-76015	Orbe de bénédiction
-76016	Parchemin de Bénédiction
+76014	Objet enchantÃ© (b)
+76015	Orbe de bÃ©nÃ©diction
+76016	Parchemin de BÃ©nÃ©diction
 76017	Potion d'attaque +10
 76018	Potion d'attaque +15
 76019	Ticket
-76020	Élixir du chercheur
-76021	Élixir du soleil (p)
-76022	Élixir du soleil (m)
+76020	Ã‰lixir du chercheur
+76021	Ã‰lixir du soleil (p)
+76022	Ã‰lixir du soleil (m)
 76023	Sort vert
 76024	Force verte
 80001	Bourse de monnaie
@@ -5566,10 +5566,10 @@ VNUM	LOCALE_NAME
 80005	Lingot d'or (500 000 Y.)
 80006	Lingot d'or (1M de Yang)
 80007	Lingot d'or (2M de Yang)
-80008	Pépite d'or
+80008	PÃ©pite d'or
 80014	Bon de DC (100)
 80015	Bon de DC (500)
-80016	Bon de DC (1 000)
+80016	Bon de DC (1Â 000)
 80017	Bon de DC (50)
 90001	Bouteille d'eau vide
 90002	Bouteille d'eau
@@ -5580,11 +5580,11 @@ VNUM	LOCALE_NAME
 90007	Minerai
 90010	Pierre de fondation
 90011	Tronc
-90012	Contreplaqué
+90012	ContreplaquÃ©
 90013	NoNAme
-100000	Élixir temporel (p)
-100001	Élixir temporel (m)
-100002	Élixir temporel (g)
+100000	Ã‰lixir temporel (p)
+100001	Ã‰lixir temporel (m)
+100002	Ã‰lixir temporel (g)
 100100	Pince-dragon
 100200	Pince temporelle
 100300	Haricot-dragon vert
@@ -5595,11 +5595,11 @@ VNUM	LOCALE_NAME
 110200~110299	Diamant-dragon brut
 110300~110399	Diamant-dragon brut
 110400~110499	Diamant-dragon brut
-111000~111099	Diamant-dragon taillé
-111100~111199	Diamant-dragon taillé
-111200~111299	Diamant-dragon taillé
-111300~111399	Diamant-dragon taillé
-111400~111499	Diamant-dragon taillé
+111000~111099	Diamant-dragon taillÃ©
+111100~111199	Diamant-dragon taillÃ©
+111200~111299	Diamant-dragon taillÃ©
+111300~111399	Diamant-dragon taillÃ©
+111400~111499	Diamant-dragon taillÃ©
 112000~112099	Diamant-dragon rare
 112100~112199	Diamant-dragon rare
 112200~112299	Diamant-dragon rare
@@ -5610,21 +5610,21 @@ VNUM	LOCALE_NAME
 113200~113299	Diamant-dragon antique
 113300~113399	Diamant-dragon antique
 113400~113499	Diamant-dragon antique
-114000~114099	Diamant-dragon légend.
-114100~114199	Diamant-dragon légend.
-114200~114299	Diamant-dragon légend.
-114300~114399	Diamant-dragon légend.
-114400~114499	Diamant-dragon légend.
+114000~114099	Diamant-dragon lÃ©gend.
+114100~114199	Diamant-dragon lÃ©gend.
+114200~114299	Diamant-dragon lÃ©gend.
+114300~114399	Diamant-dragon lÃ©gend.
+114400~114499	Diamant-dragon lÃ©gend.
 120000~120099	Rubis-dragon brut
 120100~120199	Rubis-dragon brut
 120200~120299	Rubis-dragon brut
 120300~120399	Rubis-dragon brut
 120400~120499	Rubis-dragon brut
-121000~121099	Rubis-dragon taillé
-121100~121199	Rubis-dragon taillé
-121200~121299	Rubis-dragon taillé
-121300~121399	Rubis-dragon taillé
-121400~121499	Rubis-dragon taillé
+121000~121099	Rubis-dragon taillÃ©
+121100~121199	Rubis-dragon taillÃ©
+121200~121299	Rubis-dragon taillÃ©
+121300~121399	Rubis-dragon taillÃ©
+121400~121499	Rubis-dragon taillÃ©
 122000~122099	Rubis-dragon rare
 122100~122199	Rubis-dragon rare
 122200~122299	Rubis-dragon rare
@@ -5635,21 +5635,21 @@ VNUM	LOCALE_NAME
 123200~123299	Rubis-dragon antique
 123300~123399	Rubis-dragon antique
 123400~123499	Rubis-dragon antique
-124000~124099	Rubis-dragon légendaire
-124100~124199	Rubis-dragon légendaire
-124200~124299	Rubis-dragon légendaire
-124300~124399	Rubis-dragon légendaire
-124400~124499	Rubis-dragon légendaire
+124000~124099	Rubis-dragon lÃ©gendaire
+124100~124199	Rubis-dragon lÃ©gendaire
+124200~124299	Rubis-dragon lÃ©gendaire
+124300~124399	Rubis-dragon lÃ©gendaire
+124400~124499	Rubis-dragon lÃ©gendaire
 130000~130099	Jade-dragon brut
 130100~130199	Jade-dragon brut
 130200~130299	Jade-dragon brut
 130300~130399	Jade-dragon brut
 130400~130499	Jade-dragon brut
-131000~131099	Jade-dragon taillé
-131100~131199	Jade-dragon taillé
-131200~131299	Jade-dragon taillé
-131300~131399	Jade-dragon taillé
-131400~131499	Jade-dragon taillé
+131000~131099	Jade-dragon taillÃ©
+131100~131199	Jade-dragon taillÃ©
+131200~131299	Jade-dragon taillÃ©
+131300~131399	Jade-dragon taillÃ©
+131400~131499	Jade-dragon taillÃ©
 132000~132099	Jade-dragon rare
 132100~132199	Jade-dragon rare
 132200~132299	Jade-dragon rare
@@ -5660,21 +5660,21 @@ VNUM	LOCALE_NAME
 133200~133299	Jade-dragon antique
 133300~133399	Jade-dragon antique
 133400~133499	Jade-dragon antique
-134000~134099	Jade-dragon légendaire
-134100~134199	Jade-dragon légendaire
-134200~134299	Jade-dragon légendaire
-134300~134399	Jade-dragon légendaire
-134400~134499	Jade-dragon légendaire
+134000~134099	Jade-dragon lÃ©gendaire
+134100~134199	Jade-dragon lÃ©gendaire
+134200~134299	Jade-dragon lÃ©gendaire
+134300~134399	Jade-dragon lÃ©gendaire
+134400~134499	Jade-dragon lÃ©gendaire
 140000~140099	Saphir-dragon brut
 140100~140199	Saphir-dragon brut
 140200~140299	Saphir-dragon brut
 140300~140399	Saphir-dragon brut
 140400~140499	Saphir-dragon brut
-141000~141099	Saphir-dragon taillé
-141100~141199	Saphir-dragon taillé
-141200~141299	Saphir-dragon taillé
-141300~141399	Saphir-dragon taillé
-141400~141499	Saphir-dragon taillé
+141000~141099	Saphir-dragon taillÃ©
+141100~141199	Saphir-dragon taillÃ©
+141200~141299	Saphir-dragon taillÃ©
+141300~141399	Saphir-dragon taillÃ©
+141400~141499	Saphir-dragon taillÃ©
 142000~142099	Saphir-dragon rare
 142100~142199	Saphir-dragon rare
 142200~142299	Saphir-dragon rare
@@ -5685,21 +5685,21 @@ VNUM	LOCALE_NAME
 143200~143299	Saphir-dragon antique
 143300~143399	Saphir-dragon antique
 143400~143499	Saphir-dragon antique
-144000~144099	Saphir-dragon légendaire
-144100~144199	Saphir-dragon légendaire
-144200~144299	Saphir-dragon légendaire
-144300~144399	Saphir-dragon légendaire
-144400~144499	Saphir-dragon légendaire
+144000~144099	Saphir-dragon lÃ©gendaire
+144100~144199	Saphir-dragon lÃ©gendaire
+144200~144299	Saphir-dragon lÃ©gendaire
+144300~144399	Saphir-dragon lÃ©gendaire
+144400~144499	Saphir-dragon lÃ©gendaire
 150000~150099	Grenat-dragon brut
 150100~150199	Grenat-dragon brut
 150200~150299	Grenat-dragon brut
 150300~150399	Grenat-dragon brut
 150400~150499	Grenat-dragon brut
-151000~151099	Grenat-dragon taillé
-151100~151199	Grenat-dragon taillé
-151200~151299	Grenat-dragon taillé
-151300~151399	Grenat-dragon taillé
-151400~151499	Grenat-dragon taillé
+151000~151099	Grenat-dragon taillÃ©
+151100~151199	Grenat-dragon taillÃ©
+151200~151299	Grenat-dragon taillÃ©
+151300~151399	Grenat-dragon taillÃ©
+151400~151499	Grenat-dragon taillÃ©
 152000~152099	Grenat-dragon rare
 152100~152199	Grenat-dragon rare
 152200~152299	Grenat-dragon rare
@@ -5710,21 +5710,21 @@ VNUM	LOCALE_NAME
 153200~153299	Grenat-dragon antique
 153300~153399	Grenat-dragon antique
 153400~153499	Grenat-dragon antique
-154000~154099	Grenat-dragon légendaire
-154100~154199	Grenat-dragon légendaire
-154200~154299	Grenat-dragon légendaire
-154300~154399	Grenat-dragon légendaire
-154400~154499	Grenat-dragon légendaire
+154000~154099	Grenat-dragon lÃ©gendaire
+154100~154199	Grenat-dragon lÃ©gendaire
+154200~154299	Grenat-dragon lÃ©gendaire
+154300~154399	Grenat-dragon lÃ©gendaire
+154400~154499	Grenat-dragon lÃ©gendaire
 160000~160099	Onyx-dragon brut
 160100~160199	Onyx-dragon brut
 160200~160299	Onyx-dragon brut
 160300~160399	Onyx-dragon brut
 160400~160499	Onyx-dragon brut
-161000~161099	Onyx-dragon taillé
-161100~161199	Onyx-dragon taillé
-161200~161299	Onyx-dragon taillé
-161300~161399	Onyx-dragon taillé
-161400~161499	Onyx-dragon taillé
+161000~161099	Onyx-dragon taillÃ©
+161100~161199	Onyx-dragon taillÃ©
+161200~161299	Onyx-dragon taillÃ©
+161300~161399	Onyx-dragon taillÃ©
+161400~161499	Onyx-dragon taillÃ©
 162000~162099	Onyx-dragon rare
 162100~162199	Onyx-dragon rare
 162200~162299	Onyx-dragon rare
@@ -5735,10 +5735,10 @@ VNUM	LOCALE_NAME
 163200~163299	Onyx-dragon antique
 163300~163399	Onyx-dragon antique
 163400~163499	Onyx-dragon antique
-164000~164099	Onyx-dragon légendaire
-164100~164199	Onyx-dragon légendaire
-164200~164299	Onyx-dragon légendaire
-164300~164399	Onyx-dragon légendaire
-164400~164499	Onyx-dragon légendaire
-71051	Objet enchanté
-71052	Bénir l'objet
+164000~164099	Onyx-dragon lÃ©gendaire
+164100~164199	Onyx-dragon lÃ©gendaire
+164200~164299	Onyx-dragon lÃ©gendaire
+164300~164399	Onyx-dragon lÃ©gendaire
+164400~164499	Onyx-dragon lÃ©gendaire
+71051	Objet enchantÃ©
+71052	BÃ©nir l'objet

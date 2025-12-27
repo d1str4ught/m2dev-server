@@ -11,16 +11,16 @@ VNUM	LOCALE_NAME
 17	Sabie+7
 18	Sabie+8
 19	Sabie+9
-20	Sabie lungã+0
-21	Sabie lungã+1
-22	Sabie lungã+2
-23	Sabie lungã+3
-24	Sabie lungã+4
-25	Sabie lungã+5
-26	Sabie lungã+6
-27	Sabie lungã+7
-28	Sabie lungã+8
-29	Sabie lungã+9
+20	Sabie lungÄƒ+0
+21	Sabie lungÄƒ+1
+22	Sabie lungÄƒ+2
+23	Sabie lungÄƒ+3
+24	Sabie lungÄƒ+4
+25	Sabie lungÄƒ+5
+26	Sabie lungÄƒ+6
+27	Sabie lungÄƒ+7
+28	Sabie lungÄƒ+8
+29	Sabie lungÄƒ+9
 30	Iatagan+0
 31	Iatagan+1
 32	Iatagan+2
@@ -41,16 +41,16 @@ VNUM	LOCALE_NAME
 47	Sabie bambus+7
 48	Sabie bambus+8
 49	Sabie bambus+9
-50	Sabie latã+0
-51	Sabie latã+1
-52	Sabie latã+2
-53	Sabie latã+3
-54	Sabie latã+4
-55	Sabie latã+5
-56	Sabie latã+6
-57	Sabie latã+7
-58	Sabie latã+8
-59	Sabie latã+9
+50	Sabie latÄƒ+0
+51	Sabie latÄƒ+1
+52	Sabie latÄƒ+2
+53	Sabie latÄƒ+3
+54	Sabie latÄƒ+4
+55	Sabie latÄƒ+5
+56	Sabie latÄƒ+6
+57	Sabie latÄƒ+7
+58	Sabie latÄƒ+8
+59	Sabie latÄƒ+9
 60	Sabie de argint+0
 61	Sabie de argint+1
 62	Sabie de argint+2
@@ -91,16 +91,16 @@ VNUM	LOCALE_NAME
 97	Sabie barbar+7
 98	Sabie barbar+8
 99	Sabie barbar+9
-100	Sabie sângeroasã+0
-101	Sabie sângeroasã+1
-102	Sabie sângeroasã+2
-103	Sabie sângeroasã+3
-104	Sabie sângeroasã+4
-105	Sabie sângeroasã+5
-106	Sabie sângeroasã+6
-107	Sabie sângeroasã+7
-108	Sabie sângeroasã+8
-109	Sabie sângeroasã+9
+100	Sabie sÃ¢ngeroasÄƒ+0
+101	Sabie sÃ¢ngeroasÄƒ+1
+102	Sabie sÃ¢ngeroasÄƒ+2
+103	Sabie sÃ¢ngeroasÄƒ+3
+104	Sabie sÃ¢ngeroasÄƒ+4
+105	Sabie sÃ¢ngeroasÄƒ+5
+106	Sabie sÃ¢ngeroasÄƒ+6
+107	Sabie sÃ¢ngeroasÄƒ+7
+108	Sabie sÃ¢ngeroasÄƒ+8
+109	Sabie sÃ¢ngeroasÄƒ+9
 110	Sabie mare+0
 111	Sabie mare+1
 112	Sabie mare+2
@@ -111,36 +111,36 @@ VNUM	LOCALE_NAME
 117	Sabie mare+7
 118	Sabie mare+8
 119	Sabie mare+9
-120	Sabie vrãjitor+0
-121	Sabie vrãjitor+1
-122	Sabie vrãjitor+2
-123	Sabie vrãjitor+3
-124	Sabie vrãjitor+4
-125	Sabie vrãjitor+5
-126	Sabie vrãjitor+6
-127	Sabie vrãjitor+7
-128	Sabie vrãjitor+8
-129	Sabie vrãjitor+9
-130	Sabie semilunã+0
-131	Sabie semilunã+1
-132	Sabie semilunã+2
-133	Sabie semilunã+3
-134	Sabie semilunã+4
-135	Sabie semilunã+5
-136	Sabie semilunã+6
-137	Sabie semilunã+7
-138	Sabie semilunã+8
-139	Sabie semilunã+9
-140	Sabie de bãtãlie+0
-141	Sabie de bãtãlie+1
-142	Sabie de bãtãlie+2
-143	Sabie de bãtãlie+3
-144	Sabie de bãtãlie+4
-145	Sabie de bãtãlie+5
-146	Sabie de bãtãlie+6
-147	Sabie de bãtãlie+7
-148	Sabie de bãtãlie+8
-149	Sabie de bãtãlie+9
+120	Sabie vrÄƒjitor+0
+121	Sabie vrÄƒjitor+1
+122	Sabie vrÄƒjitor+2
+123	Sabie vrÄƒjitor+3
+124	Sabie vrÄƒjitor+4
+125	Sabie vrÄƒjitor+5
+126	Sabie vrÄƒjitor+6
+127	Sabie vrÄƒjitor+7
+128	Sabie vrÄƒjitor+8
+129	Sabie vrÄƒjitor+9
+130	Sabie semilunÄƒ+0
+131	Sabie semilunÄƒ+1
+132	Sabie semilunÄƒ+2
+133	Sabie semilunÄƒ+3
+134	Sabie semilunÄƒ+4
+135	Sabie semilunÄƒ+5
+136	Sabie semilunÄƒ+6
+137	Sabie semilunÄƒ+7
+138	Sabie semilunÄƒ+8
+139	Sabie semilunÄƒ+9
+140	Sabie de bÄƒtÄƒlie+0
+141	Sabie de bÄƒtÄƒlie+1
+142	Sabie de bÄƒtÄƒlie+2
+143	Sabie de bÄƒtÄƒlie+3
+144	Sabie de bÄƒtÄƒlie+4
+145	Sabie de bÄƒtÄƒlie+5
+146	Sabie de bÄƒtÄƒlie+6
+147	Sabie de bÄƒtÄƒlie+7
+148	Sabie de bÄƒtÄƒlie+8
+149	Sabie de bÄƒtÄƒlie+9
 150	Lama Dintele Stafiei+0
 151	Lama Dintele Stafiei+1
 152	Lama Dintele Stafiei+2
@@ -151,36 +151,36 @@ VNUM	LOCALE_NAME
 157	Lama Dintele Stafiei+7
 158	Lama Dintele Stafiei+8
 159	Lama Dintele Stafiei+9
-160	Sabie nimfã+0
-161	Sabie nimfã+1
-162	Sabie nimfã+2
-163	Sabie nimfã+3
-164	Sabie nimfã+4
-165	Sabie nimfã+5
-166	Sabie nimfã+6
-167	Sabie nimfã+7
-168	Sabie nimfã+8
-169	Sabie nimfã+9
-170	Spadã+0
-171	Spadã+1
-172	Spadã+2
-173	Spadã+3
-174	Spadã+4
-175	Spadã+5
-176	Spadã+6
-177	Spadã+7
-178	Spadã+8
-179	Spadã+9
-180	Sabie otrãvitã+0
-181	Sabie otrãvitã+1
-182	Sabie otrãvitã+2
-183	Sabie otrãvitã+3
-184	Sabie otrãvitã+4
-185	Sabie otrãvitã+5
-186	Sabie otrãvitã+6
-187	Sabie otrãvitã+7
-188	Sabie otrãvitã+8
-189	Sabie otrãvitã+9
+160	Sabie nimfÄƒ+0
+161	Sabie nimfÄƒ+1
+162	Sabie nimfÄƒ+2
+163	Sabie nimfÄƒ+3
+164	Sabie nimfÄƒ+4
+165	Sabie nimfÄƒ+5
+166	Sabie nimfÄƒ+6
+167	Sabie nimfÄƒ+7
+168	Sabie nimfÄƒ+8
+169	Sabie nimfÄƒ+9
+170	SpadÄƒ+0
+171	SpadÄƒ+1
+172	SpadÄƒ+2
+173	SpadÄƒ+3
+174	SpadÄƒ+4
+175	SpadÄƒ+5
+176	SpadÄƒ+6
+177	SpadÄƒ+7
+178	SpadÄƒ+8
+179	SpadÄƒ+9
+180	Sabie otrÄƒvitÄƒ+0
+181	Sabie otrÄƒvitÄƒ+1
+182	Sabie otrÄƒvitÄƒ+2
+183	Sabie otrÄƒvitÄƒ+3
+184	Sabie otrÄƒvitÄƒ+4
+185	Sabie otrÄƒvitÄƒ+5
+186	Sabie otrÄƒvitÄƒ+6
+187	Sabie otrÄƒvitÄƒ+7
+188	Sabie otrÄƒvitÄƒ+8
+189	Sabie otrÄƒvitÄƒ+9
 190	Sabie leu+0
 191	Sabie leu+1
 192	Sabie leu+2
@@ -191,16 +191,16 @@ VNUM	LOCALE_NAME
 197	Sabie leu+7
 198	Sabie leu+8
 199	Sabie leu+9
-200	Lamã+0
-201	Lamã+1
-202	Lamã+2
-203	Lamã+3
-204	Lamã+4
-205	Lamã+5
-206	Lamã+6
-207	Lamã+7
-208	Lamã+8
-209	Lamã+9
+200	LamÄƒ+0
+201	LamÄƒ+1
+202	LamÄƒ+2
+203	LamÄƒ+3
+204	LamÄƒ+4
+205	LamÄƒ+5
+206	LamÄƒ+6
+207	LamÄƒ+7
+208	LamÄƒ+8
+209	LamÄƒ+9
 210	Lama Mortala+0
 211	Lama Mortala+1
 212	Lama Mortala+2
@@ -211,16 +211,16 @@ VNUM	LOCALE_NAME
 217	Lama Mortala+7
 218	Lama Mortala+8
 219	Lama Mortala+9
-220	Sabie lunã+0
-221	Sabie lunã+1
-222	Sabie lunã+2
-223	Sabie lunã+3
-224	Sabie lunã+4
-225	Sabie lunã+5
-226	Sabie lunã+6
-227	Sabie lunã+7
-228	Sabie lunã+8
-229	Sabie lunã+9
+220	Sabie lunÄƒ+0
+221	Sabie lunÄƒ+1
+222	Sabie lunÄƒ+2
+223	Sabie lunÄƒ+3
+224	Sabie lunÄƒ+4
+225	Sabie lunÄƒ+5
+226	Sabie lunÄƒ+6
+227	Sabie lunÄƒ+7
+228	Sabie lunÄƒ+8
+229	Sabie lunÄƒ+9
 230	Sabie cer+0
 231	Sabie cer+1
 232	Sabie cer+2
@@ -271,26 +271,26 @@ VNUM	LOCALE_NAME
 277	Sabie Triton+7
 278	Sabie Triton+8
 279	Sabie Triton+9
-280	Sabie sfântã+0
-281	Sabie sfântã+1
-282	Sabie sfântã+2
-283	Sabie sfântã+3
-284	Sabie sfântã+4
-285	Sabie sfântã+5
-286	Sabie sfântã+6
-287	Sabie sfântã+7
-288	Sabie sfântã+8
-289	Sabie sfântã+9
-290	Sabie lunã plinã+0
-291	Sabie lunã plinã+1
-292	Sabie lunã plinã+2
-293	Sabie lunã plinã+3
-294	Sabie lunã plinã+4
-295	Sabie lunã plinã+5
-296	Sabie lunã plinã+6
-297	Sabie lunã plinã+7
-298	Sabie lunã plinã+8
-299	Sabie lunã plinã+9
+280	Sabie sfÃ¢ntÄƒ+0
+281	Sabie sfÃ¢ntÄƒ+1
+282	Sabie sfÃ¢ntÄƒ+2
+283	Sabie sfÃ¢ntÄƒ+3
+284	Sabie sfÃ¢ntÄƒ+4
+285	Sabie sfÃ¢ntÄƒ+5
+286	Sabie sfÃ¢ntÄƒ+6
+287	Sabie sfÃ¢ntÄƒ+7
+288	Sabie sfÃ¢ntÄƒ+8
+289	Sabie sfÃ¢ntÄƒ+9
+290	Sabie lunÄƒ plinÄƒ+0
+291	Sabie lunÄƒ plinÄƒ+1
+292	Sabie lunÄƒ plinÄƒ+2
+293	Sabie lunÄƒ plinÄƒ+3
+294	Sabie lunÄƒ plinÄƒ+4
+295	Sabie lunÄƒ plinÄƒ+5
+296	Sabie lunÄƒ plinÄƒ+6
+297	Sabie lunÄƒ plinÄƒ+7
+298	Sabie lunÄƒ plinÄƒ+8
+299	Sabie lunÄƒ plinÄƒ+9
 460	Sabie Inscriptionata +0
 461	Sabie Inscriptionata +1
 462	Sabie Inscriptionata +2
@@ -341,36 +341,36 @@ VNUM	LOCALE_NAME
 1027	Pumnal foarfece+7
 1028	Pumnal foarfece+8
 1029	Pumnal foarfece+9
-1030	Cuşit norocos+0
-1031	Cuşit norocos+1
-1032	Cuşit norocos+2
-1033	Cuşit norocos+3
-1034	Cuşit norocos+4
-1035	Cuşit norocos+5
-1036	Cuşit norocos+6
-1037	Cuşit norocos+7
-1038	Cuşit norocos+8
-1039	Cuşit norocos+9
-1040	Cuşit muºcãtura pisic.+0
-1041	Cuşit muºcãtura pisic.+1
-1042	Cuşit muºcãtura pisic.+2
-1043	Cuşit muºcãtura pisic.+3
-1044	Cuşit muºcãtura pisic.+4
-1045	Cuşit muºcãtura pisic.+5
-1046	Cuşit muºcãtura pisic.+6
-1047	Cuşit muºcãtura pisic.+7
-1048	Cuşit muºcãtura pisic.+8
-1049	Cuşit muºcãtura pisic.+9
-1050	Pumnal mascã de diavol+0
-1051	Pumnal mascã de diavol+1
-1052	Pumnal mascã de diavol+2
-1053	Pumnal mascã de diavol+3
-1054	Pumnal mascã de diavol+4
-1055	Pumnal mascã de diavol+5
-1056	Pumnal mascã de diavol+6
-1057	Pumnal mascã de diavol+7
-1058	Pumnal mascã de diavol+8
-1059	Pumnal mascã de diavol+9
+1030	CuÅ£it norocos+0
+1031	CuÅ£it norocos+1
+1032	CuÅ£it norocos+2
+1033	CuÅ£it norocos+3
+1034	CuÅ£it norocos+4
+1035	CuÅ£it norocos+5
+1036	CuÅ£it norocos+6
+1037	CuÅ£it norocos+7
+1038	CuÅ£it norocos+8
+1039	CuÅ£it norocos+9
+1040	CuÅ£it muÅŸcÄƒtura pisic.+0
+1041	CuÅ£it muÅŸcÄƒtura pisic.+1
+1042	CuÅ£it muÅŸcÄƒtura pisic.+2
+1043	CuÅ£it muÅŸcÄƒtura pisic.+3
+1044	CuÅ£it muÅŸcÄƒtura pisic.+4
+1045	CuÅ£it muÅŸcÄƒtura pisic.+5
+1046	CuÅ£it muÅŸcÄƒtura pisic.+6
+1047	CuÅ£it muÅŸcÄƒtura pisic.+7
+1048	CuÅ£it muÅŸcÄƒtura pisic.+8
+1049	CuÅ£it muÅŸcÄƒtura pisic.+9
+1050	Pumnal mascÄƒ de diavol+0
+1051	Pumnal mascÄƒ de diavol+1
+1052	Pumnal mascÄƒ de diavol+2
+1053	Pumnal mascÄƒ de diavol+3
+1054	Pumnal mascÄƒ de diavol+4
+1055	Pumnal mascÄƒ de diavol+5
+1056	Pumnal mascÄƒ de diavol+6
+1057	Pumnal mascÄƒ de diavol+7
+1058	Pumnal mascÄƒ de diavol+8
+1059	Pumnal mascÄƒ de diavol+9
 1060	Pumnal pumn de diavol+0
 1061	Pumnal pumn de diavol+1
 1062	Pumnal pumn de diavol+2
@@ -381,26 +381,26 @@ VNUM	LOCALE_NAME
 1067	Pumnal pumn de diavol+7
 1068	Pumnal pumn de diavol+8
 1069	Pumnal pumn de diavol+9
-1070	Pumnal sângeros+0
-1071	Pumnal sângeros+1
-1072	Pumnal sângeros+2
-1073	Pumnal sângeros+3
-1074	Pumnal sângeros+4
-1075	Pumnal sângeros+5
-1076	Pumnal sângeros+6
-1077	Pumnal sângeros+7
-1078	Pumnal sângeros+8
-1079	Pumnal sângeros+9
-1080	Cuşit de coaste+0
-1081	Cuşit de coaste+1
-1082	Cuşit de coaste+2
-1083	Cuşit de coaste+3
-1084	Cuşit de coaste+4
-1085	Cuşit de coaste+5
-1086	Cuşit de coaste+6
-1087	Cuşit de coaste+7
-1088	Cuşit de coaste+8
-1089	Cuşit de coaste+9
+1070	Pumnal sÃ¢ngeros+0
+1071	Pumnal sÃ¢ngeros+1
+1072	Pumnal sÃ¢ngeros+2
+1073	Pumnal sÃ¢ngeros+3
+1074	Pumnal sÃ¢ngeros+4
+1075	Pumnal sÃ¢ngeros+5
+1076	Pumnal sÃ¢ngeros+6
+1077	Pumnal sÃ¢ngeros+7
+1078	Pumnal sÃ¢ngeros+8
+1079	Pumnal sÃ¢ngeros+9
+1080	CuÅ£it de coaste+0
+1081	CuÅ£it de coaste+1
+1082	CuÅ£it de coaste+2
+1083	CuÅ£it de coaste+3
+1084	CuÅ£it de coaste+4
+1085	CuÅ£it de coaste+5
+1086	CuÅ£it de coaste+6
+1087	CuÅ£it de coaste+7
+1088	CuÅ£it de coaste+8
+1089	CuÅ£it de coaste+9
 1090	Chakram+0
 1091	Chakram+1
 1092	Chakram+2
@@ -421,76 +421,76 @@ VNUM	LOCALE_NAME
 1107	Cutit Dragon+7
 1108	Cutit Dragon+8
 1109	Cutit Dragon+9
-1110	Cuşit fulger+0
-1111	Cuşit fulger+1
-1112	Cuşit fulger+2
-1113	Cuşit fulger+3
-1114	Cuşit fulger+4
-1115	Cuşit fulger+5
-1116	Cuşit fulger+6
-1117	Cuşit fulger+7
-1118	Cuşit fulger+8
-1119	Cuşit fulger+9
-1120	Cuşit siamez+0
-1121	Cuşit siamez+1
-1122	Cuşit siamez+2
-1123	Cuşit siamez+3
-1124	Cuşit siamez+4
-1125	Cuşit siamez+5
-1126	Cuşit siamez+6
-1127	Cuşit siamez+7
-1128	Cuşit siamez+8
-1129	Cuşit siamez+9
-1130	Chakram aripã  diavol+0
-1131	Chakram aripã diavol+1
-1132	Chakram aripã diavol+2
-1133	Chakram aripã diavol+3
-1134	Chakram aripã diavol+4
-1135	Chakram aripã diavol+5
-1136	Chakram aripã diavol+6
-1137	Chakram aripã diavol+7
-1138	Chakram aripã diavol+8
-1139	Chakram aripã diavol+9
-1140	Cuşit ferãstrãu+0
-1141	Cuşit ferãstrãu+1
-1142	Cuşit ferãstrãu+2
-1143	Cuşit ferãstrãu+3
-1144	Cuşit ferãstrãu+4
-1145	Cuşit ferãstrãu+5
-1146	Cuşit ferãstrãu+6
-1147	Cuşit ferãstrãu+7
-1148	Cuşit ferãstrãu+8
-1149	Cuşit ferãstrãu+9
-1150	Cuşit razã de soare+0
-1151	Cuşit razã de soare+1
-1152	Cuşit razã de soare+2
-1153	Cuşit razã de soare+3
-1154	Cuşit razã de soare+4
-1155	Cuşit razã de soare+5
-1156	Cuşit razã de soare+6
-1157	Cuşit razã de soare+7
-1158	Cuşit razã de soare+8
-1159	Cuşit razã de soare+9
-1160	Cuşit pârâu+0
-1161	Cuşit pârâu+1
-1162	Cuşit pârâu+2
-1163	Cuşit pârâu+3
-1164	Cuşit pârâu+4
-1165	Cuşit pârâu+5
-1166	Cuşit pârâu+6
-1167	Cuşit pârâu+7
-1168	Cuşit pârâu+8
-1169	Cuşit pârâu+9
-1170	Pumnal foaie neagrã+0
-1171	Pumnal foaie neagrã+1
-1172	Pumnal foaie neagrã+2
-1173	Pumnal foaie neagrã+3
-1174	Pumnal foaie neagrã+4
-1175	Pumnal foaie neagrã+5
-1176	Pumnal foaie neagrã+6
-1177	Pumnal foaie neagrã+7
-1178	Pumnal foaie neagrã+8
-1179	Pumnal foaie neagrã+9
+1110	CuÅ£it fulger+0
+1111	CuÅ£it fulger+1
+1112	CuÅ£it fulger+2
+1113	CuÅ£it fulger+3
+1114	CuÅ£it fulger+4
+1115	CuÅ£it fulger+5
+1116	CuÅ£it fulger+6
+1117	CuÅ£it fulger+7
+1118	CuÅ£it fulger+8
+1119	CuÅ£it fulger+9
+1120	CuÅ£it siamez+0
+1121	CuÅ£it siamez+1
+1122	CuÅ£it siamez+2
+1123	CuÅ£it siamez+3
+1124	CuÅ£it siamez+4
+1125	CuÅ£it siamez+5
+1126	CuÅ£it siamez+6
+1127	CuÅ£it siamez+7
+1128	CuÅ£it siamez+8
+1129	CuÅ£it siamez+9
+1130	Chakram aripÄƒ  diavol+0
+1131	Chakram aripÄƒ diavol+1
+1132	Chakram aripÄƒ diavol+2
+1133	Chakram aripÄƒ diavol+3
+1134	Chakram aripÄƒ diavol+4
+1135	Chakram aripÄƒ diavol+5
+1136	Chakram aripÄƒ diavol+6
+1137	Chakram aripÄƒ diavol+7
+1138	Chakram aripÄƒ diavol+8
+1139	Chakram aripÄƒ diavol+9
+1140	CuÅ£it ferÄƒstrÄƒu+0
+1141	CuÅ£it ferÄƒstrÄƒu+1
+1142	CuÅ£it ferÄƒstrÄƒu+2
+1143	CuÅ£it ferÄƒstrÄƒu+3
+1144	CuÅ£it ferÄƒstrÄƒu+4
+1145	CuÅ£it ferÄƒstrÄƒu+5
+1146	CuÅ£it ferÄƒstrÄƒu+6
+1147	CuÅ£it ferÄƒstrÄƒu+7
+1148	CuÅ£it ferÄƒstrÄƒu+8
+1149	CuÅ£it ferÄƒstrÄƒu+9
+1150	CuÅ£it razÄƒ de soare+0
+1151	CuÅ£it razÄƒ de soare+1
+1152	CuÅ£it razÄƒ de soare+2
+1153	CuÅ£it razÄƒ de soare+3
+1154	CuÅ£it razÄƒ de soare+4
+1155	CuÅ£it razÄƒ de soare+5
+1156	CuÅ£it razÄƒ de soare+6
+1157	CuÅ£it razÄƒ de soare+7
+1158	CuÅ£it razÄƒ de soare+8
+1159	CuÅ£it razÄƒ de soare+9
+1160	CuÅ£it pÃ¢rÃ¢u+0
+1161	CuÅ£it pÃ¢rÃ¢u+1
+1162	CuÅ£it pÃ¢rÃ¢u+2
+1163	CuÅ£it pÃ¢rÃ¢u+3
+1164	CuÅ£it pÃ¢rÃ¢u+4
+1165	CuÅ£it pÃ¢rÃ¢u+5
+1166	CuÅ£it pÃ¢rÃ¢u+6
+1167	CuÅ£it pÃ¢rÃ¢u+7
+1168	CuÅ£it pÃ¢rÃ¢u+8
+1169	CuÅ£it pÃ¢rÃ¢u+9
+1170	Pumnal foaie neagrÄƒ+0
+1171	Pumnal foaie neagrÄƒ+1
+1172	Pumnal foaie neagrÄƒ+2
+1173	Pumnal foaie neagrÄƒ+3
+1174	Pumnal foaie neagrÄƒ+4
+1175	Pumnal foaie neagrÄƒ+5
+1176	Pumnal foaie neagrÄƒ+6
+1177	Pumnal foaie neagrÄƒ+7
+1178	Pumnal foaie neagrÄƒ+8
+1179	Pumnal foaie neagrÄƒ+9
 1340	Lama 5 Elemente +0
 1341	Lama 5 Elemente +1
 1342	Lama 5 Elemente +2
@@ -531,36 +531,36 @@ VNUM	LOCALE_NAME
 2027	Arc compozit+7
 2028	Arc compozit+8
 2029	Arc compozit+9
-2030	Arc de rãzboi+0
-2031	Arc de rãzboi+1
-2032	Arc de rãzboi+2
-2033	Arc de rãzboi+3
-2034	Arc de rãzboi+4
-2035	Arc de rãzboi+5
-2036	Arc de rãzboi+6
-2037	Arc de rãzboi+7
-2038	Arc de rãzboi+8
-2039	Arc de rãzboi+9
-2040	Arc lung de cãlãreş+0
-2041	Arc lung de cãlãreş+1
-2042	Arc lung de cãlãreş+2
-2043	Arc lung de cãlãreş+3
-2044	Arc lung de cãlãreş+4
-2045	Arc lung de cãlãreş+5
-2046	Arc lung de cãlãreş+6
-2047	Arc lung de cãlãreş+7
-2048	Arc lung de cãlãreş+8
-2049	Arc lung de cãlãreş+9
-2050	Arc cãlãreş de rãzboi+0
-2051	Arc cãlãreş de rãzboi+1
-2052	Arc cãlãreş de rãzboi+2
-2053	Arc cãlãreş de rãzboi+3
-2054	Arc cãlãreş de rãzboi+4
-2055	Arc cãlãreş de rãzboi+5
-2056	Arc cãlãreş de rãzboi+6
-2057	Arc cãlãreş de rãzboi+7
-2058	Arc cãlãreş de rãzboi+8
-2059	Arc cãlãreş de rãzboi+9
+2030	Arc de rÄƒzboi+0
+2031	Arc de rÄƒzboi+1
+2032	Arc de rÄƒzboi+2
+2033	Arc de rÄƒzboi+3
+2034	Arc de rÄƒzboi+4
+2035	Arc de rÄƒzboi+5
+2036	Arc de rÄƒzboi+6
+2037	Arc de rÄƒzboi+7
+2038	Arc de rÄƒzboi+8
+2039	Arc de rÄƒzboi+9
+2040	Arc lung de cÄƒlÄƒreÅ£+0
+2041	Arc lung de cÄƒlÄƒreÅ£+1
+2042	Arc lung de cÄƒlÄƒreÅ£+2
+2043	Arc lung de cÄƒlÄƒreÅ£+3
+2044	Arc lung de cÄƒlÄƒreÅ£+4
+2045	Arc lung de cÄƒlÄƒreÅ£+5
+2046	Arc lung de cÄƒlÄƒreÅ£+6
+2047	Arc lung de cÄƒlÄƒreÅ£+7
+2048	Arc lung de cÄƒlÄƒreÅ£+8
+2049	Arc lung de cÄƒlÄƒreÅ£+9
+2050	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+0
+2051	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+1
+2052	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+2
+2053	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+3
+2054	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+4
+2055	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+5
+2056	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+6
+2057	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+7
+2058	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+8
+2059	Arc cÄƒlÄƒreÅ£ de rÄƒzboi+9
 2060	Arc ornament cupru+0
 2061	Arc ornament cupru+1
 2062	Arc ornament cupru+2
@@ -581,16 +581,16 @@ VNUM	LOCALE_NAME
 2077	Arc distrugere+7
 2078	Arc distrugere+8
 2079	Arc distrugere+9
-2080	Arc ochi roºu+0
-2081	Arc ochi roºu+1
-2082	Arc ochi roºu+2
-2083	Arc ochi roºu+3
-2084	Arc ochi roºu+4
-2085	Arc ochi roºu+5
-2086	Arc ochi roºu+6
-2087	Arc ochi roºu+7
-2088	Arc ochi roºu+8
-2089	Arc ochi roºu+9
+2080	Arc ochi roÅŸu+0
+2081	Arc ochi roÅŸu+1
+2082	Arc ochi roÅŸu+2
+2083	Arc ochi roÅŸu+3
+2084	Arc ochi roÅŸu+4
+2085	Arc ochi roÅŸu+5
+2086	Arc ochi roÅŸu+6
+2087	Arc ochi roÅŸu+7
+2088	Arc ochi roÅŸu+8
+2089	Arc ochi roÅŸu+9
 2090	Arc Spin+0
 2091	Arc Spin+1
 2092	Arc Spin+2
@@ -621,26 +621,26 @@ VNUM	LOCALE_NAME
 2117	Arc unicorn+7
 2118	Arc unicorn+8
 2119	Arc unicorn+9
-2120	Arc aripã uriaºã+0
-2121	Arc aripã uriaºã+1
-2122	Arc aripã uriaºã+2
-2123	Arc aripã uriaºã+3
-2124	Arc aripã uriaºã+4
-2125	Arc aripã uriaºã+5
-2126	Arc aripã uriaºã+6
-2127	Arc aripã uriaºã+7
-2128	Arc aripã uriaºã+8
-2129	Arc aripã uriaºã+9
-2130	Arc caisã+0
-2131	Arc caisã+1
-2132	Arc caisã+2
-2133	Arc caisã+3
-2134	Arc caisã+4
-2135	Arc caisã+5
-2136	Arc caisã+6
-2137	Arc caisã+7
-2138	Arc caisã+8
-2139	Arc caisã+9
+2120	Arc aripÄƒ uriaÅŸÄƒ+0
+2121	Arc aripÄƒ uriaÅŸÄƒ+1
+2122	Arc aripÄƒ uriaÅŸÄƒ+2
+2123	Arc aripÄƒ uriaÅŸÄƒ+3
+2124	Arc aripÄƒ uriaÅŸÄƒ+4
+2125	Arc aripÄƒ uriaÅŸÄƒ+5
+2126	Arc aripÄƒ uriaÅŸÄƒ+6
+2127	Arc aripÄƒ uriaÅŸÄƒ+7
+2128	Arc aripÄƒ uriaÅŸÄƒ+8
+2129	Arc aripÄƒ uriaÅŸÄƒ+9
+2130	Arc caisÄƒ+0
+2131	Arc caisÄƒ+1
+2132	Arc caisÄƒ+2
+2133	Arc caisÄƒ+3
+2134	Arc caisÄƒ+4
+2135	Arc caisÄƒ+5
+2136	Arc caisÄƒ+6
+2137	Arc caisÄƒ+7
+2138	Arc caisÄƒ+8
+2139	Arc caisÄƒ+9
 2140	Arc Dragon-galben+0
 2141	Arc Dragon-galben+1
 2142	Arc Dragon-galben+2
@@ -671,16 +671,16 @@ VNUM	LOCALE_NAME
 2167	Arcul marelui diavol+7
 2168	Arcul marelui diavol+8
 2169	Arcul marelui diavol+9
-2170	Arcul oşelit al ciorii+0
-2171	Arcul oşelit al ciorii+1
-2172	Arcul oşelit al ciorii+2
-2173	Arcul oşelit al ciorii+3
-2174	Arcul oşelit al ciorii+4
-2175	Arcul oşelit al ciorii+5
-2176	Arcul oşelit al ciorii+6
-2177	Arcul oşelit al ciorii+7
-2178	Arcul oşelit al ciorii+8
-2179	Arcul oşelit al ciorii+9
+2170	Arcul oÅ£elit al ciorii+0
+2171	Arcul oÅ£elit al ciorii+1
+2172	Arcul oÅ£elit al ciorii+2
+2173	Arcul oÅ£elit al ciorii+3
+2174	Arcul oÅ£elit al ciorii+4
+2175	Arcul oÅ£elit al ciorii+5
+2176	Arcul oÅ£elit al ciorii+6
+2177	Arcul oÅ£elit al ciorii+7
+2178	Arcul oÅ£elit al ciorii+8
+2179	Arcul oÅ£elit al ciorii+9
 2180	Arc Dragon-albastru+0
 2181	Arc Dragon-albastru+1
 2182	Arc Dragon-albastru+2
@@ -721,16 +721,16 @@ VNUM	LOCALE_NAME
 3007	Glefe+7
 3008	Glefe+8
 3009	Glefe+9
-3010	Sulişã+0
-3011	Sulişã+1
-3012	Sulişã+2
-3013	Sulişã+3
-3014	Sulişã+4
-3015	Sulişã+5
-3016	Sulişã+6
-3017	Sulişã+7
-3018	Sulişã+8
-3019	Sulişã+9
+3010	SuliÅ£Äƒ+0
+3011	SuliÅ£Äƒ+1
+3012	SuliÅ£Äƒ+2
+3013	SuliÅ£Äƒ+3
+3014	SuliÅ£Äƒ+4
+3015	SuliÅ£Äƒ+5
+3016	SuliÅ£Äƒ+6
+3017	SuliÅ£Äƒ+7
+3018	SuliÅ£Äƒ+8
+3019	SuliÅ£Äƒ+9
 3020	Lama Ghilotina+0
 3021	Lama Ghilotina+1
 3022	Lama Ghilotina+2
@@ -741,16 +741,16 @@ VNUM	LOCALE_NAME
 3027	Lama Ghilotina+7
 3028	Lama Ghilotina+8
 3029	Lama Ghilotina+9
-3030	Sulişã pãianjen+0
-3031	Sulişã pãianjen+1
-3032	Sulişã pãianjen+2
-3033	Sulişã pãianjen+3
-3034	Sulişã pãianjen+4
-3035	Sulişã pãianjen+5
-3036	Sulişã pãianjen+6
-3037	Sulişã pãianjen+7
-3038	Sulişã pãianjen+8
-3039	Sulişã pãianjen+9
+3030	SuliÅ£Äƒ pÄƒianjen+0
+3031	SuliÅ£Äƒ pÄƒianjen+1
+3032	SuliÅ£Äƒ pÄƒianjen+2
+3033	SuliÅ£Äƒ pÄƒianjen+3
+3034	SuliÅ£Äƒ pÄƒianjen+4
+3035	SuliÅ£Äƒ pÄƒianjen+5
+3036	SuliÅ£Äƒ pÄƒianjen+6
+3037	SuliÅ£Äƒ pÄƒianjen+7
+3038	SuliÅ£Äƒ pÄƒianjen+8
+3039	SuliÅ£Äƒ pÄƒianjen+9
 3040	Guisarme+0
 3041	Guisarme+1
 3042	Guisarme+2
@@ -761,56 +761,56 @@ VNUM	LOCALE_NAME
 3047	Guisarme+7
 3048	Guisarme+8
 3049	Guisarme+9
-3050	Coasã de rãzboi+0
-3051	Coasã de rãzboi+1
-3052	Coasã de rãzboi+2
-3053	Coasã de rãzboi+3
-3054	Coasã de rãzboi+4
-3055	Coasã de rãzboi+5
-3056	Coasã de rãzboi+6
-3057	Coasã de rãzboi+7
-3058	Coasã de rãzboi+8
-3059	Coasã de rãzboi+9
-3060	Furcã de luptã+0
-3061	Furcã de luptã+1
-3062	Furcã de luptã+2
-3063	Furcã de luptã+3
-3064	Furcã de luptã+4
-3065	Furcã de luptã+5
-3066	Furcã de luptã+6
-3067	Furcã de luptã+7
-3068	Furcã de luptã+8
-3069	Furcã de luptã+9
-3070	Halebardã+0
-3071	Halebardã+1
-3072	Halebardã+2
-3073	Halebardã+3
-3074	Halebardã+4
-3075	Halebardã+5
-3076	Halebardã+6
-3077	Halebardã+7
-3078	Halebardã+8
-3079	Halebardã+9
-3080	Secure uriaºã+0
-3081	Secure uriaºã+1
-3082	Secure uriaºã+2
-3083	Secure uriaºã+3
-3084	Secure uriaºã+4
-3085	Secure uriaºã+5
-3086	Secure uriaºã+6
-3087	Secure uriaºã+7
-3088	Secure uriaºã+8
-3089	Secure uriaºã+9
-3090	Sulişã gheşar+0
-3091	Sulişã gheşar+1
-3092	Sulişã gheşar+2
-3093	Sulişã gheşar+3
-3094	Sulişã gheşar+4
-3095	Sulişã gheşar+5
-3096	Sulişã gheşar+6
-3097	Sulişã gheşar+7
-3098	Sulişã gheşar+8
-3099	Sulişã gheşar+9
+3050	CoasÄƒ de rÄƒzboi+0
+3051	CoasÄƒ de rÄƒzboi+1
+3052	CoasÄƒ de rÄƒzboi+2
+3053	CoasÄƒ de rÄƒzboi+3
+3054	CoasÄƒ de rÄƒzboi+4
+3055	CoasÄƒ de rÄƒzboi+5
+3056	CoasÄƒ de rÄƒzboi+6
+3057	CoasÄƒ de rÄƒzboi+7
+3058	CoasÄƒ de rÄƒzboi+8
+3059	CoasÄƒ de rÄƒzboi+9
+3060	FurcÄƒ de luptÄƒ+0
+3061	FurcÄƒ de luptÄƒ+1
+3062	FurcÄƒ de luptÄƒ+2
+3063	FurcÄƒ de luptÄƒ+3
+3064	FurcÄƒ de luptÄƒ+4
+3065	FurcÄƒ de luptÄƒ+5
+3066	FurcÄƒ de luptÄƒ+6
+3067	FurcÄƒ de luptÄƒ+7
+3068	FurcÄƒ de luptÄƒ+8
+3069	FurcÄƒ de luptÄƒ+9
+3070	HalebardÄƒ+0
+3071	HalebardÄƒ+1
+3072	HalebardÄƒ+2
+3073	HalebardÄƒ+3
+3074	HalebardÄƒ+4
+3075	HalebardÄƒ+5
+3076	HalebardÄƒ+6
+3077	HalebardÄƒ+7
+3078	HalebardÄƒ+8
+3079	HalebardÄƒ+9
+3080	Secure uriaÅŸÄƒ+0
+3081	Secure uriaÅŸÄƒ+1
+3082	Secure uriaÅŸÄƒ+2
+3083	Secure uriaÅŸÄƒ+3
+3084	Secure uriaÅŸÄƒ+4
+3085	Secure uriaÅŸÄƒ+5
+3086	Secure uriaÅŸÄƒ+6
+3087	Secure uriaÅŸÄƒ+7
+3088	Secure uriaÅŸÄƒ+8
+3089	Secure uriaÅŸÄƒ+9
+3090	SuliÅ£Äƒ gheÅ£ar+0
+3091	SuliÅ£Äƒ gheÅ£ar+1
+3092	SuliÅ£Äƒ gheÅ£ar+2
+3093	SuliÅ£Äƒ gheÅ£ar+3
+3094	SuliÅ£Äƒ gheÅ£ar+4
+3095	SuliÅ£Äƒ gheÅ£ar+5
+3096	SuliÅ£Äƒ gheÅ£ar+6
+3097	SuliÅ£Äƒ gheÅ£ar+7
+3098	SuliÅ£Äƒ gheÅ£ar+8
+3099	SuliÅ£Äƒ gheÅ£ar+9
 3100	Sabie 12 stafii+0
 3101	Sabie 12 stafii+1
 3102	Sabie 12 stafii+2
@@ -831,16 +831,16 @@ VNUM	LOCALE_NAME
 3117	Lama Eliberare+7
 3118	Lama Eliberare+8
 3119	Lama Eliberare+9
-3120	Ucigãtor de lei+0
-3121	Ucigãtor de lei+1
-3122	Ucigãtor de lei+2
-3123	Ucigãtor de lei+3
-3124	Ucigãtor de lei+4
-3125	Ucigãtor de lei+5
-3126	Ucigãtor de lei+6
-3127	Ucigãtor de lei+7
-3128	Ucigãtor de lei+8
-3129	Ucigãtor de lei+9
+3120	UcigÄƒtor de lei+0
+3121	UcigÄƒtor de lei+1
+3122	UcigÄƒtor de lei+2
+3123	UcigÄƒtor de lei+3
+3124	UcigÄƒtor de lei+4
+3125	UcigÄƒtor de lei+5
+3126	UcigÄƒtor de lei+6
+3127	UcigÄƒtor de lei+7
+3128	UcigÄƒtor de lei+8
+3129	UcigÄƒtor de lei+9
 3130	Lance partizan+0
 3131	Lance partizan+1
 3132	Lance partizan+2
@@ -871,16 +871,16 @@ VNUM	LOCALE_NAME
 3157	Lama Semi-Om+7
 3158	Lama Semi-Om+8
 3159	Lama Semi-Om+9
-3160	Sabia mâniei+0
-3161	Sabia mâniei+1
-3162	Sabia mâniei+2
-3163	Sabia mâniei+3
-3164	Sabia mâniei+4
-3165	Sabia mâniei+5
-3166	Sabia mâniei+6
-3167	Sabia mâniei+7
-3168	Sabia mâniei+8
-3169	Sabia mâniei+9
+3160	Sabia mÃ¢niei+0
+3161	Sabia mÃ¢niei+1
+3162	Sabia mÃ¢niei+2
+3163	Sabia mÃ¢niei+3
+3164	Sabia mÃ¢niei+4
+3165	Sabia mÃ¢niei+5
+3166	Sabia mÃ¢niei+6
+3167	Sabia mÃ¢niei+7
+3168	Sabia mÃ¢niei+8
+3169	Sabia mÃ¢niei+9
 3170	Dragon asasin-galben+0
 3171	Dragon asasin-galben+1
 3172	Dragon asasin-galben+2
@@ -951,36 +951,36 @@ VNUM	LOCALE_NAME
 4017	Noua Lame+7
 4018	Noua Lame+8
 4019	Noua Lame+9
-4020	Cuşit scurt+0
-4021	Cuşit scurt+1
-4022	Cuşit scurt+2
-4023	Cuşit scurt+3
-4024	Cuşit scurt+4
-4025	Cuşit scurt+5
-4026	Cuşit scurt+6
-4027	Cuşit scurt+7
-4028	Cuşit scurt+8
-4029	Cuşit scurt+9
-4030	Pumnal geamãnul lunii+0
-4031	Pumnal geamãnul lunii+1
-4032	Pumnal geamãnul lunii+2
-4033	Pumnal geamãnul lunii+3
-4034	Pumnal geamãnul lunii+4
-4035	Pumnal geamãnul lunii+5
-4036	Pumnal geamãnul lunii+6
-4037	Pumnal geamãnul lunii+7
-4038	Pumnal geamãnul lunii+8
-4039	Pumnal geamãnul lunii+9
-4040	Cuşit neînsufleşit+0
-4041	Cuşit neînsufleşit+1
-4042	Cuşit neînsufleşit+2
-4043	Cuşit neînsufleşit+3
-4044	Cuşit neînsufleşit+4
-4045	Cuşit neînsufleşit+5
-4046	Cuşit neînsufleşit+6
-4047	Cuşit neînsufleşit+7
-4048	Cuşit neînsufleşit+8
-4049	Cuşit neînsufleşit+9
+4020	CuÅ£it scurt+0
+4021	CuÅ£it scurt+1
+4022	CuÅ£it scurt+2
+4023	CuÅ£it scurt+3
+4024	CuÅ£it scurt+4
+4025	CuÅ£it scurt+5
+4026	CuÅ£it scurt+6
+4027	CuÅ£it scurt+7
+4028	CuÅ£it scurt+8
+4029	CuÅ£it scurt+9
+4030	Pumnal geamÄƒnul lunii+0
+4031	Pumnal geamÄƒnul lunii+1
+4032	Pumnal geamÄƒnul lunii+2
+4033	Pumnal geamÄƒnul lunii+3
+4034	Pumnal geamÄƒnul lunii+4
+4035	Pumnal geamÄƒnul lunii+5
+4036	Pumnal geamÄƒnul lunii+6
+4037	Pumnal geamÄƒnul lunii+7
+4038	Pumnal geamÄƒnul lunii+8
+4039	Pumnal geamÄƒnul lunii+9
+4040	CuÅ£it neÃ®nsufleÅ£it+0
+4041	CuÅ£it neÃ®nsufleÅ£it+1
+4042	CuÅ£it neÃ®nsufleÅ£it+2
+4043	CuÅ£it neÃ®nsufleÅ£it+3
+4044	CuÅ£it neÃ®nsufleÅ£it+4
+4045	CuÅ£it neÃ®nsufleÅ£it+5
+4046	CuÅ£it neÃ®nsufleÅ£it+6
+4047	CuÅ£it neÃ®nsufleÅ£it+7
+4048	CuÅ£it neÃ®nsufleÅ£it+8
+4049	CuÅ£it neÃ®nsufleÅ£it+9
 5000	Clopot de Cupru+0
 5001	Clopot de Cupru+1
 5002	Clopot de Cupru+2
@@ -1072,7 +1072,7 @@ VNUM	LOCALE_NAME
 5088	Clopot Gandac de Otel+8
 5089	Clopot Gandac de Otel+9
 5090	Clopot Pasarea Tunet+0
-5091	Pumnal pasãre-tunet+1
+5091	Pumnal pasÄƒre-tunet+1
 5092	Clopot Pasarea Tunet+2
 5093	Clopot Pasarea Tunet+3
 5094	Clopot Pasarea Tunet+4
@@ -1291,16 +1291,16 @@ VNUM	LOCALE_NAME
 7127	Evantai Soare+7
 7128	Evantai Soare+8
 7129	Evantai Soare+9
-7130	Ev. pãsarea cerului+0
-7131	Ev. pãsarea cerului+1
-7132	Ev. pãsarea cerului+2
-7133	Ev. pãsarea cerului+3
-7134	Ev. pãsarea cerului+4
-7135	Ev. pãsarea cerului+5
-7136	Ev. pãsarea cerului+6
-7137	Ev. pãsarea cerului+7
-7138	Ev. pãsarea cerului+8
-7139	Ev. pãsarea cerului+9
+7130	Ev. pÄƒsarea cerului+0
+7131	Ev. pÄƒsarea cerului+1
+7132	Ev. pÄƒsarea cerului+2
+7133	Ev. pÄƒsarea cerului+3
+7134	Ev. pÄƒsarea cerului+4
+7135	Ev. pÄƒsarea cerului+5
+7136	Ev. pÄƒsarea cerului+6
+7137	Ev. pÄƒsarea cerului+7
+7138	Ev. pÄƒsarea cerului+8
+7139	Ev. pÄƒsarea cerului+9
 7140	Evantaiul Mantuirii+0
 7141	Evantaiul Mantuirii+1
 7142	Evantaiul Mantuirii+2
@@ -1381,29 +1381,29 @@ VNUM	LOCALE_NAME
 7377	Evantai Dragon+7
 7378	Evantai Dragon+8
 7379	Evantai Dragon+9
-8000	Sãgeatã de lemn
-8001	Sãgeatã de bambus
-8002	Sãgeatã de piatrã
-8003	Sãgeatã de fier
-8004	Sãgeatã de oşel
-8005	Sãgeatã de argint
-8006	Sãgeatã de Foc
-8007	Sãgeatã otrãvitã
-8008	Sãgeatã de gheaşã
-8009	Sãgeatã blestematã
-9001	Armurã Nahan+5
-9002	Armurã Tanma+5
-9003	Armurã Jinhon+5
-9004	Armurã Chung+5
+8000	SÄƒgeatÄƒ de lemn
+8001	SÄƒgeatÄƒ de bambus
+8002	SÄƒgeatÄƒ de piatrÄƒ
+8003	SÄƒgeatÄƒ de fier
+8004	SÄƒgeatÄƒ de oÅ£el
+8005	SÄƒgeatÄƒ de argint
+8006	SÄƒgeatÄƒ de Foc
+8007	SÄƒgeatÄƒ otrÄƒvitÄƒ
+8008	SÄƒgeatÄƒ de gheaÅ£Äƒ
+8009	SÄƒgeatÄƒ blestematÄƒ
+9001	ArmurÄƒ Nahan+5
+9002	ArmurÄƒ Tanma+5
+9003	ArmurÄƒ Jinhon+5
+9004	ArmurÄƒ Chung+5
 9501	Sabie+5
-9502	Sabie scurtã+5
+9502	Sabie scurtÄƒ+5
 9503	Arc scurt+5
-9504	Sabie lungã+5
+9504	Sabie lungÄƒ+5
 9505	Evantai Mare+5
-11000	Armurã de lup
-11010	Armurã de mistreş
-11020	Armurã de urs
-11030	Armurã de tigru
+11000	ArmurÄƒ de lup
+11010	ArmurÄƒ de mistreÅ£
+11020	ArmurÄƒ de urs
+11030	ArmurÄƒ de tigru
 11200	Platosa de Calugar+0
 11201	Platosa de Calugar+1
 11202	Platosa de Calugar+2
@@ -1414,16 +1414,16 @@ VNUM	LOCALE_NAME
 11207	Platosa de Calugar+7
 11208	Platosa de Calugar+8
 11209	Platosa de Calugar+9
-11210	Blindaj placã de fier+0
-11211	Blindaj placã de fier+1
-11212	Blindaj placã de fier+2
-11213	Blindaj placã de fier+3
-11214	Blindaj placã de fier+4
-11215	Blindaj placã de fier+5
-11216	Blindaj placã de fier+6
-11217	Blindaj placã de fier+7
-11218	Blindaj placã de fier+8
-11219	Blindaj placã de fier+9
+11210	Blindaj placÄƒ de fier+0
+11211	Blindaj placÄƒ de fier+1
+11212	Blindaj placÄƒ de fier+2
+11213	Blindaj placÄƒ de fier+3
+11214	Blindaj placÄƒ de fier+4
+11215	Blindaj placÄƒ de fier+5
+11216	Blindaj placÄƒ de fier+6
+11217	Blindaj placÄƒ de fier+7
+11218	Blindaj placÄƒ de fier+8
+11219	Blindaj placÄƒ de fier+9
 11220	Platosa de Tigru+0
 11221	Platosa de Tigru+1
 11222	Platosa de Tigru+2
@@ -1454,16 +1454,16 @@ VNUM	LOCALE_NAME
 11247	Platosa Mortala+7
 11248	Platosa Mortala+8
 11249	Platosa Mortala+9
-11250	Platoºã de Dragon+0
-11251	Platoºã de Dragon+1
-11252	Platoºã de Dragon+2
-11253	Platoºã de Dragon+3
-11254	Platoºã de Dragon+4
-11255	Platoºã de Dragon+5
-11256	Platoºã de Dragon+6
-11257	Platoºã de Dragon+7
-11258	Platoºã de Dragon+8
-11259	Platoºã de Dragon+9
+11250	PlatoÅŸÄƒ de Dragon+0
+11251	PlatoÅŸÄƒ de Dragon+1
+11252	PlatoÅŸÄƒ de Dragon+2
+11253	PlatoÅŸÄƒ de Dragon+3
+11254	PlatoÅŸÄƒ de Dragon+4
+11255	PlatoÅŸÄƒ de Dragon+5
+11256	PlatoÅŸÄƒ de Dragon+6
+11257	PlatoÅŸÄƒ de Dragon+7
+11258	PlatoÅŸÄƒ de Dragon+8
+11259	PlatoÅŸÄƒ de Dragon+9
 11260	Platosa Solzi Albastri+0
 11261	Platosa Solzi Albastri+1
 11262	Platosa Solzi Albastri+2
@@ -1494,26 +1494,26 @@ VNUM	LOCALE_NAME
 11287	Armura Zeului Dragon+7
 11288	Armura Zeului Dragon+8
 11289	Armura Zeului Dragon+9
-11290	Armurã de oşel negru+0
-11291	Armurã de oşel negru+1
-11292	Armurã de oşel negru+2
-11293	Armurã de oşel negru+3
-11294	Armurã de oşel negru+4
-11295	Armurã de oşel negru+5
-11296	Armurã de oşel negru+6
-11297	Armurã de oşel negru+7
-11298	Armurã de oşel negru+8
-11299	Armurã de oşel negru+9
-11300	Supleşe
-11301	Supleşe
-11302	Rezistenşã bunã
-11303	Armurã slabã
-11304	Zid împotriva duºmanilor
-11305	Inteligenşã
-11306	Soldaşi
+11290	ArmurÄƒ de oÅ£el negru+0
+11291	ArmurÄƒ de oÅ£el negru+1
+11292	ArmurÄƒ de oÅ£el negru+2
+11293	ArmurÄƒ de oÅ£el negru+3
+11294	ArmurÄƒ de oÅ£el negru+4
+11295	ArmurÄƒ de oÅ£el negru+5
+11296	ArmurÄƒ de oÅ£el negru+6
+11297	ArmurÄƒ de oÅ£el negru+7
+11298	ArmurÄƒ de oÅ£el negru+8
+11299	ArmurÄƒ de oÅ£el negru+9
+11300	SupleÅ£e
+11301	SupleÅ£e
+11302	RezistenÅ£Äƒ bunÄƒ
+11303	ArmurÄƒ slabÄƒ
+11304	Zid Ã®mpotriva duÅŸmanilor
+11305	InteligenÅ£Äƒ
+11306	SoldaÅ£i
 11307	Pantofi mai buni
-11308	Rezistenşã contra duºman
-11309	Rezistenşa altor duºmani
+11308	RezistenÅ£Äƒ contra duÅŸman
+11309	RezistenÅ£a altor duÅŸmani
 11400	Costum de azur+0
 11401	Costum de azur+1
 11402	Costum de azur+2
@@ -1524,46 +1524,46 @@ VNUM	LOCALE_NAME
 11407	Costum de azur+7
 11408	Costum de azur+8
 11409	Costum de azur+9
-11410	Costum de fildeº+0
-11411	Costum de fildeº+1
-11412	Costum de fildeº+2
-11413	Costum de fildeº+3
-11414	Costum de fildeº+4
-11415	Costum de fildeº+5
-11416	Costum de fildeº+6
-11417	Costum de fildeº+7
-11418	Costum de fildeº+8
-11419	Costum de fildeº+9
-11420	Costum roºu scarlatin+0
-11421	Costum roºu scarlatin+1
-11422	Costum roºu scarlatin+2
-11423	Costum roºu scarlatin+3
-11424	Costum roºu scarlatin+4
-11425	Costum roºu scarlatin+5
-11426	Costum roºu scarlatin+6
-11427	Costum roºu scarlatin+7
-11428	Costum roºu scarlatin+8
-11429	Costum roºu scarlatin+9
-11430	Costum furnicã roºie+0
-11431	Costum furnicã roºie+1
-11432	Costum furnicã roºie+2
-11433	Costum furnicã roºie+3
-11434	Costum furnicã roºie+4
-11435	Costum furnicã roºie+5
-11436	Costum furnicã roºie+6
-11437	Costum furnicã roºie+7
-11438	Costum furnicã roºie+8
-11439	Costum furnicã roºie+9
-11440	Costum furnicã leu+0
-11441	Costum furnicã leu+1
-11442	Costum furnicã leu+2
-11443	Costum furnicã leu+3
-11444	Costum furnicã leu+4
-11445	Costum furnicã leu+5
-11446	Costum furnicã leu+6
-11447	Costum furnicã leu+7
-11448	Costum furnicã leu+8
-11449	Costum furnicã leu+9
+11410	Costum de fildeÅŸ+0
+11411	Costum de fildeÅŸ+1
+11412	Costum de fildeÅŸ+2
+11413	Costum de fildeÅŸ+3
+11414	Costum de fildeÅŸ+4
+11415	Costum de fildeÅŸ+5
+11416	Costum de fildeÅŸ+6
+11417	Costum de fildeÅŸ+7
+11418	Costum de fildeÅŸ+8
+11419	Costum de fildeÅŸ+9
+11420	Costum roÅŸu scarlatin+0
+11421	Costum roÅŸu scarlatin+1
+11422	Costum roÅŸu scarlatin+2
+11423	Costum roÅŸu scarlatin+3
+11424	Costum roÅŸu scarlatin+4
+11425	Costum roÅŸu scarlatin+5
+11426	Costum roÅŸu scarlatin+6
+11427	Costum roÅŸu scarlatin+7
+11428	Costum roÅŸu scarlatin+8
+11429	Costum roÅŸu scarlatin+9
+11430	Costum furnicÄƒ roÅŸie+0
+11431	Costum furnicÄƒ roÅŸie+1
+11432	Costum furnicÄƒ roÅŸie+2
+11433	Costum furnicÄƒ roÅŸie+3
+11434	Costum furnicÄƒ roÅŸie+4
+11435	Costum furnicÄƒ roÅŸie+5
+11436	Costum furnicÄƒ roÅŸie+6
+11437	Costum furnicÄƒ roÅŸie+7
+11438	Costum furnicÄƒ roÅŸie+8
+11439	Costum furnicÄƒ roÅŸie+9
+11440	Costum furnicÄƒ leu+0
+11441	Costum furnicÄƒ leu+1
+11442	Costum furnicÄƒ leu+2
+11443	Costum furnicÄƒ leu+3
+11444	Costum furnicÄƒ leu+4
+11445	Costum furnicÄƒ leu+5
+11446	Costum furnicÄƒ leu+6
+11447	Costum furnicÄƒ leu+7
+11448	Costum furnicÄƒ leu+8
+11449	Costum furnicÄƒ leu+9
 11450	Costum de ninja+0
 11451	Costum de ninja+1
 11452	Costum de ninja+2
@@ -1574,16 +1574,16 @@ VNUM	LOCALE_NAME
 11457	Costum de ninja+7
 11458	Costum de ninja+8
 11459	Costum de ninja+9
-11460	Costum de Dragon tânãr+0
-11461	Costum de Dragon tânãr+1
-11462	Costum de Dragon tânãr+2
-11463	Costum de Dragon tânãr+3
-11464	Costum de Dragon tânãr+4
-11465	Costum de Dragon tânãr+5
-11466	Costum de Dragon tânãr+6
-11467	Costum de Dragon tânãr+7
-11468	Costum de Dragon tânãr+8
-11469	Costum de Dragon tânãr+9
+11460	Costum de Dragon tÃ¢nÄƒr+0
+11461	Costum de Dragon tÃ¢nÄƒr+1
+11462	Costum de Dragon tÃ¢nÄƒr+2
+11463	Costum de Dragon tÃ¢nÄƒr+3
+11464	Costum de Dragon tÃ¢nÄƒr+4
+11465	Costum de Dragon tÃ¢nÄƒr+5
+11466	Costum de Dragon tÃ¢nÄƒr+6
+11467	Costum de Dragon tÃ¢nÄƒr+7
+11468	Costum de Dragon tÃ¢nÄƒr+8
+11469	Costum de Dragon tÃ¢nÄƒr+9
 11470	Costum de criminal+0
 11471	Costum de criminal+1
 11472	Costum de criminal+2
@@ -1604,16 +1604,16 @@ VNUM	LOCALE_NAME
 11487	Costum de magnolie+7
 11488	Costum de magnolie+8
 11489	Costum de magnolie+9
-11490	Costum de vânt negru+0
-11491	Costum de vânt negru+1
-11492	Costum de vânt negru+2
-11493	Costum de vânt negru+3
-11494	Costum de vânt negru+4
-11495	Costum de vânt negru+5
-11496	Costum de vânt negru+6
-11497	Costum de vânt negru+7
-11498	Costum de vânt negru+8
-11499	Costum de vânt negru+9
+11490	Costum de vÃ¢nt negru+0
+11491	Costum de vÃ¢nt negru+1
+11492	Costum de vÃ¢nt negru+2
+11493	Costum de vÃ¢nt negru+3
+11494	Costum de vÃ¢nt negru+4
+11495	Costum de vÃ¢nt negru+5
+11496	Costum de vÃ¢nt negru+6
+11497	Costum de vÃ¢nt negru+7
+11498	Costum de vÃ¢nt negru+8
+11499	Costum de vÃ¢nt negru+9
 11500	Gang-Ma
 11501	Zung-Seon
 11502	Chung-Zin
@@ -1664,16 +1664,16 @@ VNUM	LOCALE_NAME
 11637	Platosa Fantoma+7
 11638	Platosa Fantoma+8
 11639	Platosa Fantoma+9
-11640	Platoºã Yin Yang+0
-11641	Platoºã Yin Yang+1
-11642	Platoºã Yin Yang+2
-11643	Platoºã Yin Yang+3
-11644	Platoºã Yin Yang+4
-11645	Platoºã Yin Yang+5
-11646	Platoºã Yin Yang+6
-11647	Platoºã Yin Yang+7
-11648	Platoºã Yin Yang+8
-11649	Platoºã Yin Yang+9
+11640	PlatoÅŸÄƒ Yin Yang+0
+11641	PlatoÅŸÄƒ Yin Yang+1
+11642	PlatoÅŸÄƒ Yin Yang+2
+11643	PlatoÅŸÄƒ Yin Yang+3
+11644	PlatoÅŸÄƒ Yin Yang+4
+11645	PlatoÅŸÄƒ Yin Yang+5
+11646	PlatoÅŸÄƒ Yin Yang+6
+11647	PlatoÅŸÄƒ Yin Yang+7
+11648	PlatoÅŸÄƒ Yin Yang+8
+11649	PlatoÅŸÄƒ Yin Yang+9
 11650	Platosa Mistica+0
 11651	Platosa Mistica+1
 11652	Platosa Mistica+2
@@ -1694,16 +1694,16 @@ VNUM	LOCALE_NAME
 11667	Platosa de Ceata+7
 11668	Platosa de Ceata+8
 11669	Platosa de Ceata+9
-11670	Armurã mascã de stafie+0
-11671	Armurã mascã de stafie+1
-11672	Armurã mascã de stafie+2
-11673	Armurã mascã de stafie+3
-11674	Armurã mascã de stafie+4
-11675	Armurã mascã de stafie+5
-11676	Armurã mascã de stafie+6
-11677	Armurã mascã de stafie+7
-11678	Armurã mascã de stafie+8
-11679	Armurã mascã de stafie+9
+11670	ArmurÄƒ mascÄƒ de stafie+0
+11671	ArmurÄƒ mascÄƒ de stafie+1
+11672	ArmurÄƒ mascÄƒ de stafie+2
+11673	ArmurÄƒ mascÄƒ de stafie+3
+11674	ArmurÄƒ mascÄƒ de stafie+4
+11675	ArmurÄƒ mascÄƒ de stafie+5
+11676	ArmurÄƒ mascÄƒ de stafie+6
+11677	ArmurÄƒ mascÄƒ de stafie+7
+11678	ArmurÄƒ mascÄƒ de stafie+8
+11679	ArmurÄƒ mascÄƒ de stafie+9
 11680	Platosa pentru suflet+0
 11681	Platosa pentru suflet+1
 11682	Platosa pentru suflet+2
@@ -1744,172 +1744,172 @@ VNUM	LOCALE_NAME
 11807	Vesmant de azur+7
 11808	Vesmant de azur+8
 11809	Vesmant de azur+9
-11810	Veºmânt turcoaz+0
-11811	Veºmânt turcoaz+1
-11812	Veºmânt turcoaz+2
-11813	Veºmânt turcoaz+3
-11814	Veºmânt turcoaz+4
-11815	Veºmânt turcoaz+5
-11816	Veºmânt turcoaz+6
-11817	Veºmânt turcoaz+7
-11818	Veºmânt turcoaz+8
-11819	Veºmânt turcoaz+9
-11820	Veºmânt trandafiriu+0
-11821	Veºmânt trandafiriu+1
-11822	Veºmânt trandafiriu+2
-11823	Veºmânt trandafiriu+3
-11824	Veºmânt trandafiriu+4
-11825	Veºmânt trandafiriu+5
-11826	Veºmânt trandafiriu+6
-11827	Veºmânt trandafiriu+7
-11828	Veºmânt trandafiriu+8
-11829	Veºmânt trandafiriu+9
-11830	Veºmântul dragostei+0
-11831	Veºmântul dragostei+1
-11832	Veºmântul dragostei+2
-11833	Veºmântul dragostei+3
-11834	Veºmântul dragostei+4
-11835	Veºmântul dragostei+5
-11836	Veºmântul dragostei+6
-11837	Veºmântul dragostei+7
-11838	Veºmântul dragostei+8
-11839	Veºmântul dragostei+9
-11840	Veºmântul cerului+0
-11841	Veºmântul cerului+1
-11842	Veºmântul cerului+2
-11843	Veºmântul cerului+3
-11844	Veºmântul cerului+4
-11845	Veºmântul cerului+5
-11846	Veºmântul cerului+6
-11847	Veºmântul cerului+7
-11848	Veºmântul cerului+8
-11849	Veºmântul cerului+9
-11850	Veºmântul soarelui+0
-11851	Veºmântul soarelui+1
-11852	Veºmântul soarelui+2
-11853	Veºmântul soarelui+3
-11854	Veºmântul soarelui+4
-11855	Veºmântul soarelui+5
-11856	Veºmântul soarelui+6
-11857	Veºmântul soarelui+7
-11858	Veºmântul soarelui+8
-11859	Veºmântul soarelui+9
-11860	Veºmântul moralei+0
-11861	Veºmântul moralei+1
-11862	Veºmântul moralei+2
-11863	Veºmântul moralei+3
-11864	Veºmântul moralei+4
-11865	Veºmântul moralei+5
-11866	Veºmântul moralei+6
-11867	Veºmântul moralei+7
-11868	Veºmântul moralei+8
-11869	Veºmântul moralei+9
-11870	Rochie oranj pisicã+0
-11871	Rochie oranj pisicã+1
-11872	Rochie oranj pisicã+2
-11873	Rochie oranj pisicã+3
-11874	Rochie oranj pisicã+4
-11875	Rochie oranj pisicã+5
-11876	Rochie oranj pisicã+6
-11877	Rochie oranj pisicã+7
-11878	Rochie oranj pisicã+8
-11879	Rochie oranj pisicã+9
-11880	Veºmântul baronesei+0
-11881	Veºmântul baronesei+1
-11882	Veºmântul baronesei+2
-11883	Veºmântul baronesei+3
-11884	Veºmântul baronesei+4
-11885	Veºmântul baronesei+5
-11886	Veºmântul baronesei+6
-11887	Veºmântul baronesei+7
-11888	Veºmântul baronesei+8
-11889	Veºmântul baronesei+9
-11890	Veºmânt negru+0
-11891	Veºmânt negru+1
-11892	Veºmânt negru+2
-11893	Veºmânt negru+3
-11894	Veºmânt negru+4
-11895	Veºmânt negru+5
-11896	Veºmânt negru+6
-11897	Veºmânt negru+7
-11898	Veºmânt negru+8
-11899	Veºmânt negru+9
+11810	VeÅŸmÃ¢nt turcoaz+0
+11811	VeÅŸmÃ¢nt turcoaz+1
+11812	VeÅŸmÃ¢nt turcoaz+2
+11813	VeÅŸmÃ¢nt turcoaz+3
+11814	VeÅŸmÃ¢nt turcoaz+4
+11815	VeÅŸmÃ¢nt turcoaz+5
+11816	VeÅŸmÃ¢nt turcoaz+6
+11817	VeÅŸmÃ¢nt turcoaz+7
+11818	VeÅŸmÃ¢nt turcoaz+8
+11819	VeÅŸmÃ¢nt turcoaz+9
+11820	VeÅŸmÃ¢nt trandafiriu+0
+11821	VeÅŸmÃ¢nt trandafiriu+1
+11822	VeÅŸmÃ¢nt trandafiriu+2
+11823	VeÅŸmÃ¢nt trandafiriu+3
+11824	VeÅŸmÃ¢nt trandafiriu+4
+11825	VeÅŸmÃ¢nt trandafiriu+5
+11826	VeÅŸmÃ¢nt trandafiriu+6
+11827	VeÅŸmÃ¢nt trandafiriu+7
+11828	VeÅŸmÃ¢nt trandafiriu+8
+11829	VeÅŸmÃ¢nt trandafiriu+9
+11830	VeÅŸmÃ¢ntul dragostei+0
+11831	VeÅŸmÃ¢ntul dragostei+1
+11832	VeÅŸmÃ¢ntul dragostei+2
+11833	VeÅŸmÃ¢ntul dragostei+3
+11834	VeÅŸmÃ¢ntul dragostei+4
+11835	VeÅŸmÃ¢ntul dragostei+5
+11836	VeÅŸmÃ¢ntul dragostei+6
+11837	VeÅŸmÃ¢ntul dragostei+7
+11838	VeÅŸmÃ¢ntul dragostei+8
+11839	VeÅŸmÃ¢ntul dragostei+9
+11840	VeÅŸmÃ¢ntul cerului+0
+11841	VeÅŸmÃ¢ntul cerului+1
+11842	VeÅŸmÃ¢ntul cerului+2
+11843	VeÅŸmÃ¢ntul cerului+3
+11844	VeÅŸmÃ¢ntul cerului+4
+11845	VeÅŸmÃ¢ntul cerului+5
+11846	VeÅŸmÃ¢ntul cerului+6
+11847	VeÅŸmÃ¢ntul cerului+7
+11848	VeÅŸmÃ¢ntul cerului+8
+11849	VeÅŸmÃ¢ntul cerului+9
+11850	VeÅŸmÃ¢ntul soarelui+0
+11851	VeÅŸmÃ¢ntul soarelui+1
+11852	VeÅŸmÃ¢ntul soarelui+2
+11853	VeÅŸmÃ¢ntul soarelui+3
+11854	VeÅŸmÃ¢ntul soarelui+4
+11855	VeÅŸmÃ¢ntul soarelui+5
+11856	VeÅŸmÃ¢ntul soarelui+6
+11857	VeÅŸmÃ¢ntul soarelui+7
+11858	VeÅŸmÃ¢ntul soarelui+8
+11859	VeÅŸmÃ¢ntul soarelui+9
+11860	VeÅŸmÃ¢ntul moralei+0
+11861	VeÅŸmÃ¢ntul moralei+1
+11862	VeÅŸmÃ¢ntul moralei+2
+11863	VeÅŸmÃ¢ntul moralei+3
+11864	VeÅŸmÃ¢ntul moralei+4
+11865	VeÅŸmÃ¢ntul moralei+5
+11866	VeÅŸmÃ¢ntul moralei+6
+11867	VeÅŸmÃ¢ntul moralei+7
+11868	VeÅŸmÃ¢ntul moralei+8
+11869	VeÅŸmÃ¢ntul moralei+9
+11870	Rochie oranj pisicÄƒ+0
+11871	Rochie oranj pisicÄƒ+1
+11872	Rochie oranj pisicÄƒ+2
+11873	Rochie oranj pisicÄƒ+3
+11874	Rochie oranj pisicÄƒ+4
+11875	Rochie oranj pisicÄƒ+5
+11876	Rochie oranj pisicÄƒ+6
+11877	Rochie oranj pisicÄƒ+7
+11878	Rochie oranj pisicÄƒ+8
+11879	Rochie oranj pisicÄƒ+9
+11880	VeÅŸmÃ¢ntul baronesei+0
+11881	VeÅŸmÃ¢ntul baronesei+1
+11882	VeÅŸmÃ¢ntul baronesei+2
+11883	VeÅŸmÃ¢ntul baronesei+3
+11884	VeÅŸmÃ¢ntul baronesei+4
+11885	VeÅŸmÃ¢ntul baronesei+5
+11886	VeÅŸmÃ¢ntul baronesei+6
+11887	VeÅŸmÃ¢ntul baronesei+7
+11888	VeÅŸmÃ¢ntul baronesei+8
+11889	VeÅŸmÃ¢ntul baronesei+9
+11890	VeÅŸmÃ¢nt negru+0
+11891	VeÅŸmÃ¢nt negru+1
+11892	VeÅŸmÃ¢nt negru+2
+11893	VeÅŸmÃ¢nt negru+3
+11894	VeÅŸmÃ¢nt negru+4
+11895	VeÅŸmÃ¢nt negru+5
+11896	VeÅŸmÃ¢nt negru+6
+11897	VeÅŸmÃ¢nt negru+7
+11898	VeÅŸmÃ¢nt negru+8
+11899	VeÅŸmÃ¢nt negru+9
 11901	Smoking
 11902	Smoking
-11903	Rochie de mireasã
-11904	Rochie de mireasã
+11903	Rochie de mireasÄƒ
+11904	Rochie de mireasÄƒ
 11911	Smoking
 11912	Smoking
-11913	Rochie de mireasã
-11914	Rochie de mireasã
+11913	Rochie de mireasÄƒ
+11914	Rochie de mireasÄƒ
 11951	Platosa de Calugar
 11952	Costum de azur
 11953	Platosa Recviem
 11954	Vesmant de azur
-11971	Armurã Hwang
-11972	Armurã Hwang roºie
-11973	Armurã Zin-Hwang
-11974	Armurã Sang-Hwang
-12000	Veºmânt acvatic+0
-12001	Veºmânt acvatic+1
-12002	Veºmânt acvatic+2
-12003	Veºmânt acvatic+3
-12004	Veºmânt acvatic+4
-12005	Veºmânt acvatic+5
-12006	Veºmânt acvatic+6
-12007	Veºmânt acvatic+7
-12008	Veºmânt acvatic+8
-12009	Veºmânt acvatic+9
-12010	Armurã Oşel Albastru +0
-12011	Armura Oşel Albastru +1
-12012	Armura Oşel Albastru +2
-12013	Armura Oşel Albastru +3
-12014	Armura Oşel Albastru +4
-12015	Armura Oşel Albastru +5
-12016	Armura Oşel Albastru +6
-12017	Armura Oşel Albastru +7
-12018	Armura Oşel Albastru +8
-12019	Armura Oşel Albastru +9
-12020	Hainã Dragon Albastru +0
-12021	Hainã Dragon Albastru +1
-12022	Hainã Dragon Albastru +2
-12023	Hainã Dragon Albastru +3
-12024	Hainã Dragon Albastru +4
-12025	Hainã Dragon Albastru +5
-12026	Hainã Dragon Albastru +6
-12027	Hainã Dragon Albastru +7
-12028	Hainã Dragon Albastru +8
-12029	Hainã Dragon Albastru +9
-12030	Armurã Placa Aurã +0
-12031	Armurã Placa Aurã +1
-12032	Armurã Placã Aurã +2
-12033	Armurã Placã Aurã +3
-12034	Armurã Placã Aurã +4
-12035	Armurã Placã Aurã +5
-12036	Armurã Placã Aurã +6
-12037	Armurã Placã Aurã +7
-12038	Armurã Placã Aurã +8
-12039	Armurã Placã Aurã +9
-12040	Îmbrãcãminte Dragon +0
-12041	Îmbrãcãminte Dragon +1
-12042	Îmbrãcãminte Dragon +2
-12043	Îmbrãcãminte Dragon +3
-12044	Îmbrãcãminte Dragon +4
-12045	Îmbrãcãminte Dragon +5
-12046	Îmbrãcãminte Dragon +6
-12047	Îmbrãcãminte Dragon +7
-12048	Îmbrãcãminte Dragon +8
-12049	Îmbrãcãminte Dragon +9
-12200	Coif tradişional+0
-12201	Coif tradişional+1
-12202	Coif tradişional+2
-12203	Coif tradişional+3
-12204	Coif tradişional+4
-12205	Coif tradişional+5
-12206	Coif tradişional+6
-12207	Coif tradişional+7
-12208	Coif tradişional+8
-12209	Coif tradişional+9
+11971	ArmurÄƒ Hwang
+11972	ArmurÄƒ Hwang roÅŸie
+11973	ArmurÄƒ Zin-Hwang
+11974	ArmurÄƒ Sang-Hwang
+12000	VeÅŸmÃ¢nt acvatic+0
+12001	VeÅŸmÃ¢nt acvatic+1
+12002	VeÅŸmÃ¢nt acvatic+2
+12003	VeÅŸmÃ¢nt acvatic+3
+12004	VeÅŸmÃ¢nt acvatic+4
+12005	VeÅŸmÃ¢nt acvatic+5
+12006	VeÅŸmÃ¢nt acvatic+6
+12007	VeÅŸmÃ¢nt acvatic+7
+12008	VeÅŸmÃ¢nt acvatic+8
+12009	VeÅŸmÃ¢nt acvatic+9
+12010	ArmurÄƒ OÅ£el Albastru +0
+12011	Armura OÅ£el Albastru +1
+12012	Armura OÅ£el Albastru +2
+12013	Armura OÅ£el Albastru +3
+12014	Armura OÅ£el Albastru +4
+12015	Armura OÅ£el Albastru +5
+12016	Armura OÅ£el Albastru +6
+12017	Armura OÅ£el Albastru +7
+12018	Armura OÅ£el Albastru +8
+12019	Armura OÅ£el Albastru +9
+12020	HainÄƒ Dragon Albastru +0
+12021	HainÄƒ Dragon Albastru +1
+12022	HainÄƒ Dragon Albastru +2
+12023	HainÄƒ Dragon Albastru +3
+12024	HainÄƒ Dragon Albastru +4
+12025	HainÄƒ Dragon Albastru +5
+12026	HainÄƒ Dragon Albastru +6
+12027	HainÄƒ Dragon Albastru +7
+12028	HainÄƒ Dragon Albastru +8
+12029	HainÄƒ Dragon Albastru +9
+12030	ArmurÄƒ Placa AurÄƒ +0
+12031	ArmurÄƒ Placa AurÄƒ +1
+12032	ArmurÄƒ PlacÄƒ AurÄƒ +2
+12033	ArmurÄƒ PlacÄƒ AurÄƒ +3
+12034	ArmurÄƒ PlacÄƒ AurÄƒ +4
+12035	ArmurÄƒ PlacÄƒ AurÄƒ +5
+12036	ArmurÄƒ PlacÄƒ AurÄƒ +6
+12037	ArmurÄƒ PlacÄƒ AurÄƒ +7
+12038	ArmurÄƒ PlacÄƒ AurÄƒ +8
+12039	ArmurÄƒ PlacÄƒ AurÄƒ +9
+12040	ÃmbrÄƒcÄƒminte Dragon +0
+12041	ÃmbrÄƒcÄƒminte Dragon +1
+12042	ÃmbrÄƒcÄƒminte Dragon +2
+12043	ÃmbrÄƒcÄƒminte Dragon +3
+12044	ÃmbrÄƒcÄƒminte Dragon +4
+12045	ÃmbrÄƒcÄƒminte Dragon +5
+12046	ÃmbrÄƒcÄƒminte Dragon +6
+12047	ÃmbrÄƒcÄƒminte Dragon +7
+12048	ÃmbrÄƒcÄƒminte Dragon +8
+12049	ÃmbrÄƒcÄƒminte Dragon +9
+12200	Coif tradiÅ£ional+0
+12201	Coif tradiÅ£ional+1
+12202	Coif tradiÅ£ional+2
+12203	Coif tradiÅ£ional+3
+12204	Coif tradiÅ£ional+4
+12205	Coif tradiÅ£ional+5
+12206	Coif tradiÅ£ional+6
+12207	Coif tradiÅ£ional+7
+12208	Coif tradiÅ£ional+8
+12209	Coif tradiÅ£ional+9
 12220	Coif de fier+0
 12221	Coif de fier+1
 12222	Coif de fier+2
@@ -1930,26 +1930,26 @@ VNUM	LOCALE_NAME
 12247	Coif masca stafiei+7
 12248	Coif masca stafiei+8
 12249	Coif masca stafiei+9
-12260	Mascã de Fricã +0
-12261	Mascã de Fricã +1
-12262	Mascã de Fricã +2
-12263	Mascã de Fricã +3
-12264	Mascã de Fricã +4
-12265	Mascã de Fricã +5
-12266	Mascã de Fricã +6
-12267	Mascã de Fricã +7
-12268	Mascã de Fricã +8
-12269	Mascã de Fricã +9
-12280	Cascã Maestrul Rãzboi +0
-12281	Cascã Maestrul Rãzboi +1
-12282	Cascã Maestrul Rãzboi +2
-12283	Cascã Maestrul Rãzboi +
-12284	Cascã Maestrul Rãzboi +4
-12285	Cascã Maestrul Rãzboi +5
-12286	Cascã Maestrul Rãzboi +6
-12287	Cascã Maestrul Rãzboi +7
-12288	Cascã Maestrul Rãzboi +8
-12289	Cascã Maestrul Rãzboi +9
+12260	MascÄƒ de FricÄƒ +0
+12261	MascÄƒ de FricÄƒ +1
+12262	MascÄƒ de FricÄƒ +2
+12263	MascÄƒ de FricÄƒ +3
+12264	MascÄƒ de FricÄƒ +4
+12265	MascÄƒ de FricÄƒ +5
+12266	MascÄƒ de FricÄƒ +6
+12267	MascÄƒ de FricÄƒ +7
+12268	MascÄƒ de FricÄƒ +8
+12269	MascÄƒ de FricÄƒ +9
+12280	CascÄƒ Maestrul RÄƒzboi +0
+12281	CascÄƒ Maestrul RÄƒzboi +1
+12282	CascÄƒ Maestrul RÄƒzboi +2
+12283	CascÄƒ Maestrul RÄƒzboi +
+12284	CascÄƒ Maestrul RÄƒzboi +4
+12285	CascÄƒ Maestrul RÄƒzboi +5
+12286	CascÄƒ Maestrul RÄƒzboi +6
+12287	CascÄƒ Maestrul RÄƒzboi +7
+12288	CascÄƒ Maestrul RÄƒzboi +8
+12289	CascÄƒ Maestrul RÄƒzboi +9
 12340	Gluga de piele+0
 12341	Gluga de piele+1
 12342	Gluga de piele+2
@@ -1970,16 +1970,16 @@ VNUM	LOCALE_NAME
 12367	Gluga de zale+7
 12368	Gluga de zale+8
 12369	Gluga de zale+9
-12380	Gluga de oşel+0
+12380	Gluga de oÅ£el+0
 12381	Gluga de Otel+1
-12382	Gluga de oşel+2
-12383	Gluga de oşel+3
-12384	Gluga de oşel+4
-12385	Gluga de oşel+5
-12386	Gluga de oşel+6
-12387	Gluga de oşel+7
-12388	Gluga de oşel+8
-12389	Gluga de oşel+9
+12382	Gluga de oÅ£el+2
+12383	Gluga de oÅ£el+3
+12384	Gluga de oÅ£el+4
+12385	Gluga de oÅ£el+5
+12386	Gluga de oÅ£el+6
+12387	Gluga de oÅ£el+7
+12388	Gluga de oÅ£el+8
+12389	Gluga de oÅ£el+9
 12390	Gluga de Orc +0
 12391	Gluga de Orc +1
 12392	Gluga de Orc +2
@@ -1990,26 +1990,26 @@ VNUM	LOCALE_NAME
 12397	Gluga de Orc +7
 12398	Gluga de Orc +8
 12399	Gluga de Orc +9
-12400	Gluga de Pãianjen +0
-12401	Gluga de Pãianjen +1
-12402	Gluga de Pãianjen +2
-12403	Gluga de Pãianjen +3
-12404	Gluga de Pãianjen +4
-12405	Gluga de Pãianjen +5
-12406	Gluga de Pãianjen +6
-12407	Gluga de Pãianjen +7
-12408	Gluga de Pãianjen +8
-12409	Gluga de Pãianjen +9
-12480	Coif însângerat+0
-12481	Coif însângerat+1
-12482	Coif însângerat+2
-12483	Coif însângerat+3
-12484	Coif însângerat+4
-12485	Coif însângerat+5
-12486	Coif însângerat+6
-12487	Coif însângerat+7
-12488	Coif însângerat+8
-12489	Coif însângerat+9
+12400	Gluga de PÄƒianjen +0
+12401	Gluga de PÄƒianjen +1
+12402	Gluga de PÄƒianjen +2
+12403	Gluga de PÄƒianjen +3
+12404	Gluga de PÄƒianjen +4
+12405	Gluga de PÄƒianjen +5
+12406	Gluga de PÄƒianjen +6
+12407	Gluga de PÄƒianjen +7
+12408	Gluga de PÄƒianjen +8
+12409	Gluga de PÄƒianjen +9
+12480	Coif Ã®nsÃ¢ngerat+0
+12481	Coif Ã®nsÃ¢ngerat+1
+12482	Coif Ã®nsÃ¢ngerat+2
+12483	Coif Ã®nsÃ¢ngerat+3
+12484	Coif Ã®nsÃ¢ngerat+4
+12485	Coif Ã®nsÃ¢ngerat+5
+12486	Coif Ã®nsÃ¢ngerat+6
+12487	Coif Ã®nsÃ¢ngerat+7
+12488	Coif Ã®nsÃ¢ngerat+8
+12489	Coif Ã®nsÃ¢ngerat+9
 12500	Coif blasfemie+0
 12501	Coif blasfemie+1
 12502	Coif blasfemie+2
@@ -2030,86 +2030,86 @@ VNUM	LOCALE_NAME
 12527	Coif cetate+7
 12528	Coif cetate+8
 12529	Coif cetate+9
-12530	Cascã cu Coarne +0
-12531	Cascã cu Coarne +1
-12532	Cascã cu Coarne +2
-12533	Cascã cu Coarne +3
-12534	Cascã cu Coarne +4
-12535	Cascã cu Coarne +5
-12536	Cascã cu Coarne +6
-12537	Cascã cu Coarne +7
-12538	Cascã cu Coarne +8
-12539	Cascã cu Coarne +9
-12540	Cascã Magicã +0
-12541	Cascã Magicã +1
-12542	Cascã Magicã +2
-12543	Cascã Magicã +3
-12544	Cascã Magicã +4
-12545	Cascã Magicã +5
-12546	Cascã Magicã +6
-12547	Cascã Magicã +7
-12548	Cascã Magicã +8
-12549	Cascã Magicã +9
-12620	Pãlãrie de cãlugãr+0
-12621	Pãlãrie de cãlugãr+1
-12622	Pãlãrie de cãlugãr+2
-12623	Pãlãrie de cãlugãr+3
-12624	Pãlãrie de cãlugãr+4
-12625	Pãlãrie de cãlugãr+5
-12626	Pãlãrie de cãlugãr+6
-12627	Pãlãrie de cãlugãr+7
-12628	Pãlãrie de cãlugãr+8
-12629	Pãlãrie de cãlugãr+9
-12640	Pãlãrie Phoenix+0
-12641	Pãlãrie Phoenix+1
-12642	Pãlãrie Phoenix+2
-12643	Pãlãrie Phoenix+3
-12644	Pãlãrie Phoenix+4
-12645	Pãlãrie Phoenix+5
-12646	Pãlãrie Phoenix+6
-12647	Pãlãrie Phoenix+7
-12648	Pãlãrie Phoenix+8
-12649	Pãlãrie Phoenix+9
-12660	Pãlãrie lum. soarelui+0
+12530	CascÄƒ cu Coarne +0
+12531	CascÄƒ cu Coarne +1
+12532	CascÄƒ cu Coarne +2
+12533	CascÄƒ cu Coarne +3
+12534	CascÄƒ cu Coarne +4
+12535	CascÄƒ cu Coarne +5
+12536	CascÄƒ cu Coarne +6
+12537	CascÄƒ cu Coarne +7
+12538	CascÄƒ cu Coarne +8
+12539	CascÄƒ cu Coarne +9
+12540	CascÄƒ MagicÄƒ +0
+12541	CascÄƒ MagicÄƒ +1
+12542	CascÄƒ MagicÄƒ +2
+12543	CascÄƒ MagicÄƒ +3
+12544	CascÄƒ MagicÄƒ +4
+12545	CascÄƒ MagicÄƒ +5
+12546	CascÄƒ MagicÄƒ +6
+12547	CascÄƒ MagicÄƒ +7
+12548	CascÄƒ MagicÄƒ +8
+12549	CascÄƒ MagicÄƒ +9
+12620	PÄƒlÄƒrie de cÄƒlugÄƒr+0
+12621	PÄƒlÄƒrie de cÄƒlugÄƒr+1
+12622	PÄƒlÄƒrie de cÄƒlugÄƒr+2
+12623	PÄƒlÄƒrie de cÄƒlugÄƒr+3
+12624	PÄƒlÄƒrie de cÄƒlugÄƒr+4
+12625	PÄƒlÄƒrie de cÄƒlugÄƒr+5
+12626	PÄƒlÄƒrie de cÄƒlugÄƒr+6
+12627	PÄƒlÄƒrie de cÄƒlugÄƒr+7
+12628	PÄƒlÄƒrie de cÄƒlugÄƒr+8
+12629	PÄƒlÄƒrie de cÄƒlugÄƒr+9
+12640	PÄƒlÄƒrie Phoenix+0
+12641	PÄƒlÄƒrie Phoenix+1
+12642	PÄƒlÄƒrie Phoenix+2
+12643	PÄƒlÄƒrie Phoenix+3
+12644	PÄƒlÄƒrie Phoenix+4
+12645	PÄƒlÄƒrie Phoenix+5
+12646	PÄƒlÄƒrie Phoenix+6
+12647	PÄƒlÄƒrie Phoenix+7
+12648	PÄƒlÄƒrie Phoenix+8
+12649	PÄƒlÄƒrie Phoenix+9
+12660	PÄƒlÄƒrie lum. soarelui+0
 12661	Palaria lum. soarelui+1
-12662	Pãlãrie lum. soarelui+2
-12663	Pãlãrie lum. soarelui+3
-12664	Pãlãrie lum. soarelui+4
-12665	Pãlãrie lum. soarelui+5
-12666	Pãlãrie lum. soarelui+6
-12667	Pãlãrie lum. soarelui+7
-12668	Pãlãrie lum. soarelui+8
-12669	Pãlãrie lum. soarelui+9
-12670	Pãlãria Cardinalului +0
-12671	Pãlãria Cardinalului +1
-12672	Pãlãria Cardinalului +2
-12673	Pãlãria Cardinalului +3
-12674	Pãlãria Cardinalului +4
-12675	Pãlãria Cardinalului +5
-12676	Pãlãria Cardinalului +6
-12677	Pãlãria Cardinalului +7
-12678	Pãlãria Cardinalului +8
-12679	Pãlãria Cardinalului +9
-12680	Pãlãrie Suflet Ciobit +0
-12681	Pãlãrie Suflet Ciobit +1
-12682	Pãlãrie Suflet Ciobit +2
-12683	Pãlãrie Suflet Ciobit +3
-12684	Pãlãrie Suflet Ciobit +4
-12685	Pãlãrie Suflet Ciobit +5
-12686	Pãlãrie Suflet Ciobit +6
-12687	Pãlãrie Suflet Ciobit +7
-12688	Pãlãrie Suflet Ciobit +8
-12689	Pãlãrie Suflet Ciobit +9
-13000	Scut de luptã+0
-13001	Scut de luptã+1
-13002	Scut de luptã+2
-13003	Scut de luptã+3
-13004	Scut de luptã+4
-13005	Scut de luptã+5
-13006	Scut de luptã+6
-13007	Scut de luptã+7
-13008	Scut de luptã+8
-13009	Scut de luptã+9
+12662	PÄƒlÄƒrie lum. soarelui+2
+12663	PÄƒlÄƒrie lum. soarelui+3
+12664	PÄƒlÄƒrie lum. soarelui+4
+12665	PÄƒlÄƒrie lum. soarelui+5
+12666	PÄƒlÄƒrie lum. soarelui+6
+12667	PÄƒlÄƒrie lum. soarelui+7
+12668	PÄƒlÄƒrie lum. soarelui+8
+12669	PÄƒlÄƒrie lum. soarelui+9
+12670	PÄƒlÄƒria Cardinalului +0
+12671	PÄƒlÄƒria Cardinalului +1
+12672	PÄƒlÄƒria Cardinalului +2
+12673	PÄƒlÄƒria Cardinalului +3
+12674	PÄƒlÄƒria Cardinalului +4
+12675	PÄƒlÄƒria Cardinalului +5
+12676	PÄƒlÄƒria Cardinalului +6
+12677	PÄƒlÄƒria Cardinalului +7
+12678	PÄƒlÄƒria Cardinalului +8
+12679	PÄƒlÄƒria Cardinalului +9
+12680	PÄƒlÄƒrie Suflet Ciobit +0
+12681	PÄƒlÄƒrie Suflet Ciobit +1
+12682	PÄƒlÄƒrie Suflet Ciobit +2
+12683	PÄƒlÄƒrie Suflet Ciobit +3
+12684	PÄƒlÄƒrie Suflet Ciobit +4
+12685	PÄƒlÄƒrie Suflet Ciobit +5
+12686	PÄƒlÄƒrie Suflet Ciobit +6
+12687	PÄƒlÄƒrie Suflet Ciobit +7
+12688	PÄƒlÄƒrie Suflet Ciobit +8
+12689	PÄƒlÄƒrie Suflet Ciobit +9
+13000	Scut de luptÄƒ+0
+13001	Scut de luptÄƒ+1
+13002	Scut de luptÄƒ+2
+13003	Scut de luptÄƒ+3
+13004	Scut de luptÄƒ+4
+13005	Scut de luptÄƒ+5
+13006	Scut de luptÄƒ+6
+13007	Scut de luptÄƒ+7
+13008	Scut de luptÄƒ+8
+13009	Scut de luptÄƒ+9
 13020	Scut pentagon+0
 13021	Scut pentagon+1
 13022	Scut pentagon+2
@@ -2180,26 +2180,26 @@ VNUM	LOCALE_NAME
 13147	Scut Titan+7
 13148	Scut Titan+8
 13149	Scut Titan+9
-13160	Scut Cei-3-Împãraşi+0
-13161	Scut Cei-3-Împãraşi+1
-13162	Scut Cei-3-Împãraşi+2
-13163	Scut Cei-3-Împãraşi+3
-13164	Scut Cei-3-Împãraşi+4
-13165	Scut Cei-3-Împãraşi+5
-13166	Scut Cei-3-Împãraşi+6
-13167	Scut Cei-3-Împãraşi+7
-13168	Scut Cei-3-Împãraşi+8
-13169	Scut Cei-3-Împãraşi+9
-13180	Scut strãlucitor+0
-13181	Scut strãlucitor+1
-13182	Scut strãlucitor+2
-13183	Scut strãlucitor+3
-13184	Scut strãlucitor+4
-13185	Scut strãlucitor+5
-13186	Scut strãlucitor+6
-13187	Scut strãlucitor+7
-13188	Scut strãlucitor+8
-13189	Scut strãlucitor+9
+13160	Scut Cei-3-ÃmpÄƒraÅ£i+0
+13161	Scut Cei-3-ÃmpÄƒraÅ£i+1
+13162	Scut Cei-3-ÃmpÄƒraÅ£i+2
+13163	Scut Cei-3-ÃmpÄƒraÅ£i+3
+13164	Scut Cei-3-ÃmpÄƒraÅ£i+4
+13165	Scut Cei-3-ÃmpÄƒraÅ£i+5
+13166	Scut Cei-3-ÃmpÄƒraÅ£i+6
+13167	Scut Cei-3-ÃmpÄƒraÅ£i+7
+13168	Scut Cei-3-ÃmpÄƒraÅ£i+8
+13169	Scut Cei-3-ÃmpÄƒraÅ£i+9
+13180	Scut strÄƒlucitor+0
+13181	Scut strÄƒlucitor+1
+13182	Scut strÄƒlucitor+2
+13183	Scut strÄƒlucitor+3
+13184	Scut strÄƒlucitor+4
+13185	Scut strÄƒlucitor+5
+13186	Scut strÄƒlucitor+6
+13187	Scut strÄƒlucitor+7
+13188	Scut strÄƒlucitor+8
+13189	Scut strÄƒlucitor+9
 13190	Scut pentagon+0
 13191	Scut pentagon+1
 13192	Scut pentagon+2
@@ -2220,116 +2220,116 @@ VNUM	LOCALE_NAME
 13207	Scut rotund negru+7
 13208	Scut rotund negru+8
 13209	Scut rotund negru+9
-14000	Brãşarã de lemn+0
-14001	Brãşarã de lemn+1
-14002	Brãşarã de lemn+2
-14003	Brãşarã de lemn+3
-14004	Brãşarã de lemn+4
-14005	Brãşarã de lemn+5
-14006	Brãşarã de lemn+6
-14007	Brãşarã de lemn+7
-14008	Brãşarã de lemn+8
-14009	Brãşarã de lemn+9
-14020	Brãşarã de cupru+0
-14021	Brãşarã de cupru+1
-14022	Brãşarã de cupru+2
-14023	Brãşarã de cupru+3
-14024	Brãşarã de cupru+4
-14025	Brãşarã de cupru+5
-14026	Brãşarã de cupru+6
-14027	Brãşarã de cupru+7
-14028	Brãşarã de cupru+8
-14029	Brãşarã de cupru+9
-14040	Brãşarã de argint+0
-14041	Brãşarã de argint+1
-14042	Brãşarã de argint+2
-14043	Brãşarã de argint+3
-14044	Brãşarã de argint+4
-14045	Brãşarã de argint+5
-14046	Brãşarã de argint+6
-14047	Brãşarã de argint+7
-14048	Brãşarã de argint+8
-14049	Brãşarã de argint+9
-14060	Brãşarã de aur+0
-14061	Brãşarã de aur+1
-14062	Brãşarã de aur+2
-14063	Brãşarã de aur+3
-14064	Brãşarã de aur+4
-14065	Brãşarã de aur+5
-14066	Brãşarã de aur+6
-14067	Brãşarã de aur+7
-14068	Brãşarã de aur+8
-14069	Brãşarã de aur+9
-14080	Brãşarã de jade+0
-14081	Brãşarã de jade+1
-14082	Brãşarã de jade+2
-14083	Brãşarã de jade+3
-14084	Brãşarã de jade+4
-14085	Brãşarã de jade+5
-14086	Brãşarã de jade+6
-14087	Brãşarã de jade+7
-14088	Brãşarã de jade+8
-14089	Brãşarã de jade+9
-14100	Brãşarã de abanos+0
-14101	Brãşarã de abanos+1
-14102	Brãşarã de abanos+2
-14103	Brãşarã de abanos+3
-14104	Brãşarã de abanos+4
-14105	Brãşarã de abanos+5
-14106	Brãşarã de abanos+6
-14107	Brãşarã de abanos+7
-14108	Brãşarã de abanos+8
-14109	Brãşarã de abanos+9
-14120	Brãşarã de perle+0
-14121	Brãşarã de perle+1
-14122	Brãşarã de perle+2
-14123	Brãşarã de perle+3
-14124	Brãşarã de perle+4
-14125	Brãşarã de perle+5
-14126	Brãşarã de perle+6
-14127	Brãşarã de perle+7
-14128	Brãşarã de perle+8
-14129	Brãşarã de perle+9
-14140	Brãşarã de aur alb+0
-14141	Brãşarã de aur alb+1
-14142	Brãşarã de aur alb+2
-14143	Brãşarã de aur alb+3
-14144	Brãşarã de aur alb+4
-14145	Brãşarã de aur alb+5
-14146	Brãşarã de aur alb+6
-14147	Brãşarã de aur alb+7
-14148	Brãşarã de aur alb+8
-14149	Brãşarã de aur alb+9
-14160	Brãşarã de cristal+0
-14161	Brãşarã de cristal+1
-14162	Brãşarã de cristal+2
-14163	Brãşarã de cristal+3
-14164	Brãşarã de cristal+4
-14165	Brãşarã de cristal+5
-14166	Brãşarã de cristal+6
-14167	Brãşarã de cristal+7
-14168	Brãşarã de cristal+8
-14169	Brãşarã de cristal+9
-14180	Brãşarã de ametist+0
-14181	Brãşarã de ametist+1
-14182	Brãşarã de ametist+2
-14183	Brãşarã de ametist+3
-14184	Brãşarã de ametist+4
-14185	Brãşarã de ametist+5
-14186	Brãşarã de ametist+6
-14187	Brãşarã de ametist+7
-14188	Brãşarã de ametist+8
-14189	Brãşarã de ametist+9
-14200	Brãşarã lacrima cer+0
-14201	Brãşarã lacrima cer+1
-14202	Brãşarã lacrima cer+2
-14203	Brãşarã lacrima cer+3
-14204	Brãşarã lacrima cer+4
-14205	Brãşarã lacrima cer+5
-14206	Brãşarã lacrima cer+6
-14207	Brãşarã lacrima cer+7
-14208	Brãşarã lacrima cer+8
-14209	Brãşarã lacrima cer+9
+14000	BrÄƒÅ£arÄƒ de lemn+0
+14001	BrÄƒÅ£arÄƒ de lemn+1
+14002	BrÄƒÅ£arÄƒ de lemn+2
+14003	BrÄƒÅ£arÄƒ de lemn+3
+14004	BrÄƒÅ£arÄƒ de lemn+4
+14005	BrÄƒÅ£arÄƒ de lemn+5
+14006	BrÄƒÅ£arÄƒ de lemn+6
+14007	BrÄƒÅ£arÄƒ de lemn+7
+14008	BrÄƒÅ£arÄƒ de lemn+8
+14009	BrÄƒÅ£arÄƒ de lemn+9
+14020	BrÄƒÅ£arÄƒ de cupru+0
+14021	BrÄƒÅ£arÄƒ de cupru+1
+14022	BrÄƒÅ£arÄƒ de cupru+2
+14023	BrÄƒÅ£arÄƒ de cupru+3
+14024	BrÄƒÅ£arÄƒ de cupru+4
+14025	BrÄƒÅ£arÄƒ de cupru+5
+14026	BrÄƒÅ£arÄƒ de cupru+6
+14027	BrÄƒÅ£arÄƒ de cupru+7
+14028	BrÄƒÅ£arÄƒ de cupru+8
+14029	BrÄƒÅ£arÄƒ de cupru+9
+14040	BrÄƒÅ£arÄƒ de argint+0
+14041	BrÄƒÅ£arÄƒ de argint+1
+14042	BrÄƒÅ£arÄƒ de argint+2
+14043	BrÄƒÅ£arÄƒ de argint+3
+14044	BrÄƒÅ£arÄƒ de argint+4
+14045	BrÄƒÅ£arÄƒ de argint+5
+14046	BrÄƒÅ£arÄƒ de argint+6
+14047	BrÄƒÅ£arÄƒ de argint+7
+14048	BrÄƒÅ£arÄƒ de argint+8
+14049	BrÄƒÅ£arÄƒ de argint+9
+14060	BrÄƒÅ£arÄƒ de aur+0
+14061	BrÄƒÅ£arÄƒ de aur+1
+14062	BrÄƒÅ£arÄƒ de aur+2
+14063	BrÄƒÅ£arÄƒ de aur+3
+14064	BrÄƒÅ£arÄƒ de aur+4
+14065	BrÄƒÅ£arÄƒ de aur+5
+14066	BrÄƒÅ£arÄƒ de aur+6
+14067	BrÄƒÅ£arÄƒ de aur+7
+14068	BrÄƒÅ£arÄƒ de aur+8
+14069	BrÄƒÅ£arÄƒ de aur+9
+14080	BrÄƒÅ£arÄƒ de jade+0
+14081	BrÄƒÅ£arÄƒ de jade+1
+14082	BrÄƒÅ£arÄƒ de jade+2
+14083	BrÄƒÅ£arÄƒ de jade+3
+14084	BrÄƒÅ£arÄƒ de jade+4
+14085	BrÄƒÅ£arÄƒ de jade+5
+14086	BrÄƒÅ£arÄƒ de jade+6
+14087	BrÄƒÅ£arÄƒ de jade+7
+14088	BrÄƒÅ£arÄƒ de jade+8
+14089	BrÄƒÅ£arÄƒ de jade+9
+14100	BrÄƒÅ£arÄƒ de abanos+0
+14101	BrÄƒÅ£arÄƒ de abanos+1
+14102	BrÄƒÅ£arÄƒ de abanos+2
+14103	BrÄƒÅ£arÄƒ de abanos+3
+14104	BrÄƒÅ£arÄƒ de abanos+4
+14105	BrÄƒÅ£arÄƒ de abanos+5
+14106	BrÄƒÅ£arÄƒ de abanos+6
+14107	BrÄƒÅ£arÄƒ de abanos+7
+14108	BrÄƒÅ£arÄƒ de abanos+8
+14109	BrÄƒÅ£arÄƒ de abanos+9
+14120	BrÄƒÅ£arÄƒ de perle+0
+14121	BrÄƒÅ£arÄƒ de perle+1
+14122	BrÄƒÅ£arÄƒ de perle+2
+14123	BrÄƒÅ£arÄƒ de perle+3
+14124	BrÄƒÅ£arÄƒ de perle+4
+14125	BrÄƒÅ£arÄƒ de perle+5
+14126	BrÄƒÅ£arÄƒ de perle+6
+14127	BrÄƒÅ£arÄƒ de perle+7
+14128	BrÄƒÅ£arÄƒ de perle+8
+14129	BrÄƒÅ£arÄƒ de perle+9
+14140	BrÄƒÅ£arÄƒ de aur alb+0
+14141	BrÄƒÅ£arÄƒ de aur alb+1
+14142	BrÄƒÅ£arÄƒ de aur alb+2
+14143	BrÄƒÅ£arÄƒ de aur alb+3
+14144	BrÄƒÅ£arÄƒ de aur alb+4
+14145	BrÄƒÅ£arÄƒ de aur alb+5
+14146	BrÄƒÅ£arÄƒ de aur alb+6
+14147	BrÄƒÅ£arÄƒ de aur alb+7
+14148	BrÄƒÅ£arÄƒ de aur alb+8
+14149	BrÄƒÅ£arÄƒ de aur alb+9
+14160	BrÄƒÅ£arÄƒ de cristal+0
+14161	BrÄƒÅ£arÄƒ de cristal+1
+14162	BrÄƒÅ£arÄƒ de cristal+2
+14163	BrÄƒÅ£arÄƒ de cristal+3
+14164	BrÄƒÅ£arÄƒ de cristal+4
+14165	BrÄƒÅ£arÄƒ de cristal+5
+14166	BrÄƒÅ£arÄƒ de cristal+6
+14167	BrÄƒÅ£arÄƒ de cristal+7
+14168	BrÄƒÅ£arÄƒ de cristal+8
+14169	BrÄƒÅ£arÄƒ de cristal+9
+14180	BrÄƒÅ£arÄƒ de ametist+0
+14181	BrÄƒÅ£arÄƒ de ametist+1
+14182	BrÄƒÅ£arÄƒ de ametist+2
+14183	BrÄƒÅ£arÄƒ de ametist+3
+14184	BrÄƒÅ£arÄƒ de ametist+4
+14185	BrÄƒÅ£arÄƒ de ametist+5
+14186	BrÄƒÅ£arÄƒ de ametist+6
+14187	BrÄƒÅ£arÄƒ de ametist+7
+14188	BrÄƒÅ£arÄƒ de ametist+8
+14189	BrÄƒÅ£arÄƒ de ametist+9
+14200	BrÄƒÅ£arÄƒ lacrima cer+0
+14201	BrÄƒÅ£arÄƒ lacrima cer+1
+14202	BrÄƒÅ£arÄƒ lacrima cer+2
+14203	BrÄƒÅ£arÄƒ lacrima cer+3
+14204	BrÄƒÅ£arÄƒ lacrima cer+4
+14205	BrÄƒÅ£arÄƒ lacrima cer+5
+14206	BrÄƒÅ£arÄƒ lacrima cer+6
+14207	BrÄƒÅ£arÄƒ lacrima cer+7
+14208	BrÄƒÅ£arÄƒ lacrima cer+8
+14209	BrÄƒÅ£arÄƒ lacrima cer+9
 14220	Bratara Suflet Cristal+0
 14221	Bratara Suflet Cristal+1
 14222	Bratara Suflet Cristal+2
@@ -3001,14 +3001,14 @@ VNUM	LOCALE_NAME
 20757	Costum de Aur +7
 20758	Costum de Aur +8
 20759	Costum de Aur +9
-22000	Pergamentul oraºului
-22001	Înapoi în oraº
+22000	Pergamentul oraÅŸului
+22001	Ãnapoi Ã®n oraÅŸ
 22010	Pergamentul Orasului
 22011	Pergamentul Orasului
-22020	Hârtie
+22020	HÃ¢rtie
 22030	Pergament teleporter
-22040	Pergamentul vieşii
-22050	Pergamentul învierii
+22040	Pergamentul vieÅ£ii
+22050	Pergamentul Ã®nvierii
 25040	Pergament Binecuvantat
 25041	Piatra Magica
 25100	Pergament Piatra Stafie
@@ -3040,519 +3040,519 @@ VNUM	LOCALE_NAME
 27119	Licoare Azurie (S)
 27120	Licoare Azurie (M)
 27121	Licoare Azurie (L)
-27400	Undişã+1
-27410	Undişã+2
-27420	Undişã+3
-27430	Undişã+4
-27440	Undişã+5
-27450	Undişã+6
-27460	Undişã+7
-27470	Undişã+8
-27480	Undişã+9
-27490	Undişã+10
-27500	Undişã+11
-27510	Undişã+12
-27520	Undişã+13
-27530	Undişã+14
-27540	Undişã+15
-27550	Undişã+16
-27560	Undişã+17
-27570	Undişã+18
-27580	Undişã+19
-27590	Undişã+20
-27600	Foc de tabãrã
-27610	Marmurã de pescuit
+27400	UndiÅ£Äƒ+1
+27410	UndiÅ£Äƒ+2
+27420	UndiÅ£Äƒ+3
+27430	UndiÅ£Äƒ+4
+27440	UndiÅ£Äƒ+5
+27450	UndiÅ£Äƒ+6
+27460	UndiÅ£Äƒ+7
+27470	UndiÅ£Äƒ+8
+27480	UndiÅ£Äƒ+9
+27490	UndiÅ£Äƒ+10
+27500	UndiÅ£Äƒ+11
+27510	UndiÅ£Äƒ+12
+27520	UndiÅ£Äƒ+13
+27530	UndiÅ£Äƒ+14
+27540	UndiÅ£Äƒ+15
+27550	UndiÅ£Äƒ+16
+27560	UndiÅ£Äƒ+17
+27570	UndiÅ£Äƒ+18
+27580	UndiÅ£Äƒ+19
+27590	UndiÅ£Äƒ+20
+27600	Foc de tabÄƒrÄƒ
+27610	MarmurÄƒ de pescuit
 27620	Cartea pescuitului
-27799	Oase de peºte
-27800	Pastã
-27801	Râmã
-27802	Peºte mic
-27803	ªalãu
-27804	Peºte mandarinã
-27805	ªalãu mare
+27799	Oase de peÅŸte
+27800	PastÄƒ
+27801	RÃ¢mÄƒ
+27802	PeÅŸte mic
+27803	ÅalÄƒu
+27804	PeÅŸte mandarinÄƒ
+27805	ÅalÄƒu mare
 27806	Crap
 27807	Somon
 27808	Crap chinezesc
-27809	Pãstrãv
-27810	Anghilã
-27811	Pãstrãv curcubeu
-27812	Pãstrãv
+27809	PÄƒstrÄƒv
+27810	AnghilÄƒ
+27811	PÄƒstrÄƒv curcubeu
+27812	PÄƒstrÄƒv
 27813	Scrumbie
 27814	Biban
 27815	Tenchi
-27816	Pisicã de mare
-27817	Şipar
-27818	Peºte lotus
+27816	PisicÄƒ de mare
+27817	Å¢ipar
+27818	PeÅŸte lotus
 27819	Ayu
 27820	Hamsie
 27821	Shiri
-27822	Crap oglindã
-27823	Peºte auriu
-27833	ªalãu mort
-27834	Peºte mandarinã mort
-27835	ªalãu mare mort
+27822	Crap oglindÄƒ
+27823	PeÅŸte auriu
+27833	ÅalÄƒu mort
+27834	PeÅŸte mandarinÄƒ mort
+27835	ÅalÄƒu mare mort
 27836	Crap mort
 27837	Somon mort
 27838	Crap chinezesc mort
-27839	Pãstrãv mort
-27840	Anghilã moartã
-27841	Pãstrãv curcubeu mort
-27842	Pãstrãv mort
-27843	Scrumbie moartã
+27839	PÄƒstrÄƒv mort
+27840	AnghilÄƒ moartÄƒ
+27841	PÄƒstrÄƒv curcubeu mort
+27842	PÄƒstrÄƒv mort
+27843	Scrumbie moartÄƒ
 27844	Biban mort
 27845	Tenchi mort
-27846	Pisicã de mare moartã
-27847	Peºte zebrã mort
-27848	Peºte lotus mort
+27846	PisicÄƒ de mare moartÄƒ
+27847	PeÅŸte zebrÄƒ mort
+27848	PeÅŸte lotus mort
 27849	Ayu mort
-27850	Hamsie moartã
+27850	Hamsie moartÄƒ
 27851	Shiri mort
-27852	Crap oglindã mort
-27853	Peºte auriu mort
-27863	ªalãu prãjit
-27864	Peºte mandarinã prãjit
-27865	ªalãu mare prãjit
+27852	Crap oglindÄƒ mort
+27853	PeÅŸte auriu mort
+27863	ÅalÄƒu prÄƒjit
+27864	PeÅŸte mandarinÄƒ prÄƒjit
+27865	ÅalÄƒu mare prÄƒjit
 27866	Crap prajit
-27867	Somon prãjit
-27868	Crap chinezesc prãjit
-27869	Pãstrãv prãjit
+27867	Somon prÄƒjit
+27868	Crap chinezesc prÄƒjit
+27869	PÄƒstrÄƒv prÄƒjit
 27870	Anghila prajita
-27871	Pãstrãv curcubeu prãjit
-27872	Pãstrãv prãjit
-27873	Scrumbie prãjitã
-27874	Biban prãjit
-27875	Tenchi prãjit
-27876	Pisicã de mare prãjitã
-27877	Peºte zebrã prãjit
-27878	Peºte lotus prãjit
-27879	Ayu prãjit
-27880	Hamsie prãjitã
-27881	Shiri prãjit
-27882	Crap oglindã prãjit
-27883	Peºte auriu prãjit
-27987	Scoicã
+27871	PÄƒstrÄƒv curcubeu prÄƒjit
+27872	PÄƒstrÄƒv prÄƒjit
+27873	Scrumbie prÄƒjitÄƒ
+27874	Biban prÄƒjit
+27875	Tenchi prÄƒjit
+27876	PisicÄƒ de mare prÄƒjitÄƒ
+27877	PeÅŸte zebrÄƒ prÄƒjit
+27878	PeÅŸte lotus prÄƒjit
+27879	Ayu prÄƒjit
+27880	Hamsie prÄƒjitÄƒ
+27881	Shiri prÄƒjit
+27882	Crap oglindÄƒ prÄƒjit
+27883	PeÅŸte auriu prÄƒjit
+27987	ScoicÄƒ
 27988	Harta Comorii
 27989	Busola Pietrei Metin
-27990	Bucatã de piatrã
-27991	Piatrã acvaticã
+27990	BucatÄƒ de piatrÄƒ
+27991	PiatrÄƒ acvaticÄƒ
 27992	Perla Alba
-27993	Perlã albastrã
-27994	Perlã viºinie
-27995	Sticlã goalã
-27996	Sticlã cu otravã
+27993	PerlÄƒ albastrÄƒ
+27994	PerlÄƒ viÅŸinie
+27995	SticlÄƒ goalÄƒ
+27996	SticlÄƒ cu otravÄƒ
 27997	Marmura Vitalitate
-27998	Tolbã de alchimie
-27999	Geantã cu pietre-stafie
+27998	TolbÄƒ de alchimie
+27999	GeantÄƒ cu pietre-stafie
 28000	Piatra masacrului+0
 28004	Piatra paranoia+0
 28008	Piatra traumei+0
 28012	Piatra impotriva Lycan+0
-28030	Piatra pãtrunderii+0
-28031	Piatra loviturã-fatalã+0
-28032	Piatra reîntoarcerii+0
-28033	Piatra anti-rãzboinici+0
+28030	Piatra pÄƒtrunderii+0
+28031	Piatra loviturÄƒ-fatalÄƒ+0
+28032	Piatra reÃ®ntoarcerii+0
+28033	Piatra anti-rÄƒzboinici+0
 28034	Piatra anti-ninja+0
 28035	Piatra anti-sura+0
-28036	Piatra anti-ºaman+0
-28037	Piatra monºtrilor+0
+28036	Piatra anti-ÅŸaman+0
+28037	Piatra monÅŸtrilor+0
 28038	Piatra eschivei+0
-28039	Piatra pitulãrii+0
+28039	Piatra pitulÄƒrii+0
 28040	Piatra magiei+0
 28041	Piatra Vitalitatii +0
-28042	Piatra protecşiei+0
+28042	Piatra protecÅ£iei+0
 28043	Piatra grabei+0
 28100	Piatra masacrului+1
 28104	Piatra paranoia+1
 28108	Piatra traumei+1
 28112	Piatra impotriva Lycan+1
-28130	Piatra pãtrunderii+1
-28131	Piatra loviturã-fatalã+1
-28132	Piatra reîntoarcerii+1
-28133	Piatra anti-rãzboinici+1
+28130	Piatra pÄƒtrunderii+1
+28131	Piatra loviturÄƒ-fatalÄƒ+1
+28132	Piatra reÃ®ntoarcerii+1
+28133	Piatra anti-rÄƒzboinici+1
 28134	Piatra anti-ninja+1
 28135	Piatra anti-sura+1
-28136	Piatra anti-ºaman+1
-28137	Piatra monºtrilor+1
+28136	Piatra anti-ÅŸaman+1
+28137	Piatra monÅŸtrilor+1
 28138	Piatra eschivei+1
-28139	Piatra pitulãrii+1
+28139	Piatra pitulÄƒrii+1
 28140	Piatra magiei+1
 28141	Piatra Vitalitatii +1
-28142	Piatra protecşiei+1
+28142	Piatra protecÅ£iei+1
 28143	Piatra grabei+1
 28200	Piatra masacrului+2
 28204	Piatra paranoia+2
 28208	Piatra traumei+2
 28212	Piatra impotriva Lycan+2
-28230	Piatra pãtrunderii+2
-28231	Piatra loviturã-fatalã+2
-28232	Piatra reîntoarcerii+2
-28233	Piatra anti-rãzboinici+2
+28230	Piatra pÄƒtrunderii+2
+28231	Piatra loviturÄƒ-fatalÄƒ+2
+28232	Piatra reÃ®ntoarcerii+2
+28233	Piatra anti-rÄƒzboinici+2
 28234	Piatra anti-ninja+2
 28235	Piatra anti-sura+2
-28236	Piatra anti-ºaman+2
-28237	Piatra monºtrilor+2
+28236	Piatra anti-ÅŸaman+2
+28237	Piatra monÅŸtrilor+2
 28238	Piatra eschivei+2
-28239	Piatra pitulãrii+2
+28239	Piatra pitulÄƒrii+2
 28240	Piatra magiei+2
 28241	Piatra Vitalitatii +2
-28242	Piatra protecşiei+2
+28242	Piatra protecÅ£iei+2
 28243	Piatra grabei+2
 28300	Piatra masacrului+3
 28304	Piatra paranoia+3
 28308	Piatra traumei+3
 28312	Piatra impotriva Lycan+3
-28330	Piatra pãtrunderii+3
-28331	Piatra loviturã-fatalã+3
-28332	Piatra reîntoarcerii+3
-28333	Piatra anti-rãzboinici+3
+28330	Piatra pÄƒtrunderii+3
+28331	Piatra loviturÄƒ-fatalÄƒ+3
+28332	Piatra reÃ®ntoarcerii+3
+28333	Piatra anti-rÄƒzboinici+3
 28334	Piatra anti-ninja+3
 28335	Piatra anti-sura+3
-28336	Piatra anti-ºaman+3
-28337	Piatra monºtrilor+3
+28336	Piatra anti-ÅŸaman+3
+28337	Piatra monÅŸtrilor+3
 28338	Piatra eschivei+3
-28339	Piatra pitulãrii+3
+28339	Piatra pitulÄƒrii+3
 28340	Piatra magiei+3
 28341	Piatra Vitalitatii +3
-28342	Piatra protecşiei+3
+28342	Piatra protecÅ£iei+3
 28343	Piatra grabei+3
 28400	Piatra masacrului+4
 28404	Piatra paranoia+4
 28408	Piatra traumei+4
 28412	Piatra impotriva Lycan+4
-28430	Piatra pãtrunderii+4
-28431	Piatra loviturã-fatalã+4
-28432	Piatra reîntoarcerii+4
-28433	Piatra anti-rãzboinici+4
+28430	Piatra pÄƒtrunderii+4
+28431	Piatra loviturÄƒ-fatalÄƒ+4
+28432	Piatra reÃ®ntoarcerii+4
+28433	Piatra anti-rÄƒzboinici+4
 28434	Piatra anti-ninja+4
 28435	Piatra anti-sura+4
-28436	Piatra anti-ºaman+4
-28437	Piatra monºtrilor+4
+28436	Piatra anti-ÅŸaman+4
+28437	Piatra monÅŸtrilor+4
 28438	Piatra eschivei+4
-28439	Piatra pitulãrii+4
+28439	Piatra pitulÄƒrii+4
 28440	Piatra magiei+4
 28441	Piatra Vitalitatii +4
-28442	Piatra protecşiei+4
+28442	Piatra protecÅ£iei+4
 28443	Piatra grabei+4
 28500	Piatra masacrului+5
 28504	Piatra paranoia+5
 28508	Piatra traumei+5
 28512	Piatra prostiei+5
-28530	Piatra pãtrunderii+5
-28531	Piatra loviturã-fatalã+5
-28532	Piatra reîntoarcerii+5
-28533	Piatra anti-rãzboinici+5
+28530	Piatra pÄƒtrunderii+5
+28531	Piatra loviturÄƒ-fatalÄƒ+5
+28532	Piatra reÃ®ntoarcerii+5
+28533	Piatra anti-rÄƒzboinici+5
 28534	Piatra anti-ninja+5
 28535	Piatra anti-sura+5
-28536	Piatra anti-ºaman+5
-28537	Piatra monºtrilor+5
+28536	Piatra anti-ÅŸaman+5
+28537	Piatra monÅŸtrilor+5
 28538	Piatra eschivei+5
-28539	Piatra pitulãrii+5
+28539	Piatra pitulÄƒrii+5
 28540	Piatra magiei+5
 28541	Piatra Vitalitatii +5
-28542	Piatra protecşiei+5
+28542	Piatra protecÅ£iei+5
 28543	Piatra grabei+5
-28600	Piatra pãtrunderii+6
-28601	Piatra loviturã-fatalã+6
-28602	Piatra reîntoarcerii+6
-28603	Piatra anti-rãzboinici+6
+28600	Piatra pÄƒtrunderii+6
+28601	Piatra loviturÄƒ-fatalÄƒ+6
+28602	Piatra reÃ®ntoarcerii+6
+28603	Piatra anti-rÄƒzboinici+6
 28604	Piatra anti-ninja+6
 28605	Piatra anti-sura+6
-28606	Piatra anti-ºaman+6
-28607	Piatra monºtrilor+6
+28606	Piatra anti-ÅŸaman+6
+28607	Piatra monÅŸtrilor+6
 28608	Piatra eschivei+6
-28609	Piatra pitulãrii+6
+28609	Piatra pitulÄƒrii+6
 28610	Piatra magiei+6
 28611	Piatra Vitalitatii +6
-28612	Piatra protecşiei+6
+28612	Piatra protecÅ£iei+6
 28613	Piatra grabei+6
-28630	Piatra acv. pãtrundere+5
+28630	Piatra acv. pÄƒtrundere+5
 28631	Piatra acv. lov. fat.+5
-28632	Piatra acv. reîntoarc.+5
-28633	Piatra acv. rãzboinici+5
+28632	Piatra acv. reÃ®ntoarc.+5
+28633	Piatra acv. rÄƒzboinici+5
 28634	Piatra acv. ninja+5
 28635	Piatra acv. sura+5
-28636	Piatra acv. ºaman+5
-28637	Piatra acv. monºtrii+5
-28638	Piatra acv. eschivã+5
+28636	Piatra acv. ÅŸaman+5
+28637	Piatra acv. monÅŸtrii+5
+28638	Piatra acv. eschivÄƒ+5
 28639	Piatra acv. pitulare+5
 28640	Piatra acv. magie+5
 28641	Piatra acv. vitalitate+5
-28642	Piatra acv. protecşie+5
-28643	Piatra acv. grabã+5
-28700	Piatra pãtrunderii+7
-28701	Piatra loviturã-fatalã+7
-28702	Piatra reîntoarcerii+7
-28703	Piatra anti-rãzboinici+7
+28642	Piatra acv. protecÅ£ie+5
+28643	Piatra acv. grabÄƒ+5
+28700	Piatra pÄƒtrunderii+7
+28701	Piatra loviturÄƒ-fatalÄƒ+7
+28702	Piatra reÃ®ntoarcerii+7
+28703	Piatra anti-rÄƒzboinici+7
 28704	Piatra anti-ninja+7
 28705	Piatra anti-sura+7
-28706	Piatra anti-ºaman+7
-28707	Piatra monºtrilor+7
+28706	Piatra anti-ÅŸaman+7
+28707	Piatra monÅŸtrilor+7
 28708	Piatra eschivei+7
-28709	Piatra pitulãrii+7
+28709	Piatra pitulÄƒrii+7
 28710	Piatra magiei+7
 28711	Piatra Vitalitatii +7
-28712	Piatra protecşiei+7
+28712	Piatra protecÅ£iei+7
 28713	Piatra grabei+7
-28730	Piatra acv. pãtrundere+7
+28730	Piatra acv. pÄƒtrundere+7
 28731	Piatra acv. lov. fat.+7
-28732	Piatra acv. reîntoarc.+7
-28733	Piatra acv. rãzboinici+7
+28732	Piatra acv. reÃ®ntoarc.+7
+28733	Piatra acv. rÄƒzboinici+7
 28734	Piatra acv. ninja+7
 28735	Piatra acv. sura+7
-28736	Piatra acv. ºaman+7
-28737	Piatra acv. monºtrii+7
+28736	Piatra acv. ÅŸaman+7
+28737	Piatra acv. monÅŸtrii+7
 28738	Piatra acv. eschiva+7
 28739	Piatra acv. pitulare+7
 28740	Piatra acv. magie+7
 28741	Piatra acv. vitalitate+7
-28742	Piatra acv. protecşie+7
-28743	Piatra acv. grabã+7
-28800	Piatra pãtrunderii+8
-28801	Piatra loviturã-fatalã+8
-28802	Piatra reîntoarcerii+8
-28803	Piatra anti-rãzboinici+8
+28742	Piatra acv. protecÅ£ie+7
+28743	Piatra acv. grabÄƒ+7
+28800	Piatra pÄƒtrunderii+8
+28801	Piatra loviturÄƒ-fatalÄƒ+8
+28802	Piatra reÃ®ntoarcerii+8
+28803	Piatra anti-rÄƒzboinici+8
 28804	Piatra anti-ninja+8
 28805	Piatra anti-sura+8
-28806	Piatra anti-ºaman+8
-28807	Piatra monºtrilor+8
+28806	Piatra anti-ÅŸaman+8
+28807	Piatra monÅŸtrilor+8
 28808	Piatra eschivei+8
-28809	Piatra pitulãrii+8
+28809	Piatra pitulÄƒrii+8
 28810	Piatra magiei+8
 28811	Piatra Vitalitatii +8
-28812	Piatra protecşiei+8
+28812	Piatra protecÅ£iei+8
 28813	Piatra grabei+8
-28830	Piatra acv. pãtrundere+8
+28830	Piatra acv. pÄƒtrundere+8
 28831	Piatra acv. lov. fat.+8
-28832	Piatra acv. reîntoarc.+8
-28833	Piatra acv. rãzboinici+8
+28832	Piatra acv. reÃ®ntoarc.+8
+28833	Piatra acv. rÄƒzboinici+8
 28834	Piatra acv. ninja+8
 28835	Piatra acv. sura+8
-28836	Piatra acv. ºaman+8
-28837	Piatra acv. monºtrii+8
+28836	Piatra acv. ÅŸaman+8
+28837	Piatra acv. monÅŸtrii+8
 28838	Piatra acv. eschiva+8
 28839	Piatra acv. pitulare+8
 28840	Piatra acv. magie+8
 28841	Piatra acv. vitalitate+8
-28842	piatra acv. protecşie+8
-28843	Piatra acv. grabã+8
-28900	Piatra pãtrunderii+9
-28901	Piatra loviturã-fatalã+9
-28902	Piatra reîntoarcerii+9
-28903	Piatra anti-rãzboinici+9
+28842	piatra acv. protecÅ£ie+8
+28843	Piatra acv. grabÄƒ+8
+28900	Piatra pÄƒtrunderii+9
+28901	Piatra loviturÄƒ-fatalÄƒ+9
+28902	Piatra reÃ®ntoarcerii+9
+28903	Piatra anti-rÄƒzboinici+9
 28904	Piatra anti-ninja+9
 28905	Piatra anti-sura+9
-28906	Piatra anti-ºaman+9
-28907	Piatra monºtrilor+9
+28906	Piatra anti-ÅŸaman+9
+28907	Piatra monÅŸtrilor+9
 28908	Piatra eschivei+9
-28909	Piatra pitulãrii+9
+28909	Piatra pitulÄƒrii+9
 28910	Piatra magiei+9
 28911	Piatra Vitalitatii +9
-28912	Piatra protecşiei+9
+28912	Piatra protecÅ£iei+9
 28913	Piatra grabei+9
-28930	Piatra acv. pãtrundere+9
+28930	Piatra acv. pÄƒtrundere+9
 28931	Piatra acv. lov. fat.+9
-28932	Piatra acv. reîntoarc.+9
-28933	Piatra acv. rãzboinici+9
+28932	Piatra acv. reÃ®ntoarc.+9
+28933	Piatra acv. rÄƒzboinici+9
 28934	Piatra acv. ninja+9
 28935	Piatra acv. sura+9
-28936	Piatra acv. ºaman+9
-28937	Piatra acv. monºtrii+9
+28936	Piatra acv. ÅŸaman+9
+28937	Piatra acv. monÅŸtrii+9
 28938	Piatra acv. eschiva+9
 28939	Piatra acv. pitulare+9
 28940	Piatra acv. magie+9
 28941	Piatra acv. vitalitate+9
-28942	Piatra acv. protecşie+9
-28943	Piatra acv. grabã+9
-28960	Bucatã de Piatrã Spartã
-29001	Scoicã Iacob
-29002	Scoicã Iacob albastrã
-29003	Scoicã Iacob galbenã
-29004	Scoicã Iacob roºie
-29005	Scoicã Iacob verde
-29006	Piatrã galbenã de vin
-29007	Piatrã albastrã de vin
-29008	Apã sfântã albastrã
-29009	Apã sfântã galbenã
-29010	Apã sfântã roºie
-29011	Apã sfântã verde
+28942	Piatra acv. protecÅ£ie+9
+28943	Piatra acv. grabÄƒ+9
+28960	BucatÄƒ de PiatrÄƒ SpartÄƒ
+29001	ScoicÄƒ Iacob
+29002	ScoicÄƒ Iacob albastrÄƒ
+29003	ScoicÄƒ Iacob galbenÄƒ
+29004	ScoicÄƒ Iacob roÅŸie
+29005	ScoicÄƒ Iacob verde
+29006	PiatrÄƒ galbenÄƒ de vin
+29007	PiatrÄƒ albastrÄƒ de vin
+29008	ApÄƒ sfÃ¢ntÄƒ albastrÄƒ
+29009	ApÄƒ sfÃ¢ntÄƒ galbenÄƒ
+29010	ApÄƒ sfÃ¢ntÄƒ roÅŸie
+29011	ApÄƒ sfÃ¢ntÄƒ verde
 29012	Mana Albastru Inchis Zeu
-29013	Mâna Domnului galbenã
-29014	Mâna Domnului purpurie
+29013	MÃ¢na Domnului galbenÄƒ
+29014	MÃ¢na Domnului purpurie
 29015	Mana Verde Inchis de Zeu
-29101	Târnãcop+0
-29102	Târnãcop+1
-29103	Târnãcop+2
-29104	Târnãcop+3
-29105	Târnãcop+4
-29106	Târnãcop+5
-29107	Târnãcop+6
-29108	Târnãcop+7
-29109	Târnãcop+8
-29110	Târnãcop+9
+29101	TÃ¢rnÄƒcop+0
+29102	TÃ¢rnÄƒcop+1
+29103	TÃ¢rnÄƒcop+2
+29104	TÃ¢rnÄƒcop+3
+29105	TÃ¢rnÄƒcop+4
+29106	TÃ¢rnÄƒcop+5
+29107	TÃ¢rnÄƒcop+6
+29108	TÃ¢rnÄƒcop+7
+29109	TÃ¢rnÄƒcop+8
+29110	TÃ¢rnÄƒcop+9
 30000	Orz
 30001	Scrisoare
 30002	Carnati Prajiti
-30003	Rât de porc
-30004	Dinte de mistreş
-30005	Bucatã armurã stricatã
+30003	RÃ¢t de porc
+30004	Dinte de mistreÅ£
+30005	BucatÄƒ armurÄƒ stricatÄƒ
 30006	Dinte de Ork
-30007	Amuletã de Ork
-30008	Îndrumator de esotericã
+30007	AmuletÄƒ de Ork
+30008	Ãndrumator de esotericÄƒ
 30009	Leac necunoscut
 30010	Fiere de Urs
 30011	Ghem
-30012	Sticlã de vin
+30012	SticlÄƒ de vin
 30013	Ulcea de alcool
-30014	Blanã de Yeti
+30014	BlanÄƒ de Yeti
 30015	Suvenirul Demonului
-30016	Piatrã preşioasa demon
-30017	Ac decorativ de pãr
-30018	Banderolã roºie
+30016	PiatrÄƒ preÅ£ioasa demon
+30017	Ac decorativ de pÄƒr
+30018	BanderolÄƒ roÅŸie
 30019	Coama de Foc
-30020	Sâmbure de piersicã
-30021	Buc. de piatrã preşioasã
-30022	Coadã de ºarpe
-30023	Blanã albã de tigru
-30024	Coadã de cal
+30020	SÃ¢mbure de piersicÄƒ
+30021	Buc. de piatrÄƒ preÅ£ioasÄƒ
+30022	CoadÄƒ de ÅŸarpe
+30023	BlanÄƒ albÄƒ de tigru
+30024	CoadÄƒ de cal
 30025	Tolba Otrava de Paianjen
 30026	Intestin de lup
-30027	Blanã de lup
-30028	Ghearã de lup
+30027	BlanÄƒ de lup
+30028	GhearÄƒ de lup
 30029	Ficat de lup
-30030	Lamã de pumnal ruginitã
+30030	LamÄƒ de pumnal ruginitÄƒ
 30031	Obiect de bijuterie
-30032	Uniformã neagrã
-30033	Porşelan spart
-30034	Banderolã albã
-30035	Cremã de faşã
-30036	Buruianã misterioasã
-30037	Ghearã de tigru
-30038	Blanã de tigru
-30039	Bucatã de şesãturã
+30032	UniformÄƒ neagrÄƒ
+30033	PorÅ£elan spart
+30034	BanderolÄƒ albÄƒ
+30035	CremÄƒ de faÅ£Äƒ
+30036	BuruianÄƒ misterioasÄƒ
+30037	GhearÄƒ de tigru
+30038	BlanÄƒ de tigru
+30039	BucatÄƒ de Å£esÄƒturÄƒ
 30040	Foaie
 30041	Shiriken
 30042	Dintele unui tigru
-30043	Boabã
+30043	BoabÄƒ
 30044	Lut
 30045	Ac de scorpion
-30046	Coadã de scorpion
+30046	CoadÄƒ de scorpion
 30047	Cartea blestemelor
-30048	Bucatã de gheaşã
-30049	Corn de balenã
-30050	Glob de gheaşã
+30048	BucatÄƒ de gheaÅ£Äƒ
+30049	Corn de balenÄƒ
+30050	Glob de gheaÅ£Äƒ
 30051	Talisman necunoscut
 30052	Steag
-30053	Piele de talpã de urs
+30053	Piele de talpÄƒ de urs
 30054	Inel de cununie
 30055	Foarfece de scorpion
 30056	Panza de Paianjen
 30057	Ochi de Paianjen
 30058	Sac Oua de Paianjen
 30059	Picioare de Paianjen
-30060	Limbã de broascã
-30061	Pulpe de broascã
+30060	LimbÄƒ de broascÄƒ
+30061	Pulpe de broascÄƒ
 30062	Castron medicinal
 30063	Leac de piele
-30064	Piatrã ascutişã
+30064	PiatrÄƒ ascutiÅ£Äƒ
 30065	Clopot
 30066	Piper iute
-30067	piele de ºarpe
-30068	Fripturã de tofu
-30069	Ghearã de lup+
-30070	Blanã de lup+
+30067	piele de ÅŸarpe
+30068	FripturÄƒ de tofu
+30069	GhearÄƒ de lup+
+30070	BlanÄƒ de lup+
 30071	Fiere de urs+
-30072	Piele de talpã de urs+
-30073	Banderolã albã+
-30074	Uniformã neagrã+
+30072	Piele de talpÄƒ de urs+
+30073	BanderolÄƒ albÄƒ+
+30074	UniformÄƒ neagrÄƒ+
 30075	Shiriken+
-30076	amuletã de Ork+
+30076	amuletÄƒ de Ork+
 30077	dinte de Ork+
-30078	Îndrumator de esotericã+
+30078	Ãndrumator de esotericÄƒ+
 30079	Talisman necunoscut+
 30080	Cartea blestemelor+
-30081	Coadã de scorpion+
-30082	Coadã de ºarpe+
+30081	CoadÄƒ de scorpion+
+30082	CoadÄƒ de ÅŸarpe+
 30083	Leac necunoscut+
 30084	Talisman necunoscut+
-30085	Bucatã de şesãturã+
+30085	BucatÄƒ de Å£esÄƒturÄƒ+
 30086	Amintire de demon+
 30087	Bijuterie de Demon+
-30088	Bucatã de gheaşã+
-30089	Blanã de Yeti+
-30090	Glob de gheaşã+
-30091	Simbol de rãzboinic
-30092	Prada sãlbaticilor
-30093	Tolbã norocoasã
-30094	Tolbã norocoasã
-30095	Tolbã norocoasã
-30096	Tolbã norocoasã
-30097	Tolbã norocoasã de bursã
-30098	Tolbã norocoasã
-30099	Tolbã norocoasã
-30100	Tolbã norocoasã
+30088	BucatÄƒ de gheaÅ£Äƒ+
+30089	BlanÄƒ de Yeti+
+30090	Glob de gheaÅ£Äƒ+
+30091	Simbol de rÄƒzboinic
+30092	Prada sÄƒlbaticilor
+30093	TolbÄƒ norocoasÄƒ
+30094	TolbÄƒ norocoasÄƒ
+30095	TolbÄƒ norocoasÄƒ
+30096	TolbÄƒ norocoasÄƒ
+30097	TolbÄƒ norocoasÄƒ de bursÄƒ
+30098	TolbÄƒ norocoasÄƒ
+30099	TolbÄƒ norocoasÄƒ
+30100	TolbÄƒ norocoasÄƒ
 30101	Verigheta lui Ariyoung
 30102	Secure de Aur
-30103	Dinte de balenã auriu
-30104	Pânzã pãianjen de deºert
-30105	Coadã de scorpion
+30103	Dinte de balenÄƒ auriu
+30104	PÃ¢nzÄƒ pÄƒianjen de deÅŸert
+30105	CoadÄƒ de scorpion
 30106	Leac pentru Yu-Rang
-30107	Dinte de balenã
+30107	Dinte de balenÄƒ
 30108	Email ceramic
-30109	Pânzã pãianjen de deºert
+30109	PÃ¢nzÄƒ pÄƒianjen de deÅŸert
 30110	Scrisoare d la Huahn-So
 30111	Ac din Coada de Scorpion
-30112	anghilã
+30112	anghilÄƒ
 30113	Scrieri esoterice
-30114	Ciumã
+30114	CiumÄƒ
 30115	Vindecarea ciumei
-30116	Pulpe de broascã
+30116	Pulpe de broascÄƒ
 30117	Scrisoare
-30118	Cufãr pt.bijuterii demon
+30118	CufÄƒr pt.bijuterii demon
 30119	Clopot
-30120	Bucatã dintr-o hartã
-30121	Bucatã dintr-o hartã
-30122	Bucatã dintr-o hartã
-30123	Bucatã dintr-o hartã
-30124	Bucatã dintr-o hartã
-30125	Bucatã dintr-o hartã
-30126	Bucatã dintr-o hartã
-30127	Bucatã dintr-o hartã
-30128	Bucatã dintr-o hartã
-30129	Însãrcinare d la cãlãreş
-30130	Sticlã goalã
+30120	BucatÄƒ dintr-o hartÄƒ
+30121	BucatÄƒ dintr-o hartÄƒ
+30122	BucatÄƒ dintr-o hartÄƒ
+30123	BucatÄƒ dintr-o hartÄƒ
+30124	BucatÄƒ dintr-o hartÄƒ
+30125	BucatÄƒ dintr-o hartÄƒ
+30126	BucatÄƒ dintr-o hartÄƒ
+30127	BucatÄƒ dintr-o hartÄƒ
+30128	BucatÄƒ dintr-o hartÄƒ
+30129	ÃnsÄƒrcinare d la cÄƒlÄƒreÅ£
+30130	SticlÄƒ goalÄƒ
 30131	Scrisoare de la fierar
 30132	Cartea lui Uriel
 30133	Papuci de flori
-30134	Pacheşelul lui Uriel
+30134	PacheÅ£elul lui Uriel
 30135	Scrisoarea lui Ariyoung
-30136	Arc împodobit
-30137	Sânge de maimuşã
-30138	Nisip de deºert
-30139	Mãsea
-30140	Aşã de cusut
+30136	Arc Ã®mpodobit
+30137	SÃ¢nge de maimuÅ£Äƒ
+30138	Nisip de deÅŸert
+30139	MÄƒsea
+30140	AÅ£Äƒ de cusut
 30141	Bijuterie
 30142	Scrisoare
 30143	Ierburi medicinale
 30144	Ficatul unui tigru
 30145	Leacul lui Balso
-30146	bulgãre de gheaşã
-30147	Învãşãtura din templu
+30146	bulgÄƒre de gheaÅ£Äƒ
+30147	ÃnvÄƒÅ£Äƒtura din templu
 30148	Fularul din templu
-30149	Îngheşatã cu sirop
+30149	ÃngheÅ£atÄƒ cu sirop
 30150	Pagini de Jurnal
 30151	Piele neprelucrata lup
 30152	Leac
 30153	Flori
-30154	Cartea secretã din templ
+30154	Cartea secretÄƒ din templ
 30155	Brelocul lui Mirine
 30156	Cartea Templului Secret
-30157	Vârf de sãgeatã
-30158	Plãcintã de orez
-30159	Veºmânt
-30160	Notã
-30161	Sulişa soşului
+30157	VÃ¢rf de sÄƒgeatÄƒ
+30158	PlÄƒcintÄƒ de orez
+30159	VeÅŸmÃ¢nt
+30160	NotÄƒ
+30161	SuliÅ£a soÅ£ului
 30162	Ochiul unui Paianjen
-30163	Ghem de vatã
+30163	Ghem de vatÄƒ
 30164	Traducere cartea blestem
 30165	Creanga Zelkova
 30166	Tabla lui Tugyi
@@ -3563,47 +3563,47 @@ VNUM	LOCALE_NAME
 30171	Floare Galbena
 30172	Superb Buchet de Flori
 30173	Blana Mu-Rang
-30174	Labã de Urs
+30174	LabÄƒ de Urs
 30175	Harpon de diamant
 30176	Blana de Tigru lucioasa
-30177	Esenşã de Mosc
+30177	EsenÅ£Äƒ de Mosc
 30178	Piatra Hieroglifa
-30179	Cheie Rãsucitã
+30179	Cheie RÄƒsucitÄƒ
 30180	Amuleta Zeu Dragon
 30181	Pagina
 30182	Jurnal Legendar
 30183	Masca Sumbra de Lemn
 30184	Cenusa Fermecata
 30185	Gheata Neagra
-30186	Lacrimã fosilizatã
-30187	Strop de sînge
+30186	LacrimÄƒ fosilizatÄƒ
+30187	Strop de sÃ®nge
 30188	Obsidian
 30189	Lacrimile lui Baljit-E.
-30190	Piatrã însîngeratã
-30191	Piatrã însîngeratã
+30190	PiatrÄƒ Ã®nsÃ®ngeratÄƒ
+30191	PiatrÄƒ Ã®nsÃ®ngeratÄƒ
 30192	Seva Plantei
 30193	Oasele Degetului
 30194	Buzduganul Orcilor
-30195	Nisip Cuarş
+30195	Nisip CuarÅ£
 30196	Cenusa Demonului
-30197	Seminşe Magice
-30198	Cristal de Apã
+30197	SeminÅ£e Magice
+30198	Cristal de ApÄƒ
 30199	Cristal Albastru
-30201	Inelul rãzbunãrii
+30201	Inelul rÄƒzbunÄƒrii
 30202	Urechea lui Tanaka
 30203	Cristal
-30204	Bucatã de cristal
-30205	Materiale de producşie
-30210	Buc. d piatrã preşioasã
-30211	Buc. d piatrã preşioasã
-30212	Buc. d piatrã preşioasã
-30213	Buc. d piatrã preşioasã
-30214	Buc. d piatrã preşioasã
-30215	Buc. d piatrã preşioasã
-30216	Buc. d piatrã preşioasã
-30217	Buc. d piatrã preşioasã
-30218	Buc. d piatrã preşioasã
-30219	Buc. d piatrã preşioasã
+30204	BucatÄƒ de cristal
+30205	Materiale de producÅ£ie
+30210	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30211	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30212	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30213	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30214	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30215	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30216	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30217	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30218	Buc. d piatrÄƒ preÅ£ioasÄƒ
+30219	Buc. d piatrÄƒ preÅ£ioasÄƒ
 30220	P. sufletului Jinunggyi
 30221	P. sufletului din templu
 30222	Piatra Spiritului Sagyis
@@ -3613,8 +3613,8 @@ VNUM	LOCALE_NAME
 30226	P. Sufl. padurea spirit
 30227	Piatra Suflet. liderilor
 30228	P. Suflet Beran-Setaou
-30251	Bijuterie Rea Voinşã
-30252	Bijuterie Înşelepciune
+30251	Bijuterie Rea VoinÅ£Äƒ
+30252	Bijuterie ÃnÅ£elepciune
 30253	Bijuterie Loialitate
 30254	NoNAme
 30265	Bucata de Medalie (1)
@@ -3623,9 +3623,9 @@ VNUM	LOCALE_NAME
 30268	Bucata de Medalie (4)
 30269	Bucata de Medalie (5)
 30270	Ciob Piatra Dragon
-30300	Ladã veche necunoscutã
-30301	Hartã pt. turnul Sa-Gui
-30302	Hartã pentru peºtera Zin
+30300	LadÄƒ veche necunoscutÄƒ
+30301	HartÄƒ pt. turnul Sa-Gui
+30302	HartÄƒ pentru peÅŸtera Zin
 30303	Cheie Bong-In
 30304	Cheie Zin-Bong-In
 30311	Cheia Suflet Cristalizat
@@ -3894,8 +3894,8 @@ VNUM	LOCALE_NAME
 40003	Inelul lui Thor
 40004	Inelul lui Eek
 40005	Clopot Zgomotos
-40006	Depeºa sãlbaticilor
-40007	Scrisoarea sãlbaticilor
+40006	DepeÅŸa sÄƒlbaticilor
+40007	Scrisoarea sÄƒlbaticilor
 41001	Costum de Iepure (maro)
 41002	Costum de Iepuras (maro)
 41003	Sihastru  (M)
@@ -4198,7 +4198,7 @@ VNUM	LOCALE_NAME
 41316	Armura Azrael (f)
 41317	Armura Azrael+ (m)
 41318	Armura Azrael+ (f)
-41319	Èæ»ç°©
+41319	ÄŒÄ‡Â»Ã§Â°Â©
 41320	Costum Jack Dovleacul (m)
 41321	Rochie Jack Dovleacul (f)
 41322	Costum Jack Dovleacul+ (m
@@ -4337,12 +4337,12 @@ VNUM	LOCALE_NAME
 45152	Coif Azrael (f)
 45153	Coif Azrael+ (m)
 45154	Coif Azrael+ (f)
-45155	Èæ»çÅõ±¸
+45155	ÄŒÄ‡Â»Ã§Ä¹Å‘Â±Â¸
 45156	Capatana Jack Dovleacul
 45157	Capatana Jack Dovleacul
 45158	Capatana Jack Dovleacul+
 45159	Capatana Jack Dovleacul+ 
-50001	Carte norocoasã
+50001	Carte norocoasÄƒ
 50002	Inel de aur
 50003	Reseteaza Skill
 50004	Detector evenimente
@@ -4357,14 +4357,14 @@ VNUM	LOCALE_NAME
 50013	Cufar Argintiu Comori+
 50014	Cheie de aur+
 50015	Cheie de argint+
-50016	Pastã de fasole
-50017	Pastã de zahãr
-50018	Pastã de fructe
+50016	PastÄƒ de fasole
+50017	PastÄƒ de zahÄƒr
+50018	PastÄƒ de fructe
 50019	Orez dulce
-50020	Plãcintã de fasole
-50021	Plãcintã de zahãr
-50022	Plãcintã de fructe
-50023	Tolbã de bani
+50020	PlÄƒcintÄƒ de fasole
+50021	PlÄƒcintÄƒ de zahÄƒr
+50022	PlÄƒcintÄƒ de fructe
+50023	TolbÄƒ de bani
 50024	Trandafir
 50025	Ciocolata
 50026	Monede
@@ -4373,12 +4373,12 @@ VNUM	LOCALE_NAME
 50029	Inel de aur 750
 50030	Inel de aur 585
 50031	Trandafir
-50032	Bomboanã
-50033	Ladã misterioasã
-50034	Ladã misterioasã
+50032	BomboanÄƒ
+50033	LadÄƒ misterioasÄƒ
+50034	LadÄƒ misterioasÄƒ
 50035	Cadou (galben)
 50036	Cadou (violet)
-50037	cufãr hexagonal p.comori
+50037	cufÄƒr hexagonal p.comori
 50038	Certificat de Bronz
 50039	Certificat de Argint
 50040	Certificat de Aur
@@ -4388,42 +4388,42 @@ VNUM	LOCALE_NAME
 50051	Imagine de cal
 50052	Cartea Cailor Armati
 50053	Cartea Cailor Militari
-50054	Fân
+50054	FÃ¢n
 50055	Morcov
-50056	Ginseng roºu
+50056	Ginseng roÅŸu
 50057	Iarba Maimutei Usoare
 50058	Iarba Maimuta Normala
 50059	Iarba Maimuta Puternica
-50060	Manualul de cãlãrie
-50061	manual de îmblânzit cai
-50062	manual pt. cãlãreş
+50060	Manualul de cÄƒlÄƒrie
+50061	manual de Ã®mblÃ¢nzit cai
+50062	manual pt. cÄƒlÄƒreÅ£
 50067	Pergament Evolutie
 50068	Pergament Transformare
-50070	Ladã Oberork
-50071	Ladã Comandant întunecat
-50072	Ladã Comandant-stafie
+50070	LadÄƒ Oberork
+50071	LadÄƒ Comandant Ã®ntunecat
+50072	LadÄƒ Comandant-stafie
 50073	Lada Reginei Paianjen
-50074	Lada pãianjenului uriaº
-50075	Ladã purtãtor de ciumã
-50076	Ladã şestoasã de deºert
-50077	Ladã nouã-cozi
+50074	Lada pÄƒianjenului uriaÅŸ
+50075	LadÄƒ purtÄƒtor de ciumÄƒ
+50076	LadÄƒ Å£estoasÄƒ de deÅŸert
+50077	LadÄƒ nouÄƒ-cozi
 50078	Lada tigrului galben
 50079	Lada regelui focului
 50080	Lada Dragonului Rosu
 50081	Lada Regelui demonilor
-50082	Lada îngerului cu coasã
+50082	Lada Ã®ngerului cu coasÄƒ
 50083	Tichet de Calarie
 50084	Piatra Cheie
-50085	Seminşe
-50086	Plãcintã lunã
+50085	SeminÅ£e
+50086	PlÄƒcintÄƒ lunÄƒ
 50087	Prajitura orez Mung
 50088	Prajitura orez pelin
 50089	Piatra Cheie
-50090	Cutie vulpe cu nouã cozi
-50091	Sushi de peºte auriu
+50090	Cutie vulpe cu nouÄƒ cozi
+50091	Sushi de peÅŸte auriu
 50092	Sushi de crap
 50093	Sushi de somon
-50094	Sushi de pisicã de mare
+50094	Sushi de pisicÄƒ de mare
 50095	Dovleac
 50096	Fotbal
 50100	Artificii
@@ -4433,7 +4433,7 @@ VNUM	LOCALE_NAME
 50104	Artificii
 50105	Artificii
 50106	Artificii de Craciun
-50107	Artificii chinezeºti
+50107	Artificii chinezeÅŸti
 50108	Cerc de artificii
 50109	Cutie Rosie de Ebonita
 50110	Cutie Festiva de Ebonita
@@ -4443,27 +4443,27 @@ VNUM	LOCALE_NAME
 50114	Cutie Albastra Ebonita
 50115	Cutie Visinie de Ebonita
 50116	Bon schimb de arme
-50117	Cufãr de bijuterii
+50117	CufÄƒr de bijuterii
 50118	NoNAme
 50119	NoNAme
 50120	Caseta de fier
 50121	Cutie de fier
 50122	Lada de fier
 50123	Inghetata
-50124	Casetã putredã din lemn
+50124	CasetÄƒ putredÄƒ din lemn
 50125	Cufar Misterios
 50126	Cufarul Misterios
 50127	Cutie Smarald Misterios
-50128	Cutie Safir Misterioasã
+50128	Cutie Safir MisterioasÄƒ
 50129	Cutie Ametist Misterios
 50130	Cutie Topaz Misterioasa
 50131	Cutie Citrin Misterioasa
 50132	Cutie Rubin Misterioasa
 50133	Cutie Smarald Misterios
-50134	Cutie Safir Misterioasã
+50134	Cutie Safir MisterioasÄƒ
 50135	Cutie Ametist Misterios
-50136	Cutie Topaz Misterioasã
-50137	Cutie Citrin Misterioasã
+50136	Cutie Topaz MisterioasÄƒ
+50137	Cutie Citrin MisterioasÄƒ
 50150	Cheie de Rubin
 50151	Cheie de Smarald
 50152	Cheie de Safir
@@ -4471,28 +4471,28 @@ VNUM	LOCALE_NAME
 50154	Cheie de Topaz
 50155	Cheie de Citrin
 50156	Cheie de Diamant
-50160	Ou de Paºte
-50161	Ou de Paºte
-50162	Ou de Paºte
-50163	Ou de Paºte
-50164	Ou de Paºte
-50165	Ou de Paºte
-50166	Ou de Paºte
-50167	Ou de Paºte
-50168	Ou de Paºte
-50169	Ou de Paºte
-50170	Ou de Paºte
-50171	Ou de Paºte
-50172	Ou de Paºte
-50173	Ou de Paºte
-50174	Ou de Paºte
-50175	Ou de Paºte
-50176	Ou de Paºte
-50177	Ou de Paºte
-50178	Ou de Paºte
-50179	Ou de Paºte
-50180	Coº gol:
-50181	Coº cu Ouã de Paºte
+50160	Ou de PaÅŸte
+50161	Ou de PaÅŸte
+50162	Ou de PaÅŸte
+50163	Ou de PaÅŸte
+50164	Ou de PaÅŸte
+50165	Ou de PaÅŸte
+50166	Ou de PaÅŸte
+50167	Ou de PaÅŸte
+50168	Ou de PaÅŸte
+50169	Ou de PaÅŸte
+50170	Ou de PaÅŸte
+50171	Ou de PaÅŸte
+50172	Ou de PaÅŸte
+50173	Ou de PaÅŸte
+50174	Ou de PaÅŸte
+50175	Ou de PaÅŸte
+50176	Ou de PaÅŸte
+50177	Ou de PaÅŸte
+50178	Ou de PaÅŸte
+50179	Ou de PaÅŸte
+50180	CoÅŸ gol:
+50181	CoÅŸ cu OuÄƒ de PaÅŸte
 50182	Cufar Binecuvantat
 50183	Dulciuri
 50184	NoNAme
@@ -4511,7 +4511,7 @@ VNUM	LOCALE_NAME
 50197	NoNAme
 50198	NoNAme
 50199	NoNAme
-50200	Mãnunchi
+50200	MÄƒnunchi
 50201	Buchet de flori
 50202	Buchet de flori
 50212	Cufar Ucenic I
@@ -4528,23 +4528,23 @@ VNUM	LOCALE_NAME
 50258	Cor Draconis (Antic)
 50259	Cor Draconis (Legendar)
 50260	Cor Draconis (Brut)
-50300	Cartea competenşei
-50301	Arta de rãzboi Sun-zi
-50302	Arta de rãzboi Wu-zi
+50300	Cartea competenÅ£ei
+50301	Arta de rÄƒzboi Sun-zi
+50302	Arta de rÄƒzboi Wu-zi
 50303	WeiLiao Zi
-50304	Stãpânirea combo
+50304	StÄƒpÃ¢nirea combo
 50305	Cartea maestrului combo
-50306	Arta înaltã a combo
-50307	Cartea misiunii (uºor)
+50306	Arta Ã®naltÄƒ a combo
+50307	Cartea misiunii (uÅŸor)
 50308	Cartea misiunii (normal)
 50309	Cartea misiunii (greu)
 50310	Cartea misiunii (expert)
 50311	Limbi Shinsoo
 50312	Limbi Chunjo
 50313	Limbi Jinno
-50314	Cartea transformãrii
-50315	Cartea transformãrii av.
-50316	Cartea transformãrii exp
+50314	Cartea transformÄƒrii
+50315	Cartea transformÄƒrii av.
+50316	Cartea transformÄƒrii exp
 50317	Cartea misiunii (Test)
 50318	Cartea misiunii (usor)
 50319	Cartea misiunii (normal)
@@ -4555,44 +4555,44 @@ VNUM	LOCALE_NAME
 50402	Cartea Vartejul Sabiei
 50403	Cartea Iuresului
 50404	Cartea aura sabiei
-50405	Cartea bãtaia vântului
-50416	Cartea pãtrunderii
+50405	Cartea bÄƒtaia vÃ¢ntului
+50416	Cartea pÄƒtrunderii
 50417	Cartea lov. puternice
-50418	Cartea tropãitului
+50418	Cartea tropÄƒitului
 50419	Cartea trupului puternic
 50420	Cartea lov. de sabie
 50431	Cartea Ambuscadei
 50432	Cartea Atac Rapid
 50433	Cartea Pumnal Rulant
-50434	Cartea camuflãrii
+50434	Cartea camuflÄƒrii
 50435	Cartea Nor Otravitor
 50446	Cartea Foc Repetat
 50447	Cartea Ploaie de Sageti
-50448	Cartea sãgeşii de foc
+50448	Cartea sÄƒgeÅ£ii de foc
 50449	Cartea mersului lin
-50450	Cartea sãgeşii otrãvite
+50450	Cartea sÄƒgeÅ£ii otrÄƒvite
 50461	Cartea pocnit din degete
 50462	Cartea Vartejul Dragon
 50463	Cartea lamei fermecate
 50464	Cartea fricii
 50465	Cartea armurii fermecate
-50466	Cartea anularea vrãjii
-50476	Cartea lov. întunecate
+50466	Cartea anularea vrÄƒjii
+50476	Cartea lov. Ã®ntunecate
 50477	Cartea loviturii de foc
 50478	Cartea spiritul focului
-50479	Cartea prot. întunecate
+50479	Cartea prot. Ã®ntunecate
 50480	Cartea lov. stafiei
-50481	Cartea pietrei întunecat
+50481	Cartea pietrei Ã®ntunecat
 50491	Cartea Talisman Zburator
 50492	Cartea Focul dragonului
 50493	Cartea limbii dragonului
 50494	Cartea Binecuvantarii
-50495	Cartea reflecşiei
+50495	Cartea reflecÅ£iei
 50496	Cartea Ajutorul Dragon
-50506	Cartea aruncãtura fulger
+50506	Cartea aruncÄƒtura fulger
 50507	Cartea despre fulgerat
 50508	Cartea gheara fulgerului
-50509	Cartea vindecãrii
+50509	Cartea vindecÄƒrii
 50510	Cartea repeziciunii
 50511	Cartea atacului
 50512	Piatra curcubeu
@@ -4634,10 +4634,10 @@ VNUM	LOCALE_NAME
 50636	Granat
 50637	Smarald
 50638	Safir
-50701	Floare de piersicã
-50702	Floare clopoşel
+50701	Floare de piersicÄƒ
+50702	Floare clopoÅ£el
 50703	Floare kaki
-50704	Rãdãcinã de Gango
+50704	RÄƒdÄƒcinÄƒ de Gango
 50705	Liliac
 50706	Ciuperci Tue
 50707	Trandafir alpin
@@ -4647,9 +4647,9 @@ VNUM	LOCALE_NAME
 50711	Curmal
 50712	Planta Sam-Zi
 50721	Floare de piersic
-50722	Floare clopoşel
+50722	Floare clopoÅ£el
 50723	Floare kaki
-50724	Rãdãcinã de Gango
+50724	RÄƒdÄƒcinÄƒ de Gango
 50725	Liliac
 50726	Ciuperci Tue
 50727	Trandafir alpin
@@ -4663,31 +4663,31 @@ VNUM	LOCALE_NAME
 50803	Suc de floare kaki
 50804	Suc de radacina de Gango
 50805	Suc de liliac
-50806	Rãºinã din ciuperci Tue
+50806	RÄƒÅŸinÄƒ din ciuperci Tue
 50807	Suc de trandafir alpin
 50808	Suc de dud
 50809	Suc de gura leului
 50810	Suc de scaiete
 50811	Extract de curmal
 50812	Suc din planta Sam-Zi
-50813	Apã Sim
+50813	ApÄƒ Sim
 50814	Apa Dok
-50815	Apã Bo
-50816	Apã Young
-50817	Apã Zin
-50818	Apã SamBo
+50815	ApÄƒ Bo
+50816	ApÄƒ Young
+50817	ApÄƒ Zin
+50818	ApÄƒ SamBo
 50819	Apa Mong
-50820	Apã Hwal
-50821	Rouã roºie
-50822	Rouã roz
-50823	Rouã galbenã
-50824	Rouã verde
-50825	Rouã albastrã
-50826	Rouã albã
-50901	Sticlã goalã
-50902	Reşetã pentru începãtori
-50903	Reşetã
-50904	Reşetã pt. profesioniºti
+50820	ApÄƒ Hwal
+50821	RouÄƒ roÅŸie
+50822	RouÄƒ roz
+50823	RouÄƒ galbenÄƒ
+50824	RouÄƒ verde
+50825	RouÄƒ albastrÄƒ
+50826	RouÄƒ albÄƒ
+50901	SticlÄƒ goalÄƒ
+50902	ReÅ£etÄƒ pentru Ã®ncepÄƒtori
+50903	ReÅ£etÄƒ
+50904	ReÅ£etÄƒ pt. profesioniÅŸti
 50905	Reteta pentru apa Sim
 50906	Reteta pentru apa Dok
 50907	Reteta pentru apa Bo
@@ -4995,21 +4995,21 @@ VNUM	LOCALE_NAME
 69020	Misterul lov. stafiei
 69030	Misterul lov. de atac
 69040	Misterul Ambuscadei
-69050	Misterul sãgeşii
+69050	Misterul sÄƒgeÅ£ii
 69060	Misterul mersului lin
 69070	Misterul atacului rapid
-69080	Misterul lov. întunecate
+69080	Misterul lov. Ã®ntunecate
 69090	Misterul Vartejul Dragon
-69100	Misterul cer ºi pãmânt
+69100	Misterul cer ÅŸi pÄƒmÃ¢nt
 69110	Misterul lamei fermecate
-69120	Mist. talism. zburãtor
-69130	Misterul vindecãrii
+69120	Mist. talism. zburÄƒtor
+69130	Misterul vindecÄƒrii
 69140	Misterul Ajutorul Dragon
 69150	Secretul Binecuvantarii
 70001	Papusa Zeitei
 70002	A Treia Mana
 70003	Cartea Comandantului
-70004	Medalia hãrniciei
+70004	Medalia hÄƒrniciei
 70005	Inelul Experientei
 70006	Inelul limbilor
 70007	Inel Teleportare
@@ -5017,40 +5017,40 @@ VNUM	LOCALE_NAME
 70009	Cufar Pretios
 70010	Bilet pentru Depozit
 70011	Imbunatateste sticla
-70012	Lacrima zeişei
-70013	Lacrima zeişei uriaºe
-70014	Pastila de sânge
+70012	Lacrima zeiÅ£ei
+70013	Lacrima zeiÅ£ei uriaÅŸe
+70014	Pastila de sÃ¢nge
 70015	Perie Ieftina
-70016	Brãşarã de indian
-70017	Brãşarã preşioasã
+70016	BrÄƒÅ£arÄƒ de indian
+70017	BrÄƒÅ£arÄƒ preÅ£ioasÄƒ
 70018	Cercei Phoenix
 70019	Colier de milionar
 70020	Vin de Flori de Piersic
-70021	Binecuvântarea îngerului
+70021	BinecuvÃ¢ntarea Ã®ngerului
 70022	Inima lui Bera
-70023	Bastonul înşeleptului
+70023	Bastonul Ã®nÅ£eleptului
 70024	Marmura Binecuvantata
-70025	Inelul demnitãşii
-70026	Oglinda invizibilitãşii
+70025	Inelul demnitÄƒÅ£ii
+70026	Oglinda invizibilitÄƒÅ£ii
 70027	Nota fierarului
-70028	Nota înşeleptului
-70029	Panã de scris roºie
-70030	Monoclu roºu
+70028	Nota Ã®nÅ£eleptului
+70029	PanÄƒ de scris roÅŸie
+70030	Monoclu roÅŸu
 70031	Pamflet Scrima
-70032	Cartea sabiei-2-mâini
-70033	Cartea sabiei-1-mânã
+70032	Cartea sabiei-2-mÃ¢ini
+70033	Cartea sabiei-1-mÃ¢nÄƒ
 70034	Manualul pumnalului
 70035	Minereu Magic de Cupru
 70036	Nota studentului
-70037	Cartea uitãrii
+70037	Cartea uitÄƒrii
 70038	Mantia Curajului
 70039	Manualul Fierarului
-70040	Încãpãşânare de orc
+70040	ÃncÄƒpÄƒÅ£Ã¢nare de orc
 70041	Pumnul discipolului
-70042	Aºchia diavolului
-70043	Mãnuºa tâlharului
-70044	Cornul prinşului negru
-70045	Dintele prinşului negru
+70042	AÅŸchia diavolului
+70043	MÄƒnuÅŸa tÃ¢lharului
+70044	Cornul prinÅ£ului negru
+70045	Dintele prinÅ£ului negru
 70046	Potirul Zeului Dragon
 70047	Inelul limbilor(Exemplu)
 70048	Mantia evadatului
@@ -5064,24 +5064,24 @@ VNUM	LOCALE_NAME
 70057	Mantia Curajului
 70058	Inel Teleportare
 70101	Cartea Intelepciunii
-70102	Boabã Zen
+70102	BoabÄƒ Zen
 70103	Sutra
-70104	Globul transformãrii
-70105	Globul transformãrii
-70106	Globul transformãrii
-70107	Globul transformãrii
-70201	Înãlbitor
-70202	Colorant alb de pãr
-70203	Colorant blond de pãr
-70204	Colorant roºu de pãr
-70205	Colorant maro de pãr
-70206	Colorant negru de pãr
-70207	Înãlbitor
+70104	Globul transformÄƒrii
+70105	Globul transformÄƒrii
+70106	Globul transformÄƒrii
+70107	Globul transformÄƒrii
+70201	ÃnÄƒlbitor
+70202	Colorant alb de pÄƒr
+70203	Colorant blond de pÄƒr
+70204	Colorant roÅŸu de pÄƒr
+70205	Colorant maro de pÄƒr
+70206	Colorant negru de pÄƒr
+70207	ÃnÄƒlbitor
 70208	Vopsea maro
-70251	Buruianã roºie
-70252	Buruianã albastrã
-70253	Buruianã verde
-70254	Buruianã violet
+70251	BuruianÄƒ roÅŸie
+70252	BuruianÄƒ albastrÄƒ
+70253	BuruianÄƒ verde
+70254	BuruianÄƒ violet
 70301	Inel de Logodna
 70302	Inel de cununie
 71001	Pergamentul Exorcizarii
@@ -5093,7 +5093,7 @@ VNUM	LOCALE_NAME
 71007	Inelul limbilor
 71008	Cartea pescuitului
 71009	Cufar de Depozitare
-71010	A treia mânã
+71010	A treia mÃ¢nÄƒ
 71011	Masca Emotiei
 71012	Cartea Comandantului
 71013	Artificii
@@ -5105,8 +5105,8 @@ VNUM	LOCALE_NAME
 71019	Binecuvantarea Magiei
 71020	Binecuvantarea Dragon
 71021	Pergamentul Razboiului
-71022	Revenirea inteligenşei
-71023	Revenirea vitalitãşii
+71022	Revenirea inteligenÅ£ei
+71023	Revenirea vitalitÄƒÅ£ii
 71024	Revenirea puterii
 71025	Piatra Fierarului
 71026	Minereu Magic de Fier
@@ -5116,13 +5116,13 @@ VNUM	LOCALE_NAME
 71030	Apararea Zeului Dragon
 71031	Sustinerea Zeului Dragon
 71032	Pergamentul Dragonului
-71033	Masca emoşiei
+71033	Masca emoÅ£iei
 71034	Licoarea Atacului+15
 71035	Elixirul Explorarii
-71036	Pergamentul orcului-ºef
+71036	Pergamentul orcului-ÅŸef
 71037	Pergamentul comandantulu
-71038	Perga. regele pãianjen
-71039	Pergamentul şestoasei
+71038	Perga. regele pÄƒianjen
+71039	Pergamentul Å£estoasei
 71040	Pergamentul reg. focului
 71041	Pergamentul-9-cozi
 71042	Pergamentul reg. demon
@@ -5130,13 +5130,13 @@ VNUM	LOCALE_NAME
 71044	Lovitura Critica
 71045	Lovitura Patrunzatoare
 71047	Tinctura pietrei stafie
-71048	Vraja schimbãrii
+71048	Vraja schimbÄƒrii
 71049	Manunchi de matase
 71050	Licoarea Vitezei
 71054	Tinctura regatelor
 71055	Tinctura numelui
 71056	Tinctura cerului
-71057	Piatra lemnului fosilã
+71057	Piatra lemnului fosilÄƒ
 71058	Piatra cuprului
 71059	Piatra argintului
 71060	Piatra aurului
@@ -5145,23 +5145,23 @@ VNUM	LOCALE_NAME
 71063	Piatra de Scoici
 71064	Piatra aurului alb
 71065	Piatra cristalului
-71066	Piatra cuarşului
+71066	Piatra cuarÅ£ului
 71067	Piatra lacrima cerului
-71068	Pana îndrãgostişilor
+71068	Pana Ã®ndrÄƒgostiÅ£ilor
 71069	Cerceii Armoniei
 71070	Bratara Iubirii
 71071	Cerceii Iubirii
-71072	Brãşara armoniei
+71072	BrÄƒÅ£ara armoniei
 71073	Colierul Iubirii
 71074	Colierul Armoniei
-71075	Vopsea de pãr(alb)
-71076	Vopsea de pãr(blond)
-71077	Vopsea de pãr(roºu)
-71078	Vopsea de pãr (maro)
-71079	Vopsea de pãr(negru)
-71080	Piatrã metin(uºor)
-71081	Piatrã metin(normal)
-71082	Piatrã metin(greu)
+71075	Vopsea de pÄƒr(alb)
+71076	Vopsea de pÄƒr(blond)
+71077	Vopsea de pÄƒr(roÅŸu)
+71078	Vopsea de pÄƒr (maro)
+71079	Vopsea de pÄƒr(negru)
+71080	PiatrÄƒ metin(uÅŸor)
+71081	PiatrÄƒ metin(normal)
+71082	PiatrÄƒ metin(greu)
 71083	Cartea Pietrelor
 71084	Vrajeste Obiectul
 71085	Intarirea Obiectului
@@ -5170,12 +5170,12 @@ VNUM	LOCALE_NAME
 71088	Cartea misiunii (usor)
 71089	Cartea misiunii (normal)
 71090	Cartea misiunii (greu)
-71091	Tinctura negoşului
-71092	Cartea transformãrii
-71093	Globul transformãrii
+71091	Tinctura negoÅ£ului
+71092	Cartea transformÄƒrii
+71093	Globul transformÄƒrii
 71094	Citit Concentrat
 71095	Permis de Trecere
-71096	Tablã de trecere
+71096	TablÄƒ de trecere
 71099	Inelul Urmasului
 71100	Pergam. Reset Invatatura
 71101	Licoarea Grabei
@@ -5189,8 +5189,8 @@ VNUM	LOCALE_NAME
 71109	Pergamentul Corectarii
 71110	Zaharul Armasarului
 71113	Sticla Cunoasterii
-71114	Sigiliu Mistreş (galben)
-71115	Sigiliu Mistreş albastru
+71114	Sigiliu MistreÅ£ (galben)
+71115	Sigiliu MistreÅ£ albastru
 71116	Sigiliu Lup (galben)
 71117	Sigiliu Lup (albastru)
 71118	Sigiliu Tigru (galben)
@@ -5198,12 +5198,12 @@ VNUM	LOCALE_NAME
 71120	Sigiliu Leu (galben)
 71121	Sigiliu Leu (albastru)
 71122	NoNAme
-71123	Balanşa Dragonului
+71123	BalanÅ£a Dragonului
 71124	Leul Alb
 71125	Sigiliu Mistret de Lupta
-71126	Sigiliu lup de luptã
+71126	Sigiliu lup de luptÄƒ
 71127	Sigiliu Tigrul Furtunii
-71128	Sigiliul Leului Luptãtor
+71128	Sigiliul Leului LuptÄƒtor
 71129	Ghearele Dragonului
 71130	Permis de Trecere
 71131	Sigiliu Cal Negru
@@ -5242,36 +5242,36 @@ VNUM	LOCALE_NAME
 71166	Sigiliu Panda Blindat
 71171	Sigiliu Unicorn
 71172	Vis Urat
-72001	Inelul experienşei
-72002	Inelul experienşei
-72003	Inelul experienşei
-72004	Mãnuºile tâlharului
-72005	Mãnuºile tâlharului
-72006	Mãnuºile tâlharului
-72007	Ghem de mãtase
-72008	Ghem de mãtase
-72009	Ghem de mãtase
-72010	Pana îndrãgostişilor
-72011	Pana îndrãgostişilor
-72012	Pana îndrãgostişilor
+72001	Inelul experienÅ£ei
+72002	Inelul experienÅ£ei
+72003	Inelul experienÅ£ei
+72004	MÄƒnuÅŸile tÃ¢lharului
+72005	MÄƒnuÅŸile tÃ¢lharului
+72006	MÄƒnuÅŸile tÃ¢lharului
+72007	Ghem de mÄƒtase
+72008	Ghem de mÄƒtase
+72009	Ghem de mÄƒtase
+72010	Pana Ã®ndrÄƒgostiÅ£ilor
+72011	Pana Ã®ndrÄƒgostiÅ£ilor
+72012	Pana Ã®ndrÄƒgostiÅ£ilor
 72013	Cartea pescuitului
 72014	Cartea pescuitului
 72015	Cartea pescuitului
-72016	A treia mânã
-72017	A treia mânã
-72018	A treia mânã
+72016	A treia mÃ¢nÄƒ
+72017	A treia mÃ¢nÄƒ
+72018	A treia mÃ¢nÄƒ
 72019	Lada Depozitare
 72020	Lada de Obiecte
-72021	Ladã de lagãr
+72021	LadÄƒ de lagÄƒr
 72022	Medalia norocului
 72023	Medalia norocului
 72024	Medalia norocului
 72025	Lovitura critica
 72026	Lovitura critica
 72027	Lovitura critica
-72028	Masca emoşiei
-72029	Masca emoşiei
-72030	Masca emoşiei
+72028	Masca emoÅ£iei
+72029	Masca emoÅ£iei
+72030	Masca emoÅ£iei
 72031	Atacul Zeului Dragon
 72032	Atacul Zeului Dragon
 72033	Atacul Zeului Dragon
@@ -5287,11 +5287,11 @@ VNUM	LOCALE_NAME
 72043	Cartea Comandantului
 72044	Cartea Comandantului
 72045	Cartea Comandantului
-72046	ªansa importantã
-72047	ªansa importantã
-72048	ªansa importantã
-72049	Inelul experienşei
-72050	Inelul experienşei
+72046	Åansa importantÄƒ
+72047	Åansa importantÄƒ
+72048	Åansa importantÄƒ
+72049	Inelul experienÅ£ei
+72050	Inelul experienÅ£ei
 72301	Pergament Binecuvantat
 72302	NoNAme
 72303	NoNAme
@@ -5306,8 +5306,8 @@ VNUM	LOCALE_NAME
 72312	NoNAme
 72313	NoNAme
 72314	NoNAme
-72501	Inelul experienşei(iCafe
-72502	Mãnuºa tâlharului(iCafe)
+72501	Inelul experienÅ£ei(iCafe
+72502	MÄƒnuÅŸa tÃ¢lharului(iCafe)
 72701	Papuci de Vant
 72702	Papuci de Vant+ (comert)
 72703	Cercel Os de Tigru
@@ -5326,66 +5326,66 @@ VNUM	LOCALE_NAME
 72728	Elixirul Lunii (M)
 72729	Elixirul Lunii (L)
 72730	Elixirul Lunii (E)
-73001	Frizurã modernã (roºu)
-73002	Frizurã modernã(deschis)
-73003	Frizurã modernã(albastr)
-73004	Frizurã modernã (saten)
+73001	FrizurÄƒ modernÄƒ (roÅŸu)
+73002	FrizurÄƒ modernÄƒ(deschis)
+73003	FrizurÄƒ modernÄƒ(albastr)
+73004	FrizurÄƒ modernÄƒ (saten)
 73005	Batic de frunte
 73006	Batic de frunte
 73007	Batic de frunte
 73008	Batic de frunte
-73009	Pãr lung (negru)
-73010	Pãr lung (roºu)
-73011	Pãr lung (saten)
-73012	Pãr lung (verde)
-73251	Coadã de cal (saten)
-73252	Coadã de cal (verde)
-73253	Coadã de cal (albastru)
+73009	PÄƒr lung (negru)
+73010	PÄƒr lung (roÅŸu)
+73011	PÄƒr lung (saten)
+73012	PÄƒr lung (verde)
+73251	CoadÄƒ de cal (saten)
+73252	CoadÄƒ de cal (verde)
+73253	CoadÄƒ de cal (albastru)
 73254	Coada de cal (deschisa)
-73255	Pãr pânã la umeri (roºu)
-73256	Pãr pânã la umeri(saten)
-73257	Pãr pânã la umeri (desc)
-73258	Pãr pânã la umeri (lila)
-73259	Pãr scurt (roºu)
-73260	Pãr scurt (albastru)
-73261	Pãr scurt (negru)
-73262	Pãr scurt (blond)
-73501	Frizurã sportivã (desc.)
-73502	Frizurã sportivã (saten)
-73503	Frizurã sportivã (blond)
-73504	Frizurã sportivã (verde)
+73255	PÄƒr pÃ¢nÄƒ la umeri (roÅŸu)
+73256	PÄƒr pÃ¢nÄƒ la umeri(saten)
+73257	PÄƒr pÃ¢nÄƒ la umeri (desc)
+73258	PÄƒr pÃ¢nÄƒ la umeri (lila)
+73259	PÄƒr scurt (roÅŸu)
+73260	PÄƒr scurt (albastru)
+73261	PÄƒr scurt (negru)
+73262	PÄƒr scurt (blond)
+73501	FrizurÄƒ sportivÄƒ (desc.)
+73502	FrizurÄƒ sportivÄƒ (saten)
+73503	FrizurÄƒ sportivÄƒ (blond)
+73504	FrizurÄƒ sportivÄƒ (verde)
 73505	Frizura carisma (alb)
-73506	Frizurã carisma (roºu)
-73507	Frizurã carisma (negru)
-73508	Frizurã carisma (violet)
-73509	Coadã lungã (alb)
-73510	Coadã lungã (albastru)
-73511	Coadã lungã (negru)
-73512	Coadã lungã (saten)
-73751	Frizurã nobilã (saten)
-73752	Frizurã nobilã (negru)
-73753	Frizurã nobilã (albastr)
-73754	Frizurã nobilã (deschis)
-73755	Pãr semi-lung (saten)
-73756	Pãr semi-lung (negru)
-73757	Pãr semi-lung (blond)
-73758	Pãr semi-lung (violet)
+73506	FrizurÄƒ carisma (roÅŸu)
+73507	FrizurÄƒ carisma (negru)
+73508	FrizurÄƒ carisma (violet)
+73509	CoadÄƒ lungÄƒ (alb)
+73510	CoadÄƒ lungÄƒ (albastru)
+73511	CoadÄƒ lungÄƒ (negru)
+73512	CoadÄƒ lungÄƒ (saten)
+73751	FrizurÄƒ nobilÄƒ (saten)
+73752	FrizurÄƒ nobilÄƒ (negru)
+73753	FrizurÄƒ nobilÄƒ (albastr)
+73754	FrizurÄƒ nobilÄƒ (deschis)
+73755	PÄƒr semi-lung (saten)
+73756	PÄƒr semi-lung (negru)
+73757	PÄƒr semi-lung (blond)
+73758	PÄƒr semi-lung (violet)
 73759	Frizura veche (brunet)
 73760	Frizura veche (deschis)
-73761	Frizurã veche (violet)
-73762	Frizurã veche (roºu)
-74001	Frizurã moderna (roºu)
-74002	Frizurã modernã(deschis)
+73761	FrizurÄƒ veche (violet)
+73762	FrizurÄƒ veche (roÅŸu)
+74001	FrizurÄƒ moderna (roÅŸu)
+74002	FrizurÄƒ modernÄƒ(deschis)
 74003	Frizura moderna(albastr)
-74004	Frizurã modernã (saten)
-74005	Batic de frunte (roºu)
+74004	FrizurÄƒ modernÄƒ (saten)
+74005	Batic de frunte (roÅŸu)
 74006	Batic de frunte (carouri
 74007	Batic de frunte(albastr)
 74008	Batic de frunte(carouri)
-74009	Pãr lung (negru)
-74010	Par lung (roºu)
-74011	Pãr lung (saten)
-74012	Pãr lung (verde)
+74009	PÄƒr lung (negru)
+74010	Par lung (roÅŸu)
+74011	PÄƒr lung (saten)
+74012	PÄƒr lung (verde)
 74013	Afro Razboinic (B)
 74014	Afro Razboinic (B)
 74015	Coif SamuraiRazboinic(B)
@@ -5395,37 +5395,37 @@ VNUM	LOCALE_NAME
 74019	Turban Razboinic (B)
 74020	Jack O'Razboinic (m)
 74251	Coada de cal (saten)
-74252	Coadã de cal (verde)
-74253	Coadã de cal (albastru)
+74252	CoadÄƒ de cal (verde)
+74253	CoadÄƒ de cal (albastru)
 74254	Coada de cal (deschis)
-74255	Pãr pânã la umeri (roºu)
-74256	Pãr pânã la umeri(saten)
+74255	PÄƒr pÃ¢nÄƒ la umeri (roÅŸu)
+74256	PÄƒr pÃ¢nÄƒ la umeri(saten)
 74257	Par pana la umeri (desc)
 74258	Par pana la umeri (Lila)
-74259	Pãr scurt (roºu)
-74260	Pãr scurt (albastru)
-74261	Pãr scurt (negru)
-74262	Pãr scurt (blond)
+74259	PÄƒr scurt (roÅŸu)
+74260	PÄƒr scurt (albastru)
+74261	PÄƒr scurt (negru)
+74262	PÄƒr scurt (blond)
 74263	Afro Ninja (F)
 74264	Afro Ninja (F)
 74265	Palarie Con Ninja (F)
 74266	Palarie Con Ninja (F)
-74267	Vãl Ninja (F)
+74267	VÄƒl Ninja (F)
 74268	Esarfa Ninja (F)
 74269	Turban Ninja (F)
 74270	Jack O'Ninja (f)
 74501	Frizura sport (Alba)
 74502	Frizura sport (Saten)
 74503	Frizura sport (Blond)
-74504	Frizurã sportivã (verde)
-74505	Frizurã carisma (alb)
-74506	Frizurã carisma (roºu)
-74507	Frizurã carisma (negru)
-74508	Frizurã carisma (violet)
-74509	Coadã lungã (alb)
-74510	Coadã lungã (albastru)
-74511	Coadã lungã (negru)
-74512	Coadã lungã (saten)
+74504	FrizurÄƒ sportivÄƒ (verde)
+74505	FrizurÄƒ carisma (alb)
+74506	FrizurÄƒ carisma (roÅŸu)
+74507	FrizurÄƒ carisma (negru)
+74508	FrizurÄƒ carisma (violet)
+74509	CoadÄƒ lungÄƒ (alb)
+74510	CoadÄƒ lungÄƒ (albastru)
+74511	CoadÄƒ lungÄƒ (negru)
+74512	CoadÄƒ lungÄƒ (saten)
 74513	Afro Sura (B)
 74514	Afro Sura (B)
 74515	Coif Samurai Sura (B)
@@ -5434,58 +5434,58 @@ VNUM	LOCALE_NAME
 74518	Keffiyeh Sura (B)
 74519	Turban Sura (B)
 74520	Jack O'Sura (m)
-74751	Frizurã nobilã (saten)
-74752	Frizurã nobilã (negru)
-74753	Frizurã nobilã (albastr)
-74754	Frizurã nobilã (deschis)
-74755	Pãr semi-lung (saten)
-74756	Pãr semi-lung (negru)
-74757	Pãr semi-lung (blond)
-74758	Pãr semi-lung (violet)
-74759	Frizurã veche (saten)
-74760	Frizurã veche (Blond)
-74761	Frizurã veche (violet)
-74762	Frizurã veche (roºu)
+74751	FrizurÄƒ nobilÄƒ (saten)
+74752	FrizurÄƒ nobilÄƒ (negru)
+74753	FrizurÄƒ nobilÄƒ (albastr)
+74754	FrizurÄƒ nobilÄƒ (deschis)
+74755	PÄƒr semi-lung (saten)
+74756	PÄƒr semi-lung (negru)
+74757	PÄƒr semi-lung (blond)
+74758	PÄƒr semi-lung (violet)
+74759	FrizurÄƒ veche (saten)
+74760	FrizurÄƒ veche (Blond)
+74761	FrizurÄƒ veche (violet)
+74762	FrizurÄƒ veche (roÅŸu)
 74763	Afro Saman (F)
 74764	Afro Saman (F)
 74765	Palarie Con Saman (F)
 74766	Palarie Con Saman (F)
-74767	Vãl Saman (F)
+74767	VÄƒl Saman (F)
 74768	Esarfa Saman (F)
 74769	Turban Saman (F)
 74770	Jack O`Shaman (f)
-75001	Frizurã modernã (roºu)
-75002	Frizurã modernã(deschis)
-75003	Frizurã modernã(albastr)
-75004	Frizurã modernã (saten)
+75001	FrizurÄƒ modernÄƒ (roÅŸu)
+75002	FrizurÄƒ modernÄƒ(deschis)
+75003	FrizurÄƒ modernÄƒ(albastr)
+75004	FrizurÄƒ modernÄƒ (saten)
 75005	Batic de frunte (saten)
 75006	Batic de frunte (blond)
 75007	Batic de frunte(albastr)
 75008	Batic de frunte (verde)
-75009	Pãr lung (negru)
-75010	Pãr lung (roºu)
-75011	Pãr lung (saten)
-75012	Pãr lung (verde)
+75009	PÄƒr lung (negru)
+75010	PÄƒr lung (roÅŸu)
+75011	PÄƒr lung (saten)
+75012	PÄƒr lung (verde)
 75013	Afro Razboinic (F)
 75014	Afro Razboinic (F)
 75015	Palarie Con Razboinic(F)
 75016	Palarie Con Razboinic(F)
-75017	Vãl Razboinic (F)
+75017	VÄƒl Razboinic (F)
 75018	Esarfa Razboinic (F)
 75019	Turban Razboinic (F)
 75020	Jack O`Warrior (f)
-75201	Coadã de cal (saten)
-75202	Coadã de cal (verde)
-75203	Coadã de cal (albastru)
-75204	Coadã de cal (deschis)
-75205	Pãr pânã la umeri (roºu)
-75206	Pãr pânã la umeri(saten)
-75207	Pãr pânã la umeri (desc)
-75208	Pãr pânã la umeri (lila)
-75209	Pãr scurt (roºu)
-75210	Pãr scurt (albastru)
-75211	Pãr scurt (negru)
-75212	Pãr scurt (blond)
+75201	CoadÄƒ de cal (saten)
+75202	CoadÄƒ de cal (verde)
+75203	CoadÄƒ de cal (albastru)
+75204	CoadÄƒ de cal (deschis)
+75205	PÄƒr pÃ¢nÄƒ la umeri (roÅŸu)
+75206	PÄƒr pÃ¢nÄƒ la umeri(saten)
+75207	PÄƒr pÃ¢nÄƒ la umeri (desc)
+75208	PÄƒr pÃ¢nÄƒ la umeri (lila)
+75209	PÄƒr scurt (roÅŸu)
+75210	PÄƒr scurt (albastru)
+75211	PÄƒr scurt (negru)
+75212	PÄƒr scurt (blond)
 75213	Afro Ninja (B)
 75214	Afro Ninja (B)
 75215	Coif Samurai Ninja (B)
@@ -5494,38 +5494,38 @@ VNUM	LOCALE_NAME
 75218	Keffiyeh Ninja (B)
 75219	Turban Ninja (B)
 75220	Jack O`Ninja (m)
-75401	Frizurã sportivã (desc.)
-75402	Frizurã sportivã (saten)
-75403	Frizurã sportivã (blond)
-75404	Frizurã sportivã (verde)
-75405	Frizurã carisma (alb)
-75406	Frizurã carisma (roºu)
-75407	Frizurã carisma (negru)
-75408	Frizurã carisma (violet)
-75409	Coadã lungã (alb)
-75410	Coada lungã (albastra)
-75411	Coadã lungã (negru)
-75412	Coadã lungã (saten)
+75401	FrizurÄƒ sportivÄƒ (desc.)
+75402	FrizurÄƒ sportivÄƒ (saten)
+75403	FrizurÄƒ sportivÄƒ (blond)
+75404	FrizurÄƒ sportivÄƒ (verde)
+75405	FrizurÄƒ carisma (alb)
+75406	FrizurÄƒ carisma (roÅŸu)
+75407	FrizurÄƒ carisma (negru)
+75408	FrizurÄƒ carisma (violet)
+75409	CoadÄƒ lungÄƒ (alb)
+75410	Coada lungÄƒ (albastra)
+75411	CoadÄƒ lungÄƒ (negru)
+75412	CoadÄƒ lungÄƒ (saten)
 75413	Afro Sura (F)
 75414	Afro Sura (F)
 75415	Palarie Con Sura (F)
 75416	Palarie Con Sura (F)
-75417	Vãl Sura (F)
+75417	VÄƒl Sura (F)
 75418	Esarfa Sura (F)
 75419	Turban Sura (F)
 75420	Jack O`Sura (f)
-75601	Frizurã nobilã (saten)
-75602	Frizurã nobilã (negru)
-75603	Frizurã nobilã (albastr)
-75604	Frizurã nobilã (deschis)
-75605	Pãr semi-lung (saten)
-75606	Pãr semi-lung (negru)
-75607	Pãr semi-lung (blond)
-75608	Pãr semi-lung (violet)
-75609	Frizurã veche (saten)
-75610	Frizurã veche (deschis)
-75611	Frizurã veche (violet)
-75612	Frizurã veche (roºu)
+75601	FrizurÄƒ nobilÄƒ (saten)
+75602	FrizurÄƒ nobilÄƒ (negru)
+75603	FrizurÄƒ nobilÄƒ (albastr)
+75604	FrizurÄƒ nobilÄƒ (deschis)
+75605	PÄƒr semi-lung (saten)
+75606	PÄƒr semi-lung (negru)
+75607	PÄƒr semi-lung (blond)
+75608	PÄƒr semi-lung (violet)
+75609	FrizurÄƒ veche (saten)
+75610	FrizurÄƒ veche (deschis)
+75611	FrizurÄƒ veche (violet)
+75612	FrizurÄƒ veche (roÅŸu)
 75613	Afro Saman (B)
 75614	Afro Saman (B)
 75615	Coif Samurai Saman (B)
@@ -5566,7 +5566,7 @@ VNUM	LOCALE_NAME
 80005	Lingou aur(500.000 Yang)
 80006	Lingou aur (1 Mil. Yang)
 80007	Lingou aur (2 Mil. Yang)
-80008	Bucatã de aur
+80008	BucatÄƒ de aur
 80014	MD Voucher (100)
 80015	MD Voucher (500)
 80016	MD Voucher (1000)
@@ -5579,7 +5579,7 @@ VNUM	LOCALE_NAME
 90006	Piatra Spiritului
 90007	Mineral
 90010	Piatra de Fundament
-90011	Buºtean
+90011	BuÅŸtean
 90012	Placaj
 90013	NoNAme
 100000	Elixirul Timpului (S)

@@ -1960,16 +1960,16 @@ VNUM	LOCALE_NAME
 12347	Lederen Kap+7
 12348	Lederen Kap+8
 12349	Lederen Kap+9
-12360	Maliën Kap+0
-12361	Maliën Kap+1
-12362	Maliën Kap+2
-12363	Maliën Kap+3
-12364	Maliën Kap+4
-12365	Maliën Kap+5
-12366	Maliën Kap+6
-12367	Maliën Kap+7
-12368	Maliën Kap+8
-12369	Maliën Kap+9
+12360	MaliÃ«n Kap+0
+12361	MaliÃ«n Kap+1
+12362	MaliÃ«n Kap+2
+12363	MaliÃ«n Kap+3
+12364	MaliÃ«n Kap+4
+12365	MaliÃ«n Kap+5
+12366	MaliÃ«n Kap+6
+12367	MaliÃ«n Kap+7
+12368	MaliÃ«n Kap+8
+12369	MaliÃ«n Kap+9
 12380	Stalen Kap+0
 12381	Stalen Kap+1
 12382	Stalen Kap+2
@@ -3424,7 +3424,7 @@ VNUM	LOCALE_NAME
 30032	Zwarte Uniform
 30033	Gebroken Porselein
 30034	Witte Haarband
-30035	Gezichtscrême
+30035	GezichtscrÃªme
 30036	Mystieke Kruid
 30037	Tijgerklauw
 30038	Tijger Vacht
@@ -4198,7 +4198,7 @@ VNUM	LOCALE_NAME
 41316	Azraels Pantser (v)
 41317	Azraels Pantser+ (m)
 41318	Azraels Pantser+ (v)
-41319	Èæ»ç°©
+41319	ÃˆÃ¦Â»Ã§Â°Â©
 41320	Pompoenen Jan Pak (m)
 41321	Pompoenen Jan Jurk (v)
 41322	Pompoenen Jan Pak+ (m)
@@ -4337,7 +4337,7 @@ VNUM	LOCALE_NAME
 45152	Azraels Helm (v)
 45153	Azraels Helm+ (m)
 45154	Azraels Helm+ (v)
-45155	Èæ»çÅõ±¸
+45155	ÃˆÃ¦Â»Ã§Ã…ÃµÂ±Â¸
 45156	Pompoenen Jan hoofd (m)
 45157	Pompoenen Jan Hoofd (v)
 45158	Pompoenen Jan Hoofd+ (m)
@@ -4517,7 +4517,7 @@ VNUM	LOCALE_NAME
 50212	Leerling Kist I
 50213	Leerling Kist I
 50215	Halloween Kist
-50216	Glühwijn
+50216	GlÃ¼hwijn
 50249	Kist der Triomf
 50252	Cor Draconis
 50253	NoNAme
@@ -5027,12 +5027,12 @@ VNUM	LOCALE_NAME
 70019	Millionairs Armband
 70020	Perzik Bloem Wijn
 70021	Engel Zegening
-70022	Bera´s Hart
+70022	BeraÂ´s Hart
 70023	Wijze Man Stok
 70024	Gezegend Bol
 70025	Waardigheid Ring
 70026	Verdwijnend Spiegel
-70027	Smid´s Notitie
+70027	SmidÂ´s Notitie
 70028	Wijze Man Notitie
 70029	Rood Veren Pen
 70030	Rode Oogglas

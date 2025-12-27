@@ -1504,8 +1504,8 @@ VNUM	LOCALE_NAME
 11297	Corazza d'Acciaio Nero+7
 11298	Corazza d'Acciaio Nero+8
 11299	Corazza d'Acciaio Nero+9
-11300	Malleabilit‡
-11301	Malleabilit‡
+11300	Malleabilit√†
+11301	Malleabilit√†
 11302	Buona Resistenza
 11303	Corazza Debole
 11304	Muro Nemico
@@ -1880,7 +1880,7 @@ VNUM	LOCALE_NAME
 12027	Vestito Blu del Drago +7
 12028	Vestito Blu del Drago +8
 12029	Vestito Blu del Drago +9
-12030	Corazza dell¥aura +0
+12030	Corazza dell¬¥aura +0
 12031	Corazza dell'Aura +1
 12032	Corazza dell'Aura +2
 12033	Corazza dell'Aura +3
@@ -3001,7 +3001,7 @@ VNUM	LOCALE_NAME
 20757	Abbigliamento Dorato +7
 20758	Abbigliamento Dorato +8
 20759	Abbigliamento Dorato +9
-22000	Papiro Citt‡
+22000	Papiro Citt√†
 22001	Carta
 22010	Papiro del Luogo
 22011	Papiro del Luogo
@@ -3060,7 +3060,7 @@ VNUM	LOCALE_NAME
 27570	Canna da Pesca+18
 27580	Canna da Pesca+19
 27590	Canna da Pesca+20
-27600	FalÚ
+27600	Fal√≤
 27610	Palla di Pesce
 27620	Libro sulla Pesca
 27799	Lisca
@@ -3158,7 +3158,7 @@ VNUM	LOCALE_NAME
 28038	Pietra dell'Evasione+0
 28039	Pietra dell'Inchino+0
 28040	Pietra della Magia+0
-28041	Pietra della Vitalit‡+0
+28041	Pietra della Vitalit√†+0
 28042	Pietra della Difesa+0
 28043	Pietra della Fretta+0
 28100	Pietra del Massacro+1
@@ -3176,7 +3176,7 @@ VNUM	LOCALE_NAME
 28138	Pietra dell'Evasione+1
 28139	Pietra dell'Inchino+1
 28140	Pietra della Magia+1
-28141	Pietra della Vitalit‡+1
+28141	Pietra della Vitalit√†+1
 28142	Pietra della Difesa+1
 28143	Pietra della Fretta+1
 28200	Pietra del Massacro+2
@@ -3194,7 +3194,7 @@ VNUM	LOCALE_NAME
 28238	Pietra dell'Evasione+2
 28239	Pietra dell'Inchino+2
 28240	Pietra della Magia+2
-28241	Pietra della Vitalit‡+2
+28241	Pietra della Vitalit√†+2
 28242	Pietra della Difesa+2
 28243	Pietra della Fretta+2
 28300	Pietra del Massacro+3
@@ -3212,7 +3212,7 @@ VNUM	LOCALE_NAME
 28338	Pietra dell'Evasione+3
 28339	Pietra dell'Inchino+3
 28340	Pietra della Magia+3
-28341	Pietra della Vitalit‡+3
+28341	Pietra della Vitalit√†+3
 28342	Pietra della Difesa+3
 28343	Pietra della Fretta+3
 28400	Pietra del Massacro+4
@@ -3230,13 +3230,13 @@ VNUM	LOCALE_NAME
 28438	Pietra dell'Evasione+4
 28439	Pietra dell'Inchino+4
 28440	Pietra della Magia+4
-28441	Pietra della Vitalit‡+4
+28441	Pietra della Vitalit√†+4
 28442	Pietra della Difesa+4
 28443	Pietra della Fretta+4
 28500	Pietra del Massacro+5
 28504	Pietra della Paranoia+5
 28508	Pietra del Trauma+5
-28512	Pietra della Stupidit‡+5
+28512	Pietra della Stupidit√†+5
 28530	Pietra della Perforaz.+5
 28531	Pietra del Colpo Mort.+5
 28532	Pietra della Ripetiz.+5
@@ -3248,7 +3248,7 @@ VNUM	LOCALE_NAME
 28538	Pietra dell'Evasione+5
 28539	Pietra dell'Inchino+5
 28540	Pietra della Magia+5
-28541	Pietra della Vitalit‡+5
+28541	Pietra della Vitalit√†+5
 28542	Pietra della Difesa+5
 28543	Pietra della Fretta+5
 28600	Pietra della Perforaz.+6
@@ -3262,7 +3262,7 @@ VNUM	LOCALE_NAME
 28608	Pietra dell'Evasione+6
 28609	Pietra dell'Inchino+6
 28610	Pietra della Magia+6
-28611	Pietra della Vitalit‡+6
+28611	Pietra della Vitalit√†+6
 28612	Pietra della Difesa+6
 28613	Pietra della Fretta+6
 28630	P. Acquatic. Perforaz.+5
@@ -3276,7 +3276,7 @@ VNUM	LOCALE_NAME
 28638	P. Acquat. Evasione.+5
 28639	P. Acquatica Inchino+5
 28640	P. Acquatica Magia+5
-28641	P. Acquatica Vitalit‡+5
+28641	P. Acquatica Vitalit√†+5
 28642	P. Acquatica Difesa+5
 28643	P. Acquatica Fretta+5
 28700	Pietra della Perforaz.+7
@@ -3290,7 +3290,7 @@ VNUM	LOCALE_NAME
 28708	Pietra dell'Evasione+7
 28709	Pietra dell'Inchino+7
 28710	Pietra della Magia+7
-28711	Pietra della Vitalit‡+7
+28711	Pietra della Vitalit√†+7
 28712	Pietra della Difesa+7
 28713	Pietra della Fretta+7
 28730	P. Acquatic. Perforaz.+7
@@ -3304,7 +3304,7 @@ VNUM	LOCALE_NAME
 28738	P. Acquat. Evasione.+7
 28739	P. Acquatica Inchino+7
 28740	P. Acquatica Magia+7
-28741	P. Acquatica Vitalit‡+7
+28741	P. Acquatica Vitalit√†+7
 28742	P. Acquatica Difesa+7
 28743	P. Acquatica Fretta+7
 28800	Pietra della Perforaz.+8
@@ -3318,7 +3318,7 @@ VNUM	LOCALE_NAME
 28808	Pietra dell'Evasione+8
 28809	Pietra dell'Inchino+8
 28810	Pietra della Magia+8
-28811	Pietra della Vitalit‡+8
+28811	Pietra della Vitalit√†+8
 28812	Pietra della Difesa+8
 28813	Pietra della Fretta+8
 28830	P. Acquatic. Perforaz.+8
@@ -3332,7 +3332,7 @@ VNUM	LOCALE_NAME
 28838	P. Acquat. Evasione.+8
 28839	P. Acquatica Inchino+8
 28840	P. Acquatica Magia+8
-28841	P. Acquatica Vitalit‡+8
+28841	P. Acquatica Vitalit√†+8
 28842	P. Acquatica Difesa+8
 28843	P. Acquatica Fretta+8
 28900	Pietra della Perforaz.+9
@@ -3346,7 +3346,7 @@ VNUM	LOCALE_NAME
 28908	Pietra dell'Evasione+9
 28909	Pietra dell'Inchino+9
 28910	Pietra della Magia+9
-28911	Pietra della Vitalit‡+9
+28911	Pietra della Vitalit√†+9
 28912	Pietra della Difesa+9
 28913	Pietra della Fretta+9
 28930	P. Acquatic. Perforaz.+9
@@ -3360,7 +3360,7 @@ VNUM	LOCALE_NAME
 28938	P. Acquat. Evasione.+9
 28939	P. Acquatica Inchino+9
 28940	P. Acquatica Magia+9
-28941	P. Acquatica Vitalit‡+9
+28941	P. Acquatica Vitalit√†+9
 28942	P. Acquatica Difesa+9
 28943	P. Acquatica Fretta+9
 28960	Scheggia di Pietra
@@ -3615,7 +3615,7 @@ VNUM	LOCALE_NAME
 30228	P. Spirit. Beran-Setaou
 30251	Gioiello dell'Invidia
 30252	Gioiello della saggezza
-30253	Gioello della fedelt‡
+30253	Gioello della fedelt√†
 30254	NoNAme
 30265	Pezzo di Medaglia (1)
 30266	Pezzo di Medaglia (2)
@@ -3854,7 +3854,7 @@ VNUM	LOCALE_NAME
 39006	Mantello del Coraggio
 39007	Libro del fabbro
 39008	Papiro dell'Esorcismo
-39009	Ridistribuzione Abilit‡
+39009	Ridistribuzione Abilit√†
 39010	Pozione dell'Attacco +10
 39011	Benedizione della Vita
 39012	Benedizione della Magia
@@ -3871,7 +3871,7 @@ VNUM	LOCALE_NAME
 39023	Elisir del Ricercatore
 39024	Lotta Critica
 39025	Lotta Trafiggente
-39026	Pozione della Velocit‡
+39026	Pozione della Velocit√†
 39027	Libro delle Pietre
 39028	Incanta Oggetto
 39029	Rinforza Oggetto
@@ -4198,7 +4198,7 @@ VNUM	LOCALE_NAME
 41316	Armatura di Azrael (f)
 41317	Armatura di Azrael+ (m)
 41318	Armatura di Azrael+ (f)
-41319	»ÊªÁ∞©
+41319	√à√¶¬ª√ß¬∞¬©
 41320	Abito Jack Pumpkin (m)
 41321	Vestito Jack Pumpkin (f)
 41322	Abito Jack Pumpkin+ (m)
@@ -4337,14 +4337,14 @@ VNUM	LOCALE_NAME
 45152	Elmo di Azrael (f)
 45153	Elmo di Azrael+ (m)
 45154	Elmo di Azrael+ (f)
-45155	»ÊªÁ≈ı±∏
+45155	√à√¶¬ª√ß√Ö√µ¬±¬∏
 45156	Testa Jack Pumpkin (m)
 45157	Testa Jack Pumpkin (f)
 45158	Testa Jack Pumpkin+ (m)
 45159	Testa Jack Pumpkin+ (f)
 50001	Libro della Fortuna
 50002	Anello d'Oro
-50003	Annullamento Abilit‡
+50003	Annullamento Abilit√†
 50004	Cerca-Eventi
 50005	Buono d'Equitazione(PM)
 50006	Forziere Dorato
@@ -4426,14 +4426,14 @@ VNUM	LOCALE_NAME
 50094	Sushi di Pesce Gatto
 50095	Zucca
 50096	Palla da Calcio
-50100	Fuoco d¥Artificio
-50101	Fuoco d¥Artificio
-50102	Fuoco d¥Artificio
-50103	Fuoco d¥Artificio
-50104	Fuoco d¥Artificio
-50105	Fuoco d¥Artificio
+50100	Fuoco d¬¥Artificio
+50101	Fuoco d¬¥Artificio
+50102	Fuoco d¬¥Artificio
+50103	Fuoco d¬¥Artificio
+50104	Fuoco d¬¥Artificio
+50105	Fuoco d¬¥Artificio
 50106	Fuoco Artif. Natalizio
-50107	Fuoco d¥Artificio Cinese
+50107	Fuoco d¬¥Artificio Cinese
 50108	Trottola
 50109	Cassetta Ebano Rosso
 50110	Cassetta Ebano Lussuosa
@@ -4517,22 +4517,22 @@ VNUM	LOCALE_NAME
 50212	Baule Apprendista I
 50213	Baule Apprendista I
 50215	Forziere di Halloween
-50216	Vin BrulÈ
+50216	Vin Brul√©
 50249	Baule del Trionfo
 50252	Cor draconis
 50253	NoNAme
-50254	Scrigno dell'oscurit‡
+50254	Scrigno dell'oscurit√†
 50255	Cor draconis (grezzo)
 50256	Cor draconis (tagliato)
 50257	Cor draconis (raro)
 50258	Cor draconis (antico)
 50259	Cor draconis (leggend.)
 50260	Cor draconis (grezzo)
-50300	Libro delle Abilit‡
+50300	Libro delle Abilit√†
 50301	Arte della Guerra Sun-zi
 50302	Arte della Guerra Wu-zi
 50303	WeiLiao Zi
-50304	Capacit‡ di Fare Combo
+50304	Capacit√† di Fare Combo
 50305	Libro del Maestro Combo
 50306	L'Alta Arte del Combo
 50307	Libro Missione(Facile)
@@ -4593,7 +4593,7 @@ VNUM	LOCALE_NAME
 50507	Libro dei Fulmini
 50508	Libro Artigli di Fulmine
 50509	Libro della Guarigione
-50510	Libro della Velocit‡
+50510	Libro della Velocit√†
 50511	Libro dell'Attacco
 50512	Pietra Arcobaleno
 50513	Pietra delle Anime
@@ -4638,7 +4638,7 @@ VNUM	LOCALE_NAME
 50702	Campanula
 50703	Fiori di Caco
 50704	Radice di Gango
-50705	Lill‡
+50705	Lill√†
 50706	Fungo Tue
 50707	Rosa alpina
 50708	Albero di More
@@ -4650,7 +4650,7 @@ VNUM	LOCALE_NAME
 50722	Campanula
 50723	Fiori di Caco
 50724	Radice di gango
-50725	Lill‡
+50725	Lill√†
 50726	Fungo tue
 50727	Rosa Alpina
 50728	Albero di More
@@ -4662,7 +4662,7 @@ VNUM	LOCALE_NAME
 50802	Succo di Campanula
 50803	Succo di Fiori di Caco
 50804	Succo di Radice di Gango
-50805	Succo di Lill‡
+50805	Succo di Lill√†
 50806	Succo di Fungo Tue
 50807	Succo di Rosa Alpina
 50808	Succo di Albero di More
@@ -5009,7 +5009,7 @@ VNUM	LOCALE_NAME
 70001	Bambola della Dea
 70002	Terza Mano
 70003	Libro del Capo
-70004	Medaglia dell¥Impegno
+70004	Medaglia dell¬¥Impegno
 70005	Anello dell'Esperienza
 70006	Anello delle Lingue
 70007	Anello del Teletrasporto
@@ -5030,8 +5030,8 @@ VNUM	LOCALE_NAME
 70022	Cuore di Bera
 70023	Bastone del Saggio
 70024	Sfera benedetta
-70025	Anello della Dignit‡
-70026	Specchio Invisibilit‡
+70025	Anello della Dignit√†
+70026	Specchio Invisibilit√†
 70027	Notizia del Fabbro
 70028	Notizia del Saggio
 70029	Piuma per Scrivere Rossa
@@ -5086,7 +5086,7 @@ VNUM	LOCALE_NAME
 70302	Fede
 71001	Papiro dell'esorcismo
 71002	Ridistr. dello status
-71003	Ridistribuzione Abilit‡
+71003	Ridistribuzione Abilit√†
 71004	Medaglia del drago
 71005	Anello delle Lingue
 71006	Anello delle Lingue
@@ -5106,7 +5106,7 @@ VNUM	LOCALE_NAME
 71020	Benedizione del drago
 71021	Papiro della Guerra
 71022	Ritorno Intelligenza
-71023	Ritorno Vitalit‡
+71023	Ritorno Vitalit√†
 71024	Ritorno Forza
 71025	Pietra del Fabbro
 71026	Minerale di Ferro Magico
@@ -5132,7 +5132,7 @@ VNUM	LOCALE_NAME
 71047	Tintura Pietra Spirit.
 71048	Magia della modifica
 71049	Sacca di Seta
-71050	Pozione della Velocit‡
+71050	Pozione della Velocit√†
 71054	Tintura dei Regni
 71055	Tintura del Nome
 71056	Tintura del Cielo
@@ -5218,12 +5218,12 @@ VNUM	LOCALE_NAME
 71140	Sig. Tigre Reale (verde)
 71141	Sig.Tigre Reale (grigio)
 71142	Sig. Tigre Reale (bian.)
-71143	Anello della Felicit‡
+71143	Anello della Felicit√†
 71144	Forziere di Natale
 71145	Amuleto dell'eterno amor
 71146	Baule di Cupido (rosa)
 71147	Baule di Cupido (blu)
-71148	Anello Forza di Volont‡
+71148	Anello Forza di Volont√†
 71149	Anello Potenza Letale
 71150	Uovo magico
 71151	Incantesimo Verde
@@ -5287,9 +5287,9 @@ VNUM	LOCALE_NAME
 72043	Libro del Capo
 72044	Libro del Capo
 72045	Libro del Capo
-72046	Possibilit‡ Importante
-72047	Possibilit‡ Importante
-72048	Possibilit‡ Importante
+72046	Possibilit√† Importante
+72047	Possibilit√† Importante
+72048	Possibilit√† Importante
 72049	Anello dell'Esperienza
 72050	Anello dell'Esperienza
 72301	Papiro Consacrato
@@ -5546,7 +5546,7 @@ VNUM	LOCALE_NAME
 76009	Papiro del drago
 76010	Ematite
 76011	Libro del Capo
-76012	Pozione della Velocit‡
+76012	Pozione della Velocit√†
 76013	Rinforza Oggetto (b)
 76014	Incanta Oggetto (b)
 76015	Sfera Benedetta

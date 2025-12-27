@@ -1,2285 +1,2285 @@
-"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Toşi vor fi teleportaşi în oraº.";
+"ì ì‹œí›„ í•´ë‹¹ ë§ˆì„ì€  ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"ToÅ£i vor fi teleportaÅ£i Ã®n oraÅŸ.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
-"Acest obiect nu existã.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ì•„ì´í…œ ì…ë‹ˆë‹¤";
+"Acest obiect nu existÄƒ.";
 
-"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
-"Cutia a explodat deodatã! PV şi-au scãzut.";
+"ìƒìê°€ ê°‘ìê¸° í­ë°œí•˜ì˜€ìŠµë‹ˆë‹¤! ìƒëª…ë ¥ì´ ê°ì†Œí–ˆìŠµë‹ˆë‹¤.";
+"Cutia a explodat deodatÄƒ! PV Å£i-au scÄƒzut.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
-"Dacã inhalezi fumul verde care iese din cutie, corpul tãu se va umple cu otravã.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë…¹ìƒ‰ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ë…ì´ ì˜¨ëª¸ìœ¼ë¡œ í¼ì§‘ë‹ˆë‹¤!";
+"DacÄƒ inhalezi fumul verde care iese din cutie, corpul tÄƒu se va umple cu otravÄƒ.";
 
-"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
-"Ai primit %s, %d unitãşi.";
+"%s ì•„ì´í…œ ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤";
+"Ai primit %s, %d unitÄƒÅ£i.";
 
-"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
-"În cutie este %s.";
+"ìƒìì—ì„œ %s ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn cutie este %s.";
 
-"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
-"Se pare cã aceastã cheie nu funcşioneazã.";
+"ì—´ì‡ ê°€ ë§ì§€ ì•ŠëŠ” ê²ƒ ê°™ë‹¤.";
+"Se pare cÄƒ aceastÄƒ cheie nu funcÅ£ioneazÄƒ.";
 
-"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
+"ì•„ë¬´ê²ƒë„ ì–»ì„ ìˆ˜ ì—†ì—ˆìŠµë‹ˆë‹¤.";
 "Nu ai primit nimic.";
 
-"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
 "Nu ai destul Yang pentru a folosi obiectul.";
 
-"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì†Œì§€ê¸ˆì´ ë¶€ì¡±í•˜ì—¬ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu ai destul Yang pentru a folosi obiectul.";
 
-"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Şi-a scãzut nivelul abilitãşii.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦¬ëŠ”ë° ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Å¢i-a scÄƒzut nivelul abilitÄƒÅ£ii.";
 
-"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nu îşi poşi scãdea nivelul abilitãşii.";
+"ìŠ¤í‚¬ ë ˆë²¨ì„ ë‚´ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu Ã®Å£i poÅ£i scÄƒdea nivelul abilitÄƒÅ£ii.";
 
-"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
-"Îºi face deja efectul.";
+"ì´ë¯¸ íš¨ê³¼ê°€ ê±¸ë ¤ ìˆìŠµë‹ˆë‹¤.";
+"ÃÅŸi face deja efectul.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Acest obiect poate fi folosit doar într-un Internet Cafe.";
+"ì´ ì•„ì´í…œì€ PCë°©ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Acest obiect poate fi folosit doar Ã®ntr-un Internet Cafe.";
 
-"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
-"Aceasta depãºeºte limita.";
+"ì‚¬ìš© ì œí•œëŸ‰ì„ ì´ˆê³¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Aceasta depå±eí‹Še limita.";
 
-"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
-"Din pãcate nu ai destul spaşiu în inventar.";
+"ìƒí’ˆì„ ë°›ì„ ì¸ë²¤í† ë¦¬ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ë¥¼ ë¹„ì›Œì£¼ì„¸ìš”!";
+"Din pÄƒcate nu ai destul spaÅ£iu Ã®n inventar.";
 
-"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
-"Plãcintã lunã sau seminşe folosite.";
+"ì›”ë³‘ ë˜ëŠ” ì¢…ì ë¥¼ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤";
+"PlÄƒcintÄƒ lunÄƒ sau seminÅ£e folosite.";
 
-"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi purta un inel de cununie dacã nu eºti cãsãtorit.";
+"ê²°í˜¼ ìƒíƒœê°€ ì•„ë‹ˆë©´ ê²°í˜¼ë°˜ì§€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i purta un inel de cununie dacÄƒ nu eÅŸti cÄƒsÄƒtorit.";
 
-"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"ì´ ê³³ì—ì„  ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
 "Detectorul de evenimente nu poate fi operat de aici.";
 
-"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì´ ê°œëŸ‰ì„œë¡œ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Acest obiect nu poate fi absorbit.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Detectorul de evenimente a dispãrut cu lumina misterioasã.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Detectorul de evenimente a dispÄƒrut cu lumina misterioasÄƒ.";
 
-"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Detectorul de evenimente a dispãrut.";
+"ì´ë²¤íŠ¸ìš© ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Detectorul de evenimente a dispÄƒrut.";
 
-"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
-"Busola pentru Pietrele Metin nu funcşioneazã în peºteri.";
+"ì´ ê³³ì—ì„œ ì˜ì„ ê°ì§€ê¸°ê°€ ë™ì‘í•˜ì§€ ì•ŠëŠ”ê²ƒ ê°™ìŠµë‹ˆë‹¤.";
+"Busola pentru Pietrele Metin nu funcÅ£ioneazÄƒ Ã®n peÅŸteri.";
 
-"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
-"Busola pentru Pietrele Metin a dispãrut cu lumina misterioasã.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ ì‹ ë¹„ë¡œìš´ ë¹›ì„ ë‚´ë©° ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Busola pentru Pietrele Metin a dispÄƒrut cu lumina misterioasÄƒ.";
 
-"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
+"ìƒìì—ì„œ %s ê°€ %d ê°œ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
 "Primit: %s - %d";
 
-"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Busola pentru Pietrele Metin a dispãrut.";
+"ì˜ì„ ê°ì§€ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Busola pentru Pietrele Metin a dispÄƒrut.";
 
-"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
-"În scoicã vei gãsi o simplã Bucatã de Piatrã.";
+"ì¡°ê°œì—ì„œ ëŒì¡°ê°ì´ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn scoicÄƒ vei gÄƒsi o simplÄƒ BucatÄƒ de PiatrÄƒ.";
 
-"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Scoica a dispãrut.";
+"ì¡°ê°œê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Scoica a dispÄƒrut.";
 
-"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"În scoicã se aflã o perlã albã.";
+"ì¡°ê°œì—ì„œ ë°±ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn scoicÄƒ se aflÄƒ o perlÄƒ albÄƒ.";
 
-"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"În scoicã se aflã o perlã albastrã.";
+"ì¡°ê°œì—ì„œ ì²­ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn scoicÄƒ se aflÄƒ o perlÄƒ albastrÄƒ.";
 
-"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
-"În scoicã se aflã o perlã viºinie.";
+"ì¡°ê°œì—ì„œ í”¼ì§„ì£¼ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn scoicÄƒ se aflÄƒ o perlÄƒ viÅŸinie.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
-"Aceastã carte este prea greu de înşeles.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œ ì´í•´í•˜ê¸°ê°€ í˜ë“­ë‹ˆë‹¤.";
+"AceastÄƒ carte este prea greu de Ã®nÅ£eles.";
 
-"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Aceastã carte nu te ajutã mai departe.";
+"ì´ ì±…ì€ ì•„ë¬´ë¦¬ ë´ë„ ë„ì›€ì´ ë  ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"AceastÄƒ carte nu te ajutÄƒ mai departe.";
 
-"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Trebuie sã ai minim nivelul 30 pentru a înşelege cartea asta.";
+"ë ˆë²¨ 30ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ ai minim nivelul 30 pentru a Ã®nÅ£elege cartea asta.";
 
-"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
-"Trebuie sã ai minim nivelul 50 pentru a înşelege cartea asta.";
+"ë ˆë²¨ 50ì´ ë˜ê¸° ì „ì—ëŠ” ìŠµë“í•  ìˆ˜ ìˆì„ ê²ƒ ê°™ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ ai minim nivelul 50 pentru a Ã®nÅ£elege cartea asta.";
 
-"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi antrena mai multe combo.";
+"ì—°ê³„ê¸°ëŠ” ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i antrena mai multe combo.";
 
-"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
+"%s ê¸¸ë“œì˜ ê¹ƒë°œì„ %s ë‹˜ì´ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s a cucerit steagul %s!";
 
-"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
-"Înşelegi deja aceastã limbã.";
+"ì´ë¯¸ ì™„ë²½í•˜ê²Œ ì•Œì•„ë“¤ì„ ìˆ˜ ìˆëŠ” ì–¸ì–´ì´ë‹¤.";
+"ÃnÅ£elegi deja aceastÄƒ limbÄƒ.";
 
-"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
-"Trebuie sã avansezi nivelul pentru a putea citi aceastã carte.";
+"ì´ ì±…ì„ ì½ìœ¼ë ¤ë©´ ë ˆë²¨ì„ ë” ì˜¬ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Trebuie sÄƒ avansezi nivelul pentru a putea citi aceastÄƒ carte.";
 
-"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì´ ì±…ì€ ë„ˆë¬´ ì–´ë ¤ì›Œì„œ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Cartea este prea grea pentru a exersa.";
 
-"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Cu aceastã carte nu te poşi antrena mai departe.";
+"ì´ ì±…ìœ¼ë¡œëŠ” ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Cu aceastÄƒ carte nu te poÅ£i antrena mai departe.";
 
-"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
+"ì„¸ê¸ˆì´ %d %ë¡œ ì„¤ì •ë˜ì—ˆìŠµë‹ˆë‹¤";
 "Impozitul a fost stabilit la %d%%.";
 
-"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
-"Trebuie sã ai minim nivelul 50 pentru a învãşa sã cãlãreºti.";
+"ì•„ì§ ìŠ¹ë§ˆ ìŠ¤í‚¬ì„ ìˆ˜ë ¨í•  ìˆ˜ ìˆëŠ” ë ˆë²¨ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Trebuie sÄƒ ai minim nivelul 50 pentru a Ã®nvÄƒÅ£a sÄƒ cÄƒlÄƒreÅŸti.";
 
-"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
-"Cu ajutorul unui Pergament de Exorcizare ai scãpat de blestemul spiritelor rele.";
+"ì£¼ì•ˆìˆ ì„œë¥¼ í†µí•´ ì£¼í™”ì…ë§ˆì—ì„œ ë¹ ì ¸ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Cu ajutorul unui Pergament de Exorcizare ai scÄƒpat de blestemul spiritelor rele.";
 
-"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi citi mai multe indicaşii de cãlãrie.";
+"ë” ì´ìƒ ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i citi mai multe indicaÅ£ii de cÄƒlÄƒrie.";
 
-"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
-"Ai citit Manualul de Cãlãrie ºi ai primit un Punct de Cãlãrie.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œë¥¼ ì½ì–´ ìŠ¹ë§ˆ ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
+"Ai citit Manualul de CÄƒlÄƒrie ÅŸi ai primit un Punct de CÄƒlÄƒrie.";
 
-"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
+"ì–»ì€ í¬ì¸íŠ¸ë¡œëŠ” ìŠ¹ë§ˆ ìŠ¤í‚¬ì˜ ë ˆë²¨ì„ ì˜¬ë¦´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Poti folosi acest punct pentru a perfectiona abilitatea de calarie.";
 
-"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì˜ ê¹ƒë°œì„ ë¹¼ì•—ì•˜ìŠµë‹ˆë‹¤!";
 "Steagul breslei %s a fost furat de %s.";
 
-"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nu ai înşeles indicaşiile de cãlãrie.";
+"ìŠ¹ë§ˆ ìˆ˜ë ¨ì„œ ì´í•´ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nu ai Ã®nÅ£eles indicaÅ£iile de cÄƒlÄƒrie.";
 
-"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
-"Spiritul îşi este limpede. Acum te poşi concentra.";
+"ë§ˆìŒì´ ë§‘ì•„ì§€ëŠ”êµ°. ê°€ìŠ´ì„ ì§“ëˆ„ë¥´ë˜ ë¬´ì–¸ê°€ê°€ ì¢€ ê°€ë²¼ì›Œì§„ ëŠë‚Œì´ì•¼.";
+"Spiritul Ã®Å£i este limpede. Acum te poÅ£i concentra.";
 
-"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
+"ì„ ì•…ì¹˜ê°€ %d ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Rangul tau a crescut cu %d puncte.";
 
-"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
-"Nu îşi poşi vopsi sau înãlbi frizura actualã.";
+"í˜„ì¬ í—¤ì–´ìŠ¤íƒ€ì¼ì—ì„œëŠ” ì—¼ìƒ‰ê³¼ íƒˆìƒ‰ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Nu Ã®Å£i poÅ£i vopsi sau Ã®nÄƒlbi frizura actualÄƒ.";
 
-"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
-"Trebuie sã atingi nivelul %d pentru a-şi putea vopsi pãrul iar.";
+"%d ë ˆë²¨ì´ ë˜ì–´ì•¼ ë‹¤ì‹œ ì—¼ìƒ‰í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ atingi nivelul %d pentru a-Å£i putea vopsi pÄƒrul iar.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Obiectul poate fi deschis doar de cãtre celãlalt sex.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Obiectul poate fi deschis doar de cÄƒtre celÄƒlalt sex.";
 
-"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi aceasta din pozişia ta actualã.";
+"í˜„ì¬ ìœ„ì¹˜ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi aceasta din poziÅ£ia ta actualÄƒ.";
 
-"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nu poşi folosi Pergamentul Oraºului.";
+"ì´ë™í•  ì¤€ë¹„ê°€ ë˜ì–´ìˆìŒìœ¼ë¡œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nu poÅ£i folosi Pergamentul OraÅŸului.";
 
-"¿ø·¡ À§Ä¡·Î º¹±Í";
-"Vei fi adus la locul inişial.";
+"ì›ë˜ ìœ„ì¹˜ë¡œ ë³µê·€";
+"Vei fi adus la locul iniÅ£ial.";
 
-"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"%s%s nu poate fi folosit într-o temnişã.";
+"ë˜ì „ ì•ˆì—ì„œëŠ” %s%s ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"%s%s nu poate fi folosit Ã®ntr-o temniÅ£Äƒ.";
 
-"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"[Quest] Şi-ai primit deja recompensa.";
+"<í€˜ìŠ¤íŠ¸> ì´ì „ì— ê°™ì€ ë³´ìƒì„ ë°›ì€ ì ì´ ìˆì–´ ë‹¤ì‹œ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Quest] Å¢i-ai primit deja recompensa.";
 
-"À»";
+"ì„";
 "pe";
 
-"¸¦";
+"ë¥¼";
 "pe";
 
-"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
-"Nu e nicio bucatã din Piatra Spartã disponibilã pentru înlãturare.";
+"ì²­ì†Œí•  ì„ì´ ë°•í˜€ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"Nu e nicio bucatÄƒ din Piatra SpartÄƒ disponibilÄƒ pentru Ã®nlÄƒturare.";
 
-"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"ì†ì„±ì„ ë³€ê²½í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
 "Nu poti schimba upgradeul acestui obiect.";
 
-"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
-"Nu ai nicio îmbunãtãşire care poate fi schimbatã.";
+"ë³€ê²½í•  ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nu ai nicio Ã®mbunÄƒtÄƒÅ£ire care poate fi schimbatÄƒ.";
 
-"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
+"ì†ì„±ì„ ë°”ê¾¼ì§€ %dë¶„ ì´ë‚´ì—ëŠ” ë‹¤ì‹œ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%d ë¶„ ë‚¨ìŒ)";
 "Poti face asta dupa %d Minute de la upgrade. (%d Minute ramase)";
 
-"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
-"Ai schimbat îmbunãtãşirea.";
+"ì†ì„±ì„ ë³€ê²½í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ai schimbat Ã®mbunÄƒtÄƒÅ£irea.";
 
-"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ì†ì„± ì¶”ê°€ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Upgrade adaugat cu succes.";
 
-"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"ì†ì„± ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Niciun upgrade adaugat.";
 
-"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Trebuie sã foloseºti Marmurã Binecuvântatã ca sã poşi adãuga încã un bonus acestui obiect.";
+"ë”ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ foloseÅŸti MarmurÄƒ BinecuvÃ¢ntatÄƒ ca sÄƒ poÅ£i adÄƒuga Ã®ncÄƒ un bonus acestui obiect.";
 
-"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi asta în arena de duel.";
+"ëŒ€ë ¨ì¥ì—ì„œ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi asta Ã®n arena de duel.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Acest obiect nu mai poate fi îmbunãtãşit. Numãrul maxim de bonusuri a fost atins.";
+"ë” ì´ìƒ ì´ ì•„ì´í…œì„ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Acest obiect nu mai poate fi Ã®mbunÄƒtÄƒÅ£it. NumÄƒrul maxim de bonusuri a fost atins.";
 
-"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
-"Poşi folosi Marmurã Binecuvântatã cu un obiect care are deja 4 bonusuri.";
+"ë¨¼ì € ì¬ê°€ë¹„ì„œë¥¼ ì´ìš©í•˜ì—¬ ì†ì„±ì„ ì¶”ê°€ì‹œì¼œ ì£¼ì„¸ìš”.";
+"PoÅ£i folosi MarmurÄƒ BinecuvÃ¢ntatÄƒ cu un obiect care are deja 4 bonusuri.";
 
-"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
-"Suportul a fost adãugat cu succes.";
+"ì†Œì¼“ì´ ì„±ê³µì ìœ¼ë¡œ ì¶”ê°€ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Suportul a fost adÄƒugat cu succes.";
 
-"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Nici un suport adãugat.";
+"ì†Œì¼“ ì¶”ê°€ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Nici un suport adÄƒugat.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Acestui obiect nu-i pot fi adãugate suporturi noi.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì†Œì¼“ì„ ì¶”ê°€í•  ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Acestui obiect nu-i pot fi adÄƒugate suporturi noi.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Acestui obiect nu îi poate fi adãugat un suport.";
+"ì´ ì•„ì´í…œìœ¼ë¡œ ì†Œì¼“ì„ ì¶”ê°€í•  ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Acestui obiect nu Ã®i poate fi adÄƒugat un suport.";
 
-"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Echipare reuºitã.";
+"ì¥ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Echipare reuÅŸitÄƒ.";
 
-"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Echipare eºuatã.";
+"ì¥ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Echipare eÅŸuatÄƒ.";
 
-"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Trebuie sã adaugi un suport înainte. Foloseºte diamantul pentru a face asta.";
+"ë¨¼ì € ë‹¤ì´ì•„ëª¬ë“œë¡œ ì•…ì„¸ì„œë¦¬ì— ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Trebuie sÄƒ adaugi un suport Ã®nainte. FoloseÅŸte diamantul pentru a face asta.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
-"În aceste accesorii nu existã suport de echipat cu pietre preşioase.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ì¥ì°©í•  ì†Œì¼“ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Ãn aceste accesorii nu existÄƒ suport de echipat cu pietre preÅ£ioase.";
 
-"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Poşi face asta dacã porşi masca emoşiei.";
+"ì—´ì •ì˜ ê°€ë©´ì„ ì°©ìš©ì‹œì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"PoÅ£i face asta dacÄƒ porÅ£i masca emoÅ£iei.";
 
-"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
-"Trebuie sã adaugi un suport dacã vrei sã foloseºti un diamant.";
+"ë‹¤ì´ì•„ëª¬ë“œë¡œ ì†Œì¼“ì„ ì¶”ê°€í•´ì•¼í•©ë‹ˆë‹¤.";
+"Trebuie sÄƒ adaugi un suport dacÄƒ vrei sÄƒ foloseÅŸti un diamant.";
 
-"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Pe acest obiect nu mai poşi adãuga pietre preşioase.";
+"ì´ ì•¡ì„¸ì„œë¦¬ì—ëŠ” ë”ì´ìƒ ë³´ì„ì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Pe acest obiect nu mai poÅ£i adÄƒuga pietre preÅ£ioase.";
 
-"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Aceste obiecte nu pot fi folosite împreunã.";
+"ì´ ì•„ì´í…œì„ ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Aceste obiecte nu pot fi folosite Ã®mpreunÄƒ.";
 
-"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi schimba momeala în timpul pescuitului.";
+"ë‚šì‹œ ì¤‘ì— ë¯¸ë¼ë¥¼ ê°ˆì•„ë¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i schimba momeala Ã®n timpul pescuitului.";
 
-"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
-"Schimbi momeala actualã cu %s.";
+"ì´ë¯¸ ê½‚í˜€ìˆë˜ ë¯¸ë¼ë¥¼ ë¹¼ê³  %së¥¼ ë¼ì›ë‹ˆë‹¤.";
+"Schimbi momeala actualÄƒ cu %s.";
 
-"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
-"Ai agãşat %s în cârlig ca momealã.";
+"ë‚šì‹œëŒ€ì— %së¥¼ ë¯¸ë¼ë¡œ ë¼ì›ë‹ˆë‹¤.";
+"Ai agÄƒÅ£at %s Ã®n cÃ¢rlig ca momealÄƒ.";
 
-"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
-"Lipseºte material pentru amestecul licorii.";
+"ë¬¼ì•½ ì¡°í•©ì„ ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Lipseí‹Še material pentru amestecul licorii.";
 
-"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"ì¬ë£Œ(%s)ê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
 "Nu ai destul material (%s).";
 
-"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
+"ë¹ˆ ë³‘ì´ ëª¨ìë¦…ë‹ˆë‹¤.";
 "Nu ai destule sticle goale.";
 
-"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Producerea licorii a eºuat.";
+"ë¬¼ì•½ ì œì¡°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"Producerea licorii a eí‹Œat.";
 
-"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"ì—¬ìë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Doar femeile pot face asta.";
 
-"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi atasa mai multe pietre de acelasi fel.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ë©”í‹´ì„ì€ ì—¬ëŸ¬ê°œ ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i atasa mai multe pietre de acelasi fel.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Piatra Spiritului nu poate fi ataºatã la acest tip de obiect.";
+"ì´ ë©”í‹´ì„ì€ ì¥ë¹„ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Piatra Spiritului nu poate fi ataÅŸatÄƒ la acest tip de obiect.";
 
-"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi pune aceastã piatrã în armã.";
+"ì´ ë©”í‹´ì„ì€ ë¬´ê¸°ì— ë¶€ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i pune aceastÄƒ piatrÄƒ Ã®n armÄƒ.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Ai pus piatra cu succes.";
 
-"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Piatra s-a spart în timp ce încercai s-o ataºezi.";
+"ë©”í‹´ì„ ë¶€ì°©ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Piatra s-a spart Ã®n timp ce Ã®ncercai s-o ataÅŸezi.";
 
-"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
+"ë¶€ì°©í•  ìˆ˜ ìˆëŠ” ìŠ¬ë¡¯ì´ ì—†ìŠµë‹ˆë‹¤.";
 "Nu este niciun slot liber.";
 
-"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Aceastã funcşie nu poate fi folositã aici ºi acum.";
+"ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"AceastÄƒ funcÅ£ie nu poate fi folositÄƒ aici ÅŸi acum.";
 
-"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi Pergamentul Oraºului în timp ce iei parte la Bãtãlia Regatelor.";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ ì°¸ê°€ì¤‘ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi Pergamentul OraÅŸului Ã®n timp ce iei parte la BÄƒtÄƒlia Regatelor.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Dupã deschiderea Depozitului nu poşi folosi Pergamentul Oraºului timp de %d secunde.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DupÄƒ deschiderea Depozitului nu poÅ£i folosi Pergamentul OraÅŸului timp de %d secunde.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi Pergamentul Oraºului în timp ce altã fereastrã este deschisã.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi Pergamentul OraÅŸului Ã®n timp ce altÄƒ fereastrÄƒ este deschisÄƒ.";
 
-"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
-"Aceastã persoanã nu existã.";
+"ê·¸ëŸ° ì‚¬ëŒì´ ì—†ìŠµë‹ˆë‹¤.";
+"AceastÄƒ persoanÄƒ nu existÄƒ.";
 
-"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì•„ì´í…œ ê°œëŸ‰í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti folosi Scroll-uri timp de %d dupa un schimb.";
 
-"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Dupã deschiderea Depozitului nu poşi folosi Pergamentul Oraºului timp de %d secunde.";
+"ê°œì¸ìƒì  ì‚¬ìš©í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DupÄƒ deschiderea Depozitului nu poÅ£i folosi Pergamentul OraÅŸului timp de %d secunde.";
 
-"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi Pergamentul Oraºului deoarece distanşã este prea micã.";
+"ì´ë™ ë˜ì–´ì§ˆ ìœ„ì¹˜ì™€ ë„ˆë¬´ ê°€ê¹Œì›Œ ê·€í™˜ë¶€ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi Pergamentul OraÅŸului deoarece distanÅ£Äƒ este prea micÄƒ.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Dupã un schimb de obiecte nu poşi folosi Pergamentul Oraºului timp de %d secunde.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê·€í™˜ë¶€,ê·€í™˜ê¸°ì–µë¶€ë“±ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DupÄƒ un schimb de obiecte nu poÅ£i folosi Pergamentul OraÅŸului timp de %d secunde.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi deschide un lagãr atâta timp cât este deschisã altã fereastrã.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë³´ë”°ë¦¬,ë¹„ë‹¨ë³´ë”°ë¦¬ë¥¼ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i deschide un lagÄƒr atÃ¢ta timp cÃ¢t este deschisÄƒ altÄƒ fereastrÄƒ.";
 
-"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
-"Nu poşi arunca acest obiect.";
+"ë²„ë¦´ ìˆ˜ ì—†ëŠ” ì•„ì´í…œì…ë‹ˆë‹¤.";
+"Nu poÅ£i arunca acest obiect.";
 
-"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
-"Obiectul cãzut va dispãrea în 5 minute.";
+"ë–¨ì–´ì§„ ì•„ì´í…œì€ 3ë¶„ í›„ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Obiectul cÄƒzut va dispÄƒrea Ã®n 5 minute.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s";
+"ì•„ì´í…œ íšë“: %s";
 "Ai primit %s.";
 
-"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
-"Porşi prea multe obiecte la tine.";
+"ì†Œì§€í•˜ê³  ìˆëŠ” ì•„ì´í…œì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤.";
+"PorÅ£i prea multe obiecte la tine.";
 
-"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
-"%s primeºte %s.";
+"ì•„ì´í…œ íšë“: %s ë‹˜ìœ¼ë¡œë¶€í„° %s";
+"%s primeí‹Še %s.";
 
-"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
-"Toşi vor fi teleportaşi în oraº în scurt timp.";
+"ì ì‹œí›„ ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
+"ToÅ£i vor fi teleportaÅ£i Ã®n oraÅŸ Ã®n scurt timp.";
 
-"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
-"Eºti prea aproape.";
+"ë„ˆë¬´ ê°€ê¹Œì´ ìˆìŠµë‹ˆë‹¤.";
+"Eí‹Ši prea aproape.";
 
-"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
-"Negoş cu obiecte: %s, %s";
+"ì•„ì´í…œ ì „ë‹¬: %s ë‹˜ì—ê²Œ %s";
+"NegoÅ£ cu obiecte: %s, %s";
 
-"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi schimba obiectul echipat în timp ce te transformi.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ì°©ìš©ì¤‘ì¸ ì¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i schimba obiectul echipat Ã®n timp ce te transformi.";
 
-"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Trebuie sã stai pe loc pentru a echipa obiectul.";
+"ê°€ë§Œíˆ ìˆì„ ë•Œë§Œ ì°©ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ stai pe loc pentru a echipa obiectul.";
 
-"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi hrãni un cal viu cu Iarba Maimuşei. E folositã pentru a re-învia caii morşi.";
+"ì£½ì§€ ì•Šì€ ë§ì—ê²Œ ì„ ì´ˆë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i hrÄƒni un cal viu cu Iarba MaimuÅ£ei. E folositÄƒ pentru a re-Ã®nvia caii morÅ£i.";
 
-"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi hrãni un cal mort.";
+"ì£½ì€ ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ë¨¹ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i hrÄƒni un cal mort.";
 
-"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Ai hrãnit calul cu ierburi.";
+"ë§ì—ê²Œ ì„ ì´ˆë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"Ai hrÄƒnit calul cu ierburi.";
 
-"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
-"Ai hrãnit calul.";
+"ë§ì—ê²Œ ì‚¬ë£Œë¥¼ ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"Ai hrÄƒnit calul.";
 
-"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
-"Nivelul tãu este prea scãzut pentru a purta aceastã frizurã.";
+"ì•„ì§ ì´ ë¨¸ë¦¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ë ˆë²¨ì…ë‹ˆë‹¤.";
+"Nivelul tÄƒu este prea scÄƒzut pentru a purta aceastÄƒ frizurÄƒ.";
 
-"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Porşi deja aceastã frizurã.";
+"ë™ì¼í•œ ë¨¸ë¦¬ ìŠ¤íƒ€ì¼ë¡œëŠ” êµì²´í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"PorÅ£i deja aceastÄƒ frizurÄƒ.";
 
-"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
+"ì´ë¯¸ ë‘”ê°‘ì¤‘ì¸ ìƒíƒœì…ë‹ˆë‹¤.";
 "Te-ai transformat deja.";
 
-"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
-"Eºti prea departe.";
+"ë„ˆë¬´ ë©€ë¦¬ ìˆìŠµë‹ˆë‹¤";
+"Eí‹Ši prea departe.";
 
-"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"ì˜ëª»ëœ ë‘”ê°‘ ì•„ì´í…œì…ë‹ˆë‹¤.";
 "Acesta este obiectul nepotrivit pentru transformare.";
 
-"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu te poşi transforma într-un monstru cu un nivel mai mare ca al tãu.";
+"ë‚˜ë³´ë‹¤ ë„ˆë¬´ ë†’ì€ ë ˆë²¨ì˜ ëª¬ìŠ¤í„°ë¡œëŠ” ë³€ì‹  í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu te poÅ£i transforma Ã®ntr-un monstru cu un nivel mai mare ca al tÄƒu.";
 
-"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nivelul tãu este prea scãzut pentru a echipa acest obiect.";
+"ë ˆë²¨ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nivelul tÄƒu este prea scÄƒzut pentru a echipa acest obiect.";
 
-"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu eºti destul de puternic pentru a echipa acest obiect.";
+"ê·¼ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu eí‹Ši destul de puternic pentru a echipa acest obiect.";
 
-"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Inteligenşa ta este prea scãzutã pentru a echipa acest obiect.";
+"ì§€ëŠ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"InteligenÅ£a ta este prea scÄƒzutÄƒ pentru a echipa acest obiect.";
 
-"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Dexteritatea ta este prea scãzutã pentru a echipa acest obiect.";
+"ë¯¼ì²©ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Dexteritatea ta este prea scÄƒzutÄƒ pentru a echipa acest obiect.";
 
-"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Vitalitatea ta este prea scãzutã pentru a echipa acest obiect.";
+"ì²´ë ¥ì´ ë‚®ì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Vitalitatea ta este prea scÄƒzutÄƒ pentru a echipa acest obiect.";
 
-"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi acest obiect dacã nu eºti cãsãtorit.";
+"ê²°í˜¼í•˜ì§€ ì•Šì€ ìƒíƒœì—ì„œ ì˜ˆë¬¼ì„ ì°©ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi acest obiect dacÄƒ nu eÅŸti cÄƒsÄƒtorit.";
 
-"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi echipa acest obiect de douã ori.";
+"ê°™ì€ ì¢…ë¥˜ì˜ ìœ ë‹ˆí¬ ì•„ì´í…œ ë‘ ê°œë¥¼ ë™ì‹œì— ì¥ì°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i echipa acest obiect de douÄƒ ori.";
 
-"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
-"Timp rãmas pânã la înlãturarea soket-ului din %s: %d";
+"%s ì—ì„œ ì†Œì¼“ ë¹ ì§ˆë•Œê¹Œì§€ ë‚¨ì€ ì‹œê°„ %d";
+"Timp rÄƒmas pÃ¢nÄƒ la Ã®nlÄƒturarea soket-ului din %s: %d";
 
-"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Aceastã acşiune poate fi realizatã doar cu sexul opus.";
+"ì´ì„±ê°„ì—ë§Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"AceastÄƒ acÅ£iune poate fi realizatÄƒ doar cu sexul opus.";
 
-"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
-"O piatrã preşioasã din %s a dispãrut.";
+"%sì— ë°•í˜€ìˆë˜ ë³´ì„ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"O piatrÄƒ preÅ£ioasÄƒ din %s a dispÄƒrut.";
 
-"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ì´ë¦„ì´ ì í•©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "[Breasla] Numele breslei nu este valabil.";
 
-"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
-"[Breasla] Acest nume de breaslã este deja folosit.";
+"<ê¸¸ë“œ> ì´ë¯¸ ê°™ì€ ì´ë¦„ì˜ ê¸¸ë“œê°€ ìˆìŠµë‹ˆë‹¤.";
+"[Breasla] Acest nume de breaslÄƒ este deja folosit.";
 
-"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Nu poşi forma o breaslã.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu poÅ£i forma o breaslÄƒ.";
 
-"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
-"Breasla %s a declarat rãzboi breslei %s!";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì— ì„ ì „í¬ê³ ë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"Breasla %s a declarat rÄƒzboi breslei %s!";
 
-"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
-"[Breasla] %s a refuzat rãzboiul breslei.";
+"<ê¸¸ë“œ> %s ê¸¸ë“œê°€ ê¸¸ë“œì „ì„ ê±°ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Breasla] %s a refuzat rÄƒzboiul breslei.";
 
-"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
-"Rãzboiul de breaslã dintre %s ºi %s începe în câteva secunde!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì ì‹œ í›„ ì „ìŸì„ ì‹œì‘í•©ë‹ˆë‹¤!";
+"RÄƒzboiul de breaslÄƒ dintre %s ÅŸi %s Ã®ncepe Ã®n cÃ¢teva secunde!";
 
-"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
-"Rãzboiul între breslele %s ºi %s a început!";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œê°€ ì „ìŸì„ ì‹œì‘í•˜ì˜€ìŠµë‹ˆë‹¤!";
+"RÄƒzboiul Ã®ntre breslele %s ÅŸi %s a Ã®nceput!";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
-"Rãzboiul dintre breslele %s ºi %s s-a terminat la egalitate.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ë¬´ìŠ¹ë¶€ë¡œ ëë‚¬ìŠµë‹ˆë‹¤.";
+"RÄƒzboiul dintre breslele %s ÅŸi %s s-a terminat la egalitate.";
 
-"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
-"Breasla %s a câºtigat rãzboiul împotriva breslei %s.";
+"%s ê¸¸ë“œê°€ %s ê¸¸ë“œì™€ì˜ ì „ìŸì—ì„œ ìŠ¹ë¦¬ í–ˆìŠµë‹ˆë‹¤.";
+"Breasla %s a cÃ¢ÅŸtigat rÄƒzboiul Ã®mpotriva breslei %s.";
 
-"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
-"Pentru aceastã acşiune ai nevoie de acordul partenerului tãu de joc.";
+"ì´ í–‰ë™ì€ ìƒí˜¸ë™ì˜ í•˜ì— ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
+"Pentru aceastÄƒ acÅ£iune ai nevoie de acordul partenerului tÄƒu de joc.";
 
-"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"[Breasla] Rãzboiul breslei a fost întrerupt.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Breasla] RÄƒzboiul breslei a fost Ã®ntrerupt.";
 
-"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
-"Rãzboiul întrebreslele  %s ºi %s a fost întrerupt.";
+"%s ê¸¸ë“œì™€ %s ê¸¸ë“œ ì‚¬ì´ì˜ ì „ìŸì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.";
+"RÄƒzboiul Ã®ntrebreslele  %s ÅŸi %s a fost Ã®ntrerupt.";
 
-"´İ±â";
-"Închide";
+"ë‹«ê¸°";
+"Ãnchide";
 
-"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"ì „íˆ¬ê°€ ì‹œì‘ ë˜ì–´ ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "Actiune intrerupta. Batalie in desfasurare.";
 
-"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
-"Cineva a intrat cu contul tãu. Vei fi deconectat.";
+"ë‹¤ë¥¸ ì»´í“¨í„°ì—ì„œ ë¡œê·¸ì¸ í•˜ì—¬ ì ‘ì†ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤.";
+"Cineva a intrat cu contul tÄƒu. Vei fi deconectat.";
 
-"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"O luminã misticã apare din copac.";
+"ë‚˜ë¬´ì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"O luminÄƒ misticÄƒ apare din copac.";
 
-"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
-"Contului tãu îi este adãugat %d timp de joc. (Nr. platã %d)";
+"%dë¶„ì˜ ê²°ì œì‹œê°„ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. (ê²°ì œë²ˆí˜¸ %d)";
+"Contului tÄƒu Ã®i este adÄƒugat %d timp de joc. (Nr. platÄƒ %d)";
 
-"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"Poşi participa la luptã în modul spectator.";
+"ê´€ì „ ëª¨ë“œë¡œ ê¸¸ë“œì „ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"PoÅ£i participa la luptÄƒ Ã®n modul spectator.";
 
-"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
-"La alegerea caracterului apare o icoanã.";
+"ìì‹ ì„ ì„ íƒí•˜ì‹œë©´ ë°–ìœ¼ë¡œ ë‚˜ê°ˆ ìˆ˜ ìˆëŠ” <ê´€ëŒ ì¢…ë£Œ> ë²„íŠ¼ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"La alegerea caracterului apare o icoanÄƒ.";
 
-"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
-"Nu existã inamici.";
+"ê¸¸ë“œì „ì— ì°¸ê°€í•œ ìƒëŒ€ë°© ê¸¸ë“œì›ì´ ì•„ë¬´ë„ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ inamici.";
 
-"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
-"Lupta cu %s a început!";
+"%së‹˜ê³¼ì˜ ëŒ€ê²° ì‹œì‘!";
+"Lupta cu %s a Ã®nceput!";
 
-"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
-"Dacã nu se gãseºte un inamic rãzboiul breslei va fi încheiat automat.";
+"1ë¶„ ì´ë‚´ì— ì•„ë¬´ë„ ì ‘ì†í•˜ì§€ ì•Šìœ¼ë©´ ê¸¸ë“œì „ì´ ìë™ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"DacÄƒ nu se gÄƒseÅŸte un inamic rÄƒzboiul breslei va fi Ã®ncheiat automat.";
 
-"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
-"Deoarece rãzboiul s-a terminat mai devreme, s-a terminat cu o remizã.";
+"ê¸¸ë“œì „ì´ ì¼ì° ì¢…ë£Œë˜ì–´ ë¬´ìŠ¹ë¶€ë¡œ íŒì • ë˜ì—ˆìŠµë‹ˆë‹¤. (5ë¶„ì´ ì§€ë‚˜ì§€ ì•ŠìŒ)";
+"Deoarece rÄƒzboiul s-a terminat mai devreme, s-a terminat cu o remizÄƒ.";
 
-"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
+"êµ°ì£¼ê°€ ë‚´ë¦° ì¶•ë³µìœ¼ë¡œ ëª¨ë“  ì—ë„ˆì§€ê°€ ê°€ë“ ì±„ì›Œì§‘ë‹ˆë‹¤";
 "Datorita Binecuvantarii Liderului, energia va fi reflectata.";
 
-"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
-"Binecuvântarea împãratului poate fi folositã dupã %d sec.";
+"%d ì´ˆ í›„ì— êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤";
+"BinecuvÃ¢ntarea Ã®mpÄƒratului poate fi folositÄƒ dupÄƒ %d sec.";
 
-"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
-"Binecuvântarea împãratului poate fi folositã dupã %d sec.";
+"ì¿¨íƒ€ì„ ì ìš©ì¤‘  %d í›„ ì‚¬ìš©ê°€ëŠ¥";
+"BinecuvÃ¢ntarea Ã®mpÄƒratului poate fi folositÄƒ dupÄƒ %d sec.";
 
-"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
-"Încasãri din impozite insuficiente: %d";
+"êµ­ê³ ì— ìê¸ˆì´ ëª¨ìëë‹ˆë‹¤ êµ­ê³  : %d ";
+"ÃncasÄƒri din impozite insuficiente: %d";
 
-"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
+"[TEST_ONLY]í˜„ì¬ êµ­ê³  : %d ";
 "[TEST_ONLY]Impozit: %d";
 
-"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
+"ë‘”ê°‘ì— ì‹¤íŒ¨ í•˜ì˜€ìŠµë‹ˆë‹¤";
 "Eroare la transformare";
 
-"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
-"Ai învãşat transformarea.";
+"ë‘”ê°‘ì„œ ìˆ˜ë ¨ì„ ë§ˆì²¬ìŠµë‹ˆë‹¤. ì‹ ì„ ì—ê²Œ ì°¾ì•„ê°€ì„¸ìš”.";
+"Ai Ã®nvÄƒÅ£at transformarea.";
 
-"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
-"Strigã-şi întâi calul.";
+"ë§ì„ ë¨¼ì € ì†Œí™˜í•´ì£¼ì„¸ìš”.";
+"StrigÄƒ-Å£i Ã®ntÃ¢i calul.";
 
-"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
-"Şi-ai trimis calul departe.";
+"ë§ì„ ëŒë ¤ë³´ëƒˆìŠµë‹ˆë‹¤.";
+"Å¢i-ai trimis calul departe.";
 
-"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
-"%s te-a provocat la luptã!";
+"%së‹˜ì´ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤. ìŠ¹ë‚™í•˜ë ¤ë©´ ëŒ€ê²°ë™ì˜ë¥¼ í•˜ì„¸ìš”.";
+"%s te-a provocat la luptÄƒ!";
 
-"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
-"Trebuie sã cobori.";
+"ë§ì—ì„œ ë¨¼ì € ë‚´ë ¤ì•¼ í•©ë‹ˆë‹¤.";
+"Trebuie sÄƒ cobori.";
 
-"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi hrãni calul în timp ce cãlãreºti.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œëŠ” ë¨¹ì´ë¥¼ ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i hrÄƒni calul Ã®n timp ce cÄƒlÄƒreÅŸti.";
 
-"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
-"Ai hrãnit un cal cu %s%s.";
+"ë§ì—ê²Œ %s%s ì£¼ì—ˆìŠµë‹ˆë‹¤.";
+"Ai hrÄƒnit un cal cu %s%s.";
 
-"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
+"%s ì•„ì´í…œì´ í•„ìš”í•©ë‹ˆë‹¤";
 "Ai nevoie de %s.";
 
-"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d sec pânã la final.";
+"ì…§ë‹¤ìš´ì´ %dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d sec pÃ¢nÄƒ la final.";
 
-"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
-"Jocul se sfârºeºte în %d secunde.";
+"%dì´ˆ í›„ ê²Œì„ì´ ì…§ë‹¤ìš´ ë©ë‹ˆë‹¤.";
+"Jocul se sfÃ¢rÅŸeÅŸte Ã®n %d secunde.";
 
-"%dÃÊ ³²¾Ò½À´Ï´Ù.";
-"%d secunde pânã la final.";
+"%dì´ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤.";
+"%d secunde pÃ¢nÄƒ la final.";
 
-"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
-"Logout-ul a fost întrerupt.";
+"ì·¨ì†Œ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Logout-ul a fost Ã®ntrerupt.";
 
-"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Înapoi la fereastra de login. Aºteaptã.";
+"ë¡œê·¸ì¸ í™”ë©´ìœ¼ë¡œ ëŒì•„ ê°‘ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Ãnapoi la fereastra de login. AÅŸteaptÄƒ.";
 
-"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Vei fi deconectat de la server. Aºteaptã.";
+"ê²Œì„ì„ ì¢…ë£Œ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Vei fi deconectat de la server. AÅŸteaptÄƒ.";
 
-"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
-"L-ai provocat pe %s la luptã.";
+"%sì—ê²Œ ëŒ€ê²°ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"L-ai provocat pe %s la luptÄƒ.";
 
-"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
-"Schimbi caracterul. Aºteaptã.";
+"ìºë¦­í„°ë¥¼ ì „í™˜ í•©ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë¦¬ì„¸ìš”.";
+"Schimbi caracterul. AÅŸteaptÄƒ.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
-"Un nou start nu e posibil în acest moment.Te rugãm aºteaptã %d secunde.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%dì´ˆ ë‚¨ìŒ)";
+"Un nou start nu e posibil Ã®n acest moment.Te rugÄƒm aÅŸteaptÄƒ %d secunde.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
-"Încã nu poşi restarta. Te rugãm aºteaptã încã %d secunde.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ)";
+"ÃncÄƒ nu poÅ£i restarta. Te rugÄƒm aÅŸteaptÄƒ Ã®ncÄƒ %d secunde.";
 
-"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
-"Încã nu poşi restarta. Te rugãm aºteaptã încã %d secunde.";
+"ì•„ì§ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.(%dì´ˆ ë‚¨ìŒ )";
+"ÃncÄƒ nu poÅ£i restarta. Te rugÄƒm aÅŸteaptÄƒ Ã®ncÄƒ %d secunde.";
 
-"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
-"Încã nu poti restarta în oraº. Aºteaptã încã %d secunde.";
+"ì•„ì§ ë§ˆì„ì—ì„œ ì¬ì‹œì‘ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. (%d ì´ˆ ë‚¨ìŒ)";
+"ÃncÄƒ nu poti restarta Ã®n oraÅŸ. AÅŸteaptÄƒ Ã®ncÄƒ %d secunde.";
 
-"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
-"Perioada de aºteptare a expirat. Vei re-învia în oraº.";
+"ì„±ì§€ì—ì„œ ë¶€í™œ ê¸°íšŒë¥¼ ëª¨ë‘ ìƒì—ˆìŠµë‹ˆë‹¤! ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤!";
+"Perioada de aÅŸteptare a expirat. Vei re-Ã®nvia Ã®n oraÅŸ.";
 
-"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
-"Nu îşi poşi schimba statusul atâta timp cât eºti transformat.";
+"ë‘”ê°‘ ì¤‘ì—ëŠ” ëŠ¥ë ¥ì„ ì˜¬ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu Ã®Å£i poÅ£i schimba statusul atÃ¢ta timp cÃ¢t eÅŸti transformat.";
 
-"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
-"Jucãtorul tocmai se dueleazã.";
+"ìƒëŒ€ë°©ì´ ëŒ€ë ¨ì¤‘ì…ë‹ˆë‹¤.";
+"JucÄƒtorul tocmai se dueleazÄƒ.";
 
-"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"[Breasla] Nu aparşine breslei.";
+"<ê¸¸ë“œ> ê¸¸ë“œì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"[Breasla] Nu aparÅ£ine breslei.";
 
-"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu ai dreptul de a schimba nivelul competenşelor breslei.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ ë ˆë²¨ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu ai dreptul de a schimba nivelul competenÅ£elor breslei.";
 
-"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
-"Alegerea este greºitã.";
+"ì˜ëª»ëœ ì„ íƒì„ í–ˆìŠµë‹ˆë‹¤";
+"Alegerea este greÅŸitÄƒ.";
 
-"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
-"[Lagãr] Ai introdus o parolã greºitã.";
+"<ì°½ê³ > ì˜ëª»ëœ ì•”í˜¸ë¥¼ ì…ë ¥í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[LagÄƒr] Ai introdus o parolÄƒ greÅŸitÄƒ.";
 
-"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
-"[Lagãr] Lagãrul este deschis deja.";
+"<ì°½ê³ > ì°½ê³ ê°€ ì´ë¯¸ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"[LagÄƒr] LagÄƒrul este deschis deja.";
 
-"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Lagãr] Trebuie sã aºtepşi 10 secunde pentru a deschide lagãrul.";
+"<ì°½ê³ > ì°½ê³ ë¥¼ ë‹«ì€ì§€ 10ì´ˆ ì•ˆì—ëŠ” ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[LagÄƒr] Trebuie sÄƒ aÅŸtepÅ£i 10 secunde pentru a deschide lagÄƒrul.";
 
-"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"[Magazie] Eºti prea departe pentru a deschide Magazia.";
+"<ì°½ê³ > ê±°ë¦¬ê°€ ë©€ì–´ì„œ ì°½ê³ ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Magazie] Eí‹Ši prea departe pentru a deschide Magazia.";
 
-"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<íŒŒí‹°> ì„œë²„ ë¬¸ì œë¡œ íŒŒí‹° ê´€ë ¨ ì²˜ë¦¬ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Grupa] Serverul nu poate prelucra sarcina grupei.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupa] Nu poşi pãrãsi grupa într-o temnişã.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Grupa] Nu poÅ£i pÄƒrÄƒsi grupa Ã®ntr-o temniÅ£Äƒ.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
-"[Grupa] Ai pãrãsit grupa.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ë‚˜ê°€ì…¨ìŠµë‹ˆë‹¤.";
+"[Grupa] Ai pÄƒrÄƒsit grupa.";
 
-"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
-"[Breasla] Breasla ta participã deja la alt rãzboi.";
+"<ê¸¸ë“œ> ì´ë¯¸ ë‹¤ë¥¸ ì „ìŸì— ì°¸ì „ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Breasla] Breasla ta participÄƒ deja la alt rÄƒzboi.";
 
-"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu existã dreptul la un rãzboi al breslelor.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì— ëŒ€í•œ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu existÄƒ dreptul la un rÄƒzboi al breslelor.";
 
-"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
-"[Breaslã] Nu existã nicio breaslã cu acest nume.";
+"<ê¸¸ë“œ> ê·¸ëŸ° ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"[BreaslÄƒ] Nu existÄƒ nicio breaslÄƒ cu acest nume.";
 
-"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
-"Existã deja o candidaturã.";
+"ì´ë¯¸ ì…í›„ë³´ë˜ì–´ìˆìŠµë‹ˆë‹¤";
+"ExistÄƒ deja o candidaturÄƒ.";
 
-"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Breasla] Breasla se aflã deja în rãzboi.";
+"ì´ë¯¸ ì„ ì „í¬ê³  ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Breasla] Breasla se aflÄƒ deja Ã®n rÄƒzboi.";
 
-"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Yang insufucient pentru a participa la un rãzboi al breslelor.";
+"<ê¸¸ë“œ> ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Yang insufucient pentru a participa la un rÄƒzboi al breslelor.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Breasla nu are destul Yang pentru a participa la un rãzboi al breslelor.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ì „ë¹„ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Breasla nu are destul Yang pentru a participa la un rÄƒzboi al breslelor.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
-"[Breasla] Breasla este rezervatã pentru alt rãzboi.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸì´ ì˜ˆì•½ëœ ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"[Breasla] Breasla este rezervatÄƒ pentru alt rÄƒzboi.";
 
-"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
-"[Breasla] Breasla se aflã deja într-un rãzboi.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œê°€ ì´ë¯¸ ì „ìŸ ì¤‘ ì…ë‹ˆë‹¤.";
+"[Breasla] Breasla se aflÄƒ deja Ã®ntr-un rÄƒzboi.";
 
-"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
-"[Breasla] E nevoie de minim %d jucãtori pentru a participa la un rãzboi al breslei.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì„ í•˜ê¸° ìœ„í•´ì„  ìµœì†Œí•œ %dëª…ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.";
+"[Breasla] E nevoie de minim %d jucÄƒtori pentru a participa la un rÄƒzboi al breslei.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Breasla nu are destule puncte pentru a participa la un rãzboi al breslelor.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Breasla nu are destule puncte pentru a participa la un rÄƒzboi al breslelor.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Breasla nu are destui membri pentru a participa la un rãzboi al breslelor.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì› ìˆ˜ê°€ ë¶€ì¡±í•˜ì—¬ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Breasla nu are destui membri pentru a participa la un rÄƒzboi al breslelor.";
 
-"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nivelul tãu trebuie sã fie peste 20 pentru a putea înregistra un numãr de mobil.";
+"ë ˆë²¨ 20 ì´í•˜ëŠ” í•¸ë“œí° ë²ˆí˜¸ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nivelul tÄƒu trebuie sÄƒ fie peste 20 pentru a putea Ã®nregistra un numÄƒr de mobil.";
 
-"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
-"Nu ai calificarea unui împãrat.";
+"êµ°ì£¼ì˜ ìê²©ì„ ê°€ì§€ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Nu ai calificarea unui Ã®mpÄƒrat.";
 
-"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
-"%s a refuzat invitaşia.";
+"%s ë‹˜ìœ¼ë¡œ ë¶€í„° ì¹œêµ¬ ë“±ë¡ì„ ê±°ë¶€ ë‹¹í–ˆìŠµë‹ˆë‹¤.";
+"%s a refuzat invitaÅ£ia.";
 
-"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi accepta invitaşia, deoarece eºti deja în grupã.";
+"ì´ë¯¸ íŒŒí‹°ì— ì†í•´ ìˆìœ¼ë¯€ë¡œ ê°€ì…ì‹ ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i accepta invitaÅ£ia, deoarece eÅŸti deja Ã®n grupÄƒ.";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Doar împãratul poate folosi asta.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©ê°€ëŠ¥ í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Doar Ã®mpÄƒratul poate folosi asta.";
 
-"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
+"%d ì´ˆê°„ ì¿¨íƒ€ì„ì´ ì ìš©ì¤‘ì…ë‹ˆë‹¤.";
 "Timp de cooldown de aproximativ %d secunde";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
-"Lipsã de impozite. Capital actual: %u capital lipsã: %u";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤. í˜„ì¬ : %lu í•„ìš”ê¸ˆì•¡ : %lu";
+"LipsÄƒ de impozite. Capital actual: %u capital lipsÄƒ: %u";
 
-"»ç¿ë¹ı: warpto <character name>";
-"Comandã: warpto <character name>";
+"ì‚¬ìš©ë²•: warpto <character name>";
+"ComandÄƒ: warpto <character name>";
 
-"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nu poşi sã te tragi la un luptãtor strãin.";
+"íƒ€ì œêµ­ ìœ ì €ì—ê²ŒëŠ” ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nu poÅ£i sÄƒ te tragi la un luptÄƒtor strÄƒin.";
 
-"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Adãugare jucãtor %d în canal. (Cadou canal %d)";
+"í•´ë‹¹ ìœ ì €ëŠ” %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"AdÄƒugare jucÄƒtor %d Ã®n canal. (Cadou canal %d)";
 
-"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
-"Tragere la jucãtorul %s.";
+"%s ì—ê²Œë¡œ ì´ë™í•©ë‹ˆë‹¤";
+"Tragere la jucÄƒtorul %s.";
 
-"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Nu poşi aduna jucãtori strãini.";
+"íƒ€ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"Nu poÅ£i aduna jucÄƒtori strÄƒini.";
 
-"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] În timpul unui rãzboi nu existã puncte de experienşã pentru vânãtoare.";
+"<ê¸¸ë“œ> ê¸¸ë“œì „ì¤‘ì—ëŠ” ì‚¬ëƒ¥ì— ë”°ë¥¸ ì´ìµì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Ãn timpul unui rÄƒzboi nu existÄƒ puncte de experienÅ£Äƒ pentru vÃ¢nÄƒtoare.";
 
-"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
+"êµ°ì£¼ì˜ ì¶•ë³µìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” HP,SPê°€ ëª¨ë‘ ì±„ì›Œì§‘ë‹ˆë‹¤.";
 "Cand este folosita Binecuvantarea Liderului %s din PV si PM sunt refacute.";
 
-"³ªÀÇ ±ºÁÖ Á¤º¸";
-"Informaşiile împãratului ale mele.";
+"ë‚˜ì˜ êµ°ì£¼ ì •ë³´";
+"InformaÅ£iile Ã®mpÄƒratului ale mele.";
 
-"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
+"[%sêµ°ì£¼] : %s  ë³´ìœ ê¸ˆì•¡ %lld ";
 "[%sMonarh] : %s Avere Yang %lld";
 
-"[%s±ºÁÖ] : %s  ";
+"[%sêµ°ì£¼] : %s  ";
 "[%sMonarh] : %s";
 
-"±ºÁÖ Á¤º¸";
-"Inormaşiile împãratului";
+"êµ°ì£¼ ì •ë³´";
+"InormaÅ£iile Ã®mpÄƒratului";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
-"Doar un împãrat poate folosi asta.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš©í• ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"Doar un Ã®mpÄƒrat poate folosi asta.";
 
-"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
-"Alege un numãr între 1 ºi 50.";
+"1-50 ì‚¬ì´ì˜ ìˆ˜ì¹˜ë¥¼ ì„ íƒí•´ì£¼ì„¸ìš”";
+"Alege un numÄƒr Ã®ntre 1 ÅŸi 50.";
 
-"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
-"Monstrul nu poate fi strigat. Verificã numãrul mob.";
+"ì†Œí™˜í• ìˆ˜ ì—†ëŠ” ëª¬ìŠ¤í„° ì…ë‹ˆë‹¤. ì†Œí™˜ê°€ëŠ¥í•œ ëª¬ìŠ¤í„°ëŠ” í™ˆí˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”";
+"Monstrul nu poate fi strigat. VerificÄƒ numÄƒrul mob.";
 
-"ÃÖ´ë »ı¸í·Â +%d";
-"Puncte de viaşã +%d";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d";
+"Puncte de viaÅ£Äƒ +%d";
 
-"ÃÖ´ë Á¤½Å·Â +%d";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d";
 "Puncte de mana +%d";
 
-"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
+"êµ°ì£¼ì˜ ì¶•ë³µì„ ì‚¬ìš©í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Binecuvantarea Liderului este activata.";
 
-"Ã¼·Â +%d";
-"Rezistenşã +%d";
+"ì²´ë ¥ +%d";
+"RezistenÅ£Äƒ +%d";
 
-"Áö´É +%d";
-"Inteligenşã +%d";
+"ì§€ëŠ¥ +%d";
+"InteligenÅ£Äƒ +%d";
 
-"±Ù·Â +%d";
+"ê·¼ë ¥ +%d";
 "Putere +%d";
 
-"¹ÎÃ¸ +%d";
+"ë¯¼ì²© +%d";
 "Dexteritate +%d";
 
-"°ø°İ¼Óµµ +%d";
-"Vitezã de atac +%d";
+"ê³µê²©ì†ë„ +%d";
+"VitezÄƒ de atac +%d";
 
-"ÀÌµ¿¼Óµµ %d";
+"ì´ë™ì†ë„ %d";
 "Viteza de Miscare %d";
 
-"ÄğÅ¸ÀÓ -%d";
+"ì¿¨íƒ€ì„ -%d";
 "Timp de stingere -%d";
 
-"»ı¸í·Â È¸º¹ +%d";
-"Odihna vieşii +%d";
+"ìƒëª…ë ¥ íšŒë³µ +%d";
+"Odihna vieÅ£ii +%d";
 
-"Á¤½Å·Â È¸º¹ +%d";
+"ì •ì‹ ë ¥ íšŒë³µ +%d";
 "Odihna mana +%d";
 
-"µ¶°ø°İ %d";
-"Atac otrãvit %d";
+"ë…ê³µê²© %d";
+"Atac otrÄƒvit %d";
 
-"½ºÅÏ +%d";
+"ìŠ¤í„´ +%d";
 "Stea +%d";
 
-"½½·Î¿ì +%d";
+"ìŠ¬ë¡œìš° +%d";
 "Reducerea vitezei +%d";
 
-"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
-"Atac critic cu ºansa %d%%";
+"%d%% í™•ë¥ ë¡œ ì¹˜ëª…íƒ€ ê³µê²©";
+"Atac critic cu íŠ®nsa %d%%";
 
-"%d%% È®·ü·Î °üÅë °ø°İ";
-"Atac pãtrunzãtor cu ºansa %d%%";
+"%d%% í™•ë¥ ë¡œ ê´€í†µ ê³µê²©";
+"Atac pÄƒtrunzÄƒtor cu ÅŸansa %d%%";
 
-"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Puterea de atac a jucãtorului împotriva monºtrilor +%d%%";
+"ì¸ê°„ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"Puterea de atac a jucÄƒtorului Ã®mpotriva monÅŸtrilor +%d%%";
 
-"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
-"Puterea de atac a calului împotriva monºtrilor +%d%%";
+"ë™ë¬¼ë¥˜ ëª¬ìŠ¤í„° íƒ€ê²©ì¹˜ +%d%%";
+"Puterea de atac a calului Ã®mpotriva monÅŸtrilor +%d%%";
 
-"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
-"Întãrirea atacului împotriva Wonggui + %d%%";
+"ì›…ê·€ì¡± íƒ€ê²©ì¹˜ +%d%%";
+"ÃntÄƒrirea atacului Ã®mpotriva Wonggui + %d%%";
 
-"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
-"Întãrirea atacului împotriva Milgyo + %d%%";
+"ë°€êµë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"ÃntÄƒrirea atacului Ã®mpotriva Milgyo + %d%%";
 
-"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
-"Întãrirea atacului împotriva Zombie + %d%%";
+"ì‹œì²´ë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"ÃntÄƒrirea atacului Ã®mpotriva Zombie + %d%%";
 
-"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
-"Întãrirea atacului împotriva diavolilor + %d%%";
+"ì•…ë§ˆë¥˜ íƒ€ê²©ì¹˜ +%d%%";
+"ÃntÄƒrirea atacului Ã®mpotriva diavolilor + %d%%";
 
-"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Prin domnitorul Sa-Za-Hu, jucãtorului %s îi este crescutã puterea de atac în acest şinut cu 10 %% timp de 3 minute.";
+"êµ°ì£¼ì˜ ì‚¬ìí›„ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ê³µê²©ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Prin domnitorul Sa-Za-Hu, jucÄƒtorului %s Ã®i este crescutÄƒ puterea de atac Ã®n acest Å£inut cu 10 %% timp de 3 minute.";
 
-"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
-"Absorbire viaşã la atac %d%%.";
+"íƒ€ê²©ì¹˜ %d%% ë¥¼ ìƒëª…ë ¥ìœ¼ë¡œ í¡ìˆ˜";
+"Absorbire viaÅ£Äƒ la atac %d%%.";
 
-"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
+"íƒ€ë ¥ì¹˜ %d%% ë¥¼ ì •ì‹ ë ¥ìœ¼ë¡œ í¡ìˆ˜";
 "Absorbire mana la atac %d%%.";
 
-"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
-"Mana este luatã de la inamic cu o probabilitate de %d%%.";
+"%d%% í™•ë¥ ë¡œ íƒ€ê²©ì‹œ ìƒëŒ€ ì „ì‹ ë ¥ ì†Œëª¨";
+"Mana este luatÄƒ de la inamic cu o probabilitate de %d%%.";
 
-"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
+"%d%% í™•ë¥ ë¡œ í”¼í•´ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
 "Probabilitate de absorbire mana %d%%.";
 
-"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
-"%d%% ºansã de a bloca un atac corporal";
+"ë¬¼ë¦¬íƒ€ê²©ì‹œ ë¸”ëŸ­ í™•ë¥  %d%%";
+"%d%% ÅŸansÄƒ de a bloca un atac corporal";
 
-"È° °ø°İ È¸ÇÇ È®·ü %d%%";
-"%d%% ºansã de a bloca un atac de la distanşã";
+"í™œ ê³µê²© íšŒí”¼ í™•ë¥  %d%%";
+"%d%% ÅŸansÄƒ de a bloca un atac de la distanÅ£Äƒ";
 
-"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
-"Apãrare sabie-1-mânã %d%%.";
+"í•œì†ê²€ ë°©ì–´ %d%%";
+"ApÄƒrare sabie-1-mÃ¢nÄƒ %d%%.";
 
-"¾ç¼Õ°Ë ¹æ¾î %d%%";
-"Apãrare sabie-2-mâini %d%%";
+"ì–‘ì†ê²€ ë°©ì–´ %d%%";
+"ApÄƒrare sabie-2-mÃ¢ini %d%%";
 
-"µÎ¼Õ°Ë ¹æ¾î %d%%";
-"Apãrare sabie-2-mâini %d%%";
+"ë‘ì†ê²€ ë°©ì–´ %d%%";
+"ApÄƒrare sabie-2-mÃ¢ini %d%%";
 
-"¹æ¿ï ¹æ¾î %d%%";
-"Apãrare clopot %d%%";
+"ë°©ìš¸ ë°©ì–´ %d%%";
+"ApÄƒrare clopot %d%%";
 
-"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
-"Prin domnitorul Geum-Gang-Gwon, jucãtorului %s îi este crescutã armura în acest şinut cu 10 %% timp de 3 minute.";
+"êµ°ì£¼ì˜ ê¸ˆê°•ê¶Œ ì˜í–¥ìœ¼ë¡œ ì´ì§€ì—­ %s ìœ ì €ëŠ” 3ë¶„ê°„ 10 %% ì˜ ë°©ì–´ë ¥ì´  ì¦ê°€ë©ë‹ˆë‹¤";
+"Prin domnitorul Geum-Gang-Gwon, jucÄƒtorului %s Ã®i este crescutÄƒ armura Ã®n acest Å£inut cu 10 %% timp de 3 minute.";
 
-"ºÎÃ¤ ¹æ¾î %d%%";
-"Apãrare evantai %d%%";
+"ë¶€ì±„ ë°©ì–´ %d%%";
+"ApÄƒrare evantai %d%%";
 
-"È°°ø°İ ÀúÇ× %d%%";
-"Rezistenşã la atac de la depãrtare %d%%";
+"í™œê³µê²© ì €í•­ %d%%";
+"RezistenÅ£Äƒ la atac de la depÄƒrtare %d%%";
 
-"È­¿° ÀúÇ× %d%%";
-"Rezistenşã la foc %d%%";
+"í™”ì—¼ ì €í•­ %d%%";
+"RezistenÅ£Äƒ la foc %d%%";
 
-"Àü±â ÀúÇ× %d%%";
-"Rezistenşã la electricitate %d%%";
+"ì „ê¸° ì €í•­ %d%%";
+"RezistenÅ£Äƒ la electricitate %d%%";
 
-"¸¶¹ı ÀúÇ× %d%%";
-"Rezistenşã la magie %d%%";
+"ë§ˆë²• ì €í•­ %d%%";
+"RezistenÅ£Äƒ la magie %d%%";
 
-"¹Ù¶÷ ÀúÇ× %d%%";
-"Rezistenşã la vânt %d%%";
+"ë°”ëŒ ì €í•­ %d%%";
+"RezistenÅ£Äƒ la vÃ¢nt %d%%";
 
-"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
-"Reflecteazã atac direct: %d%%";
+"ì§ì ‘ íƒ€ê²©ì¹˜ ë°˜ì‚¬ í™•ë¥  : %d%%";
+"ReflecteazÄƒ atac direct: %d%%";
 
-"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
-"Reflecteazã blestem: %d%%";
+"ì €ì£¼ ë˜ëŒë¦¬ê¸° í™•ë¥  %d%%";
+"ReflecteazÄƒ blestem: %d%%";
 
-"µ¶ ÀúÇ× %d%%";
-"Rezistenşã la otravã %d%%";
+"ë… ì €í•­ %d%%";
+"RezistenÅ£Äƒ la otravÄƒ %d%%";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
-"Creºtere mana cu %d%% în cazul înfrângerii inamicului.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì •ì‹ ë ¥ íšŒë³µ";
+"CreÅŸtere mana cu %d%% Ã®n cazul Ã®nfrÃ¢ngerii inamicului.";
 
-"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
+"OX ì´ë²¤íŠ¸ê°€ ì´ë¯¸ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤(flag: %d)";
 "Evenimentul are deja loc (Dlag: %d)";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
-"Creºterea experienşei cu %d%% în cazul înfrângerii inamicului.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ê²½í—˜ì¹˜ ì¶”ê°€ ìƒìŠ¹";
+"CreÅŸterea experienÅ£ei cu %d%% Ã®n cazul Ã®nfrÃ¢ngerii inamicului.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
-"Creºterea Yang-ului capturat cu %d%% în cazul înfrângerii inamicului.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ëˆ 2ë°° ë“œë¡­";
+"CreÅŸterea Yang-ului capturat cu %d%% Ã®n cazul Ã®nfrÃ¢ngerii inamicului.";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
-"Creºterea obiectelor capturate cu %d%% în cazul înfrângerii inamicului.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ì•„ì´í…œ 2ë°° ë“œë¡­";
+"CreÅŸterea obiectelor capturate cu %d%% Ã®n cazul Ã®nfrÃ¢ngerii inamicului.";
 
-"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
-"Creºterea eficienşei cu %d%% prin luarea porşiei";
+"ë¬¼ì•½ ì‚¬ìš©ì‹œ %d%% ì„±ëŠ¥ ì¦ê°€";
+"CreÅŸterea eficienÅ£ei cu %d%% prin luarea porÅ£iei";
 
-"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
-"%d%% ºansã de a-şi umple PV dupã o victorie.";
+"%d%% í™•ë¥ ë¡œ ì í‡´ì¹˜ì‹œ ìƒëª…ë ¥ íšŒë³µ";
+"%d%% ÅŸansÄƒ de a-Å£i umple PV dupÄƒ o victorie.";
 
-"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
-"Fãrã zãpãcealã %d%%";
+"ê¸°ì ˆí•˜ì§€ ì•ŠìŒ %d%%";
+"FÄƒrÄƒ zÄƒpÄƒcealÄƒ %d%%";
 
-"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
-"Fãrã încetinire %d%%";
+"ëŠë ¤ì§€ì§€ ì•ŠìŒ %d%%";
+"FÄƒrÄƒ Ã®ncetinire %d%%";
 
-"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
-"Fãrã cãzãturã %d%%";
+"ë„˜ì–´ì§€ì§€ ì•ŠìŒ %d%%";
+"FÄƒrÄƒ cÄƒzÄƒturÄƒ %d%%";
 
-"°ø°İ·Â +%d";
+"ê³µê²©ë ¥ +%d";
 "Putere de atac + %d";
 
-"¹æ¾î·Â +%d";
-"Armurã + %d";
+"ë°©ì–´ë ¥ +%d";
+"ArmurÄƒ + %d";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
-"OX Quiz Script nu a putut fi încãrcat.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì‹¤íŒ¨";
+"OX Quiz Script nu a putut fi Ã®ncÄƒrcat.";
 
-"¸¶¹ı °ø°İ·Â +%d";
+"ë§ˆë²• ê³µê²©ë ¥ +%d";
 "Atac Magic + %d";
 
-"¸¶¹ı ¹æ¾î·Â +%d";
-"Apãrare magie + %d";
+"ë§ˆë²• ë°©ì–´ë ¥ +%d";
+"ApÄƒrare magie + %d";
 
-"ÃÖ´ë Áö±¸·Â +%d";
-"Rezistenşã maximã + %d";
+"ìµœëŒ€ ì§€êµ¬ë ¥ +%d";
+"RezistenÅ£Äƒ maximÄƒ + %d";
 
-"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
-"Puternic împotriva rãzboinicilor + %d%%";
+"ë¬´ì‚¬ì—ê²Œ ê°•í•¨ +%d%%";
+"Puternic Ã®mpotriva rÄƒzboinicilor + %d%%";
 
-"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
-"Puternic împotriva ninja + %d%%";
+"ìê°ì—ê²Œ ê°•í•¨ +%d%%";
+"Puternic Ã®mpotriva ninja + %d%%";
 
-"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
-"Puternic împotriva sura + %d%%";
+"ìˆ˜ë¼ì—ê²Œ ê°•í•¨ +%d%%";
+"Puternic Ã®mpotriva sura + %d%%";
 
-"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
-"Puternic împotriva ºamanilor + %d%%";
+"ë¬´ë‹¹ì—ê²Œ ê°•í•¨ +%d%%";
+"Puternic Ã®mpotriva ÅŸamanilor + %d%%";
 
-"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
-"Puternic împotriva monºtrilor + %d%%";
+"ëª¬ìŠ¤í„°ì—ê²Œ ê°•í•¨ +%d%%";
+"Puternic Ã®mpotriva monÅŸtrilor + %d%%";
 
-"°ø°İ·Â +%d%%";
+"ê³µê²©ë ¥ +%d%%";
 "Atac + %d%%";
 
-"¹æ¾î·Â +%d%%";
-"Apãrare + %d%%";
+"ë°©ì–´ë ¥ +%d%%";
+"ApÄƒrare + %d%%";
 
-"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
-"OX Quiz Script a fost încãrcat.";
+"OX ë¬¸ì œ ìŠ¤í¬ë¦½íŠ¸ ë¡œë”© ì„±ê³µ";
+"OX Quiz Script a fost Ã®ncÄƒrcat.";
 
-"°æÇèÄ¡ %d%%";
-"Experienşã %d%%";
+"ê²½í—˜ì¹˜ %d%%";
+"ExperienÅ£Äƒ %d%%";
 
-"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
-"Probabilitatea de a gãsi un obiect %. 1f";
+"ì•„ì´í…œ ë“œë¡­ìœ¨ %.1fë°°";
+"Probabilitatea de a gÄƒsi un obiect %. 1f";
 
-"µ· µå·ÓÀ² %.1f¹è";
-"Probabilitatea de a gãsi Yang %. 1f";
+"ëˆ ë“œë¡­ìœ¨ %.1fë°°";
+"Probabilitatea de a gÄƒsi Yang %. 1f";
 
-"ÃÖ´ë »ı¸í·Â +%d%%";
-"Viaşã maximã +%d%%";
+"ìµœëŒ€ ìƒëª…ë ¥ +%d%%";
+"ViaÅ£Äƒ maximÄƒ +%d%%";
 
-"ÃÖ´ë Á¤½Å·Â +%d%%";
-"Viaşã maximã +%d%%";
+"ìµœëŒ€ ì •ì‹ ë ¥ +%d%%";
+"ViaÅ£Äƒ maximÄƒ +%d%%";
 
-"½ºÅ³ µ¥¹ÌÁö %d%%";
-"Paguba Abilitãşii %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ %d%%";
+"Paguba AbilitÄƒÅ£ii %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ %d%%";
 "Paguba loviturii %d%%";
 
-"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Rezistenşã la Paguba Abilitãşii %d%%";
+"ìŠ¤í‚¬ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"RezistenÅ£Äƒ la Paguba AbilitÄƒÅ£ii %d%%";
 
-"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
-"Rezistenşã la lovituri %d%%";
+"í‰íƒ€ ë°ë¯¸ì§€ ì €í•­ %d%%";
+"RezistenÅ£Äƒ la lovituri %d%%";
 
-"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
-"%d%% Rezistenşã la Atacurile Rãzboinicului";
+"ë¬´ì‚¬ê³µê²©ì— %d%% ì €í•­";
+"%d%% RezistenÅ£Äƒ la Atacurile RÄƒzboinicului";
 
-"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
-"Bun Venit în Metin2.";
+"ì•ˆë…•í•˜ì„¸ìš”. ë©”í‹´2 ì…ë‹ˆë‹¤.";
+"Bun Venit Ã®n Metin2.";
 
-"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
+"ìê°ê³µê²©ì— %d%% ì €í•­";
 "%d%% Rezistenta la Atacurile Ninja";
 
-"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
+"ìˆ˜ë¼ê³µê²©ì— %d%% ì €í•­";
 "%d%% Rezistenta la Atacurile Sura";
 
-"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
+"ë¬´ë‹¹ê³µê²©ì— %d%% ì €í•­";
 "%d%% Rezistenta la Atacurile Samanului.";
 
-" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
-"(Desfãºurare: %d j- %d m - %d t)";
+" (ë§Œë£Œì¼ : %dë…„ %dì›” %dì¼)";
+"(DesfÄƒÅŸurare: %d j- %d m - %d t)";
 
-"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
-"Chatul tãu este blocat.";
+"ì±„íŒ… ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤.";
+"Chatul tÄƒu este blocat.";
 
-"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
+"ì™¸ì¹˜ê¸°ëŠ” ìœ ë£ŒíšŒì›ë§Œ ì‚¬ìš©í• ìˆ˜ ìˆìŠµë‹ˆë‹¤";
 "Ai nevoie de un nivel mai mare pentru a putea striga.";
 
-"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
+"ì™¸ì¹˜ê¸°ëŠ” ë ˆë²¨ %d ì´ìƒë§Œ ì‚¬ìš© ê°€ëŠ¥ í•©ë‹ˆë‹¤.";
 "Ai nevoie de un nivel minim de %d pentru a putea striga.";
 
-"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"Nu eºti în grupã.";
+"íŒŒí‹° ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"Nu eÅŸti Ã®n grupÄƒ.";
 
-"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Nu te-ai alãturat breslei.";
+"ê¸¸ë“œì— ê°€ì…í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Nu te-ai alÄƒturat breslei.";
 
-"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Jucãtorul a refuzat cererea ta de a fi adãugat la lista de prieteni.";
+"ìƒëŒ€ë°©ì´ ë©”ì‹ ì ¸ ì¶”ê°€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"JucÄƒtorul a refuzat cererea ta de a fi adÄƒugat la lista de prieteni.";
 
-"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"OX Event a început.";
+"OX ì´ë²¤íŠ¸ê°€ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"OX Event a Ã®nceput.";
 
-"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Prieteni] Nu poşi adãuga un GM în lista ta.";
+"<ë©”ì‹ ì ¸> ìš´ì˜ìëŠ” ë©”ì‹ ì ¸ì— ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Prieteni] Nu poÅ£i adÄƒuga un GM Ã®n lista ta.";
 
-"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
+"%s ë‹˜ì€ ì ‘ì†ë˜ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "%s nu este online.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
-"Dupã un târg, trebuie sã aºtepşi %d secunde înainte de a deschide un magazin.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì— ì°½ê³ ë¥¼ ì—´ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DupÄƒ un tÃ¢rg, trebuie sÄƒ aÅŸtepÅ£i %d secunde Ã®nainte de a deschide un magazin.";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Poşi face negoş dinnou peste %d sec.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"PoÅ£i face negoÅ£ dinnou peste %d sec.";
 
-"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Ai mai mult de 2 Mrd. Yang. Nu poşi face negoş.";
+"ì•¡ìˆ˜ê°€ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"Ai mai mult de 2 Mrd. Yang. Nu poÅ£i face negoÅ£.";
 
-"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nu poşi deschide un magazin privat în timp ce altã fereastrã este deschisã.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘ì¼ê²½ìš° ê°œì¸ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i deschide un magazin privat Ã®n timp ce altÄƒ fereastrÄƒ este deschisÄƒ.";
 
-"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
-"Jucãtorul are peste 2 Mrd. Yag. Nu poşi negocia cu el.";
+"ìƒëŒ€ë°©ì˜ ì´ê¸ˆì•¡ì´ 20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ê±°ë˜ë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤..";
+"JucÄƒtorul are peste 2 Mrd. Yag. Nu poÅ£i negocia cu el.";
 
-"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"[Depozit] Nicio miºcare posibilã.";
+"<ì°½ê³ > ì˜®ê¸¸ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"[Depozit] Nicio miÅŸcare posibilÄƒ.";
 
-"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
-"[Lagãr] Obiectul nu poate fi depozitat.";
+"<ì°½ê³ > ì´ ì•„ì´í…œì€ ë„£ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[LagÄƒr] Obiectul nu poate fi depozitat.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Jucãtorul care a rostit invitaşia nu este online.";
+"<íŒŒí‹°> íŒŒí‹°ìš”ì²­ì„ í•œ ìºë¦­í„°ë¥¼ ì°¾ì„ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] JucÄƒtorul care a rostit invitaÅ£ia nu este online.";
 
-"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
-"Prin acordul lui Uriel este permisã intrarea.";
+"ì„ë‘ì§€ë¥¼ í†µí•˜ì—¬ ì…ì¥ ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"Prin acordul lui Uriel este permisÄƒ intrarea.";
 
-"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupã] Doar conducãtorul grupei poate schimba asta.";
+"<íŒŒí‹°> ë¦¬ë”ë§Œ ë³€ê²½í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Doar conducÄƒtorul grupei poate schimba asta.";
 
-"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Grupã] Şinta nu este membru al grupei tale.";
+"<íŒŒí‹°> ìƒíƒœë¥¼ ë³€ê²½í•˜ë ¤ëŠ” ì‚¬ëŒì´ íŒŒí‹°ì›ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[GrupÄƒ] Å¢inta nu este membru al grupei tale.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] În temnişã nu poşi exclude niciun jucãtor.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹°ì—ì„œ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Ãn temniÅ£Äƒ nu poÅ£i exclude niciun jucÄƒtor.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] În temnişã nu poşi exclude niciun jucãtor.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ì›ì„ ì¶”ë°©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Ãn temniÅ£Äƒ nu poÅ£i exclude niciun jucÄƒtor.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
-"[Grupã] Ai fost exclus din grupã.";
+"<íŒŒí‹°> íŒŒí‹°ì—ì„œ ì¶”ë°©ë‹¹í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Ai fost exclus din grupÄƒ.";
 
-"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi pãrãsi o grupã în temnişã.";
+"<íŒŒí‹°> ë˜ì ¼ë‚´ì—ì„œëŠ” íŒŒí‹°ë¥¼ ë‚˜ê°ˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i pÄƒrÄƒsi o grupÄƒ Ã®n temniÅ£Äƒ.";
 
-"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi exclude membrii grupei.";
+"<íŒŒí‹°> ë‹¤ë¥¸ íŒŒí‹°ì›ì„ íƒˆí‡´ì‹œí‚¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i exclude membrii grupei.";
 
-"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Nu poşi forma o breaslã nouã timp de %d zile de la desfiinşarea unei bresle.";
+"<ê¸¸ë“œ> í•´ì‚°í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu poÅ£i forma o breaslÄƒ nouÄƒ timp de %d zile de la desfiinÅ£area unei bresle.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Nu poşi forma o breaslã nouã timp de %d zile de la pãrãsirea unei bresle.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ ì´ë‚´ì—ëŠ” ê¸¸ë“œë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu poÅ£i forma o breaslÄƒ nouÄƒ timp de %d zile de la pÄƒrÄƒsirea unei bresle.";
 
-"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
+"ì í•©í•˜ì§€ ì•Šì€ ê¸¸ë“œ ì´ë¦„ ì…ë‹ˆë‹¤.";
 "Numele breslei nu este valabil.";
 
-"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
-"Rugãm participarea multor jucãtori.";
+"ë§ì€ ì°¸ì—¬ ë¶€íƒë“œë¦½ë‹ˆë‹¤.";
+"RugÄƒm participarea multor jucÄƒtori.";
 
-"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
-"[Breasla] [%s] a fost formatã.";
+"<ê¸¸ë“œ> [%s] ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Breasla] [%s] a fost formatÄƒ.";
 
-"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Breasla] Formarea breslei eºuatã.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìƒì„±ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Breasla] Formarea breslei eÅŸuatÄƒ.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupã] Competenşele grupei stau doar conducãtorului ei la dispozişie.";
+"<íŒŒí‹°> íŒŒí‹° ê¸°ìˆ ì€ íŒŒí‹°ì¥ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] CompetenÅ£ele grupei stau doar conducÄƒtorului ei la dispoziÅ£ie.";
 
-"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Şinta nu a fost gãsitã.";
+"<íŒŒí‹°> ì†Œí™˜í•˜ë ¤ëŠ” ëŒ€ìƒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Å¢inta nu a fost gÄƒsitÄƒ.";
 
-"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
-"[Breasla] Suma de Yang nu e corectã.";
+"<ê¸¸ë“œ> ì˜ëª»ëœ ê¸ˆì•¡ì…ë‹ˆë‹¤.";
+"[Breasla] Suma de Yang nu e corectÄƒ.";
 
-"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"<ê¸¸ë“œ> ê°€ì§€ê³  ìˆëŠ” ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
 "[Breasla] Nu ai destui Yang la tine.";
 
-"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Persoana cãutatã nu poate si gãsitã.";
+"<ê¸¸ë“œ> ê·¸ëŸ¬í•œ ì‚¬ëŒì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Persoana cÄƒutatÄƒ nu poate si gÄƒsitÄƒ.";
 
-"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
-"[Breasla] Persoana nu aparşine aceleiaºi bresle.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê°™ì€ ê¸¸ë“œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Breasla] Persoana nu aparÅ£ine aceleiaÅŸi bresle.";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œí‚¬ ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
 "[Breasla] Nu ai dreptul de a concedia un membru al breslei.";
 
-"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
-"[Breasla] Membrul %s a fost exclus din breaslã.";
+"<ê¸¸ë“œ> ê¸¸ë“œì› %s ë‹˜ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
+"[Breasla] Membrul %s a fost exclus din breaslÄƒ.";
 
-"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
-"OX Evenimentul încã nu s-a sfârºit. A apãrut p eroare.(flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ë‹«íˆì§€ ì•Šì•˜ê±°ë‚˜, í€´ì¦ˆ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(flag: %d)";
+"OX Evenimentul Ã®ncÄƒ nu s-a sfÃ¢rÅŸit. A apÄƒrut p eroare.(flag: %d)";
 
-"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ê°•ì œ íƒˆí‡´ ì‹œì¼°ìŠµë‹ˆë‹¤.";
 "[Breasla] Ai concediat un membru al breslei.";
 
-"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu ai dreptul sã îşi schimbi numele gradului.";
+"<ê¸¸ë“œ> ì§ìœ„ ì´ë¦„ì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu ai dreptul sÄƒ Ã®Å£i schimbi numele gradului.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ ì´ë¦„ì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Guild] Drepturile liderului breslei nu pot fi schimbate.";
 
-"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
+"<ê¸¸ë“œ> ì í•©í•˜ì§€ ì•Šì€ ì§ìœ„ ì´ë¦„ ì…ë‹ˆë‹¤.";
 "[Breasla] Numele gradului nu este valabil.";
 
-"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu ai dreptul sã îşi schimbi pozişia de putere.";
+"<ê¸¸ë“œ> ì§ìœ„ ê¶Œí•œì„ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu ai dreptul sÄƒ Ã®Å£i schimbi poziÅ£ia de putere.";
 
-"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ê¶Œí•œì€ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "[Guild] Drepturile liderului breslei nu pot fi schimbate.";
 
-"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
+"<ê¸¸ë“œ> %uì˜ ê²½í—˜ì¹˜ë¥¼ íˆ¬ìí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "[Breasla] %u experienta primita.";
 
-"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Breasla] Punerea în practicã a experienşei eºuatã.";
+"<ê¸¸ë“œ> ê²½í—˜ì¹˜ íˆ¬ìì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Breasla] Punerea Ã®n practicÄƒ a experienÅ£ei eÅŸuatÄƒ.";
 
-"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"[Breaslã] Nu ai Yang suficient în tezaurul breslei!";
+"<ê¸¸ë“œ> ëˆì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"[BreaslÄƒ] Nu ai Yang suficient Ã®n tezaurul breslei!";
 
-"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"[Breasla] Spiritul Dragonului nu a fost refãcut.";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ íšŒë³µì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Breasla] Spiritul Dragonului nu a fost refÄƒcut.";
 
-"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
-"Evenimentul OX va începe în scurt timp.";
+"ì ì‹œ í›„ OX ì´ë²¤íŠ¸ë¥¼ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆë‹¤.";
+"Evenimentul OX va Ã®ncepe Ã®n scurt timp.";
 
-"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu ai dreptul sã faci un anunş.";
+"<ê¸¸ë“œ> ê³µì§€ê¸€ì„ ì‘ì„±í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu ai dreptul sÄƒ faci un anunÅ£.";
 
-"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ì§ìœ„ë¥¼ ë³€ê²½í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
 "[Breasla] Nu ai dreptul sa iti schimbi pozitia.";
 
-"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Pozişia liderului breslei nu poate sa fie schimbatã.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ì˜ ì§ìœ„ëŠ” ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] PoziÅ£ia liderului breslei nu poate sa fie schimbatÄƒ.";
 
-"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Nu îşi poşi schimba pozişia în cea de maestru al breslei.";
+"<ê¸¸ë“œ> ê¸¸ë“œì¥ìœ¼ë¡œ ì§ìœ„ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu Ã®Å£i poÅ£i schimba poziÅ£ia Ã®n cea de maestru al breslei.";
 
-"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<ê¸¸ë“œ> ì¥êµ°ì„ ì§€ì •í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
 "[Guild] Nu ai dreptul sa alegi liderul breslei.";
 
-"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Guild] Nu mai poşi alege alşi lideri pentru breasla.";
+"<ê¸¸ë“œ> ë”ì´ìƒ ì¥ìˆ˜ë¥¼ ì§€ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Guild] Nu mai poÅ£i alege alÅ£i lideri pentru breasla.";
 
-"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi renunşa la acest obiect.";
+"ì•„ì´í…œì„ ê±´ë„¤ì¤„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i renunÅ£a la acest obiect.";
 
-"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
-"A fost descoperit software ilegal. Jocul va fi închis.";
+"ë¶ˆë²• í”„ë¡œê·¸ë¨ì´ ê°ì§€ ë˜ì–´ ê²Œì„ì´ ì¢…ë£Œ ë©ë‹ˆë‹¤.";
+"A fost descoperit software ilegal. Jocul va fi Ã®nchis.";
 
-"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
-"Ai mai mult de 2 Mrd. Yang la tine. Nu poşi negocia.";
+"ì†Œìœ  ëˆì´ 20ì–µëƒ¥ì„ ë„˜ì–´ ê±°ë˜ë¥¼ í•¼ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Ai mai mult de 2 Mrd. Yang la tine. Nu poÅ£i negocia.";
 
-"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"ê¸ˆì•¡ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
 "Yang insuficient.";
 
-"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
-"Evenimentul cadou va fi redus la un şinut.";
+"í˜„ì¬ ì´ë²¤íŠ¸ ì°¸ê°€ì ë¶„ë“¤ì€ ë§ˆì„ë¡œ ì´ë™ ë˜ê² ìŠµë‹ˆë‹¤.";
+"Evenimentul cadou va fi redus la un Å£inut.";
 
-"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
-"Porneºte ruleta obiectelor.";
+"ì•„ì´í…œ ë£°ë › ì‹œì‘.";
+"Porneí‹Še ruleta obiectelor.";
 
-"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
-"Porneºte ruleta de Yang.";
+"ë¨¸ë‹ˆ  ë£°ë › ì‹œì‘.";
+"Porneí‹Še ruleta de Yang.";
 
-"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
-"El/ea este online. Foloseºte ºoapta.";
+"í˜„ì¬ ì˜¨ë¼ì¸ ìƒíƒœ ì…ë‹ˆë‹¤. ê·“ë§ì„ ì´ìš©í•˜ì„¸ìš”.";
+"El/ea este online. Foloseí‹Še í‹ƒapta.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Numãrul de mobil nu este înregistrat.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"NumÄƒrul de mobil nu este Ã®nregistrat.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Trebuie sã fi cel puşin la nivelul 20 pentru a trimite un SMS.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì€ ë ˆë²¨ 20ë¶€í„° í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Trebuie sÄƒ fi cel puÅ£in la nivelul 20 pentru a trimite un SMS.";
 
-"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
+"ë¬¸ì ë©”ì„¸ì§€ ì „ì†¡ì—ëŠ” 2000ì›ì´ í•„ìš” í•©ë‹ˆë‹¤.";
 "Ai nevoie de 2000 DT pentru a trimite un SMS.";
 
-"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
+"ë¬¸ì ë©”ì„¸ì§€ë¥¼ ì „ì†¡ í–ˆìŠµë‹ˆë‹¤.";
 "SMS-ul a fost trimis.";
 
-"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%s ê¸¸ë“œì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
 "%s al breslei %s a crescut cu %d%%!";
 
-"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%s ê¸¸ë“œì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
 "%s al breslei %s s-a normalizat.";
 
-"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%sì˜ %sì´ %d%% ì¦ê°€í–ˆìŠµë‹ˆë‹¤!";
 "%s: %s a crescut cu %d%%!";
 
-"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%sì˜ %sì´ ì •ìƒìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤.";
 "%s al lui %s s-a normalizat.";
 
-"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
+"ê³¡ê´­ì´ ìˆ˜ë ¨ë„ê°€ ìµœëŒ€(%d)ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
 "Punctele de exploatare au ajuns la maxim. (%d)";
 
-"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
+"ê³¡ê´­ì´ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Punctele de exploatare au ajuns la un nivel maxim.";
 
-"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Poşi merge la tãietorul de lemne Deokbae pentru a-şi upgrada Toporul.";
+"ë‚˜ë¬´ê¾¼ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ê³¡ê´­ì´ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"PoÅ£i merge la tÄƒietorul de lemne Deokbae pentru a-Å£i upgrada Toporul.";
 
-"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"ê³¡ê´­ì´ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
 "Punctele tale de exploatare au crescut! (%d%d)";
 
-"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi exploata nimic fãrã târnãcop.";
+"ê³¡ê´­ì´ë¥¼ ë“¤ê³  ìˆì§€ ì•Šì•„ì„œ ìº˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i exploata nimic fÄƒrÄƒ tÃ¢rnÄƒcop.";
 
-"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
-"Nu existã nimic de exploatat.";
+"ë”ì´ìƒ ìºë‚¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ nimic de exploatat.";
 
-"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
-"Exploatarea a reuºit.";
+"ì±„ê´‘ì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Exploatarea a reuíŠ·t.";
 
-"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Exploatarea a eºuat.";
+"ì±„ê´‘ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Exploatarea a eí‹Œat.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
-"[Prieteni] L-ai adãugat pe %s ca prieten.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ì¹œêµ¬ë¡œ ì¶”ê°€í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Prieteni] L-ai adÄƒugat pe %s ca prieten.";
 
-"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
-"Jucãtorul va fi teleportat în oraº în scurt timp.";
+"ì ì‹œ í›„ ë§ˆì„ë¡œ ì´ë™ë˜ê² ìŠµë‹ˆë‹¤.";
+"JucÄƒtorul va fi teleportat Ã®n oraÅŸ Ã®n scurt timp.";
 
-"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
-"[Prieteni] L-ai ºters pe %s din listã.";
+"<ë©”ì‹ ì ¸> %s ë‹˜ì„ ë©”ì‹ ì €ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Prieteni] L-ai ÅŸters pe %s din listÄƒ.";
 
-"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
-"O eroare criticã de server a intervenit. Serverul va fi restartat automat.";
+"ì„œë²„ì— ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì—¬ ìë™ìœ¼ë¡œ ì¬ë¶€íŒ…ë©ë‹ˆë‹¤.";
+"O eroare criticÄƒ de server a intervenit. Serverul va fi restartat automat.";
 
-"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
-"În 10 secunde vei fi deconectat automat.";
+"10ì´ˆí›„ ìë™ìœ¼ë¡œ ì ‘ì†ì´ ì¢…ë£Œë˜ë©°,";
+"Ãn 10 secunde vei fi deconectat automat.";
 
-"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
-"Te poşi conecta dupã 5 minute.";
+"5ë¶„ í›„ì— ì •ìƒì ìœ¼ë¡œ ì ‘ì†í•˜ì‹¤ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Te poÅ£i conecta dupÄƒ 5 minute.";
 
-"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
+"(%s) ê¸¸ë“œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤. [ì„ì‹œ]";
 "(%s) a fost creat. [Temporar]";
 
-"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
-"Aceastã breaslã se aflã în rãzboi.";
+"í˜„ì¬ ì „ìŸì¤‘ì¸ ê¸¸ë“œ ì…ë‹ˆë‹¤";
+"AceastÄƒ breaslÄƒ se aflÄƒ Ã®n rÄƒzboi.";
 
-"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
-"%s: Aceastã breaslã nu existã.";
+"%s: ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê¸¸ë“œ ì…ë‹ˆë‹¤.";
+"%s: AceastÄƒ breaslÄƒ nu existÄƒ.";
 
-"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
-"O breaslã nu acest nume sau numãr nu existã.";
+"ê·¸ëŸ° ì´ë¦„ ë˜ëŠ” ë²ˆí˜¸ì˜ ê¸¸ë“œê°€ ì—†ìŠµë‹ˆë‹¤.";
+"O breaslÄƒ nu acest nume sau numÄƒr nu existÄƒ.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
-"Clãdirea nu existã.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ê±´ë¬¼ì…ë‹ˆë‹¤.";
+"ClÄƒdirea nu existÄƒ.";
 
-"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
-"Acest tip de clãdire poate fi construit doar o datã.";
+"ê°™ì´ ì§€ì„ ìˆ˜ ì—†ëŠ” ì¢…ë¥˜ì˜ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆìŠµë‹ˆë‹¤.";
+"Acest tip de clÄƒdire poate fi construit doar o datÄƒ.";
 
-"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
-"Întâi închide harta evenimentului OX.(Flag: %d)";
+"OXì´ë²¤íŠ¸ ë§µì„ ë¨¼ì € ë‹«ì•„ ì£¼ì„¸ìš”.(Flag: %d)";
+"ÃntÃ¢i Ã®nchide harta evenimentului OX.(Flag: %d)";
 
-"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
-"Clãdirea principalã trebuie construitã întâi.";
+"ê±´ì„¤ì— í•„ìš”í•œ ê±´ë¬¼ì´ ì§€ì–´ì ¸ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"ClÄƒdirea principalÄƒ trebuie construitÄƒ Ã®ntÃ¢i.";
 
-"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Construcşia eºuatã datoritã unui preş de construcşie greºit.";
+"ê±´ë¬¼ ë¹„ìš© ì •ë³´ ì´ìƒìœ¼ë¡œ ê±´ì„¤ ì‘ì—…ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"ConstrucÅ£ia eÅŸuatÄƒ datoritÄƒ unui preÅ£ de construcÅ£ie greÅŸit.";
 
-"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
-"Breasla ta nu are suficient Yang pentru a construi clãdirea.";
+"ê±´ì„¤ ë¹„ìš©ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.";
+"Breasla ta nu are suficient Yang pentru a construi clÄƒdirea.";
 
-"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ìì¬ê°€ ë¶€ì¡±í•˜ì—¬ ê±´ì„¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu ai destul material pentru a construi.";
 
-"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
-"Aici nu poşi construi.";
+"ê±´ë¬¼ì„ ì§€ì„ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ì…ë‹ˆë‹¤.";
+"Aici nu poÅ£i construi.";
 
-"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
-"Caracterul nu existã.";
+"ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ìºë¦­í„° ì…ë‹ˆë‹¤.";
+"Caracterul nu existÄƒ.";
 
-"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
-"Duelul a fost întrerupt fãrã succes.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì‹¤íŒ¨";
+"Duelul a fost Ã®ntrerupt fÄƒrÄƒ succes.";
 
-"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
-"Deul întrerupt cu succes.";
+"ëŒ€ë ¨ ê°•ì œ ì¢…ë£Œ ì„±ê³µ";
+"Deul Ã®ntrerupt cu succes.";
 
-"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
-"Început de duel reuºit.";
+"ëŒ€ë ¨ì´ ì„±ê³µì ìœ¼ë¡œ ì‹œì‘ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Ãnceput de duel reuÅŸit.";
 
-"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
-"Existã o problemã pentru a începe duelul.";
+"ëŒ€ë ¨ ì‹œì‘ì— ë¬¸ì œê°€ ìˆìŠµë‹ˆë‹¤.";
+"ExistÄƒ o problemÄƒ pentru a Ã®ncepe duelul.";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
-"Nu a apãrut nicio eroare.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.";
+"Nu a apÄƒrut nicio eroare.";
 
-"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Nu existã participanşi la duel.";
+"ëŒ€ë ¨ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ participanÅ£i la duel.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
-"Nu au mai rãmas puncte de status.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu au mai rÄƒmas puncte de status.";
 
-"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
-"Au mai rãmas prea puşine puncte de status.";
+"ë‚¨ì€ ìŠ¤íƒ¯ í¬ì¸íŠ¸ê°€ ì ìŠµë‹ˆë‹¤.";
+"Au mai rÄƒmas prea puÅ£ine puncte de status.";
 
-"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
-"Ai introdus o valoare greºitã.";
+"ê°’ì„ ì˜ëª» ì…ë ¥í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ai introdus o valoare greÅŸitÄƒ.";
 
-"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
-"Sub-comanda comenzii este greºitã.";
+"ëª…ë ¹ì–´ì˜ ì„œë¸Œ ì»¤ë§¨ë“œê°€ ì˜ëª» ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Sub-comanda comenzii este greÅŸitÄƒ.";
 
-"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
-"Înşelegere încãlcatã între jucãtorul %d ºi jucãtorul %d.";
+"í”Œë ˆì´ì–´ %d ì™€ í”Œë ˆì´ì–´  %dë¥¼ íŒŒí˜¼ì‹œí‚µë‹ˆë‹¤..";
+"ÃnÅ£elegere Ã®ncÄƒlcatÄƒ Ã®ntre jucÄƒtorul %d ÅŸi jucÄƒtorul %d.";
 
-"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
-"Învârte ruleta pentru o sumã de %d Yang.";
+"ë£»ë ›ì„ ëŒë¦½ë‹ˆë‹¤. ê¸ˆì•¡ %d";
+"ÃnvÃ¢rte ruleta pentru o sumÄƒ de %d Yang.";
 
-"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
-"Itemlog a fost pun în syslog.";
+"ì•„ì´í…œë¡œê·¸ê°€ syslog ì— ë‚¨ì•˜ìŠµë‹ˆë‹¤";
+"Itemlog a fost pun Ã®n syslog.";
 
-"°¢Á¦±¹ ÁøÇà Á¤º¸";
-"Informaşii de succes ale regatelor.";
+"ê°ì œêµ­ ì§„í–‰ ì •ë³´";
+"InformaÅ£ii de succes ale regatelor.";
 
-"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
-"Alege informaşiile hãrşii Pãmântului Sfânt %d trecere %d %d %d";
+"ì„ íƒ ë§µ ì •ë³´ ì„±ì§€ %d í†µë¡œ %d %d %d";
+"Alege informaÅ£iile hÄƒrÅ£ii PÄƒmÃ¢ntului SfÃ¢nt %d trecere %d %d %d";
 
-"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
+"ë¬¸ì œë¥¼ ì¶œì œí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "A intervenit o eroare.";
 
-"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
-"%s killcount %d mobkillcount %d bosskillcount %d Numãr Pãmânt Sfânt %d";
+"%s killcount %d mobkillcount %d bosskillcount %d ì„±ì§€ ì§„ì…ìˆ˜ %d";
+"%s killcount %d mobkillcount %d bosskillcount %d NumÄƒr PÄƒmÃ¢nt SfÃ¢nt %d";
 
-"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
-"Informaşii despre lupta regatelor.";
+"ë‚˜ì˜ ì‚¼ê±°ë¦¬ ì§„í–‰ì •ë³´";
+"InformaÅ£ii despre lupta regatelor.";
 
-"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
-"Cererea este în curs de încãrcare. Ai rãbdare.";
+"í€˜ìŠ¤íŠ¸ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘ì…ë‹ˆë‹¤. ì ì‹œë§Œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤.";
+"Cererea este Ã®n curs de Ã®ncÄƒrcare. Ai rÄƒbdare.";
 
-"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
-"Nu poşi deschide un Depozit în timp ce altã fereastrã este deschisã.";
+"ë‹¤ë¥¸ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ì°½ê³ ë¥¼ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i deschide un Depozit Ã®n timp ce altÄƒ fereastrÄƒ este deschisÄƒ.";
 
-"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
-"[Magazie] Parola magaziei a fost modificatã.";
+"<ì°½ê³ > ì°½ê³  ë¹„ë°€ë²ˆí˜¸ê°€ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[Magazie] Parola magaziei a fost modificatÄƒ.";
 
-"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
-"[Lagãr] Ai introdus parola greºitã.";
+"<ì°½ê³ > ê¸°ì¡´ ë¹„ë°€ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤.";
+"[LagÄƒr] Ai introdus parola greÅŸitÄƒ.";
 
-"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
-"Timpul de joc îşi expirã în %d minute.";
+"ê²°ì¬ê¸°ê°„ì´ %dë¶„ í›„ ë§Œë£Œ ë©ë‹ˆë‹¤.";
+"Timpul de joc Ã®Å£i expirÄƒ Ã®n %d minute.";
 
-"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
+"ì •ìƒì ìœ¼ë¡œ íˆ¬í‘œë¥¼í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Ales regulamentar.";
 
-"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
+"ì´ë¯¸íˆ¬í‘œë¥¼ í–ˆìŒ";
 "Ales deja.";
 
-"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
-"Jucãtorul %s este deja în alegere.";
+"%s ë‹˜ì€ ì •ìƒì ìœ¼ë¡œ ì¶œë§ˆë¥¼ í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"JucÄƒtorul %s este deja Ã®n alegere.";
 
-"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
-"Evenimentul OX a luat sfârºit. Nu au apãrut erori.(Flag: %d)";
+"OXì´ë²¤íŠ¸ê°€ ì—´ë ¤ ìˆì§€ ì•Šê±°ë‚˜ ë¬¸ì œ ì¶œì œì¤‘ì…ë‹ˆë‹¤.(Flag: %d)";
+"Evenimentul OX a luat sfÃ¢rÅŸit. Nu au apÄƒrut erori.(Flag: %d)";
 
-"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
+"ì¶œë§ˆë¥¼ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
 "Nu poate fi propus spre alegere.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s mai are %u Yang la dispozişie.";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %lu ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s mai are %u Yang la dispoziÅ£ie.";
 
-"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
-"%s mai are %d Yang la dispozişie.";
+"í˜„ì¬ %s êµ­ê³ ì—ëŠ” %d ì˜ ëˆì´ ìˆìŠµë‹ˆë‹¤";
+"%s mai are %d Yang la dispoziÅ£ie.";
 
-"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
+"êµ­ê³ ì— ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ëˆì„ ê°€ì ¸ì˜¬ìˆ˜ ì—†ëŠ” ìƒí™©ì…ë‹ˆë‹¤";
 "Nu ai Yang suficient.";
 
-" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
-"%s a fost ºters ca ºi candidat ca împãrat.";
+" %s êµ°ì£¼ í›„ë³´ì—ì„œ ì‚­ì œí•˜ì˜€ìŠµë‹ˆë‹¤";
+"%s a fost ÅŸters ca ÅŸi candidat ca Ã®mpÄƒrat.";
 
-" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
-"%s nu este candidat ca împãrat.";
+" %s ëŠ” êµ°ì£¼ í›„ë³´ê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"%s nu este candidat ca Ã®mpÄƒrat.";
 
-" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
-"%s este numit împãrat.";
+" %s êµ°ì£¼ë¡œ ì…ëª… í–ˆìŠµë‹ˆë‹¤.";
+"%s este numit Ã®mpÄƒrat.";
 
-" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
-"%s nu poate fi numit împãrat.";
+" %s ëŠ” êµ°ì£¼ë¡œ ì…ëª…í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤ .";
+"%s nu poate fi numit Ã®mpÄƒrat.";
 
-" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
-"Împãratul %s este înlãturat.";
+" %s êµ°ì£¼ë¥´ ì œê±° í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"ÃmpÄƒratul %s este Ã®nlÄƒturat.";
 
-" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Împãratul %s nu paote fi înlãturat.";
+" %s êµ°ì£¼ë¥¼ ì œê±° í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"ÃmpÄƒratul %s nu paote fi Ã®nlÄƒturat.";
 
-"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
-"OX Evenimentul nu mai acceptã participanşi.";
+"ë” ì´ìƒ OXì´ë²¤íŠ¸ ì°¸ê°€ìë¥¼ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"OX Evenimentul nu mai acceptÄƒ participanÅ£i.";
 
-"½Å¼ö±¹";
+"ì‹ ìˆ˜êµ­";
 "Regatul Shinsoo";
 
-"ÃµÁ¶±¹";
+"ì²œì¡°êµ­";
 "Regatul Chunjo";
 
-"Áø³ë±¹";
+"ì§„ë…¸êµ­";
 "Regatul Jinno";
 
-"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"ë‚šì‹œëŒ€ì˜ ìˆ˜ë ¨ë„ê°€ ì¦ê°€í•˜ì˜€ìŠµë‹ˆë‹¤! (%d/%d)";
 "Punctele tale de pescuit au crescut! (%d/%d)";
 
-"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
-"Ai atins numãrul maxim de puncte de pescuit.";
+"ë‚šì‹œëŒ€ê°€ ìµœëŒ€ ìˆ˜ë ¨ë„ì— ë„ë‹¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ai atins numÄƒrul maxim de puncte de pescuit.";
 
-"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Du-te la Pescar ºi îmbunãtãşeºte-şi Undişa!";
+"ì–´ë¶€ë¥¼ í†µí•´ ë‹¤ìŒ ë ˆë²¨ì˜ ë‚šì‹œëŒ€ë¡œ ì—…ê·¸ë ˆì´ë“œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Du-te la Pescar ÅŸi Ã®mbunÄƒtÄƒÅ£eÅŸte-Å£i UndiÅ£a!";
 
-"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
+"ê³ ê¸°ê°€ ë¯¸ë¼ë§Œ ë¹¼ë¨¹ê³  ì½ì‹¸ê²Œ ë„ë§ì¹©ë‹ˆë‹¤.";
 "Ai pierdut momeala.";
 
-"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
-"Ai prins un peºte! (%s)";
+"ê³ ê¸°ê°€ ì¡í˜”ìŠµë‹ˆë‹¤! (%s)";
+"Ai prins un peí‹Še! (%s)";
 
-"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
-"Lungimea peºtelui prins este de %.2cm.";
+"ì´ë²ˆì— ì¡ì€ ë¬¼ê³ ê¸°ì˜ ê¸¸ì´ëŠ” %.2fcm";
+"Lungimea peí‹Šelui prins este de %.2cm.";
 
-"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
-"Eveniment pescãresc 'Cel mai bun pescar'";
+"ë‚šì‹œì´ë²¤íŠ¸ì›”ì²™ë¶•ì–´";
+"Eveniment pescÄƒresc 'Cel mai bun pescar'";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
-"OX Ceilalşi participanşi la eveniment sunt notaşi.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì›ì„ ê¸°ë¡í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"OX CeilalÅ£i participanÅ£i la eveniment sunt notaÅ£i.";
 
-"³¬½ÃÀÌº¥Æ®À×¾î";
-"Eveniment pescãresc 'Puterea liniºtii'";
+"ë‚šì‹œì´ë²¤íŠ¸ì‰ì–´";
+"Eveniment pescÄƒresc 'Puterea liniÅŸtii'";
 
-"%s : %d ¸¶¸®";
+"%s : %d ë§ˆë¦¬";
 "%s: %d";
 
-"%d Á¾·ù %d ¸¶¸® ³¬À½";
+"%d ì¢…ë¥˜ %d ë§ˆë¦¬ ë‚šìŒ";
 "Ai prins %d de %d.";
 
-"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
-"Peºtele a dispãrut în adâncurile apei.";
+"ê³ ê¸°ê°€ í”ì ë„ ì—†ì´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"PeÅŸtele a dispÄƒrut Ã®n adÃ¢ncurile apei.";
 
-"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
-"În peºte se aflã o scoicã.";
+"ë°° ì†ì—ì„œ ì¡°ê°œê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn peÅŸte se aflÄƒ o scoicÄƒ.";
 
-"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
-"În peºte se aflã o râmã.";
+"ë°° ì†ì—ì„œ ì§€ë ì´ê°€ ë‚˜ì™”ìŠµë‹ˆë‹¤.";
+"Ãn peÅŸte se aflÄƒ o rÃ¢mÄƒ.";
 
-"%s¸¦ ±¸¿ü½À´Ï´Ù.";
-"Prãjeºti %s deasupra focului.";
+"%së¥¼ êµ¬ì› ìŠµë‹ˆë‹¤.";
+"PrÄƒjeÅŸti %s deasupra focului.";
 
-"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
+"20ì–µ ëƒ¥ì„ ì´ˆê³¼í•˜ì—¬ ìƒì ì„ ì—´ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
 "Nu poti negocia deoarece ai mai mult de 2 miliarde yang.";
 
-"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi da magazinului tãu un nume care nu este valabil.";
+"ë¹„ì†ì–´ë‚˜ ì€ì–´ê°€ í¬í•¨ëœ ìƒì  ì´ë¦„ìœ¼ë¡œ ìƒì ì„ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i da magazinului tÄƒu un nume care nu este valabil.";
 
-"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi vinde un obiect din Item-Shop într-un magazin privat.";
+"ìœ ë£Œí™” ì•„ì´í…œì€ ê°œì¸ìƒì ì—ì„œ íŒë§¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i vinde un obiect din Item-Shop Ã®ntr-un magazin privat.";
 
-"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
-"OX Ceilalşi participanşi la eveniment nu au fost notaşi.";
+"OXì´ë²¤íŠ¸ì˜ ë‚˜ë¨¸ì§€ ì¸ì› ê¸°ë¡ì„ ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"OX CeilalÅ£i participanÅ£i la eveniment nu au fost notaÅ£i.";
 
-"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
-"Exploatarea a luat sfârºit.";
+"ì±„ê´‘ì„ ì¤‘ë‹¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Exploatarea a luat sfÃ¢rÅŸit.";
 
-"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
-"Ai nevoie de tîrnãcop pentru a extrage minereu!";
+"ê³¡ê´­ì´ë¥¼ ì¥ì°©í•˜ì„¸ìš”.";
+"Ai nevoie de tÃ®rnÄƒcop pentru a extrage minereu!";
 
-"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
-"Alege o undişã.";
+"ë‚šì‹œëŒ€ë¥¼ ì¥ì°© í•˜ì„¸ìš”.";
+"Alege o undiÅ£Äƒ.";
 
-"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
-"Fixeazã întâi momeala în cârlig.";
+"ë¯¸ë¼ë¥¼ ë¼ê³  ë˜ì ¸ ì£¼ì„¸ìš”.";
+"FixeazÄƒ Ã®ntÃ¢i momeala Ã®n cÃ¢rlig.";
 
-"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
-"Nu poşi pescui fãrã undişã!";
+"ë‚šì‹œëŒ€ê°€ ì•„ë‹Œ ë¬¼ê±´ìœ¼ë¡œ ë‚šì‹œë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!";
+"Nu poÅ£i pescui fÄƒrÄƒ undiÅ£Äƒ!";
 
-"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi face nicio cerere, deoarece conducãtorul grupei nu este online.";
+"íŒŒí‹°ì¥ì´ ì ‘ì† ìƒíƒœê°€ ì•„ë‹ˆë¼ì„œ ìš”ì²­ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i face nicio cerere, deoarece conducÄƒtorul grupei nu este online.";
 
-"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi forma o grupã cu jucãtori ai altui regat.";
+"<íŒŒí‹°> ë‹¤ë¥¸ ì œêµ­ê³¼ íŒŒí‹°ë¥¼ ì´ë£° ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i forma o grupÄƒ cu jucÄƒtori ai altui regat.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi face o invitaşie într-o temnişã.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i face o invitaÅ£ie Ã®ntr-o temniÅ£Äƒ.";
 
-"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi face o invitaşie în modul spectator.";
+"<íŒŒí‹°> ê´€ì „ ëª¨ë“œì—ì„  íŒŒí‹° ì´ˆëŒ€ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i face o invitaÅ£ie Ã®n modul spectator.";
 
-"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Grupã] Pot fi invitaşi doar jucãtori cu diferenşa de nivel -30-30";
+"<íŒŒí‹°> -30 ~ +30 ë ˆë²¨ ì´ë‚´ì˜ ìƒëŒ€ë°©ë§Œ ì´ˆëŒ€í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Pot fi invitaÅ£i doar jucÄƒtori cu diferenÅ£a de nivel -30-30";
 
-"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
-"Numãrul celorlalşi participanşi : %d";
+"í˜„ì¬ ë‚¨ì€ ì°¸ê°€ììˆ˜ : %d";
+"NumÄƒrul celorlalÅ£i participanÅ£i : %d";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi invita jucãtorul, deoarece nivelul sãu este prea scãzut.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœê³  ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë‚®ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i invita jucÄƒtorul, deoarece nivelul sÄƒu este prea scÄƒzut.";
 
-"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi invita jucãtorul, deoarece nivelul sãu este prea înalt.";
+"<íŒŒí‹°> íŒŒí‹°ë‚´ ìµœì € ë ˆë²¨ ë³´ë‹¤ 30ë ˆë²¨ì´ ë†’ì•„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i invita jucÄƒtorul, deoarece nivelul sÄƒu este prea Ã®nalt.";
 
-"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu mai poşi invita alşi jucãtori în grupã.";
+"<íŒŒí‹°> ë” ì´ìƒ íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu mai poÅ£i invita alÅ£i jucÄƒtori Ã®n grupÄƒ.";
 
-"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
-"Doreºti sã te alãturi grupei lui %s.";
+"%s ë‹˜ì—ê²Œ íŒŒí‹°ê°€ì… ì‹ ì²­ì„ í–ˆìŠµë‹ˆë‹¤.";
+"DoreÅŸti sÄƒ te alÄƒturi grupei lui %s.";
 
-"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
-"Jucãtorul nu se aflã în grupã.";
+"ìƒëŒ€ë°©ì´ íŒŒí‹°ì— ì†í•´ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
+"JucÄƒtorul nu se aflÄƒ Ã®n grupÄƒ.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu te poşi alãtura grupei deoarece este plinã.";
+"<íŒŒí‹°> íŒŒí‹°ì˜ ì¸ì›ì œí•œì´ ì´ˆê³¼í•˜ì—¬ íŒŒí‹°ì— ì°¸ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu te poÅ£i alÄƒtura grupei deoarece este plinÄƒ.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Grupã] Nu ai dreptul sã faci o invitaşie.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ ì´ˆëŒ€í•  ìˆ˜ ìˆëŠ” ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu ai dreptul sÄƒ faci o invitaÅ£ie.";
 
-"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Grupã] %s refuzã invitaşia.";
+"<íŒŒí‹°> %s ë‹˜ì´ íŒŒí‹° ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[GrupÄƒ] %s refuzÄƒ invitaÅ£ia.";
 
-"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
-"[Grupã] %s este deja în grupã.";
+"<íŒŒí‹°> ì´ë¯¸ %së‹˜ì€ íŒŒí‹°ì— ì†í•´ ìˆìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] %s este deja Ã®n grupÄƒ.";
 
-"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi accepta o invitaşie într-o temnişã.";
+"<íŒŒí‹°> ë˜ì „ ì•ˆì—ì„œëŠ” íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i accepta o invitaÅ£ie Ã®ntr-o temniÅ£Äƒ.";
 
-"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
-"OX Evenimentul va fi sfârºit.";
+"OX ì´ë²¤íŠ¸ë¥¼ ë§ˆì¹˜ê²ŸìŠµë‹ˆë‹¤.";
+"OX Evenimentul va fi sfÃ¢rÅŸit.";
 
-"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
-"OX Evenimentul va fi sfârºit.";
+"OXì´ë²¤íŠ¸ë¥¼ ê°•ì œ ì¢…ë£Œ ì‹œí‚µë‹ˆë‹¤.";
+"OX Evenimentul va fi sfÃ¢rÅŸit.";
 
-"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu eºti în mãsurã sã accepşi invitaşia.";
+"<íŒŒí‹°> íŒŒí‹° ì´ˆëŒ€ì— ì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu eÅŸti Ã®n mÄƒsurÄƒ sÄƒ accepÅ£i invitaÅ£ia.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹° ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì…¨ìŠµë‹ˆë‹¤.";
 "[Grup] %s a refuzat invitatia.";
 
-"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Grupã] %s s-a alãturat grupei tale.";
+"<íŒŒí‹°> %së‹˜ì´ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] %s s-a alÄƒturat grupei tale.";
 
-"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
-"[Grupã] %s s-a alãturat grupei tale.";
+"<íŒŒí‹°> %së‹˜ì˜ íŒŒí‹°ì— ì°¸ê°€í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] %s s-a alÄƒturat grupei tale.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi acum niciun magazin privat";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ê°œì¸ìƒì ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi acum niciun magazin privat";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
-"Jucãtorul negociazã cu altul.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ë¥¼ í•˜ê³  ìˆëŠ” ì¤‘ì…ë‹ˆë‹¤.";
+"JucÄƒtorul negociazÄƒ cu altul.";
 
-"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
+"ë©”í‹´2ì¸ì¦ë²ˆí˜¸: %s";
 "Cod de confirmare Metin2: %s";
 
-"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
-"Codul de confirmare este greºit. Mai încearcã odatã.";
+"ì¸ì¦ë²ˆí˜¸ê°€ í‹€ë ¸ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì„¸ìš”.";
+"Codul de confirmare este greÅŸit. Mai Ã®ncearcÄƒ odatÄƒ.";
 
-"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
-"Numãrul de mobil este înregistrat.";
+"í•¸ë“œí° ë²ˆí˜¸ê°€ ë“±ë¡ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"NumÄƒrul de mobil este Ã®nregistrat.";
 
-"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu te poşi teleporta la jucãtor.";
+"ìƒëŒ€ë°©ì´ ìˆëŠ” ê³³ìœ¼ë¡œ ì›Œí”„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu te poÅ£i teleporta la jucÄƒtor.";
 
-"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
-"OX Premiul a fost înmânat. ID: %d Quantity: %d";
+"OX ìƒí’ˆì„ ì§€ê¸‰í•˜ì˜€ìŠµë‹ˆë‹¤. ID: %d ìˆ˜ëŸ‰: %d";
+"OX Premiul a fost Ã®nmÃ¢nat. ID: %d Quantity: %d";
 
-"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"Jucãtorul nu este online.";
+"ìƒëŒ€ë°©ì´ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"JucÄƒtorul nu este online.";
 
-"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"Jucãtorul joacã în canalul %d. (Tu eºti în canalul %d).";
+"ìƒëŒ€ë°©ì´ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"JucÄƒtorul joacÄƒ Ã®n canalul %d. (Tu eÅŸti Ã®n canalul %d).";
 
-"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"ì°½ê³ ë¥¼ ì—°í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti merge nicaieri timp de %d secunde de la folosirea Depozitului.";
 
-"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
-"Dupã negoş nu poşi pleca altundeva pentru un anumit timp.";
+"ê±°ë˜ì°½,ì°½ê³  ë“±ì„ ì—° ìƒíƒœì—ì„œëŠ” ë‹¤ë¥¸ê³³ìœ¼ë¡œ ì´ë™,ì¢…ë£Œ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
+"DupÄƒ negoÅ£ nu poÅ£i pleca altundeva pentru un anumit timp.";
 
-"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Timp de %d secunde de la negoş nu poşi pleca altundeva.";
+"ê±°ë˜ í›„ %dì´ˆ ì´ë‚´ì—ëŠ” ë‹¤ë¥¸ì§€ì—­ìœ¼ë¡œ ì´ë™ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Timp de %d secunde de la negoÅ£ nu poÅ£i pleca altundeva.";
 
-"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Duelul a fost încheiat deoarece inamicul tãu a dispãrut.";
+"ëŒ€ë ¨ ìƒëŒ€ê°€ ì‚¬ë¼ì ¸ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Duelul a fost Ã®ncheiat deoarece inamicul tÄƒu a dispÄƒrut.";
 
-"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
-"Nu existã limitã pentru licori.";
+"ë¬¼ì•½ ì œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ limitÄƒ pentru licori.";
 
-"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
-"Poşi folosi pânã la %d licori.";
+"ë¬¼ì•½ì„ %d ê°œ ê¹Œì§€ ì‚¬ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"PoÅ£i folosi pÃ¢nÄƒ la %d licori.";
 
-"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
-"Lupta începe în 10 secunde.";
+"10ì´ˆë’¤ ëŒ€ë ¨ì´ ì‹œì‘ë©ë‹ˆë‹¤.";
+"Lupta Ã®ncepe Ã®n 10 secunde.";
 
-"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
-"Duelul a început.";
+"ëŒ€ë ¨ì´ ì‹œì‘ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Duelul a Ã®nceput.";
 
-"Âü";
+"ì°¸";
 "TRUE";
 
-"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Duelul va fi încheiat deoarece a apãrut o problema cu arena de duel.";
+"ëŒ€ë ¨ì¥ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Duelul va fi Ã®ncheiat deoarece a apÄƒrut o problema cu arena de duel.";
 
-"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Duelul va fi încheiat deoarece limita de timp a fost depãºitã.";
+"ëŒ€ë ¨ ì‹œê°„ ì´ˆê³¼ë¡œ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Duelul va fi Ã®ncheiat deoarece limita de timp a fost depÄƒÅŸitÄƒ.";
 
-"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
-"În 10 secunde vei fi teleportat în oraº.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ì´ë™í•©ë‹ˆë‹¤.";
+"Ãn 10 secunde vei fi teleportat Ã®n oraÅŸ.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
-"Duelul va fi oprit deoarece a apãrut o problema cu arena de duel.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ë‹¨í•©ë‹ˆë‹¤.";
+"Duelul va fi oprit deoarece a apÄƒrut o problema cu arena de duel.";
 
-"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Inamicul de duel are probleme. Duelul va fi încheiat.";
+"ìƒëŒ€ë°© ìºë¦­í„°ì˜ ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Inamicul de duel are probleme. Duelul va fi Ã®ncheiat.";
 
-"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
-"Duelul a luat sfârºit deoarece a apãrut o problemã cu participantul la duel.";
+"ëŒ€ë ¨ì ë¬¸ì œë¡œ ì¸í•˜ì—¬ ëŒ€ë ¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤.";
+"Duelul a luat sfÃ¢rÅŸit deoarece a apÄƒrut o problemÄƒ cu participantul la duel.";
 
-"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s a câºtigat duelul.";
+"%s ë‹˜ì´ ëŒ€ë ¨ì—ì„œ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s a cÃ¢ÅŸtigat duelul.";
 
-"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
-"%s a câºtigat.";
+"%s ë‹˜ì´ ìŠ¹ë¦¬í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"%s a cÃ¢ÅŸtigat.";
 
-"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
-"În 10 secunde vei fi teleportat în oraº.";
+"10ì´ˆë’¤ ë§ˆì„ë¡œ ë˜ëŒì•„ê°‘ë‹ˆë‹¤.";
+"Ãn 10 secunde vei fi teleportat Ã®n oraÅŸ.";
 
-"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
-"În 10 secunde începe runda urmãtoare.";
+"10ì´ˆë’¤ ë‹¤ìŒ íŒì„ ì‹œì‘í•©ë‹ˆë‹¤.";
+"Ãn 10 secunde Ã®ncepe runda urmÄƒtoare.";
 
-"°ÅÁş";
+"ê±°ì§“";
 "FALSE";
 
-"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
-"Inamicul de duel a fost deconectat. Duelul este întrerupt.";
+"ìƒëŒ€ë°© ìºë¦­í„°ê°€ ì ‘ì†ì„ ì¢…ë£Œí•˜ì—¬ ëŒ€ë ¨ì„ ì¤‘ì§€í•©ë‹ˆë‹¤.";
+"Inamicul de duel a fost deconectat. Duelul este Ã®ntrerupt.";
 
-"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Nivelul de drop obiecte este în momentul de faşã plus %d%%";
+"ì•„ì´í…œ ë“œë¡­ë¥   %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Nivelul de drop obiecte este Ã®n momentul de faÅ£Äƒ plus %d%%";
 
-"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
-"Nivelul de drop Yang este în momentul de faşã plus %d%%";
+"ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
+"Nivelul de drop Yang este Ã®n momentul de faÅ£Äƒ plus %d%%";
 
-"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"ëŒ€ë°•ê³¨ë“œ ë“œë¡­ë¥  %d%% ì¶”ê°€ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
 "Rata de drop pentru ploaia de Yang este cu %d%% mai mare.";
 
-"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"ê²½í—˜ì¹˜ %d%% ì¶”ê°€ íšë“ ì´ë²¤íŠ¸ ì¤‘ì…ë‹ˆë‹¤.";
 "Bonusul de experienta este in momentul de fata de %d%%";
 
-"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
-"Versiunea ta de client este greºitã. Instaleazã patch-ul normal.";
+"í´ë¼ì´ì–¸íŠ¸ ë²„ì „ì´ í‹€ë ¤ ë¡œê·¸ì•„ì›ƒ ë©ë‹ˆë‹¤. ì •ìƒì ìœ¼ë¡œ íŒ¨ì¹˜ í›„ ì ‘ì†í•˜ì„¸ìš”.";
+"Versiunea ta de client este greÅŸitÄƒ. InstaleazÄƒ patch-ul normal.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
-"Nu poşi face negoş în timp ce altã fereastrã este deschisã.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë¦°ìƒíƒœì—ì„œëŠ” ìƒì ê±°ë˜ë¥¼ í• ìˆ˜ ê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i face negoÅ£ Ã®n timp ce altÄƒ fereastrÄƒ este deschisÄƒ.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
-"Eºti prea departe de magazin pentru a cumpãra.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ ì‚´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"EÅŸti prea departe de magazin pentru a cumpÄƒra.";
 
-"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
-"Eºti prea departe de magazin pentru a vinde.";
+"ìƒì ê³¼ì˜ ê±°ë¦¬ê°€ ë„ˆë¬´ ë©€ì–´ ë¬¼ê±´ì„ íŒ” ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Eí‹Ši prea departe de magazin pentru a vinde.";
 
-"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
+"20ì–µëƒ¥ì´ ì´ˆê³¼í•˜ì—¬ ë¬¼í’ˆì„ íŒ”ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti negocia deoarece ai mai mult de 2 miliarde yang.";
 
-"ÃÑ ÄûÁî ¼ö: %d";
-"Numãrul de puncte al quiz-ului: %d";
+"ì´ í€´ì¦ˆ ìˆ˜: %d";
+"NumÄƒrul de puncte al quiz-ului: %d";
 
-"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
-"Vânzarea este impozitatã cu %d%%.";
+"íŒë§¤ê¸ˆì•¡ì˜ %d %% ê°€ ì„¸ê¸ˆìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤";
+"VÃ¢nzarea este impozitatÄƒ cu %d%%.";
 
-"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi cãlãri atâta timp cât eºti transformat.";
+"ë³€ì‹  ìƒíƒœì—ì„œëŠ” ë§ì— íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i cÄƒlÄƒri atÃ¢ta timp cÃ¢t eÅŸti transformat.";
 
-"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi cãlãri atâta timp cât porşi o rochie de mireasã sau un smoking.";
+"ì˜ˆë³µì„ ì…ì€ ìƒíƒœì—ì„œ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i cÄƒlÄƒri atÃ¢ta timp cÃ¢t porÅ£i o rochie de mireasÄƒ sau un smoking.";
 
-"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
+"ë§ì„ ì†Œìœ í•˜ê³  ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.";
 "Nu ai cal.";
 
-"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
-"Calul tãu este mort.";
+"ë§ì´ ì£½ì–´ìˆëŠ” ìƒíƒœ ì…ë‹ˆë‹¤.";
+"Calul tÄƒu este mort.";
 
-"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
-"Rezistenşa calului tãu este prea scãzutã.";
+"ë§ì˜ ìŠ¤í…Œë¯¸ë„ˆê°€ ë¶€ì¡±í•˜ì—¬ ë§ì„ íƒˆ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"RezistenÅ£a calului tÄƒu este prea scÄƒzutÄƒ.";
 
-"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Strigarea calului eºuatã.";
+"ë§ ì†Œí™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Strigarea calului eÅŸuatÄƒ.";
 
-"´ÔÀÇ ¸»";
+"ë‹˜ì˜ ë§";
 "Cal";
 
-"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
-"Nunta ia în curând sfârºit.";
+"ê²°í˜¼ì‹ì´ ì¢…ë£Œë©ë‹ˆë‹¤.";
+"Nunta ia Ã®n curÃ¢nd sfÃ¢rÅŸit.";
 
-"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
-"Va fi pãrãsit automat.";
+"ìë™ìœ¼ë¡œ ë‚˜ê°€ê²Œë©ë‹ˆë‹¤.";
+"Va fi pÄƒrÄƒsit automat.";
 
-"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
-"Rãzboiul s-a terminat.";
+"ì´ë¯¸ ì „ìŸì´ ëë‚¬ìŠµë‹ˆë‹¤.";
+"RÄƒzboiul s-a terminat.";
 
-"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
-"Decizia urmeazã în 10 secunde.";
+"10ì´ˆë’¤ íŒì •í•˜ê² ìŠµë‹ˆë‹¤.";
+"Decizia urmeazÄƒ Ã®n 10 secunde.";
 
-"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi negocia la observare.";
+"ê´€ì „ ìƒíƒœì—ì„œëŠ” êµí™˜ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i negocia la observare.";
 
-"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Dacã o altã fereastrã este deschisã, nu poşi negocia cu altcineva.";
+"ë‹¤ë¥¸ ê±°ë˜ì°½ì´ ì—´ë ¤ìˆì„ê²½ìš° ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"DacÄƒ o altÄƒ fereastrÄƒ este deschisÄƒ, nu poÅ£i negocia cu altcineva.";
 
-"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
-"Cealaltã persoanã este ocupatã, de aceea nu poşi sã negociezi acum.";
+"ìƒëŒ€ë°©ì´ ë‹¤ë¥¸ ê±°ë˜ì¤‘ì´ë¼ ê±°ë˜ë¥¼ í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"CealaltÄƒ persoanÄƒ este ocupatÄƒ, de aceea nu poÅ£i sÄƒ negociezi acum.";
 
-"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"Cealaltã persoanã a întrerupt negoşul.";
+"ìƒëŒ€ë°©ì´ êµí™˜ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"CealaltÄƒ persoanÄƒ a Ã®ntrerupt negoÅ£ul.";
 
-"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Yang insuficient sau lipsã de loc în inventar.";
+"ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"Yang insuficient sau lipsÄƒ de loc Ã®n inventar.";
 
-"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
-"Cealaltã persoanã nu are destul Yang sau destul loc în inventar.";
+"ìƒëŒ€ë°©ì˜ ëˆì´ ë¶€ì¡±í•˜ê±°ë‚˜ ì•„ì´í…œì´ ì œìë¦¬ì— ì—†ìŠµë‹ˆë‹¤.";
+"CealaltÄƒ persoanÄƒ nu are destul Yang sau destul loc Ã®n inventar.";
 
-"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Cealaltã persoanã nu are destul loc în inventar.";
+"ìƒëŒ€ë°©ì˜ ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"CealaltÄƒ persoanÄƒ nu are destul loc Ã®n inventar.";
 
-"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
-"Negoşul cu %s a reuºit.";
+"%s ë‹˜ê³¼ì˜ êµí™˜ì´ ì„±ì‚¬ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"NegoÅ£ul cu %s a reuÅŸit.";
 
-"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Prin binecuvântarea zeului zmeu nu ai pierdut experienşã.";
+"ìš©ì‹ ì˜ ê°€í˜¸ë¡œ ê²½í—˜ì¹˜ê°€ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Prin binecuvÃ¢ntarea zeului zmeu nu ai pierdut experienÅ£Äƒ.";
 
-"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
+"í˜„ì¬ ìŠ¤ì½”ì–´ ì‹ ìˆ˜êµ­:%d ì²œì¡°êµ­:%d ì§„ë…¸êµ­:%d";
 "Scor curent: Shinsoo %d, Chunjo: %d, Jinno: %d";
 
-"Á¤´äÀº";
-"Rãspunsul corect este:";
+"ì •ë‹µì€";
+"RÄƒspunsul corect este:";
 
-"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"ì£½ì€ ì •ë³´ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 "%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
 
-"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
+"ì„±ì§€ì˜ ë§ˆì™•: ë„ˆí¬ ";
 "Spiritul locului sacru: [ENTER][ENTER]";
 
-"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
+"ë…€ì„ë“¤ì€ ì´ê³³ ì„±ì§€ì— ìˆì„ ìê²©ì„ ìƒì—ˆë‹¤. ëª¨ë‘ ì„±ì§€ì—ì„œ ë¬¼ëŸ¬ë‚˜ê±°ë¼~~[ENTER][ENTER] 10ì´ˆ í›„ì— ëª¨ë‘ ë§ˆì„ë¡œ ì´ë™í•˜ê²Œ ë©ë‹ˆë‹¤. ";
 ", nu ai niciun drept sa te aflii aici! Membrii regatului tau vor parasi locul sacru in 10 secunde.";
 
-"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
+"ì‚¼ê±°ë¦¬ ì „íˆ¬ì—ì„œ %s êµ­ê°€ê°€ ê°€ì¥ë¨¼ì € íƒˆë½ì„ í•˜ì˜€ìŠµë‹ˆë‹¤";
 "Regatul %s a fost infrant si este exclus din Lupta Regatelor.";
 
-"»ï°Å¸® ¸÷ ¸®Á¨";
-"Monºtri la lupta regatelor";
+"ì‚¼ê±°ë¦¬ ëª¹ ë¦¬ì  ";
+"Moní‹Šri la lupta regatelor";
 
-". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
-"Dacã îl învingeşi pe paznicul Locului Sfânt, veşi fi deşinãtorii Locului Sfânt.";
+". ë„ˆí¬ê°€ ì„±ì§€ì˜ ìˆ˜í˜¸ìë¥¼ ì¡ê²Œ ëœë‹¤ë©´ ë„ˆí¬ëŠ” ì„±ì§€ì˜ ì£¼ì¸ì´ ëœë‹¤.[ENTER][ENTER] ";
+"DacÄƒ Ã®l Ã®nvingeÅ£i pe paznicul Locului SfÃ¢nt, veÅ£i fi deÅ£inÄƒtorii Locului SfÃ¢nt.";
 
-"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
-"Prin protecşia zeului zmeu nu ai aruncat niciun obiect.";
+"ìš©ì‹ ì˜ ë³´í˜¸ë¡œ ì•„ì´í…œì´ ë–¨ì–´ì§€ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Prin protecÅ£ia zeului zmeu nu ai aruncat niciun obiect.";
 
-"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
-"Pagubã arme albe plus %d";
+"ê´€í†µ ì¶”ê°€ ë°ë¯¸ì§€ %d";
+"PagubÄƒ arme albe plus %d";
 
-"%s ºí·°! (%ld%%)";
-"Blocheazã %s! (%d%%)";
+"%s ë¸”ëŸ­! (%ld%%)";
+"BlocheazÄƒ %s! (%d%%)";
 
-"%s È¸ÇÇ! (%ld%%)";
-"Eschiveazã %s! (%d%%)";
+"%s íšŒí”¼! (%ld%%)";
+"EschiveazÄƒ %s! (%d%%)";
 
-"O ÀÔ´Ï´Ù";
+"O ì…ë‹ˆë‹¤";
 "Da (O)";
 
-"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
+"%s[%ld]ê°€ ê³µê²© ìœ„ì¹˜: %d %d";
 "%s[%d] Pozitie de atac: %d %d";
 
-"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
-"Introdu comanda întreagã.";
+"ëª…ë ¹ì–´ë¥¼ ëª¨ë‘ ì…ë ¥í•˜ì„¸ìš”.";
+"Introdu comanda Ã®ntreagÄƒ.";
 
-"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi face asta în timp ce stai pe cal.";
+"íƒ„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i face asta Ã®n timp ce stai pe cal.";
 
-"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi face asta cât timp eºti întins pe jos.";
+"ì“°ëŸ¬ì§„ ìƒíƒœì—ì„œëŠ” í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i face asta cÃ¢t timp eÅŸti Ã®ntins pe jos.";
 
-"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
-"În visele mele? Cum?";
+"ê¿ˆì†ì—ì„œ ì–´ë–»ê²Œìš”?";
+"Ãn visele mele? Cum?";
 
-"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
-"Ridicã-te întâi.";
+"ë¨¼ì € ì¼ì–´ ë‚˜ì„¸ìš”.";
+"RidicÄƒ-te Ã®ntÃ¢i.";
 
-"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
-"Aceastã comandã nu existã.";
+"ê·¸ëŸ° ëª…ë ¹ì–´ëŠ” ì—†ìŠµë‹ˆë‹¤";
+"AceastÄƒ comandÄƒ nu existÄƒ.";
 
-"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
-"[Grupã] Grupa s-a desfiinşat.";
+"<íŒŒí‹°> íŒŒí‹°ê°€ í•´ì‚° ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Grupa s-a desfiinÅ£at.";
 
-"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi striga şinta.";
+"<íŒŒí‹°> ëŒ€ìƒì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i striga Å£inta.";
 
-"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Grupã] Nu poşi striga membrii grupei la pozişia ta actualã.";
+"<íŒŒí‹°> íŒŒí‹°ì›ì„ í˜„ì¬ ìœ„ì¹˜ë¡œ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[GrupÄƒ] Nu poÅ£i striga membrii grupei la poziÅ£ia ta actualÄƒ.";
 
-"X ÀÔ´Ï´Ù";
+"X ì…ë‹ˆë‹¤";
 "Nu (X)";
 
-"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
-"Grupul tãu coopereaza bine împreunã, membrii grupului din apropierea liderului de grup vor primi un bonus de experienşã.";
+"íŒŒí‹°ì˜ í˜‘ë™ë ¥ì´ ë†’ì•„ì ¸ ì§€ê¸ˆë¶€í„° ì¶”ê°€ ê²½í—˜ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ìŠµë‹ˆë‹¤.";
+"Grupul tÄƒu coopereaza bine Ã®mpreunÄƒ, membrii grupului din apropierea liderului de grup vor primi un bonus de experienÅ£Äƒ.";
 
-"±æµåÀå";
+"ê¸¸ë“œì¥";
 "Leader";
 
-"±æµå¿ø";
+"ê¸¸ë“œì›";
 "Member";
 
-"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
-"[Breasla] Experienşa oferitã este mai mare decât experienşa rãmasã.";
+"<ê¸¸ë“œ> ì œê³µí•˜ê³ ì í•˜ëŠ” ê²½í—˜ì¹˜ê°€ ë‚¨ì€ ê²½í—˜ì¹˜ë³´ë‹¤ ë§ìŠµë‹ˆë‹¤.";
+"[Breasla] ExperienÅ£a oferitÄƒ este mai mare decÃ¢t experienÅ£a rÄƒmasÄƒ.";
 
-"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
-"[Breasla] Mesajul nu poate fi ºters.";
+"<ê¸¸ë“œ> ì‚­ì œí•  ìˆ˜ ì—†ëŠ” ê¸€ì…ë‹ˆë‹¤.";
+"[Breasla] Mesajul nu poate fi í‹Šers.";
 
-"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
+"<ê¸¸ë“œ> ìš©ì‹ ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤. (%d, %d)";
 "[Breasla] Spiritul Dragonului insuficient. (%d, %d)";
 
-"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Nu poşi folosi încã competenşa breslei.";
+"<ê¸¸ë“œ> ì¿¨íƒ€ì„ì´ ëë‚˜ì§€ ì•Šì•„ ê¸¸ë“œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu poÅ£i folosi Ã®ncÄƒ competenÅ£a breslei.";
 
-"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
-"[Breasla] Competenşa %d a fost folositã (%d, %d) pe %u.";
+"<ê¸¸ë“œ> %d ìŠ¤í‚¬ì„ ì‚¬ìš©í•¨ (%d, %d) to %lu";
+"[Breasla] CompetenÅ£a %d a fost folositÄƒ (%d, %d) pe %u.";
 
-"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
-"[Breasla] Jucãtorul se aflã în canalul %d. (Canal actual: %d)";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ %d ì±„ë„ì— ìˆìŠµë‹ˆë‹¤. (í˜„ì¬ ì±„ë„ %d)";
+"[Breasla] JucÄƒtorul se aflÄƒ Ã®n canalul %d. (Canal actual: %d)";
 
-"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
-"[Breasla] Jucãtorul nu este online.";
+"<ê¸¸ë“œ> ìƒëŒ€ê°€ ì˜¨ë¼ì¸ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"[Breasla] JucÄƒtorul nu este online.";
 
-"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
+"5ì´ˆ ë’¤ í‹€ë¦¬ì‹  ë¶„ë“¤ì„ ë°”ê¹¥ìœ¼ë¡œ ì´ë™ ì‹œí‚¤ê² ìŠµë‹ˆë‹¤.";
 "In 5 sec. vor fi inlaturati toti jucatorii care au dat un raspuns gresit.";
 
-"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"[Breasla] Competenşa de breaslã poate fi folositã doar în rãzboi.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ìŠ¤í‚¬ì€ ê¸¸ë“œì „ ì¤‘ì—ë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"[Breasla] CompetenÅ£a de breaslÄƒ poate fi folositÄƒ doar Ã®n rÄƒzboi.";
 
-"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
-"[Breasla] Punctele de Spirit al Dragonului ale lui %u au fost refãcute.";
+"<ê¸¸ë“œ> %luì˜ ìš©ì‹ ë ¥ì„ íšŒë³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
+"[Breasla] Punctele de Spirit al Dragonului ale lui %u au fost refÄƒcute.";
 
-"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<ê¸¸ë“œ> ê¸¸ë“œ ê¸ˆê³ ì—ì„  ê¸¸ë“œì¥ë§Œ ì¶œê¸ˆí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "[Guild] Doar liderul breslei poate retrage Yang.";
 
-"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
-"[Breasla] Jucãtorul refuzã invitaşia breslei.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ê¸¸ë“œ ì´ˆëŒ€ ê±°ë¶€ ìƒíƒœì…ë‹ˆë‹¤.";
+"[Breasla] JucÄƒtorul refuzÄƒ invitaÅ£ia breslei.";
 
-"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
-"[Breasla] Nu ai dreptul sã invişi pe cineva în breaslã.";
+"<ê¸¸ë“œ> ê¸¸ë“œì›ì„ ì´ˆëŒ€í•  ê¶Œí•œì´ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] Nu ai dreptul sÄƒ inviÅ£i pe cineva Ã®n breaslÄƒ.";
 
-"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Jucãtori din alt regat nu pot fi invitaşi în breaslã.";
+"<ê¸¸ë“œ> ë‹¤ë¥¸ ì œêµ­ ì‚¬ëŒì„ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] JucÄƒtori din alt regat nu pot fi invitaÅ£i Ã®n breaslÄƒ.";
 
-"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breaslã] Acest jucãtor poate fi invitat din nou peste %d zile.";
+"<ê¸¸ë“œ> íƒˆí‡´í•œ í›„ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[BreaslÄƒ] Acest jucÄƒtor poate fi invitat din nou peste %d zile.";
 
-"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breasla] Poşi invita noi membri doar peste %d zile de la reformare.";
+"<ê¸¸ë“œ> ê¸¸ë“œë¥¼ í•´ì‚°í•œ ì§€ %dì¼ì´ ì§€ë‚˜ì§€ ì•Šì€ ì‚¬ëŒì€ ê¸¸ë“œì— ì´ˆëŒ€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[Breasla] PoÅ£i invita noi membri doar peste %d zile de la reformare.";
 
-"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
-"[Breasla] Persoana aparşine deja unei alte bresle.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°©ì´ ì´ë¯¸ ë‹¤ë¥¸ ê¸¸ë“œì— ì†í•´ìˆìŠµë‹ˆë‹¤.";
+"[Breasla] Persoana aparÅ£ine deja unei alte bresle.";
 
-"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
-"[Breasla] S-a atins capacitatea maximã a breslei.";
+"<ê¸¸ë“œ> ìµœëŒ€ ê¸¸ë“œì› ìˆ˜ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.";
+"[Breasla] S-a atins capacitatea maximÄƒ a breslei.";
 
-"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
-"Pregãtit pentru urmãtoarea întrebare?";
+"ë‹¤ìŒ ë¬¸ì œ ì¤€ë¹„í•´ì£¼ì„¸ìš”.";
+"PregÄƒtit pentru urmÄƒtoarea Ã®ntrebare?";
 
-"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nu poşi antrena aceastã abilitate.";
+"ìˆ˜ë ¨í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Nu poÅ£i antrena aceastÄƒ abilitate.";
 
-"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi antrena aceastã abilitate.";
+"ë” ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i antrena aceastÄƒ abilitate.";
 
-"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
-"Nu poşi antrena aceastã abilitate pânã la Mare Maestru.";
+"ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ìˆ˜ ì—†ëŠ” ìŠ¤í‚¬ì…ë‹ˆë‹¤.";
+"Nu poÅ£i antrena aceastÄƒ abilitate pÃ¢nÄƒ la Mare Maestru.";
 
-"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Eºti deja maestru al acestei abilitãşi. Nu o mai poşi antrena.";
+"í¼í™íŠ¸ ë§ˆìŠ¤í„°ëœ ìŠ¤í‚¬ì…ë‹ˆë‹¤. ë” ì´ìƒ ìˆ˜ë ¨ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"EÅŸti deja maestru al acestei abilitÄƒÅ£i. Nu o mai poÅ£i antrena.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Abilitatea ta este insuficientã pentru antrenamentul de Mare Maestru.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ê·¸ëœë“œ ë§ˆìŠ¤í„° ìˆ˜ë ¨ì„ í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"Abilitatea ta este insuficientÄƒ pentru antrenamentul de Mare Maestru.";
 
-"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
-"Of, nu a reuºit. La naiba!";
+"í¬ìœ½, ê¸°ê°€ ì—­ë¥˜í•˜ê³  ìˆì–´! ì´ê±° ì„¤ë§ˆ ì£¼í™”ì…ë§ˆì¸ê°€!? ì  ì¥!";
+"Of, nu a reuíŠ·t. La naiba!";
 
-"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
-"Antrenament eºuat. Încearcã mai târziu.";
+"ìˆ˜ë ¨ì´ ì‹¤íŒ¨ë¡œ ëë‚¬ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ë„ì „í•´ì£¼ì‹œê¸° ë°”ëë‹ˆë‹¤.";
+"Antrenament eÅŸuat. ÃncearcÄƒ mai tÃ¢rziu.";
 
-"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
+"ëª¸ì—ì„œ ë­”ê°€ í˜ì´ í„°ì ¸ ë‚˜ì˜¤ëŠ” ê¸°ë¶„ì´ì•¼!";
 "Corpul meu este plin de putere.";
 
-"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
-"Antrenamentul pare sã funcşioneze deja...";
+"ëœ¨ê±°ìš´ ë¬´ì—‡ì´ ê³„ì† ìš©ì†ŸìŒì¹˜ê³  ìˆì–´! ì´ê±´, ì´ê²ƒì€!";
+"Antrenamentul pare sÄƒ funcÅ£ioneze deja...";
 
-"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Ai încheiat cu succes antrenamentul cu cartea.";
+"ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"Ai Ã®ncheiat cu succes antrenamentul cu cartea.";
 
-"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
+"ê²½í—˜ì¹˜ê°€ ë¶€ì¡±í•˜ì—¬ ì±…ì„ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu o poti citi din cauza lipsei de experienta.";
 
 "Pregunta.";
-"Întrebare.";
+"Ãntrebare.";
 
-"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu mai poşi antrena aceastã abilitate cu o carte.";
+"ì´ ìŠ¤í‚¬ì€ ì±…ìœ¼ë¡œ ë”ì´ìƒ ìˆ˜ë ¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu mai poÅ£i antrena aceastÄƒ abilitate cu o carte.";
 
-"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
-"Aceastã abilitate nu este destul de înaltã pentru a o antrena cu o carte.";
+"ì´ ìŠ¤í‚¬ì€ ì•„ì§ ì±…ìœ¼ë¡œ ìˆ˜ë ¨í•  ê²½ì§€ì— ì´ë¥´ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.";
+"AceastÄƒ abilitate nu este destul de Ã®naltÄƒ pentru a o antrena cu o carte.";
 
-"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
-"Fac progrese, dar încã nu am înşeles tot.";
+"ì–´ëŠì •ë„ ì´ ê¸°ìˆ ì— ëŒ€í•´ ì´í•´ê°€ ë˜ì—ˆì§€ë§Œ ì¡°ê¸ˆ ë¶€ì¡±í•œë“¯ í•œë°..";
+"Fac progrese, dar Ã®ncÄƒ nu am Ã®nÅ£eles tot.";
 
-"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
-"Aceste instrucşiuni sunt greu de înşeles. Am sã studiez în continuare.";
+"ë“œë””ì–´ ëì´ ë³´ì´ëŠ” ê±´ê°€...  ì´ ê¸°ìˆ ì€ ì´í•´í•˜ê¸°ê°€ ë„ˆë¬´ í˜ë“¤ì–´..";
+"Aceste instrucÅ£iuni sunt greu de Ã®nÅ£eles. Am sÄƒ studiez Ã®n continuare.";
 
-"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
-"Am înşeles acest capitol. Dar trebuie sã muncesc din greu în continuare.";
+"ì—´ì‹¬íˆ í•˜ëŠ” ë°°ì›€ì„ ê°€ì§€ëŠ” ê²ƒë§Œì´ ê¸°ìˆ ì„ ë°°ìš¸ìˆ˜ ìˆëŠ” ìœ ì¼í•œ ê¸¸ì´ë‹¤..";
+"Am Ã®nÅ£eles acest capitol. Dar trebuie sÄƒ muncesc din greu Ã®n continuare.";
 
-"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
-"Ai încheiat cu succes antrenamentul cu cartea.";
+"ì±…ìœ¼ë¡œ ë” ë†’ì€ ê²½ì§€ì˜ ìˆ˜ë ¨ì„ ì„±ê³µì ìœ¼ë¡œ ëë‚´ì…¨ìŠµë‹ˆë‹¤.";
+"Ai Ã®ncheiat cu succes antrenamentul cu cartea.";
 
-"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
-"Teleportare eºuatã.";
+"ê·€í™˜ì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Teleportare eÅŸuatÄƒ.";
 
-"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
-"Niciun cal. Întreabã grãjdarul.";
+"ë§ì´ ì—†ìŠµë‹ˆë‹¤. ë§ˆêµ¿ê°„ ê²½ë¹„ë³‘ì„ ì°¾ì•„ê°€ì„¸ìš”.";
+"Niciun cal. ÃntreabÄƒ grÄƒjdarul.";
 
-"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
-"Foloseºte un obiect pentru a striga un cal.";
+"ë§ ì†Œí™˜ ì•„ì´í…œì„ ì‚¬ìš©í•˜ì„¸ìš”.";
+"Foloseí‹Še un obiect pentru a striga un cal.";
 
-"%s SP¼Ò¸ğ: %d";
+"%s SPì†Œëª¨: %d";
 "%s Consum de FP: %d";
 
-"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
+"ë§ìœ¼ë©´ O, í‹€ë¦¬ë©´ Xë¡œ ì´ë™í•´ì£¼ì„¸ìš”";
 "Daca este corect: O, daca este gresit: X.";
 
-"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
-"Ard în interior, dar îmi liniºteºte corpul. Chi-ul meu trebuie sã se stabilizeze.";
+"ëª¸ ì†ì´ ëœ¨ê²êµ°. í•˜ì§€ë§Œ ì•„ì£¼ í¸ì•ˆí•´. ì´ëŒ€ë¡œ ê¸°ë¥¼ ì•ˆì •ì‹œí‚¤ì.";
+"Ard Ã®n interior, dar Ã®mi liniÅŸteÅŸte corpul. Chi-ul meu trebuie sÄƒ se stabilizeze.";
 
-"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
-"Cam încet... dar continuu... fãrã oprire!";
+"ê·¸ë˜, ì²œì²œíˆ. ì¢€ë” ì²œì²œíˆ, ê·¸ëŸ¬ë‚˜ ë§‰í˜ ì—†ì´ ë¹ ë¥´ê²Œ!";
+"Cam Ã®ncet... dar continuu... fÄƒrÄƒ oprire!";
 
-"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
+"ê·¸ë˜, ì´ ëŠë‚Œì´ì•¼. ì²´ë‚´ì— ê¸°ê°€ ì•„ì£¼ ì¶©ë§Œí•´.";
 "Se simte bine. Corpul meu e plin de Chi.";
 
-"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
-"Am citit-o! Acum trebuie sã se împrãºtie Chi-ul în corpul meu.";
+"ë‹¤ ì½ì—ˆë‹¤! ì´ì œ ë¹„ê¸‰ì— ì í˜€ìˆëŠ” ëŒ€ë¡œ ì „ì‹ ì— ê¸°ë¥¼ ëŒë¦¬ê¸°ë§Œ í•˜ë©´,";
+"Am citit-o! Acum trebuie sÄƒ se Ã®mprÄƒÅŸtie Chi-ul Ã®n corpul meu.";
 
-"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
+"ê·¸ê²ƒìœ¼ë¡œ ìˆ˜ë ¨ì€ ëë‚œ ê±°ì•¼!";
 "Antrenamentul s-a terminat.";
 
-"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
-"Am ajuns la ultima paginã a cãrşii! Antrenamentul e aproape gata!";
+"ì´ì œ ì±…ì˜ ë§ˆì§€ë§‰ ì¥ì´ì•¼! ìˆ˜ë ¨ì˜ ëì´ ëˆˆì— ë³´ì´ê³  ìˆì–´!";
+"Am ajuns la ultima paginÄƒ a cÄƒrÅ£ii! Antrenamentul e aproape gata!";
 
-"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
-"Aproape am reuºit! Încã puşin!";
+"ì–¼ë§ˆ ì•ˆ ë‚¨ì•˜ì–´! ì¡°ê¸ˆë§Œ ë”!";
+"Aproape am reuÅŸit! ÃncÄƒ puÅ£in!";
 
-"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
+"ì¢‹ì•˜ì–´! ì¡°ê¸ˆë§Œ ë” ì½ìœ¼ë©´ ëì´ë‹¤!";
 "Aproape am terminat de citit!";
 
-"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
-"Au rãmas doar câteva pagini, apoi voi termina de citit.";
+"ì±…ì¥ë„ ì´ì œ ì–¼ë§ˆ ë‚¨ì§€ ì•Šì•˜êµ°.";
+"Au rÄƒmas doar cÃ¢teva pagini, apoi voi termina de citit.";
 
-"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
-"Mã simt reîmprospãtat.";
+"ë­”ê°€ ëª¸ ì•ˆì— í˜ì´ ìƒê¸°ëŠ” ê¸°ë¶„ì¸ ê±¸.";
+"MÄƒ simt reÃ®mprospÄƒtat.";
 
-"Á¤´äÀÔ´Ï´Ù!";
+"ì •ë‹µì…ë‹ˆë‹¤!";
 "Corect!";
 
-"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
-"Acum o înşeleg!";
+"ì´ì œ ì¢€ ìŠ¬ìŠ¬ ê°€ë‹¥ì´ ì¡íˆëŠ” ê²ƒ ê°™ì€ë°.";
+"Acum o Ã®nÅ£eleg!";
 
-"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
-"Bine, trebuie sã rãmân concentrat în continuare!";
+"ì¢‹ì•„, ì´ ê¸°ì„¸ë¡œ ê³„ì† ë‚˜ê°„ë‹¤!";
+"Bine, trebuie sÄƒ rÄƒmÃ¢n concentrat Ã®n continuare!";
 
-"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
-"Citesc în continuu acelaºi rând.";
+"ì•„ë‹ˆ ì–´ë–»ê²Œ ëœ ê²Œ ì¢…ì¼ ì½ì–´ë„ ë¨¸ë¦¬ì— ì•ˆ ë“¤ì–´ì˜¤ëƒ.";
+"Citesc Ã®n continuu acelaÅŸi rÃ¢nd.";
 
-"°øºÎÇÏ±â ½È¾îÁö³×.";
-"Nu vreau sã învãş mai departe.";
+"ê³µë¶€í•˜ê¸° ì‹«ì–´ì§€ë„¤.";
+"Nu vreau sÄƒ Ã®nvÄƒÅ£ mai departe.";
 
-"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
-"E mai complicat ºi mai greu de înşeles decât am crezut.";
+"ìƒê°ë§Œí¼ ì½ê¸°ê°€ ì‰½ì§€ê°€ ì•Šêµ°. ì´í•´ë„ ì–´ë µê³  ë‚´ìš©ë„ ë‚œí•´í•´.";
+"E mai complicat ÅŸi mai greu de Ã®nÅ£eles decÃ¢t am crezut.";
 
-"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
-"E greu sã mã concentrez. Ar trebui sa iau o pauzã.";
+"ì´ë˜ì„œì•¼ ê³µë¶€ê°€ ì•ˆëœë‹¤êµ¬.";
+"E greu sÄƒ mÄƒ concentrez. Ar trebui sa iau o pauzÄƒ.";
 
-"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
-"Chat-ul tãu a fost blocat de un GM.";
+"ìš´ì˜ì ì œì œë¡œ ì±„íŒ…ì´ ê¸ˆì§€ ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Chat-ul tÄƒu a fost blocat de un GM.";
 
-"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
-"Blocarea chat-ului tãu a fost anulatã.";
+"ì±„íŒ… ê¸ˆì§€ê°€ í’€ë ¸ìŠµë‹ˆë‹¤.";
+"Blocarea chat-ului tÄƒu a fost anulatÄƒ.";
 
-"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
-"Fereastra de creare este deschisã deja.";
+"ì´ë¯¸ ì œì¡°ì°½ì´ ì—´ë ¤ìˆìŠµë‹ˆë‹¤.";
+"Fereastra de creare este deschisÄƒ deja.";
 
-"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi crea dacã mai este deschisã o fereastrã de negoş-lagãr.";
+"ë‹¤ë¥¸ ê±°ë˜ì¤‘(ì°½ê³ ,êµí™˜,ìƒì )ì—ëŠ” ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i crea dacÄƒ mai este deschisÄƒ o fereastrÄƒ de negoÅ£-lagÄƒr.";
 
-"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nicio altã îmbunãtãşire posibilã.";
+"ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nicio altÄƒ Ã®mbunÄƒtÄƒÅ£ire posibilÄƒ.";
 
-"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
-"Fereastra de creare nu este deschisã.";
+"ì œì¡°ì°½ì´ ì—´ë ¤ìˆì§€ ì•ŠìŠµë‹ˆë‹¤";
+"Fereastra de creare nu este deschisÄƒ.";
 
-"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
+"ì œì¡° ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤";
 "Nu ai materialul potrivit.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
-"[Breasla] Încearcã dinnou mai târziu.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤";
+"[Breasla] ÃncearcÄƒ dinnou mai tÃ¢rziu.";
 
-"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"%d ê¶Œì„ ë” ì½ì–´ì•¼ ìˆ˜ë ¨ì„ ì™„ë£Œ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
 "Trebuie sa citesti inca %d pentru a avea succes.";
 
-"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
-"[Breasla] Încearcã dinnou mai târziu.";
+"<ê¸¸ë“œ> ì ì‹œí›„ì— ì´ìš©í•´ì£¼ì‹­ì‹œì˜¤.";
+"[Breasla] ÃncearcÄƒ dinnou mai tÃ¢rziu.";
 
-"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
-"Aceastã funcşie poate fi folositã doar în castel.";
+"ì„±ì—ì„œë§Œ ì‚¬ìš©í•  ìˆ˜ ìˆëŠ” ê¸°ëŠ¥ì…ë‹ˆë‹¤.";
+"AceastÄƒ funcÅ£ie poate fi folositÄƒ doar Ã®n castel.";
 
-"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
-"TEST: Lingoul de aur a fost returnat seif-ului regatului tãu.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ê°€ êµ­ê³ ë¡œ í™˜ì›ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"TEST: Lingoul de aur a fost returnat seif-ului regatului tÄƒu.";
 
-"TEST : ÇöÀç ±¹°í : %d";
-"TEST: În seiful regatului tãu se aflã: %d";
+"TEST : í˜„ì¬ êµ­ê³  : %d";
+"TEST: Ãn seiful regatului tÄƒu se aflÄƒ: %d";
 
-"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"TEST: Nu poşi returna lingoul de aur seiful-ui regatului tãu.";
+"TEST : í™©ê¸ˆë‘êº¼ë¹„ë¥¼ êµ­ê³ ë¡œ í™˜ì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"TEST: Nu poÅ£i returna lingoul de aur seiful-ui regatului tÄƒu.";
 
-"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
+"<ê¸¸ë“œ> ë˜ë” ì ìˆ˜ê°€ %d ì ì´ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "[Breasla] Breasla a atins %d puncte.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Acest obiect nu poate fi îmbunãtãşit.";
+"ì´ ì•„ì´í…œì€ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Acest obiect nu poate fi Ã®mbunÄƒtÄƒÅ£it.";
 
-"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
-"Îmbunãtãşirea gratuitã a obiectelor poate fi folositã pe arme pentru nivel maxim 20.";
+"ë¬´ë£Œ ê°œëŸ‰ ê¸°íšŒëŠ” 20 ì´í•˜ì˜ ë¬´ê¸°ë§Œ ê°€ëŠ¥í•©ë‹ˆë‹¤";
+"ÃmbunÄƒtÄƒÅ£irea gratuitÄƒ a obiectelor poate fi folositÄƒ pe arme pentru nivel maxim 20.";
 
-"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu îndeplineºti condişiile pentru a folosi acest obiect.";
+"êµ°ì§ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu Ã®ndeplineÅŸti condiÅ£iile pentru a folosi acest obiect.";
 
-"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi folosi acest obiect deoarece sexul tãu nu corespunde.";
+"ì„±ë³„ì´ ë§ì§€ì•Šì•„ ì´ ì•„ì´í…œì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i folosi acest obiect deoarece sexul tÄƒu nu corespunde.";
 
-"»ç¿ë¹ı: transfer <name>";
-"Foloseºte: transfer <name>";
+"ì‚¬ìš©ë²•: transfer <name>";
+"Foloseí‹Še: transfer <name>";
 
-"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
-"Aceastã funcşie poate fi folositã doar de împãrat.";
+"êµ°ì£¼ë§Œì´ ì‚¬ìš© ê°€ëŠ¥í•œ ê¸°ëŠ¥ì…ë‹ˆë‹¤";
+"AceastÄƒ funcÅ£ie poate fi folositÄƒ doar de Ã®mpÄƒrat.";
 
-"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi recruta jucãtori din alte regate.";
+"ë‹¤ë¥¸ ì œêµ­ ìœ ì €ëŠ” ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i recruta jucÄƒtori din alte regate.";
 
-"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
-"Jucãtorul %s se aflã în canalul %d. (Canalul tãu: %d)";
+"%s ë‹˜ì€ %d ì±„ë„ì— ì ‘ì† ì¤‘ ì…ë‹ˆë‹¤. (í˜„ì¬ ì±„ë„: %d)";
+"JucÄƒtorul %s se aflÄƒ Ã®n canalul %d. (Canalul tÄƒu: %d)";
 
-"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
-"Ai recrutat %s jucãtori.";
+"%s ë‹˜ì„ ì†Œí™˜í•˜ì˜€ìŠµë‹ˆë‹¤.";
+"Ai recrutat %s jucÄƒtori.";
 
-"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
-"Nu existã niciun jucãtor cu numele introdus de tine.";
+"ì…ë ¥í•˜ì‹  ì´ë¦„ì„ ê°€ì§„ ì‚¬ìš©ìê°€ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ niciun jucÄƒtor cu numele introdus de tine.";
 
-"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu te poşi recruta singur.";
+"ìì‹ ì„ ì†Œí™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu te poÅ£i recruta singur.";
 
-"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Nivelul tãu este prea scãzut pentru a folosi acest obiect.";
+"ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"Nivelul tÄƒu este prea scÄƒzut pentru a folosi acest obiect.";
 
-"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
-"Nu poşi sã îmbunãtãşeºti nimic dacã o altã fereastrã este deschisã.";
+"ì°½ê³ ,ê±°ë˜ì°½ë“±ì´ ì—´ë¦° ìƒíƒœì—ì„œëŠ” ê°œëŸ‰ì„ í• ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤";
+"Nu poÅ£i sÄƒ Ã®mbunÄƒtÄƒÅ£eÅŸti nimic dacÄƒ o altÄƒ fereastrÄƒ este deschisÄƒ.";
 
-"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
-"Împãratul lui %s a fost schimbat în %s.";
+"%sì˜ êµ°ì£¼ê°€ %s ë‹˜ìœ¼ë¡œ êµì²´ë˜ì—ˆìŠµë‹ˆë‹¤.";
+"ÃmpÄƒratul lui %s a fost schimbat Ã®n %s.";
 
-"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
-"În %s este rãzboi pentru a aprinde focurile de iluminare.";
+"%sì—ì„œ ë´‰í™”ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ì „íˆ¬ê°€ ì§„í–‰ì¤‘ì…ë‹ˆë‹¤.";
+"Ãn %s este rÄƒzboi pentru a aprinde focurile de iluminare.";
 
-"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Lui %s i-a reuºit apãrarea.";
+"%sì´ ìˆ˜ì„±ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"Lui %s i-a reuÅŸit apÄƒrarea.";
 
-"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
-"Pentru 30 de minute de acum înainte %s poate fi rãsplãtit pentru distrugerea focului de iluminare.";
+"ì§€ê¸ˆë¶€í„° %sì€ 30ë¶„ê°„ ë´‰í™”ë¥¼ íŒŒê´´í•˜ì—¬ ë³´ìƒì„ íšë“ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Pentru 30 de minute de acum Ã®nainte %s poate fi rÄƒsplÄƒtit pentru distrugerea focului de iluminare.";
 
-"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
-"Au trecut 30 de minute. Focurile de iluminare au dispãrut.";
+"30ë¶„ì´ ê²½ê³¼í–ˆìŠµë‹ˆë‹¤.. ë´‰í™”ê°€ ì‚¬ë¼ì§‘ë‹ˆë‹¤.";
+"Au trecut 30 de minute. Focurile de iluminare au dispÄƒrut.";
 
-"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
-"La %s s-a aprins un foc de iluminare pentru a avertiza în legãturã cu o luptã.";
+"%sì— ì „ìŸì˜ ì‹œì‘ì„ ì•Œë¦¬ëŠ” ë´‰í™”ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤.";
+"La %s s-a aprins un foc de iluminare pentru a avertiza Ã®n legÄƒturÄƒ cu o luptÄƒ.";
 
-"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
+"%sì´ ë´‰í™”ë¥¼ íŒŒê´´í–ˆìŠµë‹ˆë‹¤.";
 "%s a distrus focul de iluminare.";
 
-"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
-"%s a pierdut rãzboiul pentru ca nu au putut sã apere castelul.";
+"%sì´ ìˆ˜ì„±ì— ì‹¤íŒ¨í•˜ì—¬ ì „ìŸì— íŒ¨ë°°í•˜ì˜€ìŠµë‹ˆë‹¤..";
+"%s a pierdut rÄƒzboiul pentru ca nu au putut sÄƒ apere castelul.";
 
-"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
+"%sì´ ëª¨ë“  ë´‰í™”ë¥¼ íŒŒê´´í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "%s a distrus toate focurile de iluminare.";
 
-"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
-"Poşi deschide magazinul dacã dezbraci armura.";
+"ê°‘ì˜·ì„ ë²—ì–´ì•¼ ê°œì¸ ìƒì ì„ ì—´ ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"PoÅ£i deschide magazinul dacÄƒ dezbraci armura.";
 
-"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "%d ore %d min %d sec ramase pana la expirarea MUTE-ului.";
 
-"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì‹œê°„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "%d ore %d sec ramase pana la expirarea MUTE-ului.";
 
-"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ë¶„ %d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "%d min %d sec ramase pana la expirarea MUTE-ului";
 
-"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
-"Ratã drop ploaie de Yang";
+"ëˆ ëŒ€ë°•ì´ ë‚˜ì˜¬ í™•ë¥ ";
+"RatÄƒ drop ploaie de Yang";
 
-"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"ê°œëŸ‰ì„ í•˜ê¸° ìœ„í•œ ì¬ë£Œê°€ ë¶€ì¡±í•©ë‹ˆë‹¤.";
 "Nu ai materialul potrivit pentru a produce asta.";
 
-"ÀüÁ¦±¹";
+"ì „ì œêµ­";
 "Toate regatele";
 
-"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
+"ì•„ì´í…œì´ ë‚˜ì˜¬ í™•ë¥ ";
 "Procent drop obiecte";
 
-"µ·ÀÌ ³ª¿Ã È®·ü";
+"ëˆì´ ë‚˜ì˜¬ í™•ë¥ ";
 "Procent Yang droprate";
 
-"°æÇèÄ¡ ¹èÀ²";
-"Procentaj pentru punctele de experienşã";
+"ê²½í—˜ì¹˜ ë°°ìœ¨";
+"Procentaj pentru punctele de experienÅ£Äƒ";
 
-"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"%d ì´ˆ ë™ì•ˆ ì±„íŒ…ê¸ˆì§€ ìƒíƒœì…ë‹ˆë‹¤";
 "%d secunde ramase pana la deblocarea chatului";
 
-"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ë§ì„ íƒ„ ìƒíƒœì—ì„œ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti folosi emotiile in timp ce esti pe cal.";
 
-"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ë§ì„ íƒ„ ìƒëŒ€ì™€ ê°ì •í‘œí˜„ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti folosi emotiile pe un jucator care se afla pe cal.";
 
-"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
-"[Alianşã] Liderul alianşei inamice este offline.";
+"<ê¸¸ë“œ> ìƒëŒ€ë°© ê¸¸ë“œì˜ ê¸¸ë“œì¥ì´ ì ‘ì†ì¤‘ì´ ì•„ë‹™ë‹ˆë‹¤.";
+"[AlianÅ£Äƒ] Liderul alianÅ£ei inamice este offline.";
 
-"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Alianşã] Liderul alianşei inamice este offline.";
+"ì „ìŸ ì„œë²„ê°€ ì—´ë ¤ìˆì§€ ì•Šì•„ ê¸¸ë“œì „ì„ ì‹œì‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[AlianÅ£Äƒ] Liderul alianÅ£ei inamice este offline.";
 
-"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
-"[Guild] Aceastã breaslã se aflã în momentul de fata într-o bãtãlie.";
+"<ê¸¸ë“œ> ì´ë¯¸ ì „ìŸ ì¤‘ì¸ ê¸¸ë“œì…ë‹ˆë‹¤.";
+"[Guild] AceastÄƒ breaslÄƒ se aflÄƒ Ã®n momentul de fata Ã®ntr-o bÄƒtÄƒlie.";
 
-"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
-"Deja cãlareºti. Da-te jos prima datã.";
+"ì´ë¯¸ íƒˆê²ƒì„ ì´ìš©ì¤‘ì…ë‹ˆë‹¤.";
+"Deja cÄƒlareÅŸti. Da-te jos prima datÄƒ.";
 
-"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi îmbunãtãşi cu acest pergament.";
+"ì´ ê°œëŸ‰ì„œë¡œ ë” ì´ìƒ ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i Ã®mbunÄƒtÄƒÅ£i cu acest pergament.";
 
-"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
-"Poşi fi rãsplãtit doar o datã pentru sarcina turnului demonilor.";
+"ì‚¬ê·€ íƒ€ì›Œ ì™„ë£Œ ë³´ìƒì€ í•œë²ˆê¹Œì§€ ì‚¬ìš©ê°€ëŠ¥í•©ë‹ˆë‹¤.";
+"PoÅ£i fi rÄƒsplÄƒtit doar o datÄƒ pentru sarcina turnului demonilor.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Piatra Dragon a fost inlocuita.";
 
-"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
+"ê°•í™”ì°½ì„ ì—° ìƒíƒœì—ì„œëŠ” ì•„ì´í…œì„ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti muta obiectul in cadrul ferestrei de rafinament.";
 
-"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì„±ê³µí•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Timpul ramas din Piatra Dragon a fost extras.";
 
-"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"ìš©ì‹¬ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Extragerea timpului a esuat.";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì—¬ %së¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤.";
 "Inlocuirea Pietrei Dragon a esuat. Dar ai primit urmatoarele: %s";
 
-"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"ìš©í˜¼ì„ ì¶”ì¶œì— ì‹¤íŒ¨í•˜ì˜€ìŠµë‹ˆë‹¤.";
 "Inlocuirea Pietrei Dragon a esuat.";
 
-"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Acest obiect nu este necesar pentru îmbunãtãşirea nivelului de claritate.";
+"ë“±ê¸‰ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Acest obiect nu este necesar pentru Ã®mbunÄƒtÄƒÅ£irea nivelului de claritate.";
 
-"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
-"Acest obiect nu este necesar pentru îmbunãtãşirea nivelului de claritate.";
+"ê°•í™”ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
+"Acest obiect nu este necesar pentru Ã®mbunÄƒtÄƒÅ£irea nivelului de claritate.";
 
-"µî±Ş °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
-"Acest obiect nu poate fi îmbunãtãşit în acest fel.";
+"ë“±ê¸‰ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
+"Acest obiect nu poate fi Ã®mbunÄƒtÄƒÅ£it Ã®n acest fel.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Acest obiect nu poate fi îmbunãtãşit în acest fel.";
+"ì´ ì•„ì´í…œì€ ì´ ë°©ì‹ìœ¼ë¡œëŠ” ê°œëŸ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Acest obiect nu poate fi Ã®mbunÄƒtÄƒÅ£it Ã®n acest fel.";
 
-"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
-"Îmbunãtãşirea nivelului de claritate efectuat cu succes.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
+"ÃmbunÄƒtÄƒÅ£irea nivelului de claritate efectuat cu succes.";
 
-"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
 "Rafinarea la nivelul urmator a esuat.";
 
-"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
+"ë‹¨ê³„ ê°œëŸ‰í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
 "Acest obiect nu este necesar pentru rafinare.";
 
-"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
+"ë“±ê¸‰ ê°œëŸ‰ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
 "Rafinarea la nivelul urmator a fost cu succes.";
 
-"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
-"Îmbunãtãşirea nivelului de claritate efectuat a eºuat.";
+"ë‹¨ê³„ ê°œëŸ‰ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
+"ÃmbunÄƒtÄƒÅ£irea nivelului de claritate efectuat a eÅŸuat.";
 
-"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
+"ë‹¨ê³„ ê°œëŸ‰ì— í•„ìš”í•œ ì¬ë£Œê°€ ì•„ë‹™ë‹ˆë‹¤.";
 "Nu ai materialele necesare pentru intarirea Pietrei Dragon.";
 
-"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
+"ê°•í™”í•  ìˆ˜ ì—†ëŠ” ìš©í˜¼ì„ì…ë‹ˆë‹¤.";
 "Aceasta Piatra Dragon nu poate fi folosita pentru intarire.";
 
-"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
+"ê°•í™”ì— ì„±ê³µí–ˆìŠµë‹ˆë‹¤.";
 "Intarirea a fost facuta cu succes.";
 
-"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"ê°•í™”ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.";
 "Intarirea a esuat.";
 
-"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
+"ì´ë¯¸ ê°™ì€ ì¢…ë¥˜ì˜ ìš©í˜¼ì„ì„ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
 "Deti deja o Piatra Dragon de acest tip.";
 
-"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ì°©ìš© ì¤‘ì¸ ìš©í˜¼ì„ì€ ì¶”ì¶œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Aceasta Piatra Dragon nu poate fi inlaturata.";
 
-"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
+"ì´ë¯¸ ì¥ë¹„ë¥¼ ì°©ìš©í•˜ê³  ìˆìŠµë‹ˆë‹¤.";
 "Ai deja echipat acest tip de Piatra Dragon.";
 
-"ÀÎº¥ÀÌ È°¼ºÈ­ µÇÁö ¾ÊÀ½.";
+"ì¸ë²¤ì´ í™œì„±í™” ë˜ì§€ ì•ŠìŒ.";
 "Inainte de a deschide Cor Draconis, trebuie sa termini misiunea Pietrelor Dragon si sa activezi Alchimia Piatra Dragon.";
 
-"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
+"ë¨¼ì € ìš©í˜¼ì„ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì…”ì•¼ í•©ë‹ˆë‹¤.";
 "Inainte de a deschide Cor Draconis, trebuie sa termini misiunea Pietrelor Dragon si sa activezi Alchimia Piatra Dragon.";
 
-"º§Æ® ÀÎº¥Åä¸®¿¡ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏ¸é ÇØÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ì— ì•„ì´í…œì´ ì¡´ì¬í•˜ë©´ í•´ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Iti poti scoate cureaua numai daca nu se mai afla obiecte in inventarul acesteia.";
 
-"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
-"Poti combina Pergamentul Binecuvântat cu Minereul de Fier Magic.";
+"ì¶•ë³µì˜ ì„œì™€ í˜„ì² ì„ í•©ì¹  ìˆ˜ ìˆìŠµë‹ˆë‹¤.";
+"Poti combina Pergamentul BinecuvÃ¢ntat cu Minereul de Fier Magic.";
 
-"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
+"ì´ ì•„ì´í…œì€ ë²¨íŠ¸ ì¸ë²¤í† ë¦¬ë¡œ ì˜®ê¸¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu poti tine acest obiect in inventarul curelei.";
 
-"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"ê°™ì€ ê°œëŸ‰ì„œë¥¼ í•©ì¹  ìˆ˜ëŠ” ì—†ìŠµë‹ˆë‹¤.";
 "[1106-??]No puedes unir esto.";
 
-"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
+"%d ëƒ¥ì„ íˆ¬ìí•˜ì…¨ìŠµë‹ˆë‹¤.";
 "Ai investit %d Yang.";
 
-"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
-"Nu existã piatrã de scos.";
+"ë¹¼ë‚¼ ìˆ˜ ìˆëŠ” ë©”í‹´ì„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nu existÄƒ piatrÄƒ de scos.";
 
-"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
-"Nu poşi stoca aceastã locaşie.";
+"ê¸°ì–µí•´ ë‘˜ ìˆ˜ ì—†ëŠ” ìœ„ì¹˜ ì…ë‹ˆë‹¤.";
+"Nu poÅ£i stoca aceastÄƒ locaÅ£ie.";
 
-"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
-"Nu este destul loc în inventar.";
+"ì†Œì§€í’ˆì— ë¹ˆ ê³µê°„ì´ ì—†ìŠµë‹ˆë‹¤.";
+"Nu este destul loc Ã®n inventar.";
 
-"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu te poşi teleporta într-un punct sigur într-un regat strãin.";
+"ê¸°ì–µëœ ìœ„ì¹˜ê°€ íƒ€ì œêµ­ì— ì†í•´ ìˆì–´ì„œ ê·€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu te poÅ£i teleporta Ã®ntr-un punct sigur Ã®ntr-un regat strÄƒin.";
 
-"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ë‚¨ì€ ìƒëª…ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
 "Nu ai destule PV.";
 
-"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"Nu ai destulã mana pentru a folosi asta.";
+"ë‚¨ì€ ì •ì‹ ë ¥ ì–‘ì´ ëª¨ìë¼ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu ai destulÄƒ mana pentru a folosi asta.";
 
-"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
+"%d ì´ˆí›„ ëª©ì ì§€ë¡œ ì´ë™ë©ë‹ˆë‹¤.";
 "%d secunde de la executare ajungi la locul cu pricina.";
 
-"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
-"Nivelul tãu este prea scãzut pentru a folosi acest obiect.";
+"ê°œëŸ‰ëœ í›„ ì•„ì´í…œì˜ ë ˆë²¨ ì œí•œë³´ë‹¤ ë ˆë²¨ì´ ë‚®ìŠµë‹ˆë‹¤.";
+"Nivelul tÄƒu este prea scÄƒzut pentru a folosi acest obiect.";
 
-"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
-"Poşi folosi plãcinta lunã doar o datã la 5 secunde.";
+"ì›”ë³‘,ì¢…ì ì‚¬ìš©í›„ 5ì´ˆë™ì•ˆ ì‚¬ìš©í• ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ";
+"PoÅ£i folosi plÄƒcinta lunÄƒ doar o datÄƒ la 5 secunde.";
 
-"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
-"Nu poşi folosi acest obiect în duel.";
+"ëŒ€ë ¨ ì¤‘ì—ëŠ” ì´ìš©í•  ìˆ˜ ì—†ëŠ” ë¬¼í’ˆì…ë‹ˆë‹¤.";
+"Nu poÅ£i folosi acest obiect Ã®n duel.";
 
-"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
-"Ai câºtigat %d Yang.";
+"%d ëƒ¥ì„ íšë“í•˜ì…¨ìŠµë‹ˆë‹¤.";
+"Ai cÃ¢ÅŸtigat %d Yang.";
 
-"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
-"Nu poşi face un foc de tabãrã aici.";
+"ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ëŠ” ì§€ì ì…ë‹ˆë‹¤.";
+"Nu poÅ£i face un foc de tabÄƒrÄƒ aici.";
 
-"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
-"Nu poşi face un foc de tabãrã în apã.";
+"ë¬¼ ì†ì— ëª¨ë‹¥ë¶ˆì„ í”¼ìš¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"Nu poÅ£i face un foc de tabÄƒrÄƒ Ã®n apÄƒ.";
 
-"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
-"Încuiat. Ar trebui sã cauşi cheia.";
+"ì—´ì‡ ë¡œ ì ê²¨ ìˆì–´ì„œ ì—´ë¦¬ì§€ ì•ŠëŠ”ê²ƒ ê°™ë‹¤. ì—´ì‡ ë¥¼ êµ¬í•´ë³´ì.";
+"Ãncuiat. Ar trebui sÄƒ cauÅ£i cheia.";
 
-"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
+"ì—´ì‡ ë¡œ ì—¬ëŠ” ë¬¼ê±´ì´ ì•„ë‹Œê²ƒ ê°™ë‹¤.";
 "Acest obiect nu poate fi deschis cu o cheie.";
 
-"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
-"Aceasta este cheia corectã.";
+"ì—´ì‡ ëŠ” ë§ìœ¼ë‚˜ ì•„ì´í…œ ì£¼ëŠ” ë¶€ë¶„ êµ¬í˜„ì´ ì•ˆë˜ì—ˆìŠµë‹ˆë‹¤.";
+"Aceasta este cheia corectÄƒ.";
 
-"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
+"ëˆ %d ëƒ¥ì„ íšë“í–ˆìŠµë‹ˆë‹¤.";
 "Ai primit %d Yang.";
 
-"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
-"Din cutie iese luminã misterioasã.";
+"ìƒìì—ì„œ ë¶€í„° ì‹ ë¹„í•œ ë¹›ì´ ë‚˜ì˜µë‹ˆë‹¤.";
+"Din cutie iese luminÄƒ misterioasÄƒ.";
 
-"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
-"Ai primit %d experienşã.";
+"%dì˜ ê²½í—˜ì¹˜ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.";
+"Ai primit %d experienÅ£Äƒ.";
 
-"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
-"Priveºte ce a ieºit din cutie!";
+"ìƒìì—ì„œ ëª¬ìŠ¤í„°ê°€ ë‚˜íƒ€ë‚¬ìŠµë‹ˆë‹¤!";
+"Priveí‹Še ce a ieíŠ·t din cutie!";
 
-"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
-"[Breaslã] Nivelul breslei este prea mic.";
+"<ê¸¸ë“œ> ë ˆë” ì ìˆ˜ê°€ ëª¨ìë¼ì„œ ê¸¸ë“œì „ì„ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.";
+"[BreaslÄƒ] Nivelul breslei este prea mic.";
 
-"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
-"Dacã inhalezi fumul roºu din cutie îşi creºte repeziciunea.";
+"ìƒìì—ì„œ ë‚˜ì˜¨ ë¹¨ê°„ ì—°ê¸°ë¥¼ ë“¤ì´ë§ˆì‹œì ì›€ì§ì´ëŠ” ì†ë„ê°€ ëŠë ¤ì¡ŒìŠµë‹ˆë‹¤!";
+"DacÄƒ inhalezi fumul roÅŸu din cutie Ã®Å£i creÅŸte repeziciunea.";
 
-"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"ë” ì´ìƒ ì´ ì•„ì´í…œìœ¼ë¡œ ì†ì„±ì„ ì¶”ê°€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤";
 "You cannot add more bonus.";
 
-"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"ì„±ê³µì ìœ¼ë¡œ ì†ì„±ì´ ì¶”ê°€ ë˜ì—ˆìŠµë‹ˆë‹¤";
 "New bonus added successfully.";
 
-"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"ë³€ê²½ ì‹œí‚¬ ì†ì„±ì´ ì—†ìŠµë‹ˆë‹¤";
 "You cannot change the bonuses.";
 
-"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"%sì´ í•„ìš”í•©ë‹ˆë‹¤.";
 "%s needed.";
 
-"¹®Á¦ ÀÔ´Ï´Ù.";
+"ë¬¸ì œ ì…ë‹ˆë‹¤.";
 "OX-Question: ";

@@ -61,16 +61,16 @@ VNUM	LOCALE_NAME
 67	Espada de Prata+7
 68	Espada de Prata+8
 69	Espada de Prata+9
-70	Espada OrquÌdea+0
-71	Espada OrquÌdea+1
-72	Espada OrquÌdea+2
-73	Espada OrquÌdea+3
-74	Espada OrquÌdea+4
-75	Espada OrquÌdea+5
-76	Espada OrquÌdea+6
-77	Espada OrquÌdea+7
-78	Espada OrquÌdea+8
-79	Espada OrquÌdea+9
+70	Espada Orqu√≠dea+0
+71	Espada Orqu√≠dea+1
+72	Espada Orqu√≠dea+2
+73	Espada Orqu√≠dea+3
+74	Espada Orqu√≠dea+4
+75	Espada Orqu√≠dea+5
+76	Espada Orqu√≠dea+6
+77	Espada Orqu√≠dea+7
+78	Espada Orqu√≠dea+8
+79	Espada Orqu√≠dea+9
 80	Espada Bastarda+0
 81	Espada Bastarda+1
 82	Espada Bastarda+2
@@ -81,16 +81,16 @@ VNUM	LOCALE_NAME
 87	Espada Bastarda+7
 88	Espada Bastarda+8
 89	Espada Bastarda+9
-90	Espada B·rbara+0
-91	Espada B·rbara+1
-92	Espada B·rbara+2
-93	Espada B·rbara+3
-94	Espada B·rbara+4
-95	Espada B·rbara+5
-96	Espada B·rbara+6
-97	Espada B·rbara+7
-98	Espada B·rbara+8
-99	Espada B·rbara+9
+90	Espada B√°rbara+0
+91	Espada B√°rbara+1
+92	Espada B√°rbara+2
+93	Espada B√°rbara+3
+94	Espada B√°rbara+4
+95	Espada B√°rbara+5
+96	Espada B√°rbara+6
+97	Espada B√°rbara+7
+98	Espada B√°rbara+8
+99	Espada B√°rbara+9
 100	Espada Sangrenta+0
 101	Espada Sangrenta+1
 102	Espada Sangrenta+2
@@ -141,16 +141,16 @@ VNUM	LOCALE_NAME
 147	Espada de Batalha+7
 148	Espada de Batalha+8
 149	Espada de Batalha+9
-150	L‚mina Zanna Fantasma+0
-151	L‚mina Zanna Fantasma+1
-152	L‚mina Zanna Fantasma+2
-153	L‚mina Zanna Fantasma+3
-154	L‚mina Zanna Fantasma+4
-155	L‚mina Zanna Fantasma+5
-156	L‚mina Zanna Fantasma+6
-157	L‚mina Zanna Fantasma+7
-158	L‚mina Zanna Fantasma+8
-159	L‚mina Zanna Fantasma+9
+150	L√¢mina Zanna Fantasma+0
+151	L√¢mina Zanna Fantasma+1
+152	L√¢mina Zanna Fantasma+2
+153	L√¢mina Zanna Fantasma+3
+154	L√¢mina Zanna Fantasma+4
+155	L√¢mina Zanna Fantasma+5
+156	L√¢mina Zanna Fantasma+6
+157	L√¢mina Zanna Fantasma+7
+158	L√¢mina Zanna Fantasma+8
+159	L√¢mina Zanna Fantasma+9
 160	Espada Ninfa+0
 161	Espada Ninfa+1
 162	Espada Ninfa+2
@@ -161,16 +161,16 @@ VNUM	LOCALE_NAME
 167	Espada Ninfa+7
 168	Espada Ninfa+8
 169	Espada Ninfa+9
-170	Espada Ferr„o+0
-171	Espada Ferr„o+1
-172	Espada Ferr„o+2
-173	Espada Ferr„o+3
-174	Espada Ferr„o+4
-175	Espada Ferr„o+5
-176	Espada Ferr„o+6
-177	Espada Ferr„o+7
-178	Espada Ferr„o+8
-179	Espada Ferr„o+9
+170	Espada Ferr√£o+0
+171	Espada Ferr√£o+1
+172	Espada Ferr√£o+2
+173	Espada Ferr√£o+3
+174	Espada Ferr√£o+4
+175	Espada Ferr√£o+5
+176	Espada Ferr√£o+6
+177	Espada Ferr√£o+7
+178	Espada Ferr√£o+8
+179	Espada Ferr√£o+9
 180	Espada Venenosa+0
 181	Espada Venenosa+1
 182	Espada Venenosa+2
@@ -181,36 +181,36 @@ VNUM	LOCALE_NAME
 187	Espada Venenosa+7
 188	Espada Venenosa+8
 189	Espada Venenosa+9
-190	Espada Le„o+0
-191	Espada Le„o+1
-192	Espada Le„o+2
-193	Espada Le„o+3
-194	Espada Le„o+4
-195	Espada Le„o+5
-196	Espada Le„o+6
-197	Espada Le„o+7
-198	Espada Le„o+8
-199	Espada Le„o+9
-200	L‚mina Cortante+0
-201	L‚mina Cortante+1
-202	L‚mina Cortante+2
-203	L‚mina Cortante+3
-204	L‚mina Cortante+4
-205	L‚mina Cortante+5
-206	L‚mina Cortante+6
-207	L‚mina Cortante+7
-208	L‚mina Cortante+8
-209	L‚mina Cortante+9
-210	L‚mina Mortal+0
-211	L‚mina Mortal+1
-212	L‚mina Mortal+2
-213	L‚mina Mortal+3
-214	L‚mina Mortal+4
-215	L‚mina Mortal+5
-216	L‚mina Mortal+6
-217	L‚mina Mortal+7
-218	L‚mina Mortal+8
-219	L‚mina Mortal+9
+190	Espada Le√£o+0
+191	Espada Le√£o+1
+192	Espada Le√£o+2
+193	Espada Le√£o+3
+194	Espada Le√£o+4
+195	Espada Le√£o+5
+196	Espada Le√£o+6
+197	Espada Le√£o+7
+198	Espada Le√£o+8
+199	Espada Le√£o+9
+200	L√¢mina Cortante+0
+201	L√¢mina Cortante+1
+202	L√¢mina Cortante+2
+203	L√¢mina Cortante+3
+204	L√¢mina Cortante+4
+205	L√¢mina Cortante+5
+206	L√¢mina Cortante+6
+207	L√¢mina Cortante+7
+208	L√¢mina Cortante+8
+209	L√¢mina Cortante+9
+210	L√¢mina Mortal+0
+211	L√¢mina Mortal+1
+212	L√¢mina Mortal+2
+213	L√¢mina Mortal+3
+214	L√¢mina Mortal+4
+215	L√¢mina Mortal+5
+216	L√¢mina Mortal+6
+217	L√¢mina Mortal+7
+218	L√¢mina Mortal+8
+219	L√¢mina Mortal+9
 220	Espada Lunar+0
 221	Espada Lunar+1
 222	Espada Lunar+2
@@ -241,36 +241,36 @@ VNUM	LOCALE_NAME
 247	Espada de Exorcismo+7
 248	Espada de Exorcismo+8
 249	Espada de Exorcismo+9
-250	L‚mina DemonÌaca+0
-251	L‚mina DemonÌaca+1
-252	L‚mina DemonÌaca+2
-253	L‚mina DemonÌaca+3
-254	L‚mina DemonÌaca+4
-255	L‚mina DemonÌaca+5
-256	L‚mina DemonÌaca+6
-257	L‚mina DemonÌaca+7
-258	L‚mina DemonÌaca+8
-259	L‚mina DemonÌaca+9
-260	Espada Bar„o+0
-261	Espada Bar„o+1
-262	Espada Bar„o+2
-263	Espada Bar„o+3
-264	Espada Bar„o+4
-265	Espada Bar„o+5
-266	Espada Bar„o+6
-267	Espada Bar„o+7
-268	Espada Bar„o+8
-269	Espada Bar„o+9
-270	Espada SÌrius+0
-271	Espada SÌrius+1
-272	Espada SÌrius+2
-273	Espada SÌrius+3
-274	Espada SÌrius+4
-275	Espada SÌrius+5
-276	Espada SÌrius+6
-277	Espada SÌrius+7
-278	Espada SÌrius+8
-279	Espada SÌrius+9
+250	L√¢mina Demon√≠aca+0
+251	L√¢mina Demon√≠aca+1
+252	L√¢mina Demon√≠aca+2
+253	L√¢mina Demon√≠aca+3
+254	L√¢mina Demon√≠aca+4
+255	L√¢mina Demon√≠aca+5
+256	L√¢mina Demon√≠aca+6
+257	L√¢mina Demon√≠aca+7
+258	L√¢mina Demon√≠aca+8
+259	L√¢mina Demon√≠aca+9
+260	Espada Bar√£o+0
+261	Espada Bar√£o+1
+262	Espada Bar√£o+2
+263	Espada Bar√£o+3
+264	Espada Bar√£o+4
+265	Espada Bar√£o+5
+266	Espada Bar√£o+6
+267	Espada Bar√£o+7
+268	Espada Bar√£o+8
+269	Espada Bar√£o+9
+270	Espada S√≠rius+0
+271	Espada S√≠rius+1
+272	Espada S√≠rius+2
+273	Espada S√≠rius+3
+274	Espada S√≠rius+4
+275	Espada S√≠rius+5
+276	Espada S√≠rius+6
+277	Espada S√≠rius+7
+278	Espada S√≠rius+8
+279	Espada S√≠rius+9
 280	Espada Sagrada+0
 281	Espada Sagrada+1
 282	Espada Sagrada+2
@@ -291,26 +291,26 @@ VNUM	LOCALE_NAME
 297	Espada Lua Cheia+7
 298	Espada Lua Cheia+8
 299	Espada Lua Cheia+9
-460	Espada R˙nica+0
-461	Espada R˙nica+1
-462	Espada R˙nica+2
-463	Espada R˙nica+3
-464	Espada R˙nica+4
-465	Espada R˙nica+5
-466	Espada R˙nica+6
-467	Espada R˙nica+7
-468	Espada R˙nica+8
-469	Espada R˙nica+9
-470	L‚mina Dente de Drag„o+0
-471	L‚mina Dente de Drag„o+1
-472	L‚mina Dente de Drag„o+2
-473	L‚mina Dente de Drag„o+3
-474	L‚mina Dente de Drag„o+4
-475	L‚mina Dente de Drag„o+5
-476	L‚mina Dente de Drag„o+6
-477	L‚mina Dente de Drag„o+7
-478	L‚mina Dente de Drag„o+8
-479	L‚mina Dente de Drag„o+9
+460	Espada R√∫nica+0
+461	Espada R√∫nica+1
+462	Espada R√∫nica+2
+463	Espada R√∫nica+3
+464	Espada R√∫nica+4
+465	Espada R√∫nica+5
+466	Espada R√∫nica+6
+467	Espada R√∫nica+7
+468	Espada R√∫nica+8
+469	Espada R√∫nica+9
+470	L√¢mina Dente de Drag√£o+0
+471	L√¢mina Dente de Drag√£o+1
+472	L√¢mina Dente de Drag√£o+2
+473	L√¢mina Dente de Drag√£o+3
+474	L√¢mina Dente de Drag√£o+4
+475	L√¢mina Dente de Drag√£o+5
+476	L√¢mina Dente de Drag√£o+6
+477	L√¢mina Dente de Drag√£o+7
+478	L√¢mina Dente de Drag√£o+8
+479	L√¢mina Dente de Drag√£o+9
 1000	Adaga+0
 1001	Adaga+1
 1002	Adaga+2
@@ -361,16 +361,16 @@ VNUM	LOCALE_NAME
 1047	Faca Gato+7
 1048	Faca Gato+8
 1049	Faca Gato+9
-1050	Adaga DiabÛlica+0
-1051	Adaga DiabÛlica+1
-1052	Adaga DiabÛlica+2
-1053	Adaga DiabÛlica+3
-1054	Adaga DiabÛlica+4
-1055	Adaga DiabÛlica+5
-1056	Adaga DiabÛlica+6
-1057	Adaga DiabÛlica+7
-1058	Adaga DiabÛlica+8
-1059	Adaga DiabÛlica+9
+1050	Adaga Diab√≥lica+0
+1051	Adaga Diab√≥lica+1
+1052	Adaga Diab√≥lica+2
+1053	Adaga Diab√≥lica+3
+1054	Adaga Diab√≥lica+4
+1055	Adaga Diab√≥lica+5
+1056	Adaga Diab√≥lica+6
+1057	Adaga Diab√≥lica+7
+1058	Adaga Diab√≥lica+8
+1059	Adaga Diab√≥lica+9
 1060	Adaga Punho do Diabo+0
 1061	Adaga Punho do Diabo+1
 1062	Adaga Punho do Diabo+2
@@ -411,26 +411,26 @@ VNUM	LOCALE_NAME
 1097	Chakram+7
 1098	Chakram+8
 1099	Chakram+9
-1100	Faca Drag„o+0
-1101	Faca Drag„o+1
-1102	Faca Drag„o+2
-1103	Faca Drag„o+3
-1104	Faca Drag„o+4
-1105	Faca Drag„o+5
-1106	Faca Drag„o+6
-1107	Faca Drag„o+7
-1108	Faca Drag„o+8
-1109	Faca Drag„o+9
-1110	Faca Rel‚mpago+0
-1111	Faca Rel‚mpago+1
-1112	Faca Rel‚mpago+2
-1113	Faca Rel‚mpago+3
-1114	Faca Rel‚mpago+4
-1115	Faca Rel‚mpago+5
-1116	Faca Rel‚mpago+6
-1117	Faca Rel‚mpago+7
-1118	Faca Rel‚mpago+8
-1119	Faca Rel‚mpago+9
+1100	Faca Drag√£o+0
+1101	Faca Drag√£o+1
+1102	Faca Drag√£o+2
+1103	Faca Drag√£o+3
+1104	Faca Drag√£o+4
+1105	Faca Drag√£o+5
+1106	Faca Drag√£o+6
+1107	Faca Drag√£o+7
+1108	Faca Drag√£o+8
+1109	Faca Drag√£o+9
+1110	Faca Rel√¢mpago+0
+1111	Faca Rel√¢mpago+1
+1112	Faca Rel√¢mpago+2
+1113	Faca Rel√¢mpago+3
+1114	Faca Rel√¢mpago+4
+1115	Faca Rel√¢mpago+5
+1116	Faca Rel√¢mpago+6
+1117	Faca Rel√¢mpago+7
+1118	Faca Rel√¢mpago+8
+1119	Faca Rel√¢mpago+9
 1120	Facas Siamesas+0
 1121	Facas Siamesas+1
 1122	Facas Siamesas+2
@@ -491,16 +491,16 @@ VNUM	LOCALE_NAME
 1177	Adaga Folha Negra+7
 1178	Adaga Folha Negra+8
 1179	Adaga Folha Negra+9
-1340	L‚mina Cinco Elementos+0
-1341	L‚mina Cinco Elementos+1
-1342	L‚mina Cinco Elementos+2
-1343	L‚mina Cinco Elementos+3
-1344	L‚mina Cinco Elementos+4
-1345	L‚mina Cinco Elementos+5
-1346	L‚mina Cinco Elementos+6
-1347	L‚mina Cinco Elementos+7
-1348	L‚mina Cinco Elementos+8
-1349	L‚mina Cinco Elementos+9
+1340	L√¢mina Cinco Elementos+0
+1341	L√¢mina Cinco Elementos+1
+1342	L√¢mina Cinco Elementos+2
+1343	L√¢mina Cinco Elementos+3
+1344	L√¢mina Cinco Elementos+4
+1345	L√¢mina Cinco Elementos+5
+1346	L√¢mina Cinco Elementos+6
+1347	L√¢mina Cinco Elementos+7
+1348	L√¢mina Cinco Elementos+8
+1349	L√¢mina Cinco Elementos+9
 2000	Arco+0
 2001	Arco+1
 2002	Arco+2
@@ -551,16 +551,16 @@ VNUM	LOCALE_NAME
 2047	Arco de Montada+7
 2048	Arco de Montada+8
 2049	Arco de Montada+9
-2050	Arco de CaÁa+0
-2051	Arco de CaÁa+1
-2052	Arco de CaÁa+2
-2053	Arco de CaÁa+3
-2054	Arco de CaÁa+4
-2055	Arco de CaÁa+5
-2056	Arco de CaÁa+6
-2057	Arco de CaÁa+7
-2058	Arco de CaÁa+8
-2059	Arco de CaÁa+9
+2050	Arco de Ca√ßa+0
+2051	Arco de Ca√ßa+1
+2052	Arco de Ca√ßa+2
+2053	Arco de Ca√ßa+3
+2054	Arco de Ca√ßa+4
+2055	Arco de Ca√ßa+5
+2056	Arco de Ca√ßa+6
+2057	Arco de Ca√ßa+7
+2058	Arco de Ca√ßa+8
+2059	Arco de Ca√ßa+9
 2060	Arco de Cobre+0
 2061	Arco de Cobre+1
 2062	Arco de Cobre+2
@@ -571,16 +571,16 @@ VNUM	LOCALE_NAME
 2067	Arco de Cobre+7
 2068	Arco de Cobre+8
 2069	Arco de Cobre+9
-2070	Arco RuÌna Negra+0
-2071	Arco RuÌna Negra+1
-2072	Arco RuÌna Negra+2
-2073	Arco RuÌna Negra+3
-2074	Arco RuÌna Negra+4
-2075	Arco RuÌna Negra+5
-2076	Arco RuÌna Negra+6
-2077	Arco RuÌna Negra+7
-2078	Arco RuÌna Negra+8
-2079	Arco RuÌna Negra+9
+2070	Arco Ru√≠na Negra+0
+2071	Arco Ru√≠na Negra+1
+2072	Arco Ru√≠na Negra+2
+2073	Arco Ru√≠na Negra+3
+2074	Arco Ru√≠na Negra+4
+2075	Arco Ru√≠na Negra+5
+2076	Arco Ru√≠na Negra+6
+2077	Arco Ru√≠na Negra+7
+2078	Arco Ru√≠na Negra+8
+2079	Arco Ru√≠na Negra+9
 2080	Arco Olho Rubi+0
 2081	Arco Olho Rubi+1
 2082	Arco Olho Rubi+2
@@ -591,16 +591,16 @@ VNUM	LOCALE_NAME
 2087	Arco Olho Rubi+7
 2088	Arco Olho Rubi+8
 2089	Arco Olho Rubi+9
-2090	Arco Aguilh„o+0
-2091	Arco Aguilh„o+1
-2092	Arco Aguilh„o+2
-2093	Arco Aguilh„o+3
-2094	Arco Aguilh„o+4
-2095	Arco Aguilh„o+5
-2096	Arco Aguilh„o+6
-2097	Arco Aguilh„o+7
-2098	Arco Aguilh„o+8
-2099	Arco Aguilh„o+9
+2090	Arco Aguilh√£o+0
+2091	Arco Aguilh√£o+1
+2092	Arco Aguilh√£o+2
+2093	Arco Aguilh√£o+3
+2094	Arco Aguilh√£o+4
+2095	Arco Aguilh√£o+5
+2096	Arco Aguilh√£o+6
+2097	Arco Aguilh√£o+7
+2098	Arco Aguilh√£o+8
+2099	Arco Aguilh√£o+9
 2100	Arco Corno de Touro+0
 2101	Arco Corno de Touro+1
 2102	Arco Corno de Touro+2
@@ -611,16 +611,16 @@ VNUM	LOCALE_NAME
 2107	Arco Corno de Touro+7
 2108	Arco Corno de Touro+8
 2109	Arco Corno de Touro+9
-2110	Arco do UnicÛrnio+0
-2111	Arco do UnicÛrnio+1
-2112	Arco do UnicÛrnio+2
-2113	Arco do UnicÛrnio+3
-2114	Arco do UnicÛrnio+4
-2115	Arco do UnicÛrnio+5
-2116	Arco do UnicÛrnio+6
-2117	Arco do UnicÛrnio+7
-2118	Arco do UnicÛrnio+8
-2119	Arco do UnicÛrnio+9
+2110	Arco do Unic√≥rnio+0
+2111	Arco do Unic√≥rnio+1
+2112	Arco do Unic√≥rnio+2
+2113	Arco do Unic√≥rnio+3
+2114	Arco do Unic√≥rnio+4
+2115	Arco do Unic√≥rnio+5
+2116	Arco do Unic√≥rnio+6
+2117	Arco do Unic√≥rnio+7
+2118	Arco do Unic√≥rnio+8
+2119	Arco do Unic√≥rnio+9
 2120	Arco Asa Gigante+0
 2121	Arco Asa Gigante+1
 2122	Arco Asa Gigante+2
@@ -641,36 +641,36 @@ VNUM	LOCALE_NAME
 2137	Arco Damasco Divino+7
 2138	Arco Damasco Divino+8
 2139	Arco Damasco Divino+9
-2140	Arco Drag„o Amarelo+0
-2141	Arco Drag„o Amarelo+1
-2142	Arco Drag„o Amarelo+2
-2143	Arco Drag„o Amarelo+3
-2144	Arco Drag„o Amarelo+4
-2145	Arco Drag„o Amarelo+5
-2146	Arco Drag„o Amarelo+6
-2147	Arco Drag„o Amarelo+7
-2148	Arco Drag„o Amarelo+8
-2149	Arco Drag„o Amarelo+9
-2150	Arco de ArmaÁ„o+0
-2151	Arco de ArmaÁ„o+1
-2152	Arco de ArmaÁ„o+2
-2153	Arco de ArmaÁ„o+3
-2154	Arco de ArmaÁ„o+4
-2155	Arco de ArmaÁ„o+5
-2156	Arco de ArmaÁ„o+6
-2157	Arco de ArmaÁ„o+7
-2158	Arco de ArmaÁ„o+8
-2159	Arco de ArmaÁ„o+9
-2160	Arco Gigante DiabÛlico+0
-2161	Arco Gigante DiabÛlico+1
-2162	Arco Gigante DiabÛlico+2
-2163	Arco Gigante DiabÛlico+3
-2164	Arco Gigante DiabÛlico+4
-2165	Arco Gigante DiabÛlico+5
-2166	Arco Gigante DiabÛlico+6
-2167	Arco Gigante DiabÛlico+7
-2168	Arco Gigante DiabÛlico+8
-2169	Arco Gigante DiabÛlico+9
+2140	Arco Drag√£o Amarelo+0
+2141	Arco Drag√£o Amarelo+1
+2142	Arco Drag√£o Amarelo+2
+2143	Arco Drag√£o Amarelo+3
+2144	Arco Drag√£o Amarelo+4
+2145	Arco Drag√£o Amarelo+5
+2146	Arco Drag√£o Amarelo+6
+2147	Arco Drag√£o Amarelo+7
+2148	Arco Drag√£o Amarelo+8
+2149	Arco Drag√£o Amarelo+9
+2150	Arco de Arma√ß√£o+0
+2151	Arco de Arma√ß√£o+1
+2152	Arco de Arma√ß√£o+2
+2153	Arco de Arma√ß√£o+3
+2154	Arco de Arma√ß√£o+4
+2155	Arco de Arma√ß√£o+5
+2156	Arco de Arma√ß√£o+6
+2157	Arco de Arma√ß√£o+7
+2158	Arco de Arma√ß√£o+8
+2159	Arco de Arma√ß√£o+9
+2160	Arco Gigante Diab√≥lico+0
+2161	Arco Gigante Diab√≥lico+1
+2162	Arco Gigante Diab√≥lico+2
+2163	Arco Gigante Diab√≥lico+3
+2164	Arco Gigante Diab√≥lico+4
+2165	Arco Gigante Diab√≥lico+5
+2166	Arco Gigante Diab√≥lico+6
+2167	Arco Gigante Diab√≥lico+7
+2168	Arco Gigante Diab√≥lico+8
+2169	Arco Gigante Diab√≥lico+9
 2170	Arco Corvo Negro+0
 2171	Arco Corvo Negro+1
 2172	Arco Corvo Negro+2
@@ -681,16 +681,16 @@ VNUM	LOCALE_NAME
 2177	Arco Corvo Negro+7
 2178	Arco Corvo Negro+8
 2179	Arco Corvo Negro+9
-2180	Arco Drag„o Azul+0
-2181	Arco Drag„o Azul+1
-2182	Arco Drag„o Azul+2
-2183	Arco Drag„o Azul+3
-2184	Arco Drag„o Azul+4
-2185	Arco Drag„o Azul+5
-2186	Arco Drag„o Azul+6
-2187	Arco Drag„o Azul+7
-2188	Arco Drag„o Azul+8
-2189	Arco Drag„o Azul+9
+2180	Arco Drag√£o Azul+0
+2181	Arco Drag√£o Azul+1
+2182	Arco Drag√£o Azul+2
+2183	Arco Drag√£o Azul+3
+2184	Arco Drag√£o Azul+4
+2185	Arco Drag√£o Azul+5
+2186	Arco Drag√£o Azul+6
+2187	Arco Drag√£o Azul+7
+2188	Arco Drag√£o Azul+8
+2189	Arco Drag√£o Azul+9
 2190	Besta Fantasma+0
 2191	Besta Fantasma+1
 2192	Besta Fantasma+2
@@ -701,16 +701,16 @@ VNUM	LOCALE_NAME
 2197	Besta Fantasma+7
 2198	Besta Fantasma+8
 2199	Besta Fantasma+9
-2370	Arco de FÈnix+0
-2371	Arco de FÈnix+1
-2372	Arco de FÈnix+2
-2373	Arco de FÈnix+3
-2374	Arco de FÈnix+4
-2375	Arco de FÈnix+5
-2376	Arco de FÈnix+6
-2377	Arco de FÈnix+7
-2378	Arco de FÈnix+8
-2379	Arco de FÈnix+9
+2370	Arco de F√©nix+0
+2371	Arco de F√©nix+1
+2372	Arco de F√©nix+2
+2373	Arco de F√©nix+3
+2374	Arco de F√©nix+4
+2375	Arco de F√©nix+5
+2376	Arco de F√©nix+6
+2377	Arco de F√©nix+7
+2378	Arco de F√©nix+8
+2379	Arco de F√©nix+9
 3000	Glava+0
 3001	Glava+1
 3002	Glava+2
@@ -721,36 +721,36 @@ VNUM	LOCALE_NAME
 3007	Glava+7
 3008	Glava+8
 3009	Glava+9
-3010	LanÁa+0
-3011	LanÁa+1
-3012	LanÁa+2
-3013	LanÁa+3
-3014	LanÁa+4
-3015	LanÁa+5
-3016	LanÁa+6
-3017	LanÁa+7
-3018	LanÁa+8
-3019	LanÁa+9
-3020	L‚mina Guilhotina+0
-3021	L‚mina Guilhotina+1
-3022	L‚mina Guilhotina+2
-3023	L‚mina Guilhotina+3
-3024	L‚mina Guilhotina+4
-3025	L‚mina Guilhotina+5
-3026	L‚mina Guilhotina+6
-3027	L‚mina Guilhotina+7
-3028	L‚mina Guilhotina+8
-3029	L‚mina Guilhotina+9
-3030	LanÁa Aranha+0
-3031	LanÁa Aranha+1
-3032	LanÁa Aranha+2
-3033	LanÁa Aranha+3
-3034	LanÁa Aranha+4
-3035	LanÁa Aranha+5
-3036	LanÁa Aranha+6
-3037	LanÁa Aranha+7
-3038	LanÁa Aranha+8
-3039	LanÁa Aranha+9
+3010	Lan√ßa+0
+3011	Lan√ßa+1
+3012	Lan√ßa+2
+3013	Lan√ßa+3
+3014	Lan√ßa+4
+3015	Lan√ßa+5
+3016	Lan√ßa+6
+3017	Lan√ßa+7
+3018	Lan√ßa+8
+3019	Lan√ßa+9
+3020	L√¢mina Guilhotina+0
+3021	L√¢mina Guilhotina+1
+3022	L√¢mina Guilhotina+2
+3023	L√¢mina Guilhotina+3
+3024	L√¢mina Guilhotina+4
+3025	L√¢mina Guilhotina+5
+3026	L√¢mina Guilhotina+6
+3027	L√¢mina Guilhotina+7
+3028	L√¢mina Guilhotina+8
+3029	L√¢mina Guilhotina+9
+3030	Lan√ßa Aranha+0
+3031	Lan√ßa Aranha+1
+3032	Lan√ßa Aranha+2
+3033	Lan√ßa Aranha+3
+3034	Lan√ßa Aranha+4
+3035	Lan√ßa Aranha+5
+3036	Lan√ßa Aranha+6
+3037	Lan√ßa Aranha+7
+3038	Lan√ßa Aranha+8
+3039	Lan√ßa Aranha+9
 3040	Guisarma+0
 3041	Guisarma+1
 3042	Guisarma+2
@@ -811,126 +811,126 @@ VNUM	LOCALE_NAME
 3097	Tridente Glacial+7
 3098	Tridente Glacial+8
 3099	Tridente Glacial+9
-3100	Espada Doze EspÌritos+0
-3101	Espada Doze EspÌritos+1
-3102	Espada Doze EspÌritos+2
-3103	Espada Doze EspÌritos+3
-3104	Espada Doze EspÌritos+4
-3105	Espada Doze EspÌritos+5
-3106	Espada Doze EspÌritos+6
-3107	Espada Doze EspÌritos+7
-3108	Espada Doze EspÌritos+8
-3109	Espada Doze EspÌritos+9
-3110	L‚mina da SalvaÁ„o+0
-3111	L‚mina da SalvaÁ„o+1
-3112	L‚mina da SalvaÁ„o+2
-3113	L‚mina da SalvaÁ„o+3
-3114	L‚mina da SalvaÁ„o+4
-3115	L‚mina da SalvaÁ„o+5
-3116	L‚mina da SalvaÁ„o+6
-3117	L‚mina da SalvaÁ„o+7
-3118	L‚mina da SalvaÁ„o+8
-3119	L‚mina da SalvaÁ„o+9
-3120	Matador de Leıes+0
-3121	Matador de Leıes+1
-3122	Matador de Leıes+2
-3123	Matador de Leıes+3
-3124	Matador de Leıes+4
-3125	Matador de Leıes+5
-3126	Matador de Leıes+6
-3127	Matador de Leıes+7
-3128	Matador de Leıes+8
-3129	Matador de Leıes+9
-3130	Partid·rio+0
-3131	Partid·rio+1
-3132	Partid·rio+2
-3133	Partid·rio+3
-3134	Partid·rio+4
-3135	Partid·rio+5
-3136	Partid·rio+6
-3137	Partid·rio+7
-3138	Partid·rio+8
-3139	Partid·rio+9
-3140	L‚mina MagnÈtica+0
-3141	L‚mina MagnÈtica+1
-3142	L‚mina MagnÈtica+2
-3143	L‚mina MagnÈtica+3
-3144	L‚mina MagnÈtica+4
-3145	L‚mina MagnÈtica+5
-3146	L‚mina MagnÈtica+6
-3147	L‚mina MagnÈtica+7
-3148	L‚mina MagnÈtica+8
-3149	L‚mina MagnÈtica+9
-3150	L‚mina Ladr„o de Almas+0
-3151	L‚mina Ladr„o de Almas+1
-3152	L‚mina Ladr„o de Almas+2
-3153	L‚mina Ladr„o de Almas+3
-3154	L‚mina Ladr„o de Almas+4
-3155	L‚mina Ladr„o de Almas+5
-3156	L‚mina Ladr„o de Almas+6
-3157	L‚mina Ladr„o de Almas+7
-3158	L‚mina Ladr„o de Almas+8
-3159	L‚mina Ladr„o de Almas+9
-3160	Espada do ”dio+0
-3161	Espada do ”dio+1
-3162	Espada do ”dio+2
-3163	Espada do ”dio+3
-3164	Espada do ”dio+4
-3165	Espada do ”dio+5
-3166	Espada do ”dio+6
-3167	Espada do ”dio+7
-3168	Espada do ”dio+8
-3169	Espada do ”dio+9
-3170	Matador Drag„o Amarelo+0
-3171	Matador Drag„o Amarelo+1
-3172	Matador Drag„o Amarelo+2
-3173	Matador Drag„o Amarelo+3
-3174	Matador Drag„o Amarelo+4
-3175	Matador Drag„o Amarelo+5
-3176	Matador Drag„o Amarelo+6
-3177	Matador Drag„o Amarelo+7
-3178	Matador Drag„o Amarelo+8
-3179	Matador Drag„o Amarelo+9
-3180	Matador Drag„o Azul+0
-3181	Matador Drag„o Azul+1
-3182	Matador Drag„o Azul+2
-3183	Matador Drag„o Azul+3
-3184	Matador Drag„o Azul+4
-3185	Matador Drag„o Azul+5
-3186	Matador Drag„o Azul+6
-3187	Matador Drag„o Azul+7
-3188	Matador Drag„o Azul+8
-3189	Matador Drag„o Azul+9
-3190	L‚mina Solar+0
-3191	L‚mina Solar+1
-3192	L‚mina Solar+2
-3193	L‚mina Solar+3
-3194	L‚mina Solar+4
-3195	L‚mina Solar+5
-3196	L‚mina Solar+6
-3197	L‚mina Solar+7
-3198	L‚mina Solar+8
-3199	L‚mina Solar+9
-3200	Espada Deus Drag„o+0
-3201	Espada Deus Drag„o+1
-3202	Espada Deus Drag„o+2
-3203	Espada Deus Drag„o+3
-3204	Espada Deus Drag„o+4
-3205	Espada Deus Drag„o+5
-3206	Espada Deus Drag„o+6
-3207	Espada Deus Drag„o+7
-3208	Espada Deus Drag„o+8
-3209	Espada Deus Drag„o+9
-3210	L‚mina Ferro Vermelho+0
-3211	L‚mina Ferro Vermelho+1
-3212	L‚mina Ferro Vermelho+2
-3213	L‚mina Ferro Vermelho+3
-3214	L‚mina Ferro Vermelho+4
-3215	L‚mina Ferro Vermelho+5
-3216	L‚mina Ferro Vermelho+6
-3217	L‚mina Ferro Vermelho+7
-3218	L‚mina Ferro Vermelho+8
-3219	L‚mina Ferro Vermelho+9
+3100	Espada Doze Esp√≠ritos+0
+3101	Espada Doze Esp√≠ritos+1
+3102	Espada Doze Esp√≠ritos+2
+3103	Espada Doze Esp√≠ritos+3
+3104	Espada Doze Esp√≠ritos+4
+3105	Espada Doze Esp√≠ritos+5
+3106	Espada Doze Esp√≠ritos+6
+3107	Espada Doze Esp√≠ritos+7
+3108	Espada Doze Esp√≠ritos+8
+3109	Espada Doze Esp√≠ritos+9
+3110	L√¢mina da Salva√ß√£o+0
+3111	L√¢mina da Salva√ß√£o+1
+3112	L√¢mina da Salva√ß√£o+2
+3113	L√¢mina da Salva√ß√£o+3
+3114	L√¢mina da Salva√ß√£o+4
+3115	L√¢mina da Salva√ß√£o+5
+3116	L√¢mina da Salva√ß√£o+6
+3117	L√¢mina da Salva√ß√£o+7
+3118	L√¢mina da Salva√ß√£o+8
+3119	L√¢mina da Salva√ß√£o+9
+3120	Matador de Le√µes+0
+3121	Matador de Le√µes+1
+3122	Matador de Le√µes+2
+3123	Matador de Le√µes+3
+3124	Matador de Le√µes+4
+3125	Matador de Le√µes+5
+3126	Matador de Le√µes+6
+3127	Matador de Le√µes+7
+3128	Matador de Le√µes+8
+3129	Matador de Le√µes+9
+3130	Partid√°rio+0
+3131	Partid√°rio+1
+3132	Partid√°rio+2
+3133	Partid√°rio+3
+3134	Partid√°rio+4
+3135	Partid√°rio+5
+3136	Partid√°rio+6
+3137	Partid√°rio+7
+3138	Partid√°rio+8
+3139	Partid√°rio+9
+3140	L√¢mina Magn√©tica+0
+3141	L√¢mina Magn√©tica+1
+3142	L√¢mina Magn√©tica+2
+3143	L√¢mina Magn√©tica+3
+3144	L√¢mina Magn√©tica+4
+3145	L√¢mina Magn√©tica+5
+3146	L√¢mina Magn√©tica+6
+3147	L√¢mina Magn√©tica+7
+3148	L√¢mina Magn√©tica+8
+3149	L√¢mina Magn√©tica+9
+3150	L√¢mina Ladr√£o de Almas+0
+3151	L√¢mina Ladr√£o de Almas+1
+3152	L√¢mina Ladr√£o de Almas+2
+3153	L√¢mina Ladr√£o de Almas+3
+3154	L√¢mina Ladr√£o de Almas+4
+3155	L√¢mina Ladr√£o de Almas+5
+3156	L√¢mina Ladr√£o de Almas+6
+3157	L√¢mina Ladr√£o de Almas+7
+3158	L√¢mina Ladr√£o de Almas+8
+3159	L√¢mina Ladr√£o de Almas+9
+3160	Espada do √ìdio+0
+3161	Espada do √ìdio+1
+3162	Espada do √ìdio+2
+3163	Espada do √ìdio+3
+3164	Espada do √ìdio+4
+3165	Espada do √ìdio+5
+3166	Espada do √ìdio+6
+3167	Espada do √ìdio+7
+3168	Espada do √ìdio+8
+3169	Espada do √ìdio+9
+3170	Matador Drag√£o Amarelo+0
+3171	Matador Drag√£o Amarelo+1
+3172	Matador Drag√£o Amarelo+2
+3173	Matador Drag√£o Amarelo+3
+3174	Matador Drag√£o Amarelo+4
+3175	Matador Drag√£o Amarelo+5
+3176	Matador Drag√£o Amarelo+6
+3177	Matador Drag√£o Amarelo+7
+3178	Matador Drag√£o Amarelo+8
+3179	Matador Drag√£o Amarelo+9
+3180	Matador Drag√£o Azul+0
+3181	Matador Drag√£o Azul+1
+3182	Matador Drag√£o Azul+2
+3183	Matador Drag√£o Azul+3
+3184	Matador Drag√£o Azul+4
+3185	Matador Drag√£o Azul+5
+3186	Matador Drag√£o Azul+6
+3187	Matador Drag√£o Azul+7
+3188	Matador Drag√£o Azul+8
+3189	Matador Drag√£o Azul+9
+3190	L√¢mina Solar+0
+3191	L√¢mina Solar+1
+3192	L√¢mina Solar+2
+3193	L√¢mina Solar+3
+3194	L√¢mina Solar+4
+3195	L√¢mina Solar+5
+3196	L√¢mina Solar+6
+3197	L√¢mina Solar+7
+3198	L√¢mina Solar+8
+3199	L√¢mina Solar+9
+3200	Espada Deus Drag√£o+0
+3201	Espada Deus Drag√£o+1
+3202	Espada Deus Drag√£o+2
+3203	Espada Deus Drag√£o+3
+3204	Espada Deus Drag√£o+4
+3205	Espada Deus Drag√£o+5
+3206	Espada Deus Drag√£o+6
+3207	Espada Deus Drag√£o+7
+3208	Espada Deus Drag√£o+8
+3209	Espada Deus Drag√£o+9
+3210	L√¢mina Ferro Vermelho+0
+3211	L√¢mina Ferro Vermelho+1
+3212	L√¢mina Ferro Vermelho+2
+3213	L√¢mina Ferro Vermelho+3
+3214	L√¢mina Ferro Vermelho+4
+3215	L√¢mina Ferro Vermelho+5
+3216	L√¢mina Ferro Vermelho+6
+3217	L√¢mina Ferro Vermelho+7
+3218	L√¢mina Ferro Vermelho+8
+3219	L√¢mina Ferro Vermelho+9
 4000	Amija+0
 4001	Amija+1
 4002	Amija+2
@@ -941,16 +941,16 @@ VNUM	LOCALE_NAME
 4007	Amija+7
 4008	Amija+8
 4009	Amija+9
-4010	Nove L‚minas+0
-4011	Nove L‚minas+1
-4012	Nove L‚minas+2
-4013	Nove L‚minas+3
-4014	Nove L‚minas+4
-4015	Nove L‚minas+5
-4016	Nove L‚minas+6
-4017	Nove L‚minas+7
-4018	Nove L‚minas+8
-4019	Nove L‚minas+9
+4010	Nove L√¢minas+0
+4011	Nove L√¢minas+1
+4012	Nove L√¢minas+2
+4013	Nove L√¢minas+3
+4014	Nove L√¢minas+4
+4015	Nove L√¢minas+5
+4016	Nove L√¢minas+6
+4017	Nove L√¢minas+7
+4018	Nove L√¢minas+8
+4019	Nove L√¢minas+9
 4020	Faca Curta+0
 4021	Faca Curta+1
 4022	Faca Curta+2
@@ -961,16 +961,16 @@ VNUM	LOCALE_NAME
 4027	Faca Curta+7
 4028	Faca Curta+8
 4029	Faca Curta+9
-4030	Adaga GÈmea Lunar+0
-4031	Adaga GÈmea Lunar+1
-4032	Adaga GÈmea Lunar+2
-4033	Adaga GÈmea Lunar+3
-4034	Adaga GÈmea Lunar+4
-4035	Adaga GÈmea Lunar+5
-4036	Adaga GÈmea Lunar+6
-4037	Adaga GÈmea Lunar+7
-4038	Adaga GÈmea Lunar+8
-4039	Adaga GÈmea Lunar+9
+4030	Adaga G√©mea Lunar+0
+4031	Adaga G√©mea Lunar+1
+4032	Adaga G√©mea Lunar+2
+4033	Adaga G√©mea Lunar+3
+4034	Adaga G√©mea Lunar+4
+4035	Adaga G√©mea Lunar+5
+4036	Adaga G√©mea Lunar+6
+4037	Adaga G√©mea Lunar+7
+4038	Adaga G√©mea Lunar+8
+4039	Adaga G√©mea Lunar+9
 4040	Faca Cruel+0
 4041	Faca Cruel+1
 4042	Faca Cruel+2
@@ -1041,16 +1041,16 @@ VNUM	LOCALE_NAME
 5057	Campainha Damasco+7
 5058	Campainha Damasco+8
 5059	Campainha Damasco+9
-5060	Campainha M·gica+0
-5061	Campainha M·gica+1
-5062	Campainha M·gica+2
-5063	Campainha M·gica+3
-5064	Campainha M·gica+4
-5065	Campainha M·gica+5
-5066	Campainha M·gica+6
-5067	Campainha M·gica+7
-5068	Campainha M·gica+8
-5069	Campainha M·gica+9
+5060	Campainha M√°gica+0
+5061	Campainha M√°gica+1
+5062	Campainha M√°gica+2
+5063	Campainha M√°gica+3
+5064	Campainha M√°gica+4
+5065	Campainha M√°gica+5
+5066	Campainha M√°gica+6
+5067	Campainha M√°gica+7
+5068	Campainha M√°gica+8
+5069	Campainha M√°gica+9
 5070	Campainha Libelinha+0
 5071	Campainha Libelinha+1
 5072	Campainha Libelinha+2
@@ -1071,26 +1071,26 @@ VNUM	LOCALE_NAME
 5087	Campainha Louva-A-Deus+7
 5088	Campainha Louva-A-Deus+8
 5089	Campainha Louva-A-Deus+9
-5090	Campainha Trov„o+0
-5091	Campainha Trov„o+1
-5092	Campainha Trov„o+2
-5093	Campainha Trov„o+3
-5094	Campainha Trov„o+4
-5095	Campainha Trov„o+5
-5096	Campainha Trov„o+6
-5097	Campainha Trov„o+7
-5098	Campainha Trov„o+8
-5099	Campainha Trov„o+9
-5100	Campainha CÈu e Terra+0
-5101	Campainha CÈu e Terra+1
-5102	Campainha CÈu e Terra+2
-5103	Campainha CÈu e Terra+3
-5104	Campainha CÈu e Terra+4
-5105	Campainha CÈu e Terra+5
-5106	Campainha CÈu e Terra+6
-5107	Campainha CÈu e Terra+7
-5108	Campainha CÈu e Terra+8
-5109	Campainha CÈu e Terra+9
+5090	Campainha Trov√£o+0
+5091	Campainha Trov√£o+1
+5092	Campainha Trov√£o+2
+5093	Campainha Trov√£o+3
+5094	Campainha Trov√£o+4
+5095	Campainha Trov√£o+5
+5096	Campainha Trov√£o+6
+5097	Campainha Trov√£o+7
+5098	Campainha Trov√£o+8
+5099	Campainha Trov√£o+9
+5100	Campainha C√©u e Terra+0
+5101	Campainha C√©u e Terra+1
+5102	Campainha C√©u e Terra+2
+5103	Campainha C√©u e Terra+3
+5104	Campainha C√©u e Terra+4
+5105	Campainha C√©u e Terra+5
+5106	Campainha C√©u e Terra+6
+5107	Campainha C√©u e Terra+7
+5108	Campainha C√©u e Terra+8
+5109	Campainha C√©u e Terra+9
 5110	Campainha Antiga+0
 5111	Campainha Antiga+1
 5112	Campainha Antiga+2
@@ -1141,26 +1141,26 @@ VNUM	LOCALE_NAME
 5157	Campainha de Hibisco+7
 5158	Campainha de Hibisco+8
 5159	Campainha de Hibisco+9
-5330	Campainha do Drag„o+0
-5331	Campainha do Drag„o+1
-5332	Campainha do Drag„o+2
-5333	Campainha do Drag„o+3
-5334	Campainha do Drag„o+4
-5335	Campainha do Drag„o+5
-5336	Campainha do Drag„o+6
-5337	Campainha do Drag„o+7
-5338	Campainha do Drag„o+8
-5339	Campainha do Drag„o+9
-5340	Campainha DracÛnica+0
-5341	Campainha DracÛnica+1
-5342	Campainha DracÛnica+2
-5343	Campainha DracÛnica+3
-5344	Campainha DracÛnica+4
-5345	Campainha DracÛnica+5
-5346	Campainha DracÛnica+6
-5347	Campainha DracÛnica+7
-5348	Campainha DracÛnica+8
-5349	Campainha DracÛnica+9
+5330	Campainha do Drag√£o+0
+5331	Campainha do Drag√£o+1
+5332	Campainha do Drag√£o+2
+5333	Campainha do Drag√£o+3
+5334	Campainha do Drag√£o+4
+5335	Campainha do Drag√£o+5
+5336	Campainha do Drag√£o+6
+5337	Campainha do Drag√£o+7
+5338	Campainha do Drag√£o+8
+5339	Campainha do Drag√£o+9
+5340	Campainha Drac√≥nica+0
+5341	Campainha Drac√≥nica+1
+5342	Campainha Drac√≥nica+2
+5343	Campainha Drac√≥nica+3
+5344	Campainha Drac√≥nica+4
+5345	Campainha Drac√≥nica+5
+5346	Campainha Drac√≥nica+6
+5347	Campainha Drac√≥nica+7
+5348	Campainha Drac√≥nica+8
+5349	Campainha Drac√≥nica+9
 7000	Leque+0
 7001	Leque+1
 7002	Leque+2
@@ -1201,26 +1201,26 @@ VNUM	LOCALE_NAME
 7037	Leque Asa de Grou+7
 7038	Leque Asa de Grou+8
 7039	Leque Asa de Grou+9
-7040	Leque de Pav„o+0
-7041	Leque de Pav„o+1
-7042	Leque de Pav„o+2
-7043	Leque de Pav„o+3
-7044	Leque de Pav„o+4
-7045	Leque de Pav„o+5
-7046	Leque de Pav„o+6
-7047	Leque de Pav„o+7
-7048	Leque de Pav„o+8
-7049	Leque de Pav„o+9
-7050	Leque Aqu·tico+0
-7051	Leque Aqu·tico+1
-7052	Leque Aqu·tico+2
-7053	Leque Aqu·tico+3
-7054	Leque Aqu·tico+4
-7055	Leque Aqu·tico+5
-7056	Leque Aqu·tico+6
-7057	Leque Aqu·tico+7
-7058	Leque Aqu·tico+8
-7059	Leque Aqu·tico+9
+7040	Leque de Pav√£o+0
+7041	Leque de Pav√£o+1
+7042	Leque de Pav√£o+2
+7043	Leque de Pav√£o+3
+7044	Leque de Pav√£o+4
+7045	Leque de Pav√£o+5
+7046	Leque de Pav√£o+6
+7047	Leque de Pav√£o+7
+7048	Leque de Pav√£o+8
+7049	Leque de Pav√£o+9
+7050	Leque Aqu√°tico+0
+7051	Leque Aqu√°tico+1
+7052	Leque Aqu√°tico+2
+7053	Leque Aqu√°tico+3
+7054	Leque Aqu√°tico+4
+7055	Leque Aqu√°tico+5
+7056	Leque Aqu√°tico+6
+7057	Leque Aqu√°tico+7
+7058	Leque Aqu√°tico+8
+7059	Leque Aqu√°tico+9
 7060	Leque de Pedra+0
 7061	Leque de Pedra+1
 7062	Leque de Pedra+2
@@ -1231,36 +1231,36 @@ VNUM	LOCALE_NAME
 7067	Leque de Pedra+7
 7068	Leque de Pedra+8
 7069	Leque de Pedra+9
-7070	Leque Oce‚nico+0
-7071	Leque Oce‚nico+1
-7072	Leque Oce‚nico+2
-7073	Leque Oce‚nico+3
-7074	Leque Oce‚nico+4
-7075	Leque Oce‚nico+5
-7076	Leque Oce‚nico+6
-7077	Leque Oce‚nico+7
-7078	Leque Oce‚nico+8
-7079	Leque Oce‚nico+9
-7080	Leque Ferr„o+0
-7081	Leque Ferr„o+1
-7082	Leque Ferr„o+2
-7083	Leque Ferr„o+3
-7084	Leque Ferr„o+4
-7085	Leque Ferr„o+5
-7086	Leque Ferr„o+6
-7087	Leque Ferr„o+7
-7088	Leque Ferr„o+8
-7089	Leque Ferr„o+9
-7090	Leque de FÈnix+0
-7091	Leque de FÈnix+1
-7092	Leque de FÈnix+2
-7093	Leque de FÈnix+3
-7094	Leque de FÈnix+4
-7095	Leque de FÈnix+5
-7096	Leque de FÈnix+6
-7097	Leque de FÈnix+7
-7098	Leque de FÈnix+8
-7099	Leque de FÈnix+9
+7070	Leque Oce√¢nico+0
+7071	Leque Oce√¢nico+1
+7072	Leque Oce√¢nico+2
+7073	Leque Oce√¢nico+3
+7074	Leque Oce√¢nico+4
+7075	Leque Oce√¢nico+5
+7076	Leque Oce√¢nico+6
+7077	Leque Oce√¢nico+7
+7078	Leque Oce√¢nico+8
+7079	Leque Oce√¢nico+9
+7080	Leque Ferr√£o+0
+7081	Leque Ferr√£o+1
+7082	Leque Ferr√£o+2
+7083	Leque Ferr√£o+3
+7084	Leque Ferr√£o+4
+7085	Leque Ferr√£o+5
+7086	Leque Ferr√£o+6
+7087	Leque Ferr√£o+7
+7088	Leque Ferr√£o+8
+7089	Leque Ferr√£o+9
+7090	Leque de F√©nix+0
+7091	Leque de F√©nix+1
+7092	Leque de F√©nix+2
+7093	Leque de F√©nix+3
+7094	Leque de F√©nix+4
+7095	Leque de F√©nix+5
+7096	Leque de F√©nix+6
+7097	Leque de F√©nix+7
+7098	Leque de F√©nix+8
+7099	Leque de F√©nix+9
 7100	Leque Triplo+0
 7101	Leque Triplo+1
 7102	Leque Triplo+2
@@ -1291,36 +1291,36 @@ VNUM	LOCALE_NAME
 7127	Leque Solar+7
 7128	Leque Solar+8
 7129	Leque Solar+9
-7130	Leque Ave do ParaÌso+0
-7131	Leque Ave do ParaÌso+1
-7132	Leque Ave do ParaÌso+2
-7133	Leque Ave do ParaÌso+3
-7134	Leque Ave do ParaÌso+4
-7135	Leque Ave do ParaÌso+5
-7136	Leque Ave do ParaÌso+6
-7137	Leque Ave do ParaÌso+7
-7138	Leque Ave do ParaÌso+8
-7139	Leque Ave do ParaÌso+9
-7140	Leque da SalvaÁ„o+0
-7141	Leque da SalvaÁ„o+1
-7142	Leque da SalvaÁ„o+2
-7143	Leque da SalvaÁ„o+3
-7144	Leque da SalvaÁ„o+4
-7145	Leque da SalvaÁ„o+5
-7146	Leque da SalvaÁ„o+6
-7147	Leque da SalvaÁ„o+7
-7148	Leque da SalvaÁ„o+8
-7149	Leque da SalvaÁ„o+9
-7150	Leque Est·tico+0
-7151	Leque Est·tico+1
-7152	Leque Est·tico+2
-7153	Leque Est·tico+3
-7154	Leque Est·tico+4
-7155	Leque Est·tico+5
-7156	Leque Est·tico+6
-7157	Leque Est·tico+7
-7158	Leque Est·tico+8
-7159	Leque Est·tico+9
+7130	Leque Ave do Para√≠so+0
+7131	Leque Ave do Para√≠so+1
+7132	Leque Ave do Para√≠so+2
+7133	Leque Ave do Para√≠so+3
+7134	Leque Ave do Para√≠so+4
+7135	Leque Ave do Para√≠so+5
+7136	Leque Ave do Para√≠so+6
+7137	Leque Ave do Para√≠so+7
+7138	Leque Ave do Para√≠so+8
+7139	Leque Ave do Para√≠so+9
+7140	Leque da Salva√ß√£o+0
+7141	Leque da Salva√ß√£o+1
+7142	Leque da Salva√ß√£o+2
+7143	Leque da Salva√ß√£o+3
+7144	Leque da Salva√ß√£o+4
+7145	Leque da Salva√ß√£o+5
+7146	Leque da Salva√ß√£o+6
+7147	Leque da Salva√ß√£o+7
+7148	Leque da Salva√ß√£o+8
+7149	Leque da Salva√ß√£o+9
+7150	Leque Est√°tico+0
+7151	Leque Est√°tico+1
+7152	Leque Est√°tico+2
+7153	Leque Est√°tico+3
+7154	Leque Est√°tico+4
+7155	Leque Est√°tico+5
+7156	Leque Est√°tico+6
+7157	Leque Est√°tico+7
+7158	Leque Est√°tico+8
+7159	Leque Est√°tico+9
 7160	Leque Vento de Outono+0
 7161	Leque Vento de Outono+1
 7162	Leque Vento de Outono+2
@@ -1351,41 +1351,41 @@ VNUM	LOCALE_NAME
 7187	Leque Pena Branca+7
 7188	Leque Pena Branca+8
 7189	Leque Pena Branca+9
-7190	Leque do DemÛnio+0
-7191	Leque do DemÛnio+1
-7192	Leque do DemÛnio+2
-7193	Leque do DemÛnio+3
-7194	Leque do DemÛnio+4
-7195	Leque do DemÛnio+5
-7196	Leque do DemÛnio+6
-7197	Leque do DemÛnio+7
-7198	Leque do DemÛnio+8
-7199	Leque do DemÛnio+9
-7200	LanÁa+0
-7201	LanÁa+1
-7202	LanÁa+2
-7203	LanÁa+3
-7204	LanÁa+4
-7205	LanÁa+5
-7206	LanÁa+6
-7207	LanÁa+7
-7208	LanÁa+8
-7209	LanÁa+9
-7370	Leque Drag„o+0
-7371	Leque Drag„o+1
-7372	Leque Drag„o+2
-7373	Leque Drag„o+3
-7374	Leque Drag„o+4
-7375	Leque Drag„o+5
-7376	Leque Drag„o+6
-7377	Leque Drag„o+7
-7378	Leque Drag„o+8
-7379	Leque Drag„o+9
+7190	Leque do Dem√≥nio+0
+7191	Leque do Dem√≥nio+1
+7192	Leque do Dem√≥nio+2
+7193	Leque do Dem√≥nio+3
+7194	Leque do Dem√≥nio+4
+7195	Leque do Dem√≥nio+5
+7196	Leque do Dem√≥nio+6
+7197	Leque do Dem√≥nio+7
+7198	Leque do Dem√≥nio+8
+7199	Leque do Dem√≥nio+9
+7200	Lan√ßa+0
+7201	Lan√ßa+1
+7202	Lan√ßa+2
+7203	Lan√ßa+3
+7204	Lan√ßa+4
+7205	Lan√ßa+5
+7206	Lan√ßa+6
+7207	Lan√ßa+7
+7208	Lan√ßa+8
+7209	Lan√ßa+9
+7370	Leque Drag√£o+0
+7371	Leque Drag√£o+1
+7372	Leque Drag√£o+2
+7373	Leque Drag√£o+3
+7374	Leque Drag√£o+4
+7375	Leque Drag√£o+5
+7376	Leque Drag√£o+6
+7377	Leque Drag√£o+7
+7378	Leque Drag√£o+8
+7379	Leque Drag√£o+9
 8000	Flecha de Madeira
 8001	Flecha de Bambu
 8002	Flecha de Pedra
 8003	Flecha de Ferro
-8004	Flecha de AÁo
+8004	Flecha de A√ßo
 8005	Flecha de Prata
 8006	Flecha de Fogo
 8007	Flecha Envenenada
@@ -1434,16 +1434,16 @@ VNUM	LOCALE_NAME
 11227	Armadura Tigre+7
 11228	Armadura Tigre+8
 11229	Armadura Tigre+9
-11230	Armadura Le„o+0
-11231	Armadura Le„o+1
-11232	Armadura Le„o+2
-11233	Armadura Le„o+3
-11234	Armadura Le„o+4
-11235	Armadura Le„o+5
-11236	Armadura Le„o+6
-11237	Armadura Le„o+7
-11238	Armadura Le„o+8
-11239	Armadura Le„o+9
+11230	Armadura Le√£o+0
+11231	Armadura Le√£o+1
+11232	Armadura Le√£o+2
+11233	Armadura Le√£o+3
+11234	Armadura Le√£o+4
+11235	Armadura Le√£o+5
+11236	Armadura Le√£o+6
+11237	Armadura Le√£o+7
+11238	Armadura Le√£o+8
+11239	Armadura Le√£o+9
 11240	Armadura Mortal+0
 11241	Armadura Mortal+1
 11242	Armadura Mortal+2
@@ -1454,16 +1454,16 @@ VNUM	LOCALE_NAME
 11247	Armadura Mortal+7
 11248	Armadura Mortal+8
 11249	Armadura Mortal+9
-11250	Armadura Drag„o+0
-11251	Armadura Drag„o+1
-11252	Armadura Drag„o+2
-11253	Armadura Drag„o+3
-11254	Armadura Drag„o+4
-11255	Armadura Drag„o+5
-11256	Armadura Drag„o+6
-11257	Armadura Drag„o+7
-11258	Armadura Drag„o+8
-11259	Armadura Drag„o+9
+11250	Armadura Drag√£o+0
+11251	Armadura Drag√£o+1
+11252	Armadura Drag√£o+2
+11253	Armadura Drag√£o+3
+11254	Armadura Drag√£o+4
+11255	Armadura Drag√£o+5
+11256	Armadura Drag√£o+6
+11257	Armadura Drag√£o+7
+11258	Armadura Drag√£o+8
+11259	Armadura Drag√£o+9
 11260	Armadura Escamas Azuis+0
 11261	Armadura Escamas Azuis+1
 11262	Armadura Escamas Azuis+2
@@ -1484,36 +1484,36 @@ VNUM	LOCALE_NAME
 11277	Armadura de Brigantina+7
 11278	Armadura de Brigantina+8
 11279	Armadura de Brigantina+9
-11280	Armadura Deus Drag„o+0
-11281	Armadura Deus Drag„o+1
-11282	Armadura Deus Drag„o+2
-11283	Armadura Deus Drag„o+3
-11284	Armadura Deus Drag„o+4
-11285	Armadura Deus Drag„o+5
-11286	Armadura Deus Drag„o+6
-11287	Armadura Deus Drag„o+7
-11288	Armadura Deus Drag„o+8
-11289	Armadura Deus Drag„o+9
-11290	Armadura de AÁo Preto+0
-11291	Armadura de AÁo Preto+1
-11292	Armadura de AÁo Preto+2
-11293	Armadura de AÁo Preto+3
-11294	Armadura de AÁo Preto+4
-11295	Armadura de AÁo Preto+5
-11296	Armadura de AÁo Preto+6
-11297	Armadura de AÁo Preto+7
-11298	Armadura de AÁo Preto+8
-11299	Armadura de AÁo Preto+9
+11280	Armadura Deus Drag√£o+0
+11281	Armadura Deus Drag√£o+1
+11282	Armadura Deus Drag√£o+2
+11283	Armadura Deus Drag√£o+3
+11284	Armadura Deus Drag√£o+4
+11285	Armadura Deus Drag√£o+5
+11286	Armadura Deus Drag√£o+6
+11287	Armadura Deus Drag√£o+7
+11288	Armadura Deus Drag√£o+8
+11289	Armadura Deus Drag√£o+9
+11290	Armadura de A√ßo Preto+0
+11291	Armadura de A√ßo Preto+1
+11292	Armadura de A√ßo Preto+2
+11293	Armadura de A√ßo Preto+3
+11294	Armadura de A√ßo Preto+4
+11295	Armadura de A√ßo Preto+5
+11296	Armadura de A√ßo Preto+6
+11297	Armadura de A√ßo Preto+7
+11298	Armadura de A√ßo Preto+8
+11299	Armadura de A√ßo Preto+9
 11300	Maleabilidade
 11301	Maleabilidade
-11302	Boa ResistÍncia
+11302	Boa Resist√™ncia
 11303	Armadura Fraca
 11304	Muro Inimigo
-11305	InteligÍncia
+11305	Intelig√™ncia
 11306	Soldados
 11307	Sapatos Superiores
-11308	ResistÍncia Inimiga
-11309	ResistÍncia Inimiga 2
+11308	Resist√™ncia Inimiga
+11309	Resist√™ncia Inimiga 2
 11400	Quimono Azul+0
 11401	Quimono Azul+1
 11402	Quimono Azul+2
@@ -1554,16 +1554,16 @@ VNUM	LOCALE_NAME
 11437	Quimono Formiga Rubi+7
 11438	Quimono Formiga Rubi+8
 11439	Quimono Formiga Rubi+9
-11440	Quimono Formiga Le„o+0
-11441	Quimono Formiga Le„o+1
-11442	Quimono Formiga Le„o+2
-11443	Quimono Formiga Le„o+3
-11444	Quimono Formiga Le„o+4
-11445	Quimono Formiga Le„o+5
-11446	Quimono Formiga Le„o+6
-11447	Quimono Formiga Le„o+7
-11448	Quimono Formiga Le„o+8
-11449	Quimono Formiga Le„o+9
+11440	Quimono Formiga Le√£o+0
+11441	Quimono Formiga Le√£o+1
+11442	Quimono Formiga Le√£o+2
+11443	Quimono Formiga Le√£o+3
+11444	Quimono Formiga Le√£o+4
+11445	Quimono Formiga Le√£o+5
+11446	Quimono Formiga Le√£o+6
+11447	Quimono Formiga Le√£o+7
+11448	Quimono Formiga Le√£o+8
+11449	Quimono Formiga Le√£o+9
 11450	Quimono do Assassino+0
 11451	Quimono do Assassino+1
 11452	Quimono do Assassino+2
@@ -1574,16 +1574,16 @@ VNUM	LOCALE_NAME
 11457	Quimono do Assassino+7
 11458	Quimono do Assassino+8
 11459	Quimono do Assassino+9
-11460	Quimono Jovem Drag„o+0
-11461	Quimono Jovem Drag„o+1
-11462	Quimono Jovem Drag„o+2
-11463	Quimono Jovem Drag„o+3
-11464	Quimono Jovem Drag„o+4
-11465	Quimono Jovem Drag„o+5
-11466	Quimono Jovem Drag„o+6
-11467	Quimono Jovem Drag„o+7
-11468	Quimono Jovem Drag„o+8
-11469	Quimono Jovem Drag„o+9
+11460	Quimono Jovem Drag√£o+0
+11461	Quimono Jovem Drag√£o+1
+11462	Quimono Jovem Drag√£o+2
+11463	Quimono Jovem Drag√£o+3
+11464	Quimono Jovem Drag√£o+4
+11465	Quimono Jovem Drag√£o+5
+11466	Quimono Jovem Drag√£o+6
+11467	Quimono Jovem Drag√£o+7
+11468	Quimono Jovem Drag√£o+8
+11469	Quimono Jovem Drag√£o+9
 11470	Quimono Vento Mortal+0
 11471	Quimono Vento Mortal+1
 11472	Quimono Vento Mortal+2
@@ -1594,16 +1594,16 @@ VNUM	LOCALE_NAME
 11477	Quimono Vento Mortal+7
 11478	Quimono Vento Mortal+8
 11479	Quimono Vento Mortal+9
-11480	Quimono F˙chsia+0
-11481	Quimono F˙chsia+1
-11482	Quimono F˙chsia+2
-11483	Quimono F˙chsia+3
-11484	Quimono F˙chsia+4
-11485	Quimono F˙chsia+5
-11486	Quimono F˙chsia+6
-11487	Quimono F˙chsia+7
-11488	Quimono F˙chsia+8
-11489	Quimono F˙chsia+9
+11480	Quimono F√∫chsia+0
+11481	Quimono F√∫chsia+1
+11482	Quimono F√∫chsia+2
+11483	Quimono F√∫chsia+3
+11484	Quimono F√∫chsia+4
+11485	Quimono F√∫chsia+5
+11486	Quimono F√∫chsia+6
+11487	Quimono F√∫chsia+7
+11488	Quimono F√∫chsia+8
+11489	Quimono F√∫chsia+9
 11490	Quimono Vento Preto+0
 11491	Quimono Vento Preto+1
 11492	Quimono Vento Preto+2
@@ -1644,16 +1644,16 @@ VNUM	LOCALE_NAME
 11617	Armadura Tempestade+7
 11618	Armadura Tempestade+8
 11619	Armadura Tempestade+9
-11620	Armadura da DesgraÁa+0
-11621	Armadura da DesgraÁa+1
-11622	Armadura da DesgraÁa+2
-11623	Armadura da DesgraÁa+3
-11624	Armadura da DesgraÁa+4
-11625	Armadura da DesgraÁa+5
-11626	Armadura da DesgraÁa+6
-11627	Armadura da DesgraÁa+7
-11628	Armadura da DesgraÁa+8
-11629	Armadura da DesgraÁa+9
+11620	Armadura da Desgra√ßa+0
+11621	Armadura da Desgra√ßa+1
+11622	Armadura da Desgra√ßa+2
+11623	Armadura da Desgra√ßa+3
+11624	Armadura da Desgra√ßa+4
+11625	Armadura da Desgra√ßa+5
+11626	Armadura da Desgra√ßa+6
+11627	Armadura da Desgra√ßa+7
+11628	Armadura da Desgra√ßa+8
+11629	Armadura da Desgra√ßa+9
 11630	Armadura Fantasma+0
 11631	Armadura Fantasma+1
 11632	Armadura Fantasma+2
@@ -1674,26 +1674,26 @@ VNUM	LOCALE_NAME
 11647	Armadura Yin Yang+7
 11648	Armadura Yin Yang+8
 11649	Armadura Yin Yang+9
-11650	Armadura MÌstica+0
-11651	Armadura MÌstica+1
-11652	Armadura MÌstica+2
-11653	Armadura MÌstica+3
-11654	Armadura MÌstica+4
-11655	Armadura MÌstica+5
-11656	Armadura MÌstica+6
-11657	Armadura MÌstica+7
-11658	Armadura MÌstica+8
-11659	Armadura MÌstica+9
-11660	Armadura da NÈvoa+0
-11661	Armadura da NÈvoa+1
-11662	Armadura da NÈvoa+2
-11663	Armadura da NÈvoa+3
-11664	Armadura da NÈvoa+4
-11665	Armadura da NÈvoa+5
-11666	Armadura da NÈvoa+6
-11667	Armadura da NÈvoa+7
-11668	Armadura da NÈvoa+8
-11669	Armadura da NÈvoa+9
+11650	Armadura M√≠stica+0
+11651	Armadura M√≠stica+1
+11652	Armadura M√≠stica+2
+11653	Armadura M√≠stica+3
+11654	Armadura M√≠stica+4
+11655	Armadura M√≠stica+5
+11656	Armadura M√≠stica+6
+11657	Armadura M√≠stica+7
+11658	Armadura M√≠stica+8
+11659	Armadura M√≠stica+9
+11660	Armadura da N√©voa+0
+11661	Armadura da N√©voa+1
+11662	Armadura da N√©voa+2
+11663	Armadura da N√©voa+3
+11664	Armadura da N√©voa+4
+11665	Armadura da N√©voa+5
+11666	Armadura da N√©voa+6
+11667	Armadura da N√©voa+7
+11668	Armadura da N√©voa+8
+11669	Armadura da N√©voa+9
 11670	Armadura Cara Fantasma+0
 11671	Armadura Cara Fantasma+1
 11672	Armadura Cara Fantasma+2
@@ -1704,16 +1704,16 @@ VNUM	LOCALE_NAME
 11677	Armadura Cara Fantasma+7
 11678	Armadura Cara Fantasma+8
 11679	Armadura Cara Fantasma+9
-11680	Armadura de EspÌrito+0
-11681	Armadura de EspÌrito+1
-11682	Armadura de EspÌrito+2
-11683	Armadura de EspÌrito+3
-11684	Armadura de EspÌrito+4
-11685	Armadura de EspÌrito+5
-11686	Armadura de EspÌrito+6
-11687	Armadura de EspÌrito+7
-11688	Armadura de EspÌrito+8
-11689	Armadura de EspÌrito+9
+11680	Armadura de Esp√≠rito+0
+11681	Armadura de Esp√≠rito+1
+11682	Armadura de Esp√≠rito+2
+11683	Armadura de Esp√≠rito+3
+11684	Armadura de Esp√≠rito+4
+11685	Armadura de Esp√≠rito+5
+11686	Armadura de Esp√≠rito+6
+11687	Armadura de Esp√≠rito+7
+11688	Armadura de Esp√≠rito+8
+11689	Armadura de Esp√≠rito+9
 11690	Armadura Magia Negra+0
 11691	Armadura Magia Negra+1
 11692	Armadura Magia Negra+2
@@ -1734,16 +1734,16 @@ VNUM	LOCALE_NAME
 11707	Heuk-Gui-Gab
 11708	Ma-Sin-Gab
 11709	Ma-Ryoung-Sin-Gab
-11800	Robe P˙rpura+0
-11801	Robe P˙rpura+1
-11802	Robe P˙rpura+2
-11803	Robe P˙rpura+3
-11804	Robe P˙rpura+4
-11805	Robe P˙rpura+5
-11806	Robe P˙rpura+6
-11807	Robe P˙rpura+7
-11808	Robe P˙rpura+8
-11809	Robe P˙rpura+9
+11800	Robe P√∫rpura+0
+11801	Robe P√∫rpura+1
+11802	Robe P√∫rpura+2
+11803	Robe P√∫rpura+3
+11804	Robe P√∫rpura+4
+11805	Robe P√∫rpura+5
+11806	Robe P√∫rpura+6
+11807	Robe P√∫rpura+7
+11808	Robe P√∫rpura+8
+11809	Robe P√∫rpura+9
 11810	Robe Turquesa+0
 11811	Robe Turquesa+1
 11812	Robe Turquesa+2
@@ -1774,16 +1774,16 @@ VNUM	LOCALE_NAME
 11837	Robe Amoroso+7
 11838	Robe Amoroso+8
 11839	Robe Amoroso+9
-11840	Robe do CÈu Ocidental+0
-11841	Robe do CÈu Ocidental+1
-11842	Robe do CÈu Ocidental+2
-11843	Robe do CÈu Ocidental+3
-11844	Robe do CÈu Ocidental+4
-11845	Robe do CÈu Ocidental+5
-11846	Robe do CÈu Ocidental+6
-11847	Robe do CÈu Ocidental+7
-11848	Robe do CÈu Ocidental+8
-11849	Robe do CÈu Ocidental+9
+11840	Robe do C√©u Ocidental+0
+11841	Robe do C√©u Ocidental+1
+11842	Robe do C√©u Ocidental+2
+11843	Robe do C√©u Ocidental+3
+11844	Robe do C√©u Ocidental+4
+11845	Robe do C√©u Ocidental+5
+11846	Robe do C√©u Ocidental+6
+11847	Robe do C√©u Ocidental+7
+11848	Robe do C√©u Ocidental+8
+11849	Robe do C√©u Ocidental+9
 11850	Robe Solar+0
 11851	Robe Solar+1
 11852	Robe Solar+2
@@ -1845,41 +1845,41 @@ VNUM	LOCALE_NAME
 11951	Armadura de Monge
 11952	Quimono Azul
 11953	Armadura Requiem
-11954	Robe P˙rpura
+11954	Robe P√∫rpura
 11971	Armadura Hwang
 11972	Armadura Hwang Vermelha
 11973	Armadura Zin-Hwang
 11974	Armadura Sang-Hwang
-12000	Robe da ¡gua+0
-12001	Robe da ¡gua+1
-12002	Robe da ¡gua+2
-12003	Robe da ¡gua+3
-12004	Robe da ¡gua+4
-12005	Robe da ¡gua+5
-12006	Robe da ¡gua+6
-12007	Robe da ¡gua+7
-12008	Robe da ¡gua+8
-12009	Robe da ¡gua+9
-12010	Armadura Drag„o Azul +0
-12011	Armadura Drag„o Azul +1
-12012	Armadura Drag„o Azul +2
-12013	Armadura Drag„o Azul +3
-12014	Armadura Drag„o Azul +4
-12015	Armadura Drag„o Azul +5
-12016	Armadura Drag„o Azul +6
-12017	Armadura Drag„o Azul +7
-12018	Armadura Drag„o Azul +8
-12019	Armadura Drag„o Azul +9
-12020	Quimono Drag„o Azul +0
-12021	Quimono Drag„o Azul +1
-12022	Quimono Drag„o Azul +2
-12023	Quimono Drag„o Azul +3
-12024	Quimono Drag„o Azul +4
-12025	Quimono Drag„o Azul +5
-12026	Quimono Drag„o Azul +6
-12027	Quimono Drag„o Azul +7
-12028	Quimono Drag„o Azul +8
-12029	Quimono Drag„o Azul +9
+12000	Robe da √Ågua+0
+12001	Robe da √Ågua+1
+12002	Robe da √Ågua+2
+12003	Robe da √Ågua+3
+12004	Robe da √Ågua+4
+12005	Robe da √Ågua+5
+12006	Robe da √Ågua+6
+12007	Robe da √Ågua+7
+12008	Robe da √Ågua+8
+12009	Robe da √Ågua+9
+12010	Armadura Drag√£o Azul +0
+12011	Armadura Drag√£o Azul +1
+12012	Armadura Drag√£o Azul +2
+12013	Armadura Drag√£o Azul +3
+12014	Armadura Drag√£o Azul +4
+12015	Armadura Drag√£o Azul +5
+12016	Armadura Drag√£o Azul +6
+12017	Armadura Drag√£o Azul +7
+12018	Armadura Drag√£o Azul +8
+12019	Armadura Drag√£o Azul +9
+12020	Quimono Drag√£o Azul +0
+12021	Quimono Drag√£o Azul +1
+12022	Quimono Drag√£o Azul +2
+12023	Quimono Drag√£o Azul +3
+12024	Quimono Drag√£o Azul +4
+12025	Quimono Drag√£o Azul +5
+12026	Quimono Drag√£o Azul +6
+12027	Quimono Drag√£o Azul +7
+12028	Quimono Drag√£o Azul +8
+12029	Quimono Drag√£o Azul +9
 12030	Armadura Aura Negra +0
 12031	Armadura Aura Negra +1
 12032	Armadura Aura Negra +2
@@ -1890,16 +1890,16 @@ VNUM	LOCALE_NAME
 12037	Armadura Aura Negra +7
 12038	Armadura Aura Negra +8
 12039	Armadura Aura Negra +9
-12040	Robe do Drag„o +0
-12041	Robe do Drag„o +1
-12042	Robe do Drag„o +2
-12043	Robe do Drag„o +3
-12044	Robe do Drag„o +4
-12045	Robe do Drag„o +5
-12046	Robe do Drag„o +6
-12047	Robe do Drag„o +7
-12048	Robe do Drag„o +8
-12049	Robe do Drag„o +9
+12040	Robe do Drag√£o +0
+12041	Robe do Drag√£o +1
+12042	Robe do Drag√£o +2
+12043	Robe do Drag√£o +3
+12044	Robe do Drag√£o +4
+12045	Robe do Drag√£o +5
+12046	Robe do Drag√£o +6
+12047	Robe do Drag√£o +7
+12048	Robe do Drag√£o +8
+12049	Robe do Drag√£o +9
 12200	Elmo Tradicional+0
 12201	Elmo Tradicional+1
 12202	Elmo Tradicional+2
@@ -1920,36 +1920,36 @@ VNUM	LOCALE_NAME
 12227	Elmo de Ferro+7
 12228	Elmo de Ferro+8
 12229	Elmo de Ferro+9
-12240	Elmo M·scara Fantasma+0
-12241	Elmo M·scara Fantasma+1
-12242	Elmo M·scara Fantasma+2
-12243	Elmo M·scara Fantasma+3
-12244	Elmo M·scara Fantasma+4
-12245	Elmo M·scara Fantasma+5
-12246	Elmo M·scara Fantasma+6
-12247	Elmo M·scara Fantasma+7
-12248	Elmo M·scara Fantasma+8
-12249	Elmo M·scara Fantasma+9
-12260	M·scara de Gladiador +0
-12261	M·scara de Gladiador +1
-12262	M·scara de Gladiador +2
-12263	M·scara de Gladiador +3
-12264	M·scara de Gladiador +4
-12265	M·scara de Gladiador +5
-12266	M·scara de Gladiador +6
-12267	M·scara de Gladiador +7
-12268	M·scara de Gladiador +8
-12269	M·scara de Gladiador +9
-12280	Elmo do Condest·vel +0
-12281	Elmo do Condest·vel +1
-12282	Elmo do Condest·vel +2
-12283	Elmo do Condest·vel +3
-12284	Elmo do Condest·vel +4
-12285	Elmo do Condest·vel +5
-12286	Elmo do Condest·vel +6
-12287	Elmo do Condest·vel +7
-12288	Elmo do Condest·vel +8
-12289	Elmo do Condest·vel +9
+12240	Elmo M√°scara Fantasma+0
+12241	Elmo M√°scara Fantasma+1
+12242	Elmo M√°scara Fantasma+2
+12243	Elmo M√°scara Fantasma+3
+12244	Elmo M√°scara Fantasma+4
+12245	Elmo M√°scara Fantasma+5
+12246	Elmo M√°scara Fantasma+6
+12247	Elmo M√°scara Fantasma+7
+12248	Elmo M√°scara Fantasma+8
+12249	Elmo M√°scara Fantasma+9
+12260	M√°scara de Gladiador +0
+12261	M√°scara de Gladiador +1
+12262	M√°scara de Gladiador +2
+12263	M√°scara de Gladiador +3
+12264	M√°scara de Gladiador +4
+12265	M√°scara de Gladiador +5
+12266	M√°scara de Gladiador +6
+12267	M√°scara de Gladiador +7
+12268	M√°scara de Gladiador +8
+12269	M√°scara de Gladiador +9
+12280	Elmo do Condest√°vel +0
+12281	Elmo do Condest√°vel +1
+12282	Elmo do Condest√°vel +2
+12283	Elmo do Condest√°vel +3
+12284	Elmo do Condest√°vel +4
+12285	Elmo do Condest√°vel +5
+12286	Elmo do Condest√°vel +6
+12287	Elmo do Condest√°vel +7
+12288	Elmo do Condest√°vel +8
+12289	Elmo do Condest√°vel +9
 12340	Capuz em Pele+0
 12341	Capuz em Pele+1
 12342	Capuz em Pele+2
@@ -1970,16 +1970,16 @@ VNUM	LOCALE_NAME
 12367	Capuz de Correntes+7
 12368	Capuz de Correntes+8
 12369	Capuz de Correntes+9
-12380	Capuz de AÁo+0
-12381	Capuz de AÁo+1
-12382	Capuz de AÁo+2
-12383	Capuz de AÁo+3
-12384	Capuz de AÁo+4
-12385	Capuz de AÁo+5
-12386	Capuz de AÁo+6
-12387	Capuz de AÁo+7
-12388	Capuz de AÁo+8
-12389	Capuz de AÁo+9
+12380	Capuz de A√ßo+0
+12381	Capuz de A√ßo+1
+12382	Capuz de A√ßo+2
+12383	Capuz de A√ßo+3
+12384	Capuz de A√ßo+4
+12385	Capuz de A√ßo+5
+12386	Capuz de A√ßo+6
+12387	Capuz de A√ßo+7
+12388	Capuz de A√ßo+8
+12389	Capuz de A√ßo+9
 12390	Capuz do Orc +0
 12391	Capuz do Orc +1
 12392	Capuz do Orc +2
@@ -2010,16 +2010,16 @@ VNUM	LOCALE_NAME
 12487	Capacete Sangrento+7
 12488	Capacete Sangrento+8
 12489	Capacete Sangrento+9
-12500	Capacete do Esc·rnio+0
-12501	Capacete do Esc·rnio+1
-12502	Capacete do Esc·rnio+2
-12503	Capacete do Esc·rnio+3
-12504	Capacete do Esc·rnio+4
-12505	Capacete do Esc·rnio+5
-12506	Capacete do Esc·rnio+6
-12507	Capacete do Esc·rnio+7
-12508	Capacete do Esc·rnio+8
-12509	Capacete do Esc·rnio+9
+12500	Capacete do Esc√°rnio+0
+12501	Capacete do Esc√°rnio+1
+12502	Capacete do Esc√°rnio+2
+12503	Capacete do Esc√°rnio+3
+12504	Capacete do Esc√°rnio+4
+12505	Capacete do Esc√°rnio+5
+12506	Capacete do Esc√°rnio+6
+12507	Capacete do Esc√°rnio+7
+12508	Capacete do Esc√°rnio+8
+12509	Capacete do Esc√°rnio+9
 12520	Capacete Castelo+0
 12521	Capacete Castelo+1
 12522	Capacete Castelo+2
@@ -2030,76 +2030,76 @@ VNUM	LOCALE_NAME
 12527	Capacete Castelo+7
 12528	Capacete Castelo+8
 12529	Capacete Castelo+9
-12530	Capacete DemonÌaco +0
-12531	Capacete DemonÌaco +1
-12532	Capacete DemonÌaco +2
-12533	Capacete DemonÌaco +3
-12534	Capacete DemonÌaco +4
-12535	Capacete DemonÌaco +5
-12536	Capacete DemonÌaco +6
-12537	Capacete DemonÌaco +7
-12538	Capacete DemonÌaco +8
-12539	Capacete DemonÌaco +9
-12540	Elmo M·gico +0
-12541	Elmo M·gico +1
-12542	Elmo M·gico +2
-12543	Elmo M·gico +3
-12544	Elmo M·gico +4
-12545	Elmo M·gico +5
-12546	Elmo M·gico +6
-12547	Elmo M·gico +7
-12548	Elmo M·gico +8
-12549	Elmo M·gico +9
-12620	ChapÈu de Monge+0
-12621	ChapÈu de Monge+1
-12622	ChapÈu de Monge+2
-12623	ChapÈu de Monge+3
-12624	ChapÈu de Monge+4
-12625	ChapÈu de Monge+5
-12626	ChapÈu de Monge+6
-12627	ChapÈu de Monge+7
-12628	ChapÈu de Monge+8
-12629	ChapÈu de Monge+9
-12640	ChapÈu de FÈnix+0
-12641	ChapÈu de FÈnix+1
-12642	ChapÈu de FÈnix+2
-12643	ChapÈu de FÈnix+3
-12644	ChapÈu de FÈnix+4
-12645	ChapÈu de FÈnix+5
-12646	ChapÈu de FÈnix+6
-12647	ChapÈu de FÈnix+7
-12648	ChapÈu de FÈnix+8
-12649	ChapÈu de FÈnix+9
-12660	ChapÈu da Luz do Sol+0
-12661	ChapÈu da Luz do Sol+1
-12662	ChapÈu da Luz do Sol+2
-12663	ChapÈu da Luz do Sol+3
-12664	ChapÈu da Luz do Sol+4
-12665	ChapÈu da Luz do Sol+5
-12666	ChapÈu da Luz do Sol+6
-12667	ChapÈu da Luz do Sol+7
-12668	ChapÈu da Luz do Sol+8
-12669	ChapÈu da Luz do Sol+9
-12670	ChapÈu do Cardeal +0
-12671	ChapÈu do Cardeal +1
-12672	ChapÈu do Cardeal +2
-12673	ChapÈu do Cardeal +3
-12674	ChapÈu do Cardeal +4
-12675	ChapÈu do Cardeal +5
-12676	ChapÈu do Cardeal +6
-12677	ChapÈu do Cardeal +7
-12678	ChapÈu do Cardeal +8
-12679	ChapÈu do Cardeal +9
-12680	ChapÈu das Almas +0
-12681	ChapÈu das Almas +1
-12682	ChapÈu das Almas +2
-12683	ChapÈu das Almas +3
-12684	ChapÈu das Almas +4
-12685	ChapÈu das Almas +5
-12686	ChapÈu das Almas +6
-12687	ChapÈu das Almas +7
-12688	ChapÈu das Almas +8
-12689	ChapÈu das Almas +9
+12530	Capacete Demon√≠aco +0
+12531	Capacete Demon√≠aco +1
+12532	Capacete Demon√≠aco +2
+12533	Capacete Demon√≠aco +3
+12534	Capacete Demon√≠aco +4
+12535	Capacete Demon√≠aco +5
+12536	Capacete Demon√≠aco +6
+12537	Capacete Demon√≠aco +7
+12538	Capacete Demon√≠aco +8
+12539	Capacete Demon√≠aco +9
+12540	Elmo M√°gico +0
+12541	Elmo M√°gico +1
+12542	Elmo M√°gico +2
+12543	Elmo M√°gico +3
+12544	Elmo M√°gico +4
+12545	Elmo M√°gico +5
+12546	Elmo M√°gico +6
+12547	Elmo M√°gico +7
+12548	Elmo M√°gico +8
+12549	Elmo M√°gico +9
+12620	Chap√©u de Monge+0
+12621	Chap√©u de Monge+1
+12622	Chap√©u de Monge+2
+12623	Chap√©u de Monge+3
+12624	Chap√©u de Monge+4
+12625	Chap√©u de Monge+5
+12626	Chap√©u de Monge+6
+12627	Chap√©u de Monge+7
+12628	Chap√©u de Monge+8
+12629	Chap√©u de Monge+9
+12640	Chap√©u de F√©nix+0
+12641	Chap√©u de F√©nix+1
+12642	Chap√©u de F√©nix+2
+12643	Chap√©u de F√©nix+3
+12644	Chap√©u de F√©nix+4
+12645	Chap√©u de F√©nix+5
+12646	Chap√©u de F√©nix+6
+12647	Chap√©u de F√©nix+7
+12648	Chap√©u de F√©nix+8
+12649	Chap√©u de F√©nix+9
+12660	Chap√©u da Luz do Sol+0
+12661	Chap√©u da Luz do Sol+1
+12662	Chap√©u da Luz do Sol+2
+12663	Chap√©u da Luz do Sol+3
+12664	Chap√©u da Luz do Sol+4
+12665	Chap√©u da Luz do Sol+5
+12666	Chap√©u da Luz do Sol+6
+12667	Chap√©u da Luz do Sol+7
+12668	Chap√©u da Luz do Sol+8
+12669	Chap√©u da Luz do Sol+9
+12670	Chap√©u do Cardeal +0
+12671	Chap√©u do Cardeal +1
+12672	Chap√©u do Cardeal +2
+12673	Chap√©u do Cardeal +3
+12674	Chap√©u do Cardeal +4
+12675	Chap√©u do Cardeal +5
+12676	Chap√©u do Cardeal +6
+12677	Chap√©u do Cardeal +7
+12678	Chap√©u do Cardeal +8
+12679	Chap√©u do Cardeal +9
+12680	Chap√©u das Almas +0
+12681	Chap√©u das Almas +1
+12682	Chap√©u das Almas +2
+12683	Chap√©u das Almas +3
+12684	Chap√©u das Almas +4
+12685	Chap√©u das Almas +5
+12686	Chap√©u das Almas +6
+12687	Chap√©u das Almas +7
+12688	Chap√©u das Almas +8
+12689	Chap√©u das Almas +9
 13000	Escudo de Batalha+0
 13001	Escudo de Batalha+1
 13002	Escudo de Batalha+2
@@ -2130,16 +2130,16 @@ VNUM	LOCALE_NAME
 13047	Escudo Redondo Preto+7
 13048	Escudo Redondo Preto+8
 13049	Escudo Redondo Preto+9
-13060	Escudo Falc„o+0
-13061	Escudo Falc„o+1
-13062	Escudo Falc„o+2
-13063	Escudo Falc„o+3
-13064	Escudo Falc„o+4
-13065	Escudo Falc„o+5
-13066	Escudo Falc„o+6
-13067	Escudo Falc„o+7
-13068	Escudo Falc„o+8
-13069	Escudo Falc„o+9
+13060	Escudo Falc√£o+0
+13061	Escudo Falc√£o+1
+13062	Escudo Falc√£o+2
+13063	Escudo Falc√£o+3
+13064	Escudo Falc√£o+4
+13065	Escudo Falc√£o+5
+13066	Escudo Falc√£o+6
+13067	Escudo Falc√£o+7
+13068	Escudo Falc√£o+8
+13069	Escudo Falc√£o+9
 13080	Escudo Tigre Monge+0
 13081	Escudo Tigre Monge+1
 13082	Escudo Tigre Monge+2
@@ -2150,46 +2150,46 @@ VNUM	LOCALE_NAME
 13087	Escudo Tigre Monge+7
 13088	Escudo Tigre Monge+8
 13089	Escudo Tigre Monge+9
-13100	Escudo Le„o Angular+0
-13101	Escudo Le„o Angular+1
-13102	Escudo Le„o Angular+2
-13103	Escudo Le„o Angular+3
-13104	Escudo Le„o Angular+4
-13105	Escudo Le„o Angular+5
-13106	Escudo Le„o Angular+6
-13107	Escudo Le„o Angular+7
-13108	Escudo Le„o Angular+8
-13109	Escudo Le„o Angular+9
-13120	Escudo Escamas Drag„o+0
-13121	Escudo Escamas Drag„o+1
-13122	Escudo Escamas Drag„o+2
-13123	Escudo Escamas Drag„o+3
-13124	Escudo Escamas Drag„o+4
-13125	Escudo Escamas Drag„o+5
-13126	Escudo Escamas Drag„o+6
-13127	Escudo Escamas Drag„o+7
-13128	Escudo Escamas Drag„o+8
-13129	Escudo Escamas Drag„o+9
-13140	Escudo Tit„+0
-13141	Escudo Tit„+1
-13142	Escudo Tit„+2
-13143	Escudo Tit„+3
-13144	Escudo Tit„+4
-13145	Escudo Tit„+5
-13146	Escudo Tit„+6
-13147	Escudo Tit„+7
-13148	Escudo Tit„+8
-13149	Escudo Tit„+9
-13160	Escudo TrÍs ImpÈrios+0
-13161	Escudo TrÍs ImpÈrios+1
-13162	Escudo TrÍs ImpÈrios+2
-13163	Escudo TrÍs ImpÈrios+3
-13164	Escudo TrÍs ImpÈrios+4
-13165	Escudo TrÍs ImpÈrios+5
-13166	Escudo TrÍs ImpÈrios+6
-13167	Escudo TrÍs ImpÈrios+7
-13168	Escudo TrÍs ImpÈrios+8
-13169	Escudo TrÍs ImpÈrios+9
+13100	Escudo Le√£o Angular+0
+13101	Escudo Le√£o Angular+1
+13102	Escudo Le√£o Angular+2
+13103	Escudo Le√£o Angular+3
+13104	Escudo Le√£o Angular+4
+13105	Escudo Le√£o Angular+5
+13106	Escudo Le√£o Angular+6
+13107	Escudo Le√£o Angular+7
+13108	Escudo Le√£o Angular+8
+13109	Escudo Le√£o Angular+9
+13120	Escudo Escamas Drag√£o+0
+13121	Escudo Escamas Drag√£o+1
+13122	Escudo Escamas Drag√£o+2
+13123	Escudo Escamas Drag√£o+3
+13124	Escudo Escamas Drag√£o+4
+13125	Escudo Escamas Drag√£o+5
+13126	Escudo Escamas Drag√£o+6
+13127	Escudo Escamas Drag√£o+7
+13128	Escudo Escamas Drag√£o+8
+13129	Escudo Escamas Drag√£o+9
+13140	Escudo Tit√£+0
+13141	Escudo Tit√£+1
+13142	Escudo Tit√£+2
+13143	Escudo Tit√£+3
+13144	Escudo Tit√£+4
+13145	Escudo Tit√£+5
+13146	Escudo Tit√£+6
+13147	Escudo Tit√£+7
+13148	Escudo Tit√£+8
+13149	Escudo Tit√£+9
+13160	Escudo Tr√™s Imp√©rios+0
+13161	Escudo Tr√™s Imp√©rios+1
+13162	Escudo Tr√™s Imp√©rios+2
+13163	Escudo Tr√™s Imp√©rios+3
+13164	Escudo Tr√™s Imp√©rios+4
+13165	Escudo Tr√™s Imp√©rios+5
+13166	Escudo Tr√™s Imp√©rios+6
+13167	Escudo Tr√™s Imp√©rios+7
+13168	Escudo Tr√™s Imp√©rios+8
+13169	Escudo Tr√™s Imp√©rios+9
 13180	Escudo Brilhante+0
 13181	Escudo Brilhante+1
 13182	Escudo Brilhante+2
@@ -2270,26 +2270,26 @@ VNUM	LOCALE_NAME
 14087	Pulseira de Jade+7
 14088	Pulseira de Jade+8
 14089	Pulseira de Jade+9
-14100	Pulseira de …bano+0
-14101	Pulseira de …bano+1
-14102	Pulseira de …bano+2
-14103	Pulseira de …bano+3
-14104	Pulseira de …bano+4
-14105	Pulseira de …bano+5
-14106	Pulseira de …bano+6
-14107	Pulseira de …bano+7
-14108	Pulseira de …bano+8
-14109	Pulseira de …bano+9
-14120	Pulseira de PÈrolas+0
-14121	Pulseira de PÈrolas+1
-14122	Pulseira de PÈrolas+2
-14123	Pulseira de PÈrolas+3
-14124	Pulseira de PÈrolas+4
-14125	Pulseira de PÈrolas+5
-14126	Pulseira de PÈrolas+6
-14127	Pulseira de PÈrolas+7
-14128	Pulseira de PÈrolas+8
-14129	Pulseira de PÈrolas+9
+14100	Pulseira de √âbano+0
+14101	Pulseira de √âbano+1
+14102	Pulseira de √âbano+2
+14103	Pulseira de √âbano+3
+14104	Pulseira de √âbano+4
+14105	Pulseira de √âbano+5
+14106	Pulseira de √âbano+6
+14107	Pulseira de √âbano+7
+14108	Pulseira de √âbano+8
+14109	Pulseira de √âbano+9
+14120	Pulseira de P√©rolas+0
+14121	Pulseira de P√©rolas+1
+14122	Pulseira de P√©rolas+2
+14123	Pulseira de P√©rolas+3
+14124	Pulseira de P√©rolas+4
+14125	Pulseira de P√©rolas+5
+14126	Pulseira de P√©rolas+6
+14127	Pulseira de P√©rolas+7
+14128	Pulseira de P√©rolas+8
+14129	Pulseira de P√©rolas+9
 14140	Pulseira de Platina+0
 14141	Pulseira de Platina+1
 14142	Pulseira de Platina+2
@@ -2460,16 +2460,16 @@ VNUM	LOCALE_NAME
 15147	Sapatos em Jade+7
 15148	Sapatos em Jade+8
 15149	Sapatos em Jade+9
-15160	Sapatos Est·ticos+0
-15161	Sapatos Est·ticos+1
-15162	Sapatos Est·ticos+2
-15163	Sapatos Est·ticos+3
-15164	Sapatos Est·ticos+4
-15165	Sapatos Est·ticos+5
-15166	Sapatos Est·ticos+6
-15167	Sapatos Est·ticos+7
-15168	Sapatos Est·ticos+8
-15169	Sapatos Est·ticos+9
+15160	Sapatos Est√°ticos+0
+15161	Sapatos Est√°ticos+1
+15162	Sapatos Est√°ticos+2
+15163	Sapatos Est√°ticos+3
+15164	Sapatos Est√°ticos+4
+15165	Sapatos Est√°ticos+5
+15166	Sapatos Est√°ticos+6
+15167	Sapatos Est√°ticos+7
+15168	Sapatos Est√°ticos+8
+15169	Sapatos Est√°ticos+9
 15180	Botas Nimbus+0
 15181	Botas Nimbus+1
 15182	Botas Nimbus+2
@@ -2480,16 +2480,16 @@ VNUM	LOCALE_NAME
 15187	Botas Nimbus+7
 15188	Botas Nimbus+8
 15189	Botas Nimbus+9
-15200	Sapatos FÈnix+0
-15201	Sapatos FÈnix+1
-15202	Sapatos FÈnix+2
-15203	Sapatos FÈnix+3
-15204	Sapatos FÈnix+4
-15205	Sapatos FÈnix+5
-15206	Sapatos FÈnix+6
-15207	Sapatos FÈnix+7
-15208	Sapatos FÈnix+8
-15209	Sapatos FÈnix+9
+15200	Sapatos F√©nix+0
+15201	Sapatos F√©nix+1
+15202	Sapatos F√©nix+2
+15203	Sapatos F√©nix+3
+15204	Sapatos F√©nix+4
+15205	Sapatos F√©nix+5
+15206	Sapatos F√©nix+6
+15207	Sapatos F√©nix+7
+15208	Sapatos F√©nix+8
+15209	Sapatos F√©nix+9
 15220	Sapatos Ave Ardente+0
 15221	Sapatos Ave Ardente+1
 15222	Sapatos Ave Ardente+2
@@ -2500,16 +2500,16 @@ VNUM	LOCALE_NAME
 15227	Sapatos Ave Ardente+7
 15228	Sapatos Ave Ardente+8
 15229	Sapatos Ave Ardente+9
-15240	Sapatos Pele de Drag„o+0
-15241	Sapatos Pele de Drag„o+1
-15242	Sapatos Pele de Drag„o+2
-15243	Sapatos Pele de Drag„o+3
-15244	Sapatos Pele de Drag„o+4
-15245	Sapatos Pele de Drag„o+5
-15246	Sapatos Pele de Drag„o+6
-15247	Sapatos Pele de Drag„o+7
-15248	Sapatos Pele de Drag„o+8
-15249	Sapatos Pele de Drag„o+9
+15240	Sapatos Pele de Drag√£o+0
+15241	Sapatos Pele de Drag√£o+1
+15242	Sapatos Pele de Drag√£o+2
+15243	Sapatos Pele de Drag√£o+3
+15244	Sapatos Pele de Drag√£o+4
+15245	Sapatos Pele de Drag√£o+5
+15246	Sapatos Pele de Drag√£o+6
+15247	Sapatos Pele de Drag√£o+7
+15248	Sapatos Pele de Drag√£o+8
+15249	Sapatos Pele de Drag√£o+9
 15370	Sapatos da Euforia +0
 15371	Sapatos da Euforia +1
 15372	Sapatos da Euforia +2
@@ -2600,26 +2600,26 @@ VNUM	LOCALE_NAME
 16087	Colar de Jade+7
 16088	Colar de Jade+8
 16089	Colar de Jade+9
-16100	Colar de …bano+0
-16101	Colar de …bano+1
-16102	Colar de …bano+2
-16103	Colar de …bano+3
-16104	Colar de …bano+4
-16105	Colar de …bano+5
-16106	Colar de …bano+6
-16107	Colar de …bano+7
-16108	Colar de …bano+8
-16109	Colar de …bano+9
-16120	Colar de PÈrolas+0
-16121	Colar de PÈrolas+1
-16122	Colar de PÈrolas+2
-16123	Colar de PÈrolas+3
-16124	Colar de PÈrolas+4
-16125	Colar de PÈrolas+5
-16126	Colar de PÈrolas+6
-16127	Colar de PÈrolas+7
-16128	Colar de PÈrolas+8
-16129	Colar de PÈrolas+9
+16100	Colar de √âbano+0
+16101	Colar de √âbano+1
+16102	Colar de √âbano+2
+16103	Colar de √âbano+3
+16104	Colar de √âbano+4
+16105	Colar de √âbano+5
+16106	Colar de √âbano+6
+16107	Colar de √âbano+7
+16108	Colar de √âbano+8
+16109	Colar de √âbano+9
+16120	Colar de P√©rolas+0
+16121	Colar de P√©rolas+1
+16122	Colar de P√©rolas+2
+16123	Colar de P√©rolas+3
+16124	Colar de P√©rolas+4
+16125	Colar de P√©rolas+5
+16126	Colar de P√©rolas+6
+16127	Colar de P√©rolas+7
+16128	Colar de P√©rolas+8
+16129	Colar de P√©rolas+9
 16140	Colar de Platina+0
 16141	Colar de Platina+1
 16142	Colar de Platina+2
@@ -2760,26 +2760,26 @@ VNUM	LOCALE_NAME
 17087	Brincos de Jade+7
 17088	Brincos de Jade+8
 17089	Brincos de Jade+9
-17100	Brincos de …bano+0
-17101	Brincos de …bano+1
-17102	Brincos de …bano+2
-17103	Brincos de …bano+3
-17104	Brincos de …bano+4
-17105	Brincos de …bano+5
-17106	Brincos de …bano+6
-17107	Brincos de …bano+7
-17108	Brincos de …bano+8
-17109	Brincos de …bano+9
-17120	Brincos de PÈrola+0
-17121	Brincos de PÈrola+1
-17122	Brincos de PÈrola+2
-17123	Brincos de PÈrola+3
-17124	Brincos de PÈrola+4
-17125	Brincos de PÈrola+5
-17126	Brincos de PÈrola+6
-17127	Brincos de PÈrola+7
-17128	Brincos de PÈrola+8
-17129	Brincos de PÈrola+9
+17100	Brincos de √âbano+0
+17101	Brincos de √âbano+1
+17102	Brincos de √âbano+2
+17103	Brincos de √âbano+3
+17104	Brincos de √âbano+4
+17105	Brincos de √âbano+5
+17106	Brincos de √âbano+6
+17107	Brincos de √âbano+7
+17108	Brincos de √âbano+8
+17109	Brincos de √âbano+9
+17120	Brincos de P√©rola+0
+17121	Brincos de P√©rola+1
+17122	Brincos de P√©rola+2
+17123	Brincos de P√©rola+3
+17124	Brincos de P√©rola+4
+17125	Brincos de P√©rola+5
+17126	Brincos de P√©rola+6
+17127	Brincos de P√©rola+7
+17128	Brincos de P√©rola+8
+17129	Brincos de P√©rola+9
 17140	Brincos de Platina+0
 17141	Brincos de Platina+1
 17142	Brincos de Platina+2
@@ -2890,16 +2890,16 @@ VNUM	LOCALE_NAME
 18017	Cinto de Couro+7
 18018	Cinto de Couro+8
 18019	Cinto de Couro+9
-18020	Cinto MagnÌfico+0
-18021	Cinto MagnÌfico+1
-18022	Cinto MagnÌfico+2
-18023	Cinto MagnÌfico+3
-18024	Cinto MagnÌfico+4
-18025	Cinto MagnÌfico+5
-18026	Cinto MagnÌfico+6
-18027	Cinto MagnÌfico+7
-18028	Cinto MagnÌfico+8
-18029	Cinto MagnÌfico+9
+18020	Cinto Magn√≠fico+0
+18021	Cinto Magn√≠fico+1
+18022	Cinto Magn√≠fico+2
+18023	Cinto Magn√≠fico+3
+18024	Cinto Magn√≠fico+4
+18025	Cinto Magn√≠fico+5
+18026	Cinto Magn√≠fico+6
+18027	Cinto Magn√≠fico+7
+18028	Cinto Magn√≠fico+8
+18029	Cinto Magn√≠fico+9
 18030	Cinto da Sabedoria+0
 18031	Cinto da Sabedoria+1
 18032	Cinto da Sabedoria+2
@@ -2930,16 +2930,16 @@ VNUM	LOCALE_NAME
 18057	Cinto da Sombra+7
 18058	Cinto da Sombra+8
 18059	Cinto da Sombra+9
-18060	Cinto R˙nico+0
-18061	Cinto R˙nico+1
-18062	Cinto R˙nico+2
-18063	Cinto R˙nico+3
-18064	Cinto R˙nico+4
-18065	Cinto R˙nico+5
-18066	Cinto R˙nico+6
-18067	Cinto R˙nico+7
-18068	Cinto R˙nico+8
-18069	Cinto R˙nico+9
+18060	Cinto R√∫nico+0
+18061	Cinto R√∫nico+1
+18062	Cinto R√∫nico+2
+18063	Cinto R√∫nico+3
+18064	Cinto R√∫nico+4
+18065	Cinto R√∫nico+5
+18066	Cinto R√∫nico+6
+18067	Cinto R√∫nico+7
+18068	Cinto R√∫nico+8
+18069	Cinto R√∫nico+9
 18070	Cinto do Grande Urso+0
 18071	Cinto do Grande Urso+1
 18072	Cinto do Grande Urso+2
@@ -2971,16 +2971,16 @@ VNUM	LOCALE_NAME
 20007	Armadura do Diabo+7
 20008	Armadura do Diabo+8
 20009	Armadura do Diabo+9
-20250	Fato Domador de Drag„o+0
-20251	Fato Domador de Drag„o+1
-20252	Fato Domador de Drag„o+2
-20253	Fato Domador de Drag„o+3
-20254	Fato Domador de Drag„o+4
-20255	Fato Domador de Drag„o+5
-20256	Fato Domador de Drag„o+6
-20257	Fato Domador de Drag„o+7
-20258	Fato Domador de Drag„o+8
-20259	Fato Domador de Drag„o+9
+20250	Fato Domador de Drag√£o+0
+20251	Fato Domador de Drag√£o+1
+20252	Fato Domador de Drag√£o+2
+20253	Fato Domador de Drag√£o+3
+20254	Fato Domador de Drag√£o+4
+20255	Fato Domador de Drag√£o+5
+20256	Fato Domador de Drag√£o+6
+20257	Fato Domador de Drag√£o+7
+20258	Fato Domador de Drag√£o+8
+20259	Fato Domador de Drag√£o+9
 20500	Armadura de Ossos+0
 20501	Armadura de Ossos+1
 20502	Armadura de Ossos+2
@@ -3008,38 +3008,38 @@ VNUM	LOCALE_NAME
 22020	Papel
 22030	Pergaminho do Teleporte
 22040	Pergaminho da Vida
-22050	Pergaminho da EncarnaÁ„o
-25040	Pergaminho da BÍnÁ„o
-25041	Pedra M·gica
-25100	Pergaminho da ExtracÁ„o
-27001	PoÁ„o Vermelha(P)
-27002	PoÁ„o Vermelha(M)
-27003	PoÁ„o Vermelha(G)
-27004	PoÁ„o Azul(P)
-27005	PoÁ„o Azul(M)
-27006	PoÁ„o Azul(G)
-27051	PoÁ„o Vermelha(P)
-27052	PoÁ„o Azul(P)
-27053	PoÁ„o Verde(P)
-27054	PoÁ„o Roxa(P)
-27100	PoÁ„o Verde(P)
-27101	PoÁ„o Verde(M)
-27102	PoÁ„o Verde(G)
-27103	PoÁ„o Roxa(P)
-27104	PoÁ„o Roxa(M)
-27105	PoÁ„o Roxa(G)
-27110	PoÁ„o Verde(P)
-27111	PoÁ„o Verde(M)
-27112	PoÁ„o Verde(G)
-27113	PoÁ„o Roxa(P)
-27114	PoÁ„o Roxa(M)
-27115	PoÁ„o Roxa(G)
-27116	PoÁ„o Rosa(P)
-27117	PoÁ„o Rosa(M)
-27118	PoÁ„o Rosa(G)
-27119	PoÁ„o Celeste(P)
-27120	PoÁ„o Celeste(M)
-27121	PoÁ„o Celeste(G)
+22050	Pergaminho da Encarna√ß√£o
+25040	Pergaminho da B√™n√ß√£o
+25041	Pedra M√°gica
+25100	Pergaminho da Extrac√ß√£o
+27001	Po√ß√£o Vermelha(P)
+27002	Po√ß√£o Vermelha(M)
+27003	Po√ß√£o Vermelha(G)
+27004	Po√ß√£o Azul(P)
+27005	Po√ß√£o Azul(M)
+27006	Po√ß√£o Azul(G)
+27051	Po√ß√£o Vermelha(P)
+27052	Po√ß√£o Azul(P)
+27053	Po√ß√£o Verde(P)
+27054	Po√ß√£o Roxa(P)
+27100	Po√ß√£o Verde(P)
+27101	Po√ß√£o Verde(M)
+27102	Po√ß√£o Verde(G)
+27103	Po√ß√£o Roxa(P)
+27104	Po√ß√£o Roxa(M)
+27105	Po√ß√£o Roxa(G)
+27110	Po√ß√£o Verde(P)
+27111	Po√ß√£o Verde(M)
+27112	Po√ß√£o Verde(G)
+27113	Po√ß√£o Roxa(P)
+27114	Po√ß√£o Roxa(M)
+27115	Po√ß√£o Roxa(G)
+27116	Po√ß√£o Rosa(P)
+27117	Po√ß√£o Rosa(M)
+27118	Po√ß√£o Rosa(G)
+27119	Po√ß√£o Celeste(P)
+27120	Po√ß√£o Celeste(M)
+27121	Po√ß√£o Celeste(G)
 27400	Cana de Pesca+1
 27410	Cana de Pesca+2
 27420	Cana de Pesca+3
@@ -3061,70 +3061,70 @@ VNUM	LOCALE_NAME
 27580	Cana de Pesca+19
 27590	Cana de Pesca+20
 27600	Fogueira
-27610	M·rmore de Pesca
+27610	M√°rmore de Pesca
 27620	Livro de Pesca
 27799	Espinhas
 27800	Pasta
 27801	Verme
-27802	Vair„o
-27803	L˙cio
+27802	Vair√£o
+27803	L√∫cio
 27804	Peixe Mandarim
-27805	L˙cio Grande
+27805	L√∫cio Grande
 27806	Carpa
-27807	Salm„o
+27807	Salm√£o
 27808	Carpa Herbivora
 27809	Truta Texugo
 27810	Enguia
-27811	Truta Arco-Õris
+27811	Truta Arco-√çris
 27812	Truta de Rio
-27813	EscardÌnio
+27813	Escard√≠nio
 27814	Perca
 27815	Tenchi
 27816	Peixe Gato
-27817	Verdem„
-27818	Peixe LÛtus
+27817	Verdem√£
+27818	Peixe L√≥tus
 27819	Peixe Doce
 27820	Eperlano
 27821	Shiri
 27822	Carpa Espelhada
 27823	Carpa Dourada
-27833	L˙cio Morto
+27833	L√∫cio Morto
 27834	Peixe Mandarim Morto
-27835	L˙cio Grande Morto
+27835	L√∫cio Grande Morto
 27836	Carpa Morta
-27837	Salm„o Morto
-27838	Carpa HerbÌvora Morta
+27837	Salm√£o Morto
+27838	Carpa Herb√≠vora Morta
 27839	Truta Texugo Morta
 27840	Enguia Morta
-27841	Truta Arco-Õris Morta
+27841	Truta Arco-√çris Morta
 27842	Truta de Rio Morta
-27843	EscardÌnio Morto
+27843	Escard√≠nio Morto
 27844	Perca Morta
 27845	Tenchi Morto
 27846	Peixe Gato Morto
-27847	Verdem„ Morto
-27848	Peixe LÛtus Morto
+27847	Verdem√£ Morto
+27848	Peixe L√≥tus Morto
 27849	Peixe Doce Morto
 27850	Eperlano Morto
 27851	Shiri Morto
 27852	Carpa Espelhada Morta
 27853	Carpa Dourada Morta
-27863	L˙cio Grelhado
+27863	L√∫cio Grelhado
 27864	Peixe Mandarim Grelhado
-27865	L˙cio Grande Grelhado
+27865	L√∫cio Grande Grelhado
 27866	Carpa Grelhada
-27867	Salm„o Grelhado
-27868	Carpa HerbÌvora Grelhada
+27867	Salm√£o Grelhado
+27868	Carpa Herb√≠vora Grelhada
 27869	Truta Texugo Grelhada
 27870	Enguia Grelhada
-27871	Truta Arco-Õris Grelhada
+27871	Truta Arco-√çris Grelhada
 27872	Truta de Rio Grelhada
-27873	EscardÌnio Grelhado
+27873	Escard√≠nio Grelhado
 27874	Perca Grelhada
 27875	Tenchi Grelhado
 27876	Peixe Gato Grelhado
-27877	Verdem„ Grelhado
-27878	Peixe LÛtus Grelhado
+27877	Verdem√£ Grelhado
+27878	Peixe L√≥tus Grelhado
 27879	Peixe Doce Grelhado
 27880	Eperlano Grelhado
 27881	Shiri Grelhado
@@ -3132,253 +3132,253 @@ VNUM	LOCALE_NAME
 27883	Carpa Dourada Grelhada
 27987	Ostra
 27988	Mapa do Tesouro
-27989	B˙ssola de Pedras Metin
-27990	PedaÁo de Pedra
-27991	Pedra d'¡gua
-27992	PÈrola Branca
-27993	PÈrola Azul
-27994	PÈrola Vermelha
+27989	B√∫ssola de Pedras Metin
+27990	Peda√ßo de Pedra
+27991	Pedra d'√Ågua
+27992	P√©rola Branca
+27993	P√©rola Azul
+27994	P√©rola Vermelha
 27995	Garrafa Vazia
 27996	Garrafa de Veneno
 27997	Esfera da Vitalidade
 27998	Mala de Alquimista
-27999	Mala da Pedra-EspÌrita
+27999	Mala da Pedra-Esp√≠rita
 28000	Pedra do Massacre+0
-28004	Pedra da ParanÛia+0
+28004	Pedra da Paran√≥ia+0
 28008	Pedra do Trauma+0
 28012	Pedra Anti-Lycan+0
-28030	Pedra da PenetraÁ„o+0
+28030	Pedra da Penetra√ß√£o+0
 28031	Pedra de Golpe Mortal+0
-28032	Pedra da RepetiÁ„o+0
+28032	Pedra da Repeti√ß√£o+0
 28033	Pedra Anti-Guerreiro+0
 28034	Pedra Anti-Ninja+0
 28035	Pedra Anti-Sura+0
-28036	Pedra Anti-Xam„+0
+28036	Pedra Anti-Xam√£+0
 28037	Pedra Anti-Monstros+0
-28038	Pedra da Evas„o+0
+28038	Pedra da Evas√£o+0
 28039	Pedra da Agilidade+0
 28040	Pedra da Magia+0
 28041	Pedra da Vida+0
 28042	Pedra da Defesa+0
 28043	Pedra da Pressa+0
 28100	Pedra do Massacre+1
-28104	Pedra da ParanÛia+1
+28104	Pedra da Paran√≥ia+1
 28108	Pedra do Trauma+1
 28112	Pedra Anti-Lycan+1
-28130	Pedra da PenetraÁ„o+1
+28130	Pedra da Penetra√ß√£o+1
 28131	Pedra de Golpe Mortal+1
-28132	Pedra da RepetiÁ„o+1
+28132	Pedra da Repeti√ß√£o+1
 28133	Pedra Anti-Guerreiro+1
 28134	Pedra Anti-Ninja+1
 28135	Pedra Anti-Sura+1
-28136	Pedra Anti-Xam„+1
+28136	Pedra Anti-Xam√£+1
 28137	Pedra Anti-Monstros+1
-28138	Pedra da Evas„o+1
+28138	Pedra da Evas√£o+1
 28139	Pedra da Agilidade+1
 28140	Pedra da Magia+1
 28141	Pedra da Vida+1
 28142	Pedra da Defesa+1
 28143	Pedra da Pressa+1
 28200	Pedra do Massacre+2
-28204	Pedra da ParanÛia+2
+28204	Pedra da Paran√≥ia+2
 28208	Pedra do Trauma+2
 28212	Pedra Anti-Lycan+2
-28230	Pedra da PenetraÁ„o+2
+28230	Pedra da Penetra√ß√£o+2
 28231	Pedra de Golpe Mortal+2
-28232	Pedra da RepetiÁ„o+2
+28232	Pedra da Repeti√ß√£o+2
 28233	Pedra Anti-Guerreiro+2
 28234	Pedra Anti-Ninja+2
 28235	Pedra Anti-Sura+2
-28236	Pedra Anti-Xam„+2
+28236	Pedra Anti-Xam√£+2
 28237	Pedra Anti-Monstros+2
-28238	Pedra da Evas„o+2
+28238	Pedra da Evas√£o+2
 28239	Pedra da Agilidade+2
 28240	Pedra da Magia+2
 28241	Pedra da Vida+2
 28242	Pedra da Defesa+2
 28243	Pedra da Pressa+2
 28300	Pedra do Massacre+3
-28304	Pedra da ParanÛia+3
+28304	Pedra da Paran√≥ia+3
 28308	Pedra do Trauma+3
 28312	Pedra Anti-Lycan+3
-28330	Pedra da PenetraÁ„o+3
+28330	Pedra da Penetra√ß√£o+3
 28331	Pedra de Golpe Mortal+3
-28332	Pedra da RepetiÁ„o+3
+28332	Pedra da Repeti√ß√£o+3
 28333	Pedra Anti-Guerreiro+3
 28334	Pedra Anti-Ninja+3
 28335	Pedra Anti-Sura+3
-28336	Pedra Anti-Xam„+3
+28336	Pedra Anti-Xam√£+3
 28337	Pedra Anti-Monstros+3
-28338	Pedra da Evas„o+3
+28338	Pedra da Evas√£o+3
 28339	Pedra da Agilidade+3
 28340	Pedra da Magia+3
 28341	Pedra da Vida+3
 28342	Pedra da Defesa+3
 28343	Pedra da Pressa+3
 28400	Pedra do Massacre+4
-28404	Pedra da ParanÛia+4
+28404	Pedra da Paran√≥ia+4
 28408	Pedra do Trauma+4
 28412	Pedra Anti-Lycan+4
-28430	Pedra da PenetraÁ„o+4
+28430	Pedra da Penetra√ß√£o+4
 28431	Pedra de Golpe Mortal+4
-28432	Pedra da RepetiÁ„o+4
+28432	Pedra da Repeti√ß√£o+4
 28433	Pedra Anti-Guerreiro+4
 28434	Pedra Anti-Ninja+4
 28435	Pedra Anti-Sura+4
-28436	Pedra Anti-Xam„+4
+28436	Pedra Anti-Xam√£+4
 28437	Pedra Anti-Monstros+4
-28438	Pedra da Evas„o+4
+28438	Pedra da Evas√£o+4
 28439	Pedra da Agilidade+4
 28440	Pedra da Magia+4
 28441	Pedra da Vida+4
 28442	Pedra da Defesa+4
 28443	Pedra da Pressa+4
 28500	Pedra do Massacre+5
-28504	Pedra da ParanÛia+5
+28504	Pedra da Paran√≥ia+5
 28508	Pedra do Trauma+5
 28512	Pedra da Estupidez+5
-28530	Pedra da PenetraÁ„o+5
+28530	Pedra da Penetra√ß√£o+5
 28531	Pedra de Golpe Mortal+5
-28532	Pedra da RepetiÁ„o+5
+28532	Pedra da Repeti√ß√£o+5
 28533	Pedra Anti-Guerreiro+5
 28534	Pedra Anti-Ninja+5
 28535	Pedra Anti-Sura+5
-28536	Pedra Anti-Xam„+5
+28536	Pedra Anti-Xam√£+5
 28537	Pedra Anti-Monstros+5
-28538	Pedra da Evas„o+5
+28538	Pedra da Evas√£o+5
 28539	Pedra da Agilidade+5
 28540	Pedra da Magia+5
 28541	Pedra da Vida+5
 28542	Pedra da Defesa+5
 28543	Pedra da Pressa+5
-28600	Pedra da PenetraÁ„o+6
+28600	Pedra da Penetra√ß√£o+6
 28601	Pedra de Golpe Mortal+6
-28602	Pedra da RepetiÁ„o+6
+28602	Pedra da Repeti√ß√£o+6
 28603	Pedra Anti-Guerreiro+6
 28604	Pedra Anti-Ninja+6
 28605	Pedra Anti-Sura+6
-28606	Pedra Anti-Xam„+6
+28606	Pedra Anti-Xam√£+6
 28607	Pedra Anti-Monstros+6
-28608	Pedra da Evas„o+6
+28608	Pedra da Evas√£o+6
 28609	Pedra da Agilidade+6
 28610	Pedra da Magia+6
 28611	Pedra da Vida+6
 28612	Pedra da Defesa+6
 28613	Pedra da Pressa+6
-28630	Gema da PenetraÁao+5
+28630	Gema da Penetra√ßao+5
 28631	Gema de Golpe Mortal+5
-28632	Gema da RepetiÁ„o+5
+28632	Gema da Repeti√ß√£o+5
 28633	Gema Anti-Guerreiro+5
 28634	Gema Anti-Ninja+5
 28635	Gema Anti-Sura+5
-28636	Gema Anti-Xam„+5
+28636	Gema Anti-Xam√£+5
 28637	Gema Anti-Monstros+5
-28638	Gema da Evas„o+5
+28638	Gema da Evas√£o+5
 28639	Gema da Agilidade+5
 28640	Gema da Magia+5
 28641	Gema da Vida+5
 28642	Gema da Defesa+5
 28643	Gema da Pressa+5
-28700	Pedra da PenetraÁ„o+7
+28700	Pedra da Penetra√ß√£o+7
 28701	Pedra de Golpe Mortal+7
-28702	Pedra da RepetiÁ„o+7
+28702	Pedra da Repeti√ß√£o+7
 28703	Pedra Anti-Guerreiro+7
 28704	Pedra Anti-Ninja+7
 28705	Pedra Anti-Sura+7
-28706	Pedra Anti-Xam„+7
+28706	Pedra Anti-Xam√£+7
 28707	Pedra Anti-Monstros+7
-28708	Pedra da Evas„o+7
+28708	Pedra da Evas√£o+7
 28709	Pedra da Agilidade+7
 28710	Pedra da Magia+7
 28711	Pedra da Vida+7
 28712	Pedra da Defesa+7
 28713	Pedra da Pressa+7
-28730	Gema da PenetraÁ„o+7
+28730	Gema da Penetra√ß√£o+7
 28731	Gema de Golpe Mortal+7
-28732	Gema da RepetiÁ„o+7
+28732	Gema da Repeti√ß√£o+7
 28733	Gema Anti-Guerreiro+7
 28734	Gema Anti-Ninja+7
 28735	Gema Anti-Sura+7
-28736	Gema Anti-Xam„+7
+28736	Gema Anti-Xam√£+7
 28737	Gema Anti-Monstros+7
-28738	Gema da Evas„o+7
+28738	Gema da Evas√£o+7
 28739	Gema da Agilidade+7
 28740	Gema da Magia+7
 28741	Gema da Vida+7
 28742	Gema da Defesa+7
 28743	Gema da Pressa+7
-28800	Pedra da PenetraÁ„o+8
+28800	Pedra da Penetra√ß√£o+8
 28801	Pedra de Golpe Mortal+8
-28802	Pedra da RepetiÁ„o+8
+28802	Pedra da Repeti√ß√£o+8
 28803	Pedra Anti-Guerreiro+8
 28804	Pedra Anti-Ninja+8
 28805	Pedra Anti-Sura+8
-28806	Pedra Anti-Xam„+8
+28806	Pedra Anti-Xam√£+8
 28807	Pedra Anti-Monstros+8
-28808	Pedra da Evas„o+8
+28808	Pedra da Evas√£o+8
 28809	Pedra da Agilidade+8
 28810	Pedra da Magia+8
 28811	Pedra da Vida+8
 28812	Pedra da Defesa+8
 28813	Pedra da Pressa+8
-28830	Gema da PenetraÁ„o+8
+28830	Gema da Penetra√ß√£o+8
 28831	Gema de Golpe Mortal+8
-28832	Gema da RepetiÁ„o+8
+28832	Gema da Repeti√ß√£o+8
 28833	Gema Anti-Guerreiro+8
 28834	Gema Anti-Ninja+8
 28835	Gema Anti-Sura+8
-28836	Gema Anti-Xam„+8
+28836	Gema Anti-Xam√£+8
 28837	Gema Anti-Monstros+8
-28838	Gema da Evas„o+8
+28838	Gema da Evas√£o+8
 28839	Gema da Agilidade+8
 28840	Gema da Magia+8
 28841	Gema da Vida+8
 28842	Gema da Defesa+8
 28843	Gema da Pressa+8
-28900	Pedra da PenetraÁ„o+9
+28900	Pedra da Penetra√ß√£o+9
 28901	Pedra de Golpe Mortal+9
-28902	Pedra da RepetiÁ„o+9
+28902	Pedra da Repeti√ß√£o+9
 28903	Pedra Anti-Guerreiro+9
 28904	Pedra Anti-Ninja+9
 28905	Pedra Anti-Sura+9
-28906	Pedra Anti-Xam„+9
+28906	Pedra Anti-Xam√£+9
 28907	Pedra Anti-Monstros+9
-28908	Pedra da Evas„o+9
+28908	Pedra da Evas√£o+9
 28909	Pedra da Agilidade+9
 28910	Pedra da Magia+9
 28911	Pedra da Vida+9
 28912	Pedra da Defesa+9
 28913	Pedra da Pressa+9
-28930	Gema da PenetraÁ„o+9
+28930	Gema da Penetra√ß√£o+9
 28931	Gema de Golpe Mortal+9
-28932	Gema da RepetiÁ„o+9
+28932	Gema da Repeti√ß√£o+9
 28933	Gema Anti-Guerreiro+9
 28934	Gema Anti-Ninja+9
 28935	Gema Anti-Sura+9
-28936	Gema Anti-Xam„+9
+28936	Gema Anti-Xam√£+9
 28937	Gema Anti-Monstros+9
-28938	Gema da Evas„o+9
+28938	Gema da Evas√£o+9
 28939	Gema da Agilidade+9
 28940	Gema da Magia+9
 28941	Gema da Vida+9
 28942	Gema da Defesa+9
 28943	Gema da Pressa+9
-28960	PedaÁo de Pedra Partida
+28960	Peda√ßo de Pedra Partida
 29001	Vieira
 29002	Vieira Azul
 29003	Vieira Amarela
 29004	Vieira Vermelha
 29005	Vieira Verde
-29006	T·rtaro Amarelo
-29007	T·rtaro Azul
-29008	¡gua Benta Azul
-29009	¡gua Benta Amarela
-29010	¡gua Benta Vermelha
-29011	¡gua Benta Verde
-29012	M„o de Deus Azul Escura
-29013	¡gua Benta Amarelo-Clara
-29014	¡gua Benta Vermelha
-29015	M„o de Deus Verde Escura
+29006	T√°rtaro Amarelo
+29007	T√°rtaro Azul
+29008	√Ågua Benta Azul
+29009	√Ågua Benta Amarela
+29010	√Ågua Benta Vermelha
+29011	√Ågua Benta Verde
+29012	M√£o de Deus Azul Escura
+29013	√Ågua Benta Amarelo-Clara
+29014	√Ågua Benta Vermelha
+29015	M√£o de Deus Verde Escura
 29101	Picareta+0
 29102	Picareta+1
 29103	Picareta+2
@@ -3394,64 +3394,64 @@ VNUM	LOCALE_NAME
 30002	Salsicha Grelhada
 30003	Nariz de Porco
 30004	Dente de Javali
-30005	PeÁa de Armadura Partida
+30005	Pe√ßa de Armadura Partida
 30006	Dente de Orc
 30007	Amuleto de Orc
-30008	Cartilha EsotÈrica
-30009	RemÈdio Desconhecido
+30008	Cartilha Esot√©rica
+30009	Rem√©dio Desconhecido
 30010	Fel de Urso
 30011	Novelo
 30012	Garrafa de Vinho
 30013	Jarra de Licor
-30014	PÍlo de Yeti
-30015	LembranÁa do DemÛnio
-30016	Diamante do DemÛnio
+30014	P√™lo de Yeti
+30015	Lembran√ßa do Dem√≥nio
+30016	Diamante do Dem√≥nio
 30017	Gancho de Cabelo
 30018	Fita de Javali Rubro
 30019	Juba Flamejante
-30020	Semente de PÍssego
-30021	PedaÁo de Diamante
+30020	Semente de P√™ssego
+30021	Peda√ßo de Diamante
 30022	Rabo de Serpente
 30023	Couro de Tigre Branco
 30024	Rabo de Cavalo
 30025	Saco Venenoso De Aranha
 30026	Intestino de Lobo
-30027	PÍlo de Lobo
+30027	P√™lo de Lobo
 30028	Garra de Lobo
-30029	FÌgado de Lobo
-30030	L‚mina Ferrugenta
+30029	F√≠gado de Lobo
+30030	L√¢mina Ferrugenta
 30031	Ornamento
 30032	Uniforme Preto
 30033	Porcelana Partida
 30034	Fita de Javali Branco
 30035	Creme de Rosto
-30036	Erva MÌstica
+30036	Erva M√≠stica
 30037	Garra de Tigre
 30038	Pele de Tigre
-30039	PedaÁo de Tecido
+30039	Peda√ßo de Tecido
 30040	Folha
 30041	Shiriken
 30042	Presa de Tigre
-30043	Feij„o
+30043	Feij√£o
 30044	Barro
-30045	Ferr„o de Escorpi„o
-30046	Rabo de Escorpi„o
-30047	Livro da MaldiÁ„o
-30048	PedaÁo de Gelo
+30045	Ferr√£o de Escorpi√£o
+30046	Rabo de Escorpi√£o
+30047	Livro da Maldi√ß√£o
+30048	Peda√ßo de Gelo
 30049	Corno de Orca
-30050	M·rmore de Gelo
-30051	Talism„ Desconhecido
+30050	M√°rmore de Gelo
+30051	Talism√£ Desconhecido
 30052	Bandeira
-30053	Pele de PÈ de Urso
-30054	AlianÁa
-30055	Garra de Escorpi„o
+30053	Pele de P√© de Urso
+30054	Alian√ßa
+30055	Garra de Escorpi√£o
 30056	Teia de Aranha
 30057	Olhos de Aranha
 30058	Ovos de Aranha
 30059	Pernas de Aranha
-30060	LÌngua de R„
-30061	Pernas de R„
-30062	TaÁa Medicinal
+30060	L√≠ngua de R√£
+30061	Pernas de R√£
+30062	Ta√ßa Medicinal
 30063	Medicamento para Pele
 30064	Pedra de Afiar
 30065	Campainha
@@ -3459,28 +3459,28 @@ VNUM	LOCALE_NAME
 30067	Pele de Serpente
 30068	Bife de Tofu
 30069	Garra de Lobo+
-30070	PÍlo de Lobo+
+30070	P√™lo de Lobo+
 30071	Fel de Urso+
-30072	Pele de PÈ de Urso+
+30072	Pele de P√© de Urso+
 30073	Fita de Javali Branco+
 30074	Uniforme Preto+
 30075	Shiriken+
 30076	Amuleto de Orc+
 30077	Dente de Orc+
-30078	Cartilha EsotÈrica+
-30079	Talism„ Desconhecido+
-30080	Livro da MaldiÁ„o+
-30081	Rabo de Escorpi„o+
+30078	Cartilha Esot√©rica+
+30079	Talism√£ Desconhecido+
+30080	Livro da Maldi√ß√£o+
+30081	Rabo de Escorpi√£o+
 30082	Rabo de Serpente+
-30083	RemÈdio Desconhecido+
-30084	Talism„ Desconhecido+
-30085	PedaÁo de Tecido+
-30086	LembranÁa do DemÛnio+
-30087	Diamante do DemÛnio+
-30088	PedaÁo de Gelo+
-30089	PÍlo de Yeti+
-30090	M·rmore de Gelo+
-30091	SÌmbolo do Guerreiro
+30083	Rem√©dio Desconhecido+
+30084	Talism√£ Desconhecido+
+30085	Peda√ßo de Tecido+
+30086	Lembran√ßa do Dem√≥nio+
+30087	Diamante do Dem√≥nio+
+30088	Peda√ßo de Gelo+
+30089	P√™lo de Yeti+
+30090	M√°rmore de Gelo+
+30091	S√≠mbolo do Guerreiro
 30092	Dente de um Selvagem
 30093	Bolsa da Fortuna
 30094	Bolsa da Fortuna
@@ -3494,30 +3494,30 @@ VNUM	LOCALE_NAME
 30102	Machado Dourado
 30103	Dente Dourado de Orc
 30104	Teia d'Aranha do Deserto
-30105	Rabo Afiado de Escorpi„o
-30106	RemÈdio para Yu-Rang
+30105	Rabo Afiado de Escorpi√£o
+30106	Rem√©dio para Yu-Rang
 30107	Presa de Orc
-30108	Esmalte de Cer‚mica
+30108	Esmalte de Cer√¢mica
 30109	Teia d'Aranha de Deserto
 30110	Carta de Hu-Ahn-So
-30111	Rabo Afiado de Escorpi„o
+30111	Rabo Afiado de Escorpi√£o
 30112	Enguia
-30113	Escritura EsotÈrica
+30113	Escritura Esot√©rica
 30114	Praga
 30115	Cura da Praga
-30116	Pernas Traseiras de R„
+30116	Pernas Traseiras de R√£
 30117	Carta
-30118	Guarda-JÛias do DemÛnio
+30118	Guarda-J√≥ias do Dem√≥nio
 30119	Campainha
-30120	PedaÁo de um Mapa
-30121	PedaÁo de um Mapa
-30122	PedaÁo de um Mapa
-30123	PedaÁo de um Mapa
-30124	PedaÁo de um Mapa
-30125	PedaÁo de um Mapa
-30126	PedaÁo de um Mapa
-30127	PedaÁo de um Mapa
-30128	PedaÁo de um Mapa
+30120	Peda√ßo de um Mapa
+30121	Peda√ßo de um Mapa
+30122	Peda√ßo de um Mapa
+30123	Peda√ßo de um Mapa
+30124	Peda√ßo de um Mapa
+30125	Peda√ßo de um Mapa
+30126	Peda√ßo de um Mapa
+30127	Peda√ßo de um Mapa
+30128	Peda√ßo de um Mapa
 30129	Ordem do Cavaleiro
 30130	Garrafa Vazia
 30131	Carta de Deokbae
@@ -3530,18 +3530,18 @@ VNUM	LOCALE_NAME
 30138	Areia do Deserto
 30139	Dente Molar
 30140	Fio de Tecelagem
-30141	AcessÛrio
+30141	Acess√≥rio
 30142	Carta
 30143	Ervas Medicinais
-30144	FÌgado de Tigre
-30145	RemÈdio do Balso
-30146	PeÁa de Gelo
+30144	F√≠gado de Tigre
+30145	Rem√©dio do Balso
+30146	Pe√ßa de Gelo
 30147	Doutrina do Templo
 30148	Estola do Templo
 30149	Gelado com Xarope
-30150	P·gina do Di·rio
-30151	PÍlo de Lobo
-30152	RemÈdio
+30150	P√°gina do Di√°rio
+30151	P√™lo de Lobo
+30152	Rem√©dio
 30153	Flores
 30154	Livro do Templo Secreto
 30155	Pendente de Mirine
@@ -3549,80 +3549,80 @@ VNUM	LOCALE_NAME
 30157	Ponta de Flecha
 30158	Bolo de Arroz
 30159	Roupas
-30160	NotÌcias
+30160	Not√≠cias
 30161	Dardo do Marido
 30162	Olho de Aranha
-30163	Algod„o
-30164	TraduÁ„o das MaldiÁıes
+30163	Algod√£o
+30164	Tradu√ß√£o das Maldi√ß√µes
 30165	Ramo de Zelkova
 30166	Certificado de Tugyi
 30167	Ramo Vermelho
-30168	Nota do LÌder
+30168	Nota do L√≠der
 30169	Flor Vermelha
 30170	Flor Laranja
 30171	Flor Amarela
 30172	Ramo de Flores Nobre
-30173	PÍlo de Mu-Rang
+30173	P√™lo de Mu-Rang
 30174	Pata de Urso
-30175	LanÁa para CaÁar Baleias
-30176	PÍlo Brilhante de Tigre
-30177	EssÍncia de AlmÌscar
+30175	Lan√ßa para Ca√ßar Baleias
+30176	P√™lo Brilhante de Tigre
+30177	Ess√™ncia de Alm√≠scar
 30178	Pedra Ornamentada
 30179	Chave Torcida
-30180	Amuleto Deus Drag„o
-30181	P·gina
-30182	Di·rio Lend·rio
-30183	M·scara de Madeira Negra
-30184	Cinzas EnfeitiÁadas
+30180	Amuleto Deus Drag√£o
+30181	P√°gina
+30182	Di√°rio Lend√°rio
+30183	M√°scara de Madeira Negra
+30184	Cinzas Enfeiti√ßadas
 30185	Gelo Negro
-30186	L·grima Fossilizada
+30186	L√°grima Fossilizada
 30187	Gota de Sangue
 30188	Obsidiana
-30189	L·grimas do Deus Drag„o
+30189	L√°grimas do Deus Drag√£o
 30190	Pedra de Sangue
 30191	Pedra de Sangue
 30192	Seiva da Planta
 30193	Ossos de Esqueleto
 30194	Moca de um Orc
 30195	Areia de Quartzo
-30196	Cinzas do DemÛnio
-30197	Sementes M·gicas
-30198	Cristal de ¡gua
+30196	Cinzas do Dem√≥nio
+30197	Sementes M√°gicas
+30198	Cristal de √Ågua
 30199	Cristal Azul
-30201	Anel da VinganÁa
+30201	Anel da Vingan√ßa
 30202	Orelha de Tanaka
 30203	Cristal
-30204	PedaÁo de Cristal
-30205	Materiais de ProduÁ„o
-30210	PeÁa de Pedra Preciosa
-30211	PeÁa de Pedra Preciosa
-30212	PeÁa de Pedra Preciosa
-30213	PeÁa de Pedra Preciosa
-30214	PeÁa de Pedra Preciosa
-30215	PeÁa de Pedra Preciosa
-30216	PeÁa de Pedra Preciosa
-30217	PeÁa de Pedra Preciosa
-30218	PeÁa de Pedra Preciosa
-30219	PeÁa de Pedra Preciosa
-30220	Pedra-EspÌrita Jinunggyi
-30221	Pedra-EspÌrita do Templo
-30222	Pedra-EspÌrita Sagyi
-30223	Pedra-EspÌrita Aurtumryu
-30224	Pedra-EspÌrita Gyimok
-30225	Pedra-EspÌrita Tugyi
-30226	Pedra-EspÌrita Vermelha
-30227	Pedra-EspÌrita do LÌder
-30228	Pedra-EspÌrita do Drag„o
-30251	JÛia da MalevolÍncia
-30252	JÛia da Sabedoria
-30253	JÛia da Lealdade
+30204	Peda√ßo de Cristal
+30205	Materiais de Produ√ß√£o
+30210	Pe√ßa de Pedra Preciosa
+30211	Pe√ßa de Pedra Preciosa
+30212	Pe√ßa de Pedra Preciosa
+30213	Pe√ßa de Pedra Preciosa
+30214	Pe√ßa de Pedra Preciosa
+30215	Pe√ßa de Pedra Preciosa
+30216	Pe√ßa de Pedra Preciosa
+30217	Pe√ßa de Pedra Preciosa
+30218	Pe√ßa de Pedra Preciosa
+30219	Pe√ßa de Pedra Preciosa
+30220	Pedra-Esp√≠rita Jinunggyi
+30221	Pedra-Esp√≠rita do Templo
+30222	Pedra-Esp√≠rita Sagyi
+30223	Pedra-Esp√≠rita Aurtumryu
+30224	Pedra-Esp√≠rita Gyimok
+30225	Pedra-Esp√≠rita Tugyi
+30226	Pedra-Esp√≠rita Vermelha
+30227	Pedra-Esp√≠rita do L√≠der
+30228	Pedra-Esp√≠rita do Drag√£o
+30251	J√≥ia da Malevol√™ncia
+30252	J√≥ia da Sabedoria
+30253	J√≥ia da Lealdade
 30254	NoNAme
-30265	PedaÁo de Medalha (1)
-30266	PedaÁo de Medalha (2)
-30267	PedaÁo de Medalha (3)
-30268	PedaÁo de Medalha (4)
-30269	PedaÁo de Medalha (5)
-30270	Lasca de Pedra do Drag„o
+30265	Peda√ßo de Medalha (1)
+30266	Peda√ßo de Medalha (2)
+30267	Peda√ßo de Medalha (3)
+30268	Peda√ßo de Medalha (4)
+30269	Peda√ßo de Medalha (5)
+30270	Lasca de Pedra do Drag√£o
 30300	Velho Cofre Desconhecido
 30301	Mapa da Torre Sa-Gui
 30302	Mapa da Torre Zin-Sa-Gui
@@ -3630,37 +3630,37 @@ VNUM	LOCALE_NAME
 30304	Chave Zin-Bong-In
 30311	Chave de Azurite
 30312	Totem de Rosto
-30315	P„o
-30316	Prato de DoaÁıes
-30317	DoaÁ„o de Comida
-30318	Fruta da BÍnÁ„o
-30319	CabeÁa Encolhida
-30320	CabeÁa Encolhida
-30321	AbÛbora de Halloween
-30322	Varinha M·gica
-30323	Cup„o para M·scara
-30324	Chave do AracnÌdeo
-30325	Chave do AracnÌdeo
+30315	P√£o
+30316	Prato de Doa√ß√µes
+30317	Doa√ß√£o de Comida
+30318	Fruta da B√™n√ß√£o
+30319	Cabe√ßa Encolhida
+30320	Cabe√ßa Encolhida
+30321	Ab√≥bora de Halloween
+30322	Varinha M√°gica
+30323	Cup√£o para M√°scara
+30324	Chave do Aracn√≠deo
+30325	Chave do Aracn√≠deo
 30326	Veneno da Rainha Aranha
-30327	Apito do AracnÌdeo
+30327	Apito do Aracn√≠deo
 30329	Roda Dentada Dourada
 30330	Pedra de Maat
 30500	Faca de Gravura Rubi
 30501	Punho de Ouro
-30502	DecoraÁ„o Rubi
+30502	Decora√ß√£o Rubi
 30503	Faca de Gravura Ametista
 30504	Punho de Prata
-30505	DecoraÁ„o Esmeralda
+30505	Decora√ß√£o Esmeralda
 30506	Faca de Gravura Lazuli
 30507	Punho de Bronze
-30508	DecoraÁ„o Lazuli
-30509	AÁo de Drag„o Azul
+30508	Decora√ß√£o Lazuli
+30509	A√ßo de Drag√£o Azul
 30510	Dragona Grandiosa
 30511	Tecido Vermelho
-30512	AÁo de Drag„o Vermelho
+30512	A√ßo de Drag√£o Vermelho
 30513	Dragona Nobre
 30514	Tecido Violeta
-30515	AÁo de Drag„o P˙rpura
+30515	A√ßo de Drag√£o P√∫rpura
 30516	Dragona Antiga
 30517	Tecido Dourado
 30518	Fio Dourado
@@ -3732,38 +3732,38 @@ VNUM	LOCALE_NAME
 30584	NoNAme
 30585	NoNAme
 30586	NoNAme
-31001	CÛpia da InscriÁ„o
+31001	C√≥pia da Inscri√ß√£o
 31002	Documento Antigo
-31003	AntÌdoto
-31004	Resina da ¡rvore Sagrada
-31005	EssÍncia de Cristal Azul
+31003	Ant√≠doto
+31004	Resina da √Årvore Sagrada
+31005	Ess√™ncia de Cristal Azul
 31006	Quartzo Infernal
-31007	Terra Vulc‚nica
-31008	L·grima Celestial
+31007	Terra Vulc√¢nica
+31008	L√°grima Celestial
 31009	Carta dos Gnoll
-31010	Carta dos Ladrıes Rubros
+31010	Carta dos Ladr√µes Rubros
 31011	NoNAme
 31012	NoNAme
-31013	PedaÁo de Papel
+31013	Peda√ßo de Papel
 31014	NoNAme
-31015	Carta do Capit„o Ganchos
+31015	Carta do Capit√£o Ganchos
 31016	Carta de Lee Chung
 31017	Carta Selada
-31018	Manuscrito CarapaÁa
-31019	PÛ de CarapaÁa
+31018	Manuscrito Carapa√ßa
+31019	P√≥ de Carapa√ßa
 31020	Raiz de Flor-Rocha
 31021	NoNAme
 31022	Escama de Oin
 31023	NoNAme
-31024	Couro de MantÌcora
+31024	Couro de Mant√≠cora
 31025	NoNAme
-31026	Armadura Crust·cea
+31026	Armadura Crust√°cea
 31027	Areia Fina
 31028	Tijolo de Barro
 31029	Luz Interior
 31030	Luz Interior
-31031	EssÍncia Milenar
-31032	PÈrolas Leviathan
+31031	Ess√™ncia Milenar
+31032	P√©rolas Leviathan
 31033	Capa do Chefe
 31034	Totem dos Gigantes
 31035	Pedra Negra
@@ -3772,9 +3772,9 @@ VNUM	LOCALE_NAME
 31038	Terreno Sagrado
 31039	Saco de Moedas
 31040	Medalha Dourada
-31041	Terra FÛssil
-31042	LanÁa do Trit„o
-31043	Tabuleta dos LÈmures
+31041	Terra F√≥ssil
+31042	Lan√ßa do Trit√£o
+31043	Tabuleta dos L√©mures
 31044	NoNAme
 31045	NoNAme
 31046	NoNAme
@@ -3804,15 +3804,15 @@ VNUM	LOCALE_NAME
 31070	NoNAme
 31071	NoNAme
 31072	NoNAme
-31073	Faixa do CaÁador de Ouro
+31073	Faixa do Ca√ßador de Ouro
 31074	Colar Rebitado
 31075	Colar de Farpas
 31076	Ervas do Sol
-31077	PÛ de Pedra Basilar
+31077	P√≥ de Pedra Basilar
 31078	Lumen Puro
 31079	Carta para Yak-Hwan
 31080	Sangue do Rei Chama
-31081	MatÈria Negra
+31081	Mat√©ria Negra
 31082	Anel de Magma
 31083	Anel de Samael
 31084	NoNAme
@@ -3825,7 +3825,7 @@ VNUM	LOCALE_NAME
 31091	NoNAme
 31092	NoNAme
 35000	Ervas Medicinais+
-35001	FÌgado de Tigre+
+35001	F√≠gado de Tigre+
 38001	VIP-Feature
 38002	Tombola_ticket_today
 38003	Tombola_ticket_tomorrow
@@ -3846,41 +3846,41 @@ VNUM	LOCALE_NAME
 38102	Snack do Poder (30 Dias)
 38200	Selo de Rufus
 38201	Selo de Rufus
-39001	Pedra M·gica
-39002	Anel de ExperiÍncia
-39003	Vinho de Flor de PÍssego
-39004	M·rmore da BÍnÁ„o
-39005	Ferro M·gico
+39001	Pedra M√°gica
+39002	Anel de Experi√™ncia
+39003	Vinho de Flor de P√™ssego
+39004	M√°rmore da B√™n√ß√£o
+39005	Ferro M√°gico
 39006	Capa de Bravura
 39007	Manual do Ferreiro
 39008	Pergaminho do Exorcismo
 39009	Pergaminho da Habilidade
-39010	PoÁ„o de Ataque +10
-39011	BÍnÁ„o da Vida
-39012	BÍnÁ„o da Magia
-39013	BÍnÁ„o do Drag„o
+39010	Po√ß√£o de Ataque +10
+39011	B√™n√ß√£o da Vida
+39012	B√™n√ß√£o da Magia
+39013	B√™n√ß√£o do Drag√£o
 39014	Pergaminho da Guerra
 39015	Pedra do Ferreiro
-39016	Metal M·gico
-39017	Vida do Deus Drag„o
-39018	Ataque do Deus Drag„o
-39019	Magia do Deus Drag„o
-39020	Defesa do Deus Drag„o
-39021	Ajuda do Deus Drag„o
-39022	Pergaminho do Drag„o
+39016	Metal M√°gico
+39017	Vida do Deus Drag√£o
+39018	Ataque do Deus Drag√£o
+39019	Magia do Deus Drag√£o
+39020	Defesa do Deus Drag√£o
+39021	Ajuda do Deus Drag√£o
+39022	Pergaminho do Drag√£o
 39023	Elixir do Investigador
-39024	Golpe CrÌtico
+39024	Golpe Cr√≠tico
 39025	Golpe Perfurador
-39026	PoÁ„o de Velocidade
+39026	Po√ß√£o de Velocidade
 39027	Manual da Pedra
-39028	FeitiÁo para Itens
-39029	ReforÁo para Itens
+39028	Feiti√ßo para Itens
+39029	Refor√ßo para Itens
 39030	Conselho do Eremita
-39031	PoÁ„o da Rapidez
+39031	Po√ß√£o da Rapidez
 39032	Fruta da Vida
-39033	Pergaminho da CorrecÁ„o
-39034	AÁ˙car para Cavalo
-39035	Vidro da Perspic·cia
+39033	Pergaminho da Correc√ß√£o
+39034	A√ß√∫car para Cavalo
+39035	Vidro da Perspic√°cia
 39036	Sapatos de Vento
 39037	Elixir do Sol (P)
 39038	Elixir do Sol (M)
@@ -3900,24 +3900,24 @@ VNUM	LOCALE_NAME
 41002	Disfarce Bunny (pardo)
 41003	Guerreiro do Deserto (M)
 41004	Guerreiro do Deserto (F)
-41005	Esgrima OlÌmpica (M)
-41006	Esgrima OlÌmpica (F)
+41005	Esgrima Ol√≠mpica (M)
+41006	Esgrima Ol√≠mpica (F)
 41007	Esgrima GER (M)
 41008	Esgrima GER (F)
 41009	Esgrima TUR (M)
 41010	Esgrima TUR (F)
 41011	Esgrima BRA (M)
 41012	Esgrima BRA (F)
-41013	Futebol OlÌmpico (M)
-41014	Futebol OlÌmpico (F)
+41013	Futebol Ol√≠mpico (M)
+41014	Futebol Ol√≠mpico (F)
 41015	Futebol GER (M)
 41016	Futebol GER (F)
 41017	Futebol TUR (M)
 41018	Futebol TUR (F)
 41019	Futebol BRA (M)
 41020	Futebol BRA (F)
-41021	Boxe OlÌmpico (M)
-41022	Boxe OlÌmpico (F)
+41021	Boxe Ol√≠mpico (M)
+41022	Boxe Ol√≠mpico (F)
 41023	Boxe GER (M)
 41024	Boxe GER (F)
 41025	Boxe TUR (M)
@@ -3926,24 +3926,24 @@ VNUM	LOCALE_NAME
 41028	Boxe BRA (F)
 41029	Guerreiro Deserto (M, B)
 41030	Guerreiro Deserto (F, B)
-41031	Esgrima OlÌmpica (M)
-41032	Esgrima OlÌmpica (F)
+41031	Esgrima Ol√≠mpica (M)
+41032	Esgrima Ol√≠mpica (F)
 41033	Esgrima GER (M)
 41034	Esgrima GER (F)
 41035	Esgrima TUR (M)
 41036	Esgrima TUR (F)
 41037	Esgrima BRA (M)
 41038	Esgrima BRA (F)
-41039	Futebol OlÌmpico (M)
-41040	Futebol OlÌmpico (F)
+41039	Futebol Ol√≠mpico (M)
+41040	Futebol Ol√≠mpico (F)
 41041	Futebol GER (M)
 41042	Futebol GER (F)
 41043	Futebol TUR (M)
 41044	Futebol TUR (F)
 41045	Futebol BRA (M)
 41046	Futebol BRA (F)
-41047	Boxe OlÌmpico (M)
-41048	Boxe OlÌmpico (F)
+41047	Boxe Ol√≠mpico (M)
+41048	Boxe Ol√≠mpico (F)
 41049	Boxe GER (M)
 41050	Boxe GER (F)
 41051	Boxe TUR (M)
@@ -4016,16 +4016,16 @@ VNUM	LOCALE_NAME
 41120	Vestido de Salsa
 41121	Fato de Cavalheiro
 41122	Vestido de Cocktail
-41125	Smoking de AbÛbora
-41126	Vestido de AbÛbora
+41125	Smoking de Ab√≥bora
+41126	Vestido de Ab√≥bora
 41129	Disfarce Mosqueteiro +
 41130	Uniforme de Empregada +
 41131	Fato de Salsa +
 41132	Vestido de Salsa +
 41133	Fato de Cavalheiro +
 41134	Vestido de Cocktail +
-41135	Smoking de AbÛbora (BÛn)
-41136	Vestido de AbÛbora (BÛn)
+41135	Smoking de Ab√≥bora (B√≥n)
+41136	Vestido de Ab√≥bora (B√≥n)
 41137	Disfarce Natal(Vermelho)
 41138	Vestido Natal (Vermelho)
 41139	Disfarce Natal (Verde)
@@ -4046,8 +4046,8 @@ VNUM	LOCALE_NAME
 41154	AC Miryang (F)
 41155	AFC Yayang (M)
 41156	AFC Yayang (F)
-41157	RSC PlanÌcie Seca (M)
-41158	RSC PlanÌcie Seca (F)
+41157	RSC Plan√≠cie Seca (M)
+41158	RSC Plan√≠cie Seca (F)
 41159	Yongan FC (M)
 41160	Yongan FC (F)
 41161	FC Bakra (M)
@@ -4062,8 +4062,8 @@ VNUM	LOCALE_NAME
 41170	SC Doyyum (F)
 41171	Hasun Dong FC (M)
 41172	Hasun Dong FC (F)
-41173	CFR Fogo Drag„o 07 (M)
-41174	CFR Fogo Drag„o 07 (F)
+41173	CFR Fogo Drag√£o 07 (M)
+41174	CFR Fogo Drag√£o 07 (F)
 41175	Daeyami FC (M)
 41176	Daeyami FC (F)
 41177	GNK Kuahlo Dong (M)
@@ -4086,10 +4086,10 @@ VNUM	LOCALE_NAME
 41194	Nephrite City FC (F)
 41195	Shinsoo United (M)
 41196	Shinsoo United (F)
-41197	Vale do Drag„o SC (M)
-41198	Vale do Drag„o SC (F)
-41199	Montanhas Trov„o FC (M)
-41200	Montanhas Trov„o FC (F)
+41197	Vale do Drag√£o SC (M)
+41198	Vale do Drag√£o SC (F)
+41199	Montanhas Trov√£o FC (M)
+41200	Montanhas Trov√£o FC (F)
 41201	Pyungmoo Saint Hwang (M)
 41202	Pyungmoo Saint Hwang (F)
 41203	Real Sohan (M)
@@ -4110,8 +4110,8 @@ VNUM	LOCALE_NAME
 41218	AC Miryang+ (F)
 41219	AFC Yayang+ (M)
 41220	AFC Yayang+ (F)
-41221	RSC PlanÌcie Seca+ (M)
-41222	RSC PlanÌcie Seca+ (F)
+41221	RSC Plan√≠cie Seca+ (M)
+41222	RSC Plan√≠cie Seca+ (F)
 41223	Yongan FC+ (M)
 41224	Yongan FC+ (F)
 41225	FC Bakra+ (M)
@@ -4126,8 +4126,8 @@ VNUM	LOCALE_NAME
 41234	SC Doyyum+ (F)
 41235	Hasun Dong FC+ (M)
 41236	Hasun Dong FC+ (F)
-41237	CFR Fogo Drag„o 07+ (M)
-41238	CFR Fogo Drag„o 07+ (F)
+41237	CFR Fogo Drag√£o 07+ (M)
+41238	CFR Fogo Drag√£o 07+ (F)
 41239	Daeyami FC+ (M)
 41240	Daeyami FC+ (F)
 41241	GNK Kuahlo Dong+ (M)
@@ -4150,10 +4150,10 @@ VNUM	LOCALE_NAME
 41258	Nephrite City FC+ (F)
 41259	Shinsoo United+ (M)
 41260	Shinsoo United+ (F)
-41261	Vale do Drag„o SC+ (M)
-41262	Vale do Drag„o SC+ (F)
-41263	Montanhas Trov„o FC+ (M)
-41264	Montanhas Trov„o FC+ (F)
+41261	Vale do Drag√£o SC+ (M)
+41262	Vale do Drag√£o SC+ (F)
+41263	Montanhas Trov√£o FC+ (M)
+41264	Montanhas Trov√£o FC+ (F)
 41265	Pyungmoo Saint Hwang+ (M)
 41266	Pyungmoo Saint Hwang+ (F)
 41267	Real Sohan+ (M)
@@ -4198,11 +4198,11 @@ VNUM	LOCALE_NAME
 41316	Armadura Azrael (f)
 41317	Armadura Azrael+ (m)
 41318	Armadura Azrael+ (f)
-41319	»ÊªÁ∞©
-41320	Fato Jack AbÛbora (m)
-41321	Vestido Jack AbÛbora (f)
-41322	Fato Jack AbÛbora+ (m)
-41323	Vestido Jack AbÛbora+ (f)
+41319	√à√¶¬ª√ß¬∞¬©
+41320	Fato Jack Ab√≥bora (m)
+41321	Vestido Jack Ab√≥bora (f)
+41322	Fato Jack Ab√≥bora+ (m)
+41323	Vestido Jack Ab√≥bora+ (f)
 45001	Orelhas Bunny (castanhas)
 45002	Orelhas Coelho (pardas)
 45003	Turbante (M)
@@ -4259,28 +4259,28 @@ VNUM	LOCALE_NAME
 45056	Penteado de Salsa
 45057	Fedora Bogart
 45058	Penteado de Flores
-45061	M·scara de AbÛbora
-45062	M·scara de AbÛbora
+45061	M√°scara de Ab√≥bora
+45062	M√°scara de Ab√≥bora
 45065	Penteado Mosqueteiro +
 45066	Touca de Empregada +
 45067	Mini Moicano +
 45068	Penteado de Salsa +
 45069	Fedora Bogart +
 45070	Penteado de Flores +
-45073	M·scara de AbÛbora (BÛn)
-45074	M·scara de AbÛbora (BÛn)
-45075	ChapÈu Natal (Vermelho)
-45076	ChapÈu Natal (Verde)
-45077	ChapÈu Natal (Preto)
-45078	ChapÈu de Elfo
-45079	CabeÁa de Rena (M)
-45080	CabeÁa de Rena (F)
-45081	ChapÈu Natal+ (Vermelho)
-45082	ChapÈu Natal+ (Verde)
-45083	ChapÈu Natal+ (Preto)
-45084	ChapÈu de Elfo+
-45085	CabeÁa de Rena+ (M)
-45086	CabeÁa de Rena+ (F)
+45073	M√°scara de Ab√≥bora (B√≥n)
+45074	M√°scara de Ab√≥bora (B√≥n)
+45075	Chap√©u Natal (Vermelho)
+45076	Chap√©u Natal (Verde)
+45077	Chap√©u Natal (Preto)
+45078	Chap√©u de Elfo
+45079	Cabe√ßa de Rena (M)
+45080	Cabe√ßa de Rena (F)
+45081	Chap√©u Natal+ (Vermelho)
+45082	Chap√©u Natal+ (Verde)
+45083	Chap√©u Natal+ (Preto)
+45084	Chap√©u de Elfo+
+45085	Cabe√ßa de Rena+ (M)
+45086	Cabe√ßa de Rena+ (F)
 45087	Bandana (branca)
 45088	Bandana (branca)
 45089	Bandana (preta)
@@ -4321,14 +4321,14 @@ VNUM	LOCALE_NAME
 45136	Penteado Cobra (f)
 45137	Penteado Cobra+ (m)
 45138	Penteado Cobra+ (f)
-45139	M·scara Tengu
-45140	M·scara Veneziana
-45141	M·scara Kifwebe
-45142	M·scara Maia
-45143	M·scara Tengu+
-45144	M·scara Veneziana+
-45145	M·scara Kifwebe+
-45146	M·scara Maia+
+45139	M√°scara Tengu
+45140	M√°scara Veneziana
+45141	M√°scara Kifwebe
+45142	M√°scara Maia
+45143	M√°scara Tengu+
+45144	M√°scara Veneziana+
+45145	M√°scara Kifwebe+
+45146	M√°scara Maia+
 45147	Turbante Preto (M)
 45148	Turbante Preto (F)
 45149	Turbante Preto+ (M)
@@ -4337,16 +4337,16 @@ VNUM	LOCALE_NAME
 45152	Elmo Azrael (f)
 45153	Elmo Azrael+ (m)
 45154	Elmo Azrael+ (f)
-45155	»ÊªÁ≈ı±∏
-45156	CabeÁa do Jack AbÛbora (m
-45157	CabeÁa do Jack AbÛbora (f
-45158	CabeÁa do Jack AbÛbora+ (
-45159	CabeÁa do Jack AbÛbora+ (
+45155	√à√¶¬ª√ß√Ö√µ¬±¬∏
+45156	Cabe√ßa do Jack Ab√≥bora (m
+45157	Cabe√ßa do Jack Ab√≥bora (f
+45158	Cabe√ßa do Jack Ab√≥bora+ (
+45159	Cabe√ßa do Jack Ab√≥bora+ (
 50001	Livro da Boa-Sorte
 50002	Anel d'Ouro
 50003	Documento de Habilidades
 50004	Detector de Eventos
-50005	Bilhete de EquitaÁ„o
+50005	Bilhete de Equita√ß√£o
 50006	Caixa Tesouro d'Ouro
 50007	Caixa Tesouro de Prata
 50008	Chave d'Ouro
@@ -4357,12 +4357,12 @@ VNUM	LOCALE_NAME
 50013	Caixa Tesouro de Prata+
 50014	Chave d'Ouro+
 50015	Chave de Prata+
-50016	Pasta de Feij„o
-50017	Pasta de AÁ˙car
+50016	Pasta de Feij√£o
+50017	Pasta de A√ß√∫car
 50018	Pasta de Fruta
 50019	Arroz Doce
-50020	Bolo de Feij„o
-50021	Bolo de AÁ˙car
+50020	Bolo de Feij√£o
+50021	Bolo de A√ß√∫car
 50022	Bolo de Fruta
 50023	Bolsa de Dinheiro
 50024	Rosa
@@ -4374,8 +4374,8 @@ VNUM	LOCALE_NAME
 50030	Anel d'Ouro de 14k
 50031	Rosa
 50032	Chupa-Chupa
-50033	Caixa MistÈrio
-50034	Caixa Quebra-CabeÁas
+50033	Caixa Mist√©rio
+50034	Caixa Quebra-Cabe√ßas
 50035	Presente (Amarelo)
 50036	Presente (Violeta)
 50037	Caixa Tesouro Hexagonal
@@ -4383,8 +4383,8 @@ VNUM	LOCALE_NAME
 50039	Certificado de Prata
 50040	Certificado d'Ouro
 50041	Embrulho
-50042	Medalha Dourada do HerÛi
-50050	Medalha de EquitaÁ„o
+50042	Medalha Dourada do Her√≥i
+50050	Medalha de Equita√ß√£o
 50051	Miniatura do Cavalo
 50052	Livro do Cavalo Armado
 50053	Livro do Cavalo Militar
@@ -4394,14 +4394,14 @@ VNUM	LOCALE_NAME
 50057	Erva Rosa
 50058	Erva Verde
 50059	Erva Azul
-50060	Livro Arte de EquitaÁ„o
+50060	Livro Arte de Equita√ß√£o
 50061	Manual d'Amestrar Cavalo
-50062	Manual de EquitaÁ„o
-50067	Pergaminho da EvoluÁ„o
-50068	Pergaminho da MutaÁ„o
+50062	Manual de Equita√ß√£o
+50067	Pergaminho da Evolu√ß√£o
+50068	Pergaminho da Muta√ß√£o
 50070	Cofre do Chefe Orc
-50071	Cofre do LÌder Negro
-50072	Cofre do LÌder Fantasma
+50071	Cofre do L√≠der Negro
+50072	Cofre do L√≠der Fantasma
 50073	Cofre da Rainha Aranha
 50074	Cofre do Rei Aranha
 50075	Cofre Portador de Praga
@@ -4409,10 +4409,10 @@ VNUM	LOCALE_NAME
 50077	Cofre do Nove Caudas
 50078	Cofre do Tigre Fantasma
 50079	Cofre do Rei Chama
-50080	Cofre do Drag„o Vermelho
-50081	Cofre do Rei DemÛnio
+50080	Cofre do Drag√£o Vermelho
+50081	Cofre do Rei Dem√≥nio
 50082	Cofre da Morte
-50083	Bilhete de EquitaÁ„o
+50083	Bilhete de Equita√ß√£o
 50084	Pedra-Chave
 50085	Semente
 50086	Bolo Lua
@@ -4422,28 +4422,28 @@ VNUM	LOCALE_NAME
 50090	Cofre do Nove Caudas
 50091	Sushi de Peixe Dourado
 50092	Sushi de Carpa
-50093	Sushi de Salm„o
+50093	Sushi de Salm√£o
 50094	Sushi de Peixe Gato
-50095	AbÛbora
+50095	Ab√≥bora
 50096	Bola de Futebol
-50100	Fogo de ArtifÌcio
-50101	Fogo de ArtifÌcio
-50102	Fogo de ArtifÌcio
-50103	Fogo de ArtifÌcio
-50104	Fogo de ArtifÌcio
-50105	Fogo de ArtifÌcio
-50106	Fogo de ArtifÌcio Natal
-50107	Fogo de ArtifÌcio ChinÍs
-50108	Bombinha de ArtifÌcio
-50109	Caixa d'…bano Vermelha
-50110	Caixa d'…bano Luxuosa
-50111	Caixa d'…bano Amarela
-50112	Caixa d'…bano Verde-Lima
-50113	Caixa d'…bano Verde
-50114	Caixa d'…bano Azul
-50115	Caixa d'…bano P˙rpura
+50100	Fogo de Artif√≠cio
+50101	Fogo de Artif√≠cio
+50102	Fogo de Artif√≠cio
+50103	Fogo de Artif√≠cio
+50104	Fogo de Artif√≠cio
+50105	Fogo de Artif√≠cio
+50106	Fogo de Artif√≠cio Natal
+50107	Fogo de Artif√≠cio Chin√™s
+50108	Bombinha de Artif√≠cio
+50109	Caixa d'√âbano Vermelha
+50110	Caixa d'√âbano Luxuosa
+50111	Caixa d'√âbano Amarela
+50112	Caixa d'√âbano Verde-Lima
+50113	Caixa d'√âbano Verde
+50114	Caixa d'√âbano Azul
+50115	Caixa d'√âbano P√∫rpura
 50116	Troca de Armas Bon
-50117	Caixa de JÛias
+50117	Caixa de J√≥ias
 50118	NoNAme
 50119	NoNAme
 50120	Cofre de Ferro
@@ -4453,47 +4453,47 @@ VNUM	LOCALE_NAME
 50124	Caixa de Madeira Podre
 50125	Cofre Misterioso
 50126	Cofre Misterioso
-50127	Caixa MistÈrio Esmeralda
-50128	Caixa MistÈrio Safira
-50129	Caixa MistÈrio Ametista
-50130	Caixa MistÈrio Top·zio
-50131	Caixa MistÈrio Citrina
-50132	Caixa MistÈrio Rubi
-50133	Caixa MistÈrio Esmeralda
-50134	Caixa MistÈrio Safira
-50135	Caixa MistÈrio Ametista
-50136	Caixa MistÈrio Top·zio
-50137	Caixa MistÈrio Citrina
+50127	Caixa Mist√©rio Esmeralda
+50128	Caixa Mist√©rio Safira
+50129	Caixa Mist√©rio Ametista
+50130	Caixa Mist√©rio Top√°zio
+50131	Caixa Mist√©rio Citrina
+50132	Caixa Mist√©rio Rubi
+50133	Caixa Mist√©rio Esmeralda
+50134	Caixa Mist√©rio Safira
+50135	Caixa Mist√©rio Ametista
+50136	Caixa Mist√©rio Top√°zio
+50137	Caixa Mist√©rio Citrina
 50150	Chave de Rubi
 50151	Chave de Esmeralda
 50152	Chave de Safira
 50153	Chave de Ametista
-50154	Chave de Top·zio
+50154	Chave de Top√°zio
 50155	Chave de Citrina
 50156	Chave de Diamante
-50160	Ovo da P·scoa
-50161	Ovo da P·scoa
-50162	Ovo da P·scoa
-50163	Ovo da P·scoa
-50164	Ovo da P·scoa
-50165	Ovo da P·scoa
-50166	Ovo da P·scoa
-50167	Ovo da P·scoa
-50168	Ovo da P·scoa
-50169	Ovo da P·scoa
-50170	Ovo da P·scoa
-50171	Ovo da P·scoa
-50172	Ovo da P·scoa
-50173	Ovo da P·scoa
-50174	Ovo da P·scoa
-50175	Ovo da P·scoa
-50176	Ovo da P·scoa
-50177	Ovo da P·scoa
-50178	Ovo da P·scoa
-50179	Ovo da P·scoa
+50160	Ovo da P√°scoa
+50161	Ovo da P√°scoa
+50162	Ovo da P√°scoa
+50163	Ovo da P√°scoa
+50164	Ovo da P√°scoa
+50165	Ovo da P√°scoa
+50166	Ovo da P√°scoa
+50167	Ovo da P√°scoa
+50168	Ovo da P√°scoa
+50169	Ovo da P√°scoa
+50170	Ovo da P√°scoa
+50171	Ovo da P√°scoa
+50172	Ovo da P√°scoa
+50173	Ovo da P√°scoa
+50174	Ovo da P√°scoa
+50175	Ovo da P√°scoa
+50176	Ovo da P√°scoa
+50177	Ovo da P√°scoa
+50178	Ovo da P√°scoa
+50179	Ovo da P√°scoa
 50180	Cesto Vazio
-50181	Cesto com Ovos de P·scoa
-50182	Cofre AbenÁoado
+50181	Cesto com Ovos de P√°scoa
+50182	Cofre Aben√ßoado
 50183	Guloseimas
 50184	NoNAme
 50185	NoNAme
@@ -4526,7 +4526,7 @@ VNUM	LOCALE_NAME
 50256	Cor Draconis (Talhado)
 50257	Cor Draconis (Raro)
 50258	Cor Draconis (Antigo)
-50259	Cor Draconis (Lend·rio)
+50259	Cor Draconis (Lend√°rio)
 50260	Cor Draconis (Cru)
 50300	Livro de Habilidades
 50301	Arte da Guerra Sun-Zi
@@ -4535,34 +4535,34 @@ VNUM	LOCALE_NAME
 50304	Mestria do Combo
 50305	Livro do Combo Mestre
 50306	Arte do Combo
-50307	Livro da Miss„o F·cil
-50308	Livro da Miss„o Normal
-50309	Livro da Miss„o DifÌcil
-50310	Livro da Miss„o Mestre
-50311	Arte da LÌngua Shinsoo
-50312	Arte da LÌngua Chunjo
-50313	Arte da LÌngua Jinno
+50307	Livro da Miss√£o F√°cil
+50308	Livro da Miss√£o Normal
+50309	Livro da Miss√£o Dif√≠cil
+50310	Livro da Miss√£o Mestre
+50311	Arte da L√≠ngua Shinsoo
+50312	Arte da L√≠ngua Chunjo
+50313	Arte da L√≠ngua Jinno
 50314	Livro da Forma(1)
-50315	Livro da MutaÁ„o(2)
+50315	Livro da Muta√ß√£o(2)
 50316	Livro do Polimorfismo(3)
-50317	Livro da Miss„o Teste
-50318	Livro da Miss„o F·cil
-50319	Livro da Miss„o Normal
-50320	Livro da Miss„o DifÌcil
-50321	Livro da Miss„o Mestre
-50322	Livro da TransformaÁ„o
+50317	Livro da Miss√£o Teste
+50318	Livro da Miss√£o F√°cil
+50319	Livro da Miss√£o Normal
+50320	Livro da Miss√£o Dif√≠cil
+50321	Livro da Miss√£o Mestre
+50322	Livro da Transforma√ß√£o
 50401	Manual Ataque Triplo
 50402	Manual Espada Rotativa
 50403	Manual Raiva
 50404	Manual Aura da Espada
 50405	Manual Investida
-50416	Manual ForÁa do Golpe
+50416	Manual For√ßa do Golpe
 50417	Manual Ataque Destrutivo
 50418	Manual Terramoto
 50419	Manual Corpo Forte
 50420	Manual Ataque de Espada
 50431	Manual Emboscar
-50432	Manual Ataque R·pido
+50432	Manual Ataque R√°pido
 50433	Manual Adaga Rotativa
 50434	Manual Modo Furtivo
 50435	Manual Nuvem Venenosa
@@ -4572,59 +4572,59 @@ VNUM	LOCALE_NAME
 50449	Manual Flutuar
 50450	Manual Seta Envenenada
 50461	Manual Ataque do Dedo
-50462	Manual Espiral do Drag„o
-50463	Manual L‚mina Encantada
+50462	Manual Espiral do Drag√£o
+50463	Manual L√¢mina Encantada
 50464	Manual Receio
 50465	Manual Armadura Negra
 50466	Manual Remover Efeito
 50476	Manual Ataque Obscuro
 50477	Manual Ataque Chama
-50478	Manual EspÌrito da Chama
-50479	Manual ProtecÁ„o Sombria
+50478	Manual Esp√≠rito da Chama
+50479	Manual Protec√ß√£o Sombria
 50480	Manual Ataque Espiritual
-50481	Manual Bola da Escurid„o
-50491	Manual Talism„ Voador
-50492	Manual Ataque do Drag„o
-50493	Manual Rugido do Drag„o
-50494	Manual BÍnÁ„o
+50481	Manual Bola da Escurid√£o
+50491	Manual Talism√£ Voador
+50492	Manual Ataque do Drag√£o
+50493	Manual Rugido do Drag√£o
+50494	Manual B√™n√ß√£o
 50495	Manual Poder Reflectivo
-50496	Manual Ajuda do Drag„o
+50496	Manual Ajuda do Drag√£o
 50506	Manual Atirar Raio
 50507	Manual Invocar Raio
 50508	Manual Garra de Raios
 50509	Manual Cura
 50510	Manual Rapidez
 50511	Manual Energia
-50512	Pedra Arco-Õris
+50512	Pedra Arco-√çris
 50513	Pedra da Alma
 50600	Livro de Garimpar
 50601	Pedra Diamante
-50602	Pedra ¬mbar
-50603	Madeira FÛssil
-50604	MinÈrio de Cobre
-50605	MinÈrio de Prata
-50606	MinÈrio d'Ouro
-50607	MinÈrio de Jade
-50608	MinÈrio de …bano
-50609	PeÁa de PÈrola
-50610	MinÈrio de Platina
-50611	MinÈrio de Cristal
-50612	MinÈrio de Ametista
-50613	MinÈrio de Safira
-50614	MinÈrio de Azurite
-50615	MinÈrio de Rubi
-50616	MinÈrio de Granada
-50617	MinÈrio de Esmeralda
-50618	MinÈrio de L·pis Lazuli
+50602	Pedra √Çmbar
+50603	Madeira F√≥ssil
+50604	Min√©rio de Cobre
+50605	Min√©rio de Prata
+50606	Min√©rio d'Ouro
+50607	Min√©rio de Jade
+50608	Min√©rio de √âbano
+50609	Pe√ßa de P√©rola
+50610	Min√©rio de Platina
+50611	Min√©rio de Cristal
+50612	Min√©rio de Ametista
+50613	Min√©rio de Safira
+50614	Min√©rio de Azurite
+50615	Min√©rio de Rubi
+50616	Min√©rio de Granada
+50617	Min√©rio de Esmeralda
+50618	Min√©rio de L√°pis Lazuli
 50621	Diamante
-50622	¬mbar
+50622	√Çmbar
 50623	Madeira
 50624	Cobre
 50625	Prata
 50626	Ouro
 50627	Jade
-50628	…bano
-50629	PÈrola
+50628	√âbano
+50629	P√©rola
 50630	Platina
 50631	Cristal
 50632	Ametista
@@ -4633,51 +4633,51 @@ VNUM	LOCALE_NAME
 50635	Rubi
 50636	Granada
 50637	Esmeralda
-50638	L·pis Lazuli
-50701	Flor de PÍssego
+50638	L√°pis Lazuli
+50701	Flor de P√™ssego
 50702	Flor de Sino
 50703	Flor de Kaki
 50704	Raiz de Gango
-50705	Lil·s
+50705	Lil√°s
 50706	Cogumelo Tue
 50707	Rosa Alpina
 50708	Amoras
-50709	Dente de Le„o
+50709	Dente de Le√£o
 50710	Cardo
-50711	T‚mara
+50711	T√¢mara
 50712	Planta Sam-Zi
-50721	Flor de PÍssego
+50721	Flor de P√™ssego
 50722	Flor de sino
 50723	Flor de Kaki
 50724	Raiz de Gango
-50725	Lil·s
+50725	Lil√°s
 50726	Cogumelo Tue
 50727	Rosa Alpina
 50728	Amora
-50729	Dente de Le„o
+50729	Dente de Le√£o
 50730	Cardo
-50731	T‚mara
+50731	T√¢mara
 50732	Planta Sam-Zi
-50801	Sumo de Flor de PÍssego
+50801	Sumo de Flor de P√™ssego
 50802	Sumo de Flor de Sino
 50803	Sumo de Flor de Kaki
 50804	Sumo de Raiz de Gango
-50805	Sumo de Lil·s
+50805	Sumo de Lil√°s
 50806	Sumo de Cogumelos Tue
 50807	Sumo de Rosa Alpina
 50808	Sumo de Amora
-50809	Sumo de Dente de Le„o
+50809	Sumo de Dente de Le√£o
 50810	Sumo de Cardo
-50811	Sumo de T‚mara
+50811	Sumo de T√¢mara
 50812	Sumo de Planta Sam-Zi
-50813	¡gua Sim
-50814	¡gua Dok
-50815	¡gua Bo
-50816	¡gua Young
-50817	¡gua Zin
-50818	¡gua Sambo
-50819	¡gua Mong
-50820	¡gua Hwal
+50813	√Ågua Sim
+50814	√Ågua Dok
+50815	√Ågua Bo
+50816	√Ågua Young
+50817	√Ågua Zin
+50818	√Ågua Sambo
+50819	√Ågua Mong
+50820	√Ågua Hwal
 50821	Orvalho Vermelho
 50822	Orvalho Rosa
 50823	Orvalho Amarelo
@@ -4688,12 +4688,12 @@ VNUM	LOCALE_NAME
 50902	Receita do Iniciante
 50903	Receita
 50904	Receita do Profissional
-50905	Receita de ¡gua Sim
-50906	Receita de ¡gua Dok
-50907	Receita de ¡gua Bo
-50908	Receita de ¡gua Young
-50909	Receita de ¡gua Zin
-50910	Receita de ¡gua Hwal
+50905	Receita de √Ågua Sim
+50906	Receita de √Ågua Dok
+50907	Receita de √Ågua Bo
+50908	Receita de √Ågua Young
+50909	Receita de √Ågua Zin
+50910	Receita de √Ågua Hwal
 51001	Fragmento de Energia
 51002	Cristal de Energia
 51501	Cor Draconis (Cru)
@@ -4701,11 +4701,11 @@ VNUM	LOCALE_NAME
 51503	Cor Draconis (Normal)
 51504	Cor Draconis (Nobre)
 51505	Cor Draconis (Precioso)
-51506	Cor Draconis (MÌstico)
+51506	Cor Draconis (M√≠stico)
 51507	Cor Draconis (Talhado)
 51508	Cor Draconis (Raro)
 51509	Cor Draconis (Antigo)
-51510	Cor Draconis (Lend·rio)
+51510	Cor Draconis (Lend√°rio)
 51511	Cor Diamas
 51512	Cor Rubinum
 51513	Cor Jadeit
@@ -4751,19 +4751,19 @@ VNUM	LOCALE_NAME
 51553	Cor Saphirum (Eterno)
 51554	Cor Granatum (Eterno)
 51555	Cor Atrum (Eterno)
-51556	Cor Diamas (MÌstico)
-51557	Cor Rubinum (MÌstico)
-51558	Cor Jadeit (MÌstico)
-51559	Cor Saphirum (MÌstico)
-51560	Cor Granatum (MÌstico)
-51561	Cor Atrum (MÌstico)
-51562	Cor Draconis (…pico)
-51563	Cor Diamas (…pico)
-51564	Cor Rubinum (…pico)
-51565	Cor Jadeit (…pico)
-51566	Cor Saphirum (…pico)
-51567	Cor Granatum (…pico)
-51568	Cor Atrum (…pico)
+51556	Cor Diamas (M√≠stico)
+51557	Cor Rubinum (M√≠stico)
+51558	Cor Jadeit (M√≠stico)
+51559	Cor Saphirum (M√≠stico)
+51560	Cor Granatum (M√≠stico)
+51561	Cor Atrum (M√≠stico)
+51562	Cor Draconis (√âpico)
+51563	Cor Diamas (√âpico)
+51564	Cor Rubinum (√âpico)
+51565	Cor Jadeit (√âpico)
+51566	Cor Saphirum (√âpico)
+51567	Cor Granatum (√âpico)
+51568	Cor Atrum (√âpico)
 51569	Cor Draconis (Divino)
 51570	Cor Diamas (Divino)
 51571	Cor Rubinum (Divino)
@@ -4813,20 +4813,20 @@ VNUM	LOCALE_NAME
 51615	Cor Saphirum+ (Eterno)
 51616	Cor Granatum+ (Eterno)
 51617	Cor Atrum+ (Eterno)
-51618	Cor Draconis+ (MÌstico)
-51619	Cor Diamas+ (MÌstico)
-51620	Cor Rubinum+ (MÌstico)
-51621	Cor Jadeit+ (MÌstico)
-51622	Cor Saphirum+ (MÌstico)
-51623	Cor Granatum+ (MÌstico)
-51624	Cor Atrum+ (MÌstico)
-51625	Cor Draconis+ (…pico)
-51626	Cor Diamas+ (…pico)
-51627	Cor Rubinum+ (…pico)
-51628	Cor Jadeit+ (…pico)
-51629	Cor Saphirum+ (…pico)
-51630	Cor Granatum+ (…pico)
-51631	Cor Atrum+ (…pico)
+51618	Cor Draconis+ (M√≠stico)
+51619	Cor Diamas+ (M√≠stico)
+51620	Cor Rubinum+ (M√≠stico)
+51621	Cor Jadeit+ (M√≠stico)
+51622	Cor Saphirum+ (M√≠stico)
+51623	Cor Granatum+ (M√≠stico)
+51624	Cor Atrum+ (M√≠stico)
+51625	Cor Draconis+ (√âpico)
+51626	Cor Diamas+ (√âpico)
+51627	Cor Rubinum+ (√âpico)
+51628	Cor Jadeit+ (√âpico)
+51629	Cor Saphirum+ (√âpico)
+51630	Cor Granatum+ (√âpico)
+51631	Cor Atrum+ (√âpico)
 51632	Cor Draconis+ (Divino)
 51633	Cor Diamas+ (Divino)
 51634	Cor Rubinum+ (Divino)
@@ -4834,14 +4834,14 @@ VNUM	LOCALE_NAME
 51636	Cor Saphirum+ (Divino)
 51637	Cor Granatum+ (Divino)
 51638	Cor Atrum+ (Divino)
-51639	Ba˙ do Drag„o
-51640	Ba˙ do Drag„o+
-51641	Ba˙ do Drag„o+ (Multi)
-51642	Ba˙ do Drag„o (Multi)
-51643	Ba˙ do Drag„o Nobre
-51644	Ba˙ do Drag„o Nobre+
-51645	Ba˙ do Drag„o N+ (Multi)
-51646	Ba˙ do Drag„o (Multi)
+51639	Ba√∫ do Drag√£o
+51640	Ba√∫ do Drag√£o+
+51641	Ba√∫ do Drag√£o+ (Multi)
+51642	Ba√∫ do Drag√£o (Multi)
+51643	Ba√∫ do Drag√£o Nobre
+51644	Ba√∫ do Drag√£o Nobre+
+51645	Ba√∫ do Drag√£o N+ (Multi)
+51646	Ba√∫ do Drag√£o (Multi)
 52001	Javali Jovem (Selo)
 52002	Javali Jovem (Selo)
 52003	Javali Jovem (Selo)
@@ -4872,21 +4872,21 @@ VNUM	LOCALE_NAME
 52028	Lobo Corajoso (Selo)
 52029	Lobo Corajoso (Selo)
 52030	Lobo Corajoso (Selo)
-52031	Le„o Jovem (Selo)
-52032	Le„o Jovem (Selo)
-52033	Le„o Jovem (Selo)
-52034	Le„o Jovem (Selo)
-52035	Le„o Jovem (Selo)
-52036	Le„o Selvagem (Selo)
-52037	Le„o Selvagem (Selo)
-52038	Le„o Selvagem (Selo)
-52039	Le„o Selvagem (Selo)
-52040	Le„o Selvagem (Selo)
-52041	Le„o Corajoso (Selo)
-52042	Le„o Corajoso (Selo)
-52043	Le„o Corajoso (Selo)
-52044	Le„o Corajoso (Selo)
-52045	Le„o Corajoso (Selo)
+52031	Le√£o Jovem (Selo)
+52032	Le√£o Jovem (Selo)
+52033	Le√£o Jovem (Selo)
+52034	Le√£o Jovem (Selo)
+52035	Le√£o Jovem (Selo)
+52036	Le√£o Selvagem (Selo)
+52037	Le√£o Selvagem (Selo)
+52038	Le√£o Selvagem (Selo)
+52039	Le√£o Selvagem (Selo)
+52040	Le√£o Selvagem (Selo)
+52041	Le√£o Corajoso (Selo)
+52042	Le√£o Corajoso (Selo)
+52043	Le√£o Corajoso (Selo)
+52044	Le√£o Corajoso (Selo)
+52045	Le√£o Corajoso (Selo)
 52046	Tigre Jovem (Selo)
 52047	Tigre Jovem (Selo)
 52048	Tigre Jovem (Selo)
@@ -4947,7 +4947,7 @@ VNUM	LOCALE_NAME
 52103	Selo do Dragor Corajoso
 52104	Selo do Dragor Corajoso
 52105	Selo do Dragor Corajoso
-52701	Certificado do Le„o
+52701	Certificado do Le√£o
 52702	Certificado do Tigre
 52703	Certificado do Javali
 52704	Certificado do Lobo
@@ -4956,9 +4956,9 @@ VNUM	LOCALE_NAME
 52707	Certificado do Dragor
 53001	NoNAme
 53002	Selo da Rena Jovem
-53003	Selo da FÈnix de Gelo
-53005	Azrael BebÈ
-53006	Azrael BebÈ (Ouro)
+53003	Selo da F√©nix de Gelo
+53005	Azrael Beb√©
+53006	Azrael Beb√© (Ouro)
 53007	Selo de Bambi
 53008	Selo do Knuud
 53009	Selo do Bao Bao
@@ -4969,13 +4969,13 @@ VNUM	LOCALE_NAME
 53014	Selo Mini-Executor
 53015	Selo Mini-Executor(ouro)
 53016	Selo do Boney
-53017	Selo da FÈnix Jade
+53017	Selo da F√©nix Jade
 53501	NoNAme
 53502	Cofre da Rena Jovem
-53503	Gaiola da FÈnix de Gelo
+53503	Gaiola da F√©nix de Gelo
 53504	NoNAme
-53505	Cofre Azrael BebÈ
-53506	Cofre Azrael BebÈ (Ouro)
+53505	Cofre Azrael Beb√©
+53506	Cofre Azrael Beb√© (Ouro)
 53507	Cofre do Bambi
 53508	Cofre do Knuud
 53509	Cofre do Bao Bao
@@ -4989,87 +4989,87 @@ VNUM	LOCALE_NAME
 53517	Jaula Jade
 60001	Fel
 60002	Nota do Guarda
-60003	SÌmbolo HerÛico
+60003	S√≠mbolo Her√≥ico
 69000	Papiro Ataque Destrutivo
 69010	Papiro Aura da Espada
-69020	Papiro ForÁa do Golpe
+69020	Papiro For√ßa do Golpe
 69030	Papiro Ataque de Espada
 69040	Papiro Emboscar
 69050	Papiro Chuva de Setas
 69060	Papiro Flutuar
-69070	Papiro Ataque R·pido
+69070	Papiro Ataque R√°pido
 69080	Papiro Ataque Obscuro
-69090	Papiro Espiral do Drag„o
-69100	segredo cÈu e terra
-69110	Papiro L‚mina Encantata
-69120	Papiro Talism„ Voador
+69090	Papiro Espiral do Drag√£o
+69100	segredo c√©u e terra
+69110	Papiro L√¢mina Encantata
+69120	Papiro Talism√£ Voador
 69130	Papiro Cura
-69140	Papiro Magia MÌstica
-69150	Papiro BÍnÁ„o
+69140	Papiro Magia M√≠stica
+69150	Papiro B√™n√ß√£o
 70001	Boneca da Deusa
-70002	Terceira M„o
-70003	Livro do LÌder
-70004	Medalha da DiligÍncia
-70005	Anel de ExperiÍncia
+70002	Terceira M√£o
+70003	Livro do L√≠der
+70004	Medalha da Dilig√™ncia
+70005	Anel de Experi√™ncia
 70006	Anel de Idiomas
 70007	Anel de Teleporte
 70008	Bandeira Branca
 70009	Caixa do Tesouro
-70010	Bilhete de ArrumaÁ„o
-70011	LÌquido de Melhoramento
-70012	L·grima de Deusa
-70013	L·grima de Deusa Gigante
+70010	Bilhete de Arruma√ß√£o
+70011	L√≠quido de Melhoramento
+70012	L√°grima de Deusa
+70013	L√°grima de Deusa Gigante
 70014	Pastilha de Sangue
 70015	Escova Barata
 70016	Bracelete Indiana
 70017	Bracelete Preciosa
-70018	Brincos FÈnix
-70019	Colar do Milion·rio
-70020	Vinho de Flor de PÍssego
-70021	BÍnÁ„o dos Anjos
-70022	CoraÁ„o do Bera
-70023	Bengala do S·bio
-70024	M·rmore da BÍnÁ„o
+70018	Brincos F√©nix
+70019	Colar do Milion√°rio
+70020	Vinho de Flor de P√™ssego
+70021	B√™n√ß√£o dos Anjos
+70022	Cora√ß√£o do Bera
+70023	Bengala do S√°bio
+70024	M√°rmore da B√™n√ß√£o
 70025	Anel da Dignidade
-70026	Espelho InvisÌvel
+70026	Espelho Invis√≠vel
 70027	Memorando do Ferreiro
-70028	Memorando do S·bio
+70028	Memorando do S√°bio
 70029	Caneta de Pena Vermelha
-70030	MonÛculo Vermelho
+70030	Mon√≥culo Vermelho
 70031	Manual de Duelos
-70032	Livro Espada Duas M„os
+70032	Livro Espada Duas M√£os
 70033	Livro da Espada
 70034	Livro da Adaga
-70035	Ferro M·gico
+70035	Ferro M√°gico
 70036	Memorando do Estudante
-70037	Livro da AmnÈsia
+70037	Livro da Amn√©sia
 70038	Capa de Bravura
 70039	Manual do Ferreiro
 70040	Teimosia do Orc
-70041	Punho do DiscÌpulo
-70042	Lasca do DemÛnio
-70043	Luva de Ladr„o
+70041	Punho do Disc√≠pulo
+70042	Lasca do Dem√≥nio
+70043	Luva de Ladr√£o
 70044	Corno do Lorde Negro
 70045	Dente do Lorde Negro
-70046	Graal do Deus Drag„o
+70046	Graal do Deus Drag√£o
 70047	Anel de Idiomas(Amostra)
 70048	Capa de Escape
 70049	Anel de Lucy
-70050	SÌmbolo do Rei S·bio
-70051	Luva do Rei S·bio
+70050	S√≠mbolo do Rei S√°bio
+70051	Luva do Rei S√°bio
 70052	Amuleto da Sorte 1
 70053	Amuleto da Sorte 2
 70054	Amuleto da Sorte 3
-70056	Sumo de Rom„+
+70056	Sumo de Rom√£+
 70057	Capa de Bravura
 70058	Anel do Transporte
-70101	Livro da ProvidÍncia
-70102	Feij„o Zen
+70101	Livro da Provid√™ncia
+70102	Feij√£o Zen
 70103	Sutra
-70104	M·rmore do Polimorfismo
-70105	M·rmore do Polimorfismo
-70106	M·rmore do Polimorfismo
-70107	M·rmore do Polimorfismo
+70104	M√°rmore do Polimorfismo
+70105	M√°rmore do Polimorfismo
+70106	M√°rmore do Polimorfismo
+70107	M√°rmore do Polimorfismo
 70201	Descolorante
 70202	Cor de Cabelo Branca
 70203	Cor de Cabelo Loira
@@ -5083,65 +5083,65 @@ VNUM	LOCALE_NAME
 70253	Planta Verde
 70254	Planta Roxa
 70301	Anel de Casal
-70302	AlianÁa
+70302	Alian√ßa
 71001	Pergaminho do Exorcismo
 71002	Pergaminho dos Atributos
 71003	Pergaminho da Habilidade
-71004	Medalha do Drag„o
+71004	Medalha do Drag√£o
 71005	Anel de Idiomas
 71006	Anel de Idiomas
 71007	Anel de Idiomas
 71008	Livro de Pesca
-71009	Expans„o do ArmazÈm
-71010	Terceira M„o
-71011	M·scara de EmoÁıes
-71012	Livro do LÌder
-71013	Fogo de ArtifÌcio
-71014	PoÁ„o de Ataque +10
-71015	Anel de ExperiÍncia
-71016	Luva de Ladr„o
+71009	Expans√£o do Armaz√©m
+71010	Terceira M√£o
+71011	M√°scara de Emo√ß√µes
+71012	Livro do L√≠der
+71013	Fogo de Artif√≠cio
+71014	Po√ß√£o de Ataque +10
+71015	Anel de Experi√™ncia
+71016	Luva de Ladr√£o
 71017	Moeda da Sorte
-71018	BÍnÁ„o da Vida
-71019	BÍnÁ„o da Magia
-71020	BÍnÁ„o do Drag„o
+71018	B√™n√ß√£o da Vida
+71019	B√™n√ß√£o da Magia
+71020	B√™n√ß√£o do Drag√£o
 71021	Pergaminho da Guerra
-71022	Livro da InteligÍncia
+71022	Livro da Intelig√™ncia
 71023	Livro da Vitalidade
-71024	Livro da ForÁa
+71024	Livro da For√ßa
 71025	Pedra do Ferreiro
-71026	Metal M·gico
-71027	Vida do Deus Drag„o
-71028	Ataque do Deus Drag„o
-71029	Magia do Deus Drag„o
-71030	Defesa do Deus Drag„o
-71031	Ajuda do Deus Drag„o
-71032	Pergaminho do Drag„o
-71033	M·scara de EmoÁıes
-71034	PoÁ„o de Ataque +15
+71026	Metal M√°gico
+71027	Vida do Deus Drag√£o
+71028	Ataque do Deus Drag√£o
+71029	Magia do Deus Drag√£o
+71030	Defesa do Deus Drag√£o
+71031	Ajuda do Deus Drag√£o
+71032	Pergaminho do Drag√£o
+71033	M√°scara de Emo√ß√µes
+71034	Po√ß√£o de Ataque +15
 71035	Elixir do Investigador
 71036	Papiro - Chefe Orc
-71037	Papiro - LÌder Negro
+71037	Papiro - L√≠der Negro
 71038	Papiro - Rei Aranha
 71039	Papiro - Tartaruga
 71040	Papiro - Rei Chama
 71041	Papiro - Nove Caudas
-71042	Papiro - Rei DemÛnio
+71042	Papiro - Rei Dem√≥nio
 71043	Papiro - Tigre Fantasma
-71044	Golpe CrÌtico
+71044	Golpe Cr√≠tico
 71045	Golpe Perfurador
-71047	Elixir da Pedra EspÌrita
-71048	FeitiÁo de MudanÁa
+71047	Elixir da Pedra Esp√≠rita
+71048	Feiti√ßo de Mudan√ßa
 71049	Pacote de Seda
-71050	PoÁ„o de Velocidade
-71054	Permiss„o de ExÌlio
-71055	Permiss„o de Mudar Nome
+71050	Po√ß√£o de Velocidade
+71054	Permiss√£o de Ex√≠lio
+71055	Permiss√£o de Mudar Nome
 71056	Tintura Celestial
-71057	Papiro - Madeira FÛssil
+71057	Papiro - Madeira F√≥ssil
 71058	Papiro - Cobre
 71059	Papiro - Prata
 71060	Papiro - Ouro
 71061	Papiro - Jade
-71062	Papiro - …bano
+71062	Papiro - √âbano
 71063	Papiro - Ostras
 71064	Papiro - Platina
 71065	Papiro - Cristal
@@ -5163,48 +5163,48 @@ VNUM	LOCALE_NAME
 71081	Papiro da Metin (M)
 71082	Papiro da Metin (D)
 71083	Manual da Pedra
-71084	FeitiÁo para Itens
-71085	ReforÁo para Itens
-71086	Miss„o NÌvel (20-29)
-71087	Miss„o NÌvel (30-39)
-71088	Livro da Miss„o F·cil
-71089	Livro da Miss„o Normal
-71090	Livro da Miss„o DifÌcil
+71084	Feiti√ßo para Itens
+71085	Refor√ßo para Itens
+71086	Miss√£o N√≠vel (20-29)
+71087	Miss√£o N√≠vel (30-39)
+71088	Livro da Miss√£o F√°cil
+71089	Livro da Miss√£o Normal
+71090	Livro da Miss√£o Dif√≠cil
 71091	Tinta para Loja
-71092	Livro da TransformaÁ„o
-71093	M·rmore do Polimorfismo
+71092	Livro da Transforma√ß√£o
+71093	M√°rmore do Polimorfismo
 71094	Conselho do Eremita
 71095	Passagem
 71096	Medalha de Passagem
 71099	Anel do Substituto
-71100	Pergaminho da MudanÁa
-71101	PoÁ„o da Rapidez
+71100	Pergaminho da Mudan√ßa
+71101	Po√ß√£o da Rapidez
 71102	NoNAme
-71103	RedistribuiÁ„o (VIT)
-71104	RedistribuiÁ„o (INT)
-71105	RedistribuiÁ„o (FR«)
-71106	RedistribuiÁ„o (DES)
+71103	Redistribui√ß√£o (VIT)
+71104	Redistribui√ß√£o (INT)
+71105	Redistribui√ß√£o (FR√á)
+71106	Redistribui√ß√£o (DES)
 71107	Fruta da Vida
-71108	Sumo de Rom„
-71109	Pergaminho da CorrecÁ„o
-71110	AÁ˙car para Cavalo
-71113	Vidro da Perspic·cia
+71108	Sumo de Rom√£
+71109	Pergaminho da Correc√ß√£o
+71110	A√ß√∫car para Cavalo
+71113	Vidro da Perspic√°cia
 71114	Selo do Javali (Amarelo)
 71115	Selo do Javali (Azul)
 71116	Selo do Lobo (Amarelo)
 71117	Selo do Lobo (Azul)
 71118	Selo do Tigre (Amarelo)
 71119	Selo do Tigre (Azul)
-71120	Selo do Le„o (Amarelo)
-71121	Selo do Le„o (Azul)
+71120	Selo do Le√£o (Amarelo)
+71121	Selo do Le√£o (Azul)
 71122	NoNAme
-71123	Escamas do Drag„o
-71124	Le„o Branco
+71123	Escamas do Drag√£o
+71124	Le√£o Branco
 71125	Selo do Javali de Guerra
 71126	Selo Lobo de Combate
 71127	Selo Tigre da Tempestade
-71128	Selo Le„o da Batalha
-71129	Garra do Drag„o
+71128	Selo Le√£o da Batalha
+71129	Garra do Drag√£o
 71130	Passagem
 71131	Selo do Cavalo Negro
 71132	Selo do Cavalo Negro
@@ -5223,101 +5223,101 @@ VNUM	LOCALE_NAME
 71145	Amuleto do Amor Eterno
 71146	Cofre do Cupido (rosa)
 71147	Cofre do Cupido (azul)
-71148	Anel da ForÁa de Vontade
+71148	Anel da For√ßa de Vontade
 71149	Anel do Poder Mortal
-71150	Ovo M·gico
-71151	FeitiÁo Verde
-71152	ReforÁo Verde
-71153	PoÁ„o da Sabedoria
-71154	PoÁ„o da Ascens„o (3h)
-71155	PoÁ„o da Sabedoria (3h)
-71156	PoÁ„o do EspÌrito (3h)
+71150	Ovo M√°gico
+71151	Feiti√ßo Verde
+71152	Refor√ßo Verde
+71153	Po√ß√£o da Sabedoria
+71154	Po√ß√£o da Ascens√£o (3h)
+71155	Po√ß√£o da Sabedoria (3h)
+71156	Po√ß√£o do Esp√≠rito (3h)
 71157	NoNAme
-71158	Medalha do HerÛi
+71158	Medalha do Her√≥i
 71159	Cofre de Milon
 71160	Cofre de Atena
-71161	Equus P˙rpura
+71161	Equus P√∫rpura
 71164	Selo de Cometa
 71165	Selo do Predador Polar
 71166	Selo do Panda Blindado
-71171	Selo do UnicÛrnio
+71171	Selo do Unic√≥rnio
 71172	Selo do Pesadelo
-72001	Anel de ExperiÍncia
-72002	Anel de ExperiÍncia
-72003	Anel de ExperiÍncia
-72004	Luva de Ladr„o
-72005	Luva de Ladr„o
-72006	Luva de Ladr„o
+72001	Anel de Experi√™ncia
+72002	Anel de Experi√™ncia
+72003	Anel de Experi√™ncia
+72004	Luva de Ladr√£o
+72005	Luva de Ladr√£o
+72006	Luva de Ladr√£o
 72007	Mala de Seda
 72008	Mala de Seda
 72009	Mala de Seda
-72010	Pena do P·ssaro de Amor
-72011	Pena do P·ssaro de Amor
-72012	Pena do P·ssaro de Amor
+72010	Pena do P√°ssaro de Amor
+72011	Pena do P√°ssaro de Amor
+72012	Pena do P√°ssaro de Amor
 72013	Livro da Pesca
 72014	Livro da Pesca
 72015	Livro da Pesca
-72016	Terceira M„o
-72017	Terceira M„o
-72018	Terceira M„o
-72019	ArmazÈm Expandido
-72020	ArmazÈm Expandido
-72021	ArmazÈm Expandido
+72016	Terceira M√£o
+72017	Terceira M√£o
+72018	Terceira M√£o
+72019	Armaz√©m Expandido
+72020	Armaz√©m Expandido
+72021	Armaz√©m Expandido
 72022	Moeda da Sorte
 72023	Moeda da Sorte
 72024	Moeda da Sorte
-72025	Golpe CrÌtico
-72026	Golpe CrÌtico
-72027	Golpe CrÌtico
-72028	M·scara de EmoÁıes
-72029	M·scara de EmoÁıes
-72030	M·scara de EmoÁıes
-72031	Ataque do Deus Drag„o
-72032	Ataque do Deus Drag„o
-72033	Ataque do Deus Drag„o
-72034	Defesa do Deus Drag„o
-72035	Defesa do Deus Drag„o
-72036	Defesa do Deus Drag„o
-72037	Vida do Deus Drag„o
-72038	Vida do Deus Drag„o
-72039	Vida do Deus Drag„o
-72040	Magia do Deus Drag„o
-72041	Magia do Deus Drag„o
-72042	Magia do Deus Drag„o
-72043	Livro do LÌder
-72044	Livro do LÌder
-72045	Livro do LÌder
-72046	M„o do Golpe CrÌtico
-72047	M„o do Golpe CrÌtico
-72048	Palma de CrÌtico
-72049	Anel de ExperiÍncia
-72050	Anel de ExperiÍncia
-72301	Pergaminho da BÍnÁ„o
+72025	Golpe Cr√≠tico
+72026	Golpe Cr√≠tico
+72027	Golpe Cr√≠tico
+72028	M√°scara de Emo√ß√µes
+72029	M√°scara de Emo√ß√µes
+72030	M√°scara de Emo√ß√µes
+72031	Ataque do Deus Drag√£o
+72032	Ataque do Deus Drag√£o
+72033	Ataque do Deus Drag√£o
+72034	Defesa do Deus Drag√£o
+72035	Defesa do Deus Drag√£o
+72036	Defesa do Deus Drag√£o
+72037	Vida do Deus Drag√£o
+72038	Vida do Deus Drag√£o
+72039	Vida do Deus Drag√£o
+72040	Magia do Deus Drag√£o
+72041	Magia do Deus Drag√£o
+72042	Magia do Deus Drag√£o
+72043	Livro do L√≠der
+72044	Livro do L√≠der
+72045	Livro do L√≠der
+72046	M√£o do Golpe Cr√≠tico
+72047	M√£o do Golpe Cr√≠tico
+72048	Palma de Cr√≠tico
+72049	Anel de Experi√™ncia
+72050	Anel de Experi√™ncia
+72301	Pergaminho da B√™n√ß√£o
 72302	NoNAme
 72303	NoNAme
 72304	NoNAme
 72305	NoNAme
 72306	NoNAme
 72307	NoNAme
-72308	Ferro M·gico
+72308	Ferro M√°gico
 72309	NoNAme
 72310	NoNAme
 72311	NoNAme
 72312	NoNAme
 72313	NoNAme
 72314	NoNAme
-72501	Anel ExperiÍncia(iCafe)
-72502	Luva de Ladr„o (iCafe)
+72501	Anel Experi√™ncia(iCafe)
+72502	Luva de Ladr√£o (iCafe)
 72701	Sapatos de Vento
 72702	Sapatos de Vento+ (N)
 72703	Brinco Osso de Tigre
-72704	Brinco Osso de Drag„o
+72704	Brinco Osso de Drag√£o
 72705	Pulseira Osso de Tigre
-72706	Pulseira Osso de Drag„o
+72706	Pulseira Osso de Drag√£o
 72709	Brinco Osso de Tigre
-72710	Brinco Osso de Drag„o
+72710	Brinco Osso de Drag√£o
 72711	Pulseira Osso de Tigre
-72712	Pulseira Osso de Drag„o
+72712	Pulseira Osso de Drag√£o
 72723	Elixir do Sol (P)
 72724	Elixir do Sol (M)
 72725	Elixir do Sol (G)
@@ -5330,10 +5330,10 @@ VNUM	LOCALE_NAME
 73002	Cabelo Curto (Clara)
 73003	Cabelo Curto (Azul)
 73004	Cabelo Curto (Castanho)
-73005	LenÁo (Vermelho)
-73006	LenÁo (Cor-clara)
-73007	LenÁo (Azul)
-73008	LenÁo (Verde)
+73005	Len√ßo (Vermelho)
+73006	Len√ßo (Cor-clara)
+73007	Len√ßo (Azul)
+73008	Len√ßo (Verde)
 73009	Apanhado (Preto)
 73010	Apanhado (Ruivo)
 73011	Apanhado (Castanho)
@@ -5344,16 +5344,16 @@ VNUM	LOCALE_NAME
 73254	Rabo de Cavalo(Marfim)
 73255	Corte Rebelde (Ruivo)
 73256	Corte Rebelde (Castanho)
-73257	Corte MÈdio (Marfim)
+73257	Corte M√©dio (Marfim)
 73258	Corte Rebelde (Roxo)
 73259	Franja Vermelha
 73260	Franja Azul
 73261	Franja Negra
 73262	Franja Clara
-73501	Pr·tico Branco
-73502	Pr·tico de cor castanha
-73503	Pr·tico Loiro
-73504	Pr·tico em Verde
+73501	Pr√°tico Branco
+73502	Pr√°tico de cor castanha
+73503	Pr√°tico Loiro
+73504	Pr√°tico em Verde
 73505	Longos Cabelos Brancos
 73506	Longos Cabelos Rosa
 73507	Longos Cabelos Negros
@@ -5366,7 +5366,7 @@ VNUM	LOCALE_NAME
 73752	Cabelo Negro Aprumado
 73753	Cabelo Azul Aprumado
 73754	Cabelo Branco Aprumado
-73755	Cabelo MÈdio (Castanho)
+73755	Cabelo M√©dio (Castanho)
 73756	Cabelos Negros Lisos
 73757	Cabelos Loiros Lisos
 73758	Cabelos Violeta Lisos
@@ -5378,10 +5378,10 @@ VNUM	LOCALE_NAME
 74002	Moderno (Claro)
 74003	Moderno (Azul)
 74004	Moderno (Castanho)
-74005	LenÁo (Vermelho)
-74006	LenÁo (Xadrez Castanho)
-74007	LenÁo (Azul)
-74008	LenÁo (Xadrez Verde)
+74005	Len√ßo (Vermelho)
+74006	Len√ßo (Xadrez Castanho)
+74007	Len√ßo (Azul)
+74008	Len√ßo (Xadrez Verde)
 74009	Apanhado (Preto)
 74010	Apanhado (Vermelho)
 74011	Apanhado (Castanho)
@@ -5393,35 +5393,35 @@ VNUM	LOCALE_NAME
 74017	Fez - Guerreiro
 74018	Keffiyeh - Guerreiro
 74019	Turbante - Guerreiro
-74020	M·scara de Guerreiro (m)
+74020	M√°scara de Guerreiro (m)
 74251	Rabo de Cavalo(Castanho)
 74252	Rabo de Cavalo(Verde)
 74253	Rabo de Cavalo(Azul)
 74254	Rabo de Cavalo(Claro)
-74255	Corte MÈdio (Vermelho)
-74256	Corte MÈdio (Castanho)
-74257	Corte MÈdio (Claro)
-74258	Corte MÈdio (Roxo)
+74255	Corte M√©dio (Vermelho)
+74256	Corte M√©dio (Castanho)
+74257	Corte M√©dio (Claro)
+74258	Corte M√©dio (Roxo)
 74259	Corte Curto (Vermelho)
-74260	Corte Curto (Azul-CÈu)
+74260	Corte Curto (Azul-C√©u)
 74261	Corte Curto (Preto)
 74262	Corte Curto (Loiro)
 74263	Afro - Ninja (F)
 74264	Afro - Ninja (F)
-74265	ChapÈu - Ninja (F)
-74266	ChapÈu - Ninja (F)
+74265	Chap√©u - Ninja (F)
+74266	Chap√©u - Ninja (F)
 74267	Foulard - Ninja (F)
 74268	Cachecol - Ninja (F)
 74269	Turbante - Ninja (F)
-74270	M·scara de Ninja (f)
+74270	M√°scara de Ninja (f)
 74501	Desportivo (Branco)
 74502	Desportivo (Castanho)
 74503	Desportivo (Loiro)
 74504	Desportivo (Verde)
-74505	Carism·tico (Branco)
-74506	Carism·tico (Vermelho)
-74507	Carism·tico (Preto)
-74508	Carism·tico (Roxo)
+74505	Carism√°tico (Branco)
+74506	Carism√°tico (Vermelho)
+74507	Carism√°tico (Preto)
+74508	Carism√°tico (Roxo)
 74509	Elegante (Branco)
 74510	Elegante (Azul)
 74511	Elegante (Preto)
@@ -5433,12 +5433,12 @@ VNUM	LOCALE_NAME
 74517	Fez - Sura (M)
 74518	Keffiyeh - Sura (M)
 74519	Turbante - Sura (M)
-74520	M·scara de Sura (m)
+74520	M√°scara de Sura (m)
 74751	Gancho (Castanho)
 74752	Gancho (Preto)
 74753	Gancho (Azul)
 74754	Gancho (Branco)
-74755	MÈdio (Castanho)
+74755	M√©dio (Castanho)
 74756	Semi-Longo (Preto)
 74757	Semi-Longo (Loiro)
 74758	Semi-Longo (Roxo)
@@ -5446,18 +5446,18 @@ VNUM	LOCALE_NAME
 74760	Antigo Penteado (Loiro)
 74761	Semi-Longo (Roxo)
 74762	Semi-Longo (Vermelho)
-74763	Afro - Xam„ (F)
-74764	Afro - Xam„ (F)
-74765	ChapÈu - Xam„ (F)
-74766	ChapÈu - Xam„ (F)
-74767	Foulard - Xam„ (F)
-74768	Cachecol - Xam„ (F)
-74769	Turbante - Xam„ (F)
-74770	M·scara de Xam„ (f)
-75001	TotÛs (Vermelho)
-75002	TotÛs (Claro)
-75003	TotÛs (Azul)
-75004	TotÛs (Castanho)
+74763	Afro - Xam√£ (F)
+74764	Afro - Xam√£ (F)
+74765	Chap√©u - Xam√£ (F)
+74766	Chap√©u - Xam√£ (F)
+74767	Foulard - Xam√£ (F)
+74768	Cachecol - Xam√£ (F)
+74769	Turbante - Xam√£ (F)
+74770	M√°scara de Xam√£ (f)
+75001	Tot√≥s (Vermelho)
+75002	Tot√≥s (Claro)
+75003	Tot√≥s (Azul)
+75004	Tot√≥s (Castanho)
 75005	Fita (Castanho)
 75006	Fita (Loiro)
 75007	Fita (Azul)
@@ -5468,20 +5468,20 @@ VNUM	LOCALE_NAME
 75012	Esplendoroso (Verde)
 75013	Afro - Guerreira
 75014	Afro - Guerreira
-75015	ChapÈu - Guerreira
-75016	ChapÈu - Guerreira
+75015	Chap√©u - Guerreira
+75016	Chap√©u - Guerreira
 75017	Foulard - Guerreira
 75018	Cachecol - Guerreira
 75019	Turbante - Guerreira
-75020	M·scara de Guerreiro (f)
+75020	M√°scara de Guerreiro (f)
 75201	Rabo de Cavalo(Castanho)
 75202	Rabo de Cavalo(Verde)
 75203	Rabo de Cavalo(Azul)
 75204	Rabo de cavalo(Loiro)
-75205	LenÁo (Branco)
-75206	LenÁo (Verde)
-75207	LenÁo (Castanho)
-75208	LenÁo (Vermelho)
+75205	Len√ßo (Branco)
+75206	Len√ßo (Verde)
+75207	Len√ßo (Castanho)
+75208	Len√ßo (Vermelho)
 75209	Despenteado (Vermelho)
 75210	Despenteado (Azul)
 75211	Despenteado (Preto)
@@ -5493,7 +5493,7 @@ VNUM	LOCALE_NAME
 75217	Fez - Ninja (M)
 75218	Keffiyeh - Ninja (M)
 75219	Turbante - Ninja (M)
-75220	M·scara de Ninja (m)
+75220	M√°scara de Ninja (m)
 75401	Apanhado (Cinza)
 75402	Apanhado (Castanho)
 75403	Apanhado (Loiro)
@@ -5508,12 +5508,12 @@ VNUM	LOCALE_NAME
 75412	Duquesa (Castanho)
 75413	Afro - Sura (F)
 75414	Afro - Sura (F)
-75415	ChapÈu - Sura (F)
-75416	ChapÈu - Sura (F)
+75415	Chap√©u - Sura (F)
+75416	Chap√©u - Sura (F)
 75417	Foulard - Sura (F)
 75418	Cachecol - Sura (F)
 75419	Turbante - Sura (F)
-75420	M·scara de Sura (f)
+75420	M√°scara de Sura (f)
 75601	Aprumado (Castanho)
 75602	Aprumado (Preto)
 75603	Aprumado (Azul)
@@ -5526,39 +5526,39 @@ VNUM	LOCALE_NAME
 75610	Antigo (Claro)
 75611	Antigo (Roxo)
 75612	Antigo (Vermelho)
-75613	Afro - Xam„ (M)
-75614	Afro - Xam„ (M)
-75615	Elmo Samurai - Xam„ (M)
-75616	Elmo Samurai - Xam„ (M)
-75617	Fez - Xam„ (M)
-75618	Keffiyeh - Xam„ (M)
-75619	Turbante - Xam„ (M)
-75620	M·scara de Xam„ (m)
-76000	Vinho de Flor de PÍssego
+75613	Afro - Xam√£ (M)
+75614	Afro - Xam√£ (M)
+75615	Elmo Samurai - Xam√£ (M)
+75616	Elmo Samurai - Xam√£ (M)
+75617	Fez - Xam√£ (M)
+75618	Keffiyeh - Xam√£ (M)
+75619	Turbante - Xam√£ (M)
+75620	M√°scara de Xam√£ (m)
+76000	Vinho de Flor de P√™ssego
 76001	Pergaminho dos Atributos
-76002	CabeÁa Encolhida
-76003	PoÁ„o da Rapidez
+76002	Cabe√ßa Encolhida
+76003	Po√ß√£o da Rapidez
 76004	Elixir da Lua (P)
 76005	Elixir da Lua (M)
-76006	B˙ssola de Pedras Metin
+76006	B√∫ssola de Pedras Metin
 76007	Capa de Bravura
-76008	Medalha do Drag„o
-76009	Pergaminho do Drag„o
+76008	Medalha do Drag√£o
+76009	Pergaminho do Drag√£o
 76010	Pedra de Sangue
-76011	Livro do LÌder
-76012	PoÁ„o de Velocidade
-76013	ReforÁo para Itens (A)
-76014	FeitiÁo para Itens (A)
-76015	M·rmore da BÍnÁ„o
-76016	Pergaminho da BÍnÁ„o
-76017	PoÁ„o de Ataque +10
-76018	PoÁ„o de Ataque +15
+76011	Livro do L√≠der
+76012	Po√ß√£o de Velocidade
+76013	Refor√ßo para Itens (A)
+76014	Feiti√ßo para Itens (A)
+76015	M√°rmore da B√™n√ß√£o
+76016	Pergaminho da B√™n√ß√£o
+76017	Po√ß√£o de Ataque +10
+76018	Po√ß√£o de Ataque +15
 76019	Passagem
 76020	Elixir do Investigador
 76021	Elixir do Sol (P)
 76022	Elixir do Sol (M)
-76023	FeitiÁo Verde
-76024	ReforÁo Verde
+76023	Feiti√ßo Verde
+76024	Refor√ßo Verde
 80001	Saco de Dinheiro
 80002	Papel em Branco
 80003	Barra de Prata 50k Yang
@@ -5566,179 +5566,179 @@ VNUM	LOCALE_NAME
 80005	Barra d'Ouro 500k Yang
 80006	Barra d'Ouro 1M Yang
 80007	Barra d'Ouro 2M Yang
-80008	PeÁa d'Ouro
+80008	Pe√ßa d'Ouro
 80014	Voucher de MD (100)
 80015	Voucher de MD (500)
 80016	Voucher de MD (1000)
 80017	Voucher de MD (50)
-90001	Garrafa de ¡gua Vazia
-90002	Garrafa de ¡gua
+90001	Garrafa de √Ågua Vazia
+90002	Garrafa de √Ågua
 90003	Cristal
 90004	Pedra Preciosa
-90005	Pedra d'¡gua
+90005	Pedra d'√Ågua
 90006	Pedra Espiritual
 90007	Mineral
 90010	Pedra Basilar
 90011	Tronco
-90012	T·bua
+90012	T√°bua
 90013	NoNAme
 100000	Elixir do Tempo (P)
 100001	Elixir do Tempo (M)
 100002	Elixir do Tempo (G)
-100100	PinÁas do Drag„o
-100200	PinÁas do Tempo
-100300	Feij„o do Drag„o Verde
-100400	Feij„o do Drag„o Azul
-100500	Feij„o do Drag„o Rosa
-110000~110099	Diamante-Drag„o Cru
-110100~110199	Diamante-Drag„o Cru
-110200~110299	Diamante-Drag„o Cru
-110300~110399	Diamante-Drag„o Cru
-110400~110499	Diamante-Drag„o Cru
-111000~111099	Diamante-Drag„o Talhado
-111100~111199	Diamante-Drag„o Talhado
-111200~111299	Diamante-Drag„o Talhado
-111300~111399	Diamante-Drag„o Talhado
-111400~111499	Diamante-Drag„o Talhado
-112000~112099	Diamante-Drag„o Raro
-112100~112199	Diamante-Drag„o Raro
-112200~112299	Diamante-Drag„o Raro
-112300~112399	Diamante-Drag„o Raro
-112400~112499	Diamante-Drag„o Raro
-113000~113099	Diamante-Drag„o Antigo
-113100~113199	Diamante-Drag„o Antigo
-113200~113299	Diamante-Drag„o Antigo
-113300~113399	Diamante-Drag„o Antigo
-113400~113499	Diamante-Drag„o Antigo
-114000~114099	Diamante-Drag„o Lend·rio
-114100~114199	Diamante-Drag„o Lend·rio
-114200~114299	Diamante-Drag„o Lend·rio
-114300~114399	Diamante-Drag„o Lend·rio
-114400~114499	Diamante-Drag„o Lend·rio
-120000~120099	Rubi-Drag„o Cru
-120100~120199	Rubi-Drag„o Cru
-120200~120299	Rubi-Drag„o Cru
-120300~120399	Rubi-Drag„o Cru
-120400~120499	Rubi-Drag„o Cru
-121000~121099	Rubi-Drag„o Talhado
-121100~121199	Rubi-Drag„o Talhado
-121200~121299	Rubi-Drag„o Talhado
-121300~121399	Rubi-Drag„o Talhado
-121400~121499	Rubi-Drag„o Talhado
-122000~122099	Rubi-Drag„o Raro
-122100~122199	Rubi-Drag„o Raro
-122200~122299	Rubi-Drag„o Raro
-122300~122399	Rubi-Drag„o Raro
-122400~122499	Rubi-Drag„o Raro
-123000~123099	Rubi-Drag„o Antigo
-123100~123199	Rubi-Drag„o Antigo
-123200~123299	Rubi-Drag„o Antigo
-123300~123399	Rubi-Drag„o Antigo
-123400~123499	Rubi-Drag„o Antigo
-124000~124099	Rubi-Drag„o Lend·rio
-124100~124199	Rubi-Drag„o Lend·rio
-124200~124299	Rubi-Drag„o Lend·rio
-124300~124399	Rubi-Drag„o Lend·rio
-124400~124499	Rubi-Drag„o Lend·rio
-130000~130099	Jade-Drag„o Crua
-130100~130199	Jade-Drag„o Crua
-130200~130299	Jade-Drag„o Crua
-130300~130399	Jade-Drag„o Crua
-130400~130499	Jade-Drag„o Crua
-131000~131099	Jade-Drag„o Talhada
-131100~131199	Jade-Drag„o Talhada
-131200~131299	Jade-Drag„o Talhada
-131300~131399	Jade-Drag„o Talhada
-131400~131499	Jade-Drag„o Talhada
-132000~132099	Jade-Drag„o Rara
-132100~132199	Jade-Drag„o Rara
-132200~132299	Jade-Drag„o Rara
-132300~132399	Jade-Drag„o Rara
-132400~132499	Jade-Drag„o Rara
-133000~133099	Jade-Drag„o Antiga
-133100~133199	Jade-Drag„o Antiga
-133200~133299	Jade-Drag„o Antiga
-133300~133399	Jade-Drag„o Antiga
-133400~133499	Jade-Drag„o Antiga
-134000~134099	Jade-Drag„o Lend·ria
-134100~134199	Jade-Drag„o Lend·ria
-134200~134299	Jade-Drag„o Lend·ria
-134300~134399	Jade-Drag„o Lend·ria
-134400~134499	Jade-Drag„o Lend·ria
-140000~140099	Safira-Drag„o Crua
-140100~140199	Safira-Drag„o Crua
-140200~140299	Safira-Drag„o Crua
-140300~140399	Safira-Drag„o Crua
-140400~140499	Safira-Drag„o Crua
-141000~141099	Safira-Drag„o Talhada
-141100~141199	Safira-Drag„o Talhada
-141200~141299	Safira-Drag„o Talhada
-141300~141399	Safira-Drag„o Talhada
-141400~141499	Safira-Drag„o Talhada
-142000~142099	Safira-Drag„o Rara
-142100~142199	Safira-Drag„o Rara
-142200~142299	Safira-Drag„o Rara
-142300~142399	Safira-Drag„o Rara
-142400~142499	Safira-Drag„o Rara
-143000~143099	Safira-Drag„o Antiga
-143100~143199	Safira-Drag„o Antiga
-143200~143299	Safira-Drag„o Antiga
-143300~143399	Safira-Drag„o Antiga
-143400~143499	Safira-Drag„o Antiga
-144000~144099	Safira-Drag„o Lend·ria
-144100~144199	Safira-Drag„o Lend·ria
-144200~144299	Safira-Drag„o Lend·ria
-144300~144399	Safira-Drag„o Lend·ria
-144400~144499	Safira-Drag„o Lend·ria
-150000~150099	Granada-Drag„o Crua
-150100~150199	Granada-Drag„o Crua
-150200~150299	Granada-Drag„o Crua
-150300~150399	Granada-Drag„o Crua
-150400~150499	Granada-Drag„o Crua
-151000~151099	Granada-Drag„o Talhada
-151100~151199	Granada-Drag„o Talhada
-151200~151299	Granada-Drag„o Talhada
-151300~151399	Granada-Drag„o Talhada
-151400~151499	Granada-Drag„o Talhada
-152000~152099	Granada-Drag„o Rara
-152100~152199	Granada-Drag„o Rara
-152200~152299	Granada-Drag„o Rara
-152300~152399	Granada-Drag„o Rara
-152400~152499	Granada-Drag„o Rara
-153000~153099	Granada-Drag„o Antiga
-153100~153199	Granada-Drag„o Antiga
-153200~153299	Granada-Drag„o Antiga
-153300~153399	Granada-Drag„o Antiga
-153400~153499	Granada-Drag„o Antiga
-154000~154099	Granada-Drag„o Lend·ria
-154100~154199	Granada-Drag„o Lend·ria
-154200~154299	Granada-Drag„o Lend·ria
-154300~154399	Granada-Drag„o Lend·ria
-154400~154499	Granada-Drag„o Lend·ria
-160000~160099	”nix-Drag„o Crua
-160100~160199	”nix-Drag„o Crua
-160200~160299	”nix-Drag„o Crua
-160300~160399	”nix-Drag„o Crua
-160400~160499	”nix-Drag„o Crua
-161000~161099	”nix-Drag„o Talhada
-161100~161199	”nix-Drag„o Talhada
-161200~161299	”nix-Drag„o Talhada
-161300~161399	”nix-Drag„o Talhada
-161400~161499	”nix-Drag„o Talhada
-162000~162099	”nix-Drag„o Rara
-162100~162199	”nix-Drag„o Rara
-162200~162299	”nix-Drag„o Rara
-162300~162399	”nix-Drag„o Rara
-162400~162499	”nix-Drag„o Rara
-163000~163099	”nix-Drag„o Antiga
-163100~163199	”nix-Drag„o Antiga
-163200~163299	”nix-Drag„o Antiga
-163300~163399	”nix-Drag„o Antiga
-163400~163499	”nix-Drag„o Antiga
-164000~164099	”nix-Drag„o Lend·ria
-164100~164199	”nix-Drag„o Lend·ria
-164200~164299	”nix-Drag„o Lend·ria
-164300~164399	”nix-Drag„o Lend·ria
-164400~164499	”nix-Drag„o Lend·ria
-71051	EnfeitiÁar Itens
-71052	BÍnÁ„o para Itens
+100100	Pin√ßas do Drag√£o
+100200	Pin√ßas do Tempo
+100300	Feij√£o do Drag√£o Verde
+100400	Feij√£o do Drag√£o Azul
+100500	Feij√£o do Drag√£o Rosa
+110000~110099	Diamante-Drag√£o Cru
+110100~110199	Diamante-Drag√£o Cru
+110200~110299	Diamante-Drag√£o Cru
+110300~110399	Diamante-Drag√£o Cru
+110400~110499	Diamante-Drag√£o Cru
+111000~111099	Diamante-Drag√£o Talhado
+111100~111199	Diamante-Drag√£o Talhado
+111200~111299	Diamante-Drag√£o Talhado
+111300~111399	Diamante-Drag√£o Talhado
+111400~111499	Diamante-Drag√£o Talhado
+112000~112099	Diamante-Drag√£o Raro
+112100~112199	Diamante-Drag√£o Raro
+112200~112299	Diamante-Drag√£o Raro
+112300~112399	Diamante-Drag√£o Raro
+112400~112499	Diamante-Drag√£o Raro
+113000~113099	Diamante-Drag√£o Antigo
+113100~113199	Diamante-Drag√£o Antigo
+113200~113299	Diamante-Drag√£o Antigo
+113300~113399	Diamante-Drag√£o Antigo
+113400~113499	Diamante-Drag√£o Antigo
+114000~114099	Diamante-Drag√£o Lend√°rio
+114100~114199	Diamante-Drag√£o Lend√°rio
+114200~114299	Diamante-Drag√£o Lend√°rio
+114300~114399	Diamante-Drag√£o Lend√°rio
+114400~114499	Diamante-Drag√£o Lend√°rio
+120000~120099	Rubi-Drag√£o Cru
+120100~120199	Rubi-Drag√£o Cru
+120200~120299	Rubi-Drag√£o Cru
+120300~120399	Rubi-Drag√£o Cru
+120400~120499	Rubi-Drag√£o Cru
+121000~121099	Rubi-Drag√£o Talhado
+121100~121199	Rubi-Drag√£o Talhado
+121200~121299	Rubi-Drag√£o Talhado
+121300~121399	Rubi-Drag√£o Talhado
+121400~121499	Rubi-Drag√£o Talhado
+122000~122099	Rubi-Drag√£o Raro
+122100~122199	Rubi-Drag√£o Raro
+122200~122299	Rubi-Drag√£o Raro
+122300~122399	Rubi-Drag√£o Raro
+122400~122499	Rubi-Drag√£o Raro
+123000~123099	Rubi-Drag√£o Antigo
+123100~123199	Rubi-Drag√£o Antigo
+123200~123299	Rubi-Drag√£o Antigo
+123300~123399	Rubi-Drag√£o Antigo
+123400~123499	Rubi-Drag√£o Antigo
+124000~124099	Rubi-Drag√£o Lend√°rio
+124100~124199	Rubi-Drag√£o Lend√°rio
+124200~124299	Rubi-Drag√£o Lend√°rio
+124300~124399	Rubi-Drag√£o Lend√°rio
+124400~124499	Rubi-Drag√£o Lend√°rio
+130000~130099	Jade-Drag√£o Crua
+130100~130199	Jade-Drag√£o Crua
+130200~130299	Jade-Drag√£o Crua
+130300~130399	Jade-Drag√£o Crua
+130400~130499	Jade-Drag√£o Crua
+131000~131099	Jade-Drag√£o Talhada
+131100~131199	Jade-Drag√£o Talhada
+131200~131299	Jade-Drag√£o Talhada
+131300~131399	Jade-Drag√£o Talhada
+131400~131499	Jade-Drag√£o Talhada
+132000~132099	Jade-Drag√£o Rara
+132100~132199	Jade-Drag√£o Rara
+132200~132299	Jade-Drag√£o Rara
+132300~132399	Jade-Drag√£o Rara
+132400~132499	Jade-Drag√£o Rara
+133000~133099	Jade-Drag√£o Antiga
+133100~133199	Jade-Drag√£o Antiga
+133200~133299	Jade-Drag√£o Antiga
+133300~133399	Jade-Drag√£o Antiga
+133400~133499	Jade-Drag√£o Antiga
+134000~134099	Jade-Drag√£o Lend√°ria
+134100~134199	Jade-Drag√£o Lend√°ria
+134200~134299	Jade-Drag√£o Lend√°ria
+134300~134399	Jade-Drag√£o Lend√°ria
+134400~134499	Jade-Drag√£o Lend√°ria
+140000~140099	Safira-Drag√£o Crua
+140100~140199	Safira-Drag√£o Crua
+140200~140299	Safira-Drag√£o Crua
+140300~140399	Safira-Drag√£o Crua
+140400~140499	Safira-Drag√£o Crua
+141000~141099	Safira-Drag√£o Talhada
+141100~141199	Safira-Drag√£o Talhada
+141200~141299	Safira-Drag√£o Talhada
+141300~141399	Safira-Drag√£o Talhada
+141400~141499	Safira-Drag√£o Talhada
+142000~142099	Safira-Drag√£o Rara
+142100~142199	Safira-Drag√£o Rara
+142200~142299	Safira-Drag√£o Rara
+142300~142399	Safira-Drag√£o Rara
+142400~142499	Safira-Drag√£o Rara
+143000~143099	Safira-Drag√£o Antiga
+143100~143199	Safira-Drag√£o Antiga
+143200~143299	Safira-Drag√£o Antiga
+143300~143399	Safira-Drag√£o Antiga
+143400~143499	Safira-Drag√£o Antiga
+144000~144099	Safira-Drag√£o Lend√°ria
+144100~144199	Safira-Drag√£o Lend√°ria
+144200~144299	Safira-Drag√£o Lend√°ria
+144300~144399	Safira-Drag√£o Lend√°ria
+144400~144499	Safira-Drag√£o Lend√°ria
+150000~150099	Granada-Drag√£o Crua
+150100~150199	Granada-Drag√£o Crua
+150200~150299	Granada-Drag√£o Crua
+150300~150399	Granada-Drag√£o Crua
+150400~150499	Granada-Drag√£o Crua
+151000~151099	Granada-Drag√£o Talhada
+151100~151199	Granada-Drag√£o Talhada
+151200~151299	Granada-Drag√£o Talhada
+151300~151399	Granada-Drag√£o Talhada
+151400~151499	Granada-Drag√£o Talhada
+152000~152099	Granada-Drag√£o Rara
+152100~152199	Granada-Drag√£o Rara
+152200~152299	Granada-Drag√£o Rara
+152300~152399	Granada-Drag√£o Rara
+152400~152499	Granada-Drag√£o Rara
+153000~153099	Granada-Drag√£o Antiga
+153100~153199	Granada-Drag√£o Antiga
+153200~153299	Granada-Drag√£o Antiga
+153300~153399	Granada-Drag√£o Antiga
+153400~153499	Granada-Drag√£o Antiga
+154000~154099	Granada-Drag√£o Lend√°ria
+154100~154199	Granada-Drag√£o Lend√°ria
+154200~154299	Granada-Drag√£o Lend√°ria
+154300~154399	Granada-Drag√£o Lend√°ria
+154400~154499	Granada-Drag√£o Lend√°ria
+160000~160099	√ìnix-Drag√£o Crua
+160100~160199	√ìnix-Drag√£o Crua
+160200~160299	√ìnix-Drag√£o Crua
+160300~160399	√ìnix-Drag√£o Crua
+160400~160499	√ìnix-Drag√£o Crua
+161000~161099	√ìnix-Drag√£o Talhada
+161100~161199	√ìnix-Drag√£o Talhada
+161200~161299	√ìnix-Drag√£o Talhada
+161300~161399	√ìnix-Drag√£o Talhada
+161400~161499	√ìnix-Drag√£o Talhada
+162000~162099	√ìnix-Drag√£o Rara
+162100~162199	√ìnix-Drag√£o Rara
+162200~162299	√ìnix-Drag√£o Rara
+162300~162399	√ìnix-Drag√£o Rara
+162400~162499	√ìnix-Drag√£o Rara
+163000~163099	√ìnix-Drag√£o Antiga
+163100~163199	√ìnix-Drag√£o Antiga
+163200~163299	√ìnix-Drag√£o Antiga
+163300~163399	√ìnix-Drag√£o Antiga
+163400~163499	√ìnix-Drag√£o Antiga
+164000~164099	√ìnix-Drag√£o Lend√°ria
+164100~164199	√ìnix-Drag√£o Lend√°ria
+164200~164299	√ìnix-Drag√£o Lend√°ria
+164300~164399	√ìnix-Drag√£o Lend√°ria
+164400~164499	√ìnix-Drag√£o Lend√°ria
+71051	Enfeiti√ßar Itens
+71052	B√™n√ß√£o para Itens

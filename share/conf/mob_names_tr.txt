@@ -1,5 +1,5 @@
 VNUM	LOCALE_NAME
-101	Yabani Köpek
+101	Yabani KÃ¶pek
 102	Kurt
 103	Alfa Kurt
 104	Mavi Kurt
@@ -7,11 +7,11 @@ VNUM	LOCALE_NAME
 106	Gri Kurt
 107	Alfa Gri Kurt
 108	Yaban Domuzu
-109	Kırmızı Yaban Domuzu
-110	Ayı
-111	Boz Ayı
-112	Siyah Ayı
-113	Kahverengi Ayı
+109	KÄ±rmÄ±zÄ± Yaban Domuzu
+110	AyÄ±
+111	Boz AyÄ±
+112	Siyah AyÄ±
+113	Kahverengi AyÄ±
 114	Kaplan
 115	Beyaz Kaplan
 131	Lanetli Kurt
@@ -21,11 +21,11 @@ VNUM	LOCALE_NAME
 135	Lanetli Gri Kurt
 136	Lanetli Alfa Gri Kurt
 137	Lanetli Yaban Domuzu
-138	Lan.Kırmızı Yaban Domuzu
-139	Lanetli Ayı
-140	Lanetli Gri Ayı
-141	Lanetli Siyah Ayı
-142	Lanetli Kahverengi Ayı
+138	Lan.KÄ±rmÄ±zÄ± Yaban Domuzu
+139	Lanetli AyÄ±
+140	Lanetli Gri AyÄ±
+141	Lanetli Siyah AyÄ±
+142	Lanetli Kahverengi AyÄ±
 143	Lanetli Kaplan
 144	Lanetli Beyaz Kaplan
 151	Cung-Mok
@@ -33,35 +33,35 @@ VNUM	LOCALE_NAME
 153	Jug-Hyul
 154	Young-Ji
 155	Li-An
-171	Aç Yabani Köpek
-172	Aç Kurt
-173	Aç Alfa Kurt
-174	Aç Mavi Kurt
-175	Aç Alfa Mavi Kurt
-176	Aç Gri Kurt
-177	Aç Alfa Gri Kurt
-178	Aç Yaban Domuzu
-179	Aç Kırmızı Yaban Domuzu
-180	Aç Ayı
-181	Aç Boz Ayı
-182	Aç Siyah Ayı
-183	Aç Kahverengi Ayı
-184	Aç Kaplan
-185	Aç Beyaz Kaplan
+171	AÃ§ Yabani KÃ¶pek
+172	AÃ§ Kurt
+173	AÃ§ Alfa Kurt
+174	AÃ§ Mavi Kurt
+175	AÃ§ Alfa Mavi Kurt
+176	AÃ§ Gri Kurt
+177	AÃ§ Alfa Gri Kurt
+178	AÃ§ Yaban Domuzu
+179	AÃ§ KÄ±rmÄ±zÄ± Yaban Domuzu
+180	AÃ§ AyÄ±
+181	AÃ§ Boz AyÄ±
+182	AÃ§ Siyah AyÄ±
+183	AÃ§ Kahverengi AyÄ±
+184	AÃ§ Kaplan
+185	AÃ§ Beyaz Kaplan
 191	Lykos
 192	Scrofa
 193	Bera
 194	Tigris
 301	Beyaz Yeminli Asker
-302	Beyaz Yeminli Okçu
+302	Beyaz Yeminli OkÃ§u
 303	Beyaz Yeminli General
 304	Beyaz Yeminli Komutan
 331	Beyaz Yeminli Asker
-332	Beyaz Yeminli Okçu
+332	Beyaz Yeminli OkÃ§u
 333	Beyaz Yeminli General
 334	Beyaz Yeminli Komutan
 351	Korkak Beyaz Yeminli Aske
-352	Korkak Beyaz Yeminli Okçu
+352	Korkak Beyaz Yeminli OkÃ§u
 353	Korkak Beyaz Yeminli Gene
 354	Korkak Beyaz Yeminli Komu
 391	Mi-Jung
@@ -72,294 +72,294 @@ VNUM	LOCALE_NAME
 396	Moralsiz Eun-Jung
 397	Moralsiz Se-Rang
 398	Moralsiz Jin-Hee
-401	Siyah Rüzgar Askeri
-402	Siyah Rüzgar Delisi
-403	Siyah Rüzgar Okçusu
-404	Siyah Rüzgar Jak-To
-405	Siyah Rüzgar To-Su
-406	Siyah Rüzgar Gu-Ryung
-431	Siyah Fırtına Askeri
-432	Siyah Fırtına Delisi
-433	Siyah Fırtına Okçusu
-434	Siyah Fırtına Joh-Hwan
-435	Siyah Fırtına Kyuk-Jan
-436	Siyah Fırtına Pho-Hwan
-451	Kötü Siy. Fırtına Askeri
-452	Kötü Siy. Fırtına Delisi
-453	Kötü Siy.Fırtına Okçusu
-454	KötüSiy.Fırtına Joh-Hwan
-455	KötüSiy.Fırtına Kyuk-Jan
-456	KötüSiy.Fırtına Pha-Hwan
+401	Siyah RÃ¼zgar Askeri
+402	Siyah RÃ¼zgar Delisi
+403	Siyah RÃ¼zgar OkÃ§usu
+404	Siyah RÃ¼zgar Jak-To
+405	Siyah RÃ¼zgar To-Su
+406	Siyah RÃ¼zgar Gu-Ryung
+431	Siyah FÄ±rtÄ±na Askeri
+432	Siyah FÄ±rtÄ±na Delisi
+433	Siyah FÄ±rtÄ±na OkÃ§usu
+434	Siyah FÄ±rtÄ±na Joh-Hwan
+435	Siyah FÄ±rtÄ±na Kyuk-Jan
+436	Siyah FÄ±rtÄ±na Pho-Hwan
+451	KÃ¶tÃ¼ Siy. FÄ±rtÄ±na Askeri
+452	KÃ¶tÃ¼ Siy. FÄ±rtÄ±na Delisi
+453	KÃ¶tÃ¼ Siy.FÄ±rtÄ±na OkÃ§usu
+454	KÃ¶tÃ¼Siy.FÄ±rtÄ±na Joh-Hwan
+455	KÃ¶tÃ¼Siy.FÄ±rtÄ±na Kyuk-Jan
+456	KÃ¶tÃ¼Siy.FÄ±rtÄ±na Pha-Hwan
 491	Mahon
 492	Bo
 493	Goo-Pae
 494	Chuong
 501	Yabani Piyade
-502	Yabani Uşak
-503	Yabani Okçu
+502	Yabani UÅŸak
+503	Yabani OkÃ§u
 504	Yabani General
-531	Vahşi Asker
-532	Vahşi Deli
-533	Vahşi Okçu
-534	Vahşi Uzman
-551	Güçlü Yabani Asker
-552	Güçlü Yabani Deli
-553	Güçlü Yabani Okçu
-554	Güçlü Yabani General
-591	Vahşi Yüzbaşı
-595	Vahşi Geum-Chul
+531	VahÅŸi Asker
+532	VahÅŸi Deli
+533	VahÅŸi OkÃ§u
+534	VahÅŸi Uzman
+551	GÃ¼Ã§lÃ¼ Yabani Asker
+552	GÃ¼Ã§lÃ¼ Yabani Deli
+553	GÃ¼Ã§lÃ¼ Yabani OkÃ§u
+554	GÃ¼Ã§lÃ¼ Yabani General
+591	VahÅŸi YÃ¼zbaÅŸÄ±
+595	VahÅŸi Geum-Chul
 601	Ork
-602	Ork Gözcüsü
-603	Ork Savaşçısı
-604	Ork Büyücüsü
+602	Ork GÃ¶zcÃ¼sÃ¼
+603	Ork SavaÅŸÃ§Ä±sÄ±
+604	Ork BÃ¼yÃ¼cÃ¼sÃ¼
 631	Elit Ork
-632	Elit Ork Gözcüsü
-633	Elit Ork Savaşçısı
-634	Elit Ork Büyücüsü
+632	Elit Ork GÃ¶zcÃ¼sÃ¼
+633	Elit Ork SavaÅŸÃ§Ä±sÄ±
+634	Elit Ork BÃ¼yÃ¼cÃ¼sÃ¼
 635	Elit Ork Generali
 636	Siyah Ork
 637	Siyah Ork Devi
-651	Cesur Büyük Ork
-652	Cesur Büyük Ork Gözcüsü
-653	Cesur Büyük OrkSavaşçısı
-654	Cesur Büyük Ork Büyücüsü
-655	Cesur Büyük Ork Generali
+651	Cesur BÃ¼yÃ¼k Ork
+652	Cesur BÃ¼yÃ¼k Ork GÃ¶zcÃ¼sÃ¼
+653	Cesur BÃ¼yÃ¼k OrkSavaÅŸÃ§Ä±sÄ±
+654	Cesur BÃ¼yÃ¼k Ork BÃ¼yÃ¼cÃ¼sÃ¼
+655	Cesur BÃ¼yÃ¼k Ork Generali
 656	Cesur Siyah Ork
 657	Cesur Siyah Ork Devi
 691	Ork Reisi
 692	Elit Ork Reisi
-693	Dirilmiş Ork Reisi
-701	Karanlık Fanatik
-702	Karanlık Arahan
-703	Mistik Arahan Savaşçısı
+693	DirilmiÅŸ Ork Reisi
+701	KaranlÄ±k Fanatik
+702	KaranlÄ±k Arahan
+703	Mistik Arahan SavaÅŸÃ§Ä±sÄ±
 704	Mistik Arahan Reisi
 705	Mistik Cellat
-706	Karanlık İşkenceci
-707	Karanlık Haberci
-731	Kibirli Karanlık Fanatik
-732	Kibirli Karanlık Arahan
-733	Kibirli Karanlık Savaşçı
-734	Kibirli Karanlık Albay
-735	Kibirli Karanlık Nişancı
-736	Elit Mistik İşkenceci
+706	KaranlÄ±k Ä°ÅŸkenceci
+707	KaranlÄ±k Haberci
+731	Kibirli KaranlÄ±k Fanatik
+732	Kibirli KaranlÄ±k Arahan
+733	Kibirli KaranlÄ±k SavaÅŸÃ§Ä±
+734	Kibirli KaranlÄ±k Albay
+735	Kibirli KaranlÄ±k NiÅŸancÄ±
+736	Elit Mistik Ä°ÅŸkenceci
 737	Elit Mistik Haberci
-751	Büyük Fanatik
-752	Büyük Arahan
-753	Büyük Arahan Savaşçısı
-754	Büyük Elit Arahan
-755	Büyük Cellat
-756	Büyük İşkenceci
-757	Büyük Haberci
-771	Vahşi Fanatik
-772	Vahşi Arahan
-773	Vahşi Arahan Savaşçısı
-774	Vahşi Arahan Reisi
-775	Vahşi Cellat
-776	Vahşi İşkenceci
-777	Vahşi Haberci
-791	Karanlık Lider
-792	Karanlık Hayalet Lider
-793	Elit Karanlık Lider
+751	BÃ¼yÃ¼k Fanatik
+752	BÃ¼yÃ¼k Arahan
+753	BÃ¼yÃ¼k Arahan SavaÅŸÃ§Ä±sÄ±
+754	BÃ¼yÃ¼k Elit Arahan
+755	BÃ¼yÃ¼k Cellat
+756	BÃ¼yÃ¼k Ä°ÅŸkenceci
+757	BÃ¼yÃ¼k Haberci
+771	VahÅŸi Fanatik
+772	VahÅŸi Arahan
+773	VahÅŸi Arahan SavaÅŸÃ§Ä±sÄ±
+774	VahÅŸi Arahan Reisi
+775	VahÅŸi Cellat
+776	VahÅŸi Ä°ÅŸkenceci
+777	VahÅŸi Haberci
+791	KaranlÄ±k Lider
+792	KaranlÄ±k Hayalet Lider
+793	Elit KaranlÄ±k Lider
 794	Elit Karan.Hayalet Lider
-795	Elit Savaşçı
-796	Elit Mistik Savaşçı
+795	Elit SavaÅŸÃ§Ä±
+796	Elit Mistik SavaÅŸÃ§Ä±
 901	Zombi
-902	Hastalıklı Köpek
-903	Hastalıklı Adam
-904	Hast. Kılıç Savaşçısı
-905	Hastalıklı Mızrakçı
-906	Hastalıklı Okçu
-907	Hastalıklı Lider
-931	Kızgın Zombi
-932	Kızgın Hastalıklı Köpek
-933	Kızgın Hastalıklı Adam
-934	Kızg.Hast.KılıçSavaşçısı
-935	Kızgın Hastal. Mızrakçı
-936	Kızgın Hastalıklı Okçu
-937	Kızgın Hastalıklı Lider
-991	Hastalıklı Yumurta
-992	Hastalık Taşıyıcısı
-993	Dev Hastalık Taşıyıcısı
-1001	Şeytan Askeri
-1002	Şeytan Okçusu
-1003	Şeytan Mızrakçısı
-1004	Şeytan Şamanı
-1031	Çirkin Şeytan Askeri
-1032	Çirkin Şeytan Okçusu
-1033	Çirkin Şeytan Mızrakçısı
-1034	Çirkin Şeytan Şamanı
-1035	Hınç Hayaleti
+902	HastalÄ±klÄ± KÃ¶pek
+903	HastalÄ±klÄ± Adam
+904	Hast. KÄ±lÄ±Ã§ SavaÅŸÃ§Ä±sÄ±
+905	HastalÄ±klÄ± MÄ±zrakÃ§Ä±
+906	HastalÄ±klÄ± OkÃ§u
+907	HastalÄ±klÄ± Lider
+931	KÄ±zgÄ±n Zombi
+932	KÄ±zgÄ±n HastalÄ±klÄ± KÃ¶pek
+933	KÄ±zgÄ±n HastalÄ±klÄ± Adam
+934	KÄ±zg.Hast.KÄ±lÄ±Ã§SavaÅŸÃ§Ä±sÄ±
+935	KÄ±zgÄ±n Hastal. MÄ±zrakÃ§Ä±
+936	KÄ±zgÄ±n HastalÄ±klÄ± OkÃ§u
+937	KÄ±zgÄ±n HastalÄ±klÄ± Lider
+991	HastalÄ±klÄ± Yumurta
+992	HastalÄ±k TaÅŸÄ±yÄ±cÄ±sÄ±
+993	Dev HastalÄ±k TaÅŸÄ±yÄ±cÄ±sÄ±
+1001	Åeytan Askeri
+1002	Åeytan OkÃ§usu
+1003	Åeytan MÄ±zrakÃ§Ä±sÄ±
+1004	Åeytan ÅamanÄ±
+1031	Ã‡irkin Åeytan Askeri
+1032	Ã‡irkin Åeytan OkÃ§usu
+1033	Ã‡irkin Åeytan MÄ±zrakÃ§Ä±sÄ±
+1034	Ã‡irkin Åeytan ÅamanÄ±
+1035	HÄ±nÃ§ Hayaleti
 1036	Kaos Hayaleti
-1037	Çirkin Şeytan Lideri
-1038	Kafatası Kılıç Ustası
-1039	Uçan Kafatası
-1040	Ölümsüz Hayalet
-1041	Şeytani Canavar
-1061	Ölümcül Şeytan Askeri
-1062	Ölümcül Şeytan Okçusu
-1063	Ölümcül ŞeytanMızrakçısı
-1064	Ölümcül Şeytan Şamanı
-1065	Ölümcül Hınç Hayaleti
-1066	Ölümcül Kaos Hayaleti
-1067	Ölümcül Şeytan Lideri
-1068	Hayalet Kılıç Ustası
-1069	Ölümcül Uçan Kafatası
-1070	Ölümsüz Hayalet
-1071	Şeytani Canavar
-1091	Şeytan Kralı
-1092	Kibirli Şeytan Kralı
+1037	Ã‡irkin Åeytan Lideri
+1038	KafatasÄ± KÄ±lÄ±Ã§ UstasÄ±
+1039	UÃ§an KafatasÄ±
+1040	Ã–lÃ¼msÃ¼z Hayalet
+1041	Åeytani Canavar
+1061	Ã–lÃ¼mcÃ¼l Åeytan Askeri
+1062	Ã–lÃ¼mcÃ¼l Åeytan OkÃ§usu
+1063	Ã–lÃ¼mcÃ¼l ÅeytanMÄ±zrakÃ§Ä±sÄ±
+1064	Ã–lÃ¼mcÃ¼l Åeytan ÅamanÄ±
+1065	Ã–lÃ¼mcÃ¼l HÄ±nÃ§ Hayaleti
+1066	Ã–lÃ¼mcÃ¼l Kaos Hayaleti
+1067	Ã–lÃ¼mcÃ¼l Åeytan Lideri
+1068	Hayalet KÄ±lÄ±Ã§ UstasÄ±
+1069	Ã–lÃ¼mcÃ¼l UÃ§an KafatasÄ±
+1070	Ã–lÃ¼msÃ¼z Hayalet
+1071	Åeytani Canavar
+1091	Åeytan KralÄ±
+1092	Kibirli Åeytan KralÄ±
 1093	Lusifer
-1094	Elit Çirkin Şeytan Kralı
-1095	Mavi Ölüm
+1094	Elit Ã‡irkin Åeytan KralÄ±
+1095	Mavi Ã–lÃ¼m
 1096	????
-1101	Büyülü Buz
-1102	Buz Katil Balinası
-1103	Buz Böceği
-1104	Buz Arslanı
+1101	BÃ¼yÃ¼lÃ¼ Buz
+1102	Buz Katil BalinasÄ±
+1103	Buz BÃ¶ceÄŸi
+1104	Buz ArslanÄ±
 1105	Buz Adam
 1106	Yeti
 1107	Buz Golemi
-1131	Yeraltı Buz Parçası
-1132	Yeraltı BuzKatilBalinası
-1133	Yeraltı Buz Böceği
-1134	Yeraltı Buz Aslanı
-1135	Yeraltı Buz Adamı
-1136	Yeraltı Yetisi
-1137	Yeraltı Buz Golemi
-1151	Buz Şeytan
+1131	YeraltÄ± Buz ParÃ§asÄ±
+1132	YeraltÄ± BuzKatilBalinasÄ±
+1133	YeraltÄ± Buz BÃ¶ceÄŸi
+1134	YeraltÄ± Buz AslanÄ±
+1135	YeraltÄ± Buz AdamÄ±
+1136	YeraltÄ± Yetisi
+1137	YeraltÄ± Buz Golemi
+1151	Buz Åeytan
 1152	Buz Boynuzlu Katil Balina
-1153	Buz Haşeresi
+1153	Buz HaÅŸeresi
 1154	Seol-Gu
 1155	Buz Adam
 1156	Buz Devi
 1157	Buz Golemi
-1171	Acımasız Büyülü Buz
-1172	Acımasız Buz Balina
-1173	Acımasız Buz Böcek
-1174	Acımasız Buz Arslan
-1175	Acımasız Buz Adam
-1176	Acımasız Yeti
-1177	Acımasız Buz Golemi
-1191	Buz Cadı
-1192	Güçlü Buz Cadısı
-1301	Ağaç Kurbağası Askeri
-1302	Ağaç Kurbağası Lideri
+1171	AcÄ±masÄ±z BÃ¼yÃ¼lÃ¼ Buz
+1172	AcÄ±masÄ±z Buz Balina
+1173	AcÄ±masÄ±z Buz BÃ¶cek
+1174	AcÄ±masÄ±z Buz Arslan
+1175	AcÄ±masÄ±z Buz Adam
+1176	AcÄ±masÄ±z Yeti
+1177	AcÄ±masÄ±z Buz Golemi
+1191	Buz CadÄ±
+1192	GÃ¼Ã§lÃ¼ Buz CadÄ±sÄ±
+1301	AÄŸaÃ§ KurbaÄŸasÄ± Askeri
+1302	AÄŸaÃ§ KurbaÄŸasÄ± Lideri
 1303	Gulyabani
-1304	Sarı Kaplan Hayaleti
-1305	Kurbağa Generali
-1306	Elit SarıKaplan Hayaleti
-1307	Elit SarıKaplan Hayaleti
+1304	SarÄ± Kaplan Hayaleti
+1305	KurbaÄŸa Generali
+1306	Elit SarÄ±Kaplan Hayaleti
+1307	Elit SarÄ±Kaplan Hayaleti
 1308	NoNAme
 1309	NoNAme
 1310	NoNAme
-1331	Büy.AğaçKurbağası Askeri
-1332	Büy.AğaçKurbağası Lideri
-1333	Büyük Gulyabani
-1334	Büy.Sarı Kaplan Hayaleti
-1335	Kötü Kurbağa Generali
+1331	BÃ¼y.AÄŸaÃ§KurbaÄŸasÄ± Askeri
+1332	BÃ¼y.AÄŸaÃ§KurbaÄŸasÄ± Lideri
+1333	BÃ¼yÃ¼k Gulyabani
+1334	BÃ¼y.SarÄ± Kaplan Hayaleti
+1335	KÃ¶tÃ¼ KurbaÄŸa Generali
 1401	Yokedici
-1402	Maymun Savaşçı
-1403	Bin Savaşçı
-1501	Taş Golemi
+1402	Maymun SavaÅŸÃ§Ä±
+1403	Bin SavaÅŸÃ§Ä±
+1501	TaÅŸ Golemi
 1502	Kaya Golemi
 1503	Dev Kaya Golemi
-1601	Dev Savaşçı
+1601	Dev SavaÅŸÃ§Ä±
 1602	Dev Kasap
-1603	Dev Çılgın
+1603	Dev Ã‡Ä±lgÄ±n
 1901	Dokuz Kuyruk
 1902	Elit Dokuz Kuyruk
 1903	Elit Dokuz Kuyruk
 1904	NoNAme
 1905	NoNAme
 1906	NoNAme
-2001	Yavru Örümcek
-2002	Zehirli Örümcek
-2003	Kırmızı Zehirli Örümcek
-2004	Pençe Örümceği
-2005	Asker Örümcek
-2031	Yavru Zehirli Örümcek
-2032	Ölümcül Zehirli Örümcek
-2033	Kırm. Ölüm. Zeh. Örümcek
-2034	Zehirli Pençe Örümceği
-2035	Zehirli Asker Örümcek
-2036	Kibirli Zehirli Asker Örü
-2051	Huysuz Zehirli Yavru Örüm
-2052	Huysuz Ölümcül Zehirli Ör
-2053	Huys.Kırm.Öl.Zeh.Örümcek
-2054	Huys.Zeh. Pençe Örümceği
-2055	Huysuz Zehirli Asker Örüm
-2061	Küçük Zehirli Örümcek
-2062	Öldürücü Zehirli Örümcek
-2063	Kırm. Ölüm. Zeh. Örümcek
-2064	Zehirli Pençe Örümceği
-2065	Zehirli Asker Örümcek
-2071	Vahşi Yav. Zeh. Örümcek
-2072	Vahşi Ölüm.Zeh. Örümcek
-2073	Vahşi Kırm. Zeh. Örümcek
-2074	Vahşi Zeh.Pençe Örümceği
-2075	Vahşi Zeh. Asker Örümcek
-2076	Vahşi Güçlü Zeh. Örümcek
-2091	Kraliçe Örümcek
-2092	Örümcek Barones
-2093	Elit Kraliçe Örümcek
-2094	Örümcek Baronu
-2095	Örümcek Yumurtası
-2101	Çöl Tilkisi
-2102	Çölün Uçan Gözü
+2001	Yavru Ã–rÃ¼mcek
+2002	Zehirli Ã–rÃ¼mcek
+2003	KÄ±rmÄ±zÄ± Zehirli Ã–rÃ¼mcek
+2004	PenÃ§e Ã–rÃ¼mceÄŸi
+2005	Asker Ã–rÃ¼mcek
+2031	Yavru Zehirli Ã–rÃ¼mcek
+2032	Ã–lÃ¼mcÃ¼l Zehirli Ã–rÃ¼mcek
+2033	KÄ±rm. Ã–lÃ¼m. Zeh. Ã–rÃ¼mcek
+2034	Zehirli PenÃ§e Ã–rÃ¼mceÄŸi
+2035	Zehirli Asker Ã–rÃ¼mcek
+2036	Kibirli Zehirli Asker Ã–rÃ¼
+2051	Huysuz Zehirli Yavru Ã–rÃ¼m
+2052	Huysuz Ã–lÃ¼mcÃ¼l Zehirli Ã–r
+2053	Huys.KÄ±rm.Ã–l.Zeh.Ã–rÃ¼mcek
+2054	Huys.Zeh. PenÃ§e Ã–rÃ¼mceÄŸi
+2055	Huysuz Zehirli Asker Ã–rÃ¼m
+2061	KÃ¼Ã§Ã¼k Zehirli Ã–rÃ¼mcek
+2062	Ã–ldÃ¼rÃ¼cÃ¼ Zehirli Ã–rÃ¼mcek
+2063	KÄ±rm. Ã–lÃ¼m. Zeh. Ã–rÃ¼mcek
+2064	Zehirli PenÃ§e Ã–rÃ¼mceÄŸi
+2065	Zehirli Asker Ã–rÃ¼mcek
+2071	VahÅŸi Yav. Zeh. Ã–rÃ¼mcek
+2072	VahÅŸi Ã–lÃ¼m.Zeh. Ã–rÃ¼mcek
+2073	VahÅŸi KÄ±rm. Zeh. Ã–rÃ¼mcek
+2074	VahÅŸi Zeh.PenÃ§e Ã–rÃ¼mceÄŸi
+2075	VahÅŸi Zeh. Asker Ã–rÃ¼mcek
+2076	VahÅŸi GÃ¼Ã§lÃ¼ Zeh. Ã–rÃ¼mcek
+2091	KraliÃ§e Ã–rÃ¼mcek
+2092	Ã–rÃ¼mcek Barones
+2093	Elit KraliÃ§e Ã–rÃ¼mcek
+2094	Ã–rÃ¼mcek Baronu
+2095	Ã–rÃ¼mcek YumurtasÄ±
+2101	Ã‡Ã¶l Tilkisi
+2102	Ã‡Ã¶lÃ¼n UÃ§an GÃ¶zÃ¼
 2103	Kral Akrep
 2104	Akrep Adam
-2105	Akrep Okçu
-2106	Yılan Kılıççı
-2107	Yılan Okçu
-2108	Çöl Haydutu
-2131	Vahşi Akrep Adam
-2132	Akrep Okçu
-2133	Yılan Kılıççı
-2134	Yılan Okçu
-2135	Çöl Haydutu
-2151	Güçlü Çöl Tilkisi
-2152	Güçlü Derviş
-2153	Güçlü Akrep Kral
-2154	Güçlü Akrep Adam
-2155	Güçlü Akrep Okçu
-2156	Güçlü Yılan Kılıççı
-2157	Güçlü Yılan Okçu
-2158	Güçlü Çöl Haydutu
-2191	Dev Çöl Kaplumbağası
-2192	Elit Dev ÇölKaplumbağası
-2201	Savaş Kaplanı Kölesi
+2105	Akrep OkÃ§u
+2106	YÄ±lan KÄ±lÄ±Ã§Ã§Ä±
+2107	YÄ±lan OkÃ§u
+2108	Ã‡Ã¶l Haydutu
+2131	VahÅŸi Akrep Adam
+2132	Akrep OkÃ§u
+2133	YÄ±lan KÄ±lÄ±Ã§Ã§Ä±
+2134	YÄ±lan OkÃ§u
+2135	Ã‡Ã¶l Haydutu
+2151	GÃ¼Ã§lÃ¼ Ã‡Ã¶l Tilkisi
+2152	GÃ¼Ã§lÃ¼ DerviÅŸ
+2153	GÃ¼Ã§lÃ¼ Akrep Kral
+2154	GÃ¼Ã§lÃ¼ Akrep Adam
+2155	GÃ¼Ã§lÃ¼ Akrep OkÃ§u
+2156	GÃ¼Ã§lÃ¼ YÄ±lan KÄ±lÄ±Ã§Ã§Ä±
+2157	GÃ¼Ã§lÃ¼ YÄ±lan OkÃ§u
+2158	GÃ¼Ã§lÃ¼ Ã‡Ã¶l Haydutu
+2191	Dev Ã‡Ã¶l KaplumbaÄŸasÄ±
+2192	Elit Dev Ã‡Ã¶lKaplumbaÄŸasÄ±
+2201	SavaÅŸ KaplanÄ± KÃ¶lesi
 2202	Alev Hayaleti
-2203	Savaş Kaplanı
+2203	SavaÅŸ KaplanÄ±
 2204	Alev
-2205	Alev Savaşçı
+2205	Alev SavaÅŸÃ§Ä±
 2206	Alev Kral
 2207	Elit Alev Kral
-2231	GüçlüSavaşKaplanı Kölesi
-2232	Güçlü Alev Hayaleti
-2233	Güçlü Savaş Kaplanı
-2234	Güçlü Alev Hayaleti
-2235	Güçlü Alev Savaşçısı
-2291	Kırmızı Ejderha
-2301	Hayalet Ağaç
-2302	Hayalet Ağaç Kökü
+2231	GÃ¼Ã§lÃ¼SavaÅŸKaplanÄ± KÃ¶lesi
+2232	GÃ¼Ã§lÃ¼ Alev Hayaleti
+2233	GÃ¼Ã§lÃ¼ SavaÅŸ KaplanÄ±
+2234	GÃ¼Ã§lÃ¼ Alev Hayaleti
+2235	GÃ¼Ã§lÃ¼ Alev SavaÅŸÃ§Ä±sÄ±
+2291	KÄ±rmÄ±zÄ± Ejderha
+2301	Hayalet AÄŸaÃ§
+2302	Hayalet AÄŸaÃ§ KÃ¶kÃ¼
 2303	Orman Perisi
-2304	Hayalet Söğüt
-2305	Kötü Ağaç
-2306	Dev Hayalet Ağaç
-2307	Hayalet Ağaç Lordu
-2311	Kırmızı Hayalet Ağaç
-2312	Kırm.Hayalet Ağaç Kökü
-2313	Kırmızı Orman Perisi
-2314	Kırmızı Hayalet Söğüt
-2315	Kırmızı Kötü Ağaç
-2401	Setaou Savaşçısı
-2402	Setaou Avcısı
+2304	Hayalet SÃ¶ÄŸÃ¼t
+2305	KÃ¶tÃ¼ AÄŸaÃ§
+2306	Dev Hayalet AÄŸaÃ§
+2307	Hayalet AÄŸaÃ§ Lordu
+2311	KÄ±rmÄ±zÄ± Hayalet AÄŸaÃ§
+2312	KÄ±rm.Hayalet AÄŸaÃ§ KÃ¶kÃ¼
+2313	KÄ±rmÄ±zÄ± Orman Perisi
+2314	KÄ±rmÄ±zÄ± Hayalet SÃ¶ÄŸÃ¼t
+2315	KÄ±rmÄ±zÄ± KÃ¶tÃ¼ AÄŸaÃ§
+2401	Setaou SavaÅŸÃ§Ä±sÄ±
+2402	Setaou AvcÄ±sÄ±
 2403	Setaou Mistik
 2404	Setaou Lideri
 2411	Setaou Askeri
-2412	Setaou Okçusu
-2413	Setaou Yargıcı
-2414	Setaou Komutanı
+2412	Setaou OkÃ§usu
+2413	Setaou YargÄ±cÄ±
+2414	Setaou KomutanÄ±
 2431	????
 2432	????
 2433	????
@@ -373,113 +373,113 @@ VNUM	LOCALE_NAME
 2493	Beran-Setaou
 2494	General
 2495	General
-2501	Cehennem Deniz Anası
-2502	Cehennem Köpeği
+2501	Cehennem Deniz AnasÄ±
+2502	Cehennem KÃ¶peÄŸi
 2503	Zombi
-2504	Cehennem Subayı
-2505	Cehennem Bekçisi
-2506	İkibaşlı Cehennem Okçusu
-2507	Cehennem Kepçesi
-2508	Cehennem Savaşçısı
-2509	Cehennem Okçusu
-2510	Cehennem Mızrakçısı
-2511	Cehennem Papazı
-2512	Cehennem Binbaşısı
-2513	Cehennem Katliamcısı
+2504	Cehennem SubayÄ±
+2505	Cehennem BekÃ§isi
+2506	Ä°kibaÅŸlÄ± Cehennem OkÃ§usu
+2507	Cehennem KepÃ§esi
+2508	Cehennem SavaÅŸÃ§Ä±sÄ±
+2509	Cehennem OkÃ§usu
+2510	Cehennem MÄ±zrakÃ§Ä±sÄ±
+2511	Cehennem PapazÄ±
+2512	Cehennem BinbaÅŸÄ±sÄ±
+2513	Cehennem KatliamcÄ±sÄ±
 2514	Cehennem Generali
-2541	Kötü Cehennem Savaşçısı
-2542	Kötü Cehennem Okçusu
-2543	Kötü Cehennem Mızrakçısı
-2544	Kötü Cehennem Papazı
-2545	Kötü Cehennem Binbaşısı
-2546	Kötü Cehennem Katliamcı
-2547	Kötü Cehennem Generali
+2541	KÃ¶tÃ¼ Cehennem SavaÅŸÃ§Ä±sÄ±
+2542	KÃ¶tÃ¼ Cehennem OkÃ§usu
+2543	KÃ¶tÃ¼ Cehennem MÄ±zrakÃ§Ä±sÄ±
+2544	KÃ¶tÃ¼ Cehennem PapazÄ±
+2545	KÃ¶tÃ¼ Cehennem BinbaÅŸÄ±sÄ±
+2546	KÃ¶tÃ¼ Cehennem KatliamcÄ±
+2547	KÃ¶tÃ¼ Cehennem Generali
 2591	Tartarus
-2592	Cehennem Kırması
-2593	Cehennem Kırması
-2594	Cehennem Kırması
+2592	Cehennem KÄ±rmasÄ±
+2593	Cehennem KÄ±rmasÄ±
+2594	Cehennem KÄ±rmasÄ±
 2595	Erebus
 2596	Azrailin Tohumu
 2597	Kharoon
 2598	Azrail
-3001	Gnoll Savaşçı
-3002	Gnoll Okçu
+3001	Gnoll SavaÅŸÃ§Ä±
+3002	Gnoll OkÃ§u
 3003	Gnoll Savunucu
-3004	Gnoll Büyücü
+3004	Gnoll BÃ¼yÃ¼cÃ¼
 3005	Gnoll General
 3090	Lord Gnoll
-3091	Baş Gnoll Nöbetçi
-3101	Tekgözlü Kavgacı
+3091	BaÅŸ Gnoll NÃ¶betÃ§i
+3101	TekgÃ¶zlÃ¼ KavgacÄ±
 3102	Kiklop Asker
-3103	Kiklop Büyücü
+3103	Kiklop BÃ¼yÃ¼cÃ¼
 3104	Kiklop Cellat
 3105	General Outis
 3190	Arges
 3191	Polyphemos
-3201	Mantikor Savaşçı
+3201	Mantikor SavaÅŸÃ§Ä±
 3202	Mantikor Asker
-3203	Mantikor Büyücü
+3203	Mantikor BÃ¼yÃ¼cÃ¼
 3204	Mantikor Cellat
 3205	General Kor
 3290	Rakshasa
 3291	Martyaxwar
-3301	Lemur Savaşçı
+3301	Lemur SavaÅŸÃ§Ä±
 3302	Lemur Asker
-3303	Lemur Büyücü
+3303	Lemur BÃ¼yÃ¼cÃ¼
 3304	Lemur Cellat
 3305	Lemur General
 3390	Lemur Prensi
-3391	Lemur Muhafız
+3391	Lemur MuhafÄ±z
 3401	Triton Murana
-3402	Köpekbalığı Askeri
-3403	Triton Büyücü
-3404	Triton Avcı
-3405	Triton Usturacı
+3402	KÃ¶pekbalÄ±ÄŸÄ± Askeri
+3403	Triton BÃ¼yÃ¼cÃ¼
+3404	Triton AvcÄ±
+3405	Triton UsturacÄ±
 3490	General Kappa
 3491	Triton
-3501	Kızılhırsız Amazon
-3502	Kızılhırsız Katil
-3503	Kızılhırsız Büyücü
-3504	Kızılhırsız Cellat
+3501	KÄ±zÄ±lhÄ±rsÄ±z Amazon
+3502	KÄ±zÄ±lhÄ±rsÄ±z Katil
+3503	KÄ±zÄ±lhÄ±rsÄ±z BÃ¼yÃ¼cÃ¼
+3504	KÄ±zÄ±lhÄ±rsÄ±z Cellat
 3505	Siyah General
-3551	Zalim Kızılhırsız Amazon
-3552	Zalim Kızılhırsız Katil
-3553	Zalim Kızılhırsız Büyücü
-3554	Zalim Kızılhırsız Cellat
+3551	Zalim KÄ±zÄ±lhÄ±rsÄ±z Amazon
+3552	Zalim KÄ±zÄ±lhÄ±rsÄ±z Katil
+3553	Zalim KÄ±zÄ±lhÄ±rsÄ±z BÃ¼yÃ¼cÃ¼
+3554	Zalim KÄ±zÄ±lhÄ±rsÄ±z Cellat
 3555	Beyaz General
 3590	Kemiksurat
-3591	Kızıl Reis
+3591	KÄ±zÄ±l Reis
 3595	Zalim Kemiksurat
-3596	Zalim Kızıl Reis
-3601	Yengeç Savaşçı
-3602	Akrep Savaşçı
+3596	Zalim KÄ±zÄ±l Reis
+3601	YengeÃ§ SavaÅŸÃ§Ä±
+3602	Akrep SavaÅŸÃ§Ä±
 3603	Karides Asker
-3604	Şeytani Keşiş
-3605	Zırhlı Yengeç
+3604	Åeytani KeÅŸiÅŸ
+3605	ZÄ±rhlÄ± YengeÃ§
 3690	General Istakoz
-3691	Kral Yengeç
-3701	Devasa Dişlek
+3691	Kral YengeÃ§
+3701	Devasa DiÅŸlek
 3702	Dev Kasap
-3703	Dev Büyücü
-3704	Yarım Dünya
+3703	Dev BÃ¼yÃ¼cÃ¼
+3704	YarÄ±m DÃ¼nya
 3705	Kaptan Kanca
 3790	Gargoyle
 3791	Kral Voba
 3801	Cellatork
-3802	Okçu Öcü
-3803	Kavgacı Öcü
-3804	Öcü Büyücü
-3805	General Öcü
-3890	Kaptan Şrak
-3891	Dev Öcü
+3802	OkÃ§u Ã–cÃ¼
+3803	KavgacÄ± Ã–cÃ¼
+3804	Ã–cÃ¼ BÃ¼yÃ¼cÃ¼
+3805	General Ã–cÃ¼
+3890	Kaptan Årak
+3891	Dev Ã–cÃ¼
 3901	Daladam
 3902	Eoten
-3903	Ruhlu Ağaç
+3903	Ruhlu AÄŸaÃ§
 3904	Kaptan Kanca
 3905	Se-Rang
 3906	Jin-Hee
-3907	Kızılhırsız Büyücü
-3908	Zalim Kızılhırsız Cellat
+3907	KÄ±zÄ±lhÄ±rsÄ±z BÃ¼yÃ¼cÃ¼
+3908	Zalim KÄ±zÄ±lhÄ±rsÄ±z Cellat
 3909	Beyaz General
 3910	Kemiksurat
 3911	Aku Beku
@@ -489,42 +489,42 @@ VNUM	LOCALE_NAME
 5002	Hae-Tae
 5003	Maymun
 5004	Korsan Tanaka
-5101	Zayıf Maymun Asker
-5102	Zayıf Maymun Atıcı
-5103	Zayıf Maymun Savaşçı
-5104	Zayıf Maymun General
+5101	ZayÄ±f Maymun Asker
+5102	ZayÄ±f Maymun AtÄ±cÄ±
+5103	ZayÄ±f Maymun SavaÅŸÃ§Ä±
+5104	ZayÄ±f Maymun General
 5111	Maymun Asker
-5112	Maymun Atıcı
-5113	Maymun Savaşçı
+5112	Maymun AtÄ±cÄ±
+5113	Maymun SavaÅŸÃ§Ä±
 5114	Maymun General
-5115	Taş Maymun
+5115	TaÅŸ Maymun
 5116	Maymun Lider
-5121	Güçlü Maymun Asker
-5122	Güçlü Maymun Atıcı
-5123	Güçlü Maymun Savaşçı
-5124	Güçlü Maymun General
-5125	Güçlü Taş Maymun
-5126	Güçlü Altın Maymun
-5127	Güçlü Maymun Lider
-5131	Zeki Küçük Maymun Asker
-5132	Zeki Küçük Maymun Atıcı
-5133	Zeki Küçük MaymunSavaşçı
-5134	Zeki Küçük Maymun General
+5121	GÃ¼Ã§lÃ¼ Maymun Asker
+5122	GÃ¼Ã§lÃ¼ Maymun AtÄ±cÄ±
+5123	GÃ¼Ã§lÃ¼ Maymun SavaÅŸÃ§Ä±
+5124	GÃ¼Ã§lÃ¼ Maymun General
+5125	GÃ¼Ã§lÃ¼ TaÅŸ Maymun
+5126	GÃ¼Ã§lÃ¼ AltÄ±n Maymun
+5127	GÃ¼Ã§lÃ¼ Maymun Lider
+5131	Zeki KÃ¼Ã§Ã¼k Maymun Asker
+5132	Zeki KÃ¼Ã§Ã¼k Maymun AtÄ±cÄ±
+5133	Zeki KÃ¼Ã§Ã¼k MaymunSavaÅŸÃ§Ä±
+5134	Zeki KÃ¼Ã§Ã¼k Maymun General
 5141	Zeki Maymun Asker
-5142	Zeki Maymun Atıcı
-5143	Zeki Maymun Savaşçı
+5142	Zeki Maymun AtÄ±cÄ±
+5143	Zeki Maymun SavaÅŸÃ§Ä±
 5144	Zeki Maymun General
-5145	Zeki Taş Maymun
+5145	Zeki TaÅŸ Maymun
 5146	Zeki Maymun Lider
-5151	Kötü Güçlü Maymun Asker
-5152	Kötü Güçlü Maymun Atıcı
-5153	Kötü Güçlü MaymunSavaşçı
-5154	Kötü Güçlü Maymun General
-5155	Kötü Güçlü Taş Maymun
-5156	Kötü Güçlü Altın Maymun
-5157	Kötü Güçlü Maymun Lider
+5151	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ Maymun Asker
+5152	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ Maymun AtÄ±cÄ±
+5153	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ MaymunSavaÅŸÃ§Ä±
+5154	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ Maymun General
+5155	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ TaÅŸ Maymun
+5156	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ AltÄ±n Maymun
+5157	KÃ¶tÃ¼ GÃ¼Ã§lÃ¼ Maymun Lider
 5161	Kaya Maymun
-5162	Yürüyen Maymun
+5162	YÃ¼rÃ¼yen Maymun
 5163	Maymun Lordu
 6001	Ember Flame Ghost
 6002	Ember Flame Tiger
@@ -552,19 +552,19 @@ VNUM	LOCALE_NAME
 7002	Maymun Binici
 7003	Gimu Maymun Asker
 7004	Maymun Komutan
-7005	Taş Maymun
-7006	Altın Maymun
+7005	TaÅŸ Maymun
+7006	AltÄ±n Maymun
 7007	Maymun General
-7008	Tu-Gui İşçi
-7009	Tu-Gui Asker Müfettiş
+7008	Tu-Gui Ä°ÅŸÃ§i
+7009	Tu-Gui Asker MÃ¼fettiÅŸ
 7010	Tu-Gui Beyaz Komutan
 7012	Bi-Ma-Gui-An
 7013	Akrep Kral
 7014	Zeki Akrep Adam
-7015	Akrep Okçu
-7016	Yılan Kılıççı
-7017	Yılan Okçu
-7018	Çöl Haydutu
+7015	Akrep OkÃ§u
+7016	YÄ±lan KÄ±lÄ±Ã§Ã§Ä±
+7017	YÄ±lan OkÃ§u
+7018	Ã‡Ã¶l Haydutu
 7019	Tu-Ji Asker
 7020	Hwa-ryung
 7021	Tu-Ji Serseri
@@ -643,40 +643,40 @@ VNUM	LOCALE_NAME
 7094	NoNAme
 7095	NoNAme
 7096	NoNAme
-8001	Üzüntü Metini
-8002	Dövüş Metini
-8003	Savaş Metini
-8004	Hırs Metini
+8001	ÃœzÃ¼ntÃ¼ Metini
+8002	DÃ¶vÃ¼ÅŸ Metini
+8003	SavaÅŸ Metini
+8004	HÄ±rs Metini
 8005	Siyah Metin
-8006	Karanlık Metin
-8007	Kıskançlık Metini
+8006	KaranlÄ±k Metin
+8007	KÄ±skanÃ§lÄ±k Metini
 8008	Ruh Metini
-8009	Gölge Metini
-8010	Dayanıklılık Metini
-8011	Şeytan Metini
+8009	GÃ¶lge Metini
+8010	DayanÄ±klÄ±lÄ±k Metini
+8011	Åeytan Metini
 8012	Lanet Metini
-8013	Ölüm Metini
+8013	Ã–lÃ¼m Metini
 8014	Katil Metini
-8015	Dayanıklılık Metini
-8016	Şeytan Metini
+8015	DayanÄ±klÄ±lÄ±k Metini
+8016	Åeytan Metini
 8017	Lanet Metini
-8018	Ölüm Metini
+8018	Ã–lÃ¼m Metini
 8019	Katil Metini
-8020	Shinsoo Kayası
-8021	Jinno Kayası
-8022	Chunjo Kayası
-8023	İmparatorluk Kayası
+8020	Shinsoo KayasÄ±
+8021	Jinno KayasÄ±
+8022	Chunjo KayasÄ±
+8023	Ä°mparatorluk KayasÄ±
 8024	Metin Pung-Ma
 8025	Metin Ma-An
 8026	Metin Tu-Young
 8027	Metin Jeon-Un
-8031	Dağ Metini
-8032	İntikam Metini
+8031	DaÄŸ Metini
+8032	Ä°ntikam Metini
 8033	Kimsesizlik Metini
 8034	Kibir Metini
-8035	Kurtuluşun Metin'i
-8036	Hainliğin Metin'i
-8037	Mutsuzluğun Metin'i
+8035	KurtuluÅŸun Metin'i
+8036	HainliÄŸin Metin'i
+8037	MutsuzluÄŸun Metin'i
 8038	Misilleme Metin'i
 8039	Gururun Metin'i
 8040	Hasetin Metin'i
@@ -690,37 +690,37 @@ VNUM	LOCALE_NAME
 8048	Paskalya Metini
 8049	Paskalya Metini
 8050	Paskalya Metini
-8051	Işıksızlık Metini
-8052	Korluğun Metini
-8053	Mağrurluğun Metini
-8054	Öfkenin Metini
+8051	IÅŸÄ±ksÄ±zlÄ±k Metini
+8052	KorluÄŸun Metini
+8053	MaÄŸrurluÄŸun Metini
+8054	Ã–fkenin Metini
 8055	Felaketin Metini
 8056	Namertlik Metini
 8057	Purgatory Fire Metin
-8101	Üzüntü Metini
-8102	Dövüş Metini
-8103	Savaş Metini
-8104	Hırs Metini
+8101	ÃœzÃ¼ntÃ¼ Metini
+8102	DÃ¶vÃ¼ÅŸ Metini
+8103	SavaÅŸ Metini
+8104	HÄ±rs Metini
 8105	Siyah Metin
-8106	Karanlık Metin
-8107	Kıskançlık Metini
+8106	KaranlÄ±k Metin
+8107	KÄ±skanÃ§lÄ±k Metini
 8108	Ruh Metini
-8109	Gölge Metini
-8110	Dayanıklılık Metini
-8111	Şeytan Metini
-8112	Düşüş Metini
-8113	Ölüm Metini
+8109	GÃ¶lge Metini
+8110	DayanÄ±klÄ±lÄ±k Metini
+8111	Åeytan Metini
+8112	DÃ¼ÅŸÃ¼ÅŸ Metini
+8113	Ã–lÃ¼m Metini
 8114	Katil Metini
-8501	Yabani Köpek
+8501	Yabani KÃ¶pek
 8502	Yaban Domuzu
-8503	Ayı
+8503	AyÄ±
 8504	Beyaz Kaplan
 8505	Siyah Dev Ork
-8506	Ağaç Kurbağası Lideri
-8507	Çöl Haydutu
-8508	Mistik İşkenceci
+8506	AÄŸaÃ§ KurbaÄŸasÄ± Lideri
+8507	Ã‡Ã¶l Haydutu
+8508	Mistik Ä°ÅŸkenceci
 8509	Mistik Haberci
-8510	Alev Savaşçı
+8510	Alev SavaÅŸÃ§Ä±
 8511	Buz Golemi
 8600	?????
 8601	?????
@@ -738,50 +738,50 @@ VNUM	LOCALE_NAME
 8613	????
 8614	??????
 8615	??????
-9001	Silah Satıcısı
-9002	Zırh Satıcısı
-9003	Satıcı
-9004	Olay Yardımcısı
+9001	Silah SatÄ±cÄ±sÄ±
+9002	ZÄ±rh SatÄ±cÄ±sÄ±
+9003	SatÄ±cÄ±
+9004	Olay YardÄ±mcÄ±sÄ±
 9005	Depocu
-9006	Yaşlı Kadın
-9007	Silah Satıcısı
-9008	Zırh Satıcısı
-9009	Balıkçı
+9006	YaÅŸlÄ± KadÄ±n
+9007	Silah SatÄ±cÄ±sÄ±
+9008	ZÄ±rh SatÄ±cÄ±sÄ±
+9009	BalÄ±kÃ§Ä±
 9010	Genel Depocu Helen
-9011	Evlenme Tasarımcısı
-9012	Işınlayıcı
-10001	Jayang_Bölgesi 4002 8995
-10002	YounganBölgesi 4503 9050
-10003	BokjungBölgesi 1118 2161
-10004	Joan_Bölgesi 876 2131
-10005	Bakra_Bölgesi 9064 2214
-10006	Pyungmo_Bölges 9372 2188
-10007	YounganBölgesi 4188 9560
-10008	Jayang_Bölgesi 3179 8332
-10009	Joan_Bölgesi 897 1127
-10010	Bokjun_Bölgesi 1759 2210
-10011	Pyungmo_Bölges 9343 3143
-10012	Bakra_Bölgesi 8348 2926
-10013	Hwang_Tapınağı 5536 1441
+9011	Evlenme TasarÄ±mcÄ±sÄ±
+9012	IÅŸÄ±nlayÄ±cÄ±
+10001	Jayang_BÃ¶lgesi 4002 8995
+10002	YounganBÃ¶lgesi 4503 9050
+10003	BokjungBÃ¶lgesi 1118 2161
+10004	Joan_BÃ¶lgesi 876 2131
+10005	Bakra_BÃ¶lgesi 9064 2214
+10006	Pyungmo_BÃ¶lges 9372 2188
+10007	YounganBÃ¶lgesi 4188 9560
+10008	Jayang_BÃ¶lgesi 3179 8332
+10009	Joan_BÃ¶lgesi 897 1127
+10010	Bokjun_BÃ¶lgesi 1759 2210
+10011	Pyungmo_BÃ¶lges 9343 3143
+10012	Bakra_BÃ¶lgesi 8348 2926
+10013	Hwang_TapÄ±naÄŸÄ± 5536 1441
 10014	Seungryong 3326 7468
-10015	Yongbi_Çölü 3467 6329
+10015	Yongbi_Ã‡Ã¶lÃ¼ 3467 6329
 10016	Kuahklo_Dong 600 4960
-10017	Hwang_Tapınağı 5906 1102
+10017	Hwang_TapÄ±naÄŸÄ± 5906 1102
 10018	Gunsam_Kulesi 2165 7270
-10019	Jayang_Bölgesi 3211 9009
+10019	Jayang_BÃ¶lgesi 3211 9009
 10020	Jungrang 1356 43
-10021	Bokjun_Bölgesi 1168 2920
+10021	Bokjun_BÃ¶lgesi 1168 2920
 10022	Waryong 2219 93
-10023	Bakra_Bölgesi 9098 2948
+10023	Bakra_BÃ¶lgesi 9098 2948
 10024	Imha 2718 130
-10025	Sohan_Dağı 4993 2984
+10025	Sohan_DaÄŸÄ± 4993 2984
 10026	Lungsam 2887 57
 10027	Lungsam 2866 437
-10028	Kızıl_Orman 11199 708
-10029	Yılan_Vadisi 10590 7262
-10030	Yongbi_Çölü 3519 6223
-10031	Yılan_Vadisi 10590 7262
-10032	Devler_Diyarı 8283 7635
+10028	KÄ±zÄ±l_Orman 11199 708
+10029	YÄ±lan_Vadisi 10590 7262
+10030	Yongbi_Ã‡Ã¶lÃ¼ 3519 6223
+10031	YÄ±lan_Vadisi 10590 7262
+10032	Devler_DiyarÄ± 8283 7635
 10033	Zin-Grotto 10594 7525
 10034	2_Zin-Grotto 10594 7525
 10035	Deon-Zeon 917 5253
@@ -816,16 +816,16 @@ VNUM	LOCALE_NAME
 10064	???? 11133 534
 10065	???? 7754 10553
 10066	????? 9915 11195
-10067	MaymunZindanı 7752 4477
-10068	Jayang_Bölgesi 4062 8756
-10069	MaymunZindanı 8520 4477
-10070	BokjungBölgesi 1611 2130
-10071	MaymunZindanı 9288 4477
-10072	Bakra_Bölgesi 8727 2100
-10073	Yongbi_Çölü 3061 6202
-10074	MaymunZindanı 1352 6532
-10075	Yongbi_Çölü 2879 5407
-10076	MaymunZindanı 1352 7300
+10067	MaymunZindanÄ± 7752 4477
+10068	Jayang_BÃ¶lgesi 4062 8756
+10069	MaymunZindanÄ± 8520 4477
+10070	BokjungBÃ¶lgesi 1611 2130
+10071	MaymunZindanÄ± 9288 4477
+10072	Bakra_BÃ¶lgesi 8727 2100
+10073	Yongbi_Ã‡Ã¶lÃ¼ 3061 6202
+10074	MaymunZindanÄ± 1352 6532
+10075	Yongbi_Ã‡Ã¶lÃ¼ 2879 5407
+10076	MaymunZindanÄ± 1352 7300
 10077	????1? 9 12078
 10078	??? 2842 8106
 10079	????1? 1459 13236
@@ -842,18 +842,18 @@ VNUM	LOCALE_NAME
 10090	???? 9609 3188
 10091	????1? 1360 18044
 10092	????2? 2414 17361
-10093	Ejder_Kapısı 1731 12205
-10094	Ejder_Kapısı 1733 13743
-10095	Ejder_Kapısı 1728 15277
-10096	Ejder_Kapısı 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10093	Ejder_KapÄ±sÄ± 1731 12205
+10094	Ejder_KapÄ±sÄ± 1733 13743
+10095	Ejder_KapÄ±sÄ± 1728 15277
+10096	Ejder_KapÄ±sÄ± 1724 16824
+10097	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼2ÃƒÅŸ 7040 5235 
+10098	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼3ÃƒÅŸ 984 5711
 10099	Burnu 11043 17885
 10100	Burnu 10963 16744
 10101	Nefrit 10869 16558
 10102	Burnu 11664 16779
-10103	Yıldırım 11345 16546
-10104	Yıldırım 11921 16550
+10103	YÄ±ldÄ±rÄ±m 11345 16546
+10104	YÄ±ldÄ±rÄ±m 11921 16550
 10105	Gautama 12263 16811
 10501	. 345 361
 10502	. 106 547
@@ -966,18 +966,18 @@ VNUM	LOCALE_NAME
 10833	. 406 880
 10834	. 422 935
 10835	. 500 807
-11000	Köy Gardiyanı
-11001	Savaş Sorumlusu
-11002	Köy Gardiyanı
-11003	Savaş Sorumlusu
-11004	Köy Gardiyanı
-11005	Savaş Sorumlusu
-11100	Köy Gardiyanı
-11101	Savaş Sorumlusu
-11102	Köy Gardiyanı
-11103	Savaş Sorumlusu
-11104	Köy Gardiyanı
-11105	Savaş Sorumlusu
+11000	KÃ¶y GardiyanÄ±
+11001	SavaÅŸ Sorumlusu
+11002	KÃ¶y GardiyanÄ±
+11003	SavaÅŸ Sorumlusu
+11004	KÃ¶y GardiyanÄ±
+11005	SavaÅŸ Sorumlusu
+11100	KÃ¶y GardiyanÄ±
+11101	SavaÅŸ Sorumlusu
+11102	KÃ¶y GardiyanÄ±
+11103	SavaÅŸ Sorumlusu
+11104	KÃ¶y GardiyanÄ±
+11105	SavaÅŸ Sorumlusu
 11106	???
 11107	???
 11108	???
@@ -990,25 +990,25 @@ VNUM	LOCALE_NAME
 11115	???
 11116	???
 11117	???
-11505	Altın Kurbağa
+11505	AltÄ±n KurbaÄŸa
 11506	??
 11507	??
 11508	??
 11509	??
 11510	??
-12000	Kamp Ateşi
-13000	Tahta Kapı
-13001	Taş Kapı
-14000	Atölye
-14001	Atölye
-14002	Atölye
-14003	Atölye
-14004	Atölye
-14005	Atölye
-14006	Atölye
-14007	Atölye
-14008	Atölye
-14009	Atölye
+12000	Kamp AteÅŸi
+13000	Tahta KapÄ±
+13001	TaÅŸ KapÄ±
+14000	AtÃ¶lye
+14001	AtÃ¶lye
+14002	AtÃ¶lye
+14003	AtÃ¶lye
+14004	AtÃ¶lye
+14005	AtÃ¶lye
+14006	AtÃ¶lye
+14007	AtÃ¶lye
+14008	AtÃ¶lye
+14009	AtÃ¶lye
 14010	Sunak
 14011	Sunak
 14012	Sunak
@@ -1029,16 +1029,16 @@ VNUM	LOCALE_NAME
 14027	Karargah
 14028	Karargah
 14029	Karargah
-14030	Eğitim Kampı
-14031	Eğitim Kampı
-14032	Eğitim Kampı
-14033	Eğitim Kampı
-14034	Eğitim Kampı
-14035	Eğitim Kampı
-14036	Eğitim Kampı
-14037	Eğitim Kampı
-14038	Eğitim Kampı
-14039	Eğitim Kampı
+14030	EÄŸitim KampÄ±
+14031	EÄŸitim KampÄ±
+14032	EÄŸitim KampÄ±
+14033	EÄŸitim KampÄ±
+14034	EÄŸitim KampÄ±
+14035	EÄŸitim KampÄ±
+14036	EÄŸitim KampÄ±
+14037	EÄŸitim KampÄ±
+14038	EÄŸitim KampÄ±
+14039	EÄŸitim KampÄ±
 14040	Ocak
 14041	Ocak
 14042	Ocak
@@ -1049,7 +1049,7 @@ VNUM	LOCALE_NAME
 14047	Ocak
 14048	Ocak
 14049	Ocak
-20001	Simyacı
+20001	SimyacÄ±
 20002	Aranyo
 20003	Ah-Yu
 20004	Dilenci
@@ -1057,11 +1057,11 @@ VNUM	LOCALE_NAME
 20006	Mirine
 20007	Depocu
 20008	Octavio
-20009	Yaşlı Adam
-20010	Seyyar satıcı
+20009	YaÅŸlÄ± Adam
+20010	Seyyar satÄ±cÄ±
 20011	Uriel
 20012	Yu-Rang
-20013	Balıkçı
+20013	BalÄ±kÃ§Ä±
 20014	Taurean
 20015	Deokbae
 20016	Demirci
@@ -1076,60 +1076,60 @@ VNUM	LOCALE_NAME
 20025	.
 20026	Ji-Ryu
 20027	Gillian
-20028	Mirinenin Erkek Kardeşi
+20028	Mirinenin Erkek KardeÅŸi
 20029	Midilli
 20030	At
 20031	Noel Baba
-20032	Noel Ağacı
-20033	Noel Ağacı
-20034	Noel Ağacı
+20032	Noel AÄŸacÄ±
+20033	Noel AÄŸacÄ±
+20034	Noel AÄŸacÄ±
 20035	Bayrak
 20036	Bayrak
 20037	Bayrak
 20038	..
 20039	.
-20040	Emlakçı
-20041	Sarhoş
-20042	Seyyar satıcı
+20040	EmlakÃ§Ä±
+20041	SarhoÅŸ
+20042	Seyyar satÄ±cÄ±
 20043	.
-20044	Silahçı, Stanley
-20045	Zırhçı, Stanton
+20044	SilahÃ§Ä±, Stanley
+20045	ZÄ±rhÃ§Ä±, Stanton
 20046	Kuyumcu, Starbuck
-20047	Elmas Damarı
-20048	Kehribar Damarı
-20049	Fosil Tahta Damarı
-20050	Bakır Damarı
-20051	Gümüş Damarı
-20052	Altın Damarı
-20053	Yeşim Damarı
-20054	Abanoz Damarı
-20055	Midye Yığını
-20056	Beyaz Altın Damarı
-20057	Kristal Damarı
-20058	Ametist Damarı
-20059	Cennetin Gözyaşı Damarı
-20060	Elmas İşleyici
-20061	Kehribar İşleyici
-20062	Fosil Odun İşleyici
-20063	Bakır İşleyici
-20064	Gümüş İşleyici
-20065	Altın İşleyici
-20066	Yeşim İşleyici
-20067	Abanoz İşleyici
-20068	İnci İşleyici
-20069	Beyaz Altın İşleyici
-20070	Kristal İşleyici
-20071	Ametist İşleyici
-20072	Cennet Gözyaşı İşleyici
-20073	Eski Mühür
-20074	ŞeytanKulesi SilahUstası
-20075	ŞeytanKulesi Zırh Ustası
-20076	Şeytan Kulesi Kuyumcusu
-20077	Sunak muhafızı
-20078	Sunak muhafızı
-20079	Sunak muhafızı
-20080	Eğitim Rehberi
-20081	Çalıntı Geçit Mühürü
+20047	Elmas DamarÄ±
+20048	Kehribar DamarÄ±
+20049	Fosil Tahta DamarÄ±
+20050	BakÄ±r DamarÄ±
+20051	GÃ¼mÃ¼ÅŸ DamarÄ±
+20052	AltÄ±n DamarÄ±
+20053	YeÅŸim DamarÄ±
+20054	Abanoz DamarÄ±
+20055	Midye YÄ±ÄŸÄ±nÄ±
+20056	Beyaz AltÄ±n DamarÄ±
+20057	Kristal DamarÄ±
+20058	Ametist DamarÄ±
+20059	Cennetin GÃ¶zyaÅŸÄ± DamarÄ±
+20060	Elmas Ä°ÅŸleyici
+20061	Kehribar Ä°ÅŸleyici
+20062	Fosil Odun Ä°ÅŸleyici
+20063	BakÄ±r Ä°ÅŸleyici
+20064	GÃ¼mÃ¼ÅŸ Ä°ÅŸleyici
+20065	AltÄ±n Ä°ÅŸleyici
+20066	YeÅŸim Ä°ÅŸleyici
+20067	Abanoz Ä°ÅŸleyici
+20068	Ä°nci Ä°ÅŸleyici
+20069	Beyaz AltÄ±n Ä°ÅŸleyici
+20070	Kristal Ä°ÅŸleyici
+20071	Ametist Ä°ÅŸleyici
+20072	Cennet GÃ¶zyaÅŸÄ± Ä°ÅŸleyici
+20073	Eski MÃ¼hÃ¼r
+20074	ÅeytanKulesi SilahUstasÄ±
+20075	ÅeytanKulesi ZÄ±rh UstasÄ±
+20076	Åeytan Kulesi Kuyumcusu
+20077	Sunak muhafÄ±zÄ±
+20078	Sunak muhafÄ±zÄ±
+20079	Sunak muhafÄ±zÄ±
+20080	EÄŸitim Rehberi
+20081	Ã‡alÄ±ntÄ± GeÃ§it MÃ¼hÃ¼rÃ¼
 20082	Usta
 20083	Jegal-Tunseok
 20084	Biyolog Chaegirab
@@ -1145,9 +1145,9 @@ VNUM	LOCALE_NAME
 20094	Hong-Hae
 20095	Seon-Hae
 20096	??? ???
-20097	Kale Girişi
-20098	Kale Girişi
-20099	Kale Girişi
+20097	Kale GiriÅŸi
+20098	Kale GiriÅŸi
+20099	Kale GiriÅŸi
 20101	Beyaz At
 20102	Kahverengi At
 20103	Siyah At
@@ -1162,11 +1162,11 @@ VNUM	LOCALE_NAME
 20112	Kaplan
 20113	Aslan
 20114	white lion
-20115	Savaş Yaban Domuzu
-20116	Kızgın Kurt
-20117	Vahşi Kaplan
-20118	Yırtıcı Aslan
-20119	Asil Kara Yağız Atı
+20115	SavaÅŸ Yaban Domuzu
+20116	KÄ±zgÄ±n Kurt
+20117	VahÅŸi Kaplan
+20118	YÄ±rtÄ±cÄ± Aslan
+20119	Asil Kara YaÄŸÄ±z AtÄ±
 20120	?????
 20121	?????
 20122	?????
@@ -1193,75 +1193,75 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
-20300	Bedensel Savaş Öğretmeni
-20301	Zihinsel Savaş Öğretmeni
-20302	Yakın Dövüş Öğretmeni
-20303	Uzak Dövüş Öğretmeni
-20304	Büyülü Silah Öğretmeni
-20305	Kara Büyü Öğretmeni
-20306	Ejderha Gücü Öğretmeni
-20307	İyileştirme Öğretmeni
-20320	Bedensel Savaş Öğretmeni
-20321	Zihinsel Savaş Öğretmeni
-20322	Yakın Dövüş Öğretmeni
-20323	Uzak Dövüş Öğretmeni
-20324	Büyülü Silah Öğretmeni
-20325	Kara Büyü Öğretmeni
-20326	Ejderha Gücü Öğretmeni
-20327	İyileştirme Öğretmeni
-20340	Bedensel Savaş Öğretmeni
-20341	Zihinsel Savaş Öğretmeni
-20342	Yakın Dövüş Öğretmeni
-20343	Uzak Dövüş Öğretmeni
-20344	Büyülü Silah Öğretmeni
-20345	Kara Büyü Öğretmeni
-20346	Ejderha Gücü Öğretmeni
-20347	İyileştirme Öğretmeni
-20348	Şeytan Kulesi Bekçisi
+20220	Ã…Â©Â¸Â®Â½ÂºÂ¸Â¶Â½Âº Â¼Ã¸Â·Ã
+20221	Ã€Ã¼Â°Â©Â¹Ã©Â¿Ãµ
+20222	Ã€Ã¼Â°Â©Ã†Ã’Â´Ãµ
+20223	Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20224	Â³Â­Ã†Ã¸Ã‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20225	Â¿Ã«Â¸ÃÃ‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20226	ÃˆÃ¦Ã€Â¯Â´ÃÃ„Ãœ
+20227	Â¹Ã©Ã€Â¯Â´ÃÃ„Ãœ
+20300	Bedensel SavaÅŸ Ã–ÄŸretmeni
+20301	Zihinsel SavaÅŸ Ã–ÄŸretmeni
+20302	YakÄ±n DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20303	Uzak DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20304	BÃ¼yÃ¼lÃ¼ Silah Ã–ÄŸretmeni
+20305	Kara BÃ¼yÃ¼ Ã–ÄŸretmeni
+20306	Ejderha GÃ¼cÃ¼ Ã–ÄŸretmeni
+20307	Ä°yileÅŸtirme Ã–ÄŸretmeni
+20320	Bedensel SavaÅŸ Ã–ÄŸretmeni
+20321	Zihinsel SavaÅŸ Ã–ÄŸretmeni
+20322	YakÄ±n DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20323	Uzak DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20324	BÃ¼yÃ¼lÃ¼ Silah Ã–ÄŸretmeni
+20325	Kara BÃ¼yÃ¼ Ã–ÄŸretmeni
+20326	Ejderha GÃ¼cÃ¼ Ã–ÄŸretmeni
+20327	Ä°yileÅŸtirme Ã–ÄŸretmeni
+20340	Bedensel SavaÅŸ Ã–ÄŸretmeni
+20341	Zihinsel SavaÅŸ Ã–ÄŸretmeni
+20342	YakÄ±n DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20343	Uzak DÃ¶vÃ¼ÅŸ Ã–ÄŸretmeni
+20344	BÃ¼yÃ¼lÃ¼ Silah Ã–ÄŸretmeni
+20345	Kara BÃ¼yÃ¼ Ã–ÄŸretmeni
+20346	Ejderha GÃ¼cÃ¼ Ã–ÄŸretmeni
+20347	Ä°yileÅŸtirme Ã–ÄŸretmeni
+20348	Åeytan Kulesi BekÃ§isi
 20349	Seyis
-20350	Zindan Bekçisi
-20351	Salon Bekçisi
-20352	Hasun Taş Anıtı
-20353	Seul Rong Taş Anıtı
-20354	Şehir Bekçisi
-20355	Yüzbaşı
-20356	Ginseng Toplayıcısı
-20357	Weol Anıtı
-20358	İsimsiz Çiçekler
-20359	Eski Kutu ile Kağıtlar
-20360	Wha Anıtı
-20361	Su Anıtı
-20362	Mok Anıtı
-20363	Gum Anıtı
+20350	Zindan BekÃ§isi
+20351	Salon BekÃ§isi
+20352	Hasun TaÅŸ AnÄ±tÄ±
+20353	Seul Rong TaÅŸ AnÄ±tÄ±
+20354	Åehir BekÃ§isi
+20355	YÃ¼zbaÅŸÄ±
+20356	Ginseng ToplayÄ±cÄ±sÄ±
+20357	Weol AnÄ±tÄ±
+20358	Ä°simsiz Ã‡iÃ§ekler
+20359	Eski Kutu ile KaÄŸÄ±tlar
+20360	Wha AnÄ±tÄ±
+20361	Su AnÄ±tÄ±
+20362	Mok AnÄ±tÄ±
+20363	Gum AnÄ±tÄ±
 20364	Nakajima
-20365	To Anıtı
+20365	To AnÄ±tÄ±
 20366	Sa-Soe
-20367	Katakomb Bekçisi
-20368	Seyyar satıcı
+20367	Katakomb BekÃ§isi
+20368	Seyyar satÄ±cÄ±
 20369	Lee Chung
 20370	Zehirlenen Asker
-20371	Eski Mezar Taşı
-20372	Aşınmış Taş Levha
-20373	Koruma Görevlisi
-20374	Bekçi
-20375	Ahşap Barikat
+20371	Eski Mezar TaÅŸÄ±
+20372	AÅŸÄ±nmÄ±ÅŸ TaÅŸ Levha
+20373	Koruma GÃ¶revlisi
+20374	BekÃ§i
+20375	AhÅŸap Barikat
 20376	Kim Rim
-20377	Saray Bekçisi
+20377	Saray BekÃ§isi
 20378	Amiral Angmur
-20379	Yaralı Asker
+20379	YaralÄ± Asker
 20380	Yon-I Gezgini
-20381	Konfüçyus
-20382	Kaya Çiçeği
+20381	KonfÃ¼Ã§yus
+20382	Kaya Ã‡iÃ§eÄŸi
 20383	Jae-Seon Kim
-20384	Noel Ağacı
+20384	Noel AÄŸacÄ±
 20385	Am-heh Gorge
 20386	Isfet Stele
 20387	Destiny Lock
@@ -1276,58 +1276,58 @@ VNUM	LOCALE_NAME
 30000	????
 30001	????
 30101	Kud Heykeli
-30102	Bazalt Dikilitaş
-30103	Kaplumbağa Kayalığı
-30104	Runik Direği
-30111	1. Lanet Kapısı
-30112	2. Lanet Kapısı
-30113	3. Lanet Kapısı
-30114	4. Lanet Kapısı
-30115	5. Lanet Kapısı
-30116	6. Lanet Kapısı
-30117	7. Lanet Kapısı
-30118	8. Lanet Kapısı
-30119	9. Lanet Kapısı
-30120	Bitki Çantası
+30102	Bazalt DikilitaÅŸ
+30103	KaplumbaÄŸa KayalÄ±ÄŸÄ±
+30104	Runik DireÄŸi
+30111	1. Lanet KapÄ±sÄ±
+30112	2. Lanet KapÄ±sÄ±
+30113	3. Lanet KapÄ±sÄ±
+30114	4. Lanet KapÄ±sÄ±
+30115	5. Lanet KapÄ±sÄ±
+30116	6. Lanet KapÄ±sÄ±
+30117	7. Lanet KapÄ±sÄ±
+30118	8. Lanet KapÄ±sÄ±
+30119	9. Lanet KapÄ±sÄ±
+30120	Bitki Ã‡antasÄ±
 30121	Sura Ruhu
-30122	Savaşçı Ruhu
-30123	Karanlık Tapınak
-30124	Sura-İskeleti 1
-30125	Sura-İskeleti 2
-30126	Sura-İskeleti 3
-30127	Sura-İskeleti 4
-30128	Sura-İskeleti 5
-30129	Paskalya Tavşanı
-30130	Mezar Taşı
-30301	Ruh Kristali Damarı
-30302	Yakut Damarı
-30303	Grena Damarı
-30304	Zümrüt Damarı
-30305	Safir Damarı
+30122	SavaÅŸÃ§Ä± Ruhu
+30123	KaranlÄ±k TapÄ±nak
+30124	Sura-Ä°skeleti 1
+30125	Sura-Ä°skeleti 2
+30126	Sura-Ä°skeleti 3
+30127	Sura-Ä°skeleti 4
+30128	Sura-Ä°skeleti 5
+30129	Paskalya TavÅŸanÄ±
+30130	Mezar TaÅŸÄ±
+30301	Ruh Kristali DamarÄ±
+30302	Yakut DamarÄ±
+30303	Grena DamarÄ±
+30304	ZÃ¼mrÃ¼t DamarÄ±
+30305	Safir DamarÄ±
 33001	?????? ???
-33002	Tarihçi
-33003	Niyetli Vatandaş
-33004	Niyetli Vatandaş
-33005	Niyetli Vatandaş
-33006	Niyetli Vatandaş
-33007	Niyetli Vatandaş
+33002	TarihÃ§i
+33003	Niyetli VatandaÅŸ
+33004	Niyetli VatandaÅŸ
+33005	Niyetli VatandaÅŸ
+33006	Niyetli VatandaÅŸ
+33007	Niyetli VatandaÅŸ
 33008	Jack Pumpkin
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ã†Ã„ÃˆÂ²
 34005	Porki
 34006	Rufus
 34007	Khan
 34008	Leonidas
-34009	ÆÄÈ²
+34009	Ã†Ã„ÃˆÂ²
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
+34011	Â¾Ã†Â±Ã¢ Â¹Ã©Â°Ãµ
+34012	Â¾Ã†Â±Ã¢ Ã†Ã’Â´Ãµ
+34013	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34014	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÃˆÂ²Â±Ä°Â¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34015	Ã‡Ã’Â·ÃÃ€Â©Â»Ã€Â°Â­Â¾Ã†ÃÃ¶
+34016	Â³Ã¬Â¿Â°ÂºÃ’Â»Ã§ÃÂ¶
 33009	Soul Crystal Alchemist
 33010	Rubin Alchemist
 33011	Garnet Alchemist

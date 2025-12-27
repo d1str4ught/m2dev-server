@@ -646,9 +646,9 @@ VNUM	LOCALE_NAME
 8001	Metin del Dolore
 8002	Metin della Lotta
 8003	Metin della Battaglia
-8004	Metin dell'Avidità
-8005	Metin della Malvagità
-8006	Metin dell'Oscurità
+8004	Metin dell'AviditÃ 
+8005	Metin della MalvagitÃ 
+8006	Metin dell'OscuritÃ 
 8007	Metin della Gelosia
 8008	Metin dell'Anima
 8009	Metin dell'ombra
@@ -692,7 +692,7 @@ VNUM	LOCALE_NAME
 8050	Metin pasquale
 8051	Metin delle Tenebre
 8052	Metin dell'Incandescenza
-8053	Metin della Vanità
+8053	Metin della VanitÃ 
 8054	Metin della Collera
 8055	Metin della Sciagura
 8056	Metin dell'Infamia
@@ -700,9 +700,9 @@ VNUM	LOCALE_NAME
 8101	Metin del Dolore
 8102	Metin della Lotta
 8103	Metin della Battaglia
-8104	Metin dell'Avidità
-8105	Metin della Malvagità
-8106	Metin dell'Oscurità
+8104	Metin dell'AviditÃ 
+8105	Metin della MalvagitÃ 
+8106	Metin dell'OscuritÃ 
 8107	Metin della Gelosia
 8108	Metin dell'Anima
 8109	Metin dell'Ombra
@@ -846,8 +846,8 @@ VNUM	LOCALE_NAME
 10094	Porta_Drago 1733 13743
 10095	Porta_Drago 1728 15277
 10096	Porta_Drago 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10097	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼2ÃƒÃ¾ 7040 5235 
+10098	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼3ÃƒÃ¾ 984 5711
 10099	Capo 11043 17885
 10100	Capo 10963 16744
 10101	Nefrite 10869 16558
@@ -996,7 +996,7 @@ VNUM	LOCALE_NAME
 11508	??
 11509	??
 11510	??
-12000	Falò
+12000	FalÃ²
 13000	Portone di Legno
 13001	Portone di Pietra
 14000	Laboratorio
@@ -1193,14 +1193,14 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
+20220	Ã…Â©Â¸Â®Â½ÂºÂ¸Â¶Â½Âº Â¼Ã¸Â·Ã
+20221	Ã€Ã¼Â°Â©Â¹Ã©Â¿Ãµ
+20222	Ã€Ã¼Â°Â©Ã†Ã’Â´Ãµ
+20223	Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20224	Â³Â­Ã†Ã¸Ã‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20225	Â¿Ã«Â¸ÃÃ‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20226	ÃˆÃ¦Ã€Â¯Â´ÃÃ„Ãœ
+20227	Â¹Ã©Ã€Â¯Â´ÃÃ„Ãœ
 20300	Ins. Dott. Lotta Corp.
 20301	Ins. Dott. Lotta Mentale
 20302	Ins. Dott. Lotta C. a C.
@@ -1231,7 +1231,7 @@ VNUM	LOCALE_NAME
 20351	Guaridano dell'Arena
 20352	Monum. di Pietra Hasun
 20353	Monu. di Pietra SeulRong
-20354	Guardiano della Città
+20354	Guardiano della CittÃ 
 20355	Comandante
 20356	Raccoglitore di Ginseng
 20357	Monumento Weol
@@ -1279,15 +1279,15 @@ VNUM	LOCALE_NAME
 30102	Obelisco di Basalto
 30103	Roccia della Tartaruga
 30104	Palo Runico
-30111	1° Porta dei Dannati
-30112	2° Porta dei Dannati
-30113	3° Porta dei Dannati
-30114	4° Porta dei Dannati
-30115	5° Porta dei Dannati
-30116	6° Porta dei Dannati
-30117	7° Porta dei Dannati
-30118	8° Porta dei Dannati
-30119	9° Porta dei Dannati
+30111	1Â° Porta dei Dannati
+30112	2Â° Porta dei Dannati
+30113	3Â° Porta dei Dannati
+30114	4Â° Porta dei Dannati
+30115	5Â° Porta dei Dannati
+30116	6Â° Porta dei Dannati
+30117	7Â° Porta dei Dannati
+30118	8Â° Porta dei Dannati
+30119	9Â° Porta dei Dannati
 30120	Sacca delle erbe
 30121	Spirito di un Sura
 30122	Spirito di un Guerriero
@@ -1315,19 +1315,19 @@ VNUM	LOCALE_NAME
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ã†Ã„ÃˆÂ²
 34005	Porky
 34006	Rufus
 34007	Khan
 34008	Leonida
-34009	ÆÄÈ²
+34009	Ã†Ã„ÃˆÂ²
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
+34011	Â¾Ã†Â±Ã¢ Â¹Ã©Â°Ãµ
+34012	Â¾Ã†Â±Ã¢ Ã†Ã’Â´Ãµ
+34013	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34014	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÃˆÂ²Â±ÃÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34015	Ã‡Ã’Â·ÃÃ€Â©Â»Ã€Â°Â­Â¾Ã†ÃÃ¶
+34016	Â³Ã¬Â¿Â°ÂºÃ’Â»Ã§ÃÂ¶
 33009	Soul Crystal Alchemist
 33010	Rubin Alchemist
 33011	Garnet Alchemist

@@ -1,5 +1,5 @@
 VNUM	LOCALE_NAME
-101	Câine sãlbatic
+101	CÃ¢ine sÄƒlbatic
 102	Lup
 103	Lup Alpha
 104	Lup Albastru
@@ -33,7 +33,7 @@ VNUM	LOCALE_NAME
 153	Jug-Hyul
 154	Young-Ji
 155	Li-An
-171	Câine sãlbatic flãmând
+171	CÃ¢ine sÄƒlbatic flÄƒmÃ¢nd
 172	Lup Flamand
 173	Lup Flamand Alpha
 174	Lup Flamand Albastru
@@ -43,7 +43,7 @@ VNUM	LOCALE_NAME
 178	Mistret Flamand
 179	Mistret Flamand Rosu
 180	Urs Flamand
-181	Urs Flãmând Grizzly
+181	Urs FlÄƒmÃ¢nd Grizzly
 182	Urs Flamand Negru
 183	Urs Flamand Brun
 184	Tigru Flamand
@@ -72,35 +72,35 @@ VNUM	LOCALE_NAME
 396	Tristul de Eun-Jung
 397	Tristul Se-Rang
 398	Tristul Jin-Hee
-401	Soldat vânt negru
-402	Posedat de vânt negru
-403	Arcaº vânt negru
-404	vânt negru Jak-To
-405	vânt negru To-Su
-406	vânt negru Gu-Ryung
+401	Soldat vÃ¢nt negru
+402	Posedat de vÃ¢nt negru
+403	ArcaÅŸ vÃ¢nt negru
+404	vÃ¢nt negru Jak-To
+405	vÃ¢nt negru To-Su
+406	vÃ¢nt negru Gu-Ryung
 431	Soldat de atac negru
 432	Posedat de atac negru
-433	Arcaº negru
+433	ArcaÅŸ negru
 434	Joh-Hwan de atac negru
 435	Kyuk-Jan de atac negru
 436	Pho-Hwan de atac negru
-451	Soldat de atac negru rãu
-452	Posedat de atac rãu
-453	Arcaº de atac rãu
-454	Joh-Hwan de atac rãu
-455	Kyuk-Jang de atac rãu
-456	Pho-Hwan de atac rãu
+451	Soldat de atac negru rÄƒu
+452	Posedat de atac rÄƒu
+453	ArcaÅŸ de atac rÄƒu
+454	Joh-Hwan de atac rÄƒu
+455	Kyuk-Jang de atac rÄƒu
+456	Pho-Hwan de atac rÄƒu
 491	Mahon
 492	Bo
 493	Goo-Pae
 494	Chuong
 501	Infanterist Salbatic
 502	Salbatic Devotat
-503	Arcaº sãlbatic
+503	ArcaÅŸ sÄƒlbatic
 504	General Salbatic
 531	Soldat brutal
 532	Posedat brutal
-533	Arcaº brutal
+533	ArcaÅŸ brutal
 534	Specialist brutal
 551	Infanterist Salbatic Dur
 552	Locotenent Salbatic Dur
@@ -130,121 +130,121 @@ VNUM	LOCALE_NAME
 692	Orc Elite Sef
 693	Orc Sef Spirit
 701	Fanatic Intunecat
-702	Arahan întunecat
+702	Arahan Ã®ntunecat
 703	Luptator Intunecat
-704	Arahan întunecat super.
-705	Cãlãu întunecat
-706	Despot întunecat
+704	Arahan Ã®ntunecat super.
+705	CÄƒlÄƒu Ã®ntunecat
+706	Despot Ã®ntunecat
 707	Incantator Intunecat
 731	Fanatic Mandru Intunecat
-732	Arahan întunecat mândru
-733	Luptãtor întunecat mândr
-734	Colonel întunecat mândru
+732	Arahan Ã®ntunecat mÃ¢ndru
+733	LuptÄƒtor Ã®ntunecat mÃ¢ndr
+734	Colonel Ã®ntunecat mÃ¢ndru
 735	Puscas Malefic Mandru
-736	Despot întunecat mândru
-737	Vrãjitor întunecat mândr
-751	Fanatic înalt
-752	Arahan înalt
-753	Luptãtor Arahan înalt
-754	Superior Arahan înalt
-755	Cãlãu înalt
-756	Despot înalt
-757	Incântãtor înalt
+736	Despot Ã®ntunecat mÃ¢ndru
+737	VrÄƒjitor Ã®ntunecat mÃ¢ndr
+751	Fanatic Ã®nalt
+752	Arahan Ã®nalt
+753	LuptÄƒtor Arahan Ã®nalt
+754	Superior Arahan Ã®nalt
+755	CÄƒlÄƒu Ã®nalt
+756	Despot Ã®nalt
+757	IncÃ¢ntÄƒtor Ã®nalt
 771	Fanatic brutal
 772	Arahan brutal
-773	Luptãtor Arahan brutal
+773	LuptÄƒtor Arahan brutal
 774	Arahan superior brutal
-775	Cãlãu brutal
+775	CÄƒlÄƒu brutal
 776	Despot brutal
-777	Incântãtor brutal
-791	Conducãtor întunecat
+777	IncÃ¢ntÄƒtor brutal
+791	ConducÄƒtor Ã®ntunecat
 792	Conducator Spirit Negru
-793	Conducãtor întun. elitã
+793	ConducÄƒtor Ã®ntun. elitÄƒ
 794	Strigoi Intunecat
-795	Luptãtor de elitã
-796	Lupt. întunec. de elitã
+795	LuptÄƒtor de elitÄƒ
+796	Lupt. Ã®ntunec. de elitÄƒ
 901	Spiritul Cadavrului
-902	Câine al ciumei
+902	CÃ¢ine al ciumei
 903	Om al ciumei
-904	Luptãtor sabie al ciumei
-905	Luptãtor sulişã al ciume
-906	Arcaº al ciumei
+904	LuptÄƒtor sabie al ciumei
+905	LuptÄƒtor suliÅ£Äƒ al ciume
+906	ArcaÅŸ al ciumei
 907	Comandant al ciumei
 931	Spirit Cadavru Furios
-932	Câine al ciumei sãlbatic
-933	Om al ciumei sãlbatic
-934	Luptãtor al ciumei sãlb.
-935	Lupt. sulişã al cium. s.
-936	Arcaº al ciumei sãlbatic
+932	CÃ¢ine al ciumei sÄƒlbatic
+933	Om al ciumei sÄƒlbatic
+934	LuptÄƒtor al ciumei sÄƒlb.
+935	Lupt. suliÅ£Äƒ al cium. s.
+936	ArcaÅŸ al ciumei sÄƒlbatic
 937	Com. al ciumei furios
 991	Ou al ciumei
-992	Purtãtor de ciumã
-993	Purtãtor de ciumã uriaº
+992	PurtÄƒtor de ciumÄƒ
+993	PurtÄƒtor de ciumÄƒ uriaÅŸ
 1001	Soldat Demon
 1002	Arcas Demon
 1003	Demon Sulitas
 1004	Demon Saman
 1031	Soldat comun
-1032	Arcaº comun
+1032	ArcaÅŸ comun
 1033	Luptator Sulita Comun
-1034	ªaman comun
-1035	Spiritul mâniei
+1034	Åaman comun
+1035	Spiritul mÃ¢niei
 1036	Spiritul haosului
 1037	Demon comandant comun
 1038	Maestru craniu sabie
-1039	Craniu zburãtor
+1039	Craniu zburÄƒtor
 1040	Spirit nemuritor
 1041	Animal demonic
 1061	Spirit soldat comun
-1062	Spirit arcaº comun
-1063	Spirit luptãtor comun
+1062	Spirit arcaÅŸ comun
+1063	Spirit luptÄƒtor comun
 1064	Spirit Saman Comun
-1065	Spirit al mâniei comun
+1065	Spirit al mÃ¢niei comun
 1066	Spirit al haosului comun
 1067	Spirit comandant comun
 1068	Samurai Fantoma
-1069	Craniu zburãtor comun
+1069	Craniu zburÄƒtor comun
 1070	Spirit nemuritor
 1071	Animal demonic
 1091	Demon rege
-1092	Demon rege mândru
+1092	Demon rege mÃ¢ndru
 1093	Ingerul cu Coasa
 1094	Demon rege comun
 1095	Moarte albastra
 1096	????
 1101	Gheata Fermecata
 1102	Balena Ucigasa de Gheata
-1103	Insectã de gheaşã
-1104	Leu de gheaşã
-1105	Om Îngheşat
+1103	InsectÄƒ de gheaÅ£Äƒ
+1104	Leu de gheaÅ£Äƒ
+1105	Om ÃngheÅ£at
 1106	Yeti
-1107	Golem de Gheatã
-1131	Aºchii Gheatã Lumea Jos
-1132	Balenã ucigaºã gheaşã
+1107	Golem de GheatÄƒ
+1131	AÅŸchii GheatÄƒ Lumea Jos
+1132	BalenÄƒ ucigaÅŸÄƒ gheaÅ£Äƒ
 1133	Insecta Inghetata
-1134	Leu gheaşã lumea de jos
-1135	Omul gheşii lumii de jos
+1134	Leu gheaÅ£Äƒ lumea de jos
+1135	Omul gheÅ£ii lumii de jos
 1136	Yeti Salbatic
 1137	Golem de Gheata Subteran
-1151	Diavol de gheaşã
-1152	Balenã cu corn de gheaşã
-1153	Insectã de gheaşã
+1151	Diavol de gheaÅ£Äƒ
+1152	BalenÄƒ cu corn de gheaÅ£Äƒ
+1153	InsectÄƒ de gheaÅ£Äƒ
 1154	Seol-Gu
-1155	Omul gheşii
-1156	Gigant de gheaşã
+1155	Omul gheÅ£ii
+1156	Gigant de gheaÅ£Äƒ
 1157	Golem de Gheata
-1171	Gheaşã fermecatã rea
-1172	Balenã cu corn d gh. rea
-1173	Insectã de gh. rea
-1174	Leu de gheaşã rãu
+1171	GheaÅ£Äƒ fermecatÄƒ rea
+1172	BalenÄƒ cu corn d gh. rea
+1173	InsectÄƒ de gh. rea
+1174	Leu de gheaÅ£Äƒ rÄƒu
 1175	Om Rau de Gheata
-1176	Yeti rãu
+1176	Yeti rÄƒu
 1177	Golem de Gheata Puternic
-1191	Vrãjitoare de gheaşã
-1192	Vrãjitoare de gheaşã mar
+1191	VrÄƒjitoare de gheaÅ£Äƒ
+1192	VrÄƒjitoare de gheaÅ£Äƒ mar
 1301	Soldat Brotac
 1302	General Brotac
-1303	Cãpcãun
+1303	CÄƒpcÄƒun
 1304	Fantoma Tigrului Galben
 1305	General Broasca Taur
 1306	Naluca Tigrului Galben
@@ -254,21 +254,21 @@ VNUM	LOCALE_NAME
 1310	NoNAme
 1331	Soldat Brotac Mare
 1332	Liderul General Brotac
-1333	Cãpcãun mare
+1333	CÄƒpcÄƒun mare
 1334	Duhul Tigrului Galben
-1335	Gen. broascã-bou mare
-1401	Distrugãtor
-1402	Luptãtor cu securea
-1403	Miria-Luptãtor
+1335	Gen. broascÄƒ-bou mare
+1401	DistrugÄƒtor
+1402	LuptÄƒtor cu securea
+1403	Miria-LuptÄƒtor
 1501	Golem de Piatra
 1502	Golem de Piatra
 1503	Golem de Stanca
-1601	Cãpcãun rãzboinic
+1601	CÄƒpcÄƒun rÄƒzboinic
 1602	Capcaun Macelar
-1603	Berserker cãpcãun
+1603	Berserker cÄƒpcÄƒun
 1901	Noua Cozi
-1902	Nouã cozi de elitã
-1903	Nouã cozi de elitã
+1902	NouÄƒ cozi de elitÄƒ
+1903	NouÄƒ cozi de elitÄƒ
 1904	NoNAme
 1905	NoNAme
 1906	NoNAme
@@ -294,9 +294,9 @@ VNUM	LOCALE_NAME
 2064	Paianjen Gheara Otravit
 2065	Paianjen Soldat Otravit
 2071	Paianjen Pui Mortal
-2072	Pãi. otr. mort. brutal
-2073	Pãi. otr. roºu brutal
-2074	Pãi. otr. cu ghearã brut
+2072	PÄƒi. otr. mort. brutal
+2073	PÄƒi. otr. roÅŸu brutal
+2074	PÄƒi. otr. cu ghearÄƒ brut
 2075	Paianjen Soldat Mortal
 2076	Paianjen Otravitor Dur
 2091	Regina Paianjenilor
@@ -305,7 +305,7 @@ VNUM	LOCALE_NAME
 2094	Rege Paianjen
 2095	Ou de Paianjen
 2101	Vulpe de Desert
-2102	Ochi zburãtor de deºert
+2102	Ochi zburÄƒtor de deÅŸert
 2103	Scorpion Regal
 2104	Om Scorpion Mic
 2105	Arcas Scorpion
@@ -313,10 +313,10 @@ VNUM	LOCALE_NAME
 2107	Sarpe Arcas
 2108	Beduin
 2131	Om Scorpion
-2132	Arcaº scorpion
-2133	Luptãtor sabie ºarpe
-2134	Arcaº ºarpe
-2135	Tâlhar de deºert
+2132	ArcaÅŸ scorpion
+2133	LuptÄƒtor sabie ÅŸarpe
+2134	ArcaÅŸ ÅŸarpe
+2135	TÃ¢lhar de deÅŸert
 2151	Vulpe Salbatica de Deser
 2152	Calugar Puternic
 2153	Scorpion Regal Dur
@@ -326,7 +326,7 @@ VNUM	LOCALE_NAME
 2157	Sarpe Arcas Dur
 2158	Beduin Puternic
 2191	Testoasa Gigant
-2192	Şestoasã de deºert neagr
+2192	Å¢estoasÄƒ de deÅŸert neagr
 2201	Tigru Luptator Dur
 2202	Spiritul Focului
 2203	Tigru Luptator
@@ -344,7 +344,7 @@ VNUM	LOCALE_NAME
 2302	Buturuga Fantoma
 2303	Driade
 2304	Salcia Fantoma
-2305	Copac Rãu
+2305	Copac RÄƒu
 2306	Copac Fantoma Urias
 2307	Copac Fantoma Nobil
 2311	Copacul Rosu Fantoma
@@ -353,12 +353,12 @@ VNUM	LOCALE_NAME
 2314	Salcia Fantoma Rosie
 2315	Copac Rau Rosu
 2401	Setaou Luptator
-2402	Vânãtor Setaou
+2402	VÃ¢nÄƒtor Setaou
 2403	Setaou Mistic
-2404	Conducãtor Setaou
+2404	ConducÄƒtor Setaou
 2411	Soldat Setaou
-2412	Arcaº Setaou
-2413	Judecãtor Setaou
+2412	ArcaÅŸ Setaou
+2413	JudecÄƒtor Setaou
 2414	Comandant Setaou
 2431	????
 2432	????
@@ -368,10 +368,10 @@ VNUM	LOCALE_NAME
 2452	?????
 2453	?????
 2454	?????
-2491	Cãpitanul Yonghan
+2491	CÄƒpitanul Yonghan
 2492	Generalul Yonghan
 2493	Beran-Setaou
-2494	Cãpitanul Huashin
+2494	CÄƒpitanul Huashin
 2495	Generalul Huashin
 2501	Meduzele Iadului
 2502	Cainele Iadului
@@ -511,18 +511,18 @@ VNUM	LOCALE_NAME
 5133	Lupt. maim. intel. mic
 5134	Gen. maim. inteligent mi
 5141	Urangutan Soldat
-5142	Aruncãtor maim. viclean
-5143	Luptãtor maim. viclean
+5142	AruncÄƒtor maim. viclean
+5143	LuptÄƒtor maim. viclean
 5144	Gen. maim. viclean
-5145	Maim. de piatrã vicleanã
-5146	Conducãtor maim. viclean
+5145	Maim. de piatrÄƒ vicleanÄƒ
+5146	ConducÄƒtor maim. viclean
 5151	Gorila Soldat Malefica
 5152	Gorila Grenadier Malefic
-5153	Luptãtor maim. rãu
+5153	LuptÄƒtor maim. rÄƒu
 5154	Gorila General Malefica
 5155	Gorila de Piatra Malefic
 5156	Gorila de Aur Malefica
-5157	Conducãtor maim. rãu
+5157	ConducÄƒtor maim. rÄƒu
 5161	Maimuta de Piatra
 5162	Maimuta Umblatoare
 5163	Maimuta Lord
@@ -553,21 +553,21 @@ VNUM	LOCALE_NAME
 7003	Maimuta Soldat Gimu
 7004	Maimuta Comandant
 7005	Maimuta de Piatra
-7006	Maimuşã  de Aur
+7006	MaimuÅ£Äƒ  de Aur
 7007	Maimuta General
 7008	Muncitor Tu-Gui
-7009	Controlor soldaşi Tu-Gui
+7009	Controlor soldaÅ£i Tu-Gui
 7010	Comandor alb Tu-Gui
 7012	Bi-Ma-Gui-An
 7013	Rege Scorpion
 7014	Om Scorpion Las
-7015	Arcaº scorpion
-7016	Luptãtor sabie ºarpe
-7017	Arcaº ºarpe
-7018	Tâlhar de deºert
+7015	ArcaÅŸ scorpion
+7016	LuptÄƒtor sabie ÅŸarpe
+7017	ArcaÅŸ ÅŸarpe
+7018	TÃ¢lhar de deÅŸert
 7019	Soldat Tu-ji
 7020	Hwa-ryung
-7021	Pierde-varã Tu-Ji
+7021	Pierde-varÄƒ Tu-Ji
 7022	Cham-Ma
 7023	Teawha-Mu
 7024	Juk-gui
@@ -662,10 +662,10 @@ VNUM	LOCALE_NAME
 8017	Metinul Dizgratiei
 8018	Metinul Mortii
 8019	Metinul Crimelor
-8020	Stâncã Shinsoo
-8021	Stâncã Jinno
-8022	Stâncã Chunjo
-8023	Stâncã imperialã
+8020	StÃ¢ncÄƒ Shinsoo
+8021	StÃ¢ncÄƒ Jinno
+8022	StÃ¢ncÄƒ Chunjo
+8023	StÃ¢ncÄƒ imperialÄƒ
 8024	Metin Pung-Ma
 8025	Metin Ma-An
 8026	Metin Tu-Young
@@ -681,15 +681,15 @@ VNUM	LOCALE_NAME
 8039	Metinul Mandriei
 8040	Metinul Invidiei
 8041	Metin de Paste
-8042	Metin de Paºte
-8043	Metin de Paºte
-8044	Metin de Paºte
-8045	Metin de Paºte
-8046	Metin de Paºte
-8047	Metin de Paºte
-8048	Metin de Paºte
-8049	Metin de Paºte
-8050	Metin de Paºte
+8042	Metin de PaÅŸte
+8043	Metin de PaÅŸte
+8044	Metin de PaÅŸte
+8045	Metin de PaÅŸte
+8046	Metin de PaÅŸte
+8047	Metin de PaÅŸte
+8048	Metin de PaÅŸte
+8049	Metin de PaÅŸte
+8050	Metin de PaÅŸte
 8051	Metinul Tristetii
 8052	Metinul Carbunilor
 8053	Metinul Vanitatii
@@ -711,15 +711,15 @@ VNUM	LOCALE_NAME
 8112	Metinul Dizgratiei
 8113	Metinul Mortii
 8114	Metinul Crimelor
-8501	Câine sãlbatic
+8501	CÃ¢ine sÄƒlbatic
 8502	Mistret
 8503	Urs
 8504	Tigru Alb
 8505	Orc Negru Gigant
 8506	General Brotac
-8507	Tâlhar de deºert
+8507	TÃ¢lhar de deÅŸert
 8508	Despot esoteric
-8509	Incântãtor esoteric
+8509	IncÃ¢ntÄƒtor esoteric
 8510	Luptator de Foc
 8511	Golem de Gheata
 8600	?????
@@ -748,42 +748,42 @@ VNUM	LOCALE_NAME
 9008	Negustor de armuri
 9009	Pescar
 9010	Magazin de diverse
-9011	Organizatoare de nunşi
+9011	Organizatoare de nunÅ£i
 9012	Teleporter
-10001	Şinutul_Yayang 4002 8995
-10002	Şinutul_Yongan 4503 9050
-10003	Şinut_Bokjung 1118 2161
-10004	Şinutul_Joan 876 2131
-10005	Şinutul_Bakra 9064 2214
+10001	Å¢inutul_Yayang 4002 8995
+10002	Å¢inutul_Yongan 4503 9050
+10003	Å¢inut_Bokjung 1118 2161
+10004	Å¢inutul_Joan 876 2131
+10005	Å¢inutul_Bakra 9064 2214
 10006	Zona_Pyungmoo 9372 2188
-10007	Şinutul_Yongan 4188 9560
-10008	Şinutul_Yayang 3179 8332
-10009	Şinutul_Joan 897 1127
-10010	ŞinutulBokjung 1759 2210
+10007	Å¢inutul_Yongan 4188 9560
+10008	Å¢inutul_Yayang 3179 8332
+10009	Å¢inutul_Joan 897 1127
+10010	Å¢inutulBokjung 1759 2210
 10011	Zona_Pyungmoo 9343 3143
-10012	Şinutul_Bakra 8348 2926
+10012	Å¢inutul_Bakra 8348 2926
 10013	Templul_Hwang 5536 1441
 10014	Seungryong 3326 7468
-10015	DeºertulYongbi 3467 6329
+10015	DeÅŸertulYongbi 3467 6329
 10016	Kuahlo_Dong 600 4960
 10017	Templul_Hwang 5906 1102
 10018	Turnul_Gumsan 2165 7270
-10019	Şinutul_Yayang 3211 9009
+10019	Å¢inutul_Yayang 3211 9009
 10020	Jungrang 1356 43
-10021	ŞinutulBokjung 1168 2920
+10021	Å¢inutulBokjung 1168 2920
 10022	Waryong 2219 93
-10023	Şinutul_Bakra 9098 2948
+10023	Å¢inutul_Bakra 9098 2948
 10024	Imha 2718 130
 10025	Muntele_Sohan 4993 2984
 10026	Lungsam 2887 57
 10027	Lungsam 2866 437
-10028	Pãdurea_roºie 11199 708
+10028	PÄƒdurea_roÅŸie 11199 708
 10029	Vale_cu_Serpi 10590 7262
-10030	DeºertulYongbi 3519 6223
+10030	DeÅŸertulYongbi 3519 6223
 10031	Vale_cu_Serpi 10590 7262
 10032	Taram_Giganti 8283 7635
-10033	Peºtera_Zin 10594 7525
-10034	2_peºterã_Zin 10594 7525
+10033	PeÅŸtera_Zin 10594 7525
+10034	2_peÅŸterÄƒ_Zin 10594 7525
 10035	Deon-Zeon 917 5253
 10036	2_Deon-Zeon 7041 4642
 10037	??? 3809 8233
@@ -817,14 +817,14 @@ VNUM	LOCALE_NAME
 10065	???? 7754 10553
 10066	????? 9915 11195
 10067	TemnitaMaimute 7752 4477
-10068	Şinutul_Yayang 4062 8756
+10068	Å¢inutul_Yayang 4062 8756
 10069	TemnitaMaimute 8520 4477
-10070	ŞinutulBokjung 1611 2130
+10070	Å¢inutulBokjung 1611 2130
 10071	TemnitaMaimute 9288 4477
-10072	Şinutul_Bakra 8727 2100
-10073	DeºertulYongbi 3061 6202
+10072	Å¢inutul_Bakra 8727 2100
+10073	DeÅŸertulYongbi 3061 6202
 10074	TemnitaMaimute 1352 6532
-10075	DeºertulYongbi 2879 5407
+10075	DeÅŸertulYongbi 2879 5407
 10076	TemnitaMaimute 1352 7300
 10077	????1? 9 12078
 10078	??? 2842 8106
@@ -842,12 +842,12 @@ VNUM	LOCALE_NAME
 10090	???? 9609 3188
 10091	????1? 1360 18044
 10092	????2? 2414 17361
-10093	Poartã_Dragon 1731 12205
-10094	Poartã_Dragon 1733 13743
-10095	Poartã_Dragon 1728 15277
-10096	Poartã_Dragon 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10093	PoartÄƒ_Dragon 1731 12205
+10094	PoartÄƒ_Dragon 1733 13743
+10095	PoartÄƒ_Dragon 1728 15277
+10096	PoartÄƒ_Dragon 1724 16824
+10097	Â°Ä¹Ä…ÄšÂµÅ¼Â±Ä½2Ä‚Å£ 7040 5235 
+10098	Â°Ä¹Ä…ÄšÂµÅ¼Â±Ä½3Ä‚Å£ 984 5711
 10099	Peninsula 11043 17885
 10100	Peninsula 10963 16744
 10101	Nephrite 10869 16558
@@ -990,15 +990,15 @@ VNUM	LOCALE_NAME
 11115	???
 11116	???
 11117	???
-11505	Broascã aurie
+11505	BroascÄƒ aurie
 11506	??
 11507	??
 11508	??
 11509	??
 11510	??
-12000	Foc de tabãrã
-13000	Poartã de lemn
-13001	Poartã de piatrã
+12000	Foc de tabÄƒrÄƒ
+13000	PoartÄƒ de lemn
+13001	PoartÄƒ de piatrÄƒ
 14000	Atelier
 14001	Atelier
 14002	Atelier
@@ -1019,26 +1019,26 @@ VNUM	LOCALE_NAME
 14017	Altar
 14018	Altar
 14019	Altar
-14020	Bazã
-14021	Bazã
-14022	Bazã
-14023	Bazã
-14024	Bazã
-14025	Bazã
-14026	Bazã
-14027	Bazã
-14028	Bazã
-14029	Bazã
-14030	Bazã de antrenament
-14031	Bazã de antrenament
-14032	Bazã de antrenament
-14033	Bazã de antrenament
-14034	Bazã de antrenament
-14035	Bazã de antrenament
-14036	Bazã de antrenament
-14037	Bazã de antrenament
-14038	Bazã de antrenament
-14039	Bazã de antrenament
+14020	BazÄƒ
+14021	BazÄƒ
+14022	BazÄƒ
+14023	BazÄƒ
+14024	BazÄƒ
+14025	BazÄƒ
+14026	BazÄƒ
+14027	BazÄƒ
+14028	BazÄƒ
+14029	BazÄƒ
+14030	BazÄƒ de antrenament
+14031	BazÄƒ de antrenament
+14032	BazÄƒ de antrenament
+14033	BazÄƒ de antrenament
+14034	BazÄƒ de antrenament
+14035	BazÄƒ de antrenament
+14036	BazÄƒ de antrenament
+14037	BazÄƒ de antrenament
+14038	BazÄƒ de antrenament
+14039	BazÄƒ de antrenament
 14040	Cuptor
 14041	Cuptor
 14042	Cuptor
@@ -1052,7 +1052,7 @@ VNUM	LOCALE_NAME
 20001	Alchimist
 20002	Aranyo
 20003	Ah-Yu
-20004	Cerºetor
+20004	CerÅŸetor
 20005	Yonah
 20006	Mirine
 20007	Administrator Depozit
@@ -1068,7 +1068,7 @@ VNUM	LOCALE_NAME
 20017	Yu-Hwan
 20018	Baek-Go
 20019	Yang-Shin
-20020	Trãdãtorul Balso
+20020	TrÄƒdÄƒtorul Balso
 20021	Ariyoung
 20022	Huahn-So
 20023	Soon
@@ -1081,32 +1081,32 @@ VNUM	LOCALE_NAME
 20030	Cal
 20031	Mos Craciun
 20032	Brad de Craciun
-20033	Brad de Crãciun
-20034	Brad de Crãciun
+20033	Brad de CrÄƒciun
+20034	Brad de CrÄƒciun
 20035	Steag
 20036	Steag
 20037	Steag
 20038	..
 20039	.
 20040	Vanzator de terenuri
-20041	Cetãşean turmentat
+20041	CetÄƒÅ£ean turmentat
 20042	Negustor ambulant
 20043	.
 20044	Fierar de arme
 20045	Fierar de armuri
 20046	Bijutier
-20047	Zãcãmânt de diamante
-20048	Zãcãmânt de chihlimbar
-20049	Zãcãmânt de fosile
-20050	Zãcãmânt de cupru
-20051	Zãcãmânt de argint
-20052	Zãcãmânt de aur
-20053	Zãcãmânt de jade
-20054	Zãcãmânt de lemn abanos
+20047	ZÄƒcÄƒmÃ¢nt de diamante
+20048	ZÄƒcÄƒmÃ¢nt de chihlimbar
+20049	ZÄƒcÄƒmÃ¢nt de fosile
+20050	ZÄƒcÄƒmÃ¢nt de cupru
+20051	ZÄƒcÄƒmÃ¢nt de argint
+20052	ZÄƒcÄƒmÃ¢nt de aur
+20053	ZÄƒcÄƒmÃ¢nt de jade
+20054	ZÄƒcÄƒmÃ¢nt de lemn abanos
 20055	Teanc de scoici
-20056	Zãcãmânt de aur alb
-20057	Zãcãmânt de cristal
-20058	Zãcãmânt de cuarş
+20056	ZÄƒcÄƒmÃ¢nt de aur alb
+20057	ZÄƒcÄƒmÃ¢nt de cristal
+20058	ZÄƒcÄƒmÃ¢nt de cuarÅ£
 20059	Minereu Lacrima Cerului
 20060	Alchimist de diamante
 20061	Alchimist de chihlimbar
@@ -1119,7 +1119,7 @@ VNUM	LOCALE_NAME
 20068	Alchimist de perle
 20069	Alchimist de aur alb
 20070	Alchimist de cristal
-20071	Alchimist de cuarş
+20071	Alchimist de cuarÅ£
 20072	Alchimist d lacrima cer.
 20073	Sigiliu vechi
 20074	Fierar de arme de turn
@@ -1157,7 +1157,7 @@ VNUM	LOCALE_NAME
 20107	Cal alb
 20108	Cal maro
 20109	Cal negru
-20110	Mistreş Sãlbatic
+20110	MistreÅ£ SÄƒlbatic
 20111	Lup
 20112	Tigru
 20113	Leu
@@ -1165,7 +1165,7 @@ VNUM	LOCALE_NAME
 20115	Mistret Salbatic d Lupta
 20116	Lup de Batalie
 20117	Tigrul Furtunii
-20118	Leul Luptãtor
+20118	Leul LuptÄƒtor
 20119	NoNAme
 20120	?????
 20121	?????
@@ -1193,14 +1193,14 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
+20220	Ä¹Â©Â¸Â®ËÅŸÂ¸Â¶ËÅŸ Ä½Å™Â·Ä
+20221	Å”Ã¼Â°Â©Ä…Ã©Å¼Å‘
+20222	Å”Ã¼Â°Â©Ä†Å‡Â´Å‘
+20223	Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20224	Å‚Â­Ä†Å™Ã‡Åƒ Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20225	Å¼Ã«Â¸ÃÃ‡Åƒ Å”Ã¼Â°Â©Ä½Â®Â·Ä‡Å”Ãš
+20226	ÄŒÄ‡Å”Å»Â´ÄÃ„Ãœ
+20227	Ä…Ã©Å”Å»Â´ÄÃ„Ãœ
 20300	Invatator Lupta de Corp
 20301	Invatator Lupta Mentala
 20302	Invatator Lupta cu Sabia
@@ -1210,32 +1210,32 @@ VNUM	LOCALE_NAME
 20306	Invatator Puterea Dragon
 20307	Invatator Vindecare
 20320	Invatator Lupta de Corp
-20321	Învãşãtor de luptã ment.
-20322	Învãşãtor de luptã apro.
-20323	Învãşãtor de luptã depã.
-20324	Învãşãtor de arme magice
-20325	Învãşãtor de magie neagr
-20326	Învãşãtor de puter. zmeu
-20327	Învãşãtor de vindecare
+20321	ÃnvÄƒÅ£Äƒtor de luptÄƒ ment.
+20322	ÃnvÄƒÅ£Äƒtor de luptÄƒ apro.
+20323	ÃnvÄƒÅ£Äƒtor de luptÄƒ depÄƒ.
+20324	ÃnvÄƒÅ£Äƒtor de arme magice
+20325	ÃnvÄƒÅ£Äƒtor de magie neagr
+20326	ÃnvÄƒÅ£Äƒtor de puter. zmeu
+20327	ÃnvÄƒÅ£Äƒtor de vindecare
 20340	Invatator Lupta de Corp
-20341	Învãşãtor de luptã ment.
-20342	Învãşãtor de luptã apro.
-20343	Învãşãtor de luptã depã.
-20344	Învãşãtor de arme magice
-20345	Învãşãtor de magie neagr
-20346	Învãşãtor de puter. zmeu
-20347	Învãşãtor de vindecare
+20341	ÃnvÄƒÅ£Äƒtor de luptÄƒ ment.
+20342	ÃnvÄƒÅ£Äƒtor de luptÄƒ apro.
+20343	ÃnvÄƒÅ£Äƒtor de luptÄƒ depÄƒ.
+20344	ÃnvÄƒÅ£Äƒtor de arme magice
+20345	ÃnvÄƒÅ£Äƒtor de magie neagr
+20346	ÃnvÄƒÅ£Äƒtor de puter. zmeu
+20347	ÃnvÄƒÅ£Äƒtor de vindecare
 20348	Paznic turnul demonilor
-20349	Grãjdar
+20349	GrÄƒjdar
 20350	Paznicul Garnizoanei
 20351	Paznicul halei
 20352	Monument piatra Hasun
 20353	Monument piatra SeulRong
 20354	Gardianul Orasului
 20355	Capitan
-20356	Culegãtor de Ginseng
-20357	Monument piatrã Weol
-20358	Flori fãrã nume
+20356	CulegÄƒtor de Ginseng
+20357	Monument piatrÄƒ Weol
+20358	Flori fÄƒrÄƒ nume
 20359	Cutie cu Manuscrise
 20360	Piatra Memoriala Wha
 20361	Piatra Memoriala Su
@@ -1288,16 +1288,16 @@ VNUM	LOCALE_NAME
 30117	7. Poarta Pierzaniei
 30118	8. Poarta Pierzaniei
 30119	9. Poarta Pierzaniei
-30120	Pungã cu Ierburi
+30120	PungÄƒ cu Ierburi
 30121	Spiritul Sura
-30122	Spiritul Rãzboinic
-30123	Sanctuarul Întunecat
+30122	Spiritul RÄƒzboinic
+30123	Sanctuarul Ãntunecat
 30124	Schelet-Sura 1
 30125	Schelet-Sura 2
 30126	Schelet-Sura 3
 30127	Schelet-Sura 4
 30128	Schelet-Sura 5
-30129	Iepuraºul de Paºte
+30129	IepuraÅŸul de PaÅŸte
 30130	Mormant
 30301	Farama Minereu Cristal
 30302	Farama Minereu Rubin
@@ -1315,19 +1315,19 @@ VNUM	LOCALE_NAME
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ä†Ã„ÄŒË›
 34005	Porcusor
 34006	Rufus
 34007	Khan
 34008	Leonidas
-34009	ÆÄÈ²
+34009	Ä†Ã„ÄŒË›
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
+34011	Ä¾Ä†Â±Ã¢ Ä…Ã©Â°Å‘
+34012	Ä¾Ä†Â±Ã¢ Ä†Å‡Â´Å‘
+34013	ÅŸÃ“Å”ÅŸÂµÂµÅ”Å±Â´ÃœÄ¾Ã–Â±Ã¢Å”ÄºÄ½Ã¶
+34014	ÅŸÃ“Å”ÅŸÂµÂµÅ”Å±Â´ÃœÄŒË›Â±ÃÄ¾Ã–Â±Ã¢Å”ÄºÄ½Ã¶
+34015	Ã‡Å‡Â·ÃÅ”Â©Â»Å”Â°Â­Ä¾Ä†ÃÃ¶
+34016	Å‚Ä›Å¼Â°ÅŸÅ‡Â»Ã§ÃÂ¶
 33009	Soul Crystal Alchemist
 33010	Rubin Alchemist
 33011	Garnet Alchemist
