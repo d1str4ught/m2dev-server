@@ -1007,16 +1007,16 @@
 "[Grupă] Ţinta nu este membru al grupei tale.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Grupă] În temniţă nu poţi exclude niciun jucător.";
+"[Grupă] Nu poti sparge grupa cât timp ești în temniță.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Grupă] În temniţă nu poţi exclude niciun jucător.";
+"[Grupă] Nu poți da afară din grupă cât timp ești în temniță.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Grupă] Ai fost exclus din grupă.";
+"[Grupă] Ai fost dat afară din grupă.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Grupă] Nu poţi părăsi o grupă în temniţă.";
+"[Grupă] Nu poți să părăsești grupa cât timp ești în temniță.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Grupă] Nu poţi exclude membrii grupei.";
@@ -1505,7 +1505,7 @@
 "[Grupă] %s s-a alăturat grupei tale.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Grupă] %s s-a alăturat grupei tale.";
+"[Grupă] Ai intrat în grupa lui %s.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Nu poţi folosi acum niciun magazin privat";
@@ -2270,16 +2270,28 @@
 "Dacă inhalezi fumul roşu din cutie îţi creşte repeziciunea.";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+""Nu mai poți adăuga bonusuri.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Noul bonus adăugat cu succes.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Nu poți schimba bonusurile.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"Ai nevoie de %s.";
 
 "문제 입니다.";
-"OX-Question: ";
+"Întrebare OX:";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Prieteni] Nu te poți adăuga singur ca prieten.";
+
+"[Friends] You are already friends with %s.";
+"[Prieteni] Ești deja prieten cu %s.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Prieteni] Ai trimis deja o cerere de prietenie către %s.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Prieteni] %s ți-a trimis o cerere de prietenie.";

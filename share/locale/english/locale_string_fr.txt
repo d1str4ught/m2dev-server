@@ -2283,3 +2283,15 @@
 
 "문제 입니다.";
 "OX-Question: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Friends] You cannot add yourself as a friend.";
+
+"[Friends] You are already friends with %s.";
+"[Friends] You are already friends with %s.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Friends] You already sent a friend request to %s.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Friends] %s has already sent you a friend request.";

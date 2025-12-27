@@ -1007,16 +1007,16 @@
 "[Gruppo] L'obbiettivo non è membro del gruppo.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Gruppo] Non puoi escludere i giocatori nel sotterraneo.";
+"[Gruppo] Non puoi sciogliere il gruppo mentre sei in un dungeon.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Gruppo] Non puoi escludere i giocatori nel sotterraneo.";
+"[Gruppo] Non puoi espellere un membro del gruppo mentre sei in un dungeon.";
 
 "<파티> 파티에서 추방당하셨습니다.";
 "[Gruppo] Sei stato cacciato dal gruppo.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Gruppo] Nei sotterramei non puoi abbandonare il gruppo.";
+"[Gruppo] Non puoi abbandonare il gruppo mentre sei in un dungeon.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Gruppo] Non puoi cacciare i membri del gruppo.";
@@ -1505,7 +1505,7 @@
 "[Gruppo] %s è entrato nel tuo gruppo.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Gruppo] %s è entrato nel tuo gruppo.";
+"[Gruppo] Ti sei unito al gruppo di %s.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Non puoi usare il negozio privato.";
@@ -2270,16 +2270,28 @@
 "Se respiri il fumo rosso che esce dal forziere aumenti la tua velocità!";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+"Non puoi aggiungere altri bonus.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Nuovo bonus aggiunto con successo.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Non puoi cambiare i bonus.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"%s richiesto.";
 
 "문제 입니다.";
-"OX-Question: ";
+"OX-Domanda: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Amici] Non puoi aggiungere te stesso come amico."
+
+"[Friends] You are already friends with %s.";
+"[Amici] Sei già amico con %s." 
+
+"[Friends] You already sent a friend request to %s.";
+"[Amici] Hai già invitato una richiesta d'amicizia a %s." 
+
+"[Friends] %s has already sent you a friend request.";
+"[Amici] %s ti ha già invitato una richiesta d'amicizia."

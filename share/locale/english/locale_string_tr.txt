@@ -1007,16 +1007,16 @@
 "[Group] Hedef grubunuzun üyesi değil.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Group] Zindandayken oyuncu atamazsın.";
+"[Group] Bir zindandayken grubu kapatamazsınız.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Group] Zindandayken oyuncu atamazsın.";
+"[Group] Bir zindandayken gruptan birini çıkartamazsınız.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Group] Gruptan atıldın.";
+"[Group] Gruptan Atıldınız.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Group] Zindandayken gruptan ayrılamazsın.";
+"[Group] Bir Zindaydayken Gruptan Ayrılamazsınız";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Group] Grup üyelerini atamazsın.";
@@ -1505,7 +1505,7 @@
 "[Group] %s Grubunuza katıldı.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Group] %s Grubunuza katıldı.";
+"[Group] Başarıyla %s's grubuna katıldınız.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Şu anda özel depoyu kullanamazsın.";
@@ -2270,16 +2270,28 @@
 "Eğer kutudan gelen kırmızı dumanı solursan, hızın artar!";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+"Daha Fazla Bonus ekleyemezsin.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Yeni Bonus Başarıyla Eklendi.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Bonusları Değiştiremezsiniz.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"%s İhtiyacın var.";
 
 "문제 입니다.";
-"OX-Question: ";
+"OX-Soruları: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Arkadaş] Kendinizi Arkadaş olarak ekleyemezsiniz.";
+
+"[Friends] You are already friends with %s.";
+"[Arkadaş] Arkadaş Olduğun birini ekleyemezsin %s.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Arkadaş] Daha önce bir Arkadaşlık isteği Gönderdiniz %s.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Arkadaş] %s Daha önce Bir arkadaşlık isteği Aldınız."; 

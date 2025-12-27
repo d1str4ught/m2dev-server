@@ -1007,16 +1007,16 @@
 "[Gruppe] Das Ziel ist kein Mitglied deiner Gruppe.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Gruppe] Du kannst in einem Dungeon keinen Spieler ausschließen.";
+"[Gruppe] Du kannst die Gruppe nicht auflösen, solange du dich in einem Dungeon befindest.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Gruppe] Du kannst in einem Dungeon keinen Spieler ausschließen.";
+"[Gruppe] Du kannst kein Gruppenmitglied aus der Gruppe werfen, solange du dich in einem Dungeon befindest.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Gruppe] Du wurdest aus der Gruppe ausgeschlossen.";
+"[Gruppe] Du wurdest aus der Gruppe gekickt.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Gruppe] Du kannst in einem Dungeon keine Gruppe verlassen.";
+"[Gruppe] Du kannst die Gruppe nicht verlassen, solange du dich in einem Dungeon befindest.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Gruppe] Du kannst die Gruppenmitglieder nicht ausschließen.";
@@ -1505,7 +1505,7 @@
 "[Gruppe] %s ist deiner Gruppe beigetreten.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Gruppe] %s ist deiner Gruppe beigetreten.";
+"[Gruppe] Du bist der Gruppe von %s beigetreten.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Du kannst jetzt keinen privaten Laden nutzen.";
@@ -2270,16 +2270,28 @@
 "Wenn du den roten Rauch aus der Kiste einatmest, steigert sich deine Schnelligkeit!";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+"Mit diesem Gegenstand kannst du keine weiteren Boni hinzufügen.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Neuer Bonus erfolgreich hinzugefügt.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Es gibt keine Boni, die du ändern könntest.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"%s wird benötigt.";
 
 "문제 입니다.";
-"OX-Question: ";
+"OX-Frage: ";
+
+"[Friends] You cannot add yourself as a friend.";
+"[Freunde] Du kannst dich nicht selbst als Freund hinzufügen.";
+
+"[Friends] You are already friends with %s.";
+"[Freunde] Du bist bereits mit %s befreundet.";
+
+"[Friends] You already sent a friend request to %s.";
+"[Freunde] Du hast bereits eine Freundschaftsanfrage an %s gesendet.";
+
+"[Friends] %s has already sent you a friend request.";
+"[Freunde] %s hat dir bereits eine Freundschaftsanfrage gesendet.";
