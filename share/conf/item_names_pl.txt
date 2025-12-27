@@ -11,16 +11,16 @@ VNUM	LOCALE_NAME
 17	Miecz+7
 18	Miecz+8
 19	Miecz+9
-20	D³ugi Miecz+0
-21	D³ugi Miecz+1
-22	D³ugi Miecz+2
-23	D³ugi Miecz+3
-24	D³ugi Miecz+4
-25	D³ugi Miecz+5
-26	D³ugi Miecz+6
-27	D³ugi Miecz+7
-28	D³ugi Miecz+8
-29	D³ugi Miecz+9
+20	DÅ‚ugi Miecz+0
+21	DÅ‚ugi Miecz+1
+22	DÅ‚ugi Miecz+2
+23	DÅ‚ugi Miecz+3
+24	DÅ‚ugi Miecz+4
+25	DÅ‚ugi Miecz+5
+26	DÅ‚ugi Miecz+6
+27	DÅ‚ugi Miecz+7
+28	DÅ‚ugi Miecz+8
+29	DÅ‚ugi Miecz+9
 30	Sejmitar+0
 31	Sejmitar+1
 32	Sejmitar+2
@@ -31,16 +31,16 @@ VNUM	LOCALE_NAME
 37	Sejmitar+7
 38	Sejmitar+8
 39	Sejmitar+9
-40	Sto¿kowy Miecz+0
-41	Sto¿kowy Miecz+1
-42	Sto¿kowy Miecz+2
-43	Sto¿kowy Miecz+3
-44	Sto¿kowy Miecz+4
-45	Sto¿kowy Miecz+5
-46	Sto¿kowy Miecz+6
-47	Sto¿kowy Miecz+7
-48	Sto¿kowy Miecz+8
-49	Sto¿kowy Miecz+9
+40	StoÅ¼kowy Miecz+0
+41	StoÅ¼kowy Miecz+1
+42	StoÅ¼kowy Miecz+2
+43	StoÅ¼kowy Miecz+3
+44	StoÅ¼kowy Miecz+4
+45	StoÅ¼kowy Miecz+5
+46	StoÅ¼kowy Miecz+6
+47	StoÅ¼kowy Miecz+7
+48	StoÅ¼kowy Miecz+8
+49	StoÅ¼kowy Miecz+9
 50	Szeroki Miecz+0
 51	Szeroki Miecz+1
 52	Szeroki Miecz+2
@@ -71,26 +71,26 @@ VNUM	LOCALE_NAME
 77	Miecz Storczykowy+7
 78	Miecz Storczykowy+8
 79	Miecz Storczykowy+9
-80	Miecz Pó³torarêczny+0
-81	Miecz Pó³torarêczny+1
-82	Miecz Pó³torarêczny+2
-83	Miecz Pó³torarêczny+3
-84	Miecz Pó³torarêczny+4
-85	Miecz Pó³torarêczny+5
-86	Miecz Pó³torarêczny+6
-87	Miecz Pó³torarêczny+7
-88	Miecz Pó³torarêczny+8
-89	Miecz Pó³torarêczny+9
-90	Miecz Barbarzyñcy+0
-91	Miecz Barbarzyñcy+1
-92	Miecz Barbarzyñcy+2
-93	Miecz Barbarzyñcy+3
-94	Miecz Barbarzyñcy+4
-95	Miecz Barbarzyñcy+5
-96	Miecz Barbarzyñcy+6
-97	Miecz Barbarzyñcy+7
-98	Miecz Barbarzyñcy+8
-99	Miecz Barbarzyñcy+9
+80	Miecz PÃ³Å‚torarÄ™czny+0
+81	Miecz PÃ³Å‚torarÄ™czny+1
+82	Miecz PÃ³Å‚torarÄ™czny+2
+83	Miecz PÃ³Å‚torarÄ™czny+3
+84	Miecz PÃ³Å‚torarÄ™czny+4
+85	Miecz PÃ³Å‚torarÄ™czny+5
+86	Miecz PÃ³Å‚torarÄ™czny+6
+87	Miecz PÃ³Å‚torarÄ™czny+7
+88	Miecz PÃ³Å‚torarÄ™czny+8
+89	Miecz PÃ³Å‚torarÄ™czny+9
+90	Miecz BarbarzyÅ„cy+0
+91	Miecz BarbarzyÅ„cy+1
+92	Miecz BarbarzyÅ„cy+2
+93	Miecz BarbarzyÅ„cy+3
+94	Miecz BarbarzyÅ„cy+4
+95	Miecz BarbarzyÅ„cy+5
+96	Miecz BarbarzyÅ„cy+6
+97	Miecz BarbarzyÅ„cy+7
+98	Miecz BarbarzyÅ„cy+8
+99	Miecz BarbarzyÅ„cy+9
 100	Krwawy Miecz+0
 101	Krwawy Miecz+1
 102	Krwawy Miecz+2
@@ -121,16 +121,16 @@ VNUM	LOCALE_NAME
 127	Miecz Lat. Maga+7
 128	Miecz Lat. Maga+8
 129	Miecz Lat. Maga+9
-130	Pó³-ksiê¿ycowy Miecz+0
-131	Pó³-ksiê¿ycowy Miecz+1
-132	Pó³-ksiê¿ycowy Miecz+2
-133	Pó³-ksiê¿ycowy Miecz+3
-134	Pó³-ksiê¿ycowy Miecz+4
-135	Pó³-ksiê¿ycowy Miecz+5
-136	Pó³-ksiê¿ycowy Miecz+6
-137	Pó³-ksiê¿ycowy Miecz+7
-138	Pó³-ksiê¿ycowy Miecz+8
-139	Pó³-ksiê¿ycowy Miecz+9
+130	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+0
+131	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+1
+132	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+2
+133	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+3
+134	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+4
+135	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+5
+136	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+6
+137	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+7
+138	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+8
+139	PÃ³Å‚-ksiÄ™Å¼ycowy Miecz+9
 140	Miecz Bojowy+0
 141	Miecz Bojowy+1
 142	Miecz Bojowy+2
@@ -161,16 +161,16 @@ VNUM	LOCALE_NAME
 167	Miecz Nimfy+7
 168	Miecz Nimfy+8
 169	Miecz Nimfy+9
-170	Miecz ¯¹d³o+0
-171	Miecz ¯¹d³o+1
-172	Miecz ¯¹d³o+2
-173	Miecz ¯¹d³o+3
-174	Miecz ¯¹d³o+4
-175	Miecz ¯¹d³o+5
-176	Miecz ¯¹d³o+6
-177	Miecz ¯¹d³o+7
-178	Miecz ¯¹d³o+8
-179	Miecz ¯¹d³o+9
+170	Miecz Å»Ä…dÅ‚o+0
+171	Miecz Å»Ä…dÅ‚o+1
+172	Miecz Å»Ä…dÅ‚o+2
+173	Miecz Å»Ä…dÅ‚o+3
+174	Miecz Å»Ä…dÅ‚o+4
+175	Miecz Å»Ä…dÅ‚o+5
+176	Miecz Å»Ä…dÅ‚o+6
+177	Miecz Å»Ä…dÅ‚o+7
+178	Miecz Å»Ä…dÅ‚o+8
+179	Miecz Å»Ä…dÅ‚o+9
 180	Zatruty miecz+0
 181	Zatruty miecz+1
 182	Zatruty miecz+2
@@ -201,36 +201,36 @@ VNUM	LOCALE_NAME
 207	Brzegowe Ostrze+7
 208	Brzegowe Ostrze+8
 209	Brzegowe Ostrze+9
-210	Œmiercionoœne Ostrze+0
-211	Œmiercionoœne Ostrze+1
-212	Œmiercionoœne Ostrze+2
-213	Œmiercionoœne Ostrze+3
-214	Œmiercionoœne Ostrze+4
-215	Œmiercionoœne Ostrze+5
-216	Œmiercionoœne Ostrze+6
-217	Œmiercionoœne Ostrze+7
-218	Œmiercionoœne Ostrze+8
-219	Œmiercionoœne Ostrze+9
-220	Ksiê¿ycowy Miecz+0
-221	Ksiê¿ycowy Miecz+1
-222	Ksiê¿ycowy Miecz+2
-223	Ksiê¿ycowy Miecz+3
-224	Ksiê¿ycowy Miecz+4
-225	Ksiê¿ycowy Miecz+5
-226	Ksiê¿ycowy Miecz+6
-227	Ksiê¿ycowy Miecz+7
-228	Ksiê¿ycowy Miecz+8
-229	Ksiê¿ycowy Miecz+9
-230	Niebiañski Miecz+0
-231	Niebiañski Miecz+1
-232	Niebiañski Miecz+2
-233	Niebiañski Miecz+3
-234	Niebiañski Miecz+4
-235	Niebiañski Miecz+5
-236	Niebiañski Miecz+6
-237	Niebiañski Miecz+7
-238	Niebiañski Miecz+8
-239	Niebiañski Miecz+9
+210	ÅšmiercionoÅ›ne Ostrze+0
+211	ÅšmiercionoÅ›ne Ostrze+1
+212	ÅšmiercionoÅ›ne Ostrze+2
+213	ÅšmiercionoÅ›ne Ostrze+3
+214	ÅšmiercionoÅ›ne Ostrze+4
+215	ÅšmiercionoÅ›ne Ostrze+5
+216	ÅšmiercionoÅ›ne Ostrze+6
+217	ÅšmiercionoÅ›ne Ostrze+7
+218	ÅšmiercionoÅ›ne Ostrze+8
+219	ÅšmiercionoÅ›ne Ostrze+9
+220	KsiÄ™Å¼ycowy Miecz+0
+221	KsiÄ™Å¼ycowy Miecz+1
+222	KsiÄ™Å¼ycowy Miecz+2
+223	KsiÄ™Å¼ycowy Miecz+3
+224	KsiÄ™Å¼ycowy Miecz+4
+225	KsiÄ™Å¼ycowy Miecz+5
+226	KsiÄ™Å¼ycowy Miecz+6
+227	KsiÄ™Å¼ycowy Miecz+7
+228	KsiÄ™Å¼ycowy Miecz+8
+229	KsiÄ™Å¼ycowy Miecz+9
+230	NiebiaÅ„ski Miecz+0
+231	NiebiaÅ„ski Miecz+1
+232	NiebiaÅ„ski Miecz+2
+233	NiebiaÅ„ski Miecz+3
+234	NiebiaÅ„ski Miecz+4
+235	NiebiaÅ„ski Miecz+5
+236	NiebiaÅ„ski Miecz+6
+237	NiebiaÅ„ski Miecz+7
+238	NiebiaÅ„ski Miecz+8
+239	NiebiaÅ„ski Miecz+9
 240	Miecz Egzorcysty+0
 241	Miecz Egzorcysty+1
 242	Miecz Egzorcysty+2
@@ -271,26 +271,26 @@ VNUM	LOCALE_NAME
 277	Miecz Trytona+7
 278	Miecz Trytona+8
 279	Miecz Trytona+9
-280	Œwiêty Miecz+0
-281	Œwiêty Miecz+1
-282	Œwiêty Miecz+2
-283	Œwiêty Miecz+3
-284	Œwiêty Miecz+4
-285	Œwiêty Miecz+5
-286	Œwiêty Miecz+6
-287	Œwiêty Miecz+7
-288	Œwiêty Miecz+8
-289	Œwiêty Miecz+9
-290	Miecz Pe³ni Ksiê¿yca+0
-291	Miecz Pe³ni Ksiê¿yca+1
-292	Miecz Pe³ni Ksiê¿yca+2
-293	Miecz Pe³ni Ksiê¿yca+3
-294	Miecz Pe³ni Ksiê¿yca+4
-295	Miecz Pe³ni Ksiê¿yca+5
-296	Miecz Pe³ni Ksiê¿yca+6
-297	Miecz Pe³ni Ksiê¿yca+7
-298	Miecz Pe³ni Ksiê¿yca+8
-299	Miecz Pe³ni Ksiê¿yca+9
+280	ÅšwiÄ™ty Miecz+0
+281	ÅšwiÄ™ty Miecz+1
+282	ÅšwiÄ™ty Miecz+2
+283	ÅšwiÄ™ty Miecz+3
+284	ÅšwiÄ™ty Miecz+4
+285	ÅšwiÄ™ty Miecz+5
+286	ÅšwiÄ™ty Miecz+6
+287	ÅšwiÄ™ty Miecz+7
+288	ÅšwiÄ™ty Miecz+8
+289	ÅšwiÄ™ty Miecz+9
+290	Miecz PeÅ‚ni KsiÄ™Å¼yca+0
+291	Miecz PeÅ‚ni KsiÄ™Å¼yca+1
+292	Miecz PeÅ‚ni KsiÄ™Å¼yca+2
+293	Miecz PeÅ‚ni KsiÄ™Å¼yca+3
+294	Miecz PeÅ‚ni KsiÄ™Å¼yca+4
+295	Miecz PeÅ‚ni KsiÄ™Å¼yca+5
+296	Miecz PeÅ‚ni KsiÄ™Å¼yca+6
+297	Miecz PeÅ‚ni KsiÄ™Å¼yca+7
+298	Miecz PeÅ‚ni KsiÄ™Å¼yca+8
+299	Miecz PeÅ‚ni KsiÄ™Å¼yca+9
 460	Runiczny Miecz+0
 461	Runiczny Miecz+1
 462	Runiczny Miecz+2
@@ -301,16 +301,16 @@ VNUM	LOCALE_NAME
 467	Runiczny Miecz+7
 468	Runiczny Miecz+8
 469	Runiczny Miecz+9
-470	Klinga Smoczego K³a+0
-471	Klinga Smoczego K³a+1
-472	Klinga Smoczego K³a+2
-473	Klinga Smoczego K³a+3
-474	Klinga Smoczego K³a+4
-475	Klinga Smoczego K³a+5
-476	Klinga Smoczego K³a+6
-477	Klinga Smoczego K³a+7
-478	Klinga Smoczego K³a+8
-479	Klinga Smoczego K³a+9
+470	Klinga Smoczego KÅ‚a+0
+471	Klinga Smoczego KÅ‚a+1
+472	Klinga Smoczego KÅ‚a+2
+473	Klinga Smoczego KÅ‚a+3
+474	Klinga Smoczego KÅ‚a+4
+475	Klinga Smoczego KÅ‚a+5
+476	Klinga Smoczego KÅ‚a+6
+477	Klinga Smoczego KÅ‚a+7
+478	Klinga Smoczego KÅ‚a+8
+479	Klinga Smoczego KÅ‚a+9
 1000	Sztylet+0
 1001	Sztylet+1
 1002	Sztylet+2
@@ -331,56 +331,56 @@ VNUM	LOCALE_NAME
 1017	Sztylet Kobry+7
 1018	Sztylet Kobry+8
 1019	Sztylet Kobry+9
-1020	Sztylet No¿ycowy+0
-1021	Sztylet No¿ycowy+1
-1022	Sztylet No¿ycowy+2
-1023	Sztylet No¿ycowy+3
-1024	Sztylet No¿ycowy+4
-1025	Sztylet No¿ycowy+5
-1026	Sztylet No¿ycowy+6
-1027	Sztylet No¿ycowy+7
-1028	Sztylet No¿ycowy+8
-1029	Sztylet No¿ycowy+9
-1030	Nó¿ Szczêœcia+0
-1031	Nó¿ Szczêœcia+1
-1032	Nó¿ Szczêœcia+2
-1033	Nó¿ Szczêœcia+3
-1034	Nó¿ Szczêœcia+4
-1035	Nó¿ Szczêœcia+5
-1036	Nó¿ Szczêœcia+6
-1037	Nó¿ Szczêœcia+7
-1038	Nó¿ Szczêœcia+8
-1039	Nó¿ Szczêœcia+9
-1040	Uk¹szenie Kota+0
-1041	Uk¹szenie Kota+1
-1042	Uk¹szenie Kota+2
-1043	Uk¹szenie Kota+3
-1044	Uk¹szenie Kota+4
-1045	Uk¹szenie Kota+5
-1046	Uk¹szenie Kota+6
-1047	Uk¹szenie Kota+7
-1048	Uk¹szenie Kota+8
-1049	Uk¹szenie Kota+9
-1050	Twarz Diab³a+0
-1051	Twarz Diab³a+1
-1052	Twarz Diab³a+2
-1053	Twarz Diab³a+3
-1054	Twarz Diab³a+4
-1055	Twarz Diab³a+5
-1056	Twarz Diab³a+6
-1057	Twarz Diab³a+7
-1058	Twarz Diab³a+8
-1059	Twarz Diab³a+9
-1060	Sztylet Piêœci Diab.+0
-1061	Sztylet Piêœci Diab.+1
-1062	Sztylet Piêœci Diab.+2
-1063	Sztylet Piêœci Diab.+3
-1064	Sztylet Piêœci Diab.+4
-1065	Sztylet Piêœci Diab.+5
-1066	Sztylet Piêœci Diab.+6
-1067	Sztylet Piêœci Diab.+7
-1068	Sztylet Piêœci Diab.+8
-1069	Sztylet Piêœci Diab.+9
+1020	Sztylet NoÅ¼ycowy+0
+1021	Sztylet NoÅ¼ycowy+1
+1022	Sztylet NoÅ¼ycowy+2
+1023	Sztylet NoÅ¼ycowy+3
+1024	Sztylet NoÅ¼ycowy+4
+1025	Sztylet NoÅ¼ycowy+5
+1026	Sztylet NoÅ¼ycowy+6
+1027	Sztylet NoÅ¼ycowy+7
+1028	Sztylet NoÅ¼ycowy+8
+1029	Sztylet NoÅ¼ycowy+9
+1030	NÃ³Å¼ SzczÄ™Å›cia+0
+1031	NÃ³Å¼ SzczÄ™Å›cia+1
+1032	NÃ³Å¼ SzczÄ™Å›cia+2
+1033	NÃ³Å¼ SzczÄ™Å›cia+3
+1034	NÃ³Å¼ SzczÄ™Å›cia+4
+1035	NÃ³Å¼ SzczÄ™Å›cia+5
+1036	NÃ³Å¼ SzczÄ™Å›cia+6
+1037	NÃ³Å¼ SzczÄ™Å›cia+7
+1038	NÃ³Å¼ SzczÄ™Å›cia+8
+1039	NÃ³Å¼ SzczÄ™Å›cia+9
+1040	UkÄ…szenie Kota+0
+1041	UkÄ…szenie Kota+1
+1042	UkÄ…szenie Kota+2
+1043	UkÄ…szenie Kota+3
+1044	UkÄ…szenie Kota+4
+1045	UkÄ…szenie Kota+5
+1046	UkÄ…szenie Kota+6
+1047	UkÄ…szenie Kota+7
+1048	UkÄ…szenie Kota+8
+1049	UkÄ…szenie Kota+9
+1050	Twarz DiabÅ‚a+0
+1051	Twarz DiabÅ‚a+1
+1052	Twarz DiabÅ‚a+2
+1053	Twarz DiabÅ‚a+3
+1054	Twarz DiabÅ‚a+4
+1055	Twarz DiabÅ‚a+5
+1056	Twarz DiabÅ‚a+6
+1057	Twarz DiabÅ‚a+7
+1058	Twarz DiabÅ‚a+8
+1059	Twarz DiabÅ‚a+9
+1060	Sztylet PiÄ™Å›ci Diab.+0
+1061	Sztylet PiÄ™Å›ci Diab.+1
+1062	Sztylet PiÄ™Å›ci Diab.+2
+1063	Sztylet PiÄ™Å›ci Diab.+3
+1064	Sztylet PiÄ™Å›ci Diab.+4
+1065	Sztylet PiÄ™Å›ci Diab.+5
+1066	Sztylet PiÄ™Å›ci Diab.+6
+1067	Sztylet PiÄ™Å›ci Diab.+7
+1068	Sztylet PiÄ™Å›ci Diab.+8
+1069	Sztylet PiÄ™Å›ci Diab.+9
 1070	Krwawy Sztylet+0
 1071	Krwawy Sztylet+1
 1072	Krwawy Sztylet+2
@@ -391,16 +391,16 @@ VNUM	LOCALE_NAME
 1077	Krwawy Sztylet+7
 1078	Krwawy Sztylet+8
 1079	Krwawy Sztylet+9
-1080	¯ebrowy Nó¿+0
-1081	¯ebrowy Nó¿+1
-1082	¯ebrowy Nó¿+2
-1083	¯ebrowy Nó¿+3
-1084	¯ebrowy Nó¿+4
-1085	¯ebrowy Nó¿+5
-1086	¯ebrowy Nó¿+6
-1087	¯ebrowy Nó¿+7
-1088	¯ebrowy Nó¿+8
-1089	¯ebrowy Nó¿+9
+1080	Å»ebrowy NÃ³Å¼+0
+1081	Å»ebrowy NÃ³Å¼+1
+1082	Å»ebrowy NÃ³Å¼+2
+1083	Å»ebrowy NÃ³Å¼+3
+1084	Å»ebrowy NÃ³Å¼+4
+1085	Å»ebrowy NÃ³Å¼+5
+1086	Å»ebrowy NÃ³Å¼+6
+1087	Å»ebrowy NÃ³Å¼+7
+1088	Å»ebrowy NÃ³Å¼+8
+1089	Å»ebrowy NÃ³Å¼+9
 1090	Chakram+0
 1091	Chakram+1
 1092	Chakram+2
@@ -411,286 +411,286 @@ VNUM	LOCALE_NAME
 1097	Chakram+7
 1098	Chakram+8
 1099	Chakram+9
-1100	Smoczy Nó¿+0
-1101	Smoczy Nó¿+1
-1102	Smoczy Nó¿+2
-1103	Smoczy Nó¿+3
-1104	Smoczy Nó¿+4
-1105	Smoczy Nó¿+5
-1106	Smoczy Nó¿+6
-1107	Smoczy Nó¿+7
-1108	Smoczy Nó¿+8
-1109	Smoczy Nó¿+9
-1110	Nó¿ B³yskawicy+0
-1111	Nó¿ B³yskawicy+1
-1112	Nó¿ B³yskawicy+2
-1113	Nó¿ B³yskawicy+3
-1114	Nó¿ B³yskawicy+4
-1115	Nó¿ B³yskawicy+5
-1116	Nó¿ B³yskawicy+6
-1117	Nó¿ B³yskawicy+7
-1118	Nó¿ B³yskawicy+8
-1119	Nó¿ B³yskawicy+9
-1120	Nó¿ Siamese+0
-1121	Nó¿ Siamese+1
-1122	Nó¿ Siamese+2
-1123	Nó¿ Siamese+3
-1124	Nó¿ Siamese+4
-1125	Nó¿ Siamese+5
-1126	Nó¿ Siamese+6
-1127	Nó¿ Siamese+7
-1128	Nó¿ Siamese+8
-1129	Nó¿ Siamese+9
-1130	Skrzyd³a Demona Chakr.+0
-1131	Skrzyd³a Demona Chakr.+1
-1132	Skrzyd³a Demona Chakr.+2
-1133	Skrzyd³a Demona Chakr.+3
-1134	Skrzyd³a Demona Chakr.+4
-1135	Skrzyd³a Demona Chakr.+5
-1136	Skrzyd³a Demona Chakr.+6
-1137	Skrzyd³a Demona Chakr.+7
-1138	Skrzyd³a Demona Chakr.+8
-1139	Skrzyd³a Demona Chakr.+9
-1140	Z¹bkowany Nó¿+0
-1141	Z¹bkowany Nó¿+1
-1142	Z¹bkowany Nó¿+2
-1143	Z¹bkowany Nó¿+3
-1144	Z¹bkowany Nó¿+4
-1145	Z¹bkowany Nó¿+5
-1146	Z¹bkowany Nó¿+6
-1147	Z¹bkowany Nó¿+7
-1148	Z¹bkowany Nó¿+8
-1149	Z¹bkowany Nó¿+9
-1150	Œwietlisty Nó¿+0
-1151	Œwietlisty Nó¿+1
-1152	Œwietlisty Nó¿+2
-1153	Œwietlisty Nó¿+3
-1154	Œwietlisty Nó¿+4
-1155	Œwietlisty Nó¿+5
-1156	Œwietlisty Nó¿+6
-1157	Œwietlisty Nó¿+7
-1158	Œwietlisty Nó¿+8
-1159	Œwietlisty Nó¿+9
-1160	Nó¿ Strumienia+0
-1161	Nó¿ Strumienia+1
-1162	Nó¿ Strumienia+2
-1163	Nó¿ Strumienia+3
-1164	Nó¿ Strumienia+4
-1165	Nó¿ Strumienia+5
-1166	Nó¿ Strumienia+6
-1167	Nó¿ Strumienia+7
-1168	Nó¿ Strumienia+8
-1169	Nó¿ Strumienia+9
-1170	Kozik Czar. Liœ.+0
-1171	Kozik Czar. Liœ.+1
-1172	Kozik Czar. Liœ.+2
-1173	Kozik Czar. Liœ.+3
-1174	Kozik Czar. Liœ.+4
-1175	Kozik Czar. Liœ.+5
-1176	Kozik Czar. Liœ.+6
-1177	Kozik Czar. Liœ.+7
-1178	Kozik Czar. Liœ.+8
-1179	Kozik Czar. Liœ.+9
-1340	Kolec Piêciu Elementów+0
-1341	Kolec Piêciu Elementów+1
-1342	Kolec Piêciu Elementów+2
-1343	Kolec Piêciu Elementów+3
-1344	Kolec Piêciu Elementów+4
-1345	Kolec Piêciu Elementów+5
-1346	Kolec Piêciu Elementów+6
-1347	Kolec Piêciu Elementów+7
-1348	Kolec Piêciu Elementów+8
-1349	Kolec Piêciu Elementów+9
-2000	£uk+0
-2001	£uk+1
-2002	£uk+2
-2003	£uk+3
-2004	£uk+4
-2005	£uk+5
-2006	£uk+6
-2007	£uk+7
-2008	£uk+8
-2009	£uk+9
-2010	D³ugi £uk+0
-2011	D³ugi £uk+1
-2012	D³ugi £uk+2
-2013	D³ugi £uk+3
-2014	D³ugi £uk+4
-2015	D³ugi £uk+5
-2016	D³ugi £uk+6
-2017	D³ugi £uk+7
-2018	D³ugi £uk+8
-2019	D³ugi £uk+9
-2020	Kompozytowy £uk+0
-2021	Kompozytowy £uk+1
-2022	Kompozytowy £uk+2
-2023	Kompozytowy £uk+3
-2024	Kompozytowy £uk+4
-2025	Kompozytowy £uk+5
-2026	Kompozytowy £uk+6
-2027	Kompozytowy £uk+7
-2028	Kompozytowy £uk+8
-2029	Kompozytowy £uk+9
-2030	Bojowy £uk+0
-2031	Bojowy £uk+1
-2032	Bojowy £uk+2
-2033	Bojowy £uk+3
-2034	Bojowy £uk+4
-2035	Bojowy £uk+5
-2036	Bojowy £uk+6
-2037	Bojowy £uk+7
-2038	Bojowy £uk+8
-2039	Bojowy £uk+9
-2040	D³ugi £uk JeŸdŸcy+0
-2041	D³ugi £uk JeŸdŸcy+1
-2042	D³ugi £uk JeŸdŸcy+2
-2043	D³ugi £uk JeŸdŸcy+3
-2044	D³ugi £uk JeŸdŸcy+4
-2045	D³ugi £uk JeŸdŸcy+5
-2046	D³ugi £uk JeŸdŸcy+6
-2047	D³ugi £uk JeŸdŸcy+7
-2048	D³ugi £uk JeŸdŸcy+8
-2049	D³ugi £uk JeŸdŸcy+9
-2050	Bojowy £uk JeŸdŸcy+0
-2051	Bojowy £uk JeŸdŸcy+1
-2052	Bojowy £uk JeŸdŸcy+2
-2053	Bojowy £uk JeŸdŸcy+3
-2054	Bojowy £uk JeŸdŸcy+4
-2055	Bojowy £uk JeŸdŸcy+5
-2056	Bojowy £uk JeŸdŸcy+6
-2057	Bojowy £uk JeŸdŸcy+7
-2058	Bojowy £uk JeŸdŸcy+8
-2059	Bojowy £uk JeŸdŸcy+9
-2060	Miedziany £uk+0
-2061	Miedziany £uk+1
-2062	Miedziany £uk+2
-2063	Miedziany £uk+3
-2064	Miedziany £uk+4
-2065	Miedziany £uk+5
-2066	Miedziany £uk+6
-2067	Miedziany £uk+7
-2068	Miedziany £uk+8
-2069	Miedziany £uk+9
-2070	£uk Czarnych Ruin+0
-2071	£uk Czarnych Ruin+1
-2072	£uk Czarnych Ruin+2
-2073	£uk Czarnych Ruin+3
-2074	£uk Czarnych Ruin+4
-2075	£uk Czarnych Ruin+5
-2076	£uk Czarnych Ruin+6
-2077	£uk Czarnych Ruin+7
-2078	£uk Czarnych Ruin+8
-2079	£uk Czarnych Ruin+9
-2080	£uk Czerwonego Oka+0
-2081	£uk Czerwonego Oka+1
-2082	£uk Czerwonego Oka+2
-2083	£uk Czerwonego Oka+3
-2084	£uk Czerwonego Oka+4
-2085	£uk Czerwonego Oka+5
-2086	£uk Czerwonego Oka+6
-2087	£uk Czerwonego Oka+7
-2088	£uk Czerwonego Oka+8
-2089	£uk Czerwonego Oka+9
-2090	£uk Kolczastego Liœ.+0
-2091	£uk Kolczastego Liœ.+1
-2092	£uk Kolczastego Liœ.+2
-2093	£uk Kolczastego Liœ.+3
-2094	£uk Kolczastego Liœ.+4
-2095	£uk Kolczastego Liœ.+5
-2096	£uk Kolczastego Liœ.+6
-2097	£uk Kolczastego Liœ.+7
-2098	£uk Kolczastego Liœ.+8
-2099	£uk Kolczastego Liœ.+9
-2100	£uk z rogu byka+0
-2101	£uk z rogu byka+1
-2102	£uk z rogu byka+2
-2103	£uk z rogu byka+3
-2104	£uk z rogu byka+4
-2105	£uk z rogu byka+5
-2106	£uk z rogu byka+6
-2107	£uk z rogu byka+7
-2108	£uk z rogu byka+8
-2109	£uk z rogu byka+9
-2110	£uk Jednoro¿ca+0
-2111	£uk Jednoro¿ca+1
-2112	£uk Jednoro¿ca+2
-2113	£uk Jednoro¿ca+3
-2114	£uk Jednoro¿ca+4
-2115	£uk Jednoro¿ca+5
-2116	£uk Jednoro¿ca+6
-2117	£uk Jednoro¿ca+7
-2118	£uk Jednoro¿ca+8
-2119	£uk Jednoro¿ca+9
-2120	Olbrz. Skrzydl. £uk+0
-2121	Olbrz. Skrzydl. £uk+1
-2122	Olbrz. Skrzydl. £uk+2
-2123	Olbrz. Skrzydl. £uk+3
-2124	Olbrz. Skrzydl. £uk+4
-2125	Olbrz. Skrzydl. £uk+5
-2126	Olbrz. Skrzydl. £uk+6
-2127	Olbrz. Skrzydl. £uk+7
-2128	Olbrz. Skrzydl. £uk+8
-2129	Olbrz. Skrzydl. £uk+9
-2130	Boski £uk Moreli+0
-2131	Boski £uk Moreli+1
-2132	Boski £uk Moreli+2
-2133	Boski £uk Moreli+3
-2134	Boski £uk Moreli+4
-2135	Boski £uk Moreli+5
-2136	Boski £uk Moreli+6
-2137	Boski £uk Moreli+7
-2138	Boski £uk Moreli+8
-2139	Boski £uk Moreli+9
-2140	Olbrz. £uk ¯ó³t. Smoka+0
-2141	Olbrz. £uk ¯ó³t. Smoka+1
-2142	Olbrz. £uk ¯ó³t. Smoka+2
-2143	Olbrz. £uk ¯ó³t. Smoka+3
-2144	Olbrz. £uk ¯ó³t. Smoka+4
-2145	Olbrz. £uk ¯ó³t. Smoka+5
-2146	Olbrz. £uk ¯ó³t. Smoka+6
-2147	Olbrz. £uk ¯ó³t. Smoka+7
-2148	Olbrz. £uk ¯ó³t. Smoka+8
-2149	Olbrz. £uk ¯ó³t. Smoka+9
-2150	£uk Z Rogu Jelenia+0
-2151	£uk Z Rogu Jelenia+1
-2152	£uk Z Rogu Jelenia+2
-2153	£uk Z Rogu Jelenia+3
-2154	£uk Z Rogu Jelenia+4
-2155	£uk Z Rogu Jelenia+5
-2156	£uk Z Rogu Jelenia+6
-2157	£uk Z Rogu Jelenia+7
-2158	£uk Z Rogu Jelenia+8
-2159	£uk Z Rogu Jelenia+9
-2160	Olbrz. £uk Diab³a+0
-2161	Olbrz. £uk Diab³a+1
-2162	Olbrz. £uk Diab³a+2
-2163	Olbrz. £uk Diab³a+3
-2164	Olbrz. £uk Diab³a+4
-2165	Olbrz. £uk Diab³a+5
-2166	Olbrz. £uk Diab³a+6
-2167	Olbrz. £uk Diab³a+7
-2168	Olbrz. £uk Diab³a+8
-2169	Olbrz. £uk Diab³a+9
-2170	Stalowy £uk Kruka+0
-2171	Stalowy £uk Kruka+1
-2172	Stalowy £uk Kruka+2
-2173	Stalowy £uk Kruka+3
-2174	Stalowy £uk Kruka+4
-2175	Stalowy £uk Kruka+5
-2176	Stalowy £uk Kruka+6
-2177	Stalowy £uk Kruka+7
-2178	Stalowy £uk Kruka+8
-2179	Stalowy £uk Kruka+9
-2180	£uk Niebieskiego Smoka+0
-2181	£uk Niebieskiego Smoka+1
-2182	£uk Niebieskiego Smoka+2
-2183	£uk Niebieskiego Smoka+3
-2184	£uk Niebieskiego Smoka+4
-2185	£uk Niebieskiego Smoka+5
-2186	£uk Niebieskiego Smoka+6
-2187	£uk Niebieskiego Smoka+7
-2188	£uk Niebieskiego Smoka+8
-2189	£uk Niebieskiego Smoka+9
+1100	Smoczy NÃ³Å¼+0
+1101	Smoczy NÃ³Å¼+1
+1102	Smoczy NÃ³Å¼+2
+1103	Smoczy NÃ³Å¼+3
+1104	Smoczy NÃ³Å¼+4
+1105	Smoczy NÃ³Å¼+5
+1106	Smoczy NÃ³Å¼+6
+1107	Smoczy NÃ³Å¼+7
+1108	Smoczy NÃ³Å¼+8
+1109	Smoczy NÃ³Å¼+9
+1110	NÃ³Å¼ BÅ‚yskawicy+0
+1111	NÃ³Å¼ BÅ‚yskawicy+1
+1112	NÃ³Å¼ BÅ‚yskawicy+2
+1113	NÃ³Å¼ BÅ‚yskawicy+3
+1114	NÃ³Å¼ BÅ‚yskawicy+4
+1115	NÃ³Å¼ BÅ‚yskawicy+5
+1116	NÃ³Å¼ BÅ‚yskawicy+6
+1117	NÃ³Å¼ BÅ‚yskawicy+7
+1118	NÃ³Å¼ BÅ‚yskawicy+8
+1119	NÃ³Å¼ BÅ‚yskawicy+9
+1120	NÃ³Å¼ Siamese+0
+1121	NÃ³Å¼ Siamese+1
+1122	NÃ³Å¼ Siamese+2
+1123	NÃ³Å¼ Siamese+3
+1124	NÃ³Å¼ Siamese+4
+1125	NÃ³Å¼ Siamese+5
+1126	NÃ³Å¼ Siamese+6
+1127	NÃ³Å¼ Siamese+7
+1128	NÃ³Å¼ Siamese+8
+1129	NÃ³Å¼ Siamese+9
+1130	SkrzydÅ‚a Demona Chakr.+0
+1131	SkrzydÅ‚a Demona Chakr.+1
+1132	SkrzydÅ‚a Demona Chakr.+2
+1133	SkrzydÅ‚a Demona Chakr.+3
+1134	SkrzydÅ‚a Demona Chakr.+4
+1135	SkrzydÅ‚a Demona Chakr.+5
+1136	SkrzydÅ‚a Demona Chakr.+6
+1137	SkrzydÅ‚a Demona Chakr.+7
+1138	SkrzydÅ‚a Demona Chakr.+8
+1139	SkrzydÅ‚a Demona Chakr.+9
+1140	ZÄ…bkowany NÃ³Å¼+0
+1141	ZÄ…bkowany NÃ³Å¼+1
+1142	ZÄ…bkowany NÃ³Å¼+2
+1143	ZÄ…bkowany NÃ³Å¼+3
+1144	ZÄ…bkowany NÃ³Å¼+4
+1145	ZÄ…bkowany NÃ³Å¼+5
+1146	ZÄ…bkowany NÃ³Å¼+6
+1147	ZÄ…bkowany NÃ³Å¼+7
+1148	ZÄ…bkowany NÃ³Å¼+8
+1149	ZÄ…bkowany NÃ³Å¼+9
+1150	Åšwietlisty NÃ³Å¼+0
+1151	Åšwietlisty NÃ³Å¼+1
+1152	Åšwietlisty NÃ³Å¼+2
+1153	Åšwietlisty NÃ³Å¼+3
+1154	Åšwietlisty NÃ³Å¼+4
+1155	Åšwietlisty NÃ³Å¼+5
+1156	Åšwietlisty NÃ³Å¼+6
+1157	Åšwietlisty NÃ³Å¼+7
+1158	Åšwietlisty NÃ³Å¼+8
+1159	Åšwietlisty NÃ³Å¼+9
+1160	NÃ³Å¼ Strumienia+0
+1161	NÃ³Å¼ Strumienia+1
+1162	NÃ³Å¼ Strumienia+2
+1163	NÃ³Å¼ Strumienia+3
+1164	NÃ³Å¼ Strumienia+4
+1165	NÃ³Å¼ Strumienia+5
+1166	NÃ³Å¼ Strumienia+6
+1167	NÃ³Å¼ Strumienia+7
+1168	NÃ³Å¼ Strumienia+8
+1169	NÃ³Å¼ Strumienia+9
+1170	Kozik Czar. LiÅ›.+0
+1171	Kozik Czar. LiÅ›.+1
+1172	Kozik Czar. LiÅ›.+2
+1173	Kozik Czar. LiÅ›.+3
+1174	Kozik Czar. LiÅ›.+4
+1175	Kozik Czar. LiÅ›.+5
+1176	Kozik Czar. LiÅ›.+6
+1177	Kozik Czar. LiÅ›.+7
+1178	Kozik Czar. LiÅ›.+8
+1179	Kozik Czar. LiÅ›.+9
+1340	Kolec PiÄ™ciu ElementÃ³w+0
+1341	Kolec PiÄ™ciu ElementÃ³w+1
+1342	Kolec PiÄ™ciu ElementÃ³w+2
+1343	Kolec PiÄ™ciu ElementÃ³w+3
+1344	Kolec PiÄ™ciu ElementÃ³w+4
+1345	Kolec PiÄ™ciu ElementÃ³w+5
+1346	Kolec PiÄ™ciu ElementÃ³w+6
+1347	Kolec PiÄ™ciu ElementÃ³w+7
+1348	Kolec PiÄ™ciu ElementÃ³w+8
+1349	Kolec PiÄ™ciu ElementÃ³w+9
+2000	Åuk+0
+2001	Åuk+1
+2002	Åuk+2
+2003	Åuk+3
+2004	Åuk+4
+2005	Åuk+5
+2006	Åuk+6
+2007	Åuk+7
+2008	Åuk+8
+2009	Åuk+9
+2010	DÅ‚ugi Åuk+0
+2011	DÅ‚ugi Åuk+1
+2012	DÅ‚ugi Åuk+2
+2013	DÅ‚ugi Åuk+3
+2014	DÅ‚ugi Åuk+4
+2015	DÅ‚ugi Åuk+5
+2016	DÅ‚ugi Åuk+6
+2017	DÅ‚ugi Åuk+7
+2018	DÅ‚ugi Åuk+8
+2019	DÅ‚ugi Åuk+9
+2020	Kompozytowy Åuk+0
+2021	Kompozytowy Åuk+1
+2022	Kompozytowy Åuk+2
+2023	Kompozytowy Åuk+3
+2024	Kompozytowy Åuk+4
+2025	Kompozytowy Åuk+5
+2026	Kompozytowy Åuk+6
+2027	Kompozytowy Åuk+7
+2028	Kompozytowy Åuk+8
+2029	Kompozytowy Åuk+9
+2030	Bojowy Åuk+0
+2031	Bojowy Åuk+1
+2032	Bojowy Åuk+2
+2033	Bojowy Åuk+3
+2034	Bojowy Åuk+4
+2035	Bojowy Åuk+5
+2036	Bojowy Åuk+6
+2037	Bojowy Åuk+7
+2038	Bojowy Åuk+8
+2039	Bojowy Åuk+9
+2040	DÅ‚ugi Åuk JeÅºdÅºcy+0
+2041	DÅ‚ugi Åuk JeÅºdÅºcy+1
+2042	DÅ‚ugi Åuk JeÅºdÅºcy+2
+2043	DÅ‚ugi Åuk JeÅºdÅºcy+3
+2044	DÅ‚ugi Åuk JeÅºdÅºcy+4
+2045	DÅ‚ugi Åuk JeÅºdÅºcy+5
+2046	DÅ‚ugi Åuk JeÅºdÅºcy+6
+2047	DÅ‚ugi Åuk JeÅºdÅºcy+7
+2048	DÅ‚ugi Åuk JeÅºdÅºcy+8
+2049	DÅ‚ugi Åuk JeÅºdÅºcy+9
+2050	Bojowy Åuk JeÅºdÅºcy+0
+2051	Bojowy Åuk JeÅºdÅºcy+1
+2052	Bojowy Åuk JeÅºdÅºcy+2
+2053	Bojowy Åuk JeÅºdÅºcy+3
+2054	Bojowy Åuk JeÅºdÅºcy+4
+2055	Bojowy Åuk JeÅºdÅºcy+5
+2056	Bojowy Åuk JeÅºdÅºcy+6
+2057	Bojowy Åuk JeÅºdÅºcy+7
+2058	Bojowy Åuk JeÅºdÅºcy+8
+2059	Bojowy Åuk JeÅºdÅºcy+9
+2060	Miedziany Åuk+0
+2061	Miedziany Åuk+1
+2062	Miedziany Åuk+2
+2063	Miedziany Åuk+3
+2064	Miedziany Åuk+4
+2065	Miedziany Åuk+5
+2066	Miedziany Åuk+6
+2067	Miedziany Åuk+7
+2068	Miedziany Åuk+8
+2069	Miedziany Åuk+9
+2070	Åuk Czarnych Ruin+0
+2071	Åuk Czarnych Ruin+1
+2072	Åuk Czarnych Ruin+2
+2073	Åuk Czarnych Ruin+3
+2074	Åuk Czarnych Ruin+4
+2075	Åuk Czarnych Ruin+5
+2076	Åuk Czarnych Ruin+6
+2077	Åuk Czarnych Ruin+7
+2078	Åuk Czarnych Ruin+8
+2079	Åuk Czarnych Ruin+9
+2080	Åuk Czerwonego Oka+0
+2081	Åuk Czerwonego Oka+1
+2082	Åuk Czerwonego Oka+2
+2083	Åuk Czerwonego Oka+3
+2084	Åuk Czerwonego Oka+4
+2085	Åuk Czerwonego Oka+5
+2086	Åuk Czerwonego Oka+6
+2087	Åuk Czerwonego Oka+7
+2088	Åuk Czerwonego Oka+8
+2089	Åuk Czerwonego Oka+9
+2090	Åuk Kolczastego LiÅ›.+0
+2091	Åuk Kolczastego LiÅ›.+1
+2092	Åuk Kolczastego LiÅ›.+2
+2093	Åuk Kolczastego LiÅ›.+3
+2094	Åuk Kolczastego LiÅ›.+4
+2095	Åuk Kolczastego LiÅ›.+5
+2096	Åuk Kolczastego LiÅ›.+6
+2097	Åuk Kolczastego LiÅ›.+7
+2098	Åuk Kolczastego LiÅ›.+8
+2099	Åuk Kolczastego LiÅ›.+9
+2100	Åuk z rogu byka+0
+2101	Åuk z rogu byka+1
+2102	Åuk z rogu byka+2
+2103	Åuk z rogu byka+3
+2104	Åuk z rogu byka+4
+2105	Åuk z rogu byka+5
+2106	Åuk z rogu byka+6
+2107	Åuk z rogu byka+7
+2108	Åuk z rogu byka+8
+2109	Åuk z rogu byka+9
+2110	Åuk JednoroÅ¼ca+0
+2111	Åuk JednoroÅ¼ca+1
+2112	Åuk JednoroÅ¼ca+2
+2113	Åuk JednoroÅ¼ca+3
+2114	Åuk JednoroÅ¼ca+4
+2115	Åuk JednoroÅ¼ca+5
+2116	Åuk JednoroÅ¼ca+6
+2117	Åuk JednoroÅ¼ca+7
+2118	Åuk JednoroÅ¼ca+8
+2119	Åuk JednoroÅ¼ca+9
+2120	Olbrz. Skrzydl. Åuk+0
+2121	Olbrz. Skrzydl. Åuk+1
+2122	Olbrz. Skrzydl. Åuk+2
+2123	Olbrz. Skrzydl. Åuk+3
+2124	Olbrz. Skrzydl. Åuk+4
+2125	Olbrz. Skrzydl. Åuk+5
+2126	Olbrz. Skrzydl. Åuk+6
+2127	Olbrz. Skrzydl. Åuk+7
+2128	Olbrz. Skrzydl. Åuk+8
+2129	Olbrz. Skrzydl. Åuk+9
+2130	Boski Åuk Moreli+0
+2131	Boski Åuk Moreli+1
+2132	Boski Åuk Moreli+2
+2133	Boski Åuk Moreli+3
+2134	Boski Åuk Moreli+4
+2135	Boski Åuk Moreli+5
+2136	Boski Åuk Moreli+6
+2137	Boski Åuk Moreli+7
+2138	Boski Åuk Moreli+8
+2139	Boski Åuk Moreli+9
+2140	Olbrz. Åuk Å»Ã³Å‚t. Smoka+0
+2141	Olbrz. Åuk Å»Ã³Å‚t. Smoka+1
+2142	Olbrz. Åuk Å»Ã³Å‚t. Smoka+2
+2143	Olbrz. Åuk Å»Ã³Å‚t. Smoka+3
+2144	Olbrz. Åuk Å»Ã³Å‚t. Smoka+4
+2145	Olbrz. Åuk Å»Ã³Å‚t. Smoka+5
+2146	Olbrz. Åuk Å»Ã³Å‚t. Smoka+6
+2147	Olbrz. Åuk Å»Ã³Å‚t. Smoka+7
+2148	Olbrz. Åuk Å»Ã³Å‚t. Smoka+8
+2149	Olbrz. Åuk Å»Ã³Å‚t. Smoka+9
+2150	Åuk Z Rogu Jelenia+0
+2151	Åuk Z Rogu Jelenia+1
+2152	Åuk Z Rogu Jelenia+2
+2153	Åuk Z Rogu Jelenia+3
+2154	Åuk Z Rogu Jelenia+4
+2155	Åuk Z Rogu Jelenia+5
+2156	Åuk Z Rogu Jelenia+6
+2157	Åuk Z Rogu Jelenia+7
+2158	Åuk Z Rogu Jelenia+8
+2159	Åuk Z Rogu Jelenia+9
+2160	Olbrz. Åuk DiabÅ‚a+0
+2161	Olbrz. Åuk DiabÅ‚a+1
+2162	Olbrz. Åuk DiabÅ‚a+2
+2163	Olbrz. Åuk DiabÅ‚a+3
+2164	Olbrz. Åuk DiabÅ‚a+4
+2165	Olbrz. Åuk DiabÅ‚a+5
+2166	Olbrz. Åuk DiabÅ‚a+6
+2167	Olbrz. Åuk DiabÅ‚a+7
+2168	Olbrz. Åuk DiabÅ‚a+8
+2169	Olbrz. Åuk DiabÅ‚a+9
+2170	Stalowy Åuk Kruka+0
+2171	Stalowy Åuk Kruka+1
+2172	Stalowy Åuk Kruka+2
+2173	Stalowy Åuk Kruka+3
+2174	Stalowy Åuk Kruka+4
+2175	Stalowy Åuk Kruka+5
+2176	Stalowy Åuk Kruka+6
+2177	Stalowy Åuk Kruka+7
+2178	Stalowy Åuk Kruka+8
+2179	Stalowy Åuk Kruka+9
+2180	Åuk Niebieskiego Smoka+0
+2181	Åuk Niebieskiego Smoka+1
+2182	Åuk Niebieskiego Smoka+2
+2183	Åuk Niebieskiego Smoka+3
+2184	Åuk Niebieskiego Smoka+4
+2185	Åuk Niebieskiego Smoka+5
+2186	Åuk Niebieskiego Smoka+6
+2187	Åuk Niebieskiego Smoka+7
+2188	Åuk Niebieskiego Smoka+8
+2189	Åuk Niebieskiego Smoka+9
 2190	Upiorna Kusza+0
 2191	Upiorna Kusza+1
 2192	Upiorna Kusza+2
@@ -701,16 +701,16 @@ VNUM	LOCALE_NAME
 2197	Upiorna Kusza+7
 2198	Upiorna Kusza+8
 2199	Upiorna Kusza+9
-2370	£uk Feniksa+0
-2371	£uk Feniksa+1
-2372	£uk Feniksa+2
-2373	£uk Feniksa+3
-2374	£uk Feniksa+4
-2375	£uk Feniksa+5
-2376	£uk Feniksa+6
-2377	£uk Feniksa+7
-2378	£uk Feniksa+8
-2379	£uk Feniksa+9
+2370	Åuk Feniksa+0
+2371	Åuk Feniksa+1
+2372	Åuk Feniksa+2
+2373	Åuk Feniksa+3
+2374	Åuk Feniksa+4
+2375	Åuk Feniksa+5
+2376	Åuk Feniksa+6
+2377	Åuk Feniksa+7
+2378	Åuk Feniksa+8
+2379	Åuk Feniksa+9
 3000	Glewia+0
 3001	Glewia+1
 3002	Glewia+2
@@ -721,16 +721,16 @@ VNUM	LOCALE_NAME
 3007	Glewia+7
 3008	Glewia+8
 3009	Glewia+9
-3010	W³ócznia+0
-3011	W³ócznia+1
-3012	W³ócznia+2
-3013	W³ócznia+3
-3014	W³ócznia+4
-3015	W³ócznia+5
-3016	W³ócznia+6
-3017	W³ócznia+7
-3018	W³ócznia+8
-3019	W³ócznia+9
+3010	WÅ‚Ã³cznia+0
+3011	WÅ‚Ã³cznia+1
+3012	WÅ‚Ã³cznia+2
+3013	WÅ‚Ã³cznia+3
+3014	WÅ‚Ã³cznia+4
+3015	WÅ‚Ã³cznia+5
+3016	WÅ‚Ã³cznia+6
+3017	WÅ‚Ã³cznia+7
+3018	WÅ‚Ã³cznia+8
+3019	WÅ‚Ã³cznia+9
 3020	Gilotynowe Ostrze+0
 3021	Gilotynowe Ostrze+1
 3022	Gilotynowe Ostrze+2
@@ -741,16 +741,16 @@ VNUM	LOCALE_NAME
 3027	Gilotynowe Ostrze+7
 3028	Gilotynowe Ostrze+8
 3029	Gilotynowe Ostrze+9
-3030	Pajêcza W³ócznia+0
-3031	Pajêcza W³ócznia+1
-3032	Pajêcza W³ócznia+2
-3033	Pajêcza W³ócznia+3
-3034	Pajêcza W³ócznia+4
-3035	Pajêcza W³ócznia+5
-3036	Pajêcza W³ócznia+6
-3037	Pajêcza W³ócznia+7
-3038	Pajêcza W³ócznia+8
-3039	Pajêcza W³ócznia+9
+3030	PajÄ™cza WÅ‚Ã³cznia+0
+3031	PajÄ™cza WÅ‚Ã³cznia+1
+3032	PajÄ™cza WÅ‚Ã³cznia+2
+3033	PajÄ™cza WÅ‚Ã³cznia+3
+3034	PajÄ™cza WÅ‚Ã³cznia+4
+3035	PajÄ™cza WÅ‚Ã³cznia+5
+3036	PajÄ™cza WÅ‚Ã³cznia+6
+3037	PajÄ™cza WÅ‚Ã³cznia+7
+3038	PajÄ™cza WÅ‚Ã³cznia+8
+3039	PajÄ™cza WÅ‚Ã³cznia+9
 3040	Gizarma+0
 3041	Gizarma+1
 3042	Gizarma+2
@@ -771,16 +771,16 @@ VNUM	LOCALE_NAME
 3057	Kosa Bojowa+7
 3058	Kosa Bojowa+8
 3059	Kosa Bojowa+9
-3060	Trójz¹b+0
-3061	Trójz¹b+1
-3062	Trójz¹b+2
-3063	Trójz¹b+3
-3064	Trójz¹b+4
-3065	Trójz¹b+5
-3066	Trójz¹b+6
-3067	Trójz¹b+7
-3068	Trójz¹b+8
-3069	Trójz¹b+9
+3060	TrÃ³jzÄ…b+0
+3061	TrÃ³jzÄ…b+1
+3062	TrÃ³jzÄ…b+2
+3063	TrÃ³jzÄ…b+3
+3064	TrÃ³jzÄ…b+4
+3065	TrÃ³jzÄ…b+5
+3066	TrÃ³jzÄ…b+6
+3067	TrÃ³jzÄ…b+7
+3068	TrÃ³jzÄ…b+8
+3069	TrÃ³jzÄ…b+9
 3070	Halabarda+0
 3071	Halabarda+1
 3072	Halabarda+2
@@ -791,16 +791,16 @@ VNUM	LOCALE_NAME
 3077	Halabarda+7
 3078	Halabarda+8
 3079	Halabarda+9
-3080	Olbrz. Topór+0
-3081	Olbrz. Topór+1
-3082	Olbrz. Topór+2
-3083	Olbrz. Topór+3
-3084	Olbrz. Topór+4
-3085	Olbrz. Topór+5
-3086	Olbrz. Topór+6
-3087	Olbrz. Topór+7
-3088	Olbrz. Topór+8
-3089	Olbrz. Topór+9
+3080	Olbrz. TopÃ³r+0
+3081	Olbrz. TopÃ³r+1
+3082	Olbrz. TopÃ³r+2
+3083	Olbrz. TopÃ³r+3
+3084	Olbrz. TopÃ³r+4
+3085	Olbrz. TopÃ³r+5
+3086	Olbrz. TopÃ³r+6
+3087	Olbrz. TopÃ³r+7
+3088	Olbrz. TopÃ³r+8
+3089	Olbrz. TopÃ³r+9
 3090	Lodowa Iglica+0
 3091	Lodowa Iglica+1
 3092	Lodowa Iglica+2
@@ -811,16 +811,16 @@ VNUM	LOCALE_NAME
 3097	Lodowa Iglica+7
 3098	Lodowa Iglica+8
 3099	Lodowa Iglica+9
-3100	Miecz Dwunastu Duchów+0
-3101	Miecz Dwunastu Duchów+1
-3102	Miecz Dwunastu Duchów+2
-3103	Miecz Dwunastu Duchów+3
-3104	Miecz Dwunastu Duchów+4
-3105	Miecz Dwunastu Duchów+5
-3106	Miecz Dwunastu Duchów+6
-3107	Miecz Dwunastu Duchów+7
-3108	Miecz Dwunastu Duchów+8
-3109	Miecz Dwunastu Duchów+9
+3100	Miecz Dwunastu DuchÃ³w+0
+3101	Miecz Dwunastu DuchÃ³w+1
+3102	Miecz Dwunastu DuchÃ³w+2
+3103	Miecz Dwunastu DuchÃ³w+3
+3104	Miecz Dwunastu DuchÃ³w+4
+3105	Miecz Dwunastu DuchÃ³w+5
+3106	Miecz Dwunastu DuchÃ³w+6
+3107	Miecz Dwunastu DuchÃ³w+7
+3108	Miecz Dwunastu DuchÃ³w+8
+3109	Miecz Dwunastu DuchÃ³w+9
 3110	Ostrze Zbawienia+0
 3111	Ostrze Zbawienia+1
 3112	Ostrze Zbawienia+2
@@ -831,16 +831,16 @@ VNUM	LOCALE_NAME
 3117	Ostrze Zbawienia+7
 3118	Ostrze Zbawienia+8
 3119	Ostrze Zbawienia+9
-3120	Zabójca Lwów+0
-3121	Zabójca Lwów+1
-3122	Zabójca Lwów+2
-3123	Zabójca Lwów+3
-3124	Zabójca Lwów+4
-3125	Zabójca Lwów+5
-3126	Zabójca Lwów+6
-3127	Zabójca Lwów+7
-3128	Zabójca Lwów+8
-3129	Zabójca Lwów+9
+3120	ZabÃ³jca LwÃ³w+0
+3121	ZabÃ³jca LwÃ³w+1
+3122	ZabÃ³jca LwÃ³w+2
+3123	ZabÃ³jca LwÃ³w+3
+3124	ZabÃ³jca LwÃ³w+4
+3125	ZabÃ³jca LwÃ³w+5
+3126	ZabÃ³jca LwÃ³w+6
+3127	ZabÃ³jca LwÃ³w+7
+3128	ZabÃ³jca LwÃ³w+8
+3129	ZabÃ³jca LwÃ³w+9
 3130	Partyzana+0
 3131	Partyzana+1
 3132	Partyzana+2
@@ -861,36 +861,36 @@ VNUM	LOCALE_NAME
 3147	Magnetyczne Ostrze+7
 3148	Magnetyczne Ostrze+8
 3149	Magnetyczne Ostrze+9
-3150	Z³odziej Dusz+0
-3151	Z³odziej Dusz+1
-3152	Z³odziej Dusz+2
-3153	Z³odziej Dusz+3
-3154	Z³odziej Dusz+4
-3155	Z³odziej Dusz+5
-3156	Z³odziej Dusz+6
-3157	Z³odziej Dusz+7
-3158	Z³odziej Dusz+8
-3159	Z³odziej Dusz+9
-3160	Miecz ¯alu+0
-3161	Miecz ¯alu+1
-3162	Miecz ¯alu+2
-3163	Miecz ¯alu+3
-3164	Miecz ¯alu+4
-3165	Miecz ¯alu+5
-3166	Miecz ¯alu+6
-3167	Miecz ¯alu+7
-3168	Miecz ¯alu+8
-3169	Miecz ¯alu+9
-3170	Zabójca ¯ó³t. Smoka+0
-3171	Zabójca ¯ó³t. Smoka+1
-3172	Zabójca ¯ó³t. Smoka+2
-3173	Zabójca ¯ó³t. Smoka+3
-3174	Zabójca ¯ó³t. Smoka+4
-3175	Zabójca ¯ó³t. Smoka+5
-3176	Zabójca ¯ó³t. Smoka+6
-3177	Zabójca ¯ó³t. Smoka+7
-3178	Zabójca ¯ó³t. Smoka+8
-3179	Zabójca ¯ó³t. Smoka+9
+3150	ZÅ‚odziej Dusz+0
+3151	ZÅ‚odziej Dusz+1
+3152	ZÅ‚odziej Dusz+2
+3153	ZÅ‚odziej Dusz+3
+3154	ZÅ‚odziej Dusz+4
+3155	ZÅ‚odziej Dusz+5
+3156	ZÅ‚odziej Dusz+6
+3157	ZÅ‚odziej Dusz+7
+3158	ZÅ‚odziej Dusz+8
+3159	ZÅ‚odziej Dusz+9
+3160	Miecz Å»alu+0
+3161	Miecz Å»alu+1
+3162	Miecz Å»alu+2
+3163	Miecz Å»alu+3
+3164	Miecz Å»alu+4
+3165	Miecz Å»alu+5
+3166	Miecz Å»alu+6
+3167	Miecz Å»alu+7
+3168	Miecz Å»alu+8
+3169	Miecz Å»alu+9
+3170	ZabÃ³jca Å»Ã³Å‚t. Smoka+0
+3171	ZabÃ³jca Å»Ã³Å‚t. Smoka+1
+3172	ZabÃ³jca Å»Ã³Å‚t. Smoka+2
+3173	ZabÃ³jca Å»Ã³Å‚t. Smoka+3
+3174	ZabÃ³jca Å»Ã³Å‚t. Smoka+4
+3175	ZabÃ³jca Å»Ã³Å‚t. Smoka+5
+3176	ZabÃ³jca Å»Ã³Å‚t. Smoka+6
+3177	ZabÃ³jca Å»Ã³Å‚t. Smoka+7
+3178	ZabÃ³jca Å»Ã³Å‚t. Smoka+8
+3179	ZabÃ³jca Å»Ã³Å‚t. Smoka+9
 3180	Pogromca Nieb. Smoka+0
 3181	Pogromca Nieb. Smoka+1
 3182	Pogromca Nieb. Smoka+2
@@ -901,26 +901,26 @@ VNUM	LOCALE_NAME
 3187	Pogromca Nieb. Smoka+7
 3188	Pogromca Nieb. Smoka+8
 3189	Pogromca Nieb. Smoka+9
-3190	Ostrze S³oñca+0
-3191	Ostrze S³oñca+1
-3192	Ostrze S³oñca+2
-3193	Ostrze S³oñca+3
-3194	Ostrze S³oñca+4
-3195	Ostrze S³oñca+5
-3196	Ostrze S³oñca+6
-3197	Ostrze S³oñca+7
-3198	Ostrze S³oñca+8
-3199	Ostrze S³oñca+9
-3200	Ostrze Boga Smoków+0
-3201	Ostrze Boga Smoków+1
-3202	Ostrze Boga Smoków+2
-3203	Ostrze Boga Smoków+3
-3204	Ostrze Boga Smoków+4
-3205	Ostrze Boga Smoków+5
-3206	Ostrze Boga Smoków+6
-3207	Ostrze Boga Smoków+7
-3208	Ostrze Boga Smoków+8
-3209	Ostrze Boga Smoków+9
+3190	Ostrze SÅ‚oÅ„ca+0
+3191	Ostrze SÅ‚oÅ„ca+1
+3192	Ostrze SÅ‚oÅ„ca+2
+3193	Ostrze SÅ‚oÅ„ca+3
+3194	Ostrze SÅ‚oÅ„ca+4
+3195	Ostrze SÅ‚oÅ„ca+5
+3196	Ostrze SÅ‚oÅ„ca+6
+3197	Ostrze SÅ‚oÅ„ca+7
+3198	Ostrze SÅ‚oÅ„ca+8
+3199	Ostrze SÅ‚oÅ„ca+9
+3200	Ostrze Boga SmokÃ³w+0
+3201	Ostrze Boga SmokÃ³w+1
+3202	Ostrze Boga SmokÃ³w+2
+3203	Ostrze Boga SmokÃ³w+3
+3204	Ostrze Boga SmokÃ³w+4
+3205	Ostrze Boga SmokÃ³w+5
+3206	Ostrze Boga SmokÃ³w+6
+3207	Ostrze Boga SmokÃ³w+7
+3208	Ostrze Boga SmokÃ³w+8
+3209	Ostrze Boga SmokÃ³w+9
 3210	Ostrze Z Czerw. Stali+0
 3211	Ostrze Z Czerw. Stali+1
 3212	Ostrze Z Czerw. Stali+2
@@ -941,46 +941,46 @@ VNUM	LOCALE_NAME
 4007	Amija+7
 4008	Amija+8
 4009	Amija+9
-4010	Dziewiêæ Ostrzy+0
-4011	Dziewiêæ Ostrzy+1
-4012	Dziewiêæ Ostrzy+2
-4013	Dziewiêæ Ostrzy+3
-4014	Dziewiêæ Ostrzy+4
-4015	Dziewiêæ Ostrzy+5
-4016	Dziewiêæ Ostrzy+6
-4017	Dziewiêæ Ostrzy+7
-4018	Dziewiêæ Ostrzy+8
-4019	Dziewiêæ Ostrzy+9
-4020	Krótki Nó¿+0
-4021	Krótki Nó¿+1
-4022	Krótki Nó¿+2
-4023	Krótki Nó¿+3
-4024	Krótki Nó¿+4
-4025	Krótki Nó¿+5
-4026	Krótki Nó¿+6
-4027	Krótki Nó¿+7
-4028	Krótki Nó¿+8
-4029	Krótki Nó¿+9
-4030	Ksiê¿ycowy Podw. Nó¿+0
-4031	Ksiê¿ycowy Podw. Nó¿+1
-4032	Ksiê¿ycowy Podw. Nó¿+2
-4033	Ksiê¿ycowy Podw. Nó¿+3
-4034	Ksiê¿ycowy Podw. Nó¿+4
-4035	Ksiê¿ycowy Podw. Nó¿+5
-4036	Ksiê¿ycowy Podw. Nó¿+6
-4037	Ksiê¿ycowy Podw. Nó¿+7
-4038	Ksiê¿ycowy Podw. Nó¿+8
-4039	Ksiê¿ycowy Podw. Nó¿+9
-4040	Bezduszny Nó¿+0
-4041	Bezduszny Nó¿+1
-4042	Bezduszny Nó¿+2
-4043	Bezduszny Nó¿+3
-4044	Bezduszny Nó¿+4
-4045	Bezduszny Nó¿+5
-4046	Bezduszny Nó¿+6
-4047	Bezduszny Nó¿+7
-4048	Bezduszny Nó¿+8
-4049	Bezduszny Nó¿+9
+4010	DziewiÄ™Ä‡ Ostrzy+0
+4011	DziewiÄ™Ä‡ Ostrzy+1
+4012	DziewiÄ™Ä‡ Ostrzy+2
+4013	DziewiÄ™Ä‡ Ostrzy+3
+4014	DziewiÄ™Ä‡ Ostrzy+4
+4015	DziewiÄ™Ä‡ Ostrzy+5
+4016	DziewiÄ™Ä‡ Ostrzy+6
+4017	DziewiÄ™Ä‡ Ostrzy+7
+4018	DziewiÄ™Ä‡ Ostrzy+8
+4019	DziewiÄ™Ä‡ Ostrzy+9
+4020	KrÃ³tki NÃ³Å¼+0
+4021	KrÃ³tki NÃ³Å¼+1
+4022	KrÃ³tki NÃ³Å¼+2
+4023	KrÃ³tki NÃ³Å¼+3
+4024	KrÃ³tki NÃ³Å¼+4
+4025	KrÃ³tki NÃ³Å¼+5
+4026	KrÃ³tki NÃ³Å¼+6
+4027	KrÃ³tki NÃ³Å¼+7
+4028	KrÃ³tki NÃ³Å¼+8
+4029	KrÃ³tki NÃ³Å¼+9
+4030	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+0
+4031	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+1
+4032	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+2
+4033	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+3
+4034	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+4
+4035	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+5
+4036	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+6
+4037	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+7
+4038	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+8
+4039	KsiÄ™Å¼ycowy Podw. NÃ³Å¼+9
+4040	Bezduszny NÃ³Å¼+0
+4041	Bezduszny NÃ³Å¼+1
+4042	Bezduszny NÃ³Å¼+2
+4043	Bezduszny NÃ³Å¼+3
+4044	Bezduszny NÃ³Å¼+4
+4045	Bezduszny NÃ³Å¼+5
+4046	Bezduszny NÃ³Å¼+6
+4047	Bezduszny NÃ³Å¼+7
+4048	Bezduszny NÃ³Å¼+8
+4049	Bezduszny NÃ³Å¼+9
 5000	Miedziany Dzwon+0
 5001	Miedziany Dzwon+1
 5002	Miedziany Dzwon+2
@@ -1001,16 +1001,16 @@ VNUM	LOCALE_NAME
 5017	Srebrny Dzwon+7
 5018	Srebrny Dzwon+8
 5019	Srebrny Dzwon+9
-5020	Z³oty Dzwon+0
-5021	Z³oty Dzwon+1
-5022	Z³oty Dzwon+2
-5023	Z³oty Dzwon+3
-5024	Z³oty Dzwon+4
-5025	Z³oty Dzwon+5
-5026	Z³oty Dzwon+6
-5027	Z³oty Dzwon+7
-5028	Z³oty Dzwon+8
-5029	Z³oty Dzwon+9
+5020	ZÅ‚oty Dzwon+0
+5021	ZÅ‚oty Dzwon+1
+5022	ZÅ‚oty Dzwon+2
+5023	ZÅ‚oty Dzwon+3
+5024	ZÅ‚oty Dzwon+4
+5025	ZÅ‚oty Dzwon+5
+5026	ZÅ‚oty Dzwon+6
+5027	ZÅ‚oty Dzwon+7
+5028	ZÅ‚oty Dzwon+8
+5029	ZÅ‚oty Dzwon+9
 5030	Jadeitowy Dzwon+0
 5031	Jadeitowy Dzwon+1
 5032	Jadeitowy Dzwon+2
@@ -1051,16 +1051,16 @@ VNUM	LOCALE_NAME
 5067	Magiczny Dzwon+7
 5068	Magiczny Dzwon+8
 5069	Magiczny Dzwon+9
-5070	Z³oty Robaczy Dzwon+0
-5071	Z³oty Robaczy Dzwon+1
-5072	Z³oty Robaczy Dzwon+2
-5073	Z³oty Robaczy Dzwon+3
-5074	Z³oty Robaczy Dzwon+4
-5075	Z³oty Robaczy Dzwon+5
-5076	Z³oty Robaczy Dzwon+6
-5077	Z³oty Robaczy Dzwon+7
-5078	Z³oty Robaczy Dzwon+8
-5079	Z³oty Robaczy Dzwon+9
+5070	ZÅ‚oty Robaczy Dzwon+0
+5071	ZÅ‚oty Robaczy Dzwon+1
+5072	ZÅ‚oty Robaczy Dzwon+2
+5073	ZÅ‚oty Robaczy Dzwon+3
+5074	ZÅ‚oty Robaczy Dzwon+4
+5075	ZÅ‚oty Robaczy Dzwon+5
+5076	ZÅ‚oty Robaczy Dzwon+6
+5077	ZÅ‚oty Robaczy Dzwon+7
+5078	ZÅ‚oty Robaczy Dzwon+8
+5079	ZÅ‚oty Robaczy Dzwon+9
 5080	Stalowy Robaczy Dzwon+0
 5081	Stalowy Robaczy Dzwon+1
 5082	Stalowy Robaczy Dzwon+2
@@ -1111,16 +1111,16 @@ VNUM	LOCALE_NAME
 5127	Bambusowy Dzwon+7
 5128	Bambusowy Dzwon+8
 5129	Bambusowy Dzwon+9
-5130	Dzwon Œmierci+0
-5131	Dzwon Œmierci+1
-5132	Dzwon Œmierci+2
-5133	Dzwon Œmierci+3
-5134	Dzwon Œmierci+4
-5135	Dzwon Œmierci+5
-5136	Dzwon Œmierci+6
-5137	Dzwon Œmierci+7
-5138	Dzwon Œmierci+8
-5139	Dzwon Œmierci+9
+5130	Dzwon Åšmierci+0
+5131	Dzwon Åšmierci+1
+5132	Dzwon Åšmierci+2
+5133	Dzwon Åšmierci+3
+5134	Dzwon Åšmierci+4
+5135	Dzwon Åšmierci+5
+5136	Dzwon Åšmierci+6
+5137	Dzwon Åšmierci+7
+5138	Dzwon Åšmierci+8
+5139	Dzwon Åšmierci+9
 5140	Smoczy Dzwon+0
 5141	Smoczy Dzwon+1
 5142	Smoczy Dzwon+2
@@ -1141,16 +1141,16 @@ VNUM	LOCALE_NAME
 5157	Hibiskusowy Dzwon+7
 5158	Hibiskusowy Dzwon+8
 5159	Hibiskusowy Dzwon+9
-5330	Dzwon Szczêki Smoka+0
-5331	Dzwon Szczêki Smoka+1
-5332	Dzwon Szczêki Smoka+2
-5333	Dzwon Szczêki Smoka+3
-5334	Dzwon Szczêki Smoka+4
-5335	Dzwon Szczêki Smoka+5
-5336	Dzwon Szczêki Smoka+6
-5337	Dzwon Szczêki Smoka+7
-5338	Dzwon Szczêki Smoka+8
-5339	Dzwon Szczêki Smoka+9
+5330	Dzwon SzczÄ™ki Smoka+0
+5331	Dzwon SzczÄ™ki Smoka+1
+5332	Dzwon SzczÄ™ki Smoka+2
+5333	Dzwon SzczÄ™ki Smoka+3
+5334	Dzwon SzczÄ™ki Smoka+4
+5335	Dzwon SzczÄ™ki Smoka+5
+5336	Dzwon SzczÄ™ki Smoka+6
+5337	Dzwon SzczÄ™ki Smoka+7
+5338	Dzwon SzczÄ™ki Smoka+8
+5339	Dzwon SzczÄ™ki Smoka+9
 5340	Dzwon Smoczego Ducha+0
 5341	Dzwon Smoczego Ducha+1
 5342	Dzwon Smoczego Ducha+2
@@ -1171,16 +1171,16 @@ VNUM	LOCALE_NAME
 7007	Wachlarz+7
 7008	Wachlarz+8
 7009	Wachlarz+9
-7010	¯elazny Wachlarz+0
-7011	¯elazny Wachlarz+1
-7012	¯elazny Wachlarz+2
-7013	¯elazny Wachlarz+3
-7014	¯elazny Wachlarz+4
-7015	¯elazny Wachlarz+5
-7016	¯elazny Wachlarz+6
-7017	¯elazny Wachlarz+7
-7018	¯elazny Wachlarz+8
-7019	¯elazny Wachlarz+9
+7010	Å»elazny Wachlarz+0
+7011	Å»elazny Wachlarz+1
+7012	Å»elazny Wachlarz+2
+7013	Å»elazny Wachlarz+3
+7014	Å»elazny Wachlarz+4
+7015	Å»elazny Wachlarz+5
+7016	Å»elazny Wachlarz+6
+7017	Å»elazny Wachlarz+7
+7018	Å»elazny Wachlarz+8
+7019	Å»elazny Wachlarz+9
 7020	Wachlarz Czarn. Tygr.+0
 7021	Wachlarz Czarn. Tygr.+1
 7022	Wachlarz Czarn. Tygr.+2
@@ -1191,16 +1191,16 @@ VNUM	LOCALE_NAME
 7027	Wachlarz Czarn. Tygr.+7
 7028	Wachlarz Czarn. Tygr.+8
 7029	Wachlarz Czarn. Tygr.+9
-7030	¯urawi Wachlarz+0
-7031	¯urawi Wachlarz+1
-7032	¯urawi Wachlarz+2
-7033	¯urawi Wachlarz+3
-7034	¯urawi Wachlarz+4
-7035	¯urawi Wachlarz+5
-7036	¯urawi Wachlarz+6
-7037	¯urawi Wachlarz+7
-7038	¯urawi Wachlarz+8
-7039	¯urawi Wachlarz+9
+7030	Å»urawi Wachlarz+0
+7031	Å»urawi Wachlarz+1
+7032	Å»urawi Wachlarz+2
+7033	Å»urawi Wachlarz+3
+7034	Å»urawi Wachlarz+4
+7035	Å»urawi Wachlarz+5
+7036	Å»urawi Wachlarz+6
+7037	Å»urawi Wachlarz+7
+7038	Å»urawi Wachlarz+8
+7039	Å»urawi Wachlarz+9
 7040	Pawi Wachlarz+0
 7041	Pawi Wachlarz+1
 7042	Pawi Wachlarz+2
@@ -1241,16 +1241,16 @@ VNUM	LOCALE_NAME
 7077	Oceaniczny Wachlarz+7
 7078	Oceaniczny Wachlarz+8
 7079	Oceaniczny Wachlarz+9
-7080	¯¹d³owy Wachlarz+0
-7081	¯¹d³owy Wachlarz+1
-7082	¯¹d³owy Wachlarz+2
-7083	¯¹d³owy Wachlarz+3
-7084	¯¹d³owy Wachlarz+4
-7085	¯¹d³owy Wachlarz+5
-7086	¯¹d³owy Wachlarz+6
-7087	¯¹d³owy Wachlarz+7
-7088	¯¹d³owy Wachlarz+8
-7089	¯¹d³owy Wachlarz+9
+7080	Å»Ä…dÅ‚owy Wachlarz+0
+7081	Å»Ä…dÅ‚owy Wachlarz+1
+7082	Å»Ä…dÅ‚owy Wachlarz+2
+7083	Å»Ä…dÅ‚owy Wachlarz+3
+7084	Å»Ä…dÅ‚owy Wachlarz+4
+7085	Å»Ä…dÅ‚owy Wachlarz+5
+7086	Å»Ä…dÅ‚owy Wachlarz+6
+7087	Å»Ä…dÅ‚owy Wachlarz+7
+7088	Å»Ä…dÅ‚owy Wachlarz+8
+7089	Å»Ä…dÅ‚owy Wachlarz+9
 7090	Wachlarz Feniksa+0
 7091	Wachlarz Feniksa+1
 7092	Wachlarz Feniksa+2
@@ -1261,16 +1261,16 @@ VNUM	LOCALE_NAME
 7097	Wachlarz Feniksa+7
 7098	Wachlarz Feniksa+8
 7099	Wachlarz Feniksa+9
-7100	Potrójny Wachlarz+0
-7101	Potrójny Wachlarz+1
-7102	Potrójny Wachlarz+2
-7103	Potrójny Wachlarz+3
-7104	Potrójny Wachlarz+4
-7105	Potrójny Wachlarz+5
-7106	Potrójny Wachlarz+6
-7107	Potrójny Wachlarz+7
-7108	Potrójny Wachlarz+8
-7109	Potrójny Wachlarz+9
+7100	PotrÃ³jny Wachlarz+0
+7101	PotrÃ³jny Wachlarz+1
+7102	PotrÃ³jny Wachlarz+2
+7103	PotrÃ³jny Wachlarz+3
+7104	PotrÃ³jny Wachlarz+4
+7105	PotrÃ³jny Wachlarz+5
+7106	PotrÃ³jny Wachlarz+6
+7107	PotrÃ³jny Wachlarz+7
+7108	PotrÃ³jny Wachlarz+8
+7109	PotrÃ³jny Wachlarz+9
 7110	Brwisty Wachlarz+0
 7111	Brwisty Wachlarz+1
 7112	Brwisty Wachlarz+2
@@ -1281,26 +1281,26 @@ VNUM	LOCALE_NAME
 7117	Brwisty Wachlarz+7
 7118	Brwisty Wachlarz+8
 7119	Brwisty Wachlarz+9
-7120	Czarny S³on. Wachlarz+0
-7121	Czarny S³on. Wachlarz+1
-7122	Czarny S³on. Wachlarz+2
-7123	Czarny S³on. Wachlarz+3
-7124	Czarny S³on. Wachlarz+4
-7125	Czarny S³on. Wachlarz+5
-7126	Czarny S³on. Wachlarz+6
-7127	Czarny S³on. Wachlarz+7
-7128	Czarny S³on. Wachlarz+8
-7129	Czarny S³on. Wachlarz+9
-7130	Niebiañ. Ptasi Wachl.+0
-7131	Niebiañ. Ptasi Wachl.+1
-7132	Niebiañ. Ptasi Wachl.+2
-7133	Niebiañ. Ptasi Wachl.+3
-7134	Niebiañ. Ptasi Wachl.+4
-7135	Niebiañ. Ptasi Wachl.+5
-7136	Niebiañ. Ptasi Wachl.+6
-7137	Niebiañ. Ptasi Wachl.+7
-7138	Niebiañ. Ptasi Wachl.+8
-7139	Niebiañ. Ptasi Wachl.+9
+7120	Czarny SÅ‚on. Wachlarz+0
+7121	Czarny SÅ‚on. Wachlarz+1
+7122	Czarny SÅ‚on. Wachlarz+2
+7123	Czarny SÅ‚on. Wachlarz+3
+7124	Czarny SÅ‚on. Wachlarz+4
+7125	Czarny SÅ‚on. Wachlarz+5
+7126	Czarny SÅ‚on. Wachlarz+6
+7127	Czarny SÅ‚on. Wachlarz+7
+7128	Czarny SÅ‚on. Wachlarz+8
+7129	Czarny SÅ‚on. Wachlarz+9
+7130	NiebiaÅ„. Ptasi Wachl.+0
+7131	NiebiaÅ„. Ptasi Wachl.+1
+7132	NiebiaÅ„. Ptasi Wachl.+2
+7133	NiebiaÅ„. Ptasi Wachl.+3
+7134	NiebiaÅ„. Ptasi Wachl.+4
+7135	NiebiaÅ„. Ptasi Wachl.+5
+7136	NiebiaÅ„. Ptasi Wachl.+6
+7137	NiebiaÅ„. Ptasi Wachl.+7
+7138	NiebiaÅ„. Ptasi Wachl.+8
+7139	NiebiaÅ„. Ptasi Wachl.+9
 7140	Wachlarz Zbawienia+0
 7141	Wachlarz Zbawienia+1
 7142	Wachlarz Zbawienia+2
@@ -1331,26 +1331,26 @@ VNUM	LOCALE_NAME
 7167	Wachlarz Jes. Wiatru+7
 7168	Wachlarz Jes. Wiatru+8
 7169	Wachlarz Jes. Wiatru+9
-7170	Wachlarz 8 Trigramów+0
-7171	Wachlarz 8 Trigramów+1
-7172	Wachlarz 8 Trigramów+2
-7173	Wachlarz 8 Trigramów+3
-7174	Wachlarz 8 Trigramów+4
-7175	Wachlarz 8 Trigramów+5
-7176	Wachlarz 8 Trigramów+6
-7177	Wachlarz 8 Trigramów+7
-7178	Wachlarz 8 Trigramów+8
-7179	Wachlarz 8 Trigramów+9
-7180	Wachlarz Le¿¹c. Smoka+0
-7181	Wachlarz Le¿¹c. Smoka+1
-7182	Wachlarz Le¿¹c. Smoka+2
-7183	Wachlarz Le¿¹c. Smoka+3
-7184	Wachlarz Le¿¹c. Smoka+4
-7185	Wachlarz Le¿¹c. Smoka+5
-7186	Wachlarz Le¿¹c. Smoka+6
-7187	Wachlarz Le¿¹c. Smoka+7
-7188	Wachlarz Le¿¹c. Smoka+8
-7189	Wachlarz Le¿¹c. Smoka+9
+7170	Wachlarz 8 TrigramÃ³w+0
+7171	Wachlarz 8 TrigramÃ³w+1
+7172	Wachlarz 8 TrigramÃ³w+2
+7173	Wachlarz 8 TrigramÃ³w+3
+7174	Wachlarz 8 TrigramÃ³w+4
+7175	Wachlarz 8 TrigramÃ³w+5
+7176	Wachlarz 8 TrigramÃ³w+6
+7177	Wachlarz 8 TrigramÃ³w+7
+7178	Wachlarz 8 TrigramÃ³w+8
+7179	Wachlarz 8 TrigramÃ³w+9
+7180	Wachlarz LeÅ¼Ä…c. Smoka+0
+7181	Wachlarz LeÅ¼Ä…c. Smoka+1
+7182	Wachlarz LeÅ¼Ä…c. Smoka+2
+7183	Wachlarz LeÅ¼Ä…c. Smoka+3
+7184	Wachlarz LeÅ¼Ä…c. Smoka+4
+7185	Wachlarz LeÅ¼Ä…c. Smoka+5
+7186	Wachlarz LeÅ¼Ä…c. Smoka+6
+7187	Wachlarz LeÅ¼Ä…c. Smoka+7
+7188	Wachlarz LeÅ¼Ä…c. Smoka+8
+7189	Wachlarz LeÅ¼Ä…c. Smoka+9
 7190	Wachlarz Demona+0
 7191	Wachlarz Demona+1
 7192	Wachlarz Demona+2
@@ -1371,129 +1371,129 @@ VNUM	LOCALE_NAME
 7207	Lanca+7
 7208	Lanca+8
 7209	Lanca+9
-7370	Wachlarz Le¿¹c. Smoka+0
-7371	Wachlarz Le¿¹c. Smoka+1
-7372	Wachlarz Le¿¹c. Smoka+2
-7373	Wachlarz Le¿¹c. Smoka+3
-7374	Wachlarz Le¿¹c. Smoka+4
-7375	Wachlarz Le¿¹c. Smoka+5
-7376	Wachlarz Le¿¹c. Smoka+6
-7377	Wachlarz Le¿¹c. Smoka+7
-7378	Wachlarz Le¿¹c. Smoka+8
-7379	Wachlarz Le¿¹c. Smoka+9
-8000	Drewniana Strza³a
-8001	Bambusowa Strza³a
-8002	Kamienna Strza³a
-8003	¯elazna Strza³a
-8004	Stalowa Strza³a
-8005	Srebrna Strza³a
-8006	Ognista Strza³a
-8007	Truj¹ca Strza³a
-8008	Lodowa Strza³a
-8009	Przeklêta Strza³a
+7370	Wachlarz LeÅ¼Ä…c. Smoka+0
+7371	Wachlarz LeÅ¼Ä…c. Smoka+1
+7372	Wachlarz LeÅ¼Ä…c. Smoka+2
+7373	Wachlarz LeÅ¼Ä…c. Smoka+3
+7374	Wachlarz LeÅ¼Ä…c. Smoka+4
+7375	Wachlarz LeÅ¼Ä…c. Smoka+5
+7376	Wachlarz LeÅ¼Ä…c. Smoka+6
+7377	Wachlarz LeÅ¼Ä…c. Smoka+7
+7378	Wachlarz LeÅ¼Ä…c. Smoka+8
+7379	Wachlarz LeÅ¼Ä…c. Smoka+9
+8000	Drewniana StrzaÅ‚a
+8001	Bambusowa StrzaÅ‚a
+8002	Kamienna StrzaÅ‚a
+8003	Å»elazna StrzaÅ‚a
+8004	Stalowa StrzaÅ‚a
+8005	Srebrna StrzaÅ‚a
+8006	Ognista StrzaÅ‚a
+8007	TrujÄ…ca StrzaÅ‚a
+8008	Lodowa StrzaÅ‚a
+8009	PrzeklÄ™ta StrzaÅ‚a
 9001	Zbroja Nahan+5
 9002	Zbroja Tanma+5
 9003	Zbroja Jinhon+5
 9004	Zbroja Chung+5
 9501	Miecz+5
-9502	Krótki Miecz+5
-9503	Krótka Strza³a+5
-9504	D³ugi Miecz+5
-9505	Du¿y Wachlarz+5
+9502	KrÃ³tki Miecz+5
+9503	KrÃ³tka StrzaÅ‚a+5
+9504	DÅ‚ugi Miecz+5
+9505	DuÅ¼y Wachlarz+5
 11000	Zbroja Wilka
 11010	Zbroja  Dzikiego Knura
-11020	Zbroja NiedŸwiedzia
+11020	Zbroja NiedÅºwiedzia
 11030	Zbroja Tygrysa
-11200	Mnisia Zbr. P³yt.+0
-11201	Mnisia Zbr. P³yt.+1
-11202	Mnisia Zbr. P³yt.+2
-11203	Mnisia Zbr. P³yt.+3
-11204	Mnisia Zbr. P³yt.+4
-11205	Mnisia Zbr. P³yt.+5
-11206	Mnisia Zbr. P³yt.+6
-11207	Mnisia Zbr. P³yt.+7
-11208	Mnisia Zbr. P³yt.+8
-11209	Mnisia Zbr. P³yt.+9
-11210	¯elazna Zbr. P³yt.+0
-11211	¯elazna Zbr. P³yt.+1
-11212	¯elazna Zbr. P³yt.+2
-11213	¯elazna Zbr. P³yt.+3
-11214	¯elazna Zbr. P³yt.+4
-11215	¯elazna Zbr. P³yt.+5
-11216	¯elazna Zbr. P³yt.+6
-11217	¯elazna Zbr. P³yt.+7
-11218	¯elazna Zbr. P³yt.+8
-11219	¯elazna Zbr. P³yt.+9
-11220	Zbr. P³yt. Tygrysa+0
-11221	Zbr. P³yt. Tygrysa+1
-11222	Zbr. P³yt. Tygrysa+2
-11223	Zbr. P³yt. Tygrysa+3
-11224	Zbr. P³yt. Tygrysa+4
-11225	Zbr. P³yt. Tygrysa+5
-11226	Zbr. P³yt. Tygrysa+6
-11227	Zbr. P³yt. Tygrysa+7
-11228	Zbr. P³yt. Tygrysa+8
-11229	Zbr. P³yt. Tygrysa+9
-11230	Lwia Zbroja P³ytowa+0
-11231	Lwia Zbroja P³ytowa+1
-11232	Lwia Zbroja P³ytowa+2
-11233	Lwia Zbroja P³ytowa+3
-11234	Lwia Zbroja P³ytowa+4
-11235	Lwia Zbroja P³ytowa+5
-11236	Lwia Zbroja P³ytowa+6
-11237	Lwia Zbroja P³ytowa+7
-11238	Lwia Zbroja P³ytowa+8
-11239	Lwia Zbroja P³ytowa+9
-11240	Œmiert. Zbroja P³ytowa+0
-11241	Œmiert. Zbroja P³ytowa+1
-11242	Œmiert. Zbroja P³ytowa+2
-11243	Œmiert. Zbroja P³ytowa+3
-11244	Œmiert. Zbroja P³ytowa+4
-11245	Œmiert. Zbroja P³ytowa+5
-11246	Œmiert. Zbroja P³ytowa+6
-11247	Œmiert. Zbroja P³ytowa+7
-11248	Œmiert. Zbroja P³ytowa+8
-11249	Œmiert. Zbroja P³ytowa+9
-11250	Smocza Zbroja P³ytowa+0
-11251	Smocza Zbroja P³ytowa+1
-11252	Smocza Zbroja P³ytowa+2
-11253	Smocza Zbroja P³ytowa+3
-11254	Smocza Zbroja P³ytowa+4
-11255	Smocza Zbroja P³ytowa+5
-11256	Smocza Zbroja P³ytowa+6
-11257	Smocza Zbroja P³ytowa+7
-11258	Smocza Zbroja P³ytowa+8
-11259	Smocza Zbroja P³ytowa+9
-11260	Zbroja P³ytowa Z £usek+0
-11261	Zbroja P³ytowa Z £usek+1
-11262	Zbroja P³ytowa Z £usek+2
-11263	Zbroja P³ytowa Z £usek+3
-11264	Zbroja P³ytowa Z £usek+4
-11265	Zbroja P³ytowa Z £usek+5
-11266	Zbroja P³ytowa Z £usek+6
-11267	Zbroja P³ytowa Z £usek+7
-11268	Zbroja P³ytowa Z £usek+8
-11269	Zbroja P³ytowa Z £usek+9
-11270	Z³ota Zbroja P³ytowa+0
-11271	Z³ota Zbroja P³ytowa+1
-11272	Z³ota Zbroja P³ytowa+2
-11273	Z³ota Zbroja P³ytowa+3
-11274	Z³ota Zbroja P³ytowa+4
-11275	Z³ota Zbroja P³ytowa+5
-11276	Z³ota Zbroja P³ytowa+6
-11277	Z³ota Zbroja P³ytowa+7
-11278	Z³ota Zbroja P³ytowa+8
-11279	Z³ota Zbroja P³ytowa+9
-11280	Zbroja Boga Smoków+0
-11281	Zbroja Boga Smoków+1
-11282	Zbroja Boga Smoków+2
-11283	Zbroja Boga Smoków+3
-11284	Zbroja Boga Smoków+4
-11285	Zbroja Boga Smoków+5
-11286	Zbroja Boga Smoków+6
-11287	Zbroja Boga Smoków+7
-11288	Zbroja Boga Smoków+8
-11289	Zbroja Boga Smoków+9
+11200	Mnisia Zbr. PÅ‚yt.+0
+11201	Mnisia Zbr. PÅ‚yt.+1
+11202	Mnisia Zbr. PÅ‚yt.+2
+11203	Mnisia Zbr. PÅ‚yt.+3
+11204	Mnisia Zbr. PÅ‚yt.+4
+11205	Mnisia Zbr. PÅ‚yt.+5
+11206	Mnisia Zbr. PÅ‚yt.+6
+11207	Mnisia Zbr. PÅ‚yt.+7
+11208	Mnisia Zbr. PÅ‚yt.+8
+11209	Mnisia Zbr. PÅ‚yt.+9
+11210	Å»elazna Zbr. PÅ‚yt.+0
+11211	Å»elazna Zbr. PÅ‚yt.+1
+11212	Å»elazna Zbr. PÅ‚yt.+2
+11213	Å»elazna Zbr. PÅ‚yt.+3
+11214	Å»elazna Zbr. PÅ‚yt.+4
+11215	Å»elazna Zbr. PÅ‚yt.+5
+11216	Å»elazna Zbr. PÅ‚yt.+6
+11217	Å»elazna Zbr. PÅ‚yt.+7
+11218	Å»elazna Zbr. PÅ‚yt.+8
+11219	Å»elazna Zbr. PÅ‚yt.+9
+11220	Zbr. PÅ‚yt. Tygrysa+0
+11221	Zbr. PÅ‚yt. Tygrysa+1
+11222	Zbr. PÅ‚yt. Tygrysa+2
+11223	Zbr. PÅ‚yt. Tygrysa+3
+11224	Zbr. PÅ‚yt. Tygrysa+4
+11225	Zbr. PÅ‚yt. Tygrysa+5
+11226	Zbr. PÅ‚yt. Tygrysa+6
+11227	Zbr. PÅ‚yt. Tygrysa+7
+11228	Zbr. PÅ‚yt. Tygrysa+8
+11229	Zbr. PÅ‚yt. Tygrysa+9
+11230	Lwia Zbroja PÅ‚ytowa+0
+11231	Lwia Zbroja PÅ‚ytowa+1
+11232	Lwia Zbroja PÅ‚ytowa+2
+11233	Lwia Zbroja PÅ‚ytowa+3
+11234	Lwia Zbroja PÅ‚ytowa+4
+11235	Lwia Zbroja PÅ‚ytowa+5
+11236	Lwia Zbroja PÅ‚ytowa+6
+11237	Lwia Zbroja PÅ‚ytowa+7
+11238	Lwia Zbroja PÅ‚ytowa+8
+11239	Lwia Zbroja PÅ‚ytowa+9
+11240	Åšmiert. Zbroja PÅ‚ytowa+0
+11241	Åšmiert. Zbroja PÅ‚ytowa+1
+11242	Åšmiert. Zbroja PÅ‚ytowa+2
+11243	Åšmiert. Zbroja PÅ‚ytowa+3
+11244	Åšmiert. Zbroja PÅ‚ytowa+4
+11245	Åšmiert. Zbroja PÅ‚ytowa+5
+11246	Åšmiert. Zbroja PÅ‚ytowa+6
+11247	Åšmiert. Zbroja PÅ‚ytowa+7
+11248	Åšmiert. Zbroja PÅ‚ytowa+8
+11249	Åšmiert. Zbroja PÅ‚ytowa+9
+11250	Smocza Zbroja PÅ‚ytowa+0
+11251	Smocza Zbroja PÅ‚ytowa+1
+11252	Smocza Zbroja PÅ‚ytowa+2
+11253	Smocza Zbroja PÅ‚ytowa+3
+11254	Smocza Zbroja PÅ‚ytowa+4
+11255	Smocza Zbroja PÅ‚ytowa+5
+11256	Smocza Zbroja PÅ‚ytowa+6
+11257	Smocza Zbroja PÅ‚ytowa+7
+11258	Smocza Zbroja PÅ‚ytowa+8
+11259	Smocza Zbroja PÅ‚ytowa+9
+11260	Zbroja PÅ‚ytowa Z Åusek+0
+11261	Zbroja PÅ‚ytowa Z Åusek+1
+11262	Zbroja PÅ‚ytowa Z Åusek+2
+11263	Zbroja PÅ‚ytowa Z Åusek+3
+11264	Zbroja PÅ‚ytowa Z Åusek+4
+11265	Zbroja PÅ‚ytowa Z Åusek+5
+11266	Zbroja PÅ‚ytowa Z Åusek+6
+11267	Zbroja PÅ‚ytowa Z Åusek+7
+11268	Zbroja PÅ‚ytowa Z Åusek+8
+11269	Zbroja PÅ‚ytowa Z Åusek+9
+11270	ZÅ‚ota Zbroja PÅ‚ytowa+0
+11271	ZÅ‚ota Zbroja PÅ‚ytowa+1
+11272	ZÅ‚ota Zbroja PÅ‚ytowa+2
+11273	ZÅ‚ota Zbroja PÅ‚ytowa+3
+11274	ZÅ‚ota Zbroja PÅ‚ytowa+4
+11275	ZÅ‚ota Zbroja PÅ‚ytowa+5
+11276	ZÅ‚ota Zbroja PÅ‚ytowa+6
+11277	ZÅ‚ota Zbroja PÅ‚ytowa+7
+11278	ZÅ‚ota Zbroja PÅ‚ytowa+8
+11279	ZÅ‚ota Zbroja PÅ‚ytowa+9
+11280	Zbroja Boga SmokÃ³w+0
+11281	Zbroja Boga SmokÃ³w+1
+11282	Zbroja Boga SmokÃ³w+2
+11283	Zbroja Boga SmokÃ³w+3
+11284	Zbroja Boga SmokÃ³w+4
+11285	Zbroja Boga SmokÃ³w+5
+11286	Zbroja Boga SmokÃ³w+6
+11287	Zbroja Boga SmokÃ³w+7
+11288	Zbroja Boga SmokÃ³w+8
+11289	Zbroja Boga SmokÃ³w+9
 11290	Zbroja Z Czarnej Stali+0
 11291	Zbroja Z Czarnej Stali+1
 11292	Zbroja Z Czarnej Stali+2
@@ -1504,26 +1504,26 @@ VNUM	LOCALE_NAME
 11297	Zbroja Z Czarnej Stali+7
 11298	Zbroja Z Czarnej Stali+8
 11299	Zbroja Z Czarnej Stali+9
-11300	Ci¹gliwoœæ
-11301	Ci¹gliwoœæ
-11302	Dobra Wytrzyma³oœæ
-11303	S³aba Zbroja
+11300	CiÄ…gliwoÅ›Ä‡
+11301	CiÄ…gliwoÅ›Ä‡
+11302	Dobra WytrzymaÅ‚oÅ›Ä‡
+11303	SÅ‚aba Zbroja
 11304	Wrogi Mur
 11305	Inteligencja
-11306	¯o³nierze
-11307	Pierwszorzêdne Buty
-11308	Wytrzyma³oœæ Wroga
-11309	Inna Wroga Wytrzyma³oœæ
-11400	B³êkitne Ubranie+0
-11401	B³êkitne Ubranie+1
-11402	B³êkitne Ubranie+2
-11403	B³êkitne Ubranie+3
-11404	B³êkitne Ubranie+4
-11405	B³êkitne Ubranie+5
-11406	B³êkitne Ubranie+6
-11407	B³êkitne Ubranie+7
-11408	B³êkitne Ubranie+8
-11409	B³êkitne Ubranie+9
+11306	Å»oÅ‚nierze
+11307	PierwszorzÄ™dne Buty
+11308	WytrzymaÅ‚oÅ›Ä‡ Wroga
+11309	Inna Wroga WytrzymaÅ‚oÅ›Ä‡
+11400	BÅ‚Ä™kitne Ubranie+0
+11401	BÅ‚Ä™kitne Ubranie+1
+11402	BÅ‚Ä™kitne Ubranie+2
+11403	BÅ‚Ä™kitne Ubranie+3
+11404	BÅ‚Ä™kitne Ubranie+4
+11405	BÅ‚Ä™kitne Ubranie+5
+11406	BÅ‚Ä™kitne Ubranie+6
+11407	BÅ‚Ä™kitne Ubranie+7
+11408	BÅ‚Ä™kitne Ubranie+8
+11409	BÅ‚Ä™kitne Ubranie+9
 11410	Kremowe Ubranie+0
 11411	Kremowe Ubranie+1
 11412	Kremowe Ubranie+2
@@ -1544,56 +1544,56 @@ VNUM	LOCALE_NAME
 11427	Czerwone Ubranie+7
 11428	Czerwone Ubranie+8
 11429	Czerwone Ubranie+9
-11430	Czer. Ubranie Mrówki+0
-11431	Czer. Ubranie Mrówki+1
-11432	Czer. Ubranie Mrówki+2
-11433	Czer. Ubranie Mrówki+3
-11434	Czer. Ubranie Mrówki+4
-11435	Czer. Ubranie Mrówki+5
-11436	Czer. Ubranie Mrówki+6
-11437	Czer. Ubranie Mrówki+7
-11438	Czer. Ubranie Mrówki+8
-11439	Czer. Ubranie Mrówki+9
-11440	Ubranie Lwiej Mrówki+0
-11441	Ubranie Lwiej Mrówki+1
-11442	Ubranie Lwiej Mrówki+2
-11443	Ubranie Lwiej Mrówki+3
-11444	Ubranie Lwiej Mrówki+4
-11445	Ubranie Lwiej Mrówki+5
-11446	Ubranie Lwiej Mrówki+6
-11447	Ubranie Lwiej Mrówki+7
-11448	Ubranie Lwiej Mrówki+8
-11449	Ubranie Lwiej Mrówki+9
-11450	Ubranie Zabójcy+0
-11451	Ubranie Zabójcy+1
-11452	Ubranie Zabójcy+2
-11453	Ubranie Zabójcy+3
-11454	Ubranie Zabójcy+4
-11455	Ubranie Zabójcy+5
-11456	Ubranie Zabójcy+6
-11457	Ubranie Zabójcy+7
-11458	Ubranie Zabójcy+8
-11459	Ubranie Zabójcy+9
-11460	Ubranie M³odego Smoka+0
-11461	Ubranie M³odego Smoka+1
-11462	Ubranie M³odego Smoka+2
-11463	Ubranie M³odego Smoka+3
-11464	Ubranie M³odego Smoka+4
-11465	Ubranie M³odego Smoka+5
-11466	Ubranie M³odego Smoka+6
-11467	Ubranie M³odego Smoka+7
-11468	Ubranie M³odego Smoka+8
-11469	Ubranie M³odego Smoka+9
-11470	Ubranie Zabój. Wiatru+0
-11471	Ubranie Zabój. Wiatru+1
-11472	Ubranie Zabój. Wiatru+2
-11473	Ubranie Zabój. Wiatru+3
-11474	Ubranie Zabój. Wiatru+4
-11475	Ubranie Zabój. Wiatru+5
-11476	Ubranie Zabój. Wiatru+6
-11477	Ubranie Zabój. Wiatru+7
-11478	Ubranie Zabój. Wiatru+8
-11479	Ubranie Zabój. Wiatru+9
+11430	Czer. Ubranie MrÃ³wki+0
+11431	Czer. Ubranie MrÃ³wki+1
+11432	Czer. Ubranie MrÃ³wki+2
+11433	Czer. Ubranie MrÃ³wki+3
+11434	Czer. Ubranie MrÃ³wki+4
+11435	Czer. Ubranie MrÃ³wki+5
+11436	Czer. Ubranie MrÃ³wki+6
+11437	Czer. Ubranie MrÃ³wki+7
+11438	Czer. Ubranie MrÃ³wki+8
+11439	Czer. Ubranie MrÃ³wki+9
+11440	Ubranie Lwiej MrÃ³wki+0
+11441	Ubranie Lwiej MrÃ³wki+1
+11442	Ubranie Lwiej MrÃ³wki+2
+11443	Ubranie Lwiej MrÃ³wki+3
+11444	Ubranie Lwiej MrÃ³wki+4
+11445	Ubranie Lwiej MrÃ³wki+5
+11446	Ubranie Lwiej MrÃ³wki+6
+11447	Ubranie Lwiej MrÃ³wki+7
+11448	Ubranie Lwiej MrÃ³wki+8
+11449	Ubranie Lwiej MrÃ³wki+9
+11450	Ubranie ZabÃ³jcy+0
+11451	Ubranie ZabÃ³jcy+1
+11452	Ubranie ZabÃ³jcy+2
+11453	Ubranie ZabÃ³jcy+3
+11454	Ubranie ZabÃ³jcy+4
+11455	Ubranie ZabÃ³jcy+5
+11456	Ubranie ZabÃ³jcy+6
+11457	Ubranie ZabÃ³jcy+7
+11458	Ubranie ZabÃ³jcy+8
+11459	Ubranie ZabÃ³jcy+9
+11460	Ubranie MÅ‚odego Smoka+0
+11461	Ubranie MÅ‚odego Smoka+1
+11462	Ubranie MÅ‚odego Smoka+2
+11463	Ubranie MÅ‚odego Smoka+3
+11464	Ubranie MÅ‚odego Smoka+4
+11465	Ubranie MÅ‚odego Smoka+5
+11466	Ubranie MÅ‚odego Smoka+6
+11467	Ubranie MÅ‚odego Smoka+7
+11468	Ubranie MÅ‚odego Smoka+8
+11469	Ubranie MÅ‚odego Smoka+9
+11470	Ubranie ZabÃ³j. Wiatru+0
+11471	Ubranie ZabÃ³j. Wiatru+1
+11472	Ubranie ZabÃ³j. Wiatru+2
+11473	Ubranie ZabÃ³j. Wiatru+3
+11474	Ubranie ZabÃ³j. Wiatru+4
+11475	Ubranie ZabÃ³j. Wiatru+5
+11476	Ubranie ZabÃ³j. Wiatru+6
+11477	Ubranie ZabÃ³j. Wiatru+7
+11478	Ubranie ZabÃ³j. Wiatru+8
+11479	Ubranie ZabÃ³j. Wiatru+9
 11480	Ubranie Fuksyjne+0
 11481	Ubranie Fuksyjne+1
 11482	Ubranie Fuksyjne+2
@@ -1624,76 +1624,76 @@ VNUM	LOCALE_NAME
 11507	Bi-Pung
 11508	Zeok-Hyoun
 11509	Ho-Gu
-11600	¯a³obna Zbr. P³yt.+0
-11601	¯a³obna Zbr. P³yt.+1
-11602	¯a³obna Zbr. P³yt.+2
-11603	¯a³obna Zbr. P³yt.+3
-11604	¯a³obna Zbr. P³yt.+4
-11605	¯a³obna Zbr. P³yt.+5
-11606	¯a³obna Zbr. P³yt.+6
-11607	¯a³obna Zbr. P³yt.+7
-11608	¯a³obna Zbr. P³yt.+8
-11609	¯a³obna Zbr. P³yt.+9
-11610	Burzowa Zbroj. P³yt.+0
-11611	Burzowa Zbroj. P³yt.+1
-11612	Burzowa Zbroj. P³yt.+2
-11613	Burzowa Zbroj. P³yt.+3
-11614	Burzowa Zbroj. P³yt.+4
-11615	Burzowa Zbroj. P³yt.+5
-11616	Burzowa Zbroj. P³yt.+6
-11617	Burzowa Zbroj. P³yt.+7
-11618	Burzowa Zbroj. P³yt.+8
-11619	Burzowa Zbroj. P³yt.+9
-11620	Nieszczêsna Zbr. P³yt.+0
-11621	Nieszczêsna Zbr. P³yt.+1
-11622	Nieszczêsna Zbr. P³yt.+2
-11623	Nieszczêsna Zbr. P³yt.+3
-11624	Nieszczêsna Zbr. P³yt.+4
-11625	Nieszczêsna Zbr. P³yt.+5
-11626	Nieszczêsna Zbr. P³yt.+6
-11627	Nieszczêsna Zbr. P³yt.+7
-11628	Nieszczêsna Zbr. P³yt.+8
-11629	Nieszczêsna Zbr. P³yt.+9
-11630	Upiorna Zbroja P³yt.+0
-11631	Upiorna Zbroja P³yt.+1
-11632	Upiorna Zbroja P³yt.+2
-11633	Upiorna Zbroja P³yt.+3
-11634	Upiorna Zbroja P³yt.+4
-11635	Upiorna Zbroja P³yt.+5
-11636	Upiorna Zbroja P³yt.+6
-11637	Upiorna Zbroja P³yt.+7
-11638	Upiorna Zbroja P³yt.+8
-11639	Upiorna Zbroja P³yt.+9
-11640	Zbroja P³yt. Yin-Yang+0
-11641	Zbroja P³yt. Yin-Yang+1
-11642	Zbroja P³yt. Yin-Yang+2
-11643	Zbroja P³yt. Yin-Yang+3
-11644	Zbroja P³yt. Yin-Yang+4
-11645	Zbroja P³yt. Yin-Yang+5
-11646	Zbroja P³yt. Yin-Yang+6
-11647	Zbroja P³yt. Yin-Yang+7
-11648	Zbroja P³yt. Yin-Yang+8
-11649	Zbroja P³yt. Yin-Yang+9
-11650	Mistyczna Zbroja P³yt.+0
-11651	Mistyczna Zbroja P³yt.+1
-11652	Mistyczna Zbroja P³yt.+2
-11653	Mistyczna Zbroja P³yt.+3
-11654	Mistyczna Zbroja P³yt.+4
-11655	Mistyczna Zbroja P³yt.+5
-11656	Mistyczna Zbroja P³yt.+6
-11657	Mistyczna Zbroja P³yt.+7
-11658	Mistyczna Zbroja P³yt.+8
-11659	Mistyczna Zbroja P³yt.+9
-11660	Mglista Zbroja P³yt.+0
-11661	Mglista Zbroja P³yt.+1
-11662	Mglista Zbroja P³yt.+2
-11663	Mglista Zbroja P³yt.+3
-11664	Mglista Zbroja P³yt.+4
-11665	Mglista Zbroja P³yt.+5
-11666	Mglista Zbroja P³yt.+6
-11667	Mglista Zbroja P³yt.+7
-11668	Mglista Zbroja P³yt.+8
-11669	Mglista Zbroja P³yt.+9
+11600	Å»aÅ‚obna Zbr. PÅ‚yt.+0
+11601	Å»aÅ‚obna Zbr. PÅ‚yt.+1
+11602	Å»aÅ‚obna Zbr. PÅ‚yt.+2
+11603	Å»aÅ‚obna Zbr. PÅ‚yt.+3
+11604	Å»aÅ‚obna Zbr. PÅ‚yt.+4
+11605	Å»aÅ‚obna Zbr. PÅ‚yt.+5
+11606	Å»aÅ‚obna Zbr. PÅ‚yt.+6
+11607	Å»aÅ‚obna Zbr. PÅ‚yt.+7
+11608	Å»aÅ‚obna Zbr. PÅ‚yt.+8
+11609	Å»aÅ‚obna Zbr. PÅ‚yt.+9
+11610	Burzowa Zbroj. PÅ‚yt.+0
+11611	Burzowa Zbroj. PÅ‚yt.+1
+11612	Burzowa Zbroj. PÅ‚yt.+2
+11613	Burzowa Zbroj. PÅ‚yt.+3
+11614	Burzowa Zbroj. PÅ‚yt.+4
+11615	Burzowa Zbroj. PÅ‚yt.+5
+11616	Burzowa Zbroj. PÅ‚yt.+6
+11617	Burzowa Zbroj. PÅ‚yt.+7
+11618	Burzowa Zbroj. PÅ‚yt.+8
+11619	Burzowa Zbroj. PÅ‚yt.+9
+11620	NieszczÄ™sna Zbr. PÅ‚yt.+0
+11621	NieszczÄ™sna Zbr. PÅ‚yt.+1
+11622	NieszczÄ™sna Zbr. PÅ‚yt.+2
+11623	NieszczÄ™sna Zbr. PÅ‚yt.+3
+11624	NieszczÄ™sna Zbr. PÅ‚yt.+4
+11625	NieszczÄ™sna Zbr. PÅ‚yt.+5
+11626	NieszczÄ™sna Zbr. PÅ‚yt.+6
+11627	NieszczÄ™sna Zbr. PÅ‚yt.+7
+11628	NieszczÄ™sna Zbr. PÅ‚yt.+8
+11629	NieszczÄ™sna Zbr. PÅ‚yt.+9
+11630	Upiorna Zbroja PÅ‚yt.+0
+11631	Upiorna Zbroja PÅ‚yt.+1
+11632	Upiorna Zbroja PÅ‚yt.+2
+11633	Upiorna Zbroja PÅ‚yt.+3
+11634	Upiorna Zbroja PÅ‚yt.+4
+11635	Upiorna Zbroja PÅ‚yt.+5
+11636	Upiorna Zbroja PÅ‚yt.+6
+11637	Upiorna Zbroja PÅ‚yt.+7
+11638	Upiorna Zbroja PÅ‚yt.+8
+11639	Upiorna Zbroja PÅ‚yt.+9
+11640	Zbroja PÅ‚yt. Yin-Yang+0
+11641	Zbroja PÅ‚yt. Yin-Yang+1
+11642	Zbroja PÅ‚yt. Yin-Yang+2
+11643	Zbroja PÅ‚yt. Yin-Yang+3
+11644	Zbroja PÅ‚yt. Yin-Yang+4
+11645	Zbroja PÅ‚yt. Yin-Yang+5
+11646	Zbroja PÅ‚yt. Yin-Yang+6
+11647	Zbroja PÅ‚yt. Yin-Yang+7
+11648	Zbroja PÅ‚yt. Yin-Yang+8
+11649	Zbroja PÅ‚yt. Yin-Yang+9
+11650	Mistyczna Zbroja PÅ‚yt.+0
+11651	Mistyczna Zbroja PÅ‚yt.+1
+11652	Mistyczna Zbroja PÅ‚yt.+2
+11653	Mistyczna Zbroja PÅ‚yt.+3
+11654	Mistyczna Zbroja PÅ‚yt.+4
+11655	Mistyczna Zbroja PÅ‚yt.+5
+11656	Mistyczna Zbroja PÅ‚yt.+6
+11657	Mistyczna Zbroja PÅ‚yt.+7
+11658	Mistyczna Zbroja PÅ‚yt.+8
+11659	Mistyczna Zbroja PÅ‚yt.+9
+11660	Mglista Zbroja PÅ‚yt.+0
+11661	Mglista Zbroja PÅ‚yt.+1
+11662	Mglista Zbroja PÅ‚yt.+2
+11663	Mglista Zbroja PÅ‚yt.+3
+11664	Mglista Zbroja PÅ‚yt.+4
+11665	Mglista Zbroja PÅ‚yt.+5
+11666	Mglista Zbroja PÅ‚yt.+6
+11667	Mglista Zbroja PÅ‚yt.+7
+11668	Mglista Zbroja PÅ‚yt.+8
+11669	Mglista Zbroja PÅ‚yt.+9
 11670	Zbroja Twarzy Ducha+0
 11671	Zbroja Twarzy Ducha+1
 11672	Zbroja Twarzy Ducha+2
@@ -1704,26 +1704,26 @@ VNUM	LOCALE_NAME
 11677	Zbroja Twarzy Ducha+7
 11678	Zbroja Twarzy Ducha+8
 11679	Zbroja Twarzy Ducha+9
-11680	Duchowa Zbroja P³yt.+0
-11681	Duchowa Zbroja P³yt.+1
-11682	Duchowa Zbroja P³yt.+2
-11683	Duchowa Zbroja P³yt.+3
-11684	Duchowa Zbroja P³yt.+4
-11685	Duchowa Zbroja P³yt.+5
-11686	Duchowa Zbroja P³yt.+6
-11687	Duchowa Zbroja P³yt.+7
-11688	Duchowa Zbroja P³yt.+8
-11689	Duchowa Zbroja P³yt.+9
-11690	Zbr. P³yt. Czar. Magii+0
-11691	Zbr. P³yt. Czar. Magii+1
-11692	Zbr. P³yt. Czar. Magii+2
-11693	Zbr. P³yt. Czar. Magii+3
-11694	Zbr. P³yt. Czar. Magii+4
-11695	Zbr. P³yt. Czar. Magii+5
-11696	Zbr. P³yt. Czar. Magii+6
-11697	Zbr. P³yt. Czar. Magii+7
-11698	Zbr. P³yt. Czar. Magii+8
-11699	Zbr. P³yt. Czar. Magii+9
+11680	Duchowa Zbroja PÅ‚yt.+0
+11681	Duchowa Zbroja PÅ‚yt.+1
+11682	Duchowa Zbroja PÅ‚yt.+2
+11683	Duchowa Zbroja PÅ‚yt.+3
+11684	Duchowa Zbroja PÅ‚yt.+4
+11685	Duchowa Zbroja PÅ‚yt.+5
+11686	Duchowa Zbroja PÅ‚yt.+6
+11687	Duchowa Zbroja PÅ‚yt.+7
+11688	Duchowa Zbroja PÅ‚yt.+8
+11689	Duchowa Zbroja PÅ‚yt.+9
+11690	Zbr. PÅ‚yt. Czar. Magii+0
+11691	Zbr. PÅ‚yt. Czar. Magii+1
+11692	Zbr. PÅ‚yt. Czar. Magii+2
+11693	Zbr. PÅ‚yt. Czar. Magii+3
+11694	Zbr. PÅ‚yt. Czar. Magii+4
+11695	Zbr. PÅ‚yt. Czar. Magii+5
+11696	Zbr. PÅ‚yt. Czar. Magii+6
+11697	Zbr. PÅ‚yt. Czar. Magii+7
+11698	Zbr. PÅ‚yt. Czar. Magii+8
+11699	Zbr. PÅ‚yt. Czar. Magii+9
 11700	Gang-Ryoung-Gab
 11701	Geuk-Hon-Gab
 11702	Ha-An-Gab
@@ -1734,16 +1734,16 @@ VNUM	LOCALE_NAME
 11707	Heuk-Gui-Gab
 11708	Ma-Sin-Gab
 11709	Ma-Ryoung-Sin-Gab
-11800	B³êkitna Szata+0
-11801	B³êkitna Szata+1
-11802	B³êkitna Szata+2
-11803	B³êkitna Szata+3
-11804	B³êkitna Szata+4
-11805	B³êkitna Szata+5
-11806	B³êkitna Szata+6
-11807	B³êkitna Szata+7
-11808	B³êkitna Szata+8
-11809	B³êkitna Szata+9
+11800	BÅ‚Ä™kitna Szata+0
+11801	BÅ‚Ä™kitna Szata+1
+11802	BÅ‚Ä™kitna Szata+2
+11803	BÅ‚Ä™kitna Szata+3
+11804	BÅ‚Ä™kitna Szata+4
+11805	BÅ‚Ä™kitna Szata+5
+11806	BÅ‚Ä™kitna Szata+6
+11807	BÅ‚Ä™kitna Szata+7
+11808	BÅ‚Ä™kitna Szata+8
+11809	BÅ‚Ä™kitna Szata+9
 11810	Turkusowa Szata+0
 11811	Turkusowa Szata+1
 11812	Turkusowa Szata+2
@@ -1754,26 +1754,26 @@ VNUM	LOCALE_NAME
 11817	Turkusowa Szata+7
 11818	Turkusowa Szata+8
 11819	Turkusowa Szata+9
-11820	Ró¿owa Szata+0
-11821	Ró¿owa Szata+1
-11822	Ró¿owa Szata+2
-11823	Ró¿owa Szata+3
-11824	Ró¿owa Szata+4
-11825	Ró¿owa Szata+5
-11826	Ró¿owa Szata+6
-11827	Ró¿owa Szata+7
-11828	Ró¿owa Szata+8
-11829	Ró¿owa Szata+9
-11830	Mi³osna Szata+0
-11831	Mi³osna Szata+1
-11832	Mi³osna Szata+2
-11833	Mi³osna Szata+3
-11834	Mi³osna Szata+4
-11835	Mi³osna Szata+5
-11836	Mi³osna Szata+6
-11837	Mi³osna Szata+7
-11838	Mi³osna Szata+8
-11839	Mi³osna Szata+9
+11820	RÃ³Å¼owa Szata+0
+11821	RÃ³Å¼owa Szata+1
+11822	RÃ³Å¼owa Szata+2
+11823	RÃ³Å¼owa Szata+3
+11824	RÃ³Å¼owa Szata+4
+11825	RÃ³Å¼owa Szata+5
+11826	RÃ³Å¼owa Szata+6
+11827	RÃ³Å¼owa Szata+7
+11828	RÃ³Å¼owa Szata+8
+11829	RÃ³Å¼owa Szata+9
+11830	MiÅ‚osna Szata+0
+11831	MiÅ‚osna Szata+1
+11832	MiÅ‚osna Szata+2
+11833	MiÅ‚osna Szata+3
+11834	MiÅ‚osna Szata+4
+11835	MiÅ‚osna Szata+5
+11836	MiÅ‚osna Szata+6
+11837	MiÅ‚osna Szata+7
+11838	MiÅ‚osna Szata+8
+11839	MiÅ‚osna Szata+9
 11840	Szata Zach. Nieba+0
 11841	Szata Zach. Nieba+1
 11842	Szata Zach. Nieba+2
@@ -1784,46 +1784,46 @@ VNUM	LOCALE_NAME
 11847	Szata Zach. Nieba+7
 11848	Szata Zach. Nieba+8
 11849	Szata Zach. Nieba+9
-11850	Szata S³oñca+0
-11851	Szata S³oñca+1
-11852	Szata S³oñca+2
-11853	Szata S³oñca+3
-11854	Szata S³oñca+4
-11855	Szata S³oñca+5
-11856	Szata S³oñca+6
-11857	Szata S³oñca+7
-11858	Szata S³oñca+8
-11859	Szata S³oñca+9
-11860	Szata Moralnoœci+0
-11861	Szata Moralnoœci+1
-11862	Szata Moralnoœci+2
-11863	Szata Moralnoœci+3
-11864	Szata Moralnoœci+4
-11865	Szata Moralnoœci+5
-11866	Szata Moralnoœci+6
-11867	Szata Moralnoœci+7
-11868	Szata Moralnoœci+8
-11869	Szata Moralnoœci+9
-11870	Szata Pomarañ. Kota+0
-11871	Szata Pomarañ. Kota+1
-11872	Szata Pomarañ. Kota+2
-11873	Szata Pomarañ. Kota+3
-11874	Szata Pomarañ. Kota+4
-11875	Szata Pomarañ. Kota+5
-11876	Szata Pomarañ. Kota+6
-11877	Szata Pomarañ. Kota+7
-11878	Szata Pomarañ. Kota+8
-11879	Szata Pomarañ. Kota+9
-11880	Szata Baronów+0
-11881	Szata Baronów+1
-11882	Szata Baronów+2
-11883	Szata Baronów+3
-11884	Szata Baronów+4
-11885	Szata Baronów+5
-11886	Szata Baronów+6
-11887	Szata Baronów+7
-11888	Szata Baronów+8
-11889	Szata Baronów+9
+11850	Szata SÅ‚oÅ„ca+0
+11851	Szata SÅ‚oÅ„ca+1
+11852	Szata SÅ‚oÅ„ca+2
+11853	Szata SÅ‚oÅ„ca+3
+11854	Szata SÅ‚oÅ„ca+4
+11855	Szata SÅ‚oÅ„ca+5
+11856	Szata SÅ‚oÅ„ca+6
+11857	Szata SÅ‚oÅ„ca+7
+11858	Szata SÅ‚oÅ„ca+8
+11859	Szata SÅ‚oÅ„ca+9
+11860	Szata MoralnoÅ›ci+0
+11861	Szata MoralnoÅ›ci+1
+11862	Szata MoralnoÅ›ci+2
+11863	Szata MoralnoÅ›ci+3
+11864	Szata MoralnoÅ›ci+4
+11865	Szata MoralnoÅ›ci+5
+11866	Szata MoralnoÅ›ci+6
+11867	Szata MoralnoÅ›ci+7
+11868	Szata MoralnoÅ›ci+8
+11869	Szata MoralnoÅ›ci+9
+11870	Szata PomaraÅ„. Kota+0
+11871	Szata PomaraÅ„. Kota+1
+11872	Szata PomaraÅ„. Kota+2
+11873	Szata PomaraÅ„. Kota+3
+11874	Szata PomaraÅ„. Kota+4
+11875	Szata PomaraÅ„. Kota+5
+11876	Szata PomaraÅ„. Kota+6
+11877	Szata PomaraÅ„. Kota+7
+11878	Szata PomaraÅ„. Kota+8
+11879	Szata PomaraÅ„. Kota+9
+11880	Szata BaronÃ³w+0
+11881	Szata BaronÃ³w+1
+11882	Szata BaronÃ³w+2
+11883	Szata BaronÃ³w+3
+11884	Szata BaronÃ³w+4
+11885	Szata BaronÃ³w+5
+11886	Szata BaronÃ³w+6
+11887	Szata BaronÃ³w+7
+11888	Szata BaronÃ³w+8
+11889	Szata BaronÃ³w+9
 11890	Czarna Szata+0
 11891	Czarna Szata+1
 11892	Czarna Szata+2
@@ -1836,16 +1836,16 @@ VNUM	LOCALE_NAME
 11899	Czarna Szata+9
 11901	Smoking
 11902	Smoking
-11903	Suknia Œlubna
-11904	Suknia Œlubna
+11903	Suknia Åšlubna
+11904	Suknia Åšlubna
 11911	Smoking
 11912	Smoking
-11913	Suknia Œlubna
-11914	Suknia Œlubna
-11951	Mnisia Zbr. P³ytowa
-11952	B³êkitne Ubranie
-11953	¯a³obna Zbr. P³yt.
-11954	B³êkitna Szata
+11913	Suknia Åšlubna
+11914	Suknia Åšlubna
+11951	Mnisia Zbr. PÅ‚ytowa
+11952	BÅ‚Ä™kitne Ubranie
+11953	Å»aÅ‚obna Zbr. PÅ‚yt.
+11954	BÅ‚Ä™kitna Szata
 11971	Zbroja Hwang
 11972	Czerw. Zbroja Hwang
 11973	Zbroja Zin-Hwang
@@ -1880,16 +1880,16 @@ VNUM	LOCALE_NAME
 12027	Ubranie Nieb. Smoka+7
 12028	Ubranie Nieb. Smoka+8
 12029	Ubranie Nieb. Smoka+9
-12030	Zbroja P³ytowa Aury+0
-12031	Zbroja P³ytowa Aury+1
-12032	Zbroja P³ytowa Aury+2
-12033	Zbroja P³ytowa Aury+3
-12034	Zbroja P³ytowa Aury+4
-12035	Zbroja P³ytowa Aury+5
-12036	Zbroja P³ytowa Aury+6
-12037	Zbroja P³ytowa Aury+7
-12038	Zbroja P³ytowa Aury+8
-12039	Zbroja P³ytowa Aury+9
+12030	Zbroja PÅ‚ytowa Aury+0
+12031	Zbroja PÅ‚ytowa Aury+1
+12032	Zbroja PÅ‚ytowa Aury+2
+12033	Zbroja PÅ‚ytowa Aury+3
+12034	Zbroja PÅ‚ytowa Aury+4
+12035	Zbroja PÅ‚ytowa Aury+5
+12036	Zbroja PÅ‚ytowa Aury+6
+12037	Zbroja PÅ‚ytowa Aury+7
+12038	Zbroja PÅ‚ytowa Aury+8
+12039	Zbroja PÅ‚ytowa Aury+9
 12040	Szata Smoka+0
 12041	Szata Smoka+1
 12042	Szata Smoka+2
@@ -1900,26 +1900,26 @@ VNUM	LOCALE_NAME
 12047	Szata Smoka+7
 12048	Szata Smoka+8
 12049	Szata Smoka+9
-12200	Tradycyjny He³m+0
-12201	Tradycyjny He³m+1
-12202	Tradycyjny He³m+2
-12203	Tradycyjny He³m+3
-12204	Tradycyjny He³m+4
-12205	Tradycyjny He³m+5
-12206	Tradycyjny He³m+6
-12207	Tradycyjny He³m+7
-12208	Tradycyjny He³m+8
-12209	Tradycyjny He³m+9
-12220	¯elazny He³m+0
-12221	¯elazny He³m+1
-12222	¯elazny He³m+2
-12223	¯elazny He³m+3
-12224	¯elazny He³m+4
-12225	¯elazny He³m+5
-12226	¯elazny He³m+6
-12227	¯elazny He³m+7
-12228	¯elazny He³m+8
-12229	¯elazny He³m+9
+12200	Tradycyjny HeÅ‚m+0
+12201	Tradycyjny HeÅ‚m+1
+12202	Tradycyjny HeÅ‚m+2
+12203	Tradycyjny HeÅ‚m+3
+12204	Tradycyjny HeÅ‚m+4
+12205	Tradycyjny HeÅ‚m+5
+12206	Tradycyjny HeÅ‚m+6
+12207	Tradycyjny HeÅ‚m+7
+12208	Tradycyjny HeÅ‚m+8
+12209	Tradycyjny HeÅ‚m+9
+12220	Å»elazny HeÅ‚m+0
+12221	Å»elazny HeÅ‚m+1
+12222	Å»elazny HeÅ‚m+2
+12223	Å»elazny HeÅ‚m+3
+12224	Å»elazny HeÅ‚m+4
+12225	Å»elazny HeÅ‚m+5
+12226	Å»elazny HeÅ‚m+6
+12227	Å»elazny HeÅ‚m+7
+12228	Å»elazny HeÅ‚m+8
+12229	Å»elazny HeÅ‚m+9
 12240	Upiorna Maska+0
 12241	Upiorna Maska+1
 12242	Upiorna Maska+2
@@ -1940,26 +1940,26 @@ VNUM	LOCALE_NAME
 12267	Maska Strachu+7
 12268	Maska Strachu+8
 12269	Maska Strachu+9
-12280	He³m Mistrza Wojny+0
-12281	He³m Mistrza Wojny+1
-12282	He³m Mistrza Wojny+2
-12283	He³m Mistrza Wojny+3
-12284	He³m Mistrza Wojny+4
-12285	He³m Mistrza Wojny+5
-12286	He³m Mistrza Wojny+6
-12287	He³m Mistrza Wojny+7
-12288	He³m Mistrza Wojny+8
-12289	He³m Mistrza Wojny+9
-12340	Skórzana Maska+0
-12341	Skórzana Maska+1
-12342	Skórzana Maska+2
-12343	Skórzana Maska+3
-12344	Skórzana Maska+4
-12345	Skórzana Maska+5
-12346	Skórzana Maska+6
-12347	Skórzana Maska+7
-12348	Skórzana Maska+8
-12349	Skórzana Maska+9
+12280	HeÅ‚m Mistrza Wojny+0
+12281	HeÅ‚m Mistrza Wojny+1
+12282	HeÅ‚m Mistrza Wojny+2
+12283	HeÅ‚m Mistrza Wojny+3
+12284	HeÅ‚m Mistrza Wojny+4
+12285	HeÅ‚m Mistrza Wojny+5
+12286	HeÅ‚m Mistrza Wojny+6
+12287	HeÅ‚m Mistrza Wojny+7
+12288	HeÅ‚m Mistrza Wojny+8
+12289	HeÅ‚m Mistrza Wojny+9
+12340	SkÃ³rzana Maska+0
+12341	SkÃ³rzana Maska+1
+12342	SkÃ³rzana Maska+2
+12343	SkÃ³rzana Maska+3
+12344	SkÃ³rzana Maska+4
+12345	SkÃ³rzana Maska+5
+12346	SkÃ³rzana Maska+6
+12347	SkÃ³rzana Maska+7
+12348	SkÃ³rzana Maska+8
+12349	SkÃ³rzana Maska+9
 12360	Maska Kolcza+0
 12361	Maska Kolcza+1
 12362	Maska Kolcza+2
@@ -1990,66 +1990,66 @@ VNUM	LOCALE_NAME
 12397	Orkowy Kaptur+7
 12398	Orkowy Kaptur+8
 12399	Orkowy Kaptur+9
-12400	Pajêczy Kaptur+0
-12401	Pajêczy Kaptur+1
-12402	Pajêczy Kaptur+2
-12403	Pajêczy Kaptur+3
-12404	Pajêczy Kaptur+4
-12405	Pajêczy Kaptur+5
-12406	Pajêczy Kaptur+6
-12407	Pajêczy Kaptur+7
-12408	Pajêczy Kaptur+8
-12409	Pajêczy Kaptur+9
-12480	Krwawy He³m+0
-12481	Krwawy He³m+1
-12482	Krwawy He³m+2
-12483	Krwawy He³m+3
-12484	Krwawy He³m+4
-12485	Krwawy He³m+5
-12486	Krwawy He³m+6
-12487	Krwawy He³m+7
-12488	Krwawy He³m+8
-12489	Krwawy He³m+9
-12500	Wyzywaj¹cy He³m+0
-12501	Wyzywaj¹cy He³m+1
-12502	Wyzywaj¹cy He³m+2
-12503	Wyzywaj¹cy He³m+3
-12504	Wyzywaj¹cy He³m+4
-12505	Wyzywaj¹cy He³m+5
-12506	Wyzywaj¹cy He³m+6
-12507	Wyzywaj¹cy He³m+7
-12508	Wyzywaj¹cy He³m+8
-12509	Wyzywaj¹cy He³m+9
-12520	Zamkowy He³m+0
-12521	Zamkowy He³m+1
-12522	Zamkowy He³m+2
-12523	Zamkowy He³m+3
-12524	Zamkowy He³m+4
-12525	Zamkowy He³m+5
-12526	Zamkowy He³m+6
-12527	Zamkowy He³m+7
-12528	Zamkowy He³m+8
-12529	Zamkowy He³m+9
-12530	Rogowy He³m+0
-12531	Rogowy He³m+1
-12532	Rogowy He³m+2
-12533	Rogowy He³m+3
-12534	Rogowy He³m+4
-12535	Rogowy He³m+5
-12536	Rogowy He³m+6
-12537	Rogowy He³m+7
-12538	Rogowy He³m+8
-12539	Rogowy He³m+9
-12540	Magiczny He³m+0
-12541	Magiczny He³m+1
-12542	Magiczny He³m+2
-12543	Magiczny He³m+3
-12544	Magiczny He³m+4
-12545	Magiczny He³m+5
-12546	Magiczny He³m+6
-12547	Magiczny He³m+7
-12548	Magiczny He³m+8
-12549	Magiczny He³m+9
+12400	PajÄ™czy Kaptur+0
+12401	PajÄ™czy Kaptur+1
+12402	PajÄ™czy Kaptur+2
+12403	PajÄ™czy Kaptur+3
+12404	PajÄ™czy Kaptur+4
+12405	PajÄ™czy Kaptur+5
+12406	PajÄ™czy Kaptur+6
+12407	PajÄ™czy Kaptur+7
+12408	PajÄ™czy Kaptur+8
+12409	PajÄ™czy Kaptur+9
+12480	Krwawy HeÅ‚m+0
+12481	Krwawy HeÅ‚m+1
+12482	Krwawy HeÅ‚m+2
+12483	Krwawy HeÅ‚m+3
+12484	Krwawy HeÅ‚m+4
+12485	Krwawy HeÅ‚m+5
+12486	Krwawy HeÅ‚m+6
+12487	Krwawy HeÅ‚m+7
+12488	Krwawy HeÅ‚m+8
+12489	Krwawy HeÅ‚m+9
+12500	WyzywajÄ…cy HeÅ‚m+0
+12501	WyzywajÄ…cy HeÅ‚m+1
+12502	WyzywajÄ…cy HeÅ‚m+2
+12503	WyzywajÄ…cy HeÅ‚m+3
+12504	WyzywajÄ…cy HeÅ‚m+4
+12505	WyzywajÄ…cy HeÅ‚m+5
+12506	WyzywajÄ…cy HeÅ‚m+6
+12507	WyzywajÄ…cy HeÅ‚m+7
+12508	WyzywajÄ…cy HeÅ‚m+8
+12509	WyzywajÄ…cy HeÅ‚m+9
+12520	Zamkowy HeÅ‚m+0
+12521	Zamkowy HeÅ‚m+1
+12522	Zamkowy HeÅ‚m+2
+12523	Zamkowy HeÅ‚m+3
+12524	Zamkowy HeÅ‚m+4
+12525	Zamkowy HeÅ‚m+5
+12526	Zamkowy HeÅ‚m+6
+12527	Zamkowy HeÅ‚m+7
+12528	Zamkowy HeÅ‚m+8
+12529	Zamkowy HeÅ‚m+9
+12530	Rogowy HeÅ‚m+0
+12531	Rogowy HeÅ‚m+1
+12532	Rogowy HeÅ‚m+2
+12533	Rogowy HeÅ‚m+3
+12534	Rogowy HeÅ‚m+4
+12535	Rogowy HeÅ‚m+5
+12536	Rogowy HeÅ‚m+6
+12537	Rogowy HeÅ‚m+7
+12538	Rogowy HeÅ‚m+8
+12539	Rogowy HeÅ‚m+9
+12540	Magiczny HeÅ‚m+0
+12541	Magiczny HeÅ‚m+1
+12542	Magiczny HeÅ‚m+2
+12543	Magiczny HeÅ‚m+3
+12544	Magiczny HeÅ‚m+4
+12545	Magiczny HeÅ‚m+5
+12546	Magiczny HeÅ‚m+6
+12547	Magiczny HeÅ‚m+7
+12548	Magiczny HeÅ‚m+8
+12549	Magiczny HeÅ‚m+9
 12620	Czapka Mnicha+0
 12621	Czapka Mnicha+1
 12622	Czapka Mnicha+2
@@ -2070,26 +2070,26 @@ VNUM	LOCALE_NAME
 12647	Czapka Feniksa+7
 12648	Czapka Feniksa+8
 12649	Czapka Feniksa+9
-12660	Œwietlista Czapka+0
-12661	Œwietlista Czapka+1
-12662	Œwietlista Czapka+2
-12663	Œwietlista Czapka+3
-12664	Œwietlista Czapka+4
-12665	Œwietlista Czapka+5
-12666	Œwietlista Czapka+6
-12667	Œwietlista Czapka+7
-12668	Œwietlista Czapka+8
-12669	Œwietlista Czapka+9
-12670	Kapelusz Kardyna³a+0
-12671	Kapelusz Kardyna³a+1
-12672	Kapelusz Kardyna³a+2
-12673	Kapelusz Kardyna³a+3
-12674	Kapelusz Kardyna³a+4
-12675	Kapelusz Kardyna³a+5
-12676	Kapelusz Kardyna³a+6
-12677	Kapelusz Kardyna³a+7
-12678	Kapelusz Kardyna³a+8
-12679	Kapelusz Kardyna³a+9
+12660	Åšwietlista Czapka+0
+12661	Åšwietlista Czapka+1
+12662	Åšwietlista Czapka+2
+12663	Åšwietlista Czapka+3
+12664	Åšwietlista Czapka+4
+12665	Åšwietlista Czapka+5
+12666	Åšwietlista Czapka+6
+12667	Åšwietlista Czapka+7
+12668	Åšwietlista Czapka+8
+12669	Åšwietlista Czapka+9
+12670	Kapelusz KardynaÅ‚a+0
+12671	Kapelusz KardynaÅ‚a+1
+12672	Kapelusz KardynaÅ‚a+2
+12673	Kapelusz KardynaÅ‚a+3
+12674	Kapelusz KardynaÅ‚a+4
+12675	Kapelusz KardynaÅ‚a+5
+12676	Kapelusz KardynaÅ‚a+6
+12677	Kapelusz KardynaÅ‚a+7
+12678	Kapelusz KardynaÅ‚a+8
+12679	Kapelusz KardynaÅ‚a+9
 12680	Kapelusz Duszy+0
 12681	Kapelusz Duszy+1
 12682	Kapelusz Duszy+2
@@ -2110,26 +2110,26 @@ VNUM	LOCALE_NAME
 13007	Bojowa Tarcza+7
 13008	Bojowa Tarcza+8
 13009	Bojowa Tarcza+9
-13020	Piêciok¹tna Tarcza+0
-13021	Piêciok¹tna Tarcza+1
-13022	Piêciok¹tna Tarcza+2
-13023	Piêciok¹tna Tarcza+3
-13024	Piêciok¹tna Tarcza+4
-13025	Piêciok¹tna Tarcza+5
-13026	Piêciok¹tna Tarcza+6
-13027	Piêciok¹tna Tarcza+7
-13028	Piêciok¹tna Tarcza+8
-13029	Piêciok¹tna Tarcza+9
-13040	Czarna Okr¹g³a Tarcza+0
-13041	Czarna Okr¹g³a Tarcza+1
-13042	Czarna Okr¹g³a Tarcza+2
-13043	Czarna Okr¹g³a Tarcza+3
-13044	Czarna Okr¹g³a Tarcza+4
-13045	Czarna Okr¹g³a Tarcza+5
-13046	Czarna Okr¹g³a Tarcza+6
-13047	Czarna Okr¹g³a Tarcza+7
-13048	Czarna Okr¹g³a Tarcza+8
-13049	Czarna Okr¹g³a Tarcza+9
+13020	PiÄ™ciokÄ…tna Tarcza+0
+13021	PiÄ™ciokÄ…tna Tarcza+1
+13022	PiÄ™ciokÄ…tna Tarcza+2
+13023	PiÄ™ciokÄ…tna Tarcza+3
+13024	PiÄ™ciokÄ…tna Tarcza+4
+13025	PiÄ™ciokÄ…tna Tarcza+5
+13026	PiÄ™ciokÄ…tna Tarcza+6
+13027	PiÄ™ciokÄ…tna Tarcza+7
+13028	PiÄ™ciokÄ…tna Tarcza+8
+13029	PiÄ™ciokÄ…tna Tarcza+9
+13040	Czarna OkrÄ…gÅ‚a Tarcza+0
+13041	Czarna OkrÄ…gÅ‚a Tarcza+1
+13042	Czarna OkrÄ…gÅ‚a Tarcza+2
+13043	Czarna OkrÄ…gÅ‚a Tarcza+3
+13044	Czarna OkrÄ…gÅ‚a Tarcza+4
+13045	Czarna OkrÄ…gÅ‚a Tarcza+5
+13046	Czarna OkrÄ…gÅ‚a Tarcza+6
+13047	Czarna OkrÄ…gÅ‚a Tarcza+7
+13048	Czarna OkrÄ…gÅ‚a Tarcza+8
+13049	Czarna OkrÄ…gÅ‚a Tarcza+9
 13060	Sokola Tarcza+0
 13061	Sokola Tarcza+1
 13062	Sokola Tarcza+2
@@ -2170,26 +2170,26 @@ VNUM	LOCALE_NAME
 13127	Tarcza Smoka+7
 13128	Tarcza Smoka+8
 13129	Tarcza Smoka+9
-13140	Tarcza Tytanów+0
-13141	Tarcza Tytanów+1
-13142	Tarcza Tytanów+2
-13143	Tarcza Tytanów+3
-13144	Tarcza Tytanów+4
-13145	Tarcza Tytanów+5
-13146	Tarcza Tytanów+6
-13147	Tarcza Tytanów+7
-13148	Tarcza Tytanów+8
-13149	Tarcza Tytanów+9
-13160	Tarcza Trzech W³adców+0
-13161	Tarcza Trzech W³adców+1
-13162	Tarcza Trzech W³adców+2
-13163	Tarcza Trzech W³adców+3
-13164	Tarcza Trzech W³adców+4
-13165	Tarcza Trzech W³adców+5
-13166	Tarcza Trzech W³adców+6
-13167	Tarcza Trzech W³adców+7
-13168	Tarcza Trzech W³adców+8
-13169	Tarcza Trzech W³adców+9
+13140	Tarcza TytanÃ³w+0
+13141	Tarcza TytanÃ³w+1
+13142	Tarcza TytanÃ³w+2
+13143	Tarcza TytanÃ³w+3
+13144	Tarcza TytanÃ³w+4
+13145	Tarcza TytanÃ³w+5
+13146	Tarcza TytanÃ³w+6
+13147	Tarcza TytanÃ³w+7
+13148	Tarcza TytanÃ³w+8
+13149	Tarcza TytanÃ³w+9
+13160	Tarcza Trzech WÅ‚adcÃ³w+0
+13161	Tarcza Trzech WÅ‚adcÃ³w+1
+13162	Tarcza Trzech WÅ‚adcÃ³w+2
+13163	Tarcza Trzech WÅ‚adcÃ³w+3
+13164	Tarcza Trzech WÅ‚adcÃ³w+4
+13165	Tarcza Trzech WÅ‚adcÃ³w+5
+13166	Tarcza Trzech WÅ‚adcÃ³w+6
+13167	Tarcza Trzech WÅ‚adcÃ³w+7
+13168	Tarcza Trzech WÅ‚adcÃ³w+8
+13169	Tarcza Trzech WÅ‚adcÃ³w+9
 13180	Tarcza Aureola+0
 13181	Tarcza Aureola+1
 13182	Tarcza Aureola+2
@@ -2200,26 +2200,26 @@ VNUM	LOCALE_NAME
 13187	Tarcza Aureola+7
 13188	Tarcza Aureola+8
 13189	Tarcza Aureola+9
-13190	Piêciok¹tna Tarcza+0
-13191	Piêciok¹tna Tarcza+1
-13192	Piêciok¹tna Tarcza+2
-13193	Piêciok¹tna Tarcza+3
-13194	Piêciok¹tna Tarcza+4
-13195	Piêciok¹tna Tarcza+5
-13196	Piêciok¹tna Tarcza+6
-13197	Piêciok¹tna Tarcza+7
-13198	Piêciok¹tna Tarcza+8
-13199	Piêciok¹tna Tarcza+9
-13200	Czarna Okr¹g³a Tarcza+0
-13201	Czarna Okr¹g³a Tarcza+1
-13202	Czarna Okr¹g³a Tarcza+2
-13203	Czarna Okr¹g³a Tarcza+3
-13204	Czarna Okr¹g³a Tarcza+4
-13205	Czarna Okr¹g³a Tarcza+5
-13206	Czarna Okr¹g³a Tarcza+6
-13207	Czarna Okr¹g³a Tarcza+7
-13208	Czarna Okr¹g³a Tarcza+8
-13209	Czarna Okr¹g³a Tarcza+9
+13190	PiÄ™ciokÄ…tna Tarcza+0
+13191	PiÄ™ciokÄ…tna Tarcza+1
+13192	PiÄ™ciokÄ…tna Tarcza+2
+13193	PiÄ™ciokÄ…tna Tarcza+3
+13194	PiÄ™ciokÄ…tna Tarcza+4
+13195	PiÄ™ciokÄ…tna Tarcza+5
+13196	PiÄ™ciokÄ…tna Tarcza+6
+13197	PiÄ™ciokÄ…tna Tarcza+7
+13198	PiÄ™ciokÄ…tna Tarcza+8
+13199	PiÄ™ciokÄ…tna Tarcza+9
+13200	Czarna OkrÄ…gÅ‚a Tarcza+0
+13201	Czarna OkrÄ…gÅ‚a Tarcza+1
+13202	Czarna OkrÄ…gÅ‚a Tarcza+2
+13203	Czarna OkrÄ…gÅ‚a Tarcza+3
+13204	Czarna OkrÄ…gÅ‚a Tarcza+4
+13205	Czarna OkrÄ…gÅ‚a Tarcza+5
+13206	Czarna OkrÄ…gÅ‚a Tarcza+6
+13207	Czarna OkrÄ…gÅ‚a Tarcza+7
+13208	Czarna OkrÄ…gÅ‚a Tarcza+8
+13209	Czarna OkrÄ…gÅ‚a Tarcza+9
 14000	Drewniana Bransoleta+0
 14001	Drewniana Bransoleta+1
 14002	Drewniana Bransoleta+2
@@ -2250,16 +2250,16 @@ VNUM	LOCALE_NAME
 14047	Srebrna Bransoleta+7
 14048	Srebrna Bransoleta+8
 14049	Srebrna Bransoleta+9
-14060	Z³ota Bransoleta+0
-14061	Z³ota Bransoleta+1
-14062	Z³ota Bransoleta+2
-14063	Z³ota Bransoleta+3
-14064	Z³ota Bransoleta+4
-14065	Z³ota Bransoleta+5
-14066	Z³ota Bransoleta+6
-14067	Z³ota Bransoleta+7
-14068	Z³ota Bransoleta+8
-14069	Z³ota Bransoleta+9
+14060	ZÅ‚ota Bransoleta+0
+14061	ZÅ‚ota Bransoleta+1
+14062	ZÅ‚ota Bransoleta+2
+14063	ZÅ‚ota Bransoleta+3
+14064	ZÅ‚ota Bransoleta+4
+14065	ZÅ‚ota Bransoleta+5
+14066	ZÅ‚ota Bransoleta+6
+14067	ZÅ‚ota Bransoleta+7
+14068	ZÅ‚ota Bransoleta+8
+14069	ZÅ‚ota Bransoleta+9
 14080	Jadeitowa Bransoleta+0
 14081	Jadeitowa Bransoleta+1
 14082	Jadeitowa Bransoleta+2
@@ -2280,36 +2280,36 @@ VNUM	LOCALE_NAME
 14107	Ebonitowa Bransoleta+7
 14108	Ebonitowa Bransoleta+8
 14109	Ebonitowa Bransoleta+9
-14120	Per³owa Bransoleta+0
-14121	Per³owa Bransoleta+1
-14122	Per³owa Bransoleta+2
-14123	Per³owa Bransoleta+3
-14124	Per³owa Bransoleta+4
-14125	Per³owa Bransoleta+5
-14126	Per³owa Bransoleta+6
-14127	Per³owa Bransoleta+7
-14128	Per³owa Bransoleta+8
-14129	Per³owa Bransoleta+9
-14140	Bransol. Z Bia³. Z³ota+0
-14141	Bransol. Z Bia³. Z³ota+1
-14142	Bransol. Z Bia³. Z³ota+2
-14143	Bransol. Z Bia³. Z³ota+3
-14144	Bransol. Z Bia³. Z³ota+4
-14145	Bransol. Z Bia³. Z³ota+5
-14146	Bransol. Z Bia³. Z³ota+6
-14147	Bransol. Z Bia³. Z³ota+7
-14148	Bransol. Z Bia³. Z³ota+8
-14149	Bransol. Z Bia³. Z³ota+9
-14160	Kryszta³owa Bransoleta+0
-14161	Kryszta³owa Bransoleta+1
-14162	Kryszta³owa Bransoleta+2
-14163	Kryszta³owa Bransoleta+3
-14164	Kryszta³owa Bransoleta+4
-14165	Kryszta³owa Bransoleta+5
-14166	Kryszta³owa Bransoleta+6
-14167	Kryszta³owa Bransoleta+7
-14168	Kryszta³owa Bransoleta+8
-14169	Kryszta³owa Bransoleta+9
+14120	PerÅ‚owa Bransoleta+0
+14121	PerÅ‚owa Bransoleta+1
+14122	PerÅ‚owa Bransoleta+2
+14123	PerÅ‚owa Bransoleta+3
+14124	PerÅ‚owa Bransoleta+4
+14125	PerÅ‚owa Bransoleta+5
+14126	PerÅ‚owa Bransoleta+6
+14127	PerÅ‚owa Bransoleta+7
+14128	PerÅ‚owa Bransoleta+8
+14129	PerÅ‚owa Bransoleta+9
+14140	Bransol. Z BiaÅ‚. ZÅ‚ota+0
+14141	Bransol. Z BiaÅ‚. ZÅ‚ota+1
+14142	Bransol. Z BiaÅ‚. ZÅ‚ota+2
+14143	Bransol. Z BiaÅ‚. ZÅ‚ota+3
+14144	Bransol. Z BiaÅ‚. ZÅ‚ota+4
+14145	Bransol. Z BiaÅ‚. ZÅ‚ota+5
+14146	Bransol. Z BiaÅ‚. ZÅ‚ota+6
+14147	Bransol. Z BiaÅ‚. ZÅ‚ota+7
+14148	Bransol. Z BiaÅ‚. ZÅ‚ota+8
+14149	Bransol. Z BiaÅ‚. ZÅ‚ota+9
+14160	KrysztaÅ‚owa Bransoleta+0
+14161	KrysztaÅ‚owa Bransoleta+1
+14162	KrysztaÅ‚owa Bransoleta+2
+14163	KrysztaÅ‚owa Bransoleta+3
+14164	KrysztaÅ‚owa Bransoleta+4
+14165	KrysztaÅ‚owa Bransoleta+5
+14166	KrysztaÅ‚owa Bransoleta+6
+14167	KrysztaÅ‚owa Bransoleta+7
+14168	KrysztaÅ‚owa Bransoleta+8
+14169	KrysztaÅ‚owa Bransoleta+9
 14180	Ametystowa Bransoleta+0
 14181	Ametystowa Bransoleta+1
 14182	Ametystowa Bransoleta+2
@@ -2320,26 +2320,26 @@ VNUM	LOCALE_NAME
 14187	Ametystowa Bransoleta+7
 14188	Ametystowa Bransoleta+8
 14189	Ametystowa Bransoleta+9
-14200	Bransol. Z Niebiañ.£ez+0
-14201	Bransol. Z Niebiañ.£ez+1
-14202	Bransol. Z Niebiañ.£ez+2
-14203	Bransol. Z Niebiañ.£ez+3
-14204	Bransol. Z Niebiañ.£ez+4
-14205	Bransol. Z Niebiañ.£ez+5
-14206	Bransol. Z Niebiañ.£ez+6
-14207	Bransol. Z Niebiañ.£ez+7
-14208	Bransol. Z Niebiañ.£ez+8
-14209	Bransol. Z Niebiañ.£ez+9
-14220	Opaska Kryszta³u Duszy+0
-14221	Opaska Kryszta³u Duszy+1
-14222	Opaska Kryszta³u Duszy+2
-14223	Opaska Kryszta³u Duszy+3
-14224	Opaska Kryszta³u Duszy+4
-14225	Opaska Kryszta³u Duszy+5
-14226	Opaska Kryszta³u Duszy+6
-14227	Opaska Kryszta³u Duszy+7
-14228	Opaska Kryszta³u Duszy+8
-14229	Opaska Kryszta³u Duszy+9
+14200	Bransol. Z NiebiaÅ„.Åez+0
+14201	Bransol. Z NiebiaÅ„.Åez+1
+14202	Bransol. Z NiebiaÅ„.Åez+2
+14203	Bransol. Z NiebiaÅ„.Åez+3
+14204	Bransol. Z NiebiaÅ„.Åez+4
+14205	Bransol. Z NiebiaÅ„.Åez+5
+14206	Bransol. Z NiebiaÅ„.Åez+6
+14207	Bransol. Z NiebiaÅ„.Åez+7
+14208	Bransol. Z NiebiaÅ„.Åez+8
+14209	Bransol. Z NiebiaÅ„.Åez+9
+14220	Opaska KrysztaÅ‚u Duszy+0
+14221	Opaska KrysztaÅ‚u Duszy+1
+14222	Opaska KrysztaÅ‚u Duszy+2
+14223	Opaska KrysztaÅ‚u Duszy+3
+14224	Opaska KrysztaÅ‚u Duszy+4
+14225	Opaska KrysztaÅ‚u Duszy+5
+14226	Opaska KrysztaÅ‚u Duszy+6
+14227	Opaska KrysztaÅ‚u Duszy+7
+14228	Opaska KrysztaÅ‚u Duszy+8
+14229	Opaska KrysztaÅ‚u Duszy+9
 14500	Rubinowa Bransoleta+0
 14501	Rubinowa Bransoleta+1
 14502	Rubinowa Bransoleta+2
@@ -2380,16 +2380,16 @@ VNUM	LOCALE_NAME
 14567	Szafirowa Bransoleta+7
 14568	Szafirowa Bransoleta+8
 14569	Szafirowa Bransoleta+9
-15000	Skórzane Buty+0
-15001	Skórzane Buty+1
-15002	Skórzane Buty+2
-15003	Skórzane Buty+3
-15004	Skórzane Buty+4
-15005	Skórzane Buty+5
-15006	Skórzane Buty+6
-15007	Skórzane Buty+7
-15008	Skórzane Buty+8
-15009	Skórzane Buty+9
+15000	SkÃ³rzane Buty+0
+15001	SkÃ³rzane Buty+1
+15002	SkÃ³rzane Buty+2
+15003	SkÃ³rzane Buty+3
+15004	SkÃ³rzane Buty+4
+15005	SkÃ³rzane Buty+5
+15006	SkÃ³rzane Buty+6
+15007	SkÃ³rzane Buty+7
+15008	SkÃ³rzane Buty+8
+15009	SkÃ³rzane Buty+9
 15020	Bambusowe Buty+0
 15021	Bambusowe Buty+1
 15022	Bambusowe Buty+2
@@ -2410,46 +2410,46 @@ VNUM	LOCALE_NAME
 15047	Drewniane Buty+7
 15048	Drewniane Buty+8
 15049	Drewniane Buty+9
-15060	Buty Wyszywane Z³otem+0
-15061	Buty Wyszywane Z³otem+1
-15062	Buty Wyszywane Z³otem+2
-15063	Buty Wyszywane Z³otem+3
-15064	Buty Wyszywane Z³otem+4
-15065	Buty Wyszywane Z³otem+5
-15066	Buty Wyszywane Z³otem+6
-15067	Buty Wyszywane Z³otem+7
-15068	Buty Wyszywane Z³otem+8
-15069	Buty Wyszywane Z³otem+9
-15080	Skórzane Kozaki+0
-15081	Skórzane Kozaki+1
-15082	Skórzane Kozaki+2
-15083	Skórzane Kozaki+3
-15084	Skórzane Kozaki+4
-15085	Skórzane Kozaki+5
-15086	Skórzane Kozaki+6
-15087	Skórzane Kozaki+7
-15088	Skórzane Kozaki+8
-15089	Skórzane Kozaki+9
-15100	Z³ote Buty+0
-15101	Z³ote Buty+1
-15102	Z³ote Buty+2
-15103	Z³ote Buty+3
-15104	Z³ote Buty+4
-15105	Z³ote Buty+5
-15106	Z³ote Buty+6
-15107	Z³ote Buty+7
-15108	Z³ote Buty+8
-15109	Z³ote Buty+9
-15120	Buty Z Br¹zu+0
-15121	Buty Z Br¹zu+1
-15122	Buty Z Br¹zu+2
-15123	Buty Z Br¹zu+3
-15124	Buty Z Br¹zu+4
-15125	Buty Z Br¹zu+5
-15126	Buty Z Br¹zu+6
-15127	Buty Z Br¹zu+7
-15128	Buty Z Br¹zu+8
-15129	Buty Z Br¹zu+9
+15060	Buty Wyszywane ZÅ‚otem+0
+15061	Buty Wyszywane ZÅ‚otem+1
+15062	Buty Wyszywane ZÅ‚otem+2
+15063	Buty Wyszywane ZÅ‚otem+3
+15064	Buty Wyszywane ZÅ‚otem+4
+15065	Buty Wyszywane ZÅ‚otem+5
+15066	Buty Wyszywane ZÅ‚otem+6
+15067	Buty Wyszywane ZÅ‚otem+7
+15068	Buty Wyszywane ZÅ‚otem+8
+15069	Buty Wyszywane ZÅ‚otem+9
+15080	SkÃ³rzane Kozaki+0
+15081	SkÃ³rzane Kozaki+1
+15082	SkÃ³rzane Kozaki+2
+15083	SkÃ³rzane Kozaki+3
+15084	SkÃ³rzane Kozaki+4
+15085	SkÃ³rzane Kozaki+5
+15086	SkÃ³rzane Kozaki+6
+15087	SkÃ³rzane Kozaki+7
+15088	SkÃ³rzane Kozaki+8
+15089	SkÃ³rzane Kozaki+9
+15100	ZÅ‚ote Buty+0
+15101	ZÅ‚ote Buty+1
+15102	ZÅ‚ote Buty+2
+15103	ZÅ‚ote Buty+3
+15104	ZÅ‚ote Buty+4
+15105	ZÅ‚ote Buty+5
+15106	ZÅ‚ote Buty+6
+15107	ZÅ‚ote Buty+7
+15108	ZÅ‚ote Buty+8
+15109	ZÅ‚ote Buty+9
+15120	Buty Z BrÄ…zu+0
+15121	Buty Z BrÄ…zu+1
+15122	Buty Z BrÄ…zu+2
+15123	Buty Z BrÄ…zu+3
+15124	Buty Z BrÄ…zu+4
+15125	Buty Z BrÄ…zu+5
+15126	Buty Z BrÄ…zu+6
+15127	Buty Z BrÄ…zu+7
+15128	Buty Z BrÄ…zu+8
+15129	Buty Z BrÄ…zu+9
 15140	Jadeitowe Buty+0
 15141	Jadeitowe Buty+1
 15142	Jadeitowe Buty+2
@@ -2500,16 +2500,16 @@ VNUM	LOCALE_NAME
 15227	Buty Ognistego Ptaka+7
 15228	Buty Ognistego Ptaka+8
 15229	Buty Ognistego Ptaka+9
-15240	Buty Ze Skóry Smoka+0
-15241	Buty Ze Skóry Smoka+1
-15242	Buty Ze Skóry Smoka+2
-15243	Buty Ze Skóry Smoka+3
-15244	Buty Ze Skóry Smoka+4
-15245	Buty Ze Skóry Smoka+5
-15246	Buty Ze Skóry Smoka+6
-15247	Buty Ze Skóry Smoka+7
-15248	Buty Ze Skóry Smoka+8
-15249	Buty Ze Skóry Smoka+9
+15240	Buty Ze SkÃ³ry Smoka+0
+15241	Buty Ze SkÃ³ry Smoka+1
+15242	Buty Ze SkÃ³ry Smoka+2
+15243	Buty Ze SkÃ³ry Smoka+3
+15244	Buty Ze SkÃ³ry Smoka+4
+15245	Buty Ze SkÃ³ry Smoka+5
+15246	Buty Ze SkÃ³ry Smoka+6
+15247	Buty Ze SkÃ³ry Smoka+7
+15248	Buty Ze SkÃ³ry Smoka+8
+15249	Buty Ze SkÃ³ry Smoka+9
 15370	Buty Euforii+0
 15371	Buty Euforii+1
 15372	Buty Euforii+2
@@ -2580,16 +2580,16 @@ VNUM	LOCALE_NAME
 16047	Srebrny Naszyjnik+7
 16048	Srebrny Naszyjnik+8
 16049	Srebrny Naszyjnik+9
-16060	Z³oty Naszyjnik+0
-16061	Z³oty Naszyjnik+1
-16062	Z³oty Naszyjnik+2
-16063	Z³oty Naszyjnik+3
-16064	Z³oty Naszyjnik+4
-16065	Z³oty Naszyjnik+5
-16066	Z³oty Naszyjnik+6
-16067	Z³oty Naszyjnik+7
-16068	Z³oty Naszyjnik+8
-16069	Z³oty Naszyjnik+9
+16060	ZÅ‚oty Naszyjnik+0
+16061	ZÅ‚oty Naszyjnik+1
+16062	ZÅ‚oty Naszyjnik+2
+16063	ZÅ‚oty Naszyjnik+3
+16064	ZÅ‚oty Naszyjnik+4
+16065	ZÅ‚oty Naszyjnik+5
+16066	ZÅ‚oty Naszyjnik+6
+16067	ZÅ‚oty Naszyjnik+7
+16068	ZÅ‚oty Naszyjnik+8
+16069	ZÅ‚oty Naszyjnik+9
 16080	Jadeitowy Naszyjnik+0
 16081	Jadeitowy Naszyjnik+1
 16082	Jadeitowy Naszyjnik+2
@@ -2610,36 +2610,36 @@ VNUM	LOCALE_NAME
 16107	Ebonitowy Naszyjnik+7
 16108	Ebonitowy Naszyjnik+8
 16109	Ebonitowy Naszyjnik+9
-16120	Per³owy Naszyjnik+0
-16121	Per³owy Naszyjnik+1
-16122	Per³owy Naszyjnik+2
-16123	Per³owy Naszyjnik+3
-16124	Per³owy Naszyjnik+4
-16125	Per³owy Naszyjnik+5
-16126	Per³owy Naszyjnik+6
-16127	Per³owy Naszyjnik+7
-16128	Per³owy Naszyjnik+8
-16129	Per³owy Naszyjnik+9
-16140	Naszyj. Z Bia³. Z³ota+0
-16141	Naszyj. Z Bia³. Z³ota+1
-16142	Naszyj. Z Bia³. Z³ota+2
-16143	Naszyj. Z Bia³. Z³ota+3
-16144	Naszyj. Z Bia³. Z³ota+4
-16145	Naszyj. Z Bia³. Z³ota+5
-16146	Naszyj. Z Bia³. Z³ota+6
-16147	Naszyj. Z Bia³. Z³ota+7
-16148	Naszyj. Z Bia³. Z³ota+8
-16149	Naszyj. Z Bia³. Z³ota+9
-16160	Kryszta³owy Naszyjnik+0
-16161	Kryszta³owy Naszyjnik+1
-16162	Kryszta³owy Naszyjnik+2
-16163	Kryszta³owy Naszyjnik+3
-16164	Kryszta³owy Naszyjnik+4
-16165	Kryszta³owy Naszyjnik+5
-16166	Kryszta³owy Naszyjnik+6
-16167	Kryszta³owy Naszyjnik+7
-16168	Kryszta³owy Naszyjnik+8
-16169	Kryszta³owy Naszyjnik+9
+16120	PerÅ‚owy Naszyjnik+0
+16121	PerÅ‚owy Naszyjnik+1
+16122	PerÅ‚owy Naszyjnik+2
+16123	PerÅ‚owy Naszyjnik+3
+16124	PerÅ‚owy Naszyjnik+4
+16125	PerÅ‚owy Naszyjnik+5
+16126	PerÅ‚owy Naszyjnik+6
+16127	PerÅ‚owy Naszyjnik+7
+16128	PerÅ‚owy Naszyjnik+8
+16129	PerÅ‚owy Naszyjnik+9
+16140	Naszyj. Z BiaÅ‚. ZÅ‚ota+0
+16141	Naszyj. Z BiaÅ‚. ZÅ‚ota+1
+16142	Naszyj. Z BiaÅ‚. ZÅ‚ota+2
+16143	Naszyj. Z BiaÅ‚. ZÅ‚ota+3
+16144	Naszyj. Z BiaÅ‚. ZÅ‚ota+4
+16145	Naszyj. Z BiaÅ‚. ZÅ‚ota+5
+16146	Naszyj. Z BiaÅ‚. ZÅ‚ota+6
+16147	Naszyj. Z BiaÅ‚. ZÅ‚ota+7
+16148	Naszyj. Z BiaÅ‚. ZÅ‚ota+8
+16149	Naszyj. Z BiaÅ‚. ZÅ‚ota+9
+16160	KrysztaÅ‚owy Naszyjnik+0
+16161	KrysztaÅ‚owy Naszyjnik+1
+16162	KrysztaÅ‚owy Naszyjnik+2
+16163	KrysztaÅ‚owy Naszyjnik+3
+16164	KrysztaÅ‚owy Naszyjnik+4
+16165	KrysztaÅ‚owy Naszyjnik+5
+16166	KrysztaÅ‚owy Naszyjnik+6
+16167	KrysztaÅ‚owy Naszyjnik+7
+16168	KrysztaÅ‚owy Naszyjnik+8
+16169	KrysztaÅ‚owy Naszyjnik+9
 16180	Ametystowy Naszyjnik+0
 16181	Ametystowy Naszyjnik+1
 16182	Ametystowy Naszyjnik+2
@@ -2650,16 +2650,16 @@ VNUM	LOCALE_NAME
 16187	Ametystowy Naszyjnik+7
 16188	Ametystowy Naszyjnik+8
 16189	Ametystowy Naszyjnik+9
-16200	Naszyj. Z Niebiañ.£ez+0
-16201	Naszyj. Z Niebiañ.£ez+1
-16202	Naszyj. Z Niebiañ.£ez+2
-16203	Naszyj. Z Niebiañ.£ez+3
-16204	Naszyj. Z Niebiañ.£ez+4
-16205	Naszyj. Z Niebiañ.£ez+5
-16206	Naszyj. Z Niebiañ.£ez+6
-16207	Naszyj. Z Niebiañ.£ez+7
-16208	Naszyj. Z Niebiañ.£ez+8
-16209	Naszyj. Z Niebiañ.£ez+9
+16200	Naszyj. Z NiebiaÅ„.Åez+0
+16201	Naszyj. Z NiebiaÅ„.Åez+1
+16202	Naszyj. Z NiebiaÅ„.Åez+2
+16203	Naszyj. Z NiebiaÅ„.Åez+3
+16204	Naszyj. Z NiebiaÅ„.Åez+4
+16205	Naszyj. Z NiebiaÅ„.Åez+5
+16206	Naszyj. Z NiebiaÅ„.Åez+6
+16207	Naszyj. Z NiebiaÅ„.Åez+7
+16208	Naszyj. Z NiebiaÅ„.Åez+8
+16209	Naszyj. Z NiebiaÅ„.Åez+9
 16220	Naszyjnik Krysz. Duszy+0
 16221	Naszyjnik Krysz. Duszy+1
 16222	Naszyjnik Krysz. Duszy+2
@@ -2740,16 +2740,16 @@ VNUM	LOCALE_NAME
 17047	Srebrne Kolczyki+7
 17048	Srebrne Kolczyki+8
 17049	Srebrne Kolczyki+9
-17060	Z³ote Kolczyki+0
-17061	Z³ote Kolczyki+1
-17062	Z³ote Kolczyki+2
-17063	Z³ote Kolczyki+3
-17064	Z³ote Kolczyki+4
-17065	Z³ote Kolczyki+5
-17066	Z³ote Kolczyki+6
-17067	Z³ote Kolczyki+7
-17068	Z³ote Kolczyki+8
-17069	Z³ote Kolczyki+9
+17060	ZÅ‚ote Kolczyki+0
+17061	ZÅ‚ote Kolczyki+1
+17062	ZÅ‚ote Kolczyki+2
+17063	ZÅ‚ote Kolczyki+3
+17064	ZÅ‚ote Kolczyki+4
+17065	ZÅ‚ote Kolczyki+5
+17066	ZÅ‚ote Kolczyki+6
+17067	ZÅ‚ote Kolczyki+7
+17068	ZÅ‚ote Kolczyki+8
+17069	ZÅ‚ote Kolczyki+9
 17080	Jadeitowe Kolczyki+0
 17081	Jadeitowe Kolczyki+1
 17082	Jadeitowe Kolczyki+2
@@ -2770,36 +2770,36 @@ VNUM	LOCALE_NAME
 17107	Ebonitowe Kolczyki+7
 17108	Ebonitowe Kolczyki+8
 17109	Ebonitowe Kolczyki+9
-17120	Per³owe Kolczyki+0
-17121	Per³owe Kolczyki+1
-17122	Per³owe Kolczyki+2
-17123	Per³owe Kolczyki+3
-17124	Per³owe Kolczyki+4
-17125	Per³owe Kolczyki+5
-17126	Per³owe Kolczyki+6
-17127	Per³owe Kolczyki+7
-17128	Per³owe Kolczyki+8
-17129	Per³owe Kolczyki+9
-17140	Kolczyki Z Bia³. Z³ota+0
-17141	Kolczyki Z Bia³. Z³ota+1
-17142	Kolczyki Z Bia³. Z³ota+2
-17143	Kolczyki Z Bia³. Z³ota+3
-17144	Kolczyki Z Bia³. Z³ota+4
-17145	Kolczyki Z Bia³. Z³ota+5
-17146	Kolczyki Z Bia³. Z³ota+6
-17147	Kolczyki Z Bia³. Z³ota+7
-17148	Kolczyki Z Bia³. Z³ota+8
-17149	Kolczyki Z Bia³. Z³ota+9
-17160	Kryszta³owe Kolczyki+0
-17161	Kryszta³owe Kolczyki+1
-17162	Kryszta³owe Kolczyki+2
-17163	Kryszta³owe Kolczyki+3
-17164	Kryszta³owe Kolczyki+4
-17165	Kryszta³owe Kolczyki+5
-17166	Kryszta³owe Kolczyki+6
-17167	Kryszta³owe Kolczyki+7
-17168	Kryszta³owe Kolczyki+8
-17169	Kryszta³owe Kolczyki+9
+17120	PerÅ‚owe Kolczyki+0
+17121	PerÅ‚owe Kolczyki+1
+17122	PerÅ‚owe Kolczyki+2
+17123	PerÅ‚owe Kolczyki+3
+17124	PerÅ‚owe Kolczyki+4
+17125	PerÅ‚owe Kolczyki+5
+17126	PerÅ‚owe Kolczyki+6
+17127	PerÅ‚owe Kolczyki+7
+17128	PerÅ‚owe Kolczyki+8
+17129	PerÅ‚owe Kolczyki+9
+17140	Kolczyki Z BiaÅ‚. ZÅ‚ota+0
+17141	Kolczyki Z BiaÅ‚. ZÅ‚ota+1
+17142	Kolczyki Z BiaÅ‚. ZÅ‚ota+2
+17143	Kolczyki Z BiaÅ‚. ZÅ‚ota+3
+17144	Kolczyki Z BiaÅ‚. ZÅ‚ota+4
+17145	Kolczyki Z BiaÅ‚. ZÅ‚ota+5
+17146	Kolczyki Z BiaÅ‚. ZÅ‚ota+6
+17147	Kolczyki Z BiaÅ‚. ZÅ‚ota+7
+17148	Kolczyki Z BiaÅ‚. ZÅ‚ota+8
+17149	Kolczyki Z BiaÅ‚. ZÅ‚ota+9
+17160	KrysztaÅ‚owe Kolczyki+0
+17161	KrysztaÅ‚owe Kolczyki+1
+17162	KrysztaÅ‚owe Kolczyki+2
+17163	KrysztaÅ‚owe Kolczyki+3
+17164	KrysztaÅ‚owe Kolczyki+4
+17165	KrysztaÅ‚owe Kolczyki+5
+17166	KrysztaÅ‚owe Kolczyki+6
+17167	KrysztaÅ‚owe Kolczyki+7
+17168	KrysztaÅ‚owe Kolczyki+8
+17169	KrysztaÅ‚owe Kolczyki+9
 17180	Ametystowe Kolczyki+0
 17181	Ametystowe Kolczyki+1
 17182	Ametystowe Kolczyki+2
@@ -2810,16 +2810,16 @@ VNUM	LOCALE_NAME
 17187	Ametystowe Kolczyki+7
 17188	Ametystowe Kolczyki+8
 17189	Ametystowe Kolczyki+9
-17200	Kolczyki Z Niebiañ.£ez+0
-17201	Kolczyki Z Niebiañ.£ez+1
-17202	Kolczyki Z Niebiañ.£ez+2
-17203	Kolczyki Z Niebiañ.£ez+3
-17204	Kolczyki Z Niebiañ.£ez+4
-17205	Kolczyki Z Niebiañ.£ez+5
-17206	Kolczyki Z Niebiañ.£ez+6
-17207	Kolczyki Z Niebiañ.£ez+7
-17208	Kolczyki Z Niebiañ.£ez+8
-17209	Kolczyki Z Niebiañ.£ez+9
+17200	Kolczyki Z NiebiaÅ„.Åez+0
+17201	Kolczyki Z NiebiaÅ„.Åez+1
+17202	Kolczyki Z NiebiaÅ„.Åez+2
+17203	Kolczyki Z NiebiaÅ„.Åez+3
+17204	Kolczyki Z NiebiaÅ„.Åez+4
+17205	Kolczyki Z NiebiaÅ„.Åez+5
+17206	Kolczyki Z NiebiaÅ„.Åez+6
+17207	Kolczyki Z NiebiaÅ„.Åez+7
+17208	Kolczyki Z NiebiaÅ„.Åez+8
+17209	Kolczyki Z NiebiaÅ„.Åez+9
 17220	Kolczyki Krysz. Duszy+0
 17221	Kolczyki Krysz. Duszy+1
 17222	Kolczyki Krysz. Duszy+2
@@ -2880,16 +2880,16 @@ VNUM	LOCALE_NAME
 18007	Pas Lniany+7
 18008	Pas Lniany+8
 18009	Pas Lniany+9
-18010	Pas Skórzany+0
-18011	Pas Skórzany+1
-18012	Pas Skórzany+2
-18013	Pas Skórzany+3
-18014	Pas Skórzany+4
-18015	Pas Skórzany+5
-18016	Pas Skórzany+6
-18017	Pas Skórzany+7
-18018	Pas Skórzany+8
-18019	Pas Skórzany+9
+18010	Pas SkÃ³rzany+0
+18011	Pas SkÃ³rzany+1
+18012	Pas SkÃ³rzany+2
+18013	Pas SkÃ³rzany+3
+18014	Pas SkÃ³rzany+4
+18015	Pas SkÃ³rzany+5
+18016	Pas SkÃ³rzany+6
+18017	Pas SkÃ³rzany+7
+18018	Pas SkÃ³rzany+8
+18019	Pas SkÃ³rzany+9
 18020	Pas Przepychu+0
 18021	Pas Przepychu+1
 18022	Pas Przepychu+2
@@ -2900,26 +2900,26 @@ VNUM	LOCALE_NAME
 18027	Pas Przepychu+7
 18028	Pas Przepychu+8
 18029	Pas Przepychu+9
-18030	Pas M¹droœci+0
-18031	Pas M¹droœci+1
-18032	Pas M¹droœci+2
-18033	Pas M¹droœci+3
-18034	Pas M¹droœci+4
-18035	Pas M¹droœci+5
-18036	Pas M¹droœci+6
-18037	Pas M¹droœci+7
-18038	Pas M¹droœci+8
-18039	Pas M¹droœci+9
-18040	Pas Króla+0
-18041	Pas Króla+1
-18042	Pas Króla+2
-18043	Pas Króla+3
-18044	Pas Króla+4
-18045	Pas Króla+5
-18046	Pas Króla+6
-18047	Pas Króla+7
-18048	Pas Króla+8
-18049	Pas Króla+9
+18030	Pas MÄ…droÅ›ci+0
+18031	Pas MÄ…droÅ›ci+1
+18032	Pas MÄ…droÅ›ci+2
+18033	Pas MÄ…droÅ›ci+3
+18034	Pas MÄ…droÅ›ci+4
+18035	Pas MÄ…droÅ›ci+5
+18036	Pas MÄ…droÅ›ci+6
+18037	Pas MÄ…droÅ›ci+7
+18038	Pas MÄ…droÅ›ci+8
+18039	Pas MÄ…droÅ›ci+9
+18040	Pas KrÃ³la+0
+18041	Pas KrÃ³la+1
+18042	Pas KrÃ³la+2
+18043	Pas KrÃ³la+3
+18044	Pas KrÃ³la+4
+18045	Pas KrÃ³la+5
+18046	Pas KrÃ³la+6
+18047	Pas KrÃ³la+7
+18048	Pas KrÃ³la+8
+18049	Pas KrÃ³la+9
 18050	Pas Mroku+0
 18051	Pas Mroku+1
 18052	Pas Mroku+2
@@ -2940,16 +2940,16 @@ VNUM	LOCALE_NAME
 18067	Pas Runiczny+7
 18068	Pas Runiczny+8
 18069	Pas Runiczny+9
-18070	Pas NiedŸwiedzi+0
-18071	Pas NiedŸwiedzi+1
-18072	Pas NiedŸwiedzi+2
-18073	Pas NiedŸwiedzi+3
-18074	Pas NiedŸwiedzi+4
-18075	Pas NiedŸwiedzi+5
-18076	Pas NiedŸwiedzi+6
-18077	Pas NiedŸwiedzi+7
-18078	Pas NiedŸwiedzi+8
-18079	Pas NiedŸwiedzi+9
+18070	Pas NiedÅºwiedzi+0
+18071	Pas NiedÅºwiedzi+1
+18072	Pas NiedÅºwiedzi+2
+18073	Pas NiedÅºwiedzi+3
+18074	Pas NiedÅºwiedzi+4
+18075	Pas NiedÅºwiedzi+5
+18076	Pas NiedÅºwiedzi+6
+18077	Pas NiedÅºwiedzi+7
+18078	Pas NiedÅºwiedzi+8
+18079	Pas NiedÅºwiedzi+9
 18080	Pas Dusz+0
 18081	Pas Dusz+1
 18082	Pas Dusz+2
@@ -2960,7 +2960,7 @@ VNUM	LOCALE_NAME
 18087	Pas Dusz+7
 18088	Pas Dusz+8
 18089	Pas Dusz+9
-18900	Kamieñ Czerw. P³omienia
+18900	KamieÅ„ Czerw. PÅ‚omienia
 20000	Pancerz Diabel. Rogu+0
 20001	Pancerz Diabel. Rogu+1
 20002	Pancerz Diabel. Rogu+2
@@ -2971,414 +2971,414 @@ VNUM	LOCALE_NAME
 20007	Pancerz Diabel. Rogu+7
 20008	Pancerz Diabel. Rogu+8
 20009	Pancerz Diabel. Rogu+9
-20250	Szata Smoczego JeŸdŸca+0
-20251	Szata Smoczego JeŸdŸca+1
-20252	Szata Smoczego JeŸdŸca+2
-20253	Szata Smoczego JeŸdŸca+3
-20254	Szata Smoczego JeŸdŸca+4
-20255	Szata Smoczego JeŸdŸca+5
-20256	Szata Smoczego JeŸdŸca+6
-20257	Szata Smoczego JeŸdŸca+7
-20258	Szata Smoczego JeŸdŸca+8
-20259	Szata Smoczego JeŸdŸca+9
-20500	Pancerz Koœciop³ytowy+0
-20501	Pancerz Koœciop³ytowy+1
-20502	Pancerz Koœciop³ytowy+2
-20503	Pancerz Koœciop³ytowy+3
-20504	Pancerz Koœciop³ytowy+4
-20505	Pancerz Koœciop³ytowy+5
-20506	Pancerz Koœciop³ytowy+6
-20507	Pancerz Koœciop³ytowy+7
-20508	Pancerz Koœciop³ytowy+8
-20509	Pancerz Koœciop³ytowy+9
-20750	Z³ote Ubranie+0
-20751	Z³ote Ubranie+1
-20752	Z³ote Ubranie+2
-20753	Z³ote Ubranie+3
-20754	Z³ote Ubranie+4
-20755	Z³ote Ubranie+5
-20756	Z³ote Ubranie+6
-20757	Z³ote Ubranie+7
-20758	Z³ote Ubranie+8
-20759	Z³ote Ubranie+9
-22000	Zwój Powrotu Do Miasta
-22001	Zwój Powrotu Do Miasta
-22010	Zwój Powrotu
-22011	Zwój Powrotu
-22020	Zwój Teleportacji
-22030	Zwój Teleporu
-22040	Zwój ¯ycia
-22050	Zwój Inkarnacji
-25040	Zwój B³ogos³awieñstwa
-25041	Magiczny Kamieñ
-25100	Zwój Kamienia Duszy
+20250	Szata Smoczego JeÅºdÅºca+0
+20251	Szata Smoczego JeÅºdÅºca+1
+20252	Szata Smoczego JeÅºdÅºca+2
+20253	Szata Smoczego JeÅºdÅºca+3
+20254	Szata Smoczego JeÅºdÅºca+4
+20255	Szata Smoczego JeÅºdÅºca+5
+20256	Szata Smoczego JeÅºdÅºca+6
+20257	Szata Smoczego JeÅºdÅºca+7
+20258	Szata Smoczego JeÅºdÅºca+8
+20259	Szata Smoczego JeÅºdÅºca+9
+20500	Pancerz KoÅ›ciopÅ‚ytowy+0
+20501	Pancerz KoÅ›ciopÅ‚ytowy+1
+20502	Pancerz KoÅ›ciopÅ‚ytowy+2
+20503	Pancerz KoÅ›ciopÅ‚ytowy+3
+20504	Pancerz KoÅ›ciopÅ‚ytowy+4
+20505	Pancerz KoÅ›ciopÅ‚ytowy+5
+20506	Pancerz KoÅ›ciopÅ‚ytowy+6
+20507	Pancerz KoÅ›ciopÅ‚ytowy+7
+20508	Pancerz KoÅ›ciopÅ‚ytowy+8
+20509	Pancerz KoÅ›ciopÅ‚ytowy+9
+20750	ZÅ‚ote Ubranie+0
+20751	ZÅ‚ote Ubranie+1
+20752	ZÅ‚ote Ubranie+2
+20753	ZÅ‚ote Ubranie+3
+20754	ZÅ‚ote Ubranie+4
+20755	ZÅ‚ote Ubranie+5
+20756	ZÅ‚ote Ubranie+6
+20757	ZÅ‚ote Ubranie+7
+20758	ZÅ‚ote Ubranie+8
+20759	ZÅ‚ote Ubranie+9
+22000	ZwÃ³j Powrotu Do Miasta
+22001	ZwÃ³j Powrotu Do Miasta
+22010	ZwÃ³j Powrotu
+22011	ZwÃ³j Powrotu
+22020	ZwÃ³j Teleportacji
+22030	ZwÃ³j Teleporu
+22040	ZwÃ³j Å»ycia
+22050	ZwÃ³j Inkarnacji
+25040	ZwÃ³j BÅ‚ogosÅ‚awieÅ„stwa
+25041	Magiczny KamieÅ„
+25100	ZwÃ³j Kamienia Duszy
 27001	Czerwona Mikstura(M)
-27002	Czerwona Mikstura(Œ)
+27002	Czerwona Mikstura(Åš)
 27003	Czerwona Mikstura(D)
 27004	Niebieska Mikstura(M)
-27005	Niebieska Mikstura(Œ)
+27005	Niebieska Mikstura(Åš)
 27006	Niebieska Mikstura(D)
 27051	Czerwona Mikstura (M)
 27052	Niebieska Mikstura (M)
 27053	Zielona Mikstura (M)
 27054	Fioletowa Mikstura (M)
 27100	Zielona Mikstura(M)
-27101	Zielona Mikstura(Œ)
+27101	Zielona Mikstura(Åš)
 27102	Zielona Mikstura(D)
 27103	Fioletowa Mikstura(M)
-27104	Fioletowa Mikstura(Œ)
+27104	Fioletowa Mikstura(Åš)
 27105	Fioletowa Mikstura(D)
 27110	Zielona Mikstura(M)
-27111	Zielona Mikstura(Œ)
+27111	Zielona Mikstura(Åš)
 27112	Zielona Mikstura(D)
 27113	Fioletowa Mikstura(M)
-27114	Fioletowa Mikstura(Œ)
+27114	Fioletowa Mikstura(Åš)
 27115	Fioletowa Mikstura(D)
-27116	Ró¿owa Mikstura(M)
-27117	Ró¿owa Mikstura(Œ)
-27118	Ró¿owa Mikstura(D)
-27119	B³êkitna Mikstura(M)
-27120	B³êkitna Mikstura(Œ)
-27121	B³êkitna Mikstura(D)
-27400	Wêdka+1
-27410	Wêdka+2
-27420	Wêdka+3
-27430	Wêdka+4
-27440	Wêdka+5
-27450	Wêdka+6
-27460	Wêdka+7
-27470	Wêdka+8
-27480	Wêdka+9
-27490	Wêdka+10
-27500	Wêdka+11
-27510	Wêdka+12
-27520	Wêdka+13
-27530	Wêdka+14
-27540	Wêdka+15
-27550	Wêdka+16
-27560	Wêdka+17
-27570	Wêdka+18
-27580	Wêdka+19
-27590	Wêdka+20
+27116	RÃ³Å¼owa Mikstura(M)
+27117	RÃ³Å¼owa Mikstura(Åš)
+27118	RÃ³Å¼owa Mikstura(D)
+27119	BÅ‚Ä™kitna Mikstura(M)
+27120	BÅ‚Ä™kitna Mikstura(Åš)
+27121	BÅ‚Ä™kitna Mikstura(D)
+27400	WÄ™dka+1
+27410	WÄ™dka+2
+27420	WÄ™dka+3
+27430	WÄ™dka+4
+27440	WÄ™dka+5
+27450	WÄ™dka+6
+27460	WÄ™dka+7
+27470	WÄ™dka+8
+27480	WÄ™dka+9
+27490	WÄ™dka+10
+27500	WÄ™dka+11
+27510	WÄ™dka+12
+27520	WÄ™dka+13
+27530	WÄ™dka+14
+27540	WÄ™dka+15
+27550	WÄ™dka+16
+27560	WÄ™dka+17
+27570	WÄ™dka+18
+27580	WÄ™dka+19
+27590	WÄ™dka+20
 27600	Wysuszone Drzewo
 27610	Marmur Rybaka
-27620	Rybie Wnêtrznoœci
-27799	Rybia Oœæ
+27620	Rybie WnÄ™trznoÅ›ci
+27799	Rybia OÅ›Ä‡
 27800	Papka
 27801	Robak
 27802	Drobne Ryby
-27803	Karaœ
+27803	KaraÅ›
 27804	Ryba Mandaryna
-27805	Du¿y Karaœ
+27805	DuÅ¼y KaraÅ›
 27806	Karp
-27807	£osoœ
+27807	ÅosoÅ›
 27808	Amur
-27809	Pstr¹g
-27810	Wêgorz
-27811	Têczowy Pstr¹g
-27812	Rzeczny Pstr¹g
-27813	Krasnopiórka
-27814	Okoñ
+27809	PstrÄ…g
+27810	WÄ™gorz
+27811	TÄ™czowy PstrÄ…g
+27812	Rzeczny PstrÄ…g
+27813	KrasnopiÃ³rka
+27814	OkoÅ„
 27815	Tenchi
 27816	Sum
 27817	Piskorz
 27818	Ryba Lotosu
-27819	S³odka Ryba
+27819	SÅ‚odka Ryba
 27820	Gromadnik
 27821	Shiri
 27822	Lustrzany Karp
-27823	Z³oty Karaœ
-27833	Martwy Karaœ
+27823	ZÅ‚oty KaraÅ›
+27833	Martwy KaraÅ›
 27834	Martwa Ryba Mandaryna
-27835	Martwy Du¿y Karaœ
+27835	Martwy DuÅ¼y KaraÅ›
 27836	Martwy Karp
-27837	Martwy £osoœ
+27837	Martwy ÅosoÅ›
 27838	Martwy Amur
-27839	Martwy Pstr¹g
-27840	Martwy Wêgorz
-27841	Martwy Têczowy Pstr¹g
-27842	Martwy Rzeczny Pstr¹g
-27843	Martwa Krasnopiórka
-27844	Martwy Okoñ
+27839	Martwy PstrÄ…g
+27840	Martwy WÄ™gorz
+27841	Martwy TÄ™czowy PstrÄ…g
+27842	Martwy Rzeczny PstrÄ…g
+27843	Martwa KrasnopiÃ³rka
+27844	Martwy OkoÅ„
 27845	Martwa Tenchi
 27846	Martwy Sum
 27847	Martwy Piskorz
 27848	Martwa Ryba Lotosu
-27849	Martwa S³odka Ryba
+27849	Martwa SÅ‚odka Ryba
 27850	Martwy Gromadnik
 27851	Martwa Shiri
 27852	Martwy Lustrzany Karp
-27853	Martwy Z³oty Karaœ
-27863	Pieczony Karaœ
+27853	Martwy ZÅ‚oty KaraÅ›
+27863	Pieczony KaraÅ›
 27864	Pieczona Ryba Mandaryna
-27865	Pieczony Du¿y Karaœ
+27865	Pieczony DuÅ¼y KaraÅ›
 27866	Pieczony Karp
-27867	Pieczony £osoœ
+27867	Pieczony ÅosoÅ›
 27868	Pieczony Amur
-27869	Pieczony Pstr¹g
-27870	Pieczony Wêgorz
-27871	Pieczony Têczowy Pstr¹g
-27872	Pieczony Rzeczny Pstr¹g
-27873	Pieczona Krasnopiórka
-27874	Pieczony Okoñ
+27869	Pieczony PstrÄ…g
+27870	Pieczony WÄ™gorz
+27871	Pieczony TÄ™czowy PstrÄ…g
+27872	Pieczony Rzeczny PstrÄ…g
+27873	Pieczona KrasnopiÃ³rka
+27874	Pieczony OkoÅ„
 27875	Pieczony Tenchi
 27876	Pieczony Sum
 27877	Pieczony Piskorz
 27878	Pieczona Ryba Lotosu
-27879	Pieczona S³odka Ryba
+27879	Pieczona SÅ‚odka Ryba
 27880	Pieczony Gromadnik
 27881	Pieczona Shiri
 27882	Pieczony Lustrzany Karp
-27883	Pieczony Z³oty Karaœ
-27987	Ma³¿
-27988	Mapa Skarbów
+27883	Pieczony ZÅ‚oty KaraÅ›
+27987	MaÅ‚Å¼
+27988	Mapa SkarbÃ³w
 27989	Wykrywacz Kamieni Metin
-27990	Kawa³ek Kamienia
-27991	Kamieñ Wodny
-27992	Bia³a Per³a
-27993	Niebieska Per³a
-27994	Krwawa Per³a
+27990	KawaÅ‚ek Kamienia
+27991	KamieÅ„ Wodny
+27992	BiaÅ‚a PerÅ‚a
+27993	Niebieska PerÅ‚a
+27994	Krwawa PerÅ‚a
 27995	Pusta Butelka
-27996	Butelka Z Trucizn¹
-27997	Marmur Witalnoœci
+27996	Butelka Z TruciznÄ…
+27997	Marmur WitalnoÅ›ci
 27998	Sakiewka Alchemika
 27999	Sakiewka Kamieni Dusz
-28000	Kamieñ Duszy Masakry+0
-28004	Kamieñ Duszy Paranoi+0
-28008	Kamieñ Duszy Traumy+0
-28012	Kamieñ Duszy Likanów+0
-28030	Kamieñ Duszy Penetr.+0
-28031	Kamieñ Duszy Œmierci+0
-28032	Kamieñ Duszy Powtórki+0
-28033	Kamieñ Duszy Wojownika+0
-28034	Kamieñ Duszy Ninja+0
-28035	Kamieñ Duszy Sury+0
-28036	Kamieñ Duszy Szamana+0
-28037	Kamieñ Duszy Potwora+0
-28038	Kamieñ Duszy Uchylenia+0
-28039	Kamieñ Duszy Uniku+0
-28040	Kamieñ Duszy Magii+0
-28041	Kamieñ Witalnoœci+0
-28042	Kamieñ Duszy Obrony+0
-28043	Kamieñ Duszy Przysp.+0
-28100	Kamieñ Duszy Masakry+1
-28104	Kamieñ Duszy Paranoi+1
-28108	Kamieñ Duszy Traumy+1
-28112	Kamieñ Duszy Likanów+1
-28130	Kamieñ Duszy Penetr.+1
-28131	Kamieñ Duszy Œmierci+1
-28132	Kamieñ Duszy Powtórki+1
-28133	Kamieñ Duszy Wojownika+1
-28134	Kamieñ Duszy Ninja+1
-28135	Kamieñ Duszy Sury+1
-28136	Kamieñ Duszy Szamana+1
-28137	Kamieñ Duszy Potwora+1
-28138	Kamieñ Duszy Uchylenia+1
-28139	Kamieñ Duszy Uniku+1
-28140	Kamieñ Duszy Magii+1
-28141	Kamieñ Witalnoœci+1
-28142	Kamieñ Duszy Obrony+1
-28143	Kamieñ Duszy Przysp.+1
-28200	Kamieñ Duszy Masakry+2
-28204	Kamieñ Duszy Paranoi+2
-28208	Kamieñ Duszy Traumy+2
-28212	Kamieñ Duszy Likanów+2
-28230	Kamieñ Duszy Penetr.+2
-28231	Kamieñ Duszy Œmierci+2
-28232	Kamieñ Duszy Powtórki+2
-28233	Kamieñ Duszy Wojownika+2
-28234	Kamieñ Duszy Ninja+2
-28235	Kamieñ Duszy Sury+2
-28236	Kamieñ Duszy Szamana+2
-28237	Kamieñ Duszy Potwora+2
-28238	Kamieñ Duszy Uchylenia+2
-28239	Kamieñ Duszy Uniku+2
-28240	Kamieñ Duszy Magii+2
-28241	Kamieñ Witalnoœci+2
-28242	Kamieñ Duszy Obrony+2
-28243	Kamieñ Duszy Przysp.+2
-28300	Kamieñ Duszy Masakry+3
-28304	Kamieñ Duszy Paranoi+3
-28308	Kamieñ Duszy Traumy+3
-28312	Kamieñ Duszy Likanów+3
-28330	Kamieñ Duszy Penetr.+3
-28331	Kamieñ Duszy Œmierci+3
-28332	Kamieñ Duszy Powtórki+3
-28333	Kamieñ Duszy Wojownika+3
-28334	Kamieñ Duszy Ninja+3
-28335	Kamieñ Duszy Sury+3
-28336	Kamieñ Duszy Szamana+3
-28337	Kamieñ Duszy Potwora+3
-28338	Kamieñ Duszy Uchylenia+3
-28339	Kamieñ Duszy Uniku+3
-28340	Kamieñ Duszy Magii+3
-28341	Kamieñ Witalnoœci+3
-28342	Kamieñ Duszy Obrony+3
-28343	Kamieñ Duszy Przysp.+3
-28400	Kamieñ Duszy Masakry+4
-28404	Kamieñ Duszy Paranoi+4
-28408	Kamieñ Duszy Traumy+4
-28412	Kamieñ Duszy Likanów+4
-28430	Kamieñ Duszy Penetr.+4
-28431	Kamieñ Duszy Œmierci+4
-28432	Kamieñ Duszy Powtórki+4
-28433	Kamieñ Duszy Wojownika+4
-28434	Kamieñ Duszy Ninja+4
-28435	Kamieñ Duszy Sury+4
-28436	Kamieñ Duszy Szamana+4
-28437	Kamieñ Duszy Potwora+4
-28438	Kamieñ Duszy Uchylenia+4
-28439	Kamieñ Duszy Uniku+4
-28440	Kamieñ Duszy Magii+4
-28441	Kamieñ Witalnoœci+4
-28442	Kamieñ Duszy Obrony+4
-28443	Kamieñ Duszy Przysp.+4
-28500	Kamieñ Duszy Masakry+5
-28504	Kamieñ Duszy Paranoi+5
-28508	Kamieñ Duszy Traumy+5
-28512	Kamieñ Duszy G³upoty+5
-28530	Kamieñ Duszy Penetr.+5
-28531	Kamieñ Duszy Œmierci+5
-28532	Kamieñ Duszy Powtórki+5
-28533	Kamieñ Duszy Wojownika+5
-28534	Kamieñ Duszy Ninja+5
-28535	Kamieñ Duszy Sury+5
-28536	Kamieñ Duszy Szamana+5
-28537	Kamieñ Duszy Potwora+5
-28538	Kamieñ Duszy Uchylenia+5
-28539	Kamieñ Duszy Uniku+5
-28540	Kamieñ Duszy Magii+5
-28541	Kamieñ Witalnoœci+5
-28542	Kamieñ Duszy Obrony+5
-28543	Kamieñ Duszy Przysp.+5
-28600	Kamieñ Duszy Penetr.+6
-28601	Kamieñ Duszy Œmierci+6
-28602	Kamieñ Duszy Powtórki+6
-28603	Kamieñ Duszy Wojownika+6
-28604	Kamieñ Duszy Ninja+6
-28605	Kamieñ Duszy Sury+6
-28606	Kamieñ Duszy Szamana+6
-28607	Kamieñ Duszy Potwora+6
-28608	Kamieñ Duszy Uchylenia+6
-28609	Kamieñ Duszy Uniku+6
-28610	Kamieñ Duszy Magii+6
-28611	Kamieñ Witalnoœci+6
-28612	Kamieñ Duszy Obrony+6
-28613	Kamieñ Duszy Przysp.+6
-28630	Wodny Kamieñ Penetr.+5
-28631	Wodny Kamieñ Œmierci+5
-28632	Wodny Kamieñ Powtórki+5
-28633	Wodny Kamieñ Ninja+5
-28634	Wodny Kamieñ Ninja+5
-28635	Wodny Kamieñ Sury+5
-28636	Wodny Kamieñ Szamana+5
-28637	Wodny Kamieñ Potwora+5
-28638	Wodny Kamieñ Uchylenia+5
-28639	Wodny Kamieñ Uniku+5
-28640	Wodny Kamieñ Magii+5
-28641	Wodny Kamieñ Wital.+5
-28642	Wodny Kamieñ Obrony+5
-28643	Wodny Kamieñ Przysp.+5
-28700	Kamieñ Duszy Penetr.+7
-28701	Kamieñ Duszy Œmierci+7
-28702	Kamieñ Duszy Powtórki+7
-28703	Kamieñ Duszy Wojownika+7
-28704	Kamieñ Duszy Ninja+7
-28705	Kamieñ Duszy Sury+7
-28706	Kamieñ Duszy Szamana+7
-28707	Kamieñ Duszy Potwora+7
-28708	Kamieñ Duszy Uchylenia+7
-28709	Kamieñ Duszy Uniku+7
-28710	Kamieñ Duszy Magii+7
-28711	Kamieñ Witalnoœci+7
-28712	Kamieñ Duszy Obrony+7
-28713	Kamieñ Duszy Przysp.+7
-28730	Wodny Kamieñ Penetr.+7
-28731	Wodny Kamieñ Œmierci+7
-28732	Wodny Kamieñ Powtórki+7
-28733	Wodny Kamieñ Ninja+7
-28734	Wodny Kamieñ Ninja+7
-28735	Wodny Kamieñ Sury+7
-28736	Wodny Kamieñ Szamana+7
-28737	Wodny Kamieñ Potwora+7
-28738	Wodny Kamieñ Uchylenia+7
-28739	Wodny Kamieñ Uniku+7
-28740	Wodny Kamieñ Magii+7
-28741	Wodny Kamieñ Wital.+7
-28742	Wodny Kamieñ Obrony+7
-28743	Wodny Kamieñ Przysp.+7
-28800	Kamieñ Duszy Penetr.+8
-28801	Kamieñ Duszy Œmierci+8
-28802	Kamieñ Duszy Powtórki+8
-28803	Kamieñ Duszy Wojownika+8
-28804	Kamieñ Duszy Ninja+8
-28805	Kamieñ Duszy Sury+8
-28806	Kamieñ Duszy Szamana+8
-28807	Kamieñ Duszy Potwora+8
-28808	Kamieñ Duszy Uchylenia+8
-28809	Kamieñ Duszy Uniku+8
-28810	Kamieñ Duszy Magii+8
-28811	Kamieñ Witalnoœci+8
-28812	Kamieñ Duszy Obrony+8
-28813	Kamieñ Duszy Przysp.+8
-28830	Wodny Kamieñ Penetr.+8
-28831	Wodny Kamieñ Œmierci+8
-28832	Wodny Kamieñ Powtórki+8
-28833	Wodny Kamieñ Ninja+8
-28834	Wodny Kamieñ Ninja+8
-28835	Wodny Kamieñ Sury+8
-28836	Wodny Kamieñ Szamana+8
-28837	Wodny Kamieñ Potwora+8
-28838	Wodny Kamieñ Uchylenia+8
-28839	Wodny Kamieñ Uniku+8
-28840	Wodny Kamieñ Magii+8
-28841	Wodny Kamieñ Wital.+8
-28842	Wodny Kamieñ Obrony+8
-28843	Wodny Kamieñ Przysp.+8
-28900	Kamieñ Duszy Penetr.+9
-28901	Kamieñ Duszy Œmierci+9
-28902	Kamieñ Duszy Powtórki+9
-28903	Kamieñ Duszy Wojownika+9
-28904	Kamieñ Duszy Ninja+9
-28905	Kamieñ Duszy Sury+9
-28906	Kamieñ Duszy Szamana+9
-28907	Kamieñ Duszy Potwora+9
-28908	Kamieñ Duszy Uchylenia+9
-28909	Kamieñ Duszy Uniku+9
-28910	Kamieñ Duszy Magii+9
-28911	Kamieñ Witalnoœci+9
-28912	Kamieñ Duszy Obrony+9
-28913	Kamieñ Duszy Przysp.+9
-28930	Wodny Kamieñ Penetr.+9
-28931	Wodny Kamieñ Œmierci+9
-28932	Wodny Kamieñ Powtórki+9
-28933	Wodny Kamieñ Ninja+9
-28934	Wodny Kamieñ Ninja+9
-28935	Wodny Kamieñ Sury+9
-28936	Wodny Kamieñ Szamana+9
-28937	Wodny Kamieñ Potwora+9
-28938	Wodny Kamieñ Uchylenia+9
-28939	Wodny Kamieñ Uniku+9
-28940	Wodny Kamieñ Magii+9
-28941	Wodny Kamieñ Wital.+9
-28942	Wodny Kamieñ Obrony+9
-28943	Wodny Kamieñ Przysp.+9
-28960	Kawa³ek Pêkniêt. Kam.
+28000	KamieÅ„ Duszy Masakry+0
+28004	KamieÅ„ Duszy Paranoi+0
+28008	KamieÅ„ Duszy Traumy+0
+28012	KamieÅ„ Duszy LikanÃ³w+0
+28030	KamieÅ„ Duszy Penetr.+0
+28031	KamieÅ„ Duszy Åšmierci+0
+28032	KamieÅ„ Duszy PowtÃ³rki+0
+28033	KamieÅ„ Duszy Wojownika+0
+28034	KamieÅ„ Duszy Ninja+0
+28035	KamieÅ„ Duszy Sury+0
+28036	KamieÅ„ Duszy Szamana+0
+28037	KamieÅ„ Duszy Potwora+0
+28038	KamieÅ„ Duszy Uchylenia+0
+28039	KamieÅ„ Duszy Uniku+0
+28040	KamieÅ„ Duszy Magii+0
+28041	KamieÅ„ WitalnoÅ›ci+0
+28042	KamieÅ„ Duszy Obrony+0
+28043	KamieÅ„ Duszy Przysp.+0
+28100	KamieÅ„ Duszy Masakry+1
+28104	KamieÅ„ Duszy Paranoi+1
+28108	KamieÅ„ Duszy Traumy+1
+28112	KamieÅ„ Duszy LikanÃ³w+1
+28130	KamieÅ„ Duszy Penetr.+1
+28131	KamieÅ„ Duszy Åšmierci+1
+28132	KamieÅ„ Duszy PowtÃ³rki+1
+28133	KamieÅ„ Duszy Wojownika+1
+28134	KamieÅ„ Duszy Ninja+1
+28135	KamieÅ„ Duszy Sury+1
+28136	KamieÅ„ Duszy Szamana+1
+28137	KamieÅ„ Duszy Potwora+1
+28138	KamieÅ„ Duszy Uchylenia+1
+28139	KamieÅ„ Duszy Uniku+1
+28140	KamieÅ„ Duszy Magii+1
+28141	KamieÅ„ WitalnoÅ›ci+1
+28142	KamieÅ„ Duszy Obrony+1
+28143	KamieÅ„ Duszy Przysp.+1
+28200	KamieÅ„ Duszy Masakry+2
+28204	KamieÅ„ Duszy Paranoi+2
+28208	KamieÅ„ Duszy Traumy+2
+28212	KamieÅ„ Duszy LikanÃ³w+2
+28230	KamieÅ„ Duszy Penetr.+2
+28231	KamieÅ„ Duszy Åšmierci+2
+28232	KamieÅ„ Duszy PowtÃ³rki+2
+28233	KamieÅ„ Duszy Wojownika+2
+28234	KamieÅ„ Duszy Ninja+2
+28235	KamieÅ„ Duszy Sury+2
+28236	KamieÅ„ Duszy Szamana+2
+28237	KamieÅ„ Duszy Potwora+2
+28238	KamieÅ„ Duszy Uchylenia+2
+28239	KamieÅ„ Duszy Uniku+2
+28240	KamieÅ„ Duszy Magii+2
+28241	KamieÅ„ WitalnoÅ›ci+2
+28242	KamieÅ„ Duszy Obrony+2
+28243	KamieÅ„ Duszy Przysp.+2
+28300	KamieÅ„ Duszy Masakry+3
+28304	KamieÅ„ Duszy Paranoi+3
+28308	KamieÅ„ Duszy Traumy+3
+28312	KamieÅ„ Duszy LikanÃ³w+3
+28330	KamieÅ„ Duszy Penetr.+3
+28331	KamieÅ„ Duszy Åšmierci+3
+28332	KamieÅ„ Duszy PowtÃ³rki+3
+28333	KamieÅ„ Duszy Wojownika+3
+28334	KamieÅ„ Duszy Ninja+3
+28335	KamieÅ„ Duszy Sury+3
+28336	KamieÅ„ Duszy Szamana+3
+28337	KamieÅ„ Duszy Potwora+3
+28338	KamieÅ„ Duszy Uchylenia+3
+28339	KamieÅ„ Duszy Uniku+3
+28340	KamieÅ„ Duszy Magii+3
+28341	KamieÅ„ WitalnoÅ›ci+3
+28342	KamieÅ„ Duszy Obrony+3
+28343	KamieÅ„ Duszy Przysp.+3
+28400	KamieÅ„ Duszy Masakry+4
+28404	KamieÅ„ Duszy Paranoi+4
+28408	KamieÅ„ Duszy Traumy+4
+28412	KamieÅ„ Duszy LikanÃ³w+4
+28430	KamieÅ„ Duszy Penetr.+4
+28431	KamieÅ„ Duszy Åšmierci+4
+28432	KamieÅ„ Duszy PowtÃ³rki+4
+28433	KamieÅ„ Duszy Wojownika+4
+28434	KamieÅ„ Duszy Ninja+4
+28435	KamieÅ„ Duszy Sury+4
+28436	KamieÅ„ Duszy Szamana+4
+28437	KamieÅ„ Duszy Potwora+4
+28438	KamieÅ„ Duszy Uchylenia+4
+28439	KamieÅ„ Duszy Uniku+4
+28440	KamieÅ„ Duszy Magii+4
+28441	KamieÅ„ WitalnoÅ›ci+4
+28442	KamieÅ„ Duszy Obrony+4
+28443	KamieÅ„ Duszy Przysp.+4
+28500	KamieÅ„ Duszy Masakry+5
+28504	KamieÅ„ Duszy Paranoi+5
+28508	KamieÅ„ Duszy Traumy+5
+28512	KamieÅ„ Duszy GÅ‚upoty+5
+28530	KamieÅ„ Duszy Penetr.+5
+28531	KamieÅ„ Duszy Åšmierci+5
+28532	KamieÅ„ Duszy PowtÃ³rki+5
+28533	KamieÅ„ Duszy Wojownika+5
+28534	KamieÅ„ Duszy Ninja+5
+28535	KamieÅ„ Duszy Sury+5
+28536	KamieÅ„ Duszy Szamana+5
+28537	KamieÅ„ Duszy Potwora+5
+28538	KamieÅ„ Duszy Uchylenia+5
+28539	KamieÅ„ Duszy Uniku+5
+28540	KamieÅ„ Duszy Magii+5
+28541	KamieÅ„ WitalnoÅ›ci+5
+28542	KamieÅ„ Duszy Obrony+5
+28543	KamieÅ„ Duszy Przysp.+5
+28600	KamieÅ„ Duszy Penetr.+6
+28601	KamieÅ„ Duszy Åšmierci+6
+28602	KamieÅ„ Duszy PowtÃ³rki+6
+28603	KamieÅ„ Duszy Wojownika+6
+28604	KamieÅ„ Duszy Ninja+6
+28605	KamieÅ„ Duszy Sury+6
+28606	KamieÅ„ Duszy Szamana+6
+28607	KamieÅ„ Duszy Potwora+6
+28608	KamieÅ„ Duszy Uchylenia+6
+28609	KamieÅ„ Duszy Uniku+6
+28610	KamieÅ„ Duszy Magii+6
+28611	KamieÅ„ WitalnoÅ›ci+6
+28612	KamieÅ„ Duszy Obrony+6
+28613	KamieÅ„ Duszy Przysp.+6
+28630	Wodny KamieÅ„ Penetr.+5
+28631	Wodny KamieÅ„ Åšmierci+5
+28632	Wodny KamieÅ„ PowtÃ³rki+5
+28633	Wodny KamieÅ„ Ninja+5
+28634	Wodny KamieÅ„ Ninja+5
+28635	Wodny KamieÅ„ Sury+5
+28636	Wodny KamieÅ„ Szamana+5
+28637	Wodny KamieÅ„ Potwora+5
+28638	Wodny KamieÅ„ Uchylenia+5
+28639	Wodny KamieÅ„ Uniku+5
+28640	Wodny KamieÅ„ Magii+5
+28641	Wodny KamieÅ„ Wital.+5
+28642	Wodny KamieÅ„ Obrony+5
+28643	Wodny KamieÅ„ Przysp.+5
+28700	KamieÅ„ Duszy Penetr.+7
+28701	KamieÅ„ Duszy Åšmierci+7
+28702	KamieÅ„ Duszy PowtÃ³rki+7
+28703	KamieÅ„ Duszy Wojownika+7
+28704	KamieÅ„ Duszy Ninja+7
+28705	KamieÅ„ Duszy Sury+7
+28706	KamieÅ„ Duszy Szamana+7
+28707	KamieÅ„ Duszy Potwora+7
+28708	KamieÅ„ Duszy Uchylenia+7
+28709	KamieÅ„ Duszy Uniku+7
+28710	KamieÅ„ Duszy Magii+7
+28711	KamieÅ„ WitalnoÅ›ci+7
+28712	KamieÅ„ Duszy Obrony+7
+28713	KamieÅ„ Duszy Przysp.+7
+28730	Wodny KamieÅ„ Penetr.+7
+28731	Wodny KamieÅ„ Åšmierci+7
+28732	Wodny KamieÅ„ PowtÃ³rki+7
+28733	Wodny KamieÅ„ Ninja+7
+28734	Wodny KamieÅ„ Ninja+7
+28735	Wodny KamieÅ„ Sury+7
+28736	Wodny KamieÅ„ Szamana+7
+28737	Wodny KamieÅ„ Potwora+7
+28738	Wodny KamieÅ„ Uchylenia+7
+28739	Wodny KamieÅ„ Uniku+7
+28740	Wodny KamieÅ„ Magii+7
+28741	Wodny KamieÅ„ Wital.+7
+28742	Wodny KamieÅ„ Obrony+7
+28743	Wodny KamieÅ„ Przysp.+7
+28800	KamieÅ„ Duszy Penetr.+8
+28801	KamieÅ„ Duszy Åšmierci+8
+28802	KamieÅ„ Duszy PowtÃ³rki+8
+28803	KamieÅ„ Duszy Wojownika+8
+28804	KamieÅ„ Duszy Ninja+8
+28805	KamieÅ„ Duszy Sury+8
+28806	KamieÅ„ Duszy Szamana+8
+28807	KamieÅ„ Duszy Potwora+8
+28808	KamieÅ„ Duszy Uchylenia+8
+28809	KamieÅ„ Duszy Uniku+8
+28810	KamieÅ„ Duszy Magii+8
+28811	KamieÅ„ WitalnoÅ›ci+8
+28812	KamieÅ„ Duszy Obrony+8
+28813	KamieÅ„ Duszy Przysp.+8
+28830	Wodny KamieÅ„ Penetr.+8
+28831	Wodny KamieÅ„ Åšmierci+8
+28832	Wodny KamieÅ„ PowtÃ³rki+8
+28833	Wodny KamieÅ„ Ninja+8
+28834	Wodny KamieÅ„ Ninja+8
+28835	Wodny KamieÅ„ Sury+8
+28836	Wodny KamieÅ„ Szamana+8
+28837	Wodny KamieÅ„ Potwora+8
+28838	Wodny KamieÅ„ Uchylenia+8
+28839	Wodny KamieÅ„ Uniku+8
+28840	Wodny KamieÅ„ Magii+8
+28841	Wodny KamieÅ„ Wital.+8
+28842	Wodny KamieÅ„ Obrony+8
+28843	Wodny KamieÅ„ Przysp.+8
+28900	KamieÅ„ Duszy Penetr.+9
+28901	KamieÅ„ Duszy Åšmierci+9
+28902	KamieÅ„ Duszy PowtÃ³rki+9
+28903	KamieÅ„ Duszy Wojownika+9
+28904	KamieÅ„ Duszy Ninja+9
+28905	KamieÅ„ Duszy Sury+9
+28906	KamieÅ„ Duszy Szamana+9
+28907	KamieÅ„ Duszy Potwora+9
+28908	KamieÅ„ Duszy Uchylenia+9
+28909	KamieÅ„ Duszy Uniku+9
+28910	KamieÅ„ Duszy Magii+9
+28911	KamieÅ„ WitalnoÅ›ci+9
+28912	KamieÅ„ Duszy Obrony+9
+28913	KamieÅ„ Duszy Przysp.+9
+28930	Wodny KamieÅ„ Penetr.+9
+28931	Wodny KamieÅ„ Åšmierci+9
+28932	Wodny KamieÅ„ PowtÃ³rki+9
+28933	Wodny KamieÅ„ Ninja+9
+28934	Wodny KamieÅ„ Ninja+9
+28935	Wodny KamieÅ„ Sury+9
+28936	Wodny KamieÅ„ Szamana+9
+28937	Wodny KamieÅ„ Potwora+9
+28938	Wodny KamieÅ„ Uchylenia+9
+28939	Wodny KamieÅ„ Uniku+9
+28940	Wodny KamieÅ„ Magii+9
+28941	Wodny KamieÅ„ Wital.+9
+28942	Wodny KamieÅ„ Obrony+9
+28943	Wodny KamieÅ„ Przysp.+9
+28960	KawaÅ‚ek PÄ™kniÄ™t. Kam.
 29001	Muszla
 29002	Niebieska Muszla
-29003	¯ó³ta Muszla
+29003	Å»Ã³Å‚ta Muszla
 29004	Czerwona Muszla
 29005	Zielona Muszla
-29006	¯ó³ty Kamieñ Winny
-29007	Niebieski Kamieñ Winny
-29008	Niebieska Œwiêta Woda
-29009	¯ó³ta Œwiêta Woda
-29010	Czerwona Œwiêta Woda
-29011	Zielona Œwiêta Woda
-29012	Ciemno-Nieb. Rêka Boga
-29013	Jasno-¯ó³ta Œwiêta Woda
-29014	Jasno-Czerw. Œwiêta Woda
-29015	Ciemno-Ziel. Rêka Boga
+29006	Å»Ã³Å‚ty KamieÅ„ Winny
+29007	Niebieski KamieÅ„ Winny
+29008	Niebieska ÅšwiÄ™ta Woda
+29009	Å»Ã³Å‚ta ÅšwiÄ™ta Woda
+29010	Czerwona ÅšwiÄ™ta Woda
+29011	Zielona ÅšwiÄ™ta Woda
+29012	Ciemno-Nieb. RÄ™ka Boga
+29013	Jasno-Å»Ã³Å‚ta ÅšwiÄ™ta Woda
+29014	Jasno-Czerw. ÅšwiÄ™ta Woda
+29015	Ciemno-Ziel. RÄ™ka Boga
 29101	Kilof+0
 29102	Kilof+1
 29103	Kilof+2
@@ -3389,211 +3389,211 @@ VNUM	LOCALE_NAME
 29108	Kilof+7
 29109	Kilof+8
 29110	Kilof+9
-30000	Jêczmieñ
+30000	JÄ™czmieÅ„
 30001	List
-30002	Pieczona Kie³basa
-30003	Nos Œwini
-30004	Z¹b Dzika
-30005	Kawa³ek Zepsutej Zbroi
-30006	Z¹b Orka
+30002	Pieczona KieÅ‚basa
+30003	Nos Åšwini
+30004	ZÄ…b Dzika
+30005	KawaÅ‚ek Zepsutej Zbroi
+30006	ZÄ…b Orka
 30007	Amulet Orka
 30008	Ezoteryczny Przewodnik
 30009	Nieznane Lekarstwo
-30010	¯ó³æ NiedŸwiedzia
-30011	K³¹b
+30010	Å»Ã³Å‚Ä‡ NiedÅºwiedzia
+30011	KÅ‚Ä…b
 30012	Butelka Wina
 30013	Dzban Likieru
 30014	Futro Yeti
-30015	Pami¹tka Po Demonie
+30015	PamiÄ…tka Po Demonie
 30016	Klejnot Demona
-30017	Ozdobna Spinka Do W³osów
-30018	Czerwona Wstêga
-30019	P³on¹ca Grzywa
+30017	Ozdobna Spinka Do WÅ‚osÃ³w
+30018	Czerwona WstÄ™ga
+30019	PÅ‚onÄ…ca Grzywa
 30020	Nasionko Brzoskwini
-30021	Kawa³ek Klejnotu
-30022	Ogon Wê¿a
-30023	Futro Bia³ego Tygrysa
+30021	KawaÅ‚ek Klejnotu
+30022	Ogon WÄ™Å¼a
+30023	Futro BiaÅ‚ego Tygrysa
 30024	Ogon Konia
-30025	Worek z Pajêcz¹ Trucizn¹
+30025	Worek z PajÄ™czÄ… TruciznÄ…
 30026	Kiszka Wilka
 30027	Futro Wilka
 30028	Szpon Wilka
-30029	W¹troba Wilka
-30030	Zardzewia³e Ostrze
+30029	WÄ…troba Wilka
+30030	ZardzewiaÅ‚e Ostrze
 30031	Ornament
 30032	Czarny Uniform
-30033	St³uczona Porcelana
-30034	Bia³a Wstêga
+30033	StÅ‚uczona Porcelana
+30034	BiaÅ‚a WstÄ™ga
 30035	Krem Do Twarzy
-30036	Mistyczne Zio³o
+30036	Mistyczne ZioÅ‚o
 30037	Szpon Tygrysa
-30038	Skóra Tygrysa
-30039	Kawa³ek P³ótna
-30040	Liœæ
+30038	SkÃ³ra Tygrysa
+30039	KawaÅ‚ek PÅ‚Ã³tna
+30040	LiÅ›Ä‡
 30041	Shuriken
 30042	Pazur Tygrysa
 30043	Fasola
 30044	Glina
-30045	Ig³a Skorpiona
+30045	IgÅ‚a Skorpiona
 30046	Ogon Skorpiona
-30047	Ksiêga Kl¹tw
-30048	Kawa³ek Lodu
-30049	Lodowy Róg Wieloryba
-30050	Matowy Lód
+30047	KsiÄ™ga KlÄ…tw
+30048	KawaÅ‚ek Lodu
+30049	Lodowy RÃ³g Wieloryba
+30050	Matowy LÃ³d
 30051	Nieznany Talizman
 30052	Flaga
-30053	NiedŸwiedzia Skóra
-30054	Obr¹czka Œlubna
+30053	NiedÅºwiedzia SkÃ³ra
+30054	ObrÄ…czka Åšlubna
 30055	Szpon Skorpiona
-30056	Pajêcza Sieæ
-30057	Oczy Paj¹ka
-30058	Worek Z Pajêcz. Jajami
-30059	Nogi Paj¹ka
-30060	Jêzyk ¯aby
-30061	¯abie Udka
+30056	PajÄ™cza SieÄ‡
+30057	Oczy PajÄ…ka
+30058	Worek Z PajÄ™cz. Jajami
+30059	Nogi PajÄ…ka
+30060	JÄ™zyk Å»aby
+30061	Å»abie Udka
 30062	Czara Lekarstwa
-30063	Lekarstwo Na Skórê
-30064	Ostry Kamieñ
+30063	Lekarstwo Na SkÃ³rÄ™
+30064	Ostry KamieÅ„
 30065	Dzwonek
 30066	Ostry Pieprz
-30067	Skóra Wê¿a
+30067	SkÃ³ra WÄ™Å¼a
 30068	Stek Z Tofu
 30069	Szpon Wilka+
 30070	Futro Wilka+
-30071	¯ó³æ NiedŸwiedzia+
-30072	NiedŸwiedzia Skóra+
-30073	Bia³a Wstêga+
+30071	Å»Ã³Å‚Ä‡ NiedÅºwiedzia+
+30072	NiedÅºwiedzia SkÃ³ra+
+30073	BiaÅ‚a WstÄ™ga+
 30074	Czarny Uniform+
 30075	Shuriken+
 30076	Amulet Orka+
-30077	Z¹b Orka+
+30077	ZÄ…b Orka+
 30078	Ezoteryczny Przewodnik+
 30079	Nieznany Talizman+
-30080	Ksiêga Kl¹tw+
+30080	KsiÄ™ga KlÄ…tw+
 30081	Ogon Skorpiona+
-30082	Ogon Wê¿a+
+30082	Ogon WÄ™Å¼a+
 30083	Nieznane Lekarstwo+
 30084	Nieznany Talizman+
-30085	Kawa³ek P³ótna+
-30086	Pami¹tka Po Demonie+
+30085	KawaÅ‚ek PÅ‚Ã³tna+
+30086	PamiÄ…tka Po Demonie+
 30087	Klejnot Demona+
-30088	Kawa³ek Lodu+
+30088	KawaÅ‚ek Lodu+
 30089	Futro Yeti+
-30090	Matowy Lód+
+30090	Matowy LÃ³d+
 30091	Symbol Wojownika
 30092	Zdobycz Dzikusa
-30093	Torba Szczêœcia
-30094	Torba Szczêœcia
-30095	Torba Szczêœcia
-30096	Torba Szczêœcia
-30097	Sakwa Szczêœcia
-30098	Torba Szczêœcia
-30099	Torba Szczêœcia
-30100	Torba Szczêœcia
-30101	Obr¹czka Ariyoung
-30102	Z³oty Topór
-30103	Z³oty Z¹b Orka
-30104	Sieæ Paj¹ka Pustynnego
+30093	Torba SzczÄ™Å›cia
+30094	Torba SzczÄ™Å›cia
+30095	Torba SzczÄ™Å›cia
+30096	Torba SzczÄ™Å›cia
+30097	Sakwa SzczÄ™Å›cia
+30098	Torba SzczÄ™Å›cia
+30099	Torba SzczÄ™Å›cia
+30100	Torba SzczÄ™Å›cia
+30101	ObrÄ…czka Ariyoung
+30102	ZÅ‚oty TopÃ³r
+30103	ZÅ‚oty ZÄ…b Orka
+30104	SieÄ‡ PajÄ…ka Pustynnego
 30105	Kolcz. Ogon Skorpiona
 30106	Lekarstwo na Yu-Rang
 30107	Pazur Orka
 30108	Emalia Ceramiczna
-30109	Sieæ Paj¹ka Pustynnego
+30109	SieÄ‡ PajÄ…ka Pustynnego
 30110	List Od Huahn-So
-30111	Sk¹py Ogon Skorpiona
-30112	Wêgorz
+30111	SkÄ…py Ogon Skorpiona
+30112	WÄ™gorz
 30113	Tajemny Regulamin
 30114	Plaga
-30115	Lek Na Plagê
-30116	¯abie Udka
+30115	Lek Na PlagÄ™
+30116	Å»abie Udka
 30117	List
-30118	Szkatu³a Klejnot. Demona
+30118	SzkatuÅ‚a Klejnot. Demona
 30119	Dzwon
-30120	Kawa³ek Mapy
-30121	Kawa³ek Mapy
-30122	Kawa³ek Mapy
-30123	Kawa³ek Mapy
-30124	Kawa³ek Mapy
-30125	Kawa³ek Mapy
-30126	Kawa³ek Mapy
-30127	Kawa³ek Mapy
-30128	Kawa³ek Mapy
-30129	Rozkaz JeŸdŸcy
+30120	KawaÅ‚ek Mapy
+30121	KawaÅ‚ek Mapy
+30122	KawaÅ‚ek Mapy
+30123	KawaÅ‚ek Mapy
+30124	KawaÅ‚ek Mapy
+30125	KawaÅ‚ek Mapy
+30126	KawaÅ‚ek Mapy
+30127	KawaÅ‚ek Mapy
+30128	KawaÅ‚ek Mapy
+30129	Rozkaz JeÅºdÅºcy
 30130	Pusta Butelka
 30131	List Od Kowala
-30132	Ksiêga Uriela
+30132	KsiÄ™ga Uriela
 30133	Kwieciste Buty
-30134	Przesy³ka Uriela
+30134	PrzesyÅ‚ka Uriela
 30135	List Od Ariyoung
-30136	Rozrzutnie Ozdobiony £uk
-30137	Krew Ma³py
+30136	Rozrzutnie Ozdobiony Åuk
+30137	Krew MaÅ‚py
 30138	Pustynny Piasek
-30139	Kie³ Orka
+30139	KieÅ‚ Orka
 30140	Nici
 30141	Ozdobny Diament
 30142	List
-30143	Zio³a Lecznicze
-30144	W¹troba Tygrysa
+30143	ZioÅ‚a Lecznicze
+30144	WÄ…troba Tygrysa
 30145	Lekarstwo Balsosa
-30146	Kawa³ Lodu
-30147	Œwi¹tynna Doktryna
-30148	Œwi¹tynny Szal
+30146	KawaÅ‚ Lodu
+30147	ÅšwiÄ…tynna Doktryna
+30148	ÅšwiÄ…tynny Szal
 30149	Lody z Syropem
-30150	Strona Pamiêtnika
-30151	Skóra Wilka
+30150	Strona PamiÄ™tnika
+30151	SkÃ³ra Wilka
 30152	Lekarstwo
 30153	Kwiaty
-30154	Sekretna Ksiêga Œwi¹tyni
+30154	Sekretna KsiÄ™ga ÅšwiÄ…tyni
 30155	Amulet Mirine
-30156	Sekretna Ksiêga Œwi¹tyni
-30157	Grot Strza³y
-30158	Ciastka Ry¿owe
+30156	Sekretna KsiÄ™ga ÅšwiÄ…tyni
+30157	Grot StrzaÅ‚y
+30158	Ciastka RyÅ¼owe
 30159	Ubrania
-30160	Wiadomoœci
-30161	Oszczep Mê¿a
-30162	Oko Paj¹ka
+30160	WiadomoÅ›ci
+30161	Oszczep MÄ™Å¼a
+30162	Oko PajÄ…ka
 30163	Instr. Muzyczny Yuhwan
-30164	T³umaczenie Ksiêgi Kl¹tw
+30164	TÅ‚umaczenie KsiÄ™gi KlÄ…tw
 30165	Konar Zelkova
 30166	Certyfikat Tugyisa
 30167	Czerw. Konar Duchodrzewa
-30168	Notatka Przywódcy
+30168	Notatka PrzywÃ³dcy
 30169	Krwisty Kwiat
-30170	Pomarañczowy Kwiat
-30171	¯ó³ty Kwiat
-30172	Bukiet z Kwiatów
+30170	PomaraÅ„czowy Kwiat
+30171	Å»Ã³Å‚ty Kwiat
+30172	Bukiet z KwiatÃ³w
 30173	Futro Mu-Rang
-30174	£apa NiedŸwiedzia
+30174	Åapa NiedÅºwiedzia
 30175	Harpun na Wieloryby
-30176	Lœni¹ce Futro Tygrysa
-30177	Olejek Pi¿mowy
-30178	Kamieñ Glyph
-30179	Krêty Klucz
-30180	Amulet Boga Smoków
+30176	LÅ›niÄ…ce Futro Tygrysa
+30177	Olejek PiÅ¼mowy
+30178	KamieÅ„ Glyph
+30179	KrÄ™ty Klucz
+30180	Amulet Boga SmokÃ³w
 30181	Strona
-30182	Legendarny Pamiêtnik
-30183	Posêpna Drewniana Maska
-30184	Zaczarowany Popió³
-30185	Czarny Lód
-30186	Skamienia³a £za
+30182	Legendarny PamiÄ™tnik
+30183	PosÄ™pna Drewniana Maska
+30184	Zaczarowany PopiÃ³Å‚
+30185	Czarny LÃ³d
+30186	SkamieniaÅ‚a Åza
 30187	Kropla Krwi
 30188	Obsydian
-30189	£zy Baljit-Elvedin
-30190	Krwisty Kamieñ
-30191	Krwisty Kamieñ
+30189	Åzy Baljit-Elvedin
+30190	Krwisty KamieÅ„
+30191	Krwisty KamieÅ„
 30192	Mleczny Sok
-30193	Koœæ Palca
+30193	KoÅ›Ä‡ Palca
 30194	Orkowa Maczuga
 30195	Piasek Kwarcowy
 30196	Demoniczne Prochy
 30197	Magiczne Nasiona
-30198	Wodny Kryszta³
-30199	Niebieski Kryszta³
-30201	Pierœcionek Zemsty
+30198	Wodny KrysztaÅ‚
+30199	Niebieski KrysztaÅ‚
+30201	PierÅ›cionek Zemsty
 30202	Ucho Tanaka
-30203	Kryszta³
-30204	Kawa³ek Kryszta³u
-30205	Materia³ Produkcyjny
+30203	KrysztaÅ‚
+30204	KawaÅ‚ek KrysztaÅ‚u
+30205	MateriaÅ‚ Produkcyjny
 30210	Fragment Klejnotu
 30211	Fragment Klejnotu
 30212	Fragment Klejnotu
@@ -3604,73 +3604,73 @@ VNUM	LOCALE_NAME
 30217	Fragment Klejnotu
 30218	Fragment Klejnotu
 30219	Fragment Klejnotu
-30220	Kamieñ Duszy Jinunggyi
-30221	Œwi¹tynny Kamieñ Duszy
-30222	Kamieñ Duszy Sagyi
-30223	Kamieñ Duszy Aurtumryu
-30224	Kamieñ Duszy Gyimok
-30225	Kamieñ Duszy Tugyi
-30226	Kamieñ Duszy Lasu
-30227	Kamieñ Liderów
-30228	Kamieñ Dusz Beran-Setaou
-30251	Klejnot Zawiœci
-30252	Klejnot M¹droœci
-30253	Klejnot Wiernoœci
+30220	KamieÅ„ Duszy Jinunggyi
+30221	ÅšwiÄ…tynny KamieÅ„ Duszy
+30222	KamieÅ„ Duszy Sagyi
+30223	KamieÅ„ Duszy Aurtumryu
+30224	KamieÅ„ Duszy Gyimok
+30225	KamieÅ„ Duszy Tugyi
+30226	KamieÅ„ Duszy Lasu
+30227	KamieÅ„ LiderÃ³w
+30228	KamieÅ„ Dusz Beran-Setaou
+30251	Klejnot ZawiÅ›ci
+30252	Klejnot MÄ…droÅ›ci
+30253	Klejnot WiernoÅ›ci
 30254	NoNAme
-30265	Czêœæ Medalu (1)
-30266	Czêœæ Medalu (2)
-30267	Czêœæ Medalu (3)
-30268	Czêœæ Medalu (4)
-30269	Czêœæ Medalu (5)
-30270	Od³amek Smocz. Kamienia
+30265	CzÄ™Å›Ä‡ Medalu (1)
+30266	CzÄ™Å›Ä‡ Medalu (2)
+30267	CzÄ™Å›Ä‡ Medalu (3)
+30268	CzÄ™Å›Ä‡ Medalu (4)
+30269	CzÄ™Å›Ä‡ Medalu (5)
+30270	OdÅ‚amek Smocz. Kamienia
 30300	Nieznana Stara Skrzynia
-30301	Mapa Wie¿y Sa-Gui
-30302	Mapa Wie¿y Zin-Sa-Gui
+30301	Mapa WieÅ¼y Sa-Gui
+30302	Mapa WieÅ¼y Zin-Sa-Gui
 30303	Klucz Bong-In
 30304	Klucz Zin-Bong-In
-30311	Klucz Kryszta³u Duszy
+30311	Klucz KrysztaÅ‚u Duszy
 30312	Upiorny Totem
 30315	Chleb
-30316	Talerz Dobroczynnoœci
+30316	Talerz DobroczynnoÅ›ci
 30317	Datek Chleba
-30318	Owoc B³ogos³awieñstwa
-30319	Zasuszona G³owa
-30320	Zasuszona G³owa
+30318	Owoc BÅ‚ogosÅ‚awieÅ„stwa
+30319	Zasuszona GÅ‚owa
+30320	Zasuszona GÅ‚owa
 30321	Upiorna Dynia
-30322	Czarodziejska Ró¿d¿ka
+30322	Czarodziejska RÃ³Å¼dÅ¼ka
 30323	Karta Maski Dyni
-30324	Pajêczy Klucz
-30325	Pajêczy Klucz
-30326	Jad Królowej Paj¹ków
-30327	Pajêczy Flet
-30329	Z³ota Zêbatka
-30330	Kamieñ Maat
-30500	Rubinowy Ozdobny Nó¿
-30501	Z³ota Sprz¹czka
+30324	PajÄ™czy Klucz
+30325	PajÄ™czy Klucz
+30326	Jad KrÃ³lowej PajÄ…kÃ³w
+30327	PajÄ™czy Flet
+30329	ZÅ‚ota ZÄ™batka
+30330	KamieÅ„ Maat
+30500	Rubinowy Ozdobny NÃ³Å¼
+30501	ZÅ‚ota SprzÄ…czka
 30502	Rubinowa Ozdoba
-30503	Ametystowy Ozdobny Nó¿
+30503	Ametystowy Ozdobny NÃ³Å¼
 30504	Srebrny Zacisk
 30505	Szmaragdowa Ozdoba
-30506	Szafirowy Ozdobny Nó¿
-30507	Br¹zowy Zacisk
+30506	Szafirowy Ozdobny NÃ³Å¼
+30507	BrÄ…zowy Zacisk
 30508	Szafirowa Ozdoba
 30509	Niebieska Smocza Stal
 30510	Wytworny Naramiennik
-30511	Czerwony Materia³
+30511	Czerwony MateriaÅ‚
 30512	Czerwona Smocza Stal
 30513	Szlachetny Naramiennik
-30514	Fioletowy Materia³
+30514	Fioletowy MateriaÅ‚
 30515	Purpurowa Smocza Stal
 30516	Antyczny Naramiennik
-30517	Z³oty Materia³
-30518	Z³ota Przêdza
-30519	Z³oty Hak
-30520	Z³ota Spinka
-30521	Element Pierœcienia
-30522	Ogniwa £añcucha
+30517	ZÅ‚oty MateriaÅ‚
+30518	ZÅ‚ota PrzÄ™dza
+30519	ZÅ‚oty Hak
+30520	ZÅ‚ota Spinka
+30521	Element PierÅ›cienia
+30522	Ogniwa ÅaÅ„cucha
 30523	Element Ozdoby
-30524	Kamieñ P³omienia
-30525	Kamieñ Lodowe. P³omienia
+30524	KamieÅ„ PÅ‚omienia
+30525	KamieÅ„ Lodowe. PÅ‚omienia
 30526	NoNAme
 30527	NoNAme
 30528	NoNAme
@@ -3735,11 +3735,11 @@ VNUM	LOCALE_NAME
 31001	Kopia Inskrypcji
 31002	Stary Dokument
 31003	Antidotum
-31004	Œwiêcona ¯ywica
-31005	Nieb. Esencja Kryszta³u
-31006	Czerw. Kwarc Piekie³
+31004	ÅšwiÄ™cona Å»ywica
+31005	Nieb. Esencja KrysztaÅ‚u
+31006	Czerw. Kwarc PiekieÅ‚
 31007	Ziemia Wulkaniczna
-31008	£za Niebios
+31008	Åza Niebios
 31009	List do Gnolli
 31010	List do Bandy Czerwonych
 31011	NoNAme
@@ -3748,33 +3748,33 @@ VNUM	LOCALE_NAME
 31014	NoNAme
 31015	List Kapitana Haaka
 31016	List Lee Chunga
-31017	Zapieczêtowany List
+31017	ZapieczÄ™towany List
 31018	Skrypt Karapaks
 31019	Proszek Karapaks
 31020	Korzonek Skalnego Kwiatu
 31021	NoNAme
-31022	£uska Oin
+31022	Åuska Oin
 31023	NoNAme
-31024	Skóra Mantykory
+31024	SkÃ³ra Mantykory
 31025	NoNAme
 31026	Pancerz Skorupiaka
 31027	Drobny Piasek
-31028	Ceg³a
-31029	Wewnêtrzne Œwiat³o
-31030	Wewnêtrzne Œwiat³o
+31028	CegÅ‚a
+31029	WewnÄ™trzne ÅšwiatÅ‚o
+31030	WewnÄ™trzne ÅšwiatÅ‚o
 31031	Esencja Milenium
-31032	Per³y Syriusza
+31032	PerÅ‚y Syriusza
 31033	Peleryna Wodza
-31034	Totem Gigantów
-31035	Czarny Kamieñ
-31036	Czarne Z³oto
-31037	Skórzana Sakiewka
-31038	Poœwiêcona Ziemia
+31034	Totem GigantÃ³w
+31035	Czarny KamieÅ„
+31036	Czarne ZÅ‚oto
+31037	SkÃ³rzana Sakiewka
+31038	PoÅ›wiÄ™cona Ziemia
 31039	Sakiewka z Monetami
-31040	Z³oty Order
-31041	Skamienia³a Ziemia
-31042	W³ócznia Trytona
-31043	Tablica Lemurów
+31040	ZÅ‚oty Order
+31041	SkamieniaÅ‚a Ziemia
+31042	WÅ‚Ã³cznia Trytona
+31043	Tablica LemurÃ³w
 31044	NoNAme
 31045	NoNAme
 31046	NoNAme
@@ -3782,7 +3782,7 @@ VNUM	LOCALE_NAME
 31048	NoNAme
 31049	NoNAme
 31050	NoNAme
-31051	¯elazo
+31051	Å»elazo
 31052	NoNAme
 31053	NoNAme
 31054	NoNAme
@@ -3804,17 +3804,17 @@ VNUM	LOCALE_NAME
 31070	NoNAme
 31071	NoNAme
 31072	NoNAme
-31073	Opaska Posz. Z³ota
+31073	Opaska Posz. ZÅ‚ota
 31074	Wysadzany Naszyjnik
 31075	Kolczatka
-31076	S³oneczne Zio³a
-31077	Proszek z Kam.Wêgielnego
+31076	SÅ‚oneczne ZioÅ‚a
+31077	Proszek z Kam.WÄ™gielnego
 31078	Czysty Lumen
 31079	List do Yak-Hwan
-31080	Krew Ognistego Króla
+31080	Krew Ognistego KrÃ³la
 31081	Czarna Materia
-31082	Pierœcieñ Magmy
-31083	Pierœcieñ Samaela
+31082	PierÅ›cieÅ„ Magmy
+31083	PierÅ›cieÅ„ Samaela
 31084	Deszczowy Olejek
 31085	NoNAme
 31086	NoNAme
@@ -3822,10 +3822,10 @@ VNUM	LOCALE_NAME
 31088	NoNAme
 31089	NoNAme
 31090	NoNAme
-31091	Krew Ognistego Króla
+31091	Krew Ognistego KrÃ³la
 31092	NoNAme
-35000	Zio³a Lecznicze+
-35001	W¹troba Tygrysa+
+35000	ZioÅ‚a Lecznicze+
+35001	WÄ…troba Tygrysa+
 38001	VIP-Feature
 38002	Tombola_ticket_today
 38003	Tombola_ticket_tomorrow
@@ -3834,80 +3834,80 @@ VNUM	LOCALE_NAME
 38006	Momo-Reroll
 38010	Pakiet Yang
 38050	Skrzynia Mocy
-38051	Kryszta³ Tygr. Bengalsk.
-38052	Skrzynia Królów
+38051	KrysztaÅ‚ Tygr. Bengalsk.
+38052	Skrzynia KrÃ³lÃ³w
 38053	Skrzynia Wiecznej Zimy
 38054	Skrzynia Burzy Pustynnej
 38055	Skrzynia Szczeniaka
-38056	Skrzynia Œwi¹t
-38057	Skrzynia Pó³nocy
-38100	Mega Przek¹ska (7 dni)
-38101	Mega Przek¹ska (15 dni)
-38102	Mega Przek¹ska (30 dni)
-38200	Pieczêæ Rufusa
-38201	Pieczêæ Rufusa
-39001	Magiczny Kamieñ
-39002	Pierœcieñ Doœwiadczenia
+38056	Skrzynia ÅšwiÄ…t
+38057	Skrzynia PÃ³Å‚nocy
+38100	Mega PrzekÄ…ska (7 dni)
+38101	Mega PrzekÄ…ska (15 dni)
+38102	Mega PrzekÄ…ska (30 dni)
+38200	PieczÄ™Ä‡ Rufusa
+38201	PieczÄ™Ä‡ Rufusa
+39001	Magiczny KamieÅ„
+39002	PierÅ›cieÅ„ DoÅ›wiadczenia
 39003	Wino z Kwiatu Brzoskwini
-39004	Marmur B³ogos³awieñstwa
+39004	Marmur BÅ‚ogosÅ‚awieÅ„stwa
 39005	Magiczna Ruda Miedzi
-39006	Peleryna Mêstwa
-39007	Podrêcznik Kowala
-39008	Zwój Egzorcyzmu
-39009	Zwój Powrotu Umiejêtn.
+39006	Peleryna MÄ™stwa
+39007	PodrÄ™cznik Kowala
+39008	ZwÃ³j Egzorcyzmu
+39009	ZwÃ³j Powrotu UmiejÄ™tn.
 39010	Mikstura Ataku +10
-39011	B³ogos³awieñstwo ¯ycia
-39012	B³ogos³awieñstwo Magii
-39013	B³ogos³awieñstwo Smoka
-39014	Zwój Wojny
-39015	Kamieñ Kowala
+39011	BÅ‚ogosÅ‚awieÅ„stwo Å»ycia
+39012	BÅ‚ogosÅ‚awieÅ„stwo Magii
+39013	BÅ‚ogosÅ‚awieÅ„stwo Smoka
+39014	ZwÃ³j Wojny
+39015	KamieÅ„ Kowala
 39016	Magiczny Metal
-39017	¯ycie Boga Smoków
-39018	Atak Boga Smoków
-39019	Inteligencja Boga Smoków
-39020	Obrona Boga Smoków
-39021	Wsparcie Boga Smoków
-39022	Zwój Boga Smoków
+39017	Å»ycie Boga SmokÃ³w
+39018	Atak Boga SmokÃ³w
+39019	Inteligencja Boga SmokÃ³w
+39020	Obrona Boga SmokÃ³w
+39021	Wsparcie Boga SmokÃ³w
+39022	ZwÃ³j Boga SmokÃ³w
 39023	Eliksir Poszukiwacza
-39024	D³oñ Krytyka
-39025	D³oñ Przebicia
-39026	Mikstura Szybkoœci
-39027	Ksiêga Obróbki Kamienia
+39024	DÅ‚oÅ„ Krytyka
+39025	DÅ‚oÅ„ Przebicia
+39026	Mikstura SzybkoÅ›ci
+39027	KsiÄ™ga ObrÃ³bki Kamienia
 39028	Zaczarowanie Przedmiotu
 39029	Wzmocnienie Przedmiotu
 39030	Rada Pustelnika
-39031	Mikstura Poœpiechu
-39032	Owoc ¯ycia
-39033	Zwój Korekcji
+39031	Mikstura PoÅ›piechu
+39032	Owoc Å»ycia
+39033	ZwÃ³j Korekcji
 39034	Cukier dla Konia
-39035	Szk³o Intuicji
+39035	SzkÅ‚o Intuicji
 39036	Buty Wiatru
-39037	Eliksir S³oñca (M)
-39038	Eliksir S³oñca (Œ)
-39039	Eliksir S³oñca (D)
-39040	Eliksir Ksiê¿yca (M)
-39041	Eliksir Ksiê¿yca (Œ)
-39042	Eliksir Ksiê¿yca (D)
-39043	Zwój Powrotu
-40001	Nieznany Z³oty Pierœcieñ
-40002	Pierœcieñ Levi
-40003	Pierœcieñ Thora
-40004	Pierœcieñ Eeka
-40005	DŸwiêkowy Dzwon
-40006	Przesy³ka Barbarzyñska
-40007	List Od Barbarz. W³adcy
-41001	Kostium Zaj¹ca (br¹z.)
-41002	Kostium Zaj¹czka (br¹z.)
+39037	Eliksir SÅ‚oÅ„ca (M)
+39038	Eliksir SÅ‚oÅ„ca (Åš)
+39039	Eliksir SÅ‚oÅ„ca (D)
+39040	Eliksir KsiÄ™Å¼yca (M)
+39041	Eliksir KsiÄ™Å¼yca (Åš)
+39042	Eliksir KsiÄ™Å¼yca (D)
+39043	ZwÃ³j Powrotu
+40001	Nieznany ZÅ‚oty PierÅ›cieÅ„
+40002	PierÅ›cieÅ„ Levi
+40003	PierÅ›cieÅ„ Thora
+40004	PierÅ›cieÅ„ Eeka
+40005	DÅºwiÄ™kowy Dzwon
+40006	PrzesyÅ‚ka BarbarzyÅ„ska
+40007	List Od Barbarz. WÅ‚adcy
+41001	Kostium ZajÄ…ca (brÄ…z.)
+41002	Kostium ZajÄ…czka (brÄ…z.)
 41003	Pustynny Bojownik
 41004	Pustynna Bojowniczka
-41005	Strój Szermi.Olympia (m)
-41006	Strój Szermi.Olympia (k)
-41007	Strój Szermi. GER (m)
-41008	Strój Szermi. GER (k)
-41009	Strój Szermi. TUR (m)
-41010	Strój Szermi. TUR (k)
-41011	Strój Szermi. BRA (m)
-41012	Strój Szermi. BRA (k)
+41005	StrÃ³j Szermi.Olympia (m)
+41006	StrÃ³j Szermi.Olympia (k)
+41007	StrÃ³j Szermi. GER (m)
+41008	StrÃ³j Szermi. GER (k)
+41009	StrÃ³j Szermi. TUR (m)
+41010	StrÃ³j Szermi. TUR (k)
+41011	StrÃ³j Szermi. BRA (m)
+41012	StrÃ³j Szermi. BRA (k)
 41013	Kosz. Futbol. Olympia(m)
 41014	Kosz. Futbol. Olympia(k)
 41015	Kosz. Futbol. GER (m)
@@ -3916,24 +3916,24 @@ VNUM	LOCALE_NAME
 41018	Kosz. Futbol. TUR (k)
 41019	Kosz. Futbol. BRA (m)
 41020	Kosz. Futbol. BRA (k)
-41021	Strój Boksera Olympia(m)
-41022	Strój Boksera Olympia(k)
-41023	Strój Boksera GER (m)
-41024	Strój Bokera GER (k)
-41025	Strój Boksera TUR (m)
-41026	Strój Boksera TUR (k)
-41027	Strój Boksera BRA (m)
-41028	Strój Boksera BRA (k)
+41021	StrÃ³j Boksera Olympia(m)
+41022	StrÃ³j Boksera Olympia(k)
+41023	StrÃ³j Boksera GER (m)
+41024	StrÃ³j Bokera GER (k)
+41025	StrÃ³j Boksera TUR (m)
+41026	StrÃ³j Boksera TUR (k)
+41027	StrÃ³j Boksera BRA (m)
+41028	StrÃ³j Boksera BRA (k)
 41029	Pustynny Bojownik (bonus)
 41030	Pust. Bojowniczka (bonus)
-41031	Strój Szermi. Olympia(m)
-41032	Strój Szermi. Olympia(k)
-41033	Strój Szermi. GER (m)
-41034	Strój Szermi. GER (k)
-41035	Strój Szermierza TUR (m)
-41036	Strój Szermi. TUR (k)
-41037	Strój Szermi. BRA (m)
-41038	Strój Szermi. BRA (k)
+41031	StrÃ³j Szermi. Olympia(m)
+41032	StrÃ³j Szermi. Olympia(k)
+41033	StrÃ³j Szermi. GER (m)
+41034	StrÃ³j Szermi. GER (k)
+41035	StrÃ³j Szermierza TUR (m)
+41036	StrÃ³j Szermi. TUR (k)
+41037	StrÃ³j Szermi. BRA (m)
+41038	StrÃ³j Szermi. BRA (k)
 41039	Kosz. Futbol. Olympia(m)
 41040	Kosz. Futbol. Olympia(k)
 41041	Kosz. Futbol. GER (m)
@@ -3942,24 +3942,24 @@ VNUM	LOCALE_NAME
 41044	Kosz. Futbol. TUR (k)
 41045	Kosz. Futbol. BRA (m)
 41046	Kosz. Futbol. BRA (k)
-41047	Strój Boksera Olympia(m)
-41048	Strój Boksera Olympia(k)
-41049	Strój Boksera GER (m)
-41050	Strój Boksera GER (k)
-41051	Strój Boksera TUR (m)
-41052	Strój Boksera TUR (k)
-41053	Strój Boksera BRA (m)
-41054	Strój Boksera BRA (k)
-41055	Strój Szermierza FRA (m)
-41056	Strój Szermierza FRA (k)
-41057	Strój Szermierza ITA (m)
-41058	Strój Szermierza ITA (k)
-41059	Strój Szermierza POL (m)
-41060	Strój Szermierza POL (k)
-41061	Strój Szermierza ROU (m)
-41062	Strój Szermierza ROU (k)
-41063	Strój Szermierza ESP (m)
-41064	Strój Szermierza ESP (k)
+41047	StrÃ³j Boksera Olympia(m)
+41048	StrÃ³j Boksera Olympia(k)
+41049	StrÃ³j Boksera GER (m)
+41050	StrÃ³j Boksera GER (k)
+41051	StrÃ³j Boksera TUR (m)
+41052	StrÃ³j Boksera TUR (k)
+41053	StrÃ³j Boksera BRA (m)
+41054	StrÃ³j Boksera BRA (k)
+41055	StrÃ³j Szermierza FRA (m)
+41056	StrÃ³j Szermierza FRA (k)
+41057	StrÃ³j Szermierza ITA (m)
+41058	StrÃ³j Szermierza ITA (k)
+41059	StrÃ³j Szermierza POL (m)
+41060	StrÃ³j Szermierza POL (k)
+41061	StrÃ³j Szermierza ROU (m)
+41062	StrÃ³j Szermierza ROU (k)
+41063	StrÃ³j Szermierza ESP (m)
+41064	StrÃ³j Szermierza ESP (k)
 41065	Koszulka Futbol. FRA (m)
 41066	Koszulka Futbol. FRA (k)
 41067	Koszulka Futbol. ITA (m)
@@ -3970,26 +3970,26 @@ VNUM	LOCALE_NAME
 41072	Koszulka Futbol. ROU (k)
 41073	Koszulka Futbol. ESP (m)
 41074	Koszulka Futbol. ESP (k)
-41075	Strój Boksera FRA (m)
-41076	Strój Boksera FRA (k)
-41077	Strój Boksera ITA (m)
-41078	Strój Boksera ITA (k)
-41079	Strój Boksera POL (m)
-41080	Strój Boksera POL (k)
-41081	Strój Boksera ROU (m)
-41082	Strój Boksera ROU (k)
-41083	Strój Boksera ESP (m)
-41084	Strój Boksera ESP (k)
-41085	Strój Szermierza FRA (m)
-41086	Strój Szermierza FRA (k)
-41087	Strój Szermierza ITA (m)
-41088	Strój Szermierza ITA (k)
-41089	Strój Szermierza POL (m)
-41090	Strój Szermierza POL (k)
-41091	Strój Szermierza ROU (m)
-41092	Strój Szermierza ROU (k)
-41093	Strój Szermierza ESP (m)
-41094	Strój Szermierza ESP (k)
+41075	StrÃ³j Boksera FRA (m)
+41076	StrÃ³j Boksera FRA (k)
+41077	StrÃ³j Boksera ITA (m)
+41078	StrÃ³j Boksera ITA (k)
+41079	StrÃ³j Boksera POL (m)
+41080	StrÃ³j Boksera POL (k)
+41081	StrÃ³j Boksera ROU (m)
+41082	StrÃ³j Boksera ROU (k)
+41083	StrÃ³j Boksera ESP (m)
+41084	StrÃ³j Boksera ESP (k)
+41085	StrÃ³j Szermierza FRA (m)
+41086	StrÃ³j Szermierza FRA (k)
+41087	StrÃ³j Szermierza ITA (m)
+41088	StrÃ³j Szermierza ITA (k)
+41089	StrÃ³j Szermierza POL (m)
+41090	StrÃ³j Szermierza POL (k)
+41091	StrÃ³j Szermierza ROU (m)
+41092	StrÃ³j Szermierza ROU (k)
+41093	StrÃ³j Szermierza ESP (m)
+41094	StrÃ³j Szermierza ESP (k)
 41095	Koszulka Futbol. FRA (m)
 41096	Koszulka Futbol. FRA (k)
 41097	Koszulka Futbol. ITA (m)
@@ -4000,54 +4000,54 @@ VNUM	LOCALE_NAME
 41102	Koszulka Futbol. ROU (k)
 41103	Koszulka Futbol. ESP (m)
 41104	Koszulka Futbol. ESP (k)
-41105	Strój Boksera FRA (m)
-41106	Strój Boksera FRA (k)
-41107	Strój Boksera ITA (m)
-41108	Strój Boksera ITA (k)
-41109	Strój Boksera POL (m)
-41110	Strój Boksera POL (k)
-41111	Strój Boksera ROU (m)
-41112	Strój Boksera ROU (k)
-41113	Strój Boksera ESP (m)
-41114	Strój Boksera ESP (k)
+41105	StrÃ³j Boksera FRA (m)
+41106	StrÃ³j Boksera FRA (k)
+41107	StrÃ³j Boksera ITA (m)
+41108	StrÃ³j Boksera ITA (k)
+41109	StrÃ³j Boksera POL (m)
+41110	StrÃ³j Boksera POL (k)
+41111	StrÃ³j Boksera ROU (m)
+41112	StrÃ³j Boksera ROU (k)
+41113	StrÃ³j Boksera ESP (m)
+41114	StrÃ³j Boksera ESP (k)
 41117	Kostium Muszkietera
-41118	Kostium Pokojówki
-41119	Strój Salsa
+41118	Kostium PokojÃ³wki
+41119	StrÃ³j Salsa
 41120	Sukienka Salsa
-41121	Strój D¿entelmena
+41121	StrÃ³j DÅ¼entelmena
 41122	Sukienka Koktajlowa
 41125	Dyniowy Smoking
 41126	Dyniowa Suknia
 41129	Kostium Muszkietera+
-41130	Kostium Pokojówki+
-41131	Strój Salsa+
+41130	Kostium PokojÃ³wki+
+41131	StrÃ³j Salsa+
 41132	Sukienka Salsa+
-41133	Strój D¿entelmena+
+41133	StrÃ³j DÅ¼entelmena+
 41134	Sukienka Koktajlowa+
 41135	Dyniowy Smoking (bonus)
 41136	Dyniowa Suknia (bonus)
-41137	Œwi¹t. Kostium (czerw.)
-41138	Œwi¹t. Suknia (czerw.)
-41139	Œwi¹t. Kostium (ziel.)
-41140	Œwi¹t. Suknia (ziel.)
-41141	Œwi¹t. Kostium (czarny)
-41142	Œwi¹t. Suknia (czarna)
+41137	ÅšwiÄ…t. Kostium (czerw.)
+41138	ÅšwiÄ…t. Suknia (czerw.)
+41139	ÅšwiÄ…t. Kostium (ziel.)
+41140	ÅšwiÄ…t. Suknia (ziel.)
+41141	ÅšwiÄ…t. Kostium (czarny)
+41142	ÅšwiÄ…t. Suknia (czarna)
 41143	Kostium Renifera (m)
 41144	Kostium Renifera (k)
-41145	Œwi¹t. Kostium+ (czerw.)
-41146	Œwi¹t. Suknia+ (czerw.)
-41147	Œwi¹t. Kostium+ (ziel.)
-41148	Œwi¹t. Suknia+ (ziel.)
-41149	Œwi¹t. Kostium+ (czarny)
-41150	Œwi¹t. Suknia+ (czarna)
+41145	ÅšwiÄ…t. Kostium+ (czerw.)
+41146	ÅšwiÄ…t. Suknia+ (czerw.)
+41147	ÅšwiÄ…t. Kostium+ (ziel.)
+41148	ÅšwiÄ…t. Suknia+ (ziel.)
+41149	ÅšwiÄ…t. Kostium+ (czarny)
+41150	ÅšwiÄ…t. Suknia+ (czarna)
 41151	Kostium Renifera+ (m)
 41152	Kostium Renifera+ (k)
 41153	AC Miryang (m)
 41154	AC Miryang (k)
 41155	AFC Jayang (m)
 41156	AFC Yayang (k)
-41157	RSC Wê¿owe Pole (m)
-41158	RSC Wê¿owe Pole (k)
+41157	RSC WÄ™Å¼owe Pole (m)
+41158	RSC WÄ™Å¼owe Pole (k)
 41159	Yongan FC (m)
 41160	Yongan FC (k)
 41161	FC Bakra (m)
@@ -4062,8 +4062,8 @@ VNUM	LOCALE_NAME
 41170	SC Doyyum (k)
 41171	Hasun Dong FC (m)
 41172	Hasun Dong FC (k)
-41173	CFR Smoczy Ogieñ 07 (m)
-41174	CFR Smoczy Ogieñ 07 (k)
+41173	CFR Smoczy OgieÅ„ 07 (m)
+41174	CFR Smoczy OgieÅ„ 07 (k)
 41175	Daeyami FC (m)
 41176	Daeyami FC (k)
 41177	GNK Kuahlo Dong (m)
@@ -4088,8 +4088,8 @@ VNUM	LOCALE_NAME
 41196	Shinsoo United (k)
 41197	Smocza Dolina SC (m)
 41198	Smocza Dolina SC (k)
-41199	Gromista Góra FC (m)
-41200	Gromista Góra FC (k)
+41199	Gromista GÃ³ra FC (m)
+41200	Gromista GÃ³ra FC (k)
 41201	Pyungmo Saint Hwang (m)
 41202	Pyungmoo Saint Hwang (k)
 41203	Real Sohan (m)
@@ -4110,8 +4110,8 @@ VNUM	LOCALE_NAME
 41218	AC Miryang+ (k)
 41219	AFC Yayang+ (m)
 41220	AFC Yayang+ (k)
-41221	RSC Wê¿owe Pole+ (m)
-41222	RSC Wê¿owe Pole+ (k)
+41221	RSC WÄ™Å¼owe Pole+ (m)
+41222	RSC WÄ™Å¼owe Pole+ (k)
 41223	Yongan FC+ (m)
 41224	Yongan FC+ (k)
 41225	FC Bakra+ (m)
@@ -4126,8 +4126,8 @@ VNUM	LOCALE_NAME
 41234	SC Doyyum+ (k)
 41235	Hasun Dong FC+ (m)
 41236	Hasun Dong FC+ (k)
-41237	CFR Smoczy Ogieñ 07+ (m)
-41238	CFR Smoczy Ogieñ 07+ (k)
+41237	CFR Smoczy OgieÅ„ 07+ (m)
+41238	CFR Smoczy OgieÅ„ 07+ (k)
 41239	Daeyami FC+ (m)
 41240	Daeyami FC+ (k)
 41241	GNK Kuahlo Dong+ (m)
@@ -4152,8 +4152,8 @@ VNUM	LOCALE_NAME
 41260	Shinsoo United+ (k)
 41261	Smocza Dolina SC+ (m)
 41262	Smocza Dolina SC+ (k)
-41263	Gromista Góra FC+ (m)
-41264	Gromista Góra FC+ (k)
+41263	Gromista GÃ³ra FC+ (m)
+41264	Gromista GÃ³ra FC+ (k)
 41265	Pyungmoo Saint Hwang+(m)
 41266	Pyungmoo Saint Hwang+(k)
 41267	Real Sohan+ (m)
@@ -4170,22 +4170,22 @@ VNUM	LOCALE_NAME
 41278	FC Ognista Ziemia+ (k)
 41279	FC St. Seungryong+ (m)
 41280	FC St. Seungryong+ (k)
-41291	Kostium Zaj¹ca (czarny)
-41292	Kostium Zaj¹ca (nieb.)
-41293	Kostium Zaj¹ca (zielony)
-41294	Kostium Zaj¹ca (ró¿owy)
-41295	Kostium Zaj¹czka (czar.)
-41296	Kostium Zaj¹czka (nieb.)
-41297	Kostium Zaj¹czka (ziel.)
-41298	Kostium Zaj¹czka (ró¿.)
-41299	Kostium Zaj¹ca+ (czarny)
-41300	Kostium Zaj¹ca+ (nieb.)
-41301	Kostium Zaj¹ca+ (ziel.)
-41302	Kostium Zaj¹ca+ (ró¿owy)
-41303	Kostium Zaj¹czka+(czar.)
-41304	Kostium Zaj¹czka+(nieb.)
-41305	Kostium Zaj¹czka+(ziel.)
-41306	Kostium Zaj¹czka+ (ró¿.)
+41291	Kostium ZajÄ…ca (czarny)
+41292	Kostium ZajÄ…ca (nieb.)
+41293	Kostium ZajÄ…ca (zielony)
+41294	Kostium ZajÄ…ca (rÃ³Å¼owy)
+41295	Kostium ZajÄ…czka (czar.)
+41296	Kostium ZajÄ…czka (nieb.)
+41297	Kostium ZajÄ…czka (ziel.)
+41298	Kostium ZajÄ…czka (rÃ³Å¼.)
+41299	Kostium ZajÄ…ca+ (czarny)
+41300	Kostium ZajÄ…ca+ (nieb.)
+41301	Kostium ZajÄ…ca+ (ziel.)
+41302	Kostium ZajÄ…ca+ (rÃ³Å¼owy)
+41303	Kostium ZajÄ…czka+(czar.)
+41304	Kostium ZajÄ…czka+(nieb.)
+41305	Kostium ZajÄ…czka+(ziel.)
+41306	Kostium ZajÄ…czka+ (rÃ³Å¼.)
 41307	Szata kobry (m)
 41308	Szata kobry (k)
 41309	Szata kobry+ (m)
@@ -4198,27 +4198,27 @@ VNUM	LOCALE_NAME
 41316	Zbroja Azraela (k)
 41317	Zbroja Azraela+ (m)
 41318	Zbroja Azraela+ (k)
-41319	Èæ»ç°©
-41320	Strój Jacka Pumpkina (m)
+41319	ÄŒÄ‡Â»Ã§Â°Â©
+41320	StrÃ³j Jacka Pumpkina (m)
 41321	Sukienka Jacka Pumpkina (
-41322	Strój Jacka Pumpkina+ (m)
+41322	StrÃ³j Jacka Pumpkina+ (m)
 41323	Sukienka Jacka Pumpkina+ 
-45001	Uszy Zaj¹czka (br¹zowe)
-45002	Uszy Zaj¹ca (br¹z.)
+45001	Uszy ZajÄ…czka (brÄ…zowe)
+45002	Uszy ZajÄ…ca (brÄ…z.)
 45003	Chusta (m)
 45004	Chusta (k)
-45005	Przybokrót (m)
+45005	PrzybokrÃ³t (m)
 45006	Fryzura Szermierza (k)
 45007	Irokez (m)
-45008	Fryzura Pi³karza GER (k)
+45008	Fryzura PiÅ‚karza GER (k)
 45009	Dreadloki  (m)
 45010	Fryzura Boksera GER (k)
 45011	Chusta (m)
 45012	Chusta (k)
-45013	Przybokrót (m)
+45013	PrzybokrÃ³t (m)
 45014	Fryzura Szermierza (k)
 45015	Irokez (m)
-45016	Fryzura Pi³karza GER (k)
+45016	Fryzura PiÅ‚karza GER (k)
 45017	Dreadloki (m)
 45018	Fryzura Boksera GER (k)
 45019	Fryzura Boksera TUR (k)
@@ -4229,14 +4229,14 @@ VNUM	LOCALE_NAME
 45024	Fryzura Boksera POL (k)
 45025	Fryzura Boksera ROU (k)
 45026	Fryzura Boksera ESP (k)
-45027	Fryzura Pi³karza TUR (k)
-45028	Fryzura Pi³karza BRA (k)
-45029	Fryz. Pi³k. Olympia (k)
-45030	Fryzura Pi³karza FRA (k)
-45031	Fryzura Pi³karza ITA (k)
-45032	Fryzura Pi³karza POL (k)
-45033	Fryzura Pi³karza ROU (k)
-45034	Fryzura Pi³karza ESP (k)
+45027	Fryzura PiÅ‚karza TUR (k)
+45028	Fryzura PiÅ‚karza BRA (k)
+45029	Fryz. PiÅ‚k. Olympia (k)
+45030	Fryzura PiÅ‚karza FRA (k)
+45031	Fryzura PiÅ‚karza ITA (k)
+45032	Fryzura PiÅ‚karza POL (k)
+45033	Fryzura PiÅ‚karza ROU (k)
+45034	Fryzura PiÅ‚karza ESP (k)
 45035	Fryzura Boksera TUR (k)
 45036	Fryzura Boksera BRA (k)
 45037	Fryz. Boks. Olympia (k)
@@ -4245,16 +4245,16 @@ VNUM	LOCALE_NAME
 45040	Fryzura Boksera POL (k)
 45041	Fryzura Boksera ROU (k)
 45042	Fryzura Boksera ESP (k)
-45043	Fryzura Pi³karza TUR (k)
-45044	Fryzura Pi³karza BRA (k)
-45045	Fryz. Pi³k. Olympia (k)
-45046	Fryzura Pi³karza FRA (k)
-45047	Fryzura Pi³karza ITA (k)
-45048	Fryzura Pi³karza POL (k)
-45049	Fryzura Pi³karza ROU (k)
-45050	Fryzura Pi³karza ESP (k)
+45043	Fryzura PiÅ‚karza TUR (k)
+45044	Fryzura PiÅ‚karza BRA (k)
+45045	Fryz. PiÅ‚k. Olympia (k)
+45046	Fryzura PiÅ‚karza FRA (k)
+45047	Fryzura PiÅ‚karza ITA (k)
+45048	Fryzura PiÅ‚karza POL (k)
+45049	Fryzura PiÅ‚karza ROU (k)
+45050	Fryzura PiÅ‚karza ESP (k)
 45053	Fryzura Muszkietera
-45054	Czepek Pokojówki
+45054	Czepek PokojÃ³wki
 45055	Mini-Irokez
 45056	Kok Salsa
 45057	Kapelusz Bogarta
@@ -4262,61 +4262,61 @@ VNUM	LOCALE_NAME
 45061	Dyniowa Maska
 45062	Dyniowa Maska
 45065	Fryzura Muszkietera+
-45066	Czepek Pokojówki+
+45066	Czepek PokojÃ³wki+
 45067	Mini-Irokez+
 45068	Kok Salsa+
 45069	Kapelusz Bogarta+
 45070	Kwiecista Fryzura+
 45073	Dyniowa Maska (bonus)
 45074	Dyniowa Maska (bonus)
-45075	Œwi¹t. Czapa (czerw.)
-45076	Œwi¹t. Czapa (ziel.)
-45077	Œwi¹t. Czapa (czarna)
+45075	ÅšwiÄ…t. Czapa (czerw.)
+45076	ÅšwiÄ…t. Czapa (ziel.)
+45077	ÅšwiÄ…t. Czapa (czarna)
 45078	Elficki Kapelusz
 45079	Czerep Renifera (m)
 45080	Czerep Renifera (k)
-45081	Œwi¹t. Czapa+ (czerw.)
-45082	Œwi¹t. Czapa+ (ziel.)
-45083	Œwi¹t. Czapa+ (czarna)
+45081	ÅšwiÄ…t. Czapa+ (czerw.)
+45082	ÅšwiÄ…t. Czapa+ (ziel.)
+45083	ÅšwiÄ…t. Czapa+ (czarna)
 45084	Elficki Kapelusz+
 45085	Czerep Renifera+ (m)
 45086	Czerep Renifera+ (k)
-45087	Bandana (bia³a)
-45088	Bandana (bia³a)
+45087	Bandana (biaÅ‚a)
+45088	Bandana (biaÅ‚a)
 45089	Bandana (czarna)
 45090	Bandana (czarna)
-45091	Bandana (¿ó³ta)
-45092	Bandana (¿ó³ta)
-45093	Bandana (pomarañczowa)
-45094	Bandana (pomarañczowa)
+45091	Bandana (Å¼Ã³Å‚ta)
+45092	Bandana (Å¼Ã³Å‚ta)
+45093	Bandana (pomaraÅ„czowa)
+45094	Bandana (pomaraÅ„czowa)
 45095	Bandana (niebieska)
 45096	Bandana (niebieska)
-45097	Bandana+ (bia³a)
-45098	Bandana+ (bia³a)
+45097	Bandana+ (biaÅ‚a)
+45098	Bandana+ (biaÅ‚a)
 45099	Bandana+ (czarna)
 45100	Bandana+ (czarna)
-45101	Bandana+ (¿ó³ta)
-45102	Bandana+ (¿ó³ta)
-45103	Bandana+ (pomarañczowa)
-45104	Bandana+ (pomarañczowa)
+45101	Bandana+ (Å¼Ã³Å‚ta)
+45102	Bandana+ (Å¼Ã³Å‚ta)
+45103	Bandana+ (pomaraÅ„czowa)
+45104	Bandana+ (pomaraÅ„czowa)
 45105	Bandana+ (niebieska)
 45106	Bandana+ (niebieska)
-45119	Uszy Zaj¹ca (czar.)
-45120	Uszy Zaj¹ca (nieb.)
-45121	Uszy Zaj¹ca (ziel.)
-45122	Uszy Zaj¹ca (ró¿.)
-45123	Uszy Zaj¹czka (czar.)
-45124	Uszy Zaj¹czka (nieb.)
-45125	Uszy Zaj¹czka (ziel.)
-45126	Uszy Zaj¹czka (ró¿.)
-45127	Uszy Zaj¹ca+ (czar.)
-45128	Uszy Zaj¹ca+ (nieb.)
-45129	Uszy Zaj¹ca+ (ziel.)
-45130	Uszy Zaj¹ca+ (ró¿.)
-45131	Uszy Zaj¹czka+ (czar.)
-45132	Uszy Zaj¹czka+ (nieb.)
-45133	Uszy Zaj¹czka+ (ziel.)
-45134	Uszy Zaj¹ca+ (ró¿.)
+45119	Uszy ZajÄ…ca (czar.)
+45120	Uszy ZajÄ…ca (nieb.)
+45121	Uszy ZajÄ…ca (ziel.)
+45122	Uszy ZajÄ…ca (rÃ³Å¼.)
+45123	Uszy ZajÄ…czka (czar.)
+45124	Uszy ZajÄ…czka (nieb.)
+45125	Uszy ZajÄ…czka (ziel.)
+45126	Uszy ZajÄ…czka (rÃ³Å¼.)
+45127	Uszy ZajÄ…ca+ (czar.)
+45128	Uszy ZajÄ…ca+ (nieb.)
+45129	Uszy ZajÄ…ca+ (ziel.)
+45130	Uszy ZajÄ…ca+ (rÃ³Å¼.)
+45131	Uszy ZajÄ…czka+ (czar.)
+45132	Uszy ZajÄ…czka+ (nieb.)
+45133	Uszy ZajÄ…czka+ (ziel.)
+45134	Uszy ZajÄ…ca+ (rÃ³Å¼.)
 45135	Fryzura kobry (m)
 45136	Fryzura kobry (k)
 45137	Fryzura kobry+ (m)
@@ -4324,133 +4324,133 @@ VNUM	LOCALE_NAME
 45139	Maska Tengu
 45140	Maska Wenecka
 45141	Maska Kifwebe
-45142	Maska Majów
+45142	Maska MajÃ³w
 45143	Maska Tengu+
 45144	Maska Wenecka+
 45145	Maska Kifwebe+
-45146	Maska Majów+
+45146	Maska MajÃ³w+
 45147	Czarny Turban (m)
 45148	Czarny Turban (k)
 45149	Czarny Turban+ (m)
 45150	Czarny Turban+ (k)
-45151	He³m Azraela (m)
-45152	He³m Azraela (k)
-45153	He³m Azraela+ (m)
-45154	He³m Azraela+ (k)
-45155	Èæ»çÅõ±¸
+45151	HeÅ‚m Azraela (m)
+45152	HeÅ‚m Azraela (k)
+45153	HeÅ‚m Azraela+ (m)
+45154	HeÅ‚m Azraela+ (k)
+45155	ÄŒÄ‡Â»Ã§Ä¹Å‘Â±Â¸
 45156	Czerep Jacka Pumpkina (m)
 45157	Czerep Jacka Pumpkina (k)
 45158	Czerep Jacka Pumpkina+ (m
 45159	Czerep Jacka Pumpkina+ (k
-50001	Ksiêga Szczêœcia
-50002	Z³oty Pierœcieñ
-50003	Zwój Cofania Umiejêtn.
-50004	Wykrywacz Zdarzeñ
-50005	Bilet Na Jazdê Konn¹
-50006	Z³ota Szkatu³ka
-50007	Srebrna Szkatu³ka
-50008	Z³oty Klucz
+50001	KsiÄ™ga SzczÄ™Å›cia
+50002	ZÅ‚oty PierÅ›cieÅ„
+50003	ZwÃ³j Cofania UmiejÄ™tn.
+50004	Wykrywacz ZdarzeÅ„
+50005	Bilet Na JazdÄ™ KonnÄ…
+50006	ZÅ‚ota SzkatuÅ‚ka
+50007	Srebrna SzkatuÅ‚ka
+50008	ZÅ‚oty Klucz
 50009	Srebrny Klucz
 50010	Skarpetka
-50011	Szkat. Blasku Ksiê¿yca
-50012	Z³ota Szkatu³ka+
-50013	Srebrna Szkatu³ka+
-50014	Z³oty Klucz+
+50011	Szkat. Blasku KsiÄ™Å¼yca
+50012	ZÅ‚ota SzkatuÅ‚ka+
+50013	Srebrna SzkatuÅ‚ka+
+50014	ZÅ‚oty Klucz+
 50015	Srebrny Klucz+
 50016	Pasta Fasolowa
 50017	Pasta Cukrowa
 50018	Pasta Owocowa
-50019	S³odki Ry¿
+50019	SÅ‚odki RyÅ¼
 50020	Torcik Fasolowy
 50021	Torcik Cukrowy
 50022	Torcik Owocowy
-50023	Sakiewka Pieniêdzy
-50024	Ró¿a
+50023	Sakiewka PieniÄ™dzy
+50024	RÃ³Å¼a
 50025	Czekolada
 50026	Monety
-50027	Bilet Na Loteriê
-50028	24k Z³oty Pierœcieñ
-50029	18k Z³oty Pierœcieñ
-50030	14k Z³oty Pierœcieñ
-50031	Ró¿a
+50027	Bilet Na LoteriÄ™
+50028	24k ZÅ‚oty PierÅ›cieÅ„
+50029	18k ZÅ‚oty PierÅ›cieÅ„
+50030	14k ZÅ‚oty PierÅ›cieÅ„
+50031	RÃ³Å¼a
 50032	Cukierek
-50033	Zagadkowa Szkatu³ka
-50034	Szkatu³ka Z Zagadk¹
-50035	Prezent (¿ó³ty)
+50033	Zagadkowa SzkatuÅ‚ka
+50034	SzkatuÅ‚ka Z ZagadkÄ…
+50035	Prezent (Å¼Ã³Å‚ty)
 50036	Prezent (fioletowy)
-50037	Heksagonalna Szkatu³ka
-50038	Br¹zowy Certyfikat
+50037	Heksagonalna SzkatuÅ‚ka
+50038	BrÄ…zowy Certyfikat
 50039	Srebrny Certyfikat
-50040	Z³oty Certyfikat
+50040	ZÅ‚oty Certyfikat
 50041	Podarunek
-50042	Z³oty medal Bohatera
+50042	ZÅ‚oty medal Bohatera
 50050	Medal Konny
-50051	Zdjêcie Konia
-50052	Ksiêga Opanc. Konia
-50053	Ksiêga Wojskowego Konia
+50051	ZdjÄ™cie Konia
+50052	KsiÄ™ga Opanc. Konia
+50053	KsiÄ™ga Wojskowego Konia
 50054	Siano
 50055	Marchewka
-50056	Czerwony ¯eñ-szeñ
-50057	Zio³o Z £atwych Ma³p
-50058	Zio³o Z Normalnych Ma³p
-50059	Zio³o Z Trudnych Ma³p
+50056	Czerwony Å»eÅ„-szeÅ„
+50057	ZioÅ‚o Z Åatwych MaÅ‚p
+50058	ZioÅ‚o Z Normalnych MaÅ‚p
+50059	ZioÅ‚o Z Trudnych MaÅ‚p
 50060	Instr. Jazdy Konnej
 50061	Instr. Oswajania Konia
-50062	Instr. Powo¿enia
-50067	Zwój Ewolucji
-50068	Zwój Mutacji
-50070	Szkatu³ka Wodza Orków
-50071	Szkatu³ka Ezot. W³adcy
-50072	Szkat. Odrodz. W³adcy
-50073	Szkat. Królowej Paj¹ków
-50074	Szkatu³ka Olbrz. Paj¹ka
+50062	Instr. PowoÅ¼enia
+50067	ZwÃ³j Ewolucji
+50068	ZwÃ³j Mutacji
+50070	SzkatuÅ‚ka Wodza OrkÃ³w
+50071	SzkatuÅ‚ka Ezot. WÅ‚adcy
+50072	Szkat. Odrodz. WÅ‚adcy
+50073	Szkat. KrÃ³lowej PajÄ…kÃ³w
+50074	SzkatuÅ‚ka Olbrz. PajÄ…ka
 50075	Szkat. Nosiciela Plagi
-50076	Szkat. Pustynnego ¯ó³wia
-50077	Szkat.Dziewiêciu Ogonów
-50078	Szkat. ¯ó³tego Tygrysa
-50079	Szkat. Ognistego Króla
+50076	Szkat. Pustynnego Å»Ã³Å‚wia
+50077	Szkat.DziewiÄ™ciu OgonÃ³w
+50078	Szkat. Å»Ã³Å‚tego Tygrysa
+50079	Szkat. Ognistego KrÃ³la
 50080	Szkat. Czerwonego Smoka
-50081	Szkat. Króla Demonów
-50082	Szkat. Umar³ego Rozpruw.
-50083	Bilet Na Jazdê Konn¹
-50084	Kamieñ Otwarcia
+50081	Szkat. KrÃ³la DemonÃ³w
+50082	Szkat. UmarÅ‚ego Rozpruw.
+50083	Bilet Na JazdÄ™ KonnÄ…
+50084	KamieÅ„ Otwarcia
 50085	Nasionko
-50086	Ksiê¿ycowy Torcik
-50087	Fasolowe Ciastko Ry¿owe
-50088	Kminkowe Ciastko Ry¿owe
-50089	Kamieñ Otwarcia
+50086	KsiÄ™Å¼ycowy Torcik
+50087	Fasolowe Ciastko RyÅ¼owe
+50088	Kminkowe Ciastko RyÅ¼owe
+50089	KamieÅ„ Otwarcia
 50090	Szkat. Lisa o 9 Ogonach
 50091	Sushi z Welonki
 50092	Sushi Z Karpia
-50093	Sushi Z £ososia
+50093	Sushi Z Åososia
 50094	Sushi z Suma
 50095	Dynia
-50096	Pi³ka
+50096	PiÅ‚ka
 50100	Ogniste Petardy
 50101	Ogniste Petardy
 50102	Ogniste Petardy
 50103	Ogniste Petardy
 50104	Ogniste Petardy
 50105	Ogniste Petardy
-50106	Œwi¹t. Ogniste Petardy
-50107	Chiñska Ognista Petarda
+50106	ÅšwiÄ…t. Ogniste Petardy
+50107	ChiÅ„ska Ognista Petarda
 50108	Fajerwerki
-50109	Czerw. Ebonit. Szkatu³a
-50110	Drog. Ebonit. Szkatu³ka
-50111	¯ó³ta Ebonit. Szkatu³ka
+50109	Czerw. Ebonit. SzkatuÅ‚a
+50110	Drog. Ebonit. SzkatuÅ‚ka
+50111	Å»Ã³Å‚ta Ebonit. SzkatuÅ‚ka
 50112	J.Ziel. Ebonit. Szkat.
-50113	Ziel. Ebonit. Szkatu³ka
-50114	Nieb. Ebon. Szkatu³ka
-50115	Fiol. Ebonit. Szkatu³ka
-50116	Bon Na Wymianê Broni
-50117	Pude³ko klejnotów
+50113	Ziel. Ebonit. SzkatuÅ‚ka
+50114	Nieb. Ebon. SzkatuÅ‚ka
+50115	Fiol. Ebonit. SzkatuÅ‚ka
+50116	Bon Na WymianÄ™ Broni
+50117	PudeÅ‚ko klejnotÃ³w
 50118	NoNAme
 50119	NoNAme
-50120	¯elazna Szkatu³ka
-50121	¯elazne Pude³ko
-50122	¯elazna Skrzynia
+50120	Å»elazna SzkatuÅ‚ka
+50121	Å»elazne PudeÅ‚ko
+50122	Å»elazna Skrzynia
 50123	Lody
-50124	Spróchnia³a Skrzynia
+50124	SprÃ³chniaÅ‚a Skrzynia
 50125	Tajemnicza Skrzynia
 50126	Tajemnicza Skrzynia
 50127	Taj. Szmaragd. Skrzynia
@@ -4493,8 +4493,8 @@ VNUM	LOCALE_NAME
 50179	Jajko wielkanocne
 50180	Pusty koszyk
 50181	Koszyk z jajkami
-50182	Skrzynia B³ogos³awieñstw
-50183	S³odycze
+50182	Skrzynia BÅ‚ogosÅ‚awieÅ„stw
+50183	SÅ‚odycze
 50184	NoNAme
 50185	NoNAme
 50186	Skrzynia Azraela
@@ -4511,7 +4511,7 @@ VNUM	LOCALE_NAME
 50197	NoNAme
 50198	NoNAme
 50199	NoNAme
-50200	Tobó³
+50200	TobÃ³Å‚
 50201	Bukiet
 50202	Bukiet
 50212	Skrzynia Ucznia I
@@ -4528,49 +4528,49 @@ VNUM	LOCALE_NAME
 50258	Cor Draconis (antyczne)
 50259	Cor Draconis (legend.)
 50260	Cor Draconis (surowe)
-50300	Ksiêga Umiejêtnoœci
+50300	KsiÄ™ga UmiejÄ™tnoÅ›ci
 50301	Sztuka Wojny Sun Zi
 50302	Sztuka Wojny Wu Zi
 50303	WeiLiao Zi
 50304	Sztuka Combo
 50305	Zaaw. Sztuka Combo
 50306	Mistrz. Sztuka Combo
-50307	Ksiêga Misji (£atwa)
-50308	Ksiêga Misji (Normalna)
-50309	Ksiêga Misji (Trudna)
-50310	Ksiêga Misji (ekspert)
-50311	Jêzyk Shinsoo
-50312	Jêzyk Chunjo
-50313	Jêzyk Jinno
-50314	Ksiêga Polimorfii
+50307	KsiÄ™ga Misji (Åatwa)
+50308	KsiÄ™ga Misji (Normalna)
+50309	KsiÄ™ga Misji (Trudna)
+50310	KsiÄ™ga Misji (ekspert)
+50311	JÄ™zyk Shinsoo
+50312	JÄ™zyk Chunjo
+50313	JÄ™zyk Jinno
+50314	KsiÄ™ga Polimorfii
 50315	Zaaw. Ks. Polimorfii
 50316	Mistrz. Ks. Polimorfii
-50317	Ksiêga Misji (test)
-50318	Ksiêga Misji (³atwa)
-50319	Ksiêga Misji (normalna)
-50320	Ksiêga Misji (trudna)
-50321	Ksiêga Misji (ekspert)
+50317	KsiÄ™ga Misji (test)
+50318	KsiÄ™ga Misji (Å‚atwa)
+50319	KsiÄ™ga Misji (normalna)
+50320	KsiÄ™ga Misji (trudna)
+50321	KsiÄ™ga Misji (ekspert)
 50322	Rola Transformacyjna
-50401	Instr. Trzystr. Ciêcie
+50401	Instr. Trzystr. CiÄ™cie
 50402	Instr. Wir Miecza
 50403	Instr. Berserk
 50404	Instr. Aura Miecza
-50405	Instr. Szar¿a
+50405	Instr. SzarÅ¼a
 50416	Instr. Duchowe Uderzenie
-50417	Instr. Walniêcie
-50418	Instr. T¹pniêcie
-50419	Instr. Silne Cia³o
+50417	Instr. WalniÄ™cie
+50418	Instr. TÄ…pniÄ™cie
+50419	Instr. Silne CiaÅ‚o
 50420	Instr. Uderzenie Miecza
 50431	Instr. Zasadzka
 50432	Instr. Szybki Atak
-50433	Instr. Wiruj¹cy Sztylet
-50434	Instr. Krycie Siê
-50435	Instr. Truj¹ca Chmura
-50446	Instr. Powtarz. Strza³
-50447	Instr. Deszcz Strza³
-50448	Instr. Ognista Strza³a
-50449	Instr. Bezszelest. Chód
-50450	Instr. Truj¹ca Strza³a
+50433	Instr. WirujÄ…cy Sztylet
+50434	Instr. Krycie SiÄ™
+50435	Instr. TrujÄ…ca Chmura
+50446	Instr. Powtarz. StrzaÅ‚
+50447	Instr. Deszcz StrzaÅ‚
+50448	Instr. Ognista StrzaÅ‚a
+50449	Instr. Bezszelest. ChÃ³d
+50450	Instr. TrujÄ…ca StrzaÅ‚a
 50461	Instr. Uderzenie Palcem
 50462	Instr. Smoczy Wir
 50463	Instr. Czarowane Ostrze
@@ -4583,53 +4583,53 @@ VNUM	LOCALE_NAME
 50479	Instr. Mroczna Ochrona
 50480	Instr. Duchowy Cios
 50481	Instr. Mroczna Sfera
-50491	Instr. Lataj¹cy Talizman
-50492	Instr. Strzelaj¹cy Smok
+50491	Instr. LatajÄ…cy Talizman
+50492	Instr. StrzelajÄ…cy Smok
 50493	Instr. Smoczy Skowyt
-50494	Instr. B³ogos³awieñstwo
+50494	Instr. BÅ‚ogosÅ‚awieÅ„stwo
 50495	Instr. Odbicie
 50496	Instr. Pomoc Smoka
-50506	Instr. B³yskawiczny Rzut
-50507	Instr. Przywo³. B³ysk.
+50506	Instr. BÅ‚yskawiczny Rzut
+50507	Instr. PrzywoÅ‚. BÅ‚ysk.
 50508	Instr. Burzowy Szpon
 50509	Instr. Leczenie
-50510	Instr. Zwinnoœæ
-50511	Instr. Podwy¿. Ataku
-50512	Têczowy Kamieñ
-50513	Kamieñ Duchowy
-50600	Przewodnik Do Górnictwa
-50601	Diamentowy Kamieñ
-50602	Kawa³ek Bursztynu
-50603	Skamienia³y Pieñ
+50510	Instr. ZwinnoÅ›Ä‡
+50511	Instr. PodwyÅ¼. Ataku
+50512	TÄ™czowy KamieÅ„
+50513	KamieÅ„ Duchowy
+50600	Przewodnik Do GÃ³rnictwa
+50601	Diamentowy KamieÅ„
+50602	KawaÅ‚ek Bursztynu
+50603	SkamieniaÅ‚y PieÅ„
 50604	Ruda Miedzi
 50605	Ruda Srebra
-50606	Ruda Z³ota
+50606	Ruda ZÅ‚ota
 50607	Ruda Jadeitu
 50608	Ruda Ebonitu
-50609	Kawa³ek Per³y
-50610	Ruda Bia³. Z³ota
-50611	Ruda Kryszta³u
+50609	KawaÅ‚ek PerÅ‚y
+50610	Ruda BiaÅ‚. ZÅ‚ota
+50611	Ruda KrysztaÅ‚u
 50612	Ruda Ametystu
-50613	Ruda Niebiañ. £ez
-50614	Dusza Rudy Kryszta³u
+50613	Ruda NiebiaÅ„. Åez
+50614	Dusza Rudy KrysztaÅ‚u
 50615	Ruda Rubinu
 50616	Ruda Granatu
 50617	Ruda Szmaragdu
 50618	Ruda Szafiru
 50621	Diament
 50622	Bursztyn
-50623	Skamienia³e Drewno
-50624	MiedŸ
+50623	SkamieniaÅ‚e Drewno
+50624	MiedÅº
 50625	Srebro
-50626	Z³oto
+50626	ZÅ‚oto
 50627	Jadeit
 50628	Ebonit
-50629	Per³a
-50630	Bia³e Z³oto
-50631	Kryszta³
+50629	PerÅ‚a
+50630	BiaÅ‚e ZÅ‚oto
+50631	KrysztaÅ‚
 50632	Ametyst
-50633	Niebiañskie £zy
-50634	Kryszta³ Duszy
+50633	NiebiaÅ„skie Åzy
+50634	KrysztaÅ‚ Duszy
 50635	Rubin
 50636	Granat
 50637	Szmaragd
@@ -4637,39 +4637,39 @@ VNUM	LOCALE_NAME
 50701	Kwiat Brzoskwini
 50702	Pokrzywa
 50703	Kwiat Kaki
-50704	Korzeñ Gango
+50704	KorzeÅ„ Gango
 50705	Bez
 50706	Grzyb Tue
-50707	Ró¿a Alpejska
+50707	RÃ³Å¼a Alpejska
 50708	Morwa
 50709	Mniszek Lekarski
 50710	Oset
 50711	Daktyl
-50712	Roœlina Sam-Zi
+50712	RoÅ›lina Sam-Zi
 50721	Kwiat Brzoskwini
 50722	Pokrzywa
 50723	Kwiat Kaki
-50724	Korzeñ Gango
+50724	KorzeÅ„ Gango
 50725	Bez
 50726	Grzyb Tue
-50727	Ró¿a Alpejska
+50727	RÃ³Å¼a Alpejska
 50728	Morwa
 50729	Mniszek Lekarski
 50730	Oset
 50731	Daktyl
-50732	Roœlina Sam-Zi
+50732	RoÅ›lina Sam-Zi
 50801	Sok z Kwiatu Brzoskwini
 50802	Sok Z Pokrzywy
 50803	Sok Z Kwiatu Kaki
 50804	Sok Z Korzenia Gango
 50805	Sok Z Bzu
 50806	Sok Z Grzyba Tue
-50807	Sok Z Ró¿y Alpejskiej
+50807	Sok Z RÃ³Å¼y Alpejskiej
 50808	Sok Z Morwy
 50809	Sok Z Mniszka Alpejsk.
 50810	Sok Z Ostu
 50811	Sok Z Daktyla
-50812	Sok Z Roœliny Sam-Zi
+50812	Sok Z RoÅ›liny Sam-Zi
 50813	Woda Sim
 50814	Woda Dok
 50815	Woda Bo
@@ -4679,23 +4679,23 @@ VNUM	LOCALE_NAME
 50819	Woda Mong
 50820	Woda Hwal
 50821	Czerwona Rosa
-50822	Ró¿owa Rosa
-50823	¯ó³ta Rosa
+50822	RÃ³Å¼owa Rosa
+50823	Å»Ã³Å‚ta Rosa
 50824	Zielona Rosa
 50825	Niebieska Rosa
-50826	Bia³a Rosa
+50826	BiaÅ‚a Rosa
 50901	Pusta Butelka
-50902	Przepis Dla Pocz¹tkuj¹c.
+50902	Przepis Dla PoczÄ…tkujÄ…c.
 50903	Przepis
 50904	Przepis Dla Profesjonal.
-50905	Przepis Na Wodê Sim
-50906	Przepis Na Wodê Dok
-50907	Przepis Na Wodê Bo
-50908	Przepis Na Wodê Young
-50909	Przepis Na Wodê Zin
-50910	Przepis Na Wodê Hwal
-51001	Od³amek Energii
-51002	Kryszta³ Energii
+50905	Przepis Na WodÄ™ Sim
+50906	Przepis Na WodÄ™ Dok
+50907	Przepis Na WodÄ™ Bo
+50908	Przepis Na WodÄ™ Young
+50909	Przepis Na WodÄ™ Zin
+50910	Przepis Na WodÄ™ Hwal
+51001	OdÅ‚amek Energii
+51002	KrysztaÅ‚ Energii
 51501	Cor Draconis (surowe)
 51502	Cor Draconis (surowe)
 51503	Cor Draconis (zwyczajne)
@@ -4736,13 +4736,13 @@ VNUM	LOCALE_NAME
 51538	Cor Saphirum (nieskaz.)
 51539	Cor Granatum (nieskaz.)
 51540	Cor Atrum (nieskaz.)
-51541	Cor Draconis (roz¿arzone)
-51542	Cor Diamas (roz¿arzone)
-51543	Cor Rubinum (roz¿arzone)
-51544	Cor Jadeit (roz¿arzone)
-51545	Cor Saphirum (roz¿arzone)
-51546	Cor Granatum (roz¿arzone)
-51547	Cor Atrum (roz¿arzone)
+51541	Cor Draconis (rozÅ¼arzone)
+51542	Cor Diamas (rozÅ¼arzone)
+51543	Cor Rubinum (rozÅ¼arzone)
+51544	Cor Jadeit (rozÅ¼arzone)
+51545	Cor Saphirum (rozÅ¼arzone)
+51546	Cor Granatum (rozÅ¼arzone)
+51547	Cor Atrum (rozÅ¼arzone)
 51548	Cor Draconis (nieskaz.)
 51549	Cor Draconis (wieczne)
 51550	Cor Diamas (wieczne)
@@ -4799,13 +4799,13 @@ VNUM	LOCALE_NAME
 51601	Cor Saphirum+ (nieskaz.)
 51602	Cor Granatum+ (nieskaz.)
 51603	Cor Atrum+ (nieskaz.)
-51604	Cor Draconis+ (roz¿arz.)
-51605	Cor Diamas+ (roz¿arzone)
-51606	Cor Rubinum+ (roz¿arzone)
-51607	Cor Jadeit+ (roz¿arzone)
-51608	Cor Saphirum+ (roz¿arz.)
-51609	Cor Granatum+ (roz¿arz.)
-51610	Cor Atrum+ (roz¿arzone)
+51604	Cor Draconis+ (rozÅ¼arz.)
+51605	Cor Diamas+ (rozÅ¼arzone)
+51606	Cor Rubinum+ (rozÅ¼arzone)
+51607	Cor Jadeit+ (rozÅ¼arzone)
+51608	Cor Saphirum+ (rozÅ¼arz.)
+51609	Cor Granatum+ (rozÅ¼arz.)
+51610	Cor Atrum+ (rozÅ¼arzone)
 51611	Cor Draconis+ (wieczne)
 51612	Cor Diamas+ (wieczne)
 51613	Cor Rubinum+ (wieczne)
@@ -4842,71 +4842,71 @@ VNUM	LOCALE_NAME
 51644	Szlach. Smocza Skrzynia+
 51645	Szlach.Sm. Skrz.+ (kol.)
 51646	Szlach.Sm. Skrz. (kol.)
-52001	M³ody Dzik (Pieczêæ)
-52002	M³ody Dzik (Pieczêæ)
-52003	M³ody Dzik (Pieczêæ)
-52004	M³ody Dzik (Pieczêæ)
-52005	M³ody Dzik (Pieczêæ)
-52006	Dziki Dzik (Pieczêæ)
-52007	Dziki Dzik (Pieczêæ)
-52008	Dziki Dzik (Pieczêæ)
-52009	Dziki Dzik (Pieczêæ)
-52010	Dziki Dzik (Pieczêæ)
-52011	Dzielny Dzik (Pieczêæ)
-52012	Dzielny Dzik (Pieczêæ)
-52013	Dzielny Dzik (Pieczêæ)
-52014	Dzielny Dzik (Pieczêæ)
-52015	Dzielny Dzik (Pieczêæ)
-52016	M³ody Wilk (Pieczêæ)
-52017	M³ody Wilk (Pieczêæ)
-52018	M³ody Wilk (Pieczêæ)
-52019	M³ody Wilk (Pieczêæ)
-52020	M³ody Wilk (Pieczêæ)
-52021	Dziki Wilk (Pieczêæ)
-52022	Dziki Wilk (Pieczêæ)
-52023	Dziki Wilk (Pieczêæ)
-52024	Dziki Wilk (Pieczêæ)
-52025	Dziki Wilk (Pieczêæ)
-52026	Dzielny Wilk (Pieczêæ)
-52027	Dzielny Wilk (Pieczêæ)
-52028	Dzielny Wilk (Pieczêæ)
-52029	Dzielny Wilk (Pieczêæ)
-52030	Dzielny Wilk (Pieczêæ)
-52031	M³ody Lew (Pieczêæ)
-52032	M³ody Lew (Pieczêæ)
-52033	M³ody Lew (Pieczêæ)
-52034	M³ody Lew (Pieczêæ)
-52035	M³ody Lew (Pieczêæ)
-52036	Dziki Lew (Pieczêæ)
-52037	Dziki Lew (Pieczêæ)
-52038	Dziki Lew (Pieczêæ)
-52039	Dziki Lew (Pieczêæ)
-52040	Dziki Lew (Pieczêæ)
-52041	Dzielny Lew (Pieczêæ)
-52042	Dzielny Lew (Pieczêæ)
-52043	Dzielny Lew (Pieczêæ)
-52044	Dzielny Lew (Pieczêæ)
-52045	Dzielny Lew (Pieczêæ)
-52046	M³ody Tygrys (Pieczêæ)
-52047	M³ody Tygrys (Pieczêæ)
-52048	M³ody Tygrys (Pieczêæ)
-52049	M³ody Tygrys (Pieczêæ)
-52050	M³ody Tygrys (Pieczêæ)
-52051	Dziki Tygrys (Pieczêæ)
-52052	Dziki Tygrys (Pieczêæ)
-52053	Dziki Tygrys (Pieczêæ)
-52054	Dziki Tygrys (Pieczêæ)
-52055	Dziki Tygrys (Pieczêæ)
-52056	Dzielny Tygrys (Pieczêæ)
-52057	Dzielny Tygrys (Pieczêæ)
-52058	Dzielny Tygrys (Pieczêæ)
-52059	Dzielny Tygrys (Pieczêæ)
-52060	Dzielny Tygrys (Pieczêæ)
-52061	Pieczêæ M³odego Renifera
-52062	Pieczêæ M³odego Renifera
-52063	Pieczêæ M³odego Renifera
-52064	Pieczêæ M³odego Renifera
-52065	Pieczêæ M³odego Renifera
+52001	MÅ‚ody Dzik (PieczÄ™Ä‡)
+52002	MÅ‚ody Dzik (PieczÄ™Ä‡)
+52003	MÅ‚ody Dzik (PieczÄ™Ä‡)
+52004	MÅ‚ody Dzik (PieczÄ™Ä‡)
+52005	MÅ‚ody Dzik (PieczÄ™Ä‡)
+52006	Dziki Dzik (PieczÄ™Ä‡)
+52007	Dziki Dzik (PieczÄ™Ä‡)
+52008	Dziki Dzik (PieczÄ™Ä‡)
+52009	Dziki Dzik (PieczÄ™Ä‡)
+52010	Dziki Dzik (PieczÄ™Ä‡)
+52011	Dzielny Dzik (PieczÄ™Ä‡)
+52012	Dzielny Dzik (PieczÄ™Ä‡)
+52013	Dzielny Dzik (PieczÄ™Ä‡)
+52014	Dzielny Dzik (PieczÄ™Ä‡)
+52015	Dzielny Dzik (PieczÄ™Ä‡)
+52016	MÅ‚ody Wilk (PieczÄ™Ä‡)
+52017	MÅ‚ody Wilk (PieczÄ™Ä‡)
+52018	MÅ‚ody Wilk (PieczÄ™Ä‡)
+52019	MÅ‚ody Wilk (PieczÄ™Ä‡)
+52020	MÅ‚ody Wilk (PieczÄ™Ä‡)
+52021	Dziki Wilk (PieczÄ™Ä‡)
+52022	Dziki Wilk (PieczÄ™Ä‡)
+52023	Dziki Wilk (PieczÄ™Ä‡)
+52024	Dziki Wilk (PieczÄ™Ä‡)
+52025	Dziki Wilk (PieczÄ™Ä‡)
+52026	Dzielny Wilk (PieczÄ™Ä‡)
+52027	Dzielny Wilk (PieczÄ™Ä‡)
+52028	Dzielny Wilk (PieczÄ™Ä‡)
+52029	Dzielny Wilk (PieczÄ™Ä‡)
+52030	Dzielny Wilk (PieczÄ™Ä‡)
+52031	MÅ‚ody Lew (PieczÄ™Ä‡)
+52032	MÅ‚ody Lew (PieczÄ™Ä‡)
+52033	MÅ‚ody Lew (PieczÄ™Ä‡)
+52034	MÅ‚ody Lew (PieczÄ™Ä‡)
+52035	MÅ‚ody Lew (PieczÄ™Ä‡)
+52036	Dziki Lew (PieczÄ™Ä‡)
+52037	Dziki Lew (PieczÄ™Ä‡)
+52038	Dziki Lew (PieczÄ™Ä‡)
+52039	Dziki Lew (PieczÄ™Ä‡)
+52040	Dziki Lew (PieczÄ™Ä‡)
+52041	Dzielny Lew (PieczÄ™Ä‡)
+52042	Dzielny Lew (PieczÄ™Ä‡)
+52043	Dzielny Lew (PieczÄ™Ä‡)
+52044	Dzielny Lew (PieczÄ™Ä‡)
+52045	Dzielny Lew (PieczÄ™Ä‡)
+52046	MÅ‚ody Tygrys (PieczÄ™Ä‡)
+52047	MÅ‚ody Tygrys (PieczÄ™Ä‡)
+52048	MÅ‚ody Tygrys (PieczÄ™Ä‡)
+52049	MÅ‚ody Tygrys (PieczÄ™Ä‡)
+52050	MÅ‚ody Tygrys (PieczÄ™Ä‡)
+52051	Dziki Tygrys (PieczÄ™Ä‡)
+52052	Dziki Tygrys (PieczÄ™Ä‡)
+52053	Dziki Tygrys (PieczÄ™Ä‡)
+52054	Dziki Tygrys (PieczÄ™Ä‡)
+52055	Dziki Tygrys (PieczÄ™Ä‡)
+52056	Dzielny Tygrys (PieczÄ™Ä‡)
+52057	Dzielny Tygrys (PieczÄ™Ä‡)
+52058	Dzielny Tygrys (PieczÄ™Ä‡)
+52059	Dzielny Tygrys (PieczÄ™Ä‡)
+52060	Dzielny Tygrys (PieczÄ™Ä‡)
+52061	PieczÄ™Ä‡ MÅ‚odego Renifera
+52062	PieczÄ™Ä‡ MÅ‚odego Renifera
+52063	PieczÄ™Ä‡ MÅ‚odego Renifera
+52064	PieczÄ™Ä‡ MÅ‚odego Renifera
+52065	PieczÄ™Ä‡ MÅ‚odego Renifera
 52066	Piecz. Dzikiego Renifera
 52067	Piecz. Dzikiego Renifera
 52068	Piecz. Dzikiego Renifera
@@ -4917,11 +4917,11 @@ VNUM	LOCALE_NAME
 52073	Piecz. Dziel. Renifera
 52074	Piecz. Dziel. Renifera
 52075	Piecz. Dziel. Renifera
-52076	Pieczêæ M³odego Renifera
-52077	Pieczêæ M³odego Renifera
-52078	Pieczêæ M³odego Renifera
-52079	Pieczêæ M³odego Renifera
-52080	Pieczêæ M³odego Renifera
+52076	PieczÄ™Ä‡ MÅ‚odego Renifera
+52077	PieczÄ™Ä‡ MÅ‚odego Renifera
+52078	PieczÄ™Ä‡ MÅ‚odego Renifera
+52079	PieczÄ™Ä‡ MÅ‚odego Renifera
+52080	PieczÄ™Ä‡ MÅ‚odego Renifera
 52081	Piecz. Dzikiego Renifera
 52082	Piecz. Dzikiego Renifera
 52083	Piecz. Dzikiego Renifera
@@ -4932,50 +4932,50 @@ VNUM	LOCALE_NAME
 52088	Piecz. Dzieln. Renifera
 52089	Piecz. Dzieln. Renifera
 52090	Piecz. Dzieln. Renifera
-52091	Pieczêæ M³odego Dragora
-52092	Pieczêæ M³odego Dragora
-52093	Pieczêæ M³odego Dragora
-52094	Pieczêæ M³odego Dragora
-52095	Pieczêæ M³odego Dragora
-52096	Pieczêæ Dzikiego Dragora
-52097	Pieczêæ Dzikiego Dragora
-52098	Pieczêæ Dzikiego Dragora
-52099	Pieczêæ Dzikiego Dragora
-52100	Pieczêæ Dzikiego Dragora
-52101	Pieczêæ Œmia³ego Dragora
-52102	Pieczêæ Œmia³ego Dragora
-52103	Pieczêæ Œmia³ego Dragora
-52104	Pieczêæ Œmia³ego Dragora
-52105	Pieczêæ Œmia³ego Dragora
-52701	Œwiadectwo Lwa
-52702	Œwiadectwo Tygrysa
-52703	Œwiadectwo Dzika
-52704	Œwiadectwo Wilka
-52705	Œwiadectwo Renifera (m)
-52706	Œwiadectwo Renifera (¿)
+52091	PieczÄ™Ä‡ MÅ‚odego Dragora
+52092	PieczÄ™Ä‡ MÅ‚odego Dragora
+52093	PieczÄ™Ä‡ MÅ‚odego Dragora
+52094	PieczÄ™Ä‡ MÅ‚odego Dragora
+52095	PieczÄ™Ä‡ MÅ‚odego Dragora
+52096	PieczÄ™Ä‡ Dzikiego Dragora
+52097	PieczÄ™Ä‡ Dzikiego Dragora
+52098	PieczÄ™Ä‡ Dzikiego Dragora
+52099	PieczÄ™Ä‡ Dzikiego Dragora
+52100	PieczÄ™Ä‡ Dzikiego Dragora
+52101	PieczÄ™Ä‡ ÅšmiaÅ‚ego Dragora
+52102	PieczÄ™Ä‡ ÅšmiaÅ‚ego Dragora
+52103	PieczÄ™Ä‡ ÅšmiaÅ‚ego Dragora
+52104	PieczÄ™Ä‡ ÅšmiaÅ‚ego Dragora
+52105	PieczÄ™Ä‡ ÅšmiaÅ‚ego Dragora
+52701	Åšwiadectwo Lwa
+52702	Åšwiadectwo Tygrysa
+52703	Åšwiadectwo Dzika
+52704	Åšwiadectwo Wilka
+52705	Åšwiadectwo Renifera (m)
+52706	Åšwiadectwo Renifera (Å¼)
 52707	Certyfikat Dragora
 53001	NoNAme
-53002	Pieczêæ Reniferka
-53003	Pieczêæ Lodowego Feniksa
-53005	Azraeluœ
-53006	Azraeluœ (z³oty)
-53007	Pieczêæ Bambi
-53008	Knuud (Pieczêæ)
-53009	Bao Bao (Pieczêæ)
-53010	Pieczêæ Leonidasa
-53011	Pieczêæ Khana
-53012	Pieczêæ Boczusia
-53013	Pieczêæ Rufusa
-53014	Pieczêæ Kata
-53015	Pieczêæ Kata (z³ota)
-53016	Pieczêæ Kostka
-53017	Pieczêæ Feniksa Jadeitu
+53002	PieczÄ™Ä‡ Reniferka
+53003	PieczÄ™Ä‡ Lodowego Feniksa
+53005	AzraeluÅ›
+53006	AzraeluÅ› (zÅ‚oty)
+53007	PieczÄ™Ä‡ Bambi
+53008	Knuud (PieczÄ™Ä‡)
+53009	Bao Bao (PieczÄ™Ä‡)
+53010	PieczÄ™Ä‡ Leonidasa
+53011	PieczÄ™Ä‡ Khana
+53012	PieczÄ™Ä‡ Boczusia
+53013	PieczÄ™Ä‡ Rufusa
+53014	PieczÄ™Ä‡ Kata
+53015	PieczÄ™Ä‡ Kata (zÅ‚ota)
+53016	PieczÄ™Ä‡ Kostka
+53017	PieczÄ™Ä‡ Feniksa Jadeitu
 53501	NoNAme
 53502	Skrzynia Reniferka
 53503	Klatka Lodowego Feniksa
 53504	NoNAme
 53505	Skrzynia Azraelusia
-53506	Skrz. Azraelusia (z³ota)
+53506	Skrz. Azraelusia (zÅ‚ota)
 53507	Skrzynia Bambi
 53508	Skrzynia Knuuda
 53509	Skrzynia Bao Bao
@@ -4984,86 +4984,86 @@ VNUM	LOCALE_NAME
 53512	Skrzynia Boczusia
 53513	Skrzynia Rufusa
 53514	Skrzynia Kata
-53515	Skrzynia Kata (z³ota)
+53515	Skrzynia Kata (zÅ‚ota)
 53516	Trupia Skrzynia
 53517	Jadeitowa Klatka
-60001	¯ó³æ
+60001	Å»Ã³Å‚Ä‡
 60002	Rekomend. Od Dozorcy
 60003	Heroiczny Symbol
-69000	Sekret Walniêcia
+69000	Sekret WalniÄ™cia
 69010	Sekret Chi
 69020	Sekret Duchowego Uderz.
 69030	Sekret Uderz. Ataku
 69040	Sekret Zasadzki
-69050	Sekret Strza³y
+69050	Sekret StrzaÅ‚y
 69060	Sekret Bezszelest. Chodu
 69070	Sekret Szybkiego Uderz.
 69080	Sekret Mrocznego Uderz.
 69090	Sekret Smoczego Wiru
 69100	Sekr.Uderz.Nieba I Ziemi
 69110	Sekret Czarowania Ostrza
-69120	Sekret Lataj¹cego Taliz.
+69120	Sekret LatajÄ…cego Taliz.
 69130	Sekret Leczenia
 69140	Sekret Pomocy Smoka
-69150	Sekret B³ogos³awieñstwa
+69150	Sekret BÅ‚ogosÅ‚awieÅ„stwa
 70001	Lalka Bogini
-70002	Trzecia Rêka
-70003	Ksi¹¿ka Lidera
-70004	Medal Za Pracowitoœæ
-70005	Pierœcieñ Doœwiadczenia
-70006	Pierœcieñ Jêzyka
-70007	Pierœcieñ Przeniesienia
-70008	Bia³a Flaga
-70009	Szkatu³ka
+70002	Trzecia RÄ™ka
+70003	KsiÄ…Å¼ka Lidera
+70004	Medal Za PracowitoÅ›Ä‡
+70005	PierÅ›cieÅ„ DoÅ›wiadczenia
+70006	PierÅ›cieÅ„ JÄ™zyka
+70007	PierÅ›cieÅ„ Przeniesienia
+70008	BiaÅ‚a Flaga
+70009	SzkatuÅ‚ka
 70010	Bilet Do Magazynu
 70011	Ulepszona Butelka
-70012	£za Bogini
-70013	Olbrz. £za Bogini
-70014	Pigu³ka Krwi
+70012	Åza Bogini
+70013	Olbrz. Åza Bogini
+70014	PiguÅ‚ka Krwi
 70015	Tania Szczotka
-70016	Indiañska Lalka
-70017	Indiañska Bransoleta
+70016	IndiaÅ„ska Lalka
+70017	IndiaÅ„ska Bransoleta
 70018	Kolczyki Feniksa
 70019	Naszyjnik Milionera
 70020	Wino z Kwiatu Brzoskwini
-70021	B³ogos³awieñstwo Anio³a
+70021	BÅ‚ogosÅ‚awieÅ„stwo AnioÅ‚a
 70022	Serce Bera
-70023	Laska Mêdrca
-70024	Marmur B³ogos³awieñstwa
-70025	Pierœcieñ Godnoœci
-70026	Gin¹ce Lustro
+70023	Laska MÄ™drca
+70024	Marmur BÅ‚ogosÅ‚awieÅ„stwa
+70025	PierÅ›cieÅ„ GodnoÅ›ci
+70026	GinÄ…ce Lustro
 70027	Notatka Kowala
-70028	Notatka Mêdrca
-70029	Czerwone Pióro
+70028	Notatka MÄ™drca
+70029	Czerwone PiÃ³ro
 70030	Czerwony Monokl
 70031	Broszura Szermierki
-70032	Instr. Dwurêcz. Miecza
-70033	Instr. Jednorêcz. Miecza
+70032	Instr. DwurÄ™cz. Miecza
+70033	Instr. JednorÄ™cz. Miecza
 70034	Instr. Sztyletu
 70035	Magiczna Ruda Miedzi
 70036	Notatka Honor. Studenta
-70037	Ksiêga Zapomnienia
-70038	Peleryna Mêstwa
-70039	Podrêcznik Kowala
-70040	Upartoœæ Orków
-70041	Piêœæ Wyznawcy
-70042	Od³amek Diab³a
-70043	Rêkawica Z³odzieja
-70044	Paznokieæ Mroczn. Lorda
+70037	KsiÄ™ga Zapomnienia
+70038	Peleryna MÄ™stwa
+70039	PodrÄ™cznik Kowala
+70040	UpartoÅ›Ä‡ OrkÃ³w
+70041	PiÄ™Å›Ä‡ Wyznawcy
+70042	OdÅ‚amek DiabÅ‚a
+70043	RÄ™kawica ZÅ‚odzieja
+70044	PaznokieÄ‡ Mroczn. Lorda
 70045	Pazur Mrocznego Lorda
-70046	Graal Boga Smoków
-70047	Pierœcieñ Jêz.(Przyk³ad)
-70048	P³aszcz Uciekiniera
-70049	Pierœcieñ Lucy
-70050	Symb. Króla Przepowiedni
-70051	Rêkawica Króla Przepow.
+70046	Graal Boga SmokÃ³w
+70047	PierÅ›cieÅ„ JÄ™z.(PrzykÅ‚ad)
+70048	PÅ‚aszcz Uciekiniera
+70049	PierÅ›cieÅ„ Lucy
+70050	Symb. KrÃ³la Przepowiedni
+70051	RÄ™kawica KrÃ³la Przepow.
 70052	Amulet Karmy 1
 70053	Amulet Karmy 2
 70054	Amulet Karmy 3
 70056	Sok z Owocu Granatu+
-70057	Peleryna Mêstwa
-70058	Pierœcieñ Teleportacji
-70101	Ksiêga Opatrznoœci
+70057	Peleryna MÄ™stwa
+70058	PierÅ›cieÅ„ Teleportacji
+70101	KsiÄ™ga OpatrznoÅ›ci
 70102	Fasolka Zen
 70103	Sutra
 70104	Marmur Polimorfii
@@ -5071,228 +5071,228 @@ VNUM	LOCALE_NAME
 70106	Marmur Polimorfii
 70107	Marmur Polimorfii
 70201	Wybielacz
-70202	Bia³a Farba Do W³osów
-70203	Blond Farba Do W³osów
-70204	Czerw. Farba Do W³osów
-70205	Br¹zowa Farba Do W³osów
-70206	Czarna Farba Do W³osów
+70202	BiaÅ‚a Farba Do WÅ‚osÃ³w
+70203	Blond Farba Do WÅ‚osÃ³w
+70204	Czerw. Farba Do WÅ‚osÃ³w
+70205	BrÄ…zowa Farba Do WÅ‚osÃ³w
+70206	Czarna Farba Do WÅ‚osÃ³w
 70207	Wybielacz
-70208	Br¹zowa Farba
-70251	Czerwone Zio³o
-70252	Niebieskie Zio³o
-70253	Zielone Zio³o
-70254	Fioletowe Zio³o
-70301	Pierœcionek Zarêczynowy
-70302	Obr¹czka Œlubna
-71001	Zwój Egzorcyzmu
-71002	Zwój Powrotu Statusu
-71003	Zwój Powrotu Umiejêtn.
+70208	BrÄ…zowa Farba
+70251	Czerwone ZioÅ‚o
+70252	Niebieskie ZioÅ‚o
+70253	Zielone ZioÅ‚o
+70254	Fioletowe ZioÅ‚o
+70301	PierÅ›cionek ZarÄ™czynowy
+70302	ObrÄ…czka Åšlubna
+71001	ZwÃ³j Egzorcyzmu
+71002	ZwÃ³j Powrotu Statusu
+71003	ZwÃ³j Powrotu UmiejÄ™tn.
 71004	Medal Smoka
-71005	Pierœcieñ Jêzyka
-71006	Pierœcieñ Jêzyka
-71007	Pierœcieñ Jêzyka
-71008	Rybie Wnêtrznoœci
-71009	Powiêkszony Sk³ad
-71010	Trzecia Rêka
-71011	Maska Uczuæ
-71012	Ksi¹¿ka Lidera
+71005	PierÅ›cieÅ„ JÄ™zyka
+71006	PierÅ›cieÅ„ JÄ™zyka
+71007	PierÅ›cieÅ„ JÄ™zyka
+71008	Rybie WnÄ™trznoÅ›ci
+71009	PowiÄ™kszony SkÅ‚ad
+71010	Trzecia RÄ™ka
+71011	Maska UczuÄ‡
+71012	KsiÄ…Å¼ka Lidera
 71013	Fajerwerki
 71014	Mikstura Ataku +10
-71015	Pierœcieñ Doœwiadczenia
-71016	Rêkawica Z³odzieja
-71017	Medal Szczêœcia
-71018	B³ogos³awieñstwo ¯ycia
-71019	B³ogos³awieñstwo Magii
-71020	B³ogos³awieñstwo Smoka
-71021	Zwój Wojny
-71022	Powrót - Inteligencja
-71023	Powrót - Witalnoœæ
-71024	Powrót - Si³a
-71025	Kamieñ Kowala
+71015	PierÅ›cieÅ„ DoÅ›wiadczenia
+71016	RÄ™kawica ZÅ‚odzieja
+71017	Medal SzczÄ™Å›cia
+71018	BÅ‚ogosÅ‚awieÅ„stwo Å»ycia
+71019	BÅ‚ogosÅ‚awieÅ„stwo Magii
+71020	BÅ‚ogosÅ‚awieÅ„stwo Smoka
+71021	ZwÃ³j Wojny
+71022	PowrÃ³t - Inteligencja
+71023	PowrÃ³t - WitalnoÅ›Ä‡
+71024	PowrÃ³t - SiÅ‚a
+71025	KamieÅ„ Kowala
 71026	Magiczny Metal
-71027	¯ycie Boga Smoków
-71028	Atak Boga Smoków
-71029	Inteligencja Boga Smoków
-71030	Obrona Boga Smoków
-71031	Wsparcie Boga Smoków
-71032	Zwój Boga Smoków
-71033	Maska Uczuæ
+71027	Å»ycie Boga SmokÃ³w
+71028	Atak Boga SmokÃ³w
+71029	Inteligencja Boga SmokÃ³w
+71030	Obrona Boga SmokÃ³w
+71031	Wsparcie Boga SmokÃ³w
+71032	ZwÃ³j Boga SmokÃ³w
+71033	Maska UczuÄ‡
 71034	Mikstura Ataku +15
 71035	Eliksir Poszukiwacza
-71036	Zwój Przyw. - Wódz Orków
-71037	Zwój Przyw. - Ezot. W³.
-71038	Zwój Przyw. - Król. Paj.
-71039	Zwój Przyw. - Pust. ¯ó³w
-71040	Zwój Przyw. - Ogn. Król
-71041	Zwój Przyw. - 9 Ogonów
-71042	Zwój Przyw. - Król Dem.
-71043	Zwój Przyw. - Duch Tygr.
-71044	D³oñ Krytyka
-71045	D³oñ Przebicia
+71036	ZwÃ³j Przyw. - WÃ³dz OrkÃ³w
+71037	ZwÃ³j Przyw. - Ezot. WÅ‚.
+71038	ZwÃ³j Przyw. - KrÃ³l. Paj.
+71039	ZwÃ³j Przyw. - Pust. Å»Ã³Å‚w
+71040	ZwÃ³j Przyw. - Ogn. KrÃ³l
+71041	ZwÃ³j Przyw. - 9 OgonÃ³w
+71042	ZwÃ³j Przyw. - KrÃ³l Dem.
+71043	ZwÃ³j Przyw. - Duch Tygr.
+71044	DÅ‚oÅ„ Krytyka
+71045	DÅ‚oÅ„ Przebicia
 71047	Olejek Kamienia Dusz
-71048	Zaklêcie Modyfikacji
+71048	ZaklÄ™cie Modyfikacji
 71049	Szpula Jedwabiu
-71050	Mikstura Szybkoœci
+71050	Mikstura SzybkoÅ›ci
 71054	Olejek Wygnania
 71055	Olejek Nazwy
 71056	Olejek Niebios
-71057	Zwój Przyw. - ¯.S. Drew.
-71058	Zwój Przyw. - ¯. Miedzi
-71059	Zwój Przyw. - ¯. Srebra
-71060	Zwój Przyw. - ¯y³a Z³ota
-71061	Zwój Przyw. - ¯. Jadeitu
-71062	Zwój Przyw. - ¯. Ebonitu
-71063	Zwój Przyw. - S. Muszli
-71064	Zwój Przyw. - ¯.B. Z³ota
-71065	Zwój Przyw. - ¯. Kryszt.
-71066	Zwój Przyw. - ¯. Amet.
-71067	Zwój Przyw. - ¯.N. £ez
-71068	Pióro Ptaka Mi³oœci
+71057	ZwÃ³j Przyw. - Å».S. Drew.
+71058	ZwÃ³j Przyw. - Å». Miedzi
+71059	ZwÃ³j Przyw. - Å». Srebra
+71060	ZwÃ³j Przyw. - Å»yÅ‚a ZÅ‚ota
+71061	ZwÃ³j Przyw. - Å». Jadeitu
+71062	ZwÃ³j Przyw. - Å». Ebonitu
+71063	ZwÃ³j Przyw. - S. Muszli
+71064	ZwÃ³j Przyw. - Å».B. ZÅ‚ota
+71065	ZwÃ³j Przyw. - Å». Kryszt.
+71066	ZwÃ³j Przyw. - Å». Amet.
+71067	ZwÃ³j Przyw. - Å».N. Åez
+71068	PiÃ³ro Ptaka MiÅ‚oÅ›ci
 71069	Kolczyki Harmonii
-71070	Bransoleta Mi³oœci
-71071	Kolczyki Mi³oœci
+71070	Bransoleta MiÅ‚oÅ›ci
+71071	Kolczyki MiÅ‚oÅ›ci
 71072	Bransoleta Harmonii
-71073	Naszyjnik Mi³oœci
+71073	Naszyjnik MiÅ‚oÅ›ci
 71074	Naszyjnik Harmonii
-71075	Farba do W³osów (Bia³a)
-71076	Farba do W³osów (Blond)
-71077	Farba do W³osów (Czerw.)
-71078	Farba do W³osów (Br¹z.)
-71079	Farba do W³osów (Czarna)
-71080	Kamieñ Metin (S³aby)
-71081	Kamieñ Metin (Œredni)
-71082	Kamieñ Metin (Silny)
-71083	Ksiêga Obróbki Kamienia
+71075	Farba do WÅ‚osÃ³w (BiaÅ‚a)
+71076	Farba do WÅ‚osÃ³w (Blond)
+71077	Farba do WÅ‚osÃ³w (Czerw.)
+71078	Farba do WÅ‚osÃ³w (BrÄ…z.)
+71079	Farba do WÅ‚osÃ³w (Czarna)
+71080	KamieÅ„ Metin (SÅ‚aby)
+71081	KamieÅ„ Metin (Åšredni)
+71082	KamieÅ„ Metin (Silny)
+71083	KsiÄ™ga ObrÃ³bki Kamienia
 71084	Zaczarowanie Przedmiotu
 71085	Wzmocnienie Przedmiotu
 71086	Zadanie Dla Poz. (20-29)
 71087	Zadanie Dla Poz. (30-39)
-71088	Ksiêga Misji (£atwa)
-71089	Ksiêga Misji (Normalna)
-71090	Ksiêga Misji (Trudna)
+71088	KsiÄ™ga Misji (Åatwa)
+71089	KsiÄ™ga Misji (Normalna)
+71090	KsiÄ™ga Misji (Trudna)
 71091	Olejek Handlu
-71092	Ksiêga Polimorfii
+71092	KsiÄ™ga Polimorfii
 71093	Marmur Polimorfii
 71094	Rada Pustelnika
 71095	Przepustka
 71096	Medal Portalu
-71099	Pierœcieñ Zastêpstwa
-71100	Zwój Zmiany Profesji
-71101	Mikstura Poœpiechu
+71099	PierÅ›cieÅ„ ZastÄ™pstwa
+71100	ZwÃ³j Zmiany Profesji
+71101	Mikstura PoÅ›piechu
 71102	NoNAme
-71103	Zwój Redystrybucji (WIT)
-71104	Zwój Redystrybucji (INT)
-71105	Zwój Redystrybucji (SI£)
-71106	Zwój Redystrybucji (ZRÊ)
-71107	Owoc ¯ycia
+71103	ZwÃ³j Redystrybucji (WIT)
+71104	ZwÃ³j Redystrybucji (INT)
+71105	ZwÃ³j Redystrybucji (SIÅ)
+71106	ZwÃ³j Redystrybucji (ZRÄ˜)
+71107	Owoc Å»ycia
 71108	Sok z Owocu Granatu
-71109	Zwój Korekcji
+71109	ZwÃ³j Korekcji
 71110	Cukier dla Konia
-71113	Szk³o Intuicji
-71114	Pieczêæ Dzika (¿ó³ta)
-71115	Pieczêæ Dzika (nieb.)
-71116	Pieczêæ Wilka (¿ó³ta)
-71117	Pieczêæ Wilka (nieb.)
-71118	Pieczêæ Tygrysa (¿ó³ta)
-71119	Pieczêæ Tygrysa (nieb.)
-71120	Pieczêæ Lwa (¿ó³ta)
-71121	Pieczêæ Lwa (niebieska)
+71113	SzkÅ‚o Intuicji
+71114	PieczÄ™Ä‡ Dzika (Å¼Ã³Å‚ta)
+71115	PieczÄ™Ä‡ Dzika (nieb.)
+71116	PieczÄ™Ä‡ Wilka (Å¼Ã³Å‚ta)
+71117	PieczÄ™Ä‡ Wilka (nieb.)
+71118	PieczÄ™Ä‡ Tygrysa (Å¼Ã³Å‚ta)
+71119	PieczÄ™Ä‡ Tygrysa (nieb.)
+71120	PieczÄ™Ä‡ Lwa (Å¼Ã³Å‚ta)
+71121	PieczÄ™Ä‡ Lwa (niebieska)
 71122	NoNAme
-71123	Smocza £uska
-71124	Bia³y Lew
-71125	Pieczêæ Dzika Wojennego
-71126	Pieczêæ Wilka Wojennego
-71127	Pieczêæ Szar¿. Tygrysa
-71128	Pieczêæ Walecznego Lwa
+71123	Smocza Åuska
+71124	BiaÅ‚y Lew
+71125	PieczÄ™Ä‡ Dzika Wojennego
+71126	PieczÄ™Ä‡ Wilka Wojennego
+71127	PieczÄ™Ä‡ SzarÅ¼. Tygrysa
+71128	PieczÄ™Ä‡ Walecznego Lwa
 71129	Smoczy Szpon
 71130	Przepustka
-71131	Pieczêæ Czarnego Konia
-71132	Pieczêæ Czarnego Konia
-71133	Pieczêæ Czarnego Konia
-71134	Pieczêæ Czarnego Konia
-71135	Pierœcieñ Pó³ksiê¿yca
-71136	Lizak Potêgi
-71137	Pieczêæ T.B. (niebieski)
-71138	Pieczêæ T.B. (czerwona)
-71139	Pieczêæ T.B. (z³oty)
-71140	Pieczêæ T.B. (zielony)
-71141	Pieczêæ T.B. (szary)
-71142	Pieczêæ T.B. (bia³y)
-71143	Pierœcieñ Radoœci
-71144	Œwi¹teczna Skrzynia
-71145	Amulet Wiecznej Mi³oœci
-71146	Skrzynia Amora (ró¿owa)
+71131	PieczÄ™Ä‡ Czarnego Konia
+71132	PieczÄ™Ä‡ Czarnego Konia
+71133	PieczÄ™Ä‡ Czarnego Konia
+71134	PieczÄ™Ä‡ Czarnego Konia
+71135	PierÅ›cieÅ„ PÃ³Å‚ksiÄ™Å¼yca
+71136	Lizak PotÄ™gi
+71137	PieczÄ™Ä‡ T.B. (niebieski)
+71138	PieczÄ™Ä‡ T.B. (czerwona)
+71139	PieczÄ™Ä‡ T.B. (zÅ‚oty)
+71140	PieczÄ™Ä‡ T.B. (zielony)
+71141	PieczÄ™Ä‡ T.B. (szary)
+71142	PieczÄ™Ä‡ T.B. (biaÅ‚y)
+71143	PierÅ›cieÅ„ RadoÅ›ci
+71144	ÅšwiÄ…teczna Skrzynia
+71145	Amulet Wiecznej MiÅ‚oÅ›ci
+71146	Skrzynia Amora (rÃ³Å¼owa)
 71147	Skrzynia Amora (nieb.)
-71148	Pierœcieñ Si³y Woli
-71149	Pierœcieñ Œmier. Mocy
+71148	PierÅ›cieÅ„ SiÅ‚y Woli
+71149	PierÅ›cieÅ„ Åšmier. Mocy
 71150	Magiczne Jajo
 71151	Zielony Czar
-71152	Zielona Si³a
-71153	Mikstura M¹droœci
+71152	Zielona SiÅ‚a
+71153	Mikstura MÄ…droÅ›ci
 71154	Mikstura Zarania (3h)
-71155	Mikstura M¹droœci (3h)
+71155	Mikstura MÄ…droÅ›ci (3h)
 71156	Mikstura Ducha (3h)
 71157	NoNAme
 71158	Medal Bohatera
 71159	Skrzynia Milona
 71160	Skrzynia Ateny
 71161	Equus Purpur
-71164	Pieczêæ Kometka
+71164	PieczÄ™Ä‡ Kometka
 71165	Piecz. Polarnego Drap.
-71166	Pancerna Panda (Pieczêæ)
-71171	Pieczêæ Jednoro¿ca
-71172	Pieczêæ Mary Sennej
-72001	Pierœcieñ Doœwiadczenia
-72002	Pierœcieñ Doœwiadczenia
-72003	Pierœcieñ Doœwiadczenia
-72004	Rêkawica Z³odzieja
-72005	Rêkawica Z³odzieja
-72006	Rêkawica Z³odzieja
+71166	Pancerna Panda (PieczÄ™Ä‡)
+71171	PieczÄ™Ä‡ JednoroÅ¼ca
+71172	PieczÄ™Ä‡ Mary Sennej
+72001	PierÅ›cieÅ„ DoÅ›wiadczenia
+72002	PierÅ›cieÅ„ DoÅ›wiadczenia
+72003	PierÅ›cieÅ„ DoÅ›wiadczenia
+72004	RÄ™kawica ZÅ‚odzieja
+72005	RÄ™kawica ZÅ‚odzieja
+72006	RÄ™kawica ZÅ‚odzieja
 72007	Szpula Jedwabiu
 72008	Szpula Jedwabiu
 72009	Szpula Jedwabiu
-72010	Pióro Ptaka Mi³oœci
-72011	Pióro Ptaka Mi³oœci
-72012	Pióro Ptaka Mi³oœci
-72013	Rybie Wnêtrznoœci
-72014	Rybie Wnêtrznoœci
-72015	Rybie Wnêtrznoœci
-72016	Trzecia Rêka
-72017	Trzecia Rêka
-72018	Trzecia Rêka
-72019	Powiêkszony Sk³ad
-72020	Powiêkszony Sk³ad
-72021	Powiêkszony Sk³ad
-72022	Medal Szczêœcia
-72023	Medal Szczêœcia
-72024	Medal Szczêœcia
-72025	D³oñ Przebicia
-72026	D³oñ Krytyka
-72027	D³oñ Krytyka
-72028	Maska Uczuæ
-72029	Maska Uczuæ
-72030	Maska Uczuæ
-72031	Atak Boga Smoków
-72032	Atak Boga Smoków
-72033	Atak Boga Smoków
-72034	Obrona Boga Smoków
-72035	Obrona Boga Smoków
-72036	Obrona Boga Smoków
-72037	¯ycie Boga Smoków
-72038	¯ycie Boga Smoków
-72039	¯ycie Boga Smoków
-72040	Inteligencja Boga Smoków
-72041	Inteligencja Boga Smoków
-72042	Inteligencja Boga Smoków
-72043	Ksi¹¿ka Lidera
-72044	Ksi¹¿ka Lidera
-72045	Ksi¹¿ka Lidera
-72046	D³oñ Krytyka
-72047	D³oñ Krytyka
-72048	D³oñ Krytyka
-72049	Pierœcieñ Doœwiadczenia
-72050	Pierœcieñ Doœwiadczenia
-72301	Zwój B³ogos³awieñstwa
+72010	PiÃ³ro Ptaka MiÅ‚oÅ›ci
+72011	PiÃ³ro Ptaka MiÅ‚oÅ›ci
+72012	PiÃ³ro Ptaka MiÅ‚oÅ›ci
+72013	Rybie WnÄ™trznoÅ›ci
+72014	Rybie WnÄ™trznoÅ›ci
+72015	Rybie WnÄ™trznoÅ›ci
+72016	Trzecia RÄ™ka
+72017	Trzecia RÄ™ka
+72018	Trzecia RÄ™ka
+72019	PowiÄ™kszony SkÅ‚ad
+72020	PowiÄ™kszony SkÅ‚ad
+72021	PowiÄ™kszony SkÅ‚ad
+72022	Medal SzczÄ™Å›cia
+72023	Medal SzczÄ™Å›cia
+72024	Medal SzczÄ™Å›cia
+72025	DÅ‚oÅ„ Przebicia
+72026	DÅ‚oÅ„ Krytyka
+72027	DÅ‚oÅ„ Krytyka
+72028	Maska UczuÄ‡
+72029	Maska UczuÄ‡
+72030	Maska UczuÄ‡
+72031	Atak Boga SmokÃ³w
+72032	Atak Boga SmokÃ³w
+72033	Atak Boga SmokÃ³w
+72034	Obrona Boga SmokÃ³w
+72035	Obrona Boga SmokÃ³w
+72036	Obrona Boga SmokÃ³w
+72037	Å»ycie Boga SmokÃ³w
+72038	Å»ycie Boga SmokÃ³w
+72039	Å»ycie Boga SmokÃ³w
+72040	Inteligencja Boga SmokÃ³w
+72041	Inteligencja Boga SmokÃ³w
+72042	Inteligencja Boga SmokÃ³w
+72043	KsiÄ…Å¼ka Lidera
+72044	KsiÄ…Å¼ka Lidera
+72045	KsiÄ…Å¼ka Lidera
+72046	DÅ‚oÅ„ Krytyka
+72047	DÅ‚oÅ„ Krytyka
+72048	DÅ‚oÅ„ Krytyka
+72049	PierÅ›cieÅ„ DoÅ›wiadczenia
+72050	PierÅ›cieÅ„ DoÅ›wiadczenia
+72301	ZwÃ³j BÅ‚ogosÅ‚awieÅ„stwa
 72302	NoNAme
 72303	NoNAme
 72304	NoNAme
@@ -5306,106 +5306,106 @@ VNUM	LOCALE_NAME
 72312	NoNAme
 72313	NoNAme
 72314	NoNAme
-72501	Pierœcieñ Doœw. (iCafe)
-72502	Rêkawica Z³odz. (iCafe)
+72501	PierÅ›cieÅ„ DoÅ›w. (iCafe)
+72502	RÄ™kawica ZÅ‚odz. (iCafe)
 72701	Buty Wiatru
 72702	Buty Wiatru+ (do handlu)
-72703	Kolczyk z koœci tygrysa
-72704	Kolczyk z koœci smoka
-72705	Brans. z koœci tygrysa
-72706	Brans. z koœci smoka
-72709	Kolczyk z koœci tygrysa
-72710	Kolczyk z koœci smoka
-72711	Brans. z koœci tygrysa
-72712	Brans. z koœci smoka
-72723	Eliksir S³oñca (M)
-72724	Eliksir S³oñca (Œ)
-72725	Eliksir S³oñca (D)
-72726	Eliksir S³oñca (S)
-72727	Eliksir Ksiê¿yca (M)
-72728	Eliksir Ksiê¿yca (Œ)
-72729	Eliksir Ksiê¿yca (D)
-72730	Eliksir Ksiê¿yca (S)
+72703	Kolczyk z koÅ›ci tygrysa
+72704	Kolczyk z koÅ›ci smoka
+72705	Brans. z koÅ›ci tygrysa
+72706	Brans. z koÅ›ci smoka
+72709	Kolczyk z koÅ›ci tygrysa
+72710	Kolczyk z koÅ›ci smoka
+72711	Brans. z koÅ›ci tygrysa
+72712	Brans. z koÅ›ci smoka
+72723	Eliksir SÅ‚oÅ„ca (M)
+72724	Eliksir SÅ‚oÅ„ca (Åš)
+72725	Eliksir SÅ‚oÅ„ca (D)
+72726	Eliksir SÅ‚oÅ„ca (S)
+72727	Eliksir KsiÄ™Å¼yca (M)
+72728	Eliksir KsiÄ™Å¼yca (Åš)
+72729	Eliksir KsiÄ™Å¼yca (D)
+72730	Eliksir KsiÄ™Å¼yca (S)
 73001	Modna Fryzura (czerw.)
 73002	Modna Fryzura (jasna)
 73003	Modna Fryzura (nieb.)
-73004	Modna Fryzura (br¹z.)
+73004	Modna Fryzura (brÄ…z.)
 73005	Chusta
 73006	Chusta
 73007	Chusta
 73008	Chusta
-73009	D³ugie W³osy (czar.)
-73010	D³ugie W³osy (czerw.)
-73011	D³ugie W³osy (br¹z.)
-73012	D³ugie W³osy (ziel.)
-73251	Kucyk (br¹z.)
+73009	DÅ‚ugie WÅ‚osy (czar.)
+73010	DÅ‚ugie WÅ‚osy (czerw.)
+73011	DÅ‚ugie WÅ‚osy (brÄ…z.)
+73012	DÅ‚ugie WÅ‚osy (ziel.)
+73251	Kucyk (brÄ…z.)
 73252	Kucyk (ziel.)
 73253	Kucyk (nieb.)
 73254	Kucyk (jasny)
-73255	Krótkie W³osy (czerw.)
-73256	Krótkie W³osy (br¹z.)
-73257	Krótkie W³osy (blond)
-73258	Krótkie W³osy (fiol.)
-73259	Krótkie (czerw.)
-73260	Krótkie (nieb.)
-73261	Krótkie (czar.)
-73262	Krótkie (blond)
-73501	Spiête (jasne)
-73502	Spiête (br¹z.)
-73503	Spiête (blond)
-73504	Spiête (ziel.)
-73505	Charyzm. W³osy (bia³e)
-73506	Charyzm. W³osy (czerw.)
-73507	Charyzm. W³osy (czar.)
-73508	Charyzm. W³osy (purp.)
-73509	Zawiniête (bia³e)
-73510	Zawiniête (nieb.)
-73511	Zawiniête (czar.)
-73512	Zawiniête (br¹z.)
-73751	Spinka Motyl (br¹z.)
+73255	KrÃ³tkie WÅ‚osy (czerw.)
+73256	KrÃ³tkie WÅ‚osy (brÄ…z.)
+73257	KrÃ³tkie WÅ‚osy (blond)
+73258	KrÃ³tkie WÅ‚osy (fiol.)
+73259	KrÃ³tkie (czerw.)
+73260	KrÃ³tkie (nieb.)
+73261	KrÃ³tkie (czar.)
+73262	KrÃ³tkie (blond)
+73501	SpiÄ™te (jasne)
+73502	SpiÄ™te (brÄ…z.)
+73503	SpiÄ™te (blond)
+73504	SpiÄ™te (ziel.)
+73505	Charyzm. WÅ‚osy (biaÅ‚e)
+73506	Charyzm. WÅ‚osy (czerw.)
+73507	Charyzm. WÅ‚osy (czar.)
+73508	Charyzm. WÅ‚osy (purp.)
+73509	ZawiniÄ™te (biaÅ‚e)
+73510	ZawiniÄ™te (nieb.)
+73511	ZawiniÄ™te (czar.)
+73512	ZawiniÄ™te (brÄ…z.)
+73751	Spinka Motyl (brÄ…z.)
 73752	Spinka Motyl (czar.)
 73753	Spinka Motyl (nieb.)
-73754	Spinka Motyl (bia³a)
-73755	Pó³d³ugie W³osy (br¹z.)
-73756	D³ugie W³osy (czar.)
-73757	D³ugie W³osy (blond)
-73758	D³ugie W³osy (fiol.)
-73759	Dawna Fryzura (br¹z.)
+73754	Spinka Motyl (biaÅ‚a)
+73755	PÃ³Å‚dÅ‚ugie WÅ‚osy (brÄ…z.)
+73756	DÅ‚ugie WÅ‚osy (czar.)
+73757	DÅ‚ugie WÅ‚osy (blond)
+73758	DÅ‚ugie WÅ‚osy (fiol.)
+73759	Dawna Fryzura (brÄ…z.)
 73760	Dawna Fryzura (jasna)
 73761	Dawna Fryzura (fiol.)
 73762	Dawna Fryzura (czerw.)
 74001	Dumna fryzura (czerw.)
 74002	Dumna fryzura (jasna)
 74003	Dumna Fryzura (nieb.)
-74004	Dumna Fryzura (br¹z.)
+74004	Dumna Fryzura (brÄ…z.)
 74005	Chusta (czerw.)
 74006	Chusta (kratk.)
 74007	Chusta (nieb.)
 74008	Chusta (ziel.)
-74009	D³ugie W³osy (czarne)
-74010	D³ugie W³osy (czerw.)
-74011	D³ugie W³osy (br¹zowe)
-74012	D³ugie W³osy (ziel.)
+74009	DÅ‚ugie WÅ‚osy (czarne)
+74010	DÅ‚ugie WÅ‚osy (czerw.)
+74011	DÅ‚ugie WÅ‚osy (brÄ…zowe)
+74012	DÅ‚ugie WÅ‚osy (ziel.)
 74013	Afro Wojownika
 74014	Afro Wojownika
-74015	He³m Wojownika
-74016	He³m Wojownika
+74015	HeÅ‚m Wojownika
+74016	HeÅ‚m Wojownika
 74017	Fez Wojownika
 74018	Kefija Wojownika
 74019	Turban Wojownika
 74020	Maska Dyni Wojownik (m)
-74251	Kucyk (br¹z.)
+74251	Kucyk (brÄ…z.)
 74252	Kucyk (ziel.)
 74253	Kucyk (niebieski)
 74254	Kucyk (kremowy)
-74255	Krótkie w³osy (czerw.)
-74256	Krótkie w³osy (br¹z.)
-74257	Krótkie w³osy (jasne)
-74258	Krótkie w³osy (purp.)
-74259	Krótkie (czerw.)
-74260	Krót. Przyst. (b³êk.)
-74261	Krót. Przyst. (czar.)
-74262	Krót. Przyst. (blond)
+74255	KrÃ³tkie wÅ‚osy (czerw.)
+74256	KrÃ³tkie wÅ‚osy (brÄ…z.)
+74257	KrÃ³tkie wÅ‚osy (jasne)
+74258	KrÃ³tkie wÅ‚osy (purp.)
+74259	KrÃ³tkie (czerw.)
+74260	KrÃ³t. Przyst. (bÅ‚Ä™k.)
+74261	KrÃ³t. Przyst. (czar.)
+74262	KrÃ³t. Przyst. (blond)
 74263	Afro Ninja (k)
 74264	Afro Ninja (k)
 74265	Kapelusz Ninja (k)
@@ -5414,38 +5414,38 @@ VNUM	LOCALE_NAME
 74268	Pustynny Szal Ninja (k)
 74269	Turban Ninja (k)
 74270	Maska Dyni Ninja (k)
-74501	Sport. Przystrz. (bia³e)
-74502	Sport. Przystrz. (br¹z.)
+74501	Sport. Przystrz. (biaÅ‚e)
+74502	Sport. Przystrz. (brÄ…z.)
 74503	Sportowa (blond)
 74504	Sport. Przystrz. (ziel.)
-74505	Charyzm. W³osy (bia³e)
-74506	Charyzm. W³osy (czerw.)
-74507	Charyzm. W³osy (czar.)
-74508	Charyzm. W³osy (fiol.)
-74509	Zawiniête (bia³e)
-74510	Zawiniête (b³êk.)
-74511	Zawiniête (czar.)
-74512	Zawiniête (br¹z.)
+74505	Charyzm. WÅ‚osy (biaÅ‚e)
+74506	Charyzm. WÅ‚osy (czerw.)
+74507	Charyzm. WÅ‚osy (czar.)
+74508	Charyzm. WÅ‚osy (fiol.)
+74509	ZawiniÄ™te (biaÅ‚e)
+74510	ZawiniÄ™te (bÅ‚Ä™k.)
+74511	ZawiniÄ™te (czar.)
+74512	ZawiniÄ™te (brÄ…z.)
 74513	Afro Sura (m)
 74514	Afro Sura (m)
-74515	He³m Sura (m)
-74516	He³m Sura (m)
+74515	HeÅ‚m Sura (m)
+74516	HeÅ‚m Sura (m)
 74517	Fez Sura (m)
 74518	Kefija Sura (m)
 74519	Turban Sura (m)
 74520	Maska Dyni Sura (m)
-74751	Spinka Motyl (br¹z.)
+74751	Spinka Motyl (brÄ…z.)
 74752	Spinka Motyl (czar.)
-74753	Spinka Motyl (b³êk.)
-74754	Spinka Motyl (bia³a)
-74755	Œr. D³ug. (br¹z.)
-74756	Œr. D³ug. (czar.)
-74757	Œr. D³ug. (blond)
-74758	Œr. D³ug. (fiol)
-74759	D³ugie W³osy (br¹z.)
+74753	Spinka Motyl (bÅ‚Ä™k.)
+74754	Spinka Motyl (biaÅ‚a)
+74755	Åšr. DÅ‚ug. (brÄ…z.)
+74756	Åšr. DÅ‚ug. (czar.)
+74757	Åšr. DÅ‚ug. (blond)
+74758	Åšr. DÅ‚ug. (fiol)
+74759	DÅ‚ugie WÅ‚osy (brÄ…z.)
 74760	Dawna Fryzura (blond)
-74761	D³ugie w³osy (fiol.)
-74762	D³ugie W³osy (czerw.)
+74761	DÅ‚ugie wÅ‚osy (fiol.)
+74762	DÅ‚ugie WÅ‚osy (czerw.)
 74763	Afro Szamanki
 74764	Afro Szamanki
 74765	Kapelusz Szamanki
@@ -5457,15 +5457,15 @@ VNUM	LOCALE_NAME
 75001	Modna Fryzura (czerwona)
 75002	Modna Fryzura (jasna)
 75003	Modna Fryzura (nieb.)
-75004	Modna fryzura (br¹zowa)
-75005	Opaska (br¹zowe)
+75004	Modna fryzura (brÄ…zowa)
+75005	Opaska (brÄ…zowe)
 75006	Opaska (blond)
 75007	Opaska (nieb.)
 75008	Opaska (ziel.)
-75009	W³osy (czar.)
-75010	W³osy (czerw.)
-75011	W³osy (br¹z.)
-75012	W³osy (ziel.)
+75009	WÅ‚osy (czar.)
+75010	WÅ‚osy (czerw.)
+75011	WÅ‚osy (brÄ…z.)
+75012	WÅ‚osy (ziel.)
 75013	Afro Wojowniczki
 75014	Afro Wojowniczki
 75015	Kapelusz Wojowniczki
@@ -5474,38 +5474,38 @@ VNUM	LOCALE_NAME
 75018	Pust. Szal Wojowniczki
 75019	Turban Wojowniczki
 75020	Maska Dyni Wojownik (k)
-75201	Kucyk (br¹z.)
+75201	Kucyk (brÄ…z.)
 75202	Kucyk (zielony)
 75203	Kucyk (nieb.)
 75204	Kucyk (jasny)
 75205	Chusta (czerw.)
-75206	Chusta (br¹z.)
+75206	Chusta (brÄ…z.)
 75207	Chusta (jasna)
 75208	Chusta (fiol.)
-75209	Kud³ate W³osy (czerw.)
-75210	Kud³ate W³osy (nieb.)
-75211	Kud³ate W³osy (czar.)
-75212	Kud³ate W³osy (blond)
+75209	KudÅ‚ate WÅ‚osy (czerw.)
+75210	KudÅ‚ate WÅ‚osy (nieb.)
+75211	KudÅ‚ate WÅ‚osy (czar.)
+75212	KudÅ‚ate WÅ‚osy (blond)
 75213	Afro Ninja (m)
 75214	Afro Ninja (m)
-75215	He³m Ninja (m)
-75216	He³m Ninja (m)
+75215	HeÅ‚m Ninja (m)
+75216	HeÅ‚m Ninja (m)
 75217	Fez Ninja (m)
 75218	Kefija Ninja (m)
 75219	Turban Ninja (m)
 75220	Maska Dyni Ninja (m)
-75401	Spiête (jasne)
-75402	Spiête (br¹z.)
-75403	Spiête (blond)
-75404	Spiête (ziel.)
-75405	D³ugie W³osy (bia³e)
-75406	D³ugie W³osy (czerw.)
-75407	D³ugie W³osy (czar.)
-75408	D³ugie W³osy (fiol.)
-75409	D³ugi Kucyk (bia³y)
-75410	D³ugi Kucyk (nieb.)
-75411	D³ugi Kucyk (czar.)
-75412	D³ugi Kucyk (br¹z.)
+75401	SpiÄ™te (jasne)
+75402	SpiÄ™te (brÄ…z.)
+75403	SpiÄ™te (blond)
+75404	SpiÄ™te (ziel.)
+75405	DÅ‚ugie WÅ‚osy (biaÅ‚e)
+75406	DÅ‚ugie WÅ‚osy (czerw.)
+75407	DÅ‚ugie WÅ‚osy (czar.)
+75408	DÅ‚ugie WÅ‚osy (fiol.)
+75409	DÅ‚ugi Kucyk (biaÅ‚y)
+75410	DÅ‚ugi Kucyk (nieb.)
+75411	DÅ‚ugi Kucyk (czar.)
+75412	DÅ‚ugi Kucyk (brÄ…z.)
 75413	Afro Sura (k)
 75414	Afro Sura (k)
 75415	Kapelusz Sura (k)
@@ -5514,82 +5514,82 @@ VNUM	LOCALE_NAME
 75418	Pustynny Szal Sura (k)
 75419	Turban Sura (k)
 75420	Maska Dyni Sura (k)
-75601	Modnie Œciête (br¹z.)
-75602	Modnie Œciête (czar.)
-75603	Modnie Œciête (nieb.)
-75604	Modnie Œciête (jasne)
-75605	D³ugie W³osy (br¹zowe)
-75606	D³ugie W³osy (czarne)
-75607	D³ugie W³osy (blond)
-75608	D³ugie W³osy (fiol.)
-75609	Dawna Fryzura (br¹z.)
+75601	Modnie ÅšciÄ™te (brÄ…z.)
+75602	Modnie ÅšciÄ™te (czar.)
+75603	Modnie ÅšciÄ™te (nieb.)
+75604	Modnie ÅšciÄ™te (jasne)
+75605	DÅ‚ugie WÅ‚osy (brÄ…zowe)
+75606	DÅ‚ugie WÅ‚osy (czarne)
+75607	DÅ‚ugie WÅ‚osy (blond)
+75608	DÅ‚ugie WÅ‚osy (fiol.)
+75609	Dawna Fryzura (brÄ…z.)
 75610	Dawna Fryzura (jasna)
 75611	Dawna Fryzura (fiol.)
 75612	Dawna Fryzura (czerw.)
 75613	Afro Szamana
 75614	Afro Szamana
-75615	He³m Szamana
-75616	He³m Szamana
+75615	HeÅ‚m Szamana
+75616	HeÅ‚m Szamana
 75617	Fez Szamana
 75618	Kefija Szamana
 75619	Turban Szamana
 75620	Maska Dyni Szaman (m)
 76000	Wino z Kwiatu Brzoskwini
-76001	Zwój Powrotu Statusu
-76002	Zasuszona G³owa
-76003	Mikstura Poœpiechu
-76004	Eliksir Ksiê¿yca (M)
-76005	Eliksir Ksiê¿yca (Œ)
+76001	ZwÃ³j Powrotu Statusu
+76002	Zasuszona GÅ‚owa
+76003	Mikstura PoÅ›piechu
+76004	Eliksir KsiÄ™Å¼yca (M)
+76005	Eliksir KsiÄ™Å¼yca (Åš)
 76006	Wykrywacz Kamieni Metin
-76007	Peleryna Mêstwa
+76007	Peleryna MÄ™stwa
 76008	Medal Smoka
-76009	Zwój Boga Smoków
-76010	Krwisty Kamieñ
-76011	Ksi¹¿ka Lidera
-76012	Mikstura Szybkoœci
+76009	ZwÃ³j Boga SmokÃ³w
+76010	Krwisty KamieÅ„
+76011	KsiÄ…Å¼ka Lidera
+76012	Mikstura SzybkoÅ›ci
 76013	Wzmocnienie Przedmiot(n)
 76014	Zaczarowanie Przedm.(n)
-76015	Marmur B³ogos³awieñstwa
-76016	Zwój B³ogos³awieñstwa
+76015	Marmur BÅ‚ogosÅ‚awieÅ„stwa
+76016	ZwÃ³j BÅ‚ogosÅ‚awieÅ„stwa
 76017	Mikstura Ataku +10
 76018	Mikstura Ataku +15
 76019	Przepustka
 76020	Eliksir Poszukiwacza
-76021	Eliksir S³oñca (M)
-76022	Eliksir S³oñca (Œ)
+76021	Eliksir SÅ‚oÅ„ca (M)
+76022	Eliksir SÅ‚oÅ„ca (Åš)
 76023	Zielony Czar
-76024	Zielona Si³a
-80001	Sakiewka Na Pieni¹dze
+76024	Zielona SiÅ‚a
+80001	Sakiewka Na PieniÄ…dze
 80002	Czysty Papier
 80003	Sreb. Sztab. (50k Yang)
 80004	Sreb. Sztab. (100k Yang)
-80005	Z³ota Sztab.(500k Yang)
-80006	Z³ota Sztab.(1Mil.Yang)
-80007	Z³ota Sztab.(2Mil.Yang)
-80008	Bry³a Z³ota
+80005	ZÅ‚ota Sztab.(500k Yang)
+80006	ZÅ‚ota Sztab.(1Mil.Yang)
+80007	ZÅ‚ota Sztab.(2Mil.Yang)
+80008	BryÅ‚a ZÅ‚ota
 80014	Kupon SM (100)
 80015	Kupon SM (500)
 80016	Kupon SM (1000)
 80017	Kupon SM (50)
-90001	Pusta Butelka Na Wodê
+90001	Pusta Butelka Na WodÄ™
 90002	Butelka Wody
-90003	Kryszta³
+90003	KrysztaÅ‚
 90004	Klejnot
-90005	Kamieñ Wodny
-90006	Kamieñ Duszy
-90007	Minera³
-90010	Kamieñ Wêgielny
-90011	Pieñ
+90005	KamieÅ„ Wodny
+90006	KamieÅ„ Duszy
+90007	MineraÅ‚
+90010	KamieÅ„ WÄ™gielny
+90011	PieÅ„
 90012	Dykta
 90013	NoNAme
 100000	Eliksir Czasu (M)
-100001	Eliksir Czasu (Œ)
+100001	Eliksir Czasu (Åš)
 100002	Eliksir Czasu (D)
-100100	Smocze Cêgi
-100200	Cêgi Czasu
+100100	Smocze CÄ™gi
+100200	CÄ™gi Czasu
 100300	Zielona Smocza Fasola
 100400	Niebieska Smocza Fasola
-100500	Ró¿owa Smocza Fasola
+100500	RÃ³Å¼owa Smocza Fasola
 110000~110099	Surowy Smoczy Diament
 110100~110199	Surowy Smoczy Diament
 110200~110299	Surowy Smoczy Diament
@@ -5741,4 +5741,4 @@ VNUM	LOCALE_NAME
 164300~164399	Legendarny Smoczy Onyks
 164400~164499	Legendarny Smoczy Onyks
 71051	Magiczny Przedmiot
-71052	B³ogos³aw. Przedmiotu
+71052	BÅ‚ogosÅ‚aw. Przedmiotu

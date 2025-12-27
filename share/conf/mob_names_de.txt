@@ -8,12 +8,12 @@ VNUM	LOCALE_NAME
 107	Alpha-Grauwolf
 108	Keiler
 109	Roter Keiler
-110	Bär
-111	Grizzlybär
-112	Schwarzbär
-113	Braunbär
+110	BÃ¤r
+111	GrizzlybÃ¤r
+112	SchwarzbÃ¤r
+113	BraunbÃ¤r
 114	Tiger
-115	Weißer Tiger
+115	WeiÃŸer Tiger
 131	Verfl. Wolf
 132	Verfl. Alpha-Wolf
 133	Verfl. Blauwolf
@@ -22,12 +22,12 @@ VNUM	LOCALE_NAME
 136	Verfl. Alpha-Grauwolf
 137	Verfl. Keiler
 138	Verfl. roter Keiler
-139	Verfl. Bär
-140	Verfl. Grizzlybär
-141	Verfl. Schwarzbär
-142	Verfl. Braunbär
+139	Verfl. BÃ¤r
+140	Verfl. GrizzlybÃ¤r
+141	Verfl. SchwarzbÃ¤r
+142	Verfl. BraunbÃ¤r
 143	Verfl. Tiger
-144	Verfl. weißer Tiger
+144	Verfl. weiÃŸer Tiger
 151	Cung-Mok
 152	Mu-Rang
 153	Jug-Hyul
@@ -42,26 +42,26 @@ VNUM	LOCALE_NAME
 177	Hungriger Alpha-Grauwolf
 178	Hungriger Keiler
 179	Hungriger Roter Keiler
-180	Hungriger Bär
-181	Hungriger Grizzlybär
-182	Hungriger Schwarzbär
-183	Hungriger Braunbär
+180	Hungriger BÃ¤r
+181	Hungriger GrizzlybÃ¤r
+182	Hungriger SchwarzbÃ¤r
+183	Hungriger BraunbÃ¤r
 184	Hungriger Tiger
-185	Hungriger Weißer Tiger
+185	Hungriger WeiÃŸer Tiger
 191	Lykos
 192	Scrofa
 193	Bera
 194	Tigris
-301	Weißer-Eid Soldatin
-302	Weißer-Eid Bogenschützin
-303	Weißer-Eid Generalin
-304	Weißer-Eid Kommandantin
-331	Weißer-Eid Soldatin
-332	Weißer-Eid Bogenschützin
-333	Weißer-Eid Generalin
-334	Weißer-Eid Kommandantin
-351	Feiger Weißer-Eid-Soldat
-352	Feiger W.-Eid Schütze
+301	WeiÃŸer-Eid Soldatin
+302	WeiÃŸer-Eid BogenschÃ¼tzin
+303	WeiÃŸer-Eid Generalin
+304	WeiÃŸer-Eid Kommandantin
+331	WeiÃŸer-Eid Soldatin
+332	WeiÃŸer-Eid BogenschÃ¼tzin
+333	WeiÃŸer-Eid Generalin
+334	WeiÃŸer-Eid Kommandantin
+351	Feiger WeiÃŸer-Eid-Soldat
+352	Feiger W.-Eid SchÃ¼tze
 353	Feiger W.-Eid-General
 354	Feiger W.-Eid-Kommandant
 391	Mi-Jung
@@ -74,155 +74,155 @@ VNUM	LOCALE_NAME
 398	Mutlose Jin-Hee
 401	Schwarzwindsoldat
 402	Schwarzwindbesessener
-403	Schwarzwindbogenschütze
+403	SchwarzwindbogenschÃ¼tze
 404	Schwarzwind-Jak-To
 405	Schwarzwind-To-Su
 406	Schwarzwind-Gu-Ryung
 431	Schwarzer Sturmsoldat
 432	Schw. Sturmbesessener
-433	Schwarzer Bogenschütze
+433	Schwarzer BogenschÃ¼tze
 434	Schwarzer Sturm-Joh-Hwan
 435	Schwarzer Sturm-Kyuk-Jan
 436	Schwarzer Sturm-Pho-Hwan
-451	Böser Schw. Sturmsoldat
-452	Böser Sturmbesessener
-453	Böser Sturmbogenschütze
-454	Böser Sturm-Joh-Hwan
-455	Böser Sturm-Kyuk-Jang
-456	Böser Sturm-Pho-Hwan
+451	BÃ¶ser Schw. Sturmsoldat
+452	BÃ¶ser Sturmbesessener
+453	BÃ¶ser SturmbogenschÃ¼tze
+454	BÃ¶ser Sturm-Joh-Hwan
+455	BÃ¶ser Sturm-Kyuk-Jang
+456	BÃ¶ser Sturm-Pho-Hwan
 491	Mahon
 492	Bo
 493	Goo-Pae
 494	Chuong
 501	Wilder Infanterist
 502	Wilder Ergebener
-503	Wilder Bogenschütze
+503	Wilder BogenschÃ¼tze
 504	Wilder General
 531	Brutaler Soldat
 532	Brutaler Besessener
-533	Brutaler Bogenschütze
+533	Brutaler BogenschÃ¼tze
 534	Brutaler Spezialist
 551	St. Wilder Infanterist
 552	St. Wilder Ergebener
-553	St. Wilder Bogenschütze
+553	St. Wilder BogenschÃ¼tze
 554	St. Wilder General
 591	Brutaler Hauptmann
 595	Brutaler Geum-Chul
 601	Ork
-602	Ork-Späher
-603	Ork-Kämpfer
+602	Ork-SpÃ¤her
+603	Ork-KÃ¤mpfer
 604	Ork-Zauberer
 631	Stolzer Ork
-632	Stolzer Ork-Späher
-633	Stolzer Ork-Kämpfer
+632	Stolzer Ork-SpÃ¤her
+633	Stolzer Ork-KÃ¤mpfer
 634	Stolzer Ork-Zauberer
 635	Stolzer Ork-General
 636	Schwarzer Ork
 637	Schwarzer Ork-Riese
 651	Mutiger gr. Ork
-652	Mutiger gr. Orkspäher
-653	Mutiger gr. Orkkämpfer
+652	Mutiger gr. OrkspÃ¤her
+653	Mutiger gr. OrkkÃ¤mpfer
 654	Mutiger gr. Orkzauberer
 655	Mutiger gr. Orkgeneral
 656	Mutiger Schw. Ork
 657	Mutiger Schw. Orkriese
 691	Oberork
 692	Dunkler Oberork
-693	Geister Orkführer
+693	Geister OrkfÃ¼hrer
 701	Dunkler Fanatiker
 702	Dunkler Arahan
-703	Dunkler Kämpfer
+703	Dunkler KÃ¤mpfer
 704	Oberer dunkler Arahan
 705	Dunkler Scharfrichter
 706	Dunkler Peiniger
-707	Dunkler Beschwörer
+707	Dunkler BeschwÃ¶rer
 731	Stolzer dunkl. Fanatiker
 732	Stolzer dunkl. Arahan
-733	Stolzer dunkl. Kämpfer
+733	Stolzer dunkl. KÃ¤mpfer
 734	Stolzer dunkl. Oberst
-735	Stolzer dunkl. Schütze
+735	Stolzer dunkl. SchÃ¼tze
 736	Stolzer dunkl. Peiniger
 737	Stolzer dunkl. Zauberer
 751	Hoher Fanatiker
 752	Hoher Arahan
-753	Hoher Arahan-Kämpfer
+753	Hoher Arahan-KÃ¤mpfer
 754	Hoher Ober-Arahan
 755	Hoher Scharfrichter
 756	Hoher Peiniger
-757	Hoher  Beschwörer
+757	Hoher  BeschwÃ¶rer
 771	Brutaler Fanatiker
 772	Brutaler Arahan
-773	Brutaler  Arahan-Kämpfer
+773	Brutaler  Arahan-KÃ¤mpfer
 774	Brutaler Ober-Arahan
 775	Brutaler Scharfrichter
 776	Brutaler Peiniger
-777	Brutaler Beschwörer
-791	Dunkler Anführer
-792	Dunkler Geist-Anführer
-793	Elite Dunkler Anführer
-794	Elite Geist-Anführer
-795	Elite Kämpfer
-796	Elite dunkler Kämpfer
+777	Brutaler BeschwÃ¶rer
+791	Dunkler AnfÃ¼hrer
+792	Dunkler Geist-AnfÃ¼hrer
+793	Elite Dunkler AnfÃ¼hrer
+794	Elite Geist-AnfÃ¼hrer
+795	Elite KÃ¤mpfer
+796	Elite dunkler KÃ¤mpfer
 901	Leichengeist
 902	Plagenhund
 903	Plagenmann
-904	Plagenschwertkämpfer
-905	Plagenspeerkämpfer
-906	Plagenbogenschütze
-907	Plagenanführer
+904	PlagenschwertkÃ¤mpfer
+905	PlagenspeerkÃ¤mpfer
+906	PlagenbogenschÃ¼tze
+907	PlagenanfÃ¼hrer
 931	W. Leichengeist
 932	W. Plagenhund
 933	W. Plagenmann
-934	W. Plagenkämpfer
-935	W. Plagenspeerkämpfer
-936	W. Plagenbogenschütze
-937	Zorniger Plagenanführer
+934	W. PlagenkÃ¤mpfer
+935	W. PlagenspeerkÃ¤mpfer
+936	W. PlagenbogenschÃ¼tze
+937	Zorniger PlagenanfÃ¼hrer
 991	Plagenei
-992	Plagenträger
-993	Riesiger Plagenträger
-1001	Dämonensoldat
-1002	Dämonenbogenschütze
-1003	Dämonenspeerkämpfer
-1004	Dämonenschamane
+992	PlagentrÃ¤ger
+993	Riesiger PlagentrÃ¤ger
+1001	DÃ¤monensoldat
+1002	DÃ¤monenbogenschÃ¼tze
+1003	DÃ¤monenspeerkÃ¤mpfer
+1004	DÃ¤monenschamane
 1031	Gemeiner Soldat
-1032	Gemeiner Bogenschütze
-1033	Gemeiner Speerkämpfer
+1032	Gemeiner BogenschÃ¼tze
+1033	Gemeiner SpeerkÃ¤mpfer
 1034	Gemeiner Schamane
 1035	Geist des Grolls
 1036	Geist des Chaos
-1037	Gemeiner Dämonenanführer
+1037	Gemeiner DÃ¤monenanfÃ¼hrer
 1038	Totenkopfschwertmeister
 1039	Fliegender Totenkopf
 1040	Unsterblicher Geist
-1041	Dämonisches Tier
+1041	DÃ¤monisches Tier
 1061	Gemeiner Geist Soldat
-1062	Gemeiner Geist Schütze
-1063	Gemeiner Geist Kämpfer
+1062	Gemeiner Geist SchÃ¼tze
+1063	Gemeiner Geist KÃ¤mpfer
 1064	Gemeiner Geist Schamane
 1065	Gemeiner Geist des Groll
 1066	Gemeiner Geist des Chaos
-1067	Gemeiner Geist Anführer
+1067	Gemeiner Geist AnfÃ¼hrer
 1068	Geist Schwertmeister
 1069	Gemeiner Flug-Totenkopf
 1070	Unsterblicher Geist
-1071	Dämonisches Tier
-1091	Dämonenkönig
-1092	Stolzer Dämonenkönig
+1071	DÃ¤monisches Tier
+1091	DÃ¤monenkÃ¶nig
+1092	Stolzer DÃ¤monenkÃ¶nig
 1093	Sensenmann
-1094	Gemeiner Dämonenkönig
+1094	Gemeiner DÃ¤monenkÃ¶nig
 1095	Blauer Tod
 1096	????
 1101	Verzaubertes Eis
 1102	Eiskillerwal
 1103	Eisinsekt
-1104	Eislöwe
+1104	EislÃ¶we
 1105	Frostiger Eismann
 1106	Yeti
 1107	Eisgolem
 1131	Unterwelt-Eissplitter
 1132	Unterwelt-Eiskillerwal
 1133	Unterwelt-Eisinsekt
-1134	Unterwelt-Eislöwe
+1134	Unterwelt-EislÃ¶we
 1135	Unterwelt-Eismann
 1136	Unterwelt-Yeti
 1137	Unterwelt-Eisgolem
@@ -233,107 +233,107 @@ VNUM	LOCALE_NAME
 1155	Eismann
 1156	Eisgigant
 1157	Eisgolem
-1171	Böses verzaubertes Eis
-1172	Böser Eiskillerwal
-1173	Böses Eisinsekt
-1174	Böser Eislöwe
-1175	Böser Eismann
-1176	Böser Yeti
-1177	Böser Eisgolem
+1171	BÃ¶ses verzaubertes Eis
+1172	BÃ¶ser Eiskillerwal
+1173	BÃ¶ses Eisinsekt
+1174	BÃ¶ser EislÃ¶we
+1175	BÃ¶ser Eismann
+1176	BÃ¶ser Yeti
+1177	BÃ¶ser Eisgolem
 1191	Eishexe
-1192	Große Eishexe
+1192	GroÃŸe Eishexe
 1301	Baumfrosch-Soldat
-1302	Baumfrosch-Anführer
+1302	Baumfrosch-AnfÃ¼hrer
 1303	Buhmann
 1304	Gelber Tigergeist
 1305	Ochsenfrosch-General
-1306	Böser gelber Tigergeist
-1307	Böser gelber Tigergeist
-1308	Böser gelber Tigergeist
-1309	Böser gelber Tigergeist
-1310	Böser gelber Tigergeist
+1306	BÃ¶ser gelber Tigergeist
+1307	BÃ¶ser gelber Tigergeist
+1308	BÃ¶ser gelber Tigergeist
+1309	BÃ¶ser gelber Tigergeist
+1310	BÃ¶ser gelber Tigergeist
 1331	Gr. Baumfrosch-Soldat
-1332	Gr. Baumfrosch-Anführer
+1332	Gr. Baumfrosch-AnfÃ¼hrer
 1333	Gr. Buhmann
 1334	Gr. gelber Tigergeist
 1335	Gr. Ochsenfrosch-General
-1401	Zerstörer
-1402	Axtkämpfer
-1403	Tausendkämpfer
+1401	ZerstÃ¶rer
+1402	AxtkÃ¤mpfer
+1403	TausendkÃ¤mpfer
 1501	Steingolem
-1502	Steinbeißer
+1502	SteinbeiÃŸer
 1503	Riesiger Felsengolem
 1601	Oger Krieger
-1602	Oger Schlächter
+1602	Oger SchlÃ¤chter
 1603	Oger Berserker
 1901	Neunschwanz
-1902	Elitärer Neunschwanz
-1903	Elitärer Neunschwanz
-1904	Elitärer Neunschwanz
-1905	Elitärer Neunschwanz
-1906	Elitärer Neunschwanz
+1902	ElitÃ¤rer Neunschwanz
+1903	ElitÃ¤rer Neunschwanz
+1904	ElitÃ¤rer Neunschwanz
+1905	ElitÃ¤rer Neunschwanz
+1906	ElitÃ¤rer Neunschwanz
 2001	Babyspinne
 2002	Giftspinne
 2003	Rote Giftspinne
 2004	Klauenspinne
 2005	Soldatenspinne
 2031	Babygiftspinne
-2032	Tödliche Giftspinne
-2033	Rote wütende Giftspinne
+2032	TÃ¶dliche Giftspinne
+2033	Rote wÃ¼tende Giftspinne
 2034	Klauengiftspinne
 2035	Soldatengiftspinne
 2036	Stolze Soldat-Giftspinne
-2051	Böse Babygiftspinne
-2052	Böse tödl. Giftspinne
-2053	Böse rote Giftspinne
-2054	Böse Klauengiftspinne
-2055	Böse Soldatengiftspinne
+2051	BÃ¶se Babygiftspinne
+2052	BÃ¶se tÃ¶dl. Giftspinne
+2053	BÃ¶se rote Giftspinne
+2054	BÃ¶se Klauengiftspinne
+2055	BÃ¶se Soldatengiftspinne
 2061	Kleine Giftspinne
-2062	Tödliche Giftspinne
-2063	Rote tödliche Giftspinne
+2062	TÃ¶dliche Giftspinne
+2063	Rote tÃ¶dliche Giftspinne
 2064	Klauengiftspinne
 2065	Soldatengiftspinne
 2071	Brutale Babygiftspinne
-2072	Brutale tödl. Giftspinne
+2072	Brutale tÃ¶dl. Giftspinne
 2073	Brutale rote Giftspinne
 2074	Brutale Klauengiftspinne
 2075	Brutale Soldatenspinne
 2076	Brutale st. Giftspinne
-2091	Königinnenspinne
+2091	KÃ¶niginnenspinne
 2092	Spinnenbaroness
-2093	Dunkl. Königinnenspinne
+2093	Dunkl. KÃ¶niginnenspinne
 2094	Spinnenbaron
 2095	Spinnenei
-2101	Wüstenfuchs
-2102	Wüstenflugauge
-2103	Königsskorpion
+2101	WÃ¼stenfuchs
+2102	WÃ¼stenflugauge
+2103	KÃ¶nigsskorpion
 2104	Junger Skorpionmann
-2105	Skorpionbogenschütze
-2106	Schlangenschwertkämpfer
-2107	Schlangenbogenschütze
-2108	Wüstenbandit
+2105	SkorpionbogenschÃ¼tze
+2106	SchlangenschwertkÃ¤mpfer
+2107	SchlangenbogenschÃ¼tze
+2108	WÃ¼stenbandit
 2131	Brutaler Skorpionmann
-2132	Skorpionbogenschütze
-2133	Schlangenschwertkämpfer
-2134	Schlangenbogenschütze
-2135	Wüstenbandit
-2151	Starker Wüstenfuchs
+2132	SkorpionbogenschÃ¼tze
+2133	SchlangenschwertkÃ¤mpfer
+2134	SchlangenbogenschÃ¼tze
+2135	WÃ¼stenbandit
+2151	Starker WÃ¼stenfuchs
 2152	Starker Derwisch
-2153	Starker Königsskorpion
+2153	Starker KÃ¶nigsskorpion
 2154	Starker Skorpionmann
-2155	St. Skorpionbogenschütze
-2156	Starker Schlangenkämpfer
-2157	Starker Schlangenschütze
-2158	Starker Wüstenbandit
-2191	Große Wüstenschildkröte
-2192	Dunkle Wüstenschildkröte
+2155	St. SkorpionbogenschÃ¼tze
+2156	Starker SchlangenkÃ¤mpfer
+2157	Starker SchlangenschÃ¼tze
+2158	Starker WÃ¼stenbandit
+2191	GroÃŸe WÃ¼stenschildkrÃ¶te
+2192	Dunkle WÃ¼stenschildkrÃ¶te
 2201	Kampftigersklave
 2202	Flammengeist
 2203	Kampftiger
 2204	Flamme
 2205	Flammenkrieger
-2206	Flammenkönig
-2207	Dunkl. Flammenkönig
+2206	FlammenkÃ¶nig
+2207	Dunkl. FlammenkÃ¶nig
 2231	Starker Kampftigersklave
 2232	Starker Flammengeist
 2233	Starker Kampftiger
@@ -344,20 +344,20 @@ VNUM	LOCALE_NAME
 2302	Geisterbaumstumpf
 2303	Dryade
 2304	Geisterweide
-2305	Böser Baum
+2305	BÃ¶ser Baum
 2306	Riesiger Geisterbaum
 2307	Geisterbaum-Lord
 2311	Roter Geisterbaum
 2312	Roter Geisterbaumstumpf
 2313	Rote Dryade
 2314	Rote Geisterweide
-2315	Roter böser Baum
-2401	Setaou-Kämpfer
-2402	Setaou-Jäger
+2315	Roter bÃ¶ser Baum
+2401	Setaou-KÃ¤mpfer
+2402	Setaou-JÃ¤ger
 2403	Setaou-Seherin
-2404	Setaou-Anführer
+2404	Setaou-AnfÃ¼hrer
 2411	Setaou-Soldat
-2412	Setaou-Bogenschütze
+2412	Setaou-BogenschÃ¼tze
 2413	Setaou-Magistra
 2414	Setaou-Kommandant
 2431	????
@@ -373,67 +373,67 @@ VNUM	LOCALE_NAME
 2493	Beran-Setaou
 2494	Hauptmann Huashin
 2495	General Huashin
-2501	Höllenqualle
-2502	Höllenhund
+2501	HÃ¶llenqualle
+2502	HÃ¶llenhund
 2503	Zombie
-2504	Höllenoffizier
-2505	Höllenwächter
-2506	Zweikopf-Höllenschütze
-2507	Höllengreifer
-2508	Höllenkrieger
-2509	Höllenschütze
-2510	Höllenspeerkämpfer
-2511	Höllenpriester
-2512	Höllenmajor
-2513	Höllenmetzler
-2514	Höllengeneral
-2541	Böser Höllenkrieger
-2542	Böser Höllenschütze
-2543	Böser Höllenspeerkämpfer
-2544	Böser Höllenpriester
-2545	Böser Höllenmajor
-2546	Böser Höllenmetzler
-2547	Böser Höllengeneral
+2504	HÃ¶llenoffizier
+2505	HÃ¶llenwÃ¤chter
+2506	Zweikopf-HÃ¶llenschÃ¼tze
+2507	HÃ¶llengreifer
+2508	HÃ¶llenkrieger
+2509	HÃ¶llenschÃ¼tze
+2510	HÃ¶llenspeerkÃ¤mpfer
+2511	HÃ¶llenpriester
+2512	HÃ¶llenmajor
+2513	HÃ¶llenmetzler
+2514	HÃ¶llengeneral
+2541	BÃ¶ser HÃ¶llenkrieger
+2542	BÃ¶ser HÃ¶llenschÃ¼tze
+2543	BÃ¶ser HÃ¶llenspeerkÃ¤mpfer
+2544	BÃ¶ser HÃ¶llenpriester
+2545	BÃ¶ser HÃ¶llenmajor
+2546	BÃ¶ser HÃ¶llenmetzler
+2547	BÃ¶ser HÃ¶llengeneral
 2591	Tartaros
-2592	Höllenbastard
-2593	Höllenbastard
-2594	Höllenbastard
+2592	HÃ¶llenbastard
+2593	HÃ¶llenbastard
+2594	HÃ¶llenbastard
 2595	Erebos
 2596	Azraels Brut
 2597	Charon
 2598	Azrael
-3001	Gnoll-Kämpfer
-3002	Gnoll-Bogenschütze
+3001	Gnoll-KÃ¤mpfer
+3002	Gnoll-BogenschÃ¼tze
 3003	Gnoll-Verteidiger
 3004	Gnoll-Magier
 3005	Gnoll-General
 3090	Lord Gnoll
 3091	Oberste Gnoll-Wache
-3101	Einäugiger Schläger
+3101	EinÃ¤ugiger SchlÃ¤ger
 3102	Zyklopen-Soldat
 3103	Zyklopen-Magier
 3104	Zyklopen-Henker
 3105	General Outis
 3190	Arges
 3191	Polyphemos
-3201	Mantikor-Kämpfer
+3201	Mantikor-KÃ¤mpfer
 3202	Mantikor-Soldat
 3203	Mantikor Magus
 3204	Mantikor-Henker
 3205	General Kor
 3290	Rakshasa
 3291	Martyaxwar
-3301	Lemuren-Kämpfer
+3301	Lemuren-KÃ¤mpfer
 3302	Lemuren-Soldat
 3303	Lemuren-Magier
 3304	Lemuren-Henker
 3305	Lemuren-General
-3390	Lemuren-Fürst
+3390	Lemuren-FÃ¼rst
 3391	Lemurische Leibgarde
-3401	Tritonische Muräne
+3401	Tritonische MurÃ¤ne
 3402	Riffhai-Soldat
 3403	Tritonischer Magier
-3404	Tritonischer Jäger
+3404	Tritonischer JÃ¤ger
 3405	Tritonischer Schlitzer
 3490	General Kappa
 3491	Triton
@@ -446,36 +446,36 @@ VNUM	LOCALE_NAME
 3552	Brut. Rotdieb-Assassine
 3553	Brutaler Rotdieb-Magier
 3554	Brutaler Rotdieb-Henker
-3555	Weißer General
+3555	WeiÃŸer General
 3590	Knochengesicht
-3591	Roter Häuptling
+3591	Roter HÃ¤uptling
 3595	Brutales Knochengesicht
-3596	Brutaler Roter Häuptling
-3601	Krabben-Kämpfer
-3602	Skorpischer Schütze
+3596	Brutaler Roter HÃ¤uptling
+3601	Krabben-KÃ¤mpfer
+3602	Skorpischer SchÃ¼tze
 3603	Shrimps-Soldat
 3604	Diabolischer Einsiedler
 3605	Panzerkrabbe
 3690	General Lobster
-3691	König Krabbs
-3701	Gigantischer Beißer
-3702	Giganten-Schlächter
+3691	KÃ¶nig Krabbs
+3701	Gigantischer BeiÃŸer
+3702	Giganten-SchlÃ¤chter
 3703	Gigantus Magus
 3704	Zwigant
-3705	Kapitän Huk
+3705	KapitÃ¤n Huk
 3790	Gargoyle
-3791	König Wobba
+3791	KÃ¶nig Wobba
 3801	Henkog
 3802	Archie Oger
 3803	Streitoger
 3804	Oger Magus
 3805	General Ogg
-3890	Kapitän Shrack
-3891	Der Große Oger
+3890	KapitÃ¤n Shrack
+3891	Der GroÃŸe Oger
 3901	Weidenmann
 3902	Eoten
 3903	Skouman
-3904	Kapitän Huk
+3904	KapitÃ¤n Huk
 3905	Mu-Shu
 3906	Yah-Ki
 3907	Moghu
@@ -491,38 +491,38 @@ VNUM	LOCALE_NAME
 5004	Pirat Tanaka
 5101	Schwacher Affensoldat
 5102	Schwacher Affenwerfer
-5103	Schwacher Affenkämpfer
+5103	Schwacher AffenkÃ¤mpfer
 5104	Schwacher Affengeneral
 5111	Affensoldat
 5112	Affenwerfer
-5113	Affenkämpfer
+5113	AffenkÃ¤mpfer
 5114	Affengeneral
 5115	Steinaffe
-5116	Affenanführer
+5116	AffenanfÃ¼hrer
 5121	Starker Affensoldat
 5122	Starker Affenwerfer
-5123	Starker Affenkämpfer
+5123	Starker AffenkÃ¤mpfer
 5124	Starker Affengeneral
 5125	Starker Steinaffe
 5126	Starker Goldaffe
-5127	Starker Affenanführer
+5127	Starker AffenanfÃ¼hrer
 5131	Kluger kl. Affensoldat
 5132	Kluger kl. Affenwerfer
-5133	Kluger kl. Affenkämpfer
+5133	Kluger kl. AffenkÃ¤mpfer
 5134	Kluger kl. Affengeneral
 5141	Schlauer Affensoldat
 5142	Schlauer Affenwerfer
-5143	Schlauer Affenkämpfer
+5143	Schlauer AffenkÃ¤mpfer
 5144	Schlauer Affengeneral
 5145	Schlauer Steinaffe
-5146	Schlauer Affenanführer
-5151	Böser Affensoldat
-5152	Böser Affenwerfer
-5153	Böser Affenkämpfer
-5154	Böser Affengeneral
-5155	Böser Steinaffe
-5156	Böser Goldaffe
-5157	Böser Affenanführer
+5146	Schlauer AffenanfÃ¼hrer
+5151	BÃ¶ser Affensoldat
+5152	BÃ¶ser Affenwerfer
+5153	BÃ¶ser AffenkÃ¤mpfer
+5154	BÃ¶ser Affengeneral
+5155	BÃ¶ser Steinaffe
+5156	BÃ¶ser Goldaffe
+5157	BÃ¶ser AffenanfÃ¼hrer
 5161	Felsenaffe
 5162	Gehender Affe
 5163	Affen-Lord
@@ -530,11 +530,11 @@ VNUM	LOCALE_NAME
 6002	Glut-Flammentiger
 6003	Glut-Flamme
 6004	Glut-Flammenkrieger
-6005	Glut-Flammenkönig
+6005	Glut-FlammenkÃ¶nig
 6006	Glut-Flammengolem
 6007	Glut-Flammenbart
 6008	Glut-Flammengeneral
-6009	Glut-Flammenfürst
+6009	Glut-FlammenfÃ¼rst
 6051	Ignator
 6091	Razador
 6101	Frostkristall
@@ -545,7 +545,7 @@ VNUM	LOCALE_NAME
 6106	Frosttroll
 6107	Frostbart
 6108	Frostgeneral
-6109	Frostfürst
+6109	FrostfÃ¼rst
 6151	Szel
 6191	Nemere
 7001	Affensoldat
@@ -556,15 +556,15 @@ VNUM	LOCALE_NAME
 7006	Goldaffe
 7007	Affengeneral
 7008	Tu-Gui Arbeiter
-7009	Tu-Gui Soldatenprüfer
-7010	Tu-Gui weißer Kommander
+7009	Tu-Gui SoldatenprÃ¼fer
+7010	Tu-Gui weiÃŸer Kommander
 7012	Bi-Ma-Gui-An
-7013	König Skorpion
+7013	KÃ¶nig Skorpion
 7014	Listiger Skorpionmann
-7015	Skorpionbogenschütze
-7016	Schlangenschwertkämpfer
-7017	Schlangenbogenschütze
-7018	Wüstenbandit
+7015	SkorpionbogenschÃ¼tze
+7016	SchlangenschwertkÃ¤mpfer
+7017	SchlangenbogenschÃ¼tze
+7018	WÃ¼stenbandit
 7019	Tu-ji Soldat
 7020	Hwa-ryung
 7021	Tu-Ji Rumtreiber
@@ -596,27 +596,27 @@ VNUM	LOCALE_NAME
 7047	Eismann
 7048	Eisgigant
 7049	Eisgolem
-7050	Wüstenflugauge
-7051	Königsskorpion
+7050	WÃ¼stenflugauge
+7051	KÃ¶nigsskorpion
 7052	Junger Skorpionmann
-7053	Skorpionbogenschütze
-7054	Schlangenschwertkämpfer
-7055	Schlangenbogenschütze
-7056	Wüstenbandit
-7057	Wüstenflugauge
-7058	Königsskorpion
+7053	SkorpionbogenschÃ¼tze
+7054	SchlangenschwertkÃ¤mpfer
+7055	SchlangenbogenschÃ¼tze
+7056	WÃ¼stenbandit
+7057	WÃ¼stenflugauge
+7058	KÃ¶nigsskorpion
 7059	Junger Skorpionmann
-7060	Skorpionbogenschütze
-7061	Schlangenschwertkämpfer
-7062	Schlangenbogenschütze
-7063	Wüstenbandit
-7064	Wüstenflugauge
-7065	Königsskorpion
+7060	SkorpionbogenschÃ¼tze
+7061	SchlangenschwertkÃ¤mpfer
+7062	SchlangenbogenschÃ¼tze
+7063	WÃ¼stenbandit
+7064	WÃ¼stenflugauge
+7065	KÃ¶nigsskorpion
 7066	Junger Skorpionmann
-7067	Skorpionbogenschütze
-7068	Schlangenschwertkämpfer
-7069	Schlangenbogenschütze
-7070	Wüstenbandit
+7067	SkorpionbogenschÃ¼tze
+7068	SchlangenschwertkÃ¤mpfer
+7069	SchlangenbogenschÃ¼tze
+7070	WÃ¼stenbandit
 7071	Kampftigersklave
 7072	Flammengeist
 7073	Kampftiger
@@ -635,11 +635,11 @@ VNUM	LOCALE_NAME
 7086	Geisterbaumstumpf
 7087	Dryade
 7088	Geisterweide
-7089	Böser Baum
+7089	BÃ¶ser Baum
 7090	Geisterbaumstumpf
 7091	Dryade
 7092	Geisterweide
-7093	Böser Baum
+7093	BÃ¶ser Baum
 7094	Geisterbaumstumpf
 7095	Dryade
 7096	Geisterweide
@@ -647,17 +647,17 @@ VNUM	LOCALE_NAME
 8002	Metin des Kampfs
 8003	Metin der Schlacht
 8004	Metin der Gier
-8005	Metin der Schwärze
+8005	Metin der SchwÃ¤rze
 8006	Metin der Dunkelheit
 8007	Metin der Eifersucht
 8008	Metin der Seele
 8009	Metin des Schattens
-8010	Metin der Härte
+8010	Metin der HÃ¤rte
 8011	Metin des Teufels
 8012	Metin des Sturzes
 8013	Metin des Todes
 8014	Metin des Mordes
-8015	Metin der Härte
+8015	Metin der HÃ¤rte
 8016	Metin des Teufels
 8017	Metin des Sturzes
 8018	Metin des Todes
@@ -674,7 +674,7 @@ VNUM	LOCALE_NAME
 8032	Metin der Rache
 8033	Metin der Einsamkeit
 8034	Metin des Hochmuts
-8035	Metin der Erlösung
+8035	Metin der ErlÃ¶sung
 8036	Metin des Verrats
 8037	Metin der Verbitterung
 8038	Metin der Vergeltung
@@ -701,25 +701,25 @@ VNUM	LOCALE_NAME
 8102	Metin des Kampfs
 8103	Metin der Schlacht
 8104	Metin der Gier
-8105	Metin der Schwärze
+8105	Metin der SchwÃ¤rze
 8106	Metin der Dunkelheit
 8107	Metin der Eifersucht
 8108	Metin der Seele
 8109	Metin des Schattens
-8110	Metin der Härte
+8110	Metin der HÃ¤rte
 8111	Metin des Teufels
 8112	Metin des Sturzes
 8113	Metin des Todes
 8114	Metin des Mordes
 8501	Wildhund
 8502	Keiler
-8503	Bär
-8504	Weißer Tiger
+8503	BÃ¤r
+8504	WeiÃŸer Tiger
 8505	Schwarzer Ork-Riese
-8506	Baumfrosch-Anführer
-8507	Wüstenbandit
+8506	Baumfrosch-AnfÃ¼hrer
+8507	WÃ¼stenbandit
 8508	Esoterischer Peiniger
-8509	Esoterischer Beschwörer
+8509	Esoterischer BeschwÃ¶rer
 8510	Flammenkrieger
 8511	Eisgolem
 8600	?????
@@ -738,14 +738,14 @@ VNUM	LOCALE_NAME
 8613	????
 8614	??????
 8615	??????
-9001	Waffenhändler
-9002	Rüstungshändler
-9003	Gemischtwarenhändlerin
+9001	WaffenhÃ¤ndler
+9002	RÃ¼stungshÃ¤ndler
+9003	GemischtwarenhÃ¤ndlerin
 9004	Ereignishelfer
 9005	Lagerverwalter
 9006	Alte Frau
-9007	Waffenhändler
-9008	Rüstungshändler
+9007	WaffenhÃ¤ndler
+9008	RÃ¼stungshÃ¤ndler
 9009	Fischer
 9010	Gemischtwarenladen
 9011	Hochzeitsplanerin
@@ -764,7 +764,7 @@ VNUM	LOCALE_NAME
 10012	Gebiet_Bakra 8348 2926
 10013	Hwang-Tempel 5536 1441
 10014	Seungryong 3326 7468
-10015	Yongbi-Wüste 3467 6329
+10015	Yongbi-WÃ¼ste 3467 6329
 10016	Kuahlo_Dong 600 4960
 10017	Hwang-Tempel 5906 1102
 10018	Gumsan-Turm 2165 7270
@@ -779,7 +779,7 @@ VNUM	LOCALE_NAME
 10027	Lungsam 2866 437
 10028	Roter_Wald 11199 708
 10029	Schlangenfeld 10590 7262
-10030	Yongbi-Wüste 3519 6223
+10030	Yongbi-WÃ¼ste 3519 6223
 10031	Schlangenfeld 10590 7262
 10032	Land_d._Riesen 8283 7635
 10033	Zin-Grotte 10594 7525
@@ -822,9 +822,9 @@ VNUM	LOCALE_NAME
 10070	Gebiet_Bokjung 1611 2130
 10071	Affendungeon 9288 4477
 10072	Gebiet_Bakra 8727 2100
-10073	Yongbi-Wüste 3061 6202
+10073	Yongbi-WÃ¼ste 3061 6202
 10074	Affendungeon 1352 6532
-10075	Yongbi-Wüste 2879 5407
+10075	Yongbi-WÃ¼ste 2879 5407
 10076	Affendungeon 1352 7300
 10077	????1? 9 12078
 10078	??? 2842 8106
@@ -846,8 +846,8 @@ VNUM	LOCALE_NAME
 10094	Drachenpforte 1733 13743
 10095	Drachenpforte 1728 15277
 10096	Drachenpforte 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10097	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼2ÃƒÃ¾ 7040 5235 
+10098	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼3ÃƒÃ¾ 984 5711
 10099	Kap 11043 17885
 10100	Kap 10963 16744
 10101	Nephritbucht 10869 16558
@@ -966,17 +966,17 @@ VNUM	LOCALE_NAME
 10833	. 406 880
 10834	. 422 935
 10835	. 500 807
-11000	Wächter des Dorfplatzes
+11000	WÃ¤chter des Dorfplatzes
 11001	Schlachtenverwalter
-11002	Wächter des Dorfplatzes
+11002	WÃ¤chter des Dorfplatzes
 11003	Schlachtenverwalter
-11004	Wächter des Dorfplatzes
+11004	WÃ¤chter des Dorfplatzes
 11005	Schlachtenverwalter
-11100	Wächter des Dorfplatzes
+11100	WÃ¤chter des Dorfplatzes
 11101	Schlachtenverwalter
-11102	Wächter des Dorfplatzes
+11102	WÃ¤chter des Dorfplatzes
 11103	Schlachtenverwalter
-11104	Wächter des Dorfplatzes
+11104	WÃ¤chter des Dorfplatzes
 11105	Schlachtenverwalter
 11106	???
 11107	???
@@ -1058,7 +1058,7 @@ VNUM	LOCALE_NAME
 20007	Lagerverwalter
 20008	Octavio
 20009	Alter Mann
-20010	Fahrender Händler
+20010	Fahrender HÃ¤ndler
 20011	Uriel
 20012	Yu-Rang
 20013	Fischer
@@ -1068,7 +1068,7 @@ VNUM	LOCALE_NAME
 20017	Yu-Hwan
 20018	Baek-Go
 20019	Yang-Shin
-20020	Verräter Balso
+20020	VerrÃ¤ter Balso
 20021	Ariyoung
 20022	Huahn-So
 20023	Soon
@@ -1088,12 +1088,12 @@ VNUM	LOCALE_NAME
 20037	Flagge
 20038	..
 20039	.
-20040	Grundstücksverwalter
-20041	Betrunkener Bürger
-20042	Fahrender Händler
+20040	GrundstÃ¼cksverwalter
+20041	Betrunkener BÃ¼rger
+20042	Fahrender HÃ¤ndler
 20043	.
 20044	Waffenschmied
-20045	Rüstungsschmied
+20045	RÃ¼stungsschmied
 20046	Juwelier
 20047	Diamantader
 20048	Bernsteinader
@@ -1104,10 +1104,10 @@ VNUM	LOCALE_NAME
 20053	Jadeader
 20054	Ebenholzader
 20055	Muschelstapel
-20056	Weißgoldader
+20056	WeiÃŸgoldader
 20057	Kristallader
 20058	Quarzader
-20059	Himmelstränenader
+20059	HimmelstrÃ¤nenader
 20060	Diamantalchemist
 20061	Bernsteinalchemist
 20062	Fossilholzalchemist
@@ -1117,17 +1117,17 @@ VNUM	LOCALE_NAME
 20066	Jadealchemist
 20067	Ebenholzalchemist
 20068	Perlenalchemist
-20069	Weißgoldalchemist
+20069	WeiÃŸgoldalchemist
 20070	Kristallalchemist
 20071	Quarzalchemist
-20072	Himmelstränenalchemist
+20072	HimmelstrÃ¤nenalchemist
 20073	Altes Siegel
 20074	Turm-Waffenschmied
-20075	Turm-Rüstungsschmied
+20075	Turm-RÃ¼stungsschmied
 20076	Turm-Juwelier
-20077	Wächter des Altars
-20078	Wächter des Altars
-20079	Wächter des Altars
+20077	WÃ¤chter des Altars
+20078	WÃ¤chter des Altars
+20079	WÃ¤chter des Altars
 20080	Trainingsleiter
 20081	Gestohlenes Gangsiegel
 20082	Meister
@@ -1148,24 +1148,24 @@ VNUM	LOCALE_NAME
 20097	Burgtor
 20098	Burgtor
 20099	Burgtor
-20101	Weißes Pferd
+20101	WeiÃŸes Pferd
 20102	Braunes Pferd
 20103	Schwarzes Pferd
-20104	Weißes Pferd
+20104	WeiÃŸes Pferd
 20105	Braunes Pferd
 20106	Schwarzes Pferd
-20107	Weißes Pferd
+20107	WeiÃŸes Pferd
 20108	Braunes Pferd
 20109	Schwarzes Pferd
 20110	Keiler
 20111	Wolf
 20112	Tiger
-20113	Löwe
+20113	LÃ¶we
 20114	white lion
 20115	Kriegskeiler
 20116	Streitwolf
 20117	Sturmtiger
-20118	Schlachtenlöwe
+20118	SchlachtenlÃ¶we
 20119	Edler Rappe
 20120	?????
 20121	?????
@@ -1193,15 +1193,15 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
-20300	Körper-Kampf Lehrer
+20220	Ã…Â©Â¸Â®Â½ÂºÂ¸Â¶Â½Âº Â¼Ã¸Â·Ã
+20221	Ã€Ã¼Â°Â©Â¹Ã©Â¿Ãµ
+20222	Ã€Ã¼Â°Â©Ã†Ã’Â´Ãµ
+20223	Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20224	Â³Â­Ã†Ã¸Ã‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20225	Â¿Ã«Â¸ÃÃ‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20226	ÃˆÃ¦Ã€Â¯Â´ÃÃ„Ãœ
+20227	Â¹Ã©Ã€Â¯Â´ÃÃ„Ãœ
+20300	KÃ¶rper-Kampf Lehrer
 20301	Mental-Kampf Lehrer
 20302	Nahkampf Lehrer
 20303	Fernkampf Lehrer
@@ -1209,7 +1209,7 @@ VNUM	LOCALE_NAME
 20305	Schwarze-Magie Lehrer
 20306	Lehrer der Drachenmacht
 20307	Lehrer der Heilung
-20320	Körper-Kampf Lehrer
+20320	KÃ¶rper-Kampf Lehrer
 20321	Mental-Kampf Lehrer
 20322	Nahkampf Lehrer
 20323	Fernkampf Lehrer
@@ -1217,7 +1217,7 @@ VNUM	LOCALE_NAME
 20325	Schwarze-Magie Lehrer
 20326	Lehrer der Drachenmacht
 20327	Lehrer der Heilung
-20340	Körper-Kampf Lehrer
+20340	KÃ¶rper-Kampf Lehrer
 20341	Mental-Kampf Lehrer
 20342	Nahkampf Lehrer
 20343	Fernkampf Lehrer
@@ -1225,13 +1225,13 @@ VNUM	LOCALE_NAME
 20345	Schwarze-Magie Lehrer
 20346	Lehrer der Drachenmacht
 20347	Lehrer der Heilung
-20348	Wächter des Dämonenturms
+20348	WÃ¤chter des DÃ¤monenturms
 20349	Stallbursche
-20350	Dungeonwärter
-20351	Hallenwächter
+20350	DungeonwÃ¤rter
+20351	HallenwÃ¤chter
 20352	Hasun Steindenkmal
 20353	Seul Rong Steindenkmal
-20354	Stadtwächter
+20354	StadtwÃ¤chter
 20355	Hauptmann
 20356	Ginsengsammler
 20357	Weol Denkmal
@@ -1244,14 +1244,14 @@ VNUM	LOCALE_NAME
 20364	Nakajima
 20365	To Denkmal
 20366	Sa-Soe
-20367	Wächter der Katakombe
-20368	Fahrender Händler
+20367	WÃ¤chter der Katakombe
+20368	Fahrender HÃ¤ndler
 20369	Lee Chung
 20370	Vergifteter Soldat
 20371	Alter Grabstein
 20372	Verwitterte Steintafel
 20373	Schutzgarde
-20374	Wächter
+20374	WÃ¤chter
 20375	Holzbarrikade
 20376	Kim Rim
 20377	Yak-Hwan
@@ -1271,13 +1271,13 @@ VNUM	LOCALE_NAME
 20391	Sonnenkraut
 20392	Toter Soldat
 20393	Verwundeter Soldat
-20394	Feuerland-Wächter
-20395	Eisland-Wächter
+20394	Feuerland-WÃ¤chter
+20395	Eisland-WÃ¤chter
 30000	????
 30001	????
 30101	Statue des Kud
 30102	Basalt-Obelisk
-30103	Schildkrötenfels
+30103	SchildkrÃ¶tenfels
 30104	Runenpfahl
 30111	1. Tor der Verdammnis
 30112	2. Tor der Verdammnis
@@ -1288,7 +1288,7 @@ VNUM	LOCALE_NAME
 30117	7. Tor der Verdammnis
 30118	8. Tor der Verdammnis
 30119	9. Tor der Verdammnis
-30120	Kräutertasche
+30120	KrÃ¤utertasche
 30121	Geist eines Sura
 30122	Geist eines Kriegers
 30123	Dunkler Schrein
@@ -1306,28 +1306,28 @@ VNUM	LOCALE_NAME
 30305	Saphirader
 33001	?????? ???
 33002	Historiker
-33003	Fastender Bürger
-33004	Fastender Bürger
-33005	Fastender Bürger
-33006	Fastender Bürger
-33007	Fastender Bürger
+33003	Fastender BÃ¼rger
+33004	Fastender BÃ¼rger
+33005	Fastender BÃ¼rger
+33006	Fastender BÃ¼rger
+33007	Fastender BÃ¼rger
 33008	Jack Pumpkin
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ã†Ã„ÃˆÂ²
 34005	Porkie
 34006	Rufus
 34007	Khan
 34008	Leonidas
-34009	ÆÄÈ²
+34009	Ã†Ã„ÃˆÂ²
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
+34011	Â¾Ã†Â±Ã¢ Â¹Ã©Â°Ãµ
+34012	Â¾Ã†Â±Ã¢ Ã†Ã’Â´Ãµ
+34013	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34014	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÃˆÂ²Â±ÃÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34015	Ã‡Ã’Â·ÃÃ€Â©Â»Ã€Â°Â­Â¾Ã†ÃÃ¶
+34016	Â³Ã¬Â¿Â°ÂºÃ’Â»Ã§ÃÂ¶
 33009	Seelenkristallalchemist
 33010	Rubinalchemist
 33011	Granatalchemist

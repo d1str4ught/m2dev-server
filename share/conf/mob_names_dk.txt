@@ -2,30 +2,30 @@ VNUM	LOCALE_NAME
 101	Vildhund
 102	Ulv
 103	Alpha-ulv
-104	Blåulv
-105	Alpha-blåulv
-106	Gråulv
-107	Alpha-gråulv
+104	BlÃ¥ulv
+105	Alpha-blÃ¥ulv
+106	GrÃ¥ulv
+107	Alpha-grÃ¥ulv
 108	Vildsvin
-109	Rødt vildsvin
-110	Bjørn
-111	Grizzlybjørn
-112	Sortbjørn
-113	Brunbjørn
+109	RÃ¸dt vildsvin
+110	BjÃ¸rn
+111	GrizzlybjÃ¸rn
+112	SortbjÃ¸rn
+113	BrunbjÃ¸rn
 114	Tiger
 115	Hvid tiger
 131	forbandet ulv
 132	Forbandet alpha-ulv
-133	Forbandet blåulv
-134	Forbandet alpha-blåulv
-135	Forbandet gråulv
-136	Forbandet alpha-gråulv
+133	Forbandet blÃ¥ulv
+134	Forbandet alpha-blÃ¥ulv
+135	Forbandet grÃ¥ulv
+136	Forbandet alpha-grÃ¥ulv
 137	Forbandet vildsvin
-138	Forbandet rød vildsvin
-139	Forbandet bjørn
-140	Forbandet grizzlybjørn
-141	Forbandet sortbjørn
-142	Forbandet brunbjørn
+138	Forbandet rÃ¸d vildsvin
+139	Forbandet bjÃ¸rn
+140	Forbandet grizzlybjÃ¸rn
+141	Forbandet sortbjÃ¸rn
+142	Forbandet brunbjÃ¸rn
 143	Forbandet tiger
 144	Forbandet hvid tiger
 151	Cung-Mok
@@ -36,16 +36,16 @@ VNUM	LOCALE_NAME
 171	Sulten vildhund
 172	Sulten ulv
 173	Sulten alpha-ulv
-174	Sulten blåulv
-175	Sulten alpha-blåulv
-176	Sulten gråulv
-177	Sulten alpha-gråulv
+174	Sulten blÃ¥ulv
+175	Sulten alpha-blÃ¥ulv
+176	Sulten grÃ¥ulv
+177	Sulten alpha-grÃ¥ulv
 178	Sulten vildsvin
-179	Sulten rød vildsvin
-180	Sulten bjørn
-181	Sulten grizzlybjørn
-182	Sulten Sortbjørn
-183	Sulten brunbjørn
+179	Sulten rÃ¸d vildsvin
+180	Sulten bjÃ¸rn
+181	Sulten grizzlybjÃ¸rn
+182	Sulten SortbjÃ¸rn
+183	Sulten brunbjÃ¸rn
 184	Sulten tiger
 185	Sulten hvid tiger
 191	Lykos
@@ -68,10 +68,10 @@ VNUM	LOCALE_NAME
 392	Eun-Jung
 393	Se-Rang
 394	Jin-Hee
-395	Modløs Mi-Jung
-396	Modløs Eun-Jung
-397	Modløs Se-Rang
-398	Modløs Jin-Hee
+395	ModlÃ¸s Mi-Jung
+396	ModlÃ¸s Eun-Jung
+397	ModlÃ¸s Se-Rang
+398	ModlÃ¸s Jin-Hee
 401	Sortvind soldat
 402	Sortvind besat
 403	Sortvind bueskytte
@@ -118,151 +118,151 @@ VNUM	LOCALE_NAME
 634	Stolt ork-troldmand
 635	Stolt ork-general
 636	Sort ork
-637	Sort kæmpe-ork
+637	Sort kÃ¦mpe-ork
 651	Modig stor ork
 652	Modig stor ork-spion
 653	Modig stor ork-kriger
 654	Modig stor ork-troldmand
 655	Modig stor ork-general
 656	Modig kraftig ork
-657	Modig kraftig kæmpe-ork
+657	Modig kraftig kÃ¦mpe-ork
 691	Ledende ork
-692	Mørk ledende ork
-693	Ånde ork-leder
-701	Mørk fanatiker
-702	Mørk Arahan
-703	Mørk kriger
-704	Øverste mørke Arahan
-705	Mørk skarpretter
-706	Mørk plageånd
-707	Mørk besværger
-731	Stolt mørk fanatiker
-732	Stolt mørk Arahan
-733	Stolt mørk kriger
-734	Stolt mørk oberst
-735	Stolt mørk skytte
-736	Stolt mørk plageånd
-737	Stolt mørk troldmand
-751	Høj fanatiker
-752	Høj Arahan
-753	Høj Arahan-kriger
-754	Høj oberst-Arahan
-755	Høj skarpretter
-756	Høj plageånd
-757	Høj besværger
+692	MÃ¸rk ledende ork
+693	Ã…nde ork-leder
+701	MÃ¸rk fanatiker
+702	MÃ¸rk Arahan
+703	MÃ¸rk kriger
+704	Ã˜verste mÃ¸rke Arahan
+705	MÃ¸rk skarpretter
+706	MÃ¸rk plageÃ¥nd
+707	MÃ¸rk besvÃ¦rger
+731	Stolt mÃ¸rk fanatiker
+732	Stolt mÃ¸rk Arahan
+733	Stolt mÃ¸rk kriger
+734	Stolt mÃ¸rk oberst
+735	Stolt mÃ¸rk skytte
+736	Stolt mÃ¸rk plageÃ¥nd
+737	Stolt mÃ¸rk troldmand
+751	HÃ¸j fanatiker
+752	HÃ¸j Arahan
+753	HÃ¸j Arahan-kriger
+754	HÃ¸j oberst-Arahan
+755	HÃ¸j skarpretter
+756	HÃ¸j plageÃ¥nd
+757	HÃ¸j besvÃ¦rger
 771	Brutal fanatiker
 772	Brutal Arahan
 773	Brutal Arahan-kriger
 774	Brutal oberst-Arahan
 775	Brutal skarpretter
-776	Brutal plageånd
-777	Brutal besværger
-791	Mørk leder
-792	Mørk ånde-leder
-793	Mørk elite leder
-794	Elite ånde-leder
+776	Brutal plageÃ¥nd
+777	Brutal besvÃ¦rger
+791	MÃ¸rk leder
+792	MÃ¸rk Ã¥nde-leder
+793	MÃ¸rk elite leder
+794	Elite Ã¥nde-leder
 795	Elite kriger
-796	Mørk elite kriger
-901	Lig-ånd
+796	MÃ¸rk elite kriger
+901	Lig-Ã¥nd
 902	Pest-hund
 903	Pest-mand
-904	Pest-sværdkriger
+904	Pest-svÃ¦rdkriger
 905	Pest-spydkriger
 906	Pest-bueskytte
 907	Pest-leder
-931	Vild lig-ånd
+931	Vild lig-Ã¥nd
 932	Vild pest-hund
 933	Vild pest-mand
 934	Vild pest-kriger
 935	Vild pest-spydkriger
 936	Vild pest-bueskytte
 937	Vild pest-leder
-991	Pest æg
-992	Pest-bærer
-993	Kæmpe pest-bærer
-1001	Dæmon soldat
-1002	Dæmon bueskytte
-1003	Dæmon spydkriger
-1004	Dæmon shaman
+991	Pest Ã¦g
+992	Pest-bÃ¦rer
+993	KÃ¦mpe pest-bÃ¦rer
+1001	DÃ¦mon soldat
+1002	DÃ¦mon bueskytte
+1003	DÃ¦mon spydkriger
+1004	DÃ¦mon shaman
 1031	Ond soldat
 1032	Ond bueskytte
 1033	Ond spydkriger
 1034	Ond shaman
-1035	Vredens ånd
-1036	Kaotisk ånd
-1037	Ond dæmonleder
-1038	Dødningehovedsværdmester
-1039	Flyvende dødningehoved
-1040	Udødelig ånd
-1041	Dæmonisk dyr
-1061	Ond åndesoldat
-1062	Ond åndeskytte
-1063	Ond åndekriger
-1064	Ond åndeshaman
-1065	Ond vred ånd
-1066	Ond kaotisk ånd
-1067	Ond åndeleder
-1068	Ånd sværdmester
-1069	Ond flyv. dødningehoved
-1070	Udødelig ånd
-1071	Dæmonisk dyr
-1091	Dæmonekonge
-1092	Stolt dæmonkonge
-1093	Høstmand
-1094	Ond dæmonkonge
-1095	Blå død
+1035	Vredens Ã¥nd
+1036	Kaotisk Ã¥nd
+1037	Ond dÃ¦monleder
+1038	DÃ¸dningehovedsvÃ¦rdmester
+1039	Flyvende dÃ¸dningehoved
+1040	UdÃ¸delig Ã¥nd
+1041	DÃ¦monisk dyr
+1061	Ond Ã¥ndesoldat
+1062	Ond Ã¥ndeskytte
+1063	Ond Ã¥ndekriger
+1064	Ond Ã¥ndeshaman
+1065	Ond vred Ã¥nd
+1066	Ond kaotisk Ã¥nd
+1067	Ond Ã¥ndeleder
+1068	Ã…nd svÃ¦rdmester
+1069	Ond flyv. dÃ¸dningehoved
+1070	UdÃ¸delig Ã¥nd
+1071	DÃ¦monisk dyr
+1091	DÃ¦monekonge
+1092	Stolt dÃ¦monkonge
+1093	HÃ¸stmand
+1094	Ond dÃ¦monkonge
+1095	BlÃ¥ dÃ¸d
 1096	????
 1101	Fortryllet is
-1102	Is-spækhugger
+1102	Is-spÃ¦khugger
 1103	Is-insekt
-1104	Is-løve
-1105	Kølig Is-mand
+1104	Is-lÃ¸ve
+1105	KÃ¸lig Is-mand
 1106	Yeti
 1107	Is-golem
 1131	Underjordisk Is-Splinter
-1132	Underjord Is-Dræber-Hval
+1132	Underjord Is-DrÃ¦ber-Hval
 1133	Underjordisk Is-Insekt
-1134	Underjordisk Is-Løve
+1134	Underjordisk Is-LÃ¸ve
 1135	Underjordisk Is-Mand
 1136	Underjordisk Yeti
 1137	Underjordisk Is-Golem
-1151	Is-djævel
-1152	Ishorn Spækhugger
+1151	Is-djÃ¦vel
+1152	Ishorn SpÃ¦khugger
 1153	Is-insekt
 1154	Seol-Gu
 1155	Is-mand
-1156	Is-kæmpe
+1156	Is-kÃ¦mpe
 1157	Is-golem
 1171	Ond fortryllet is
-1172	Ond is-spækhugger
+1172	Ond is-spÃ¦khugger
 1173	Ond is-insekt
-1174	Ond is-løve
+1174	Ond is-lÃ¸ve
 1175	Ond is-mand
 1176	Ond Yeti
 1177	Ond is-golem
 1191	Is-heks
 1192	Stor is-heks
-1301	Træfrø-soldat
-1302	Træfrø-leder
+1301	TrÃ¦frÃ¸-soldat
+1302	TrÃ¦frÃ¸-leder
 1303	Fjols
-1304	Gul tigerånd
-1305	Oksefrø-general
-1306	Ond gul tigerånd
-1307	Ond gul tigerånd
+1304	Gul tigerÃ¥nd
+1305	OksefrÃ¸-general
+1306	Ond gul tigerÃ¥nd
+1307	Ond gul tigerÃ¥nd
 1308	NoNAme
 1309	NoNAme
 1310	NoNAme
-1331	Stor Træfrø-soldat
-1332	Stor træfrø-leder
+1331	Stor TrÃ¦frÃ¸-soldat
+1332	Stor trÃ¦frÃ¸-leder
 1333	Stor fjols
-1334	Stor gul tigerånd
-1335	Stor oksefrø-general
-1401	Ødelægger
-1402	Økse kriger
+1334	Stor gul tigerÃ¥nd
+1335	Stor oksefrÃ¸-general
+1401	Ã˜delÃ¦gger
+1402	Ã˜kse kriger
 1403	Tusind kriger
 1501	Sten-golem
 1502	Stenbidder
-1503	Kæmpe fels-golem
+1503	KÃ¦mpe fels-golem
 1601	Oger kriger
 1602	Oger slagter
 1603	Oger berserker
@@ -274,86 +274,86 @@ VNUM	LOCALE_NAME
 1906	NoNAme
 2001	Baby edderkop
 2002	Gift-edderkop
-2003	Rød gift-edderkop
+2003	RÃ¸d gift-edderkop
 2004	Klo-edderkop
 2005	Soldater-edderkop
 2031	Baby gift-edderkop
-2032	Dræbende gift-edderkop
-2033	Rød vred gift-edderkop
+2032	DrÃ¦bende gift-edderkop
+2033	RÃ¸d vred gift-edderkop
 2034	Klo gift-edderkop
 2035	Soldat gift-edderkop
 2036	Stolt soldatgiftedderkop
 2051	Ond baby gift-edderkop
-2052	Ond dræb. gift-edderkop
-2053	Ond rød gift-edderkop
+2052	Ond drÃ¦b. gift-edderkop
+2053	Ond rÃ¸d gift-edderkop
 2054	Ond klo gift-edderkop
 2055	Ond soldat gift-edderkop
 2061	Lille gift-edderkop
-2062	Dræbende gift-edderkop
-2063	Rød dræb. gift-edderkop
+2062	DrÃ¦bende gift-edderkop
+2063	RÃ¸d drÃ¦b. gift-edderkop
 2064	Klo gift-edderkop
 2065	Soldat gift-edderkop
 2071	Brut. baby gift-edderkop
-2072	Brut. dræb.gift-edderkop
-2073	Brut.  rød gift-edderkop
+2072	Brut. drÃ¦b.gift-edderkop
+2073	Brut.  rÃ¸d gift-edderkop
 2074	Brutal klo gift-edderkop
 2075	Brutal soldat-edderkop
 2076	Brutal st. gift-edderkop
 2091	Edderkoppe dronning
 2092	Edderkoppe-baronesse
-2093	Mørk edderkoppe dronning
+2093	MÃ¸rk edderkoppe dronning
 2094	Edderkoppe Baron
-2095	Edderkoppe Æg
-2101	Ørkenræv
-2102	Flyvende ørkenøje
+2095	Edderkoppe Ã†g
+2101	Ã˜rkenrÃ¦v
+2102	Flyvende Ã¸rkenÃ¸je
 2103	Kongeskorpion
 2104	Ung skorpion mand
 2105	Skorpion bueskytte
-2106	Slange sværdkriger
+2106	Slange svÃ¦rdkriger
 2107	Slange bueskytte
-2108	Ørkenbandit
+2108	Ã˜rkenbandit
 2131	Bestialsk skorpion mand
 2132	Skorpion bueskytte
-2133	Slange sværdkriger
+2133	Slange svÃ¦rdkriger
 2134	Slange bueskytte
-2135	Ørkenbandit
-2151	Stærk ørkenræv
-2152	Stærk dervish
-2153	Stærk kongeskorpion
-2154	Skærk skorpion mand
-2155	Stærk skorpion bueskytte
-2156	Stærk slangekriger
-2157	Stærk slangebueskytte
-2158	Stærk ørkenbandit
-2191	Stor ørken-skildpadde
-2192	Mørk ørken-skildpadde
+2135	Ã˜rkenbandit
+2151	StÃ¦rk Ã¸rkenrÃ¦v
+2152	StÃ¦rk dervish
+2153	StÃ¦rk kongeskorpion
+2154	SkÃ¦rk skorpion mand
+2155	StÃ¦rk skorpion bueskytte
+2156	StÃ¦rk slangekriger
+2157	StÃ¦rk slangebueskytte
+2158	StÃ¦rk Ã¸rkenbandit
+2191	Stor Ã¸rken-skildpadde
+2192	MÃ¸rk Ã¸rken-skildpadde
 2201	Kamptigerslave
-2202	Flamme-ånd
+2202	Flamme-Ã¥nd
 2203	Kamptiger
 2204	Flamme
 2205	Flamme-kriger
 2206	Flamme-konge
-2207	Mørk flamme-konge
-2231	Stærk kamptigerslave
-2232	Stærk flamme-ånd
-2233	Stærk kamptiger
-2234	Stærk flamme
-2235	Stærk flamme-kriger
-2291	Rød drage
-2301	Åndetræ
-2302	Åndetræ-stamme
+2207	MÃ¸rk flamme-konge
+2231	StÃ¦rk kamptigerslave
+2232	StÃ¦rk flamme-Ã¥nd
+2233	StÃ¦rk kamptiger
+2234	StÃ¦rk flamme
+2235	StÃ¦rk flamme-kriger
+2291	RÃ¸d drage
+2301	Ã…ndetrÃ¦
+2302	Ã…ndetrÃ¦-stamme
 2303	Dryade
-2304	Eng træspøgelse
-2305	Ondt træ
-2306	Kæmpe åndetræ
-2307	Åndetræ-lord
-2311	Rødt åndetræ
-2312	Rødt åndetræ-stamme
-2313	Rød dryade
-2314	Rød eng træspøgelse
-2315	Rødt ond træ
-2401	Setaou Kæmper
-2402	Setaou Jæger
+2304	Eng trÃ¦spÃ¸gelse
+2305	Ondt trÃ¦
+2306	KÃ¦mpe Ã¥ndetrÃ¦
+2307	Ã…ndetrÃ¦-lord
+2311	RÃ¸dt Ã¥ndetrÃ¦
+2312	RÃ¸dt Ã¥ndetrÃ¦-stamme
+2313	RÃ¸d dryade
+2314	RÃ¸d eng trÃ¦spÃ¸gelse
+2315	RÃ¸dt ond trÃ¦
+2401	Setaou KÃ¦mper
+2402	Setaou JÃ¦ger
 2403	Setaou Mystiker
 2404	Setaou Leder
 2411	Setaou Soldat
@@ -382,15 +382,15 @@ VNUM	LOCALE_NAME
 2507	Infernalsk Klo
 2508	Helveds Kriger
 2509	Helveds Bueskytte
-2510	Helveds Spydkæmper
-2511	Helveds Præst
+2510	Helveds SpydkÃ¦mper
+2511	Helveds PrÃ¦st
 2512	Helveds Major
 2513	Helveds Slagter
 2514	Helveds General
 2541	Ond Helveds Kriger
 2542	Ond Helveds Bueskytte
-2543	Ond Helveds Spydkæmper
-2544	Ond Helveds Præst
+2543	Ond Helveds SpydkÃ¦mper
+2544	Ond Helveds PrÃ¦st
 2545	Ond Helveds Major
 2546	Ond Helveds Slagter
 2547	Ond Helveds General
@@ -408,53 +408,53 @@ VNUM	LOCALE_NAME
 3004	Gnoll magiker
 3005	Gnoll general
 3090	Gnoll Lord
-3091	Øverste Gnoll vagt
-3101	Et øjet bokser
+3091	Ã˜verste Gnoll vagt
+3101	Et Ã¸jet bokser
 3102	Kyklop soldat
 3103	Kyklop magiker
-3104	Kyklop bøddel
+3104	Kyklop bÃ¸ddel
 3105	General Outis
 3190	Arges
 3191	Polyphemos
 3201	Manticore kriger
 3202	Manticore soldat
 3203	Manticore troldmand
-3204	Manticore bøddel
+3204	Manticore bÃ¸ddel
 3205	General Cor
 3290	Rakshasa
 3291	Martyaxwar
 3301	Lemur kriger
 3302	Lemur soldat
 3303	Lemur magiker
-3304	Lemur bøddel
+3304	Lemur bÃ¸ddel
 3305	Lemur general
 3390	Lemur prins
 3391	Lemur bodyguard
-3401	Tritonisk muræne
+3401	Tritonisk murÃ¦ne
 3402	Haj soldat
 3403	Tritonisk  magiker
-3404	Tritonisk jæger
+3404	Tritonisk jÃ¦ger
 3405	Tritonisk  knivstikker
 3490	General Kappa
 3491	Triton
-3501	Rødtyv amazone
-3502	Rødtyv snigmorder
-3503	Rødtyv magiker
-3504	Rødtyv bøddel
-3505	Mørk general
-3551	Brutal rødtyv amazone
-3552	Brutal rødtyv snigmorder
-3553	Brutal rødtyv magiker
-3554	Brutal rødtyv bøddel
+3501	RÃ¸dtyv amazone
+3502	RÃ¸dtyv snigmorder
+3503	RÃ¸dtyv magiker
+3504	RÃ¸dtyv bÃ¸ddel
+3505	MÃ¸rk general
+3551	Brutal rÃ¸dtyv amazone
+3552	Brutal rÃ¸dtyv snigmorder
+3553	Brutal rÃ¸dtyv magiker
+3554	Brutal rÃ¸dtyv bÃ¸ddel
 3555	Hvid general
 3590	Knogleansigt
-3591	Rød høvding
+3591	RÃ¸d hÃ¸vding
 3595	Brutal knogleansigt
-3596	Brutal rød høvding
+3596	Brutal rÃ¸d hÃ¸vding
 3601	Krabbe kriger
 3602	Skorpion skytte
 3603	Reje soldat
-3604	Djævelsk eneboer
+3604	DjÃ¦velsk eneboer
 3605	Armeret krabbe
 3690	Hummer general
 3691	Konge krabbe
@@ -465,21 +465,21 @@ VNUM	LOCALE_NAME
 3705	Kaptajn Klo
 3790	Gargoyle
 3791	Kong Wubba
-3801	Hængork
+3801	HÃ¦ngork
 3802	Skytte trold
 3803	Larmende trold
 3804	Magiker trold
 3805	General Ogg
 3890	Kaptajn Shruk
 3891	Den store trold
-3901	Piletræs mand
+3901	PiletrÃ¦s mand
 3902	Eoten
 3903	Skouman
 3904	Kaptajn Klo
 3905	Se-Rang
 3906	Jin-Hee
-3907	Rødtyv magiker
-3908	Brutal rødtyv bøddel
+3907	RÃ¸dtyv magiker
+3908	Brutal rÃ¸dtyv bÃ¸ddel
 3909	Hvid general
 3910	Knogleansigt
 3911	Aku-Boku
@@ -489,23 +489,23 @@ VNUM	LOCALE_NAME
 5002	Hae-Tae
 5003	Abe
 5004	Pirat Tanaka
-5101	Sød abe-soldat
-5102	Sød abe-kaster
-5103	Sød abe-kriger
-5104	Sød abe-general
+5101	SÃ¸d abe-soldat
+5102	SÃ¸d abe-kaster
+5103	SÃ¸d abe-kriger
+5104	SÃ¸d abe-general
 5111	Abe-soldat
 5112	Abe-kaster
 5113	Abe-kriger
 5114	Abe-general
 5115	Sten-abe
 5116	Abernes leder
-5121	Stærk abe-soldat
-5122	Stærk abe-kaster
-5123	Stærk abe-kriger
-5124	Stærk abe-general
-5125	Stærk sten-abe
-5126	Stærk guld-abe
-5127	Abernes stærke leder
+5121	StÃ¦rk abe-soldat
+5122	StÃ¦rk abe-kaster
+5123	StÃ¦rk abe-kriger
+5124	StÃ¦rk abe-general
+5125	StÃ¦rk sten-abe
+5126	StÃ¦rk guld-abe
+5127	Abernes stÃ¦rke leder
 5131	Klog lille abe-soldat
 5132	Klog lille abe-kaster
 5133	Klog lille abe-kriger
@@ -524,7 +524,7 @@ VNUM	LOCALE_NAME
 5156	Ond guld-abe
 5157	Abernes onde leder
 5161	Fels-abe
-5162	Gående abe
+5162	GÃ¥ende abe
 5163	Abe-lord
 6001	Ember Flame Ghost
 6002	Ember Flame Tiger
@@ -562,9 +562,9 @@ VNUM	LOCALE_NAME
 7013	Kongeskorpion
 7014	Smart skorpion mand
 7015	Skorpion bueskytte
-7016	Slange sværdkriger
+7016	Slange svÃ¦rdkriger
 7017	Slange bueskytte
-7018	Ørkenbandit
+7018	Ã˜rkenbandit
 7019	Tu-ji soldat
 7020	Hwa-Ryung
 7021	Dagdriver Tu-Ji
@@ -646,21 +646,21 @@ VNUM	LOCALE_NAME
 8001	Sorgens Metin
 8002	Kampens Metin
 8003	Slagets Metin
-8004	Begærets Metin
+8004	BegÃ¦rets Metin
 8005	Skumlens Metin
-8006	Mørkets Metin
+8006	MÃ¸rkets Metin
 8007	Misundelsens Metin
-8008	Sjælens Metin
+8008	SjÃ¦lens Metin
 8009	Skyggens Metin
-8010	Hårdhedens Metin
-8011	Djævlens Metin
+8010	HÃ¥rdhedens Metin
+8011	DjÃ¦vlens Metin
 8012	Faldets Metin
-8013	Dødens Metin
+8013	DÃ¸dens Metin
 8014	Drabets Metin
-8015	Hårdhedens Metin
-8016	Djævlens Metin
+8015	HÃ¥rdhedens Metin
+8016	DjÃ¦vlens Metin
 8017	Faldets Metin
-8018	Dødens Metin
+8018	DÃ¸dens Metin
 8019	Drabets Metin
 8020	Shinsoo-fels
 8021	Jinno-fels
@@ -671,55 +671,55 @@ VNUM	LOCALE_NAME
 8026	Metin Tu-Young
 8027	Metin Jeon-Un
 8031	Bjergets Metin
-8032	Hævnens Metin
+8032	HÃ¦vnens Metin
 8033	Ensomhedens Metin
 8034	Arrogancens Metin
 8035	Indfrielsens Metin
-8036	Forræderiets Metin
+8036	ForrÃ¦deriets Metin
 8037	Bitterhedens Metin
-8038	Gengældelsens Metin
+8038	GengÃ¦ldelsens Metin
 8039	Stolthedens Metin
 8040	Ondsindets Metin
-8041	Påske Metin
-8042	Påske Metin
-8043	Påske Metin
-8044	Påske Metin
-8045	Påske Metin
-8046	Påske Metin
-8047	Påske Metin
-8048	Påske Metin
-8049	Påske Metin
-8050	Påske Metin
+8041	PÃ¥ske Metin
+8042	PÃ¥ske Metin
+8043	PÃ¥ske Metin
+8044	PÃ¥ske Metin
+8045	PÃ¥ske Metin
+8046	PÃ¥ske Metin
+8047	PÃ¥ske Metin
+8048	PÃ¥ske Metin
+8049	PÃ¥ske Metin
+8050	PÃ¥ske Metin
 8051	Tristhedens Metin
-8052	Glødens Metin
+8052	GlÃ¸dens Metin
 8053	Tomhedens Metin
 8054	Vredens Metin
-8055	Fordærvets Metin
-8056	nederdrægtighedens Metin
+8055	FordÃ¦rvets Metin
+8056	nederdrÃ¦gtighedens Metin
 8057	Purgatory Fire Metin
 8101	Sorgens Metin
 8102	Kampens Metin
 8103	Slagets Metin
-8104	Begærets Metin
+8104	BegÃ¦rets Metin
 8105	Skumlens Metin
-8106	Mørkets Metin
+8106	MÃ¸rkets Metin
 8107	Misundelsens Metin
-8108	Sjælens Metin
+8108	SjÃ¦lens Metin
 8109	Skyggens Metin
-8110	Hårdhedens Metin
-8111	Djævlens Metin
+8110	HÃ¥rdhedens Metin
+8111	DjÃ¦vlens Metin
 8112	Faldets Metin
-8113	Dødens Metin
+8113	DÃ¸dens Metin
 8114	Drabets Metin
 8501	Vildhund
 8502	Vildsvin
-8503	Bjørn
+8503	BjÃ¸rn
 8504	Hvid tiger
-8505	Sort kæmpe ork
-8506	Træfrø-leder
-8507	Ørkenbandit
-8508	Esoterisk plageånd
-8509	Esoterisk besværger
+8505	Sort kÃ¦mpe ork
+8506	TrÃ¦frÃ¸-leder
+8507	Ã˜rkenbandit
+8508	Esoterisk plageÃ¥nd
+8509	Esoterisk besvÃ¦rger
 8510	Flamme-kriger
 8511	Is-golem
 8600	?????
@@ -738,50 +738,50 @@ VNUM	LOCALE_NAME
 8613	????
 8614	??????
 8615	??????
-9001	Våben-handelsmand
+9001	VÃ¥ben-handelsmand
 9002	Rustnings-handelsmand
 9003	Handelsdame
-9004	Begivenheds-hjælper
+9004	Begivenheds-hjÃ¦lper
 9005	Lagerforvalter
 9006	Gammel dame
-9007	Våben-handelsmand
+9007	VÃ¥ben-handelsmand
 9008	Rustnings-handelsmand
 9009	Fisker
 9010	Blandet forretning
-9011	Bryllupsplanlægger
+9011	BryllupsplanlÃ¦gger
 9012	Teleporter
-10001	Område_Yayang 4002 8995
-10002	Område_Yongan 4503 9050
-10003	Område_Bokjung 1118 2161
-10004	Område_Joan 876 2131
-10005	Område_Bakra 9064 2214
+10001	OmrÃ¥de_Yayang 4002 8995
+10002	OmrÃ¥de_Yongan 4503 9050
+10003	OmrÃ¥de_Bokjung 1118 2161
+10004	OmrÃ¥de_Joan 876 2131
+10005	OmrÃ¥de_Bakra 9064 2214
 10006	Pyungmoo_egnen 9372 2188
-10007	Område_Yongan 4188 9560
-10008	Område_Yayang 3179 8332
-10009	Område_Joan 897 1127
-10010	Område_Bokjung 1759 2210
+10007	OmrÃ¥de_Yongan 4188 9560
+10008	OmrÃ¥de_Yayang 3179 8332
+10009	OmrÃ¥de_Joan 897 1127
+10010	OmrÃ¥de_Bokjung 1759 2210
 10011	Pyungmoo_egnen 9343 3143
-10012	Område_Bakra 8348 2926
+10012	OmrÃ¥de_Bakra 8348 2926
 10013	Hwang_Tempel 5536 1441
 10014	Seungryong 3326 7468
-10015	Yongbi-Ørken 3467 6329
+10015	Yongbi-Ã˜rken 3467 6329
 10016	Kuahlo_Dong 600 4960
 10017	Hwang_Tempel 5906 1102
-10018	Gumsan_Tårn 2165 7270
-10019	Område_Yayang 3211 9009
+10018	Gumsan_TÃ¥rn 2165 7270
+10019	OmrÃ¥de_Yayang 3211 9009
 10020	Jungrang 1356 43
-10021	Område_Bokjung 1168 2920
+10021	OmrÃ¥de_Bokjung 1168 2920
 10022	Waryong 2219 93
-10023	Område_Bakra 9098 2948
+10023	OmrÃ¥de_Bakra 9098 2948
 10024	Imha 2718 130
 10025	Bjerget_Sohan 4993 2984
 10026	Lungsam 2887 57
 10027	Lungsam 2866 437
-10028	Rød_skov 11199 708
-10029	Slangeområde 10590 7262
-10030	Yongbi-Ørken 3519 6223
-10031	Slangeområde 10590 7262
-10032	Kæmpernes_land 8283 7635
+10028	RÃ¸d_skov 11199 708
+10029	SlangeomrÃ¥de 10590 7262
+10030	Yongbi-Ã˜rken 3519 6223
+10031	SlangeomrÃ¥de 10590 7262
+10032	KÃ¦mpernes_land 8283 7635
 10033	Zin-Grotte 10594 7525
 10034	2_Zin-Grotte 10594 7525
 10035	Deon-Zeon 917 5253
@@ -817,14 +817,14 @@ VNUM	LOCALE_NAME
 10065	???? 7754 10553
 10066	????? 9915 11195
 10067	Abe-grotten 7752 4477
-10068	Område_Yayang 4062 8756
+10068	OmrÃ¥de_Yayang 4062 8756
 10069	Abe-grotten 8520 4477
-10070	Område_Bokjung 1611 2130
+10070	OmrÃ¥de_Bokjung 1611 2130
 10071	Abe-grotten 9288 4477
-10072	Område_Bakra 8727 2100
-10073	Yongbi-Ørken 3061 6202
+10072	OmrÃ¥de_Bakra 8727 2100
+10073	Yongbi-Ã˜rken 3061 6202
 10074	Abe-grotten 1352 6532
-10075	Yongbi-Ørken 2879 5407
+10075	Yongbi-Ã˜rken 2879 5407
 10076	Abe-grotten 1352 7300
 10077	????1? 9 12078
 10078	??? 2842 8106
@@ -846,8 +846,8 @@ VNUM	LOCALE_NAME
 10094	Drageport 1733 13743
 10095	Drageport 1728 15277
 10096	Drageport 1724 16824
-10097	°Å¹Ìµ¿±¼2Ãş 7040 5235 
-10098	°Å¹Ìµ¿±¼3Ãş 984 5711
+10097	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼2ÃƒÃ¾ 7040 5235 
+10098	Â°Ã…Â¹ÃŒÂµÂ¿Â±Â¼3ÃƒÃ¾ 984 5711
 10099	Kap 11043 17885
 10100	Kap 10963 16744
 10101	Nefrit 10869 16558
@@ -990,25 +990,25 @@ VNUM	LOCALE_NAME
 11115	???
 11116	???
 11117	???
-11505	Gylden frø
+11505	Gylden frÃ¸
 11506	??
 11507	??
 11508	??
 11509	??
 11510	??
-12000	Lejrbål
-13000	Træport
+12000	LejrbÃ¥l
+13000	TrÃ¦port
 13001	Stenport
-14000	Værksted
-14001	Værksted
-14002	Værksted
-14003	Værksted
-14004	Værksted
-14005	Værksted
-14006	Værksted
-14007	Værksted
-14008	Værksted
-14009	Værksted
+14000	VÃ¦rksted
+14001	VÃ¦rksted
+14002	VÃ¦rksted
+14003	VÃ¦rksted
+14004	VÃ¦rksted
+14005	VÃ¦rksted
+14006	VÃ¦rksted
+14007	VÃ¦rksted
+14008	VÃ¦rksted
+14009	VÃ¦rksted
 14010	Alter
 14011	Alter
 14012	Alter
@@ -1029,16 +1029,16 @@ VNUM	LOCALE_NAME
 14027	Hovedkvarter
 14028	Hovedkvarter
 14029	Hovedkvarter
-14030	Træningslejr
-14031	Træningslejr
-14032	Træningslejr
-14033	Træningslejr
-14034	Træningslejr
-14035	Træningslejr
-14036	Træningslejr
-14037	Træningslejr
-14038	Træningslejr
-14039	Træningslejr
+14030	TrÃ¦ningslejr
+14031	TrÃ¦ningslejr
+14032	TrÃ¦ningslejr
+14033	TrÃ¦ningslejr
+14034	TrÃ¦ningslejr
+14035	TrÃ¦ningslejr
+14036	TrÃ¦ningslejr
+14037	TrÃ¦ningslejr
+14038	TrÃ¦ningslejr
+14039	TrÃ¦ningslejr
 14040	Ovn
 14041	Ovn
 14042	Ovn
@@ -1068,7 +1068,7 @@ VNUM	LOCALE_NAME
 20017	Yu-Hwan
 20018	Baek-Go
 20019	Yang-Shin
-20020	Forræder Balso
+20020	ForrÃ¦der Balso
 20021	Ariyoung
 20022	Huahn-So
 20023	Soon
@@ -1080,9 +1080,9 @@ VNUM	LOCALE_NAME
 20029	Pony
 20030	Hest
 20031	Julemand
-20032	Juletræ
-20033	Juletræ
-20034	Juletræ
+20032	JuletrÃ¦
+20033	JuletrÃ¦
+20034	JuletrÃ¦
 20035	Flag
 20036	Flag
 20037	Flag
@@ -1092,44 +1092,44 @@ VNUM	LOCALE_NAME
 20041	Beruset borger
 20042	Rejsende handelsmand
 20043	.
-20044	Våbensmed
+20044	VÃ¥bensmed
 20045	Rustningssmed
-20046	Juvelér
-20047	Diamant-åre
-20048	Rav-åre
-20049	Fossiltræ-åre
-20050	Kobber-åre
-20051	Sølv-åre
-20052	Guld-åre
-20053	Jade-åre
-20054	Ibentræ-åre
+20046	JuvelÃ©r
+20047	Diamant-Ã¥re
+20048	Rav-Ã¥re
+20049	FossiltrÃ¦-Ã¥re
+20050	Kobber-Ã¥re
+20051	SÃ¸lv-Ã¥re
+20052	Guld-Ã¥re
+20053	Jade-Ã¥re
+20054	IbentrÃ¦-Ã¥re
 20055	Muslinge-bunke
-20056	Hvidguld-åre
-20057	Krystal-åre
-20058	Kvarts-åre
-20059	Himmeltåre-åre
+20056	Hvidguld-Ã¥re
+20057	Krystal-Ã¥re
+20058	Kvarts-Ã¥re
+20059	HimmeltÃ¥re-Ã¥re
 20060	Diamant-alkymist
 20061	Rav-alkymist
-20062	Fossiltræ-alkymist
+20062	FossiltrÃ¦-alkymist
 20063	Kobber-alkymist
-20064	Sølv-alkymist
+20064	SÃ¸lv-alkymist
 20065	Guld-alkymist
 20066	Jade-alkymist
-20067	Ibentræ-alkymist
+20067	IbentrÃ¦-alkymist
 20068	Perle-alkymist
 20069	Hvidguld-alkymist
 20070	Krystal-alkymist
 20071	Kvarts-alkymist
-20072	Himmeltåre-alkymist
+20072	HimmeltÃ¥re-alkymist
 20073	Gammelt segl
-20074	Tårn-våbensmed
-20075	Tårn-rustningssmed
-20076	Tårn-juvelér
+20074	TÃ¥rn-vÃ¥bensmed
+20075	TÃ¥rn-rustningssmed
+20076	TÃ¥rn-juvelÃ©r
 20077	Alterets Vogter
 20078	Alterets Vogter
 20079	Alterets Vogter
-20080	Træningsleder
-20081	Stjålet gang-segl
+20080	TrÃ¦ningsleder
+20081	StjÃ¥let gang-segl
 20082	Mester
 20083	Jegal-Tunseok
 20084	Biolog Chaegirab
@@ -1160,12 +1160,12 @@ VNUM	LOCALE_NAME
 20110	Vildsvin
 20111	Ulv
 20112	Tiger
-20113	Løve
+20113	LÃ¸ve
 20114	white lion
 20115	Krigs-Vildsvin
 20116	Kamp Ulv
 20117	Storm Tiger
-20118	Kamp Løve
+20118	Kamp LÃ¸ve
 20119	NoNAme
 20120	?????
 20121	?????
@@ -1193,39 +1193,39 @@ VNUM	LOCALE_NAME
 20217	?????? ????????
 20218	?????? ????????
 20219	blackpony
-20220	Å©¸®½º¸¶½º ¼ø·Ï
-20221	Àü°©¹é¿õ
-20222	Àü°©ÆÒ´õ
-20223	Àü°©¼®·æÀÚ
-20224	³­ÆøÇÑ Àü°©¼®·æÀÚ
-20225	¿ë¸ÍÇÑ Àü°©¼®·æÀÚ
-20226	ÈæÀ¯´ÏÄÜ
-20227	¹éÀ¯´ÏÄÜ
-20300	Kampstyrke lærer
-20301	Mentalstyrke lærer
-20302	Nærkamp lærer
-20303	Distancekamp lærer
-20304	Magiske-våben lærer
-20305	Sort-magi lærer
-20306	Dragemagt lærer
-20307	Helbredelses lærer
-20320	Kampstyrke lærer
-20321	Mentalstyrke lærer
-20322	Nærkamp lærer
-20323	Distancekamp lærer
-20324	Magiske-våben lærer
-20325	Sort-magi lærer
-20326	Dragemagt lærer
-20327	Helbredelses lærer
-20340	Kampstyrke lærer
-20341	Metalstyrke lærer
-20342	Nærkamp lærer
-20343	Distancekamp lærer
-20344	Magiske-våben lærer
-20345	Sort-magi lærer
-20346	Dragemagt lærer
-20347	Helbredelses lærer
-20348	Dæmontårn-vagt
+20220	Ã…Â©Â¸Â®Â½ÂºÂ¸Â¶Â½Âº Â¼Ã¸Â·Ã
+20221	Ã€Ã¼Â°Â©Â¹Ã©Â¿Ãµ
+20222	Ã€Ã¼Â°Â©Ã†Ã’Â´Ãµ
+20223	Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20224	Â³Â­Ã†Ã¸Ã‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20225	Â¿Ã«Â¸ÃÃ‡Ã‘ Ã€Ã¼Â°Â©Â¼Â®Â·Ã¦Ã€Ãš
+20226	ÃˆÃ¦Ã€Â¯Â´ÃÃ„Ãœ
+20227	Â¹Ã©Ã€Â¯Â´ÃÃ„Ãœ
+20300	Kampstyrke lÃ¦rer
+20301	Mentalstyrke lÃ¦rer
+20302	NÃ¦rkamp lÃ¦rer
+20303	Distancekamp lÃ¦rer
+20304	Magiske-vÃ¥ben lÃ¦rer
+20305	Sort-magi lÃ¦rer
+20306	Dragemagt lÃ¦rer
+20307	Helbredelses lÃ¦rer
+20320	Kampstyrke lÃ¦rer
+20321	Mentalstyrke lÃ¦rer
+20322	NÃ¦rkamp lÃ¦rer
+20323	Distancekamp lÃ¦rer
+20324	Magiske-vÃ¥ben lÃ¦rer
+20325	Sort-magi lÃ¦rer
+20326	Dragemagt lÃ¦rer
+20327	Helbredelses lÃ¦rer
+20340	Kampstyrke lÃ¦rer
+20341	Metalstyrke lÃ¦rer
+20342	NÃ¦rkamp lÃ¦rer
+20343	Distancekamp lÃ¦rer
+20344	Magiske-vÃ¥ben lÃ¦rer
+20345	Sort-magi lÃ¦rer
+20346	Dragemagt lÃ¦rer
+20347	Helbredelses lÃ¦rer
+20348	DÃ¦montÃ¥rn-vagt
 20349	Stald-dreng
 20350	Grotte-vagt
 20351	Hal-vagt
@@ -1252,7 +1252,7 @@ VNUM	LOCALE_NAME
 20372	Slidt sten tavle
 20373	Bodyguard
 20374	Vagt
-20375	Barrikade af træ
+20375	Barrikade af trÃ¦
 20376	Kim Rim
 20377	Slots vagt
 20378	Admiral Angmur
@@ -1261,7 +1261,7 @@ VNUM	LOCALE_NAME
 20381	Kong-fu-tse
 20382	Sten Blomst
 20383	Jae-Seon Kim
-20384	Juletræ
+20384	JuletrÃ¦
 20385	Am-heh Gorge
 20386	Isfet Stele
 20387	Destiny Lock
@@ -1289,21 +1289,21 @@ VNUM	LOCALE_NAME
 30118	8. Fortabelsens Port
 30119	9. Fortabelsens Port
 30120	Urtetaske
-30121	Ånden af en Sura
-30122	Ånden af en Kriger
-30123	Mørk helligdom
+30121	Ã…nden af en Sura
+30122	Ã…nden af en Kriger
+30123	MÃ¸rk helligdom
 30124	Sura-skelet 1
 30125	Sura-skelet 2
 30126	Sura-skelet 3
 30127	Sura-skelet 4
 30128	Sura-skelet 5
-30129	Påskeharen
+30129	PÃ¥skeharen
 30130	Gravsten
-30301	Sjæle krystal åre
-30302	Rubin åre
-30303	Granat åre
-30304	Smaragd åre
-30305	Safir åre
+30301	SjÃ¦le krystal Ã¥re
+30302	Rubin Ã¥re
+30303	Granat Ã¥re
+30304	Smaragd Ã¥re
+30305	Safir Ã¥re
 33001	?????? ???
 33002	NoNAme
 33003	NoNAme
@@ -1311,23 +1311,23 @@ VNUM	LOCALE_NAME
 33005	NoNAme
 33006	NoNAme
 33007	NoNAme
-33008	Jack Græskar
+33008	Jack GrÃ¦skar
 34001	phoenix1
 34002	??? ???
 34003	?????????
-34004	ÆÄÈ²
+34004	Ã†Ã„ÃˆÂ²
 34005	Porkie
 34006	Rufus
 34007	Khan
 34008	Leonidas
-34009	ÆÄÈ²
+34009	Ã†Ã„ÃˆÂ²
 34010	Bambi
-34011	¾Æ±â ¹é°õ
-34012	¾Æ±â ÆÒ´õ
-34013	ºÓÀºµµÀû´Ü¾Ö±âÀå¼ö
-34014	ºÓÀºµµÀû´ÜÈ²±İ¾Ö±âÀå¼ö
-34015	ÇÒ·ÎÀ©»À°­¾ÆÁö
-34016	³ì¿°ºÒ»çÁ¶
+34011	Â¾Ã†Â±Ã¢ Â¹Ã©Â°Ãµ
+34012	Â¾Ã†Â±Ã¢ Ã†Ã’Â´Ãµ
+34013	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34014	ÂºÃ“Ã€ÂºÂµÂµÃ€Ã»Â´ÃœÃˆÂ²Â±ÃÂ¾Ã–Â±Ã¢Ã€Ã¥Â¼Ã¶
+34015	Ã‡Ã’Â·ÃÃ€Â©Â»Ã€Â°Â­Â¾Ã†ÃÃ¶
+34016	Â³Ã¬Â¿Â°ÂºÃ’Â»Ã§ÃÂ¶
 33009	Soul Crystal Alchemist
 33010	Rubin Alchemist
 33011	Garnet Alchemist

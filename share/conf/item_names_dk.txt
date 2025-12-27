@@ -1,306 +1,306 @@
 VNUM	LOCALE_NAME
 1	Yang
 2	By TMP4
-10	Sværd +0
-11	Sværd +1
-12	Sværd +2
-13	Sværd +3
-14	Sværd +4
-15	Sværd +5
-16	Sværd +6
-17	Sværd +7
-18	Sværd +8
-19	Sværd +9
-20	Langsværd +0
-21	Langsværd +1
-22	Langsværd +2
-23	Langsværd +3
-24	Langsværd +4
-25	Langsværd +5
-26	Langsværd +6
-27	Langsværd +7
-28	Langsværd +8
-29	Langsværd +9
-30	Seglsværd +0
-31	Seglsværd +1
-32	Seglsværd +2
-33	Seglsværd +3
-34	Seglsværd +4
-35	Seglsværd +5
-36	Seglsværd +6
-37	Seglsværd +7
-38	Seglsværd +8
-39	Seglsværd +9
-40	Bambussværd +0
-41	Bambussværd +1
-42	Bambussværd +2
-43	Bambussværd +3
-44	Bambussværd +4
-45	Bambussværd +5
-46	Bambussværd +6
-47	Bambussværd +7
-48	Bambussværd +8
-49	Bambussværd +9
-50	Bredsværd +0
-51	Bredsværd +1
-52	Bredsværd +2
-53	Bredsværd +3
-54	Bredsværd +4
-55	Bredsværd +5
-56	Bredsværd +6
-57	Bredsværd +7
-58	Bredsværd +8
-59	Bredsværd +9
-60	Sølvsværd +0
-61	Sølvsværd +1
-62	Sølvsværd +2
-63	Sølvsværd +3
-64	Sølvsværd +4
-65	Sølvsværd +5
-66	Sølvsværd +6
-67	Sølvsværd +7
-68	Sølvsværd +8
-69	Sølvsværd +9
-70	Orkidesværd +0
-71	Orkidesværd +1
-72	Orkidesværd +2
-73	Orkidesværd +3
-74	Orkidesværd +4
-75	Orkidesværd +5
-76	Orkidesværd +6
-77	Orkidesværd +7
-78	Orkidesværd +8
-79	Orkidesværd +9
-80	Halvandenhåndssværd +0
-81	Halvandenhåndssværd +1
-82	Halvandenhåndssværd +2
-83	Halvandenhåndssværd +3
-84	Halvandenhåndssværd +4
-85	Halvandenhåndssværd +5
-86	Halvandenhåndssværd +6
-87	Halvandenhåndssværd +7
-88	Halvandenhåndssværd +8
-89	Halvandenhåndssværd +9
-90	Barbarsværd +0
-91	Barbarsværd +1
-92	Barbarsværd +2
-93	Barbarsværd +3
-94	Barbarsværd +4
-95	Barbarsværd +5
-96	Barbarsværd +6
-97	Barbarsværd +7
-98	Barbarsværd +8
-99	Barbarsværd +9
-100	Blodigt sværd +0
-101	Blodigt sværd +1
-102	Blodigt sværd +2
-103	Blodigt sværd +3
-104	Blodigt sværd +4
-105	Blodigt sværd +5
-106	Blodigt sværd +6
-107	Blodigt sværd +7
-108	Blodigt sværd +8
-109	Blodigt sværd +9
-110	Storsværd +0
-111	Storsværd +1
-112	Storsværd +2
-113	Storsværd +3
-114	Storsværd +4
-115	Storsværd +5
-116	Storsværd +6
-117	Storsværd +7
-118	Storsværd +8
-119	Storsværd +9
-120	Troldmandssværd +0
-121	Troldmandssværd +1
-122	Troldmandssværd +2
-123	Troldmandssværd +3
-124	Troldmandssværd +4
-125	Troldmandssværd +5
-126	Troldmandssværd +6
-127	Troldmandssværd +7
-128	Troldmandssværd +8
-129	Troldmandssværd +9
-130	Halvmånesværd +0
-131	Halvmånesværd +1
-132	Halvmånesværd +2
-133	Halvmånesværd +3
-134	Halvmånesværd +4
-135	Halvmånesværd +5
-136	Halvmånesværd +6
-137	Halvmånesværd +7
-138	Halvmånesværd +8
-139	Halvmånesværd +9
-140	Slagsværd +0
-141	Slagsværd +1
-142	Slagsværd +2
-143	Slagsværd +3
-144	Slagsværd +4
-145	Slagsværd +5
-146	Slagsværd +6
-147	Slagsværd +7
-148	Slagsværd +8
-149	Slagsværd +9
-150	Åndetandsblad +0
-151	Åndetandsblad +1
-152	Åndetandsblad +2
-153	Åndetandsblad +3
-154	Åndetandsblad +4
-155	Åndetandsblad +5
-156	Åndetandsblad +6
-157	Åndetandsblad +7
-158	Åndetandblad +8
-159	Åndetandsblad +9
-160	Nymfesværd +0
-161	Nymfesværd +1
-162	Nymfesværd +2
-163	Nymfesværd +3
-164	Nymfesværd +4
-165	Nymfesværd +5
-166	Nymfesværd +6
-167	Nymfesværd +7
-168	Nymfesværd +8
-169	Nymfesværd +9
-170	Stiksværd +0
-171	Stiksværd +1
-172	Stiksværd +2
-173	Stiksværd +3
-174	Stiksværd +4
-175	Stiksværd +5
-176	Stiksværd +6
-177	Stiksværd +7
-178	Stiksværd +8
-179	Stiksværd +9
-180	Giftsværd +0
-181	Giftsværd +1
-182	Giftsværd +2
-183	Giftsværd +3
-184	Giftsværd +4
-185	Giftsværd +5
-186	Giftsværd +6
-187	Giftsværd +7
-188	Giftsværd +8
-189	Giftsværd +9
-190	Løvesværd +0
-191	Løvesværd +1
-192	Løvesværd +2
-193	Løvesværd +3
-194	Løvesværd +4
-195	Løvesværd +5
-196	Løvesværd +6
-197	Løvesværd +7
-198	Løvesværd +8
-199	Løvesværd +9
-200	Skæreklinge +0
-201	Skæreklinge +1
-202	Skæreklinge +2
-203	Skæreklinge +3
-204	Skæreklinge +4
-205	Skæreklinge +5
-206	Skæreklinge +6
-207	Skæreklinge +7
-208	Skæreklinge +8
-209	Skæreklinge +9
-210	Dræbende klinge +0
-211	Dræbende klinge +1
-212	Dræbende klinge +2
-213	Dræbende klinge +3
-214	Dræbende klinge +4
-215	Dræbende klinge +5
-216	Dræbende klinge +6
-217	Dræbende klinge +7
-218	Dræbende klinge +8
-219	Dræbende klinge +9
-220	Månesværd +0
-221	Månesværd +1
-222	Månesværd +2
-223	Månesværd +3
-224	Månesværd +4
-225	Månesværd +5
-226	Månesværd +6
-227	Månesværd +7
-228	Månesværd +8
-229	Månesværd +9
-230	Himmelsværd +0
-231	Himmelsværd +1
-232	Himmelsværd +2
-233	Himmelsværd +3
-234	Himmelsværd +4
-235	Himmelsværd +5
-236	Himmelsværd +6
-237	Himmelsværd +7
-238	Himmelsværd +8
-239	Himmelsværd +9
-240	Eksorcismesværd +0
-241	Eksorcismesværd +1
-242	Eksorcismesværd +2
-243	Eksorcismesværd +3
-244	Eksorcismesværd +4
-245	Eksorcismesværd +5
-246	Eksorcismesværd +6
-247	Eksorcismesværd +7
-248	Eksorcismesværd +8
-249	Eksorcismesværd +9
-250	Dæmonklinge +0
-251	Dæmonklinge +1
-252	Dæmonklinge +2
-253	Dæmonklinge +3
-254	Dæmonklinge +4
-255	Dæmonklinge +5
-256	Dæmonklinge +6
-257	Dæmonklinge +7
-258	Dæmonklinge +8
-259	Dæmonklinge +9
-260	Baronsværd +0
-261	Baronsværd +1
-262	Baronsværd +2
-263	Baronsværd +3
-264	Baronsværd +4
-265	Baronsværd +5
-266	Baronsværd +6
-267	Baronsværd +7
-268	Baronsværd +8
-269	Baronsværd +9
-270	Tritonssværd +0
-271	Tritonssværd +1
-272	Tritonssværd +2
-273	Tritonssværd +3
-274	Tritonssværd +4
-275	Tritonssværd +5
-276	Tritonssværd +6
-277	Tritonssværd +7
-278	Tritonssværd +8
-279	Tritonssværd +9
-280	Helligt sværd +0
-281	Helligt sværd +1
-282	Helligt sværd +2
-283	Helligt sværd +3
-284	Helligt sværd +4
-285	Helligt sværd +5
-286	Helligt sværd +6
-287	Helligt sværd +7
-288	Helligt sværd +8
-289	Helligt sværd +9
-290	Fuldmånens sværd +0
-291	Fuldmånens sværd +1
-292	Fuldmånens sværd +2
-293	Fuldmånens sværd +3
-294	Fuldmånens sværd +4
-295	Fuldmånens sværd +5
-296	Fuldmånens sværd +6
-297	Fuldmånens sværd +7
-298	Fuldmånens sværd +8
-299	Fuldmånens sværd +9
-460	Runesværd +0
-461	Runesværd +1
-462	Runesværd +2
-463	Runesværd +3
-464	Runesværd +4
-465	Runesværd +5
-466	Runesværd +6
-467	Runesværd +7
-468	Runesværd +8
-469	Runesværd +9
+10	SvÃ¦rd +0
+11	SvÃ¦rd +1
+12	SvÃ¦rd +2
+13	SvÃ¦rd +3
+14	SvÃ¦rd +4
+15	SvÃ¦rd +5
+16	SvÃ¦rd +6
+17	SvÃ¦rd +7
+18	SvÃ¦rd +8
+19	SvÃ¦rd +9
+20	LangsvÃ¦rd +0
+21	LangsvÃ¦rd +1
+22	LangsvÃ¦rd +2
+23	LangsvÃ¦rd +3
+24	LangsvÃ¦rd +4
+25	LangsvÃ¦rd +5
+26	LangsvÃ¦rd +6
+27	LangsvÃ¦rd +7
+28	LangsvÃ¦rd +8
+29	LangsvÃ¦rd +9
+30	SeglsvÃ¦rd +0
+31	SeglsvÃ¦rd +1
+32	SeglsvÃ¦rd +2
+33	SeglsvÃ¦rd +3
+34	SeglsvÃ¦rd +4
+35	SeglsvÃ¦rd +5
+36	SeglsvÃ¦rd +6
+37	SeglsvÃ¦rd +7
+38	SeglsvÃ¦rd +8
+39	SeglsvÃ¦rd +9
+40	BambussvÃ¦rd +0
+41	BambussvÃ¦rd +1
+42	BambussvÃ¦rd +2
+43	BambussvÃ¦rd +3
+44	BambussvÃ¦rd +4
+45	BambussvÃ¦rd +5
+46	BambussvÃ¦rd +6
+47	BambussvÃ¦rd +7
+48	BambussvÃ¦rd +8
+49	BambussvÃ¦rd +9
+50	BredsvÃ¦rd +0
+51	BredsvÃ¦rd +1
+52	BredsvÃ¦rd +2
+53	BredsvÃ¦rd +3
+54	BredsvÃ¦rd +4
+55	BredsvÃ¦rd +5
+56	BredsvÃ¦rd +6
+57	BredsvÃ¦rd +7
+58	BredsvÃ¦rd +8
+59	BredsvÃ¦rd +9
+60	SÃ¸lvsvÃ¦rd +0
+61	SÃ¸lvsvÃ¦rd +1
+62	SÃ¸lvsvÃ¦rd +2
+63	SÃ¸lvsvÃ¦rd +3
+64	SÃ¸lvsvÃ¦rd +4
+65	SÃ¸lvsvÃ¦rd +5
+66	SÃ¸lvsvÃ¦rd +6
+67	SÃ¸lvsvÃ¦rd +7
+68	SÃ¸lvsvÃ¦rd +8
+69	SÃ¸lvsvÃ¦rd +9
+70	OrkidesvÃ¦rd +0
+71	OrkidesvÃ¦rd +1
+72	OrkidesvÃ¦rd +2
+73	OrkidesvÃ¦rd +3
+74	OrkidesvÃ¦rd +4
+75	OrkidesvÃ¦rd +5
+76	OrkidesvÃ¦rd +6
+77	OrkidesvÃ¦rd +7
+78	OrkidesvÃ¦rd +8
+79	OrkidesvÃ¦rd +9
+80	HalvandenhÃ¥ndssvÃ¦rd +0
+81	HalvandenhÃ¥ndssvÃ¦rd +1
+82	HalvandenhÃ¥ndssvÃ¦rd +2
+83	HalvandenhÃ¥ndssvÃ¦rd +3
+84	HalvandenhÃ¥ndssvÃ¦rd +4
+85	HalvandenhÃ¥ndssvÃ¦rd +5
+86	HalvandenhÃ¥ndssvÃ¦rd +6
+87	HalvandenhÃ¥ndssvÃ¦rd +7
+88	HalvandenhÃ¥ndssvÃ¦rd +8
+89	HalvandenhÃ¥ndssvÃ¦rd +9
+90	BarbarsvÃ¦rd +0
+91	BarbarsvÃ¦rd +1
+92	BarbarsvÃ¦rd +2
+93	BarbarsvÃ¦rd +3
+94	BarbarsvÃ¦rd +4
+95	BarbarsvÃ¦rd +5
+96	BarbarsvÃ¦rd +6
+97	BarbarsvÃ¦rd +7
+98	BarbarsvÃ¦rd +8
+99	BarbarsvÃ¦rd +9
+100	Blodigt svÃ¦rd +0
+101	Blodigt svÃ¦rd +1
+102	Blodigt svÃ¦rd +2
+103	Blodigt svÃ¦rd +3
+104	Blodigt svÃ¦rd +4
+105	Blodigt svÃ¦rd +5
+106	Blodigt svÃ¦rd +6
+107	Blodigt svÃ¦rd +7
+108	Blodigt svÃ¦rd +8
+109	Blodigt svÃ¦rd +9
+110	StorsvÃ¦rd +0
+111	StorsvÃ¦rd +1
+112	StorsvÃ¦rd +2
+113	StorsvÃ¦rd +3
+114	StorsvÃ¦rd +4
+115	StorsvÃ¦rd +5
+116	StorsvÃ¦rd +6
+117	StorsvÃ¦rd +7
+118	StorsvÃ¦rd +8
+119	StorsvÃ¦rd +9
+120	TroldmandssvÃ¦rd +0
+121	TroldmandssvÃ¦rd +1
+122	TroldmandssvÃ¦rd +2
+123	TroldmandssvÃ¦rd +3
+124	TroldmandssvÃ¦rd +4
+125	TroldmandssvÃ¦rd +5
+126	TroldmandssvÃ¦rd +6
+127	TroldmandssvÃ¦rd +7
+128	TroldmandssvÃ¦rd +8
+129	TroldmandssvÃ¦rd +9
+130	HalvmÃ¥nesvÃ¦rd +0
+131	HalvmÃ¥nesvÃ¦rd +1
+132	HalvmÃ¥nesvÃ¦rd +2
+133	HalvmÃ¥nesvÃ¦rd +3
+134	HalvmÃ¥nesvÃ¦rd +4
+135	HalvmÃ¥nesvÃ¦rd +5
+136	HalvmÃ¥nesvÃ¦rd +6
+137	HalvmÃ¥nesvÃ¦rd +7
+138	HalvmÃ¥nesvÃ¦rd +8
+139	HalvmÃ¥nesvÃ¦rd +9
+140	SlagsvÃ¦rd +0
+141	SlagsvÃ¦rd +1
+142	SlagsvÃ¦rd +2
+143	SlagsvÃ¦rd +3
+144	SlagsvÃ¦rd +4
+145	SlagsvÃ¦rd +5
+146	SlagsvÃ¦rd +6
+147	SlagsvÃ¦rd +7
+148	SlagsvÃ¦rd +8
+149	SlagsvÃ¦rd +9
+150	Ã…ndetandsblad +0
+151	Ã…ndetandsblad +1
+152	Ã…ndetandsblad +2
+153	Ã…ndetandsblad +3
+154	Ã…ndetandsblad +4
+155	Ã…ndetandsblad +5
+156	Ã…ndetandsblad +6
+157	Ã…ndetandsblad +7
+158	Ã…ndetandblad +8
+159	Ã…ndetandsblad +9
+160	NymfesvÃ¦rd +0
+161	NymfesvÃ¦rd +1
+162	NymfesvÃ¦rd +2
+163	NymfesvÃ¦rd +3
+164	NymfesvÃ¦rd +4
+165	NymfesvÃ¦rd +5
+166	NymfesvÃ¦rd +6
+167	NymfesvÃ¦rd +7
+168	NymfesvÃ¦rd +8
+169	NymfesvÃ¦rd +9
+170	StiksvÃ¦rd +0
+171	StiksvÃ¦rd +1
+172	StiksvÃ¦rd +2
+173	StiksvÃ¦rd +3
+174	StiksvÃ¦rd +4
+175	StiksvÃ¦rd +5
+176	StiksvÃ¦rd +6
+177	StiksvÃ¦rd +7
+178	StiksvÃ¦rd +8
+179	StiksvÃ¦rd +9
+180	GiftsvÃ¦rd +0
+181	GiftsvÃ¦rd +1
+182	GiftsvÃ¦rd +2
+183	GiftsvÃ¦rd +3
+184	GiftsvÃ¦rd +4
+185	GiftsvÃ¦rd +5
+186	GiftsvÃ¦rd +6
+187	GiftsvÃ¦rd +7
+188	GiftsvÃ¦rd +8
+189	GiftsvÃ¦rd +9
+190	LÃ¸vesvÃ¦rd +0
+191	LÃ¸vesvÃ¦rd +1
+192	LÃ¸vesvÃ¦rd +2
+193	LÃ¸vesvÃ¦rd +3
+194	LÃ¸vesvÃ¦rd +4
+195	LÃ¸vesvÃ¦rd +5
+196	LÃ¸vesvÃ¦rd +6
+197	LÃ¸vesvÃ¦rd +7
+198	LÃ¸vesvÃ¦rd +8
+199	LÃ¸vesvÃ¦rd +9
+200	SkÃ¦reklinge +0
+201	SkÃ¦reklinge +1
+202	SkÃ¦reklinge +2
+203	SkÃ¦reklinge +3
+204	SkÃ¦reklinge +4
+205	SkÃ¦reklinge +5
+206	SkÃ¦reklinge +6
+207	SkÃ¦reklinge +7
+208	SkÃ¦reklinge +8
+209	SkÃ¦reklinge +9
+210	DrÃ¦bende klinge +0
+211	DrÃ¦bende klinge +1
+212	DrÃ¦bende klinge +2
+213	DrÃ¦bende klinge +3
+214	DrÃ¦bende klinge +4
+215	DrÃ¦bende klinge +5
+216	DrÃ¦bende klinge +6
+217	DrÃ¦bende klinge +7
+218	DrÃ¦bende klinge +8
+219	DrÃ¦bende klinge +9
+220	MÃ¥nesvÃ¦rd +0
+221	MÃ¥nesvÃ¦rd +1
+222	MÃ¥nesvÃ¦rd +2
+223	MÃ¥nesvÃ¦rd +3
+224	MÃ¥nesvÃ¦rd +4
+225	MÃ¥nesvÃ¦rd +5
+226	MÃ¥nesvÃ¦rd +6
+227	MÃ¥nesvÃ¦rd +7
+228	MÃ¥nesvÃ¦rd +8
+229	MÃ¥nesvÃ¦rd +9
+230	HimmelsvÃ¦rd +0
+231	HimmelsvÃ¦rd +1
+232	HimmelsvÃ¦rd +2
+233	HimmelsvÃ¦rd +3
+234	HimmelsvÃ¦rd +4
+235	HimmelsvÃ¦rd +5
+236	HimmelsvÃ¦rd +6
+237	HimmelsvÃ¦rd +7
+238	HimmelsvÃ¦rd +8
+239	HimmelsvÃ¦rd +9
+240	EksorcismesvÃ¦rd +0
+241	EksorcismesvÃ¦rd +1
+242	EksorcismesvÃ¦rd +2
+243	EksorcismesvÃ¦rd +3
+244	EksorcismesvÃ¦rd +4
+245	EksorcismesvÃ¦rd +5
+246	EksorcismesvÃ¦rd +6
+247	EksorcismesvÃ¦rd +7
+248	EksorcismesvÃ¦rd +8
+249	EksorcismesvÃ¦rd +9
+250	DÃ¦monklinge +0
+251	DÃ¦monklinge +1
+252	DÃ¦monklinge +2
+253	DÃ¦monklinge +3
+254	DÃ¦monklinge +4
+255	DÃ¦monklinge +5
+256	DÃ¦monklinge +6
+257	DÃ¦monklinge +7
+258	DÃ¦monklinge +8
+259	DÃ¦monklinge +9
+260	BaronsvÃ¦rd +0
+261	BaronsvÃ¦rd +1
+262	BaronsvÃ¦rd +2
+263	BaronsvÃ¦rd +3
+264	BaronsvÃ¦rd +4
+265	BaronsvÃ¦rd +5
+266	BaronsvÃ¦rd +6
+267	BaronsvÃ¦rd +7
+268	BaronsvÃ¦rd +8
+269	BaronsvÃ¦rd +9
+270	TritonssvÃ¦rd +0
+271	TritonssvÃ¦rd +1
+272	TritonssvÃ¦rd +2
+273	TritonssvÃ¦rd +3
+274	TritonssvÃ¦rd +4
+275	TritonssvÃ¦rd +5
+276	TritonssvÃ¦rd +6
+277	TritonssvÃ¦rd +7
+278	TritonssvÃ¦rd +8
+279	TritonssvÃ¦rd +9
+280	Helligt svÃ¦rd +0
+281	Helligt svÃ¦rd +1
+282	Helligt svÃ¦rd +2
+283	Helligt svÃ¦rd +3
+284	Helligt svÃ¦rd +4
+285	Helligt svÃ¦rd +5
+286	Helligt svÃ¦rd +6
+287	Helligt svÃ¦rd +7
+288	Helligt svÃ¦rd +8
+289	Helligt svÃ¦rd +9
+290	FuldmÃ¥nens svÃ¦rd +0
+291	FuldmÃ¥nens svÃ¦rd +1
+292	FuldmÃ¥nens svÃ¦rd +2
+293	FuldmÃ¥nens svÃ¦rd +3
+294	FuldmÃ¥nens svÃ¦rd +4
+295	FuldmÃ¥nens svÃ¦rd +5
+296	FuldmÃ¥nens svÃ¦rd +6
+297	FuldmÃ¥nens svÃ¦rd +7
+298	FuldmÃ¥nens svÃ¦rd +8
+299	FuldmÃ¥nens svÃ¦rd +9
+460	RunesvÃ¦rd +0
+461	RunesvÃ¦rd +1
+462	RunesvÃ¦rd +2
+463	RunesvÃ¦rd +3
+464	RunesvÃ¦rd +4
+465	RunesvÃ¦rd +5
+466	RunesvÃ¦rd +6
+467	RunesvÃ¦rd +7
+468	RunesvÃ¦rd +8
+469	RunesvÃ¦rd +9
 470	Dragetandsblad +0
 471	Dragetandsblad +1
 472	Dragetandsblad +2
@@ -361,26 +361,26 @@ VNUM	LOCALE_NAME
 1047	Kattebids kniv +7
 1048	Kattebids kniv +8
 1049	Kattebids kniv +9
-1050	Djævelens maskedolk +0
-1051	Djævelens maskedolk +1
-1052	Djævelens maskedolk +2
-1053	Djævelens maskedolk +3
-1054	Djævelens maskedolk +4
-1055	Djævelens maskedolk +5
-1056	Djævelens maskedolk +6
-1057	Djævelens maskedolk +7
-1058	Djævelens maskedolk +8
-1059	Djævelens maskedolk +9
-1060	Djævelens nævedolk +0
-1061	Djævelens nævedolk +1
-1062	Djævelens nævedolk +2
-1063	Djævelens nævedolk +3
-1064	Djævelens nævedolk +4
-1065	Djævelens nævedolk +5
-1066	Djævelens nævedolk +6
-1067	Djævelens nævedolk +7
-1068	Djævelens nævedolk +8
-1069	Djævelens nævedolk +9
+1050	DjÃ¦velens maskedolk +0
+1051	DjÃ¦velens maskedolk +1
+1052	DjÃ¦velens maskedolk +2
+1053	DjÃ¦velens maskedolk +3
+1054	DjÃ¦velens maskedolk +4
+1055	DjÃ¦velens maskedolk +5
+1056	DjÃ¦velens maskedolk +6
+1057	DjÃ¦velens maskedolk +7
+1058	DjÃ¦velens maskedolk +8
+1059	DjÃ¦velens maskedolk +9
+1060	DjÃ¦velens nÃ¦vedolk +0
+1061	DjÃ¦velens nÃ¦vedolk +1
+1062	DjÃ¦velens nÃ¦vedolk +2
+1063	DjÃ¦velens nÃ¦vedolk +3
+1064	DjÃ¦velens nÃ¦vedolk +4
+1065	DjÃ¦velens nÃ¦vedolk +5
+1066	DjÃ¦velens nÃ¦vedolk +6
+1067	DjÃ¦velens nÃ¦vedolk +7
+1068	DjÃ¦velens nÃ¦vedolk +8
+1069	DjÃ¦velens nÃ¦vedolk +9
 1070	Blodig dolk +0
 1071	Blodig dolk +1
 1072	Blodig dolk +2
@@ -441,16 +441,16 @@ VNUM	LOCALE_NAME
 1127	Siameserkniv +7
 1128	Siameserkniv +8
 1129	Siameserkniv +9
-1130	Djævlevinge-Chakram +0
-1131	Djævlevinge-Chakram +1
-1132	Djævlevinge-Chakram +2
-1133	Djævlevinge-Chakram +3
-1134	Djævlevinge-Chakram +4
-1135	Djævlevinge-Chakram +5
-1136	Djævlevinge-Chakram +6
-1137	Djævlevinge-Chakram +7
-1138	Djævlevinge-Chakram +8
-1139	Djævlevinge-Chakram +9
+1130	DjÃ¦vlevinge-Chakram +0
+1131	DjÃ¦vlevinge-Chakram +1
+1132	DjÃ¦vlevinge-Chakram +2
+1133	DjÃ¦vlevinge-Chakram +3
+1134	DjÃ¦vlevinge-Chakram +4
+1135	DjÃ¦vlevinge-Chakram +5
+1136	DjÃ¦vlevinge-Chakram +6
+1137	DjÃ¦vlevinge-Chakram +7
+1138	DjÃ¦vlevinge-Chakram +8
+1139	DjÃ¦vlevinge-Chakram +9
 1140	Savtandskniv +0
 1141	Savtandskniv +1
 1142	Savtandskniv +2
@@ -461,16 +461,16 @@ VNUM	LOCALE_NAME
 1147	Savtandskniv +7
 1148	Savtandskniv +8
 1149	Savtandskniv +9
-1150	Solstrålernes kniv +0
-1151	Solstrålernes kniv +1
-1152	Solstrålernes kniv +2
-1153	Solstrålernes kniv +3
-1154	Solstrålernes kniv +4
-1155	Solstrålernes kniv +5
-1156	Solstrålernes kniv +6
-1157	Solstrålernes kniv +7
-1158	Solstrålernes kniv +8
-1159	Solstrålernes kniv +9
+1150	SolstrÃ¥lernes kniv +0
+1151	SolstrÃ¥lernes kniv +1
+1152	SolstrÃ¥lernes kniv +2
+1153	SolstrÃ¥lernes kniv +3
+1154	SolstrÃ¥lernes kniv +4
+1155	SolstrÃ¥lernes kniv +5
+1156	SolstrÃ¥lernes kniv +6
+1157	SolstrÃ¥lernes kniv +7
+1158	SolstrÃ¥lernes kniv +8
+1159	SolstrÃ¥lernes kniv +9
 1160	Rinsaldolk +0
 1161	Rinsaldolk +1
 1162	Rinsaldolk +2
@@ -571,26 +571,26 @@ VNUM	LOCALE_NAME
 2067	Kobberudsmykket bue +7
 2068	Kobberudsmykket bue +8
 2069	Kobberudsmykket bue +9
-2070	Ødelæggelsesbue +0
-2071	Ødelæggelsesbue +1
-2072	Ødelæggelsesbue +2
-2073	Ødelæggelsesbue +3
-2074	Ødelæggelsesbue +4
-2075	Ødelæggelsesbue +5
-2076	Ødelæggelsesbue +6
-2077	Ødelæggelsesbue +7
-2078	Ødelæggelsesbue +8
-2079	Ødelæggelsesbue +9
-2080	Rødøjebue +0
-2081	Rødøjebue +1
-2082	Rødøjebue +2
-2083	Rødøjebue +3
-2084	Rødøjebue +4
-2085	Rødøjebue +5
-2086	Rødøjebue +6
-2087	Rødøjebue +7
-2088	Rødøjebue +8
-2089	Rødøjebue +9
+2070	Ã˜delÃ¦ggelsesbue +0
+2071	Ã˜delÃ¦ggelsesbue +1
+2072	Ã˜delÃ¦ggelsesbue +2
+2073	Ã˜delÃ¦ggelsesbue +3
+2074	Ã˜delÃ¦ggelsesbue +4
+2075	Ã˜delÃ¦ggelsesbue +5
+2076	Ã˜delÃ¦ggelsesbue +6
+2077	Ã˜delÃ¦ggelsesbue +7
+2078	Ã˜delÃ¦ggelsesbue +8
+2079	Ã˜delÃ¦ggelsesbue +9
+2080	RÃ¸dÃ¸jebue +0
+2081	RÃ¸dÃ¸jebue +1
+2082	RÃ¸dÃ¸jebue +2
+2083	RÃ¸dÃ¸jebue +3
+2084	RÃ¸dÃ¸jebue +4
+2085	RÃ¸dÃ¸jebue +5
+2086	RÃ¸dÃ¸jebue +6
+2087	RÃ¸dÃ¸jebue +7
+2088	RÃ¸dÃ¸jebue +8
+2089	RÃ¸dÃ¸jebue +9
 2090	Tornbladets bue +0
 2091	Tornbladets bue +1
 2092	Tornbladets bue +2
@@ -611,26 +611,26 @@ VNUM	LOCALE_NAME
 2107	Tyrehornets bue +7
 2108	Tyrehornets bue +8
 2109	Tyrehornets bue +9
-2110	Enhjørningens bue +0
-2111	Enhjørningens bue +1
-2112	Enhjørningens bue +2
-2113	Enhjørningens bue +3
-2114	Enhjørningens bue +4
-2115	Enhjørningens bue +5
-2116	Enhjørningens bue +6
-2117	Enhjørningens bue +7
-2118	Enhjørningens bue +8
-2119	Enhjørningens bue +9
-2120	Kæmpevingebue +0
-2121	Kæmpevingebue +1
-2122	Kæmpevingebue +2
-2123	Kæmpevingebue +3
-2124	Kæmpevingebue +4
-2125	Kæmpevingebue +5
-2126	Kæmpevingebue +6
-2127	Kæmpevingebue +7
-2128	Kæmpevingebue +8
-2129	Kæmpevingebue +9
+2110	EnhjÃ¸rningens bue +0
+2111	EnhjÃ¸rningens bue +1
+2112	EnhjÃ¸rningens bue +2
+2113	EnhjÃ¸rningens bue +3
+2114	EnhjÃ¸rningens bue +4
+2115	EnhjÃ¸rningens bue +5
+2116	EnhjÃ¸rningens bue +6
+2117	EnhjÃ¸rningens bue +7
+2118	EnhjÃ¸rningens bue +8
+2119	EnhjÃ¸rningens bue +9
+2120	KÃ¦mpevingebue +0
+2121	KÃ¦mpevingebue +1
+2122	KÃ¦mpevingebue +2
+2123	KÃ¦mpevingebue +3
+2124	KÃ¦mpevingebue +4
+2125	KÃ¦mpevingebue +5
+2126	KÃ¦mpevingebue +6
+2127	KÃ¦mpevingebue +7
+2128	KÃ¦mpevingebue +8
+2129	KÃ¦mpevingebue +9
 2130	Abrikos-Bue +0
 2131	Abrikos-Bue +1
 2132	Abrikos-Bue +2
@@ -661,56 +661,56 @@ VNUM	LOCALE_NAME
 2157	Hornbue +7
 2158	Hornbue +8
 2159	Hornbue +9
-2160	Stordjævlens bue +0
-2161	Stordjævlens bue +1
-2162	Stordjævlens bue +2
-2163	Stordjævlens bue +3
-2164	Stordjævlens bue +4
-2165	Stordjævlens bue +5
-2166	Stordjævlens bue +6
-2167	Stordjævlens bue +7
-2168	Stordjævlens bue +8
-2169	Stordjævlens bue +9
-2170	Ravnens stålbue +0
-2171	Ravnens stålbue +1
-2172	Ravnens stålbue +2
-2173	Ravnens stålbue +3
-2174	Ravnens stålbue +4
-2175	Ravnens stålbue +5
-2176	Ravnens stålbue +6
-2177	Ravnens stålbue +7
-2178	Ravnens stålbue +8
-2179	Ravnens stålbue +9
-2180	Blådragens bue +0
-2181	Blådragens bue +1
-2182	Blådragens bue +2
-2183	Blådragens bue +3
-2184	Blådragens bue +4
-2185	Blådragens bue +5
-2186	Blådragens bue +6
-2187	Blådragens bue +7
-2188	Blådragens bue +8
-2189	Blådragens bue +9
-2190	Åndens bue +0
-2191	Åndens bue +1
-2192	Åndens bue +2
-2193	Åndens bue +3
-2194	Åndens bue +4
-2195	Åndens bue +5
-2196	Åndens bue +6
-2197	Åndens bue +7
-2198	Åndens bue +8
-2199	Åndens bue +9
-2370	Føniks bue +0
-2371	Føniks bue +1
-2372	Føniks bue +2
-2373	Føniks bue +3
-2374	Føniks bue +4
-2375	Føniks bue +5
-2376	Føniks bue +6
-2377	Føniks bue +7
-2378	Føniks bue +8
-2379	Føniks bue +9
+2160	StordjÃ¦vlens bue +0
+2161	StordjÃ¦vlens bue +1
+2162	StordjÃ¦vlens bue +2
+2163	StordjÃ¦vlens bue +3
+2164	StordjÃ¦vlens bue +4
+2165	StordjÃ¦vlens bue +5
+2166	StordjÃ¦vlens bue +6
+2167	StordjÃ¦vlens bue +7
+2168	StordjÃ¦vlens bue +8
+2169	StordjÃ¦vlens bue +9
+2170	Ravnens stÃ¥lbue +0
+2171	Ravnens stÃ¥lbue +1
+2172	Ravnens stÃ¥lbue +2
+2173	Ravnens stÃ¥lbue +3
+2174	Ravnens stÃ¥lbue +4
+2175	Ravnens stÃ¥lbue +5
+2176	Ravnens stÃ¥lbue +6
+2177	Ravnens stÃ¥lbue +7
+2178	Ravnens stÃ¥lbue +8
+2179	Ravnens stÃ¥lbue +9
+2180	BlÃ¥dragens bue +0
+2181	BlÃ¥dragens bue +1
+2182	BlÃ¥dragens bue +2
+2183	BlÃ¥dragens bue +3
+2184	BlÃ¥dragens bue +4
+2185	BlÃ¥dragens bue +5
+2186	BlÃ¥dragens bue +6
+2187	BlÃ¥dragens bue +7
+2188	BlÃ¥dragens bue +8
+2189	BlÃ¥dragens bue +9
+2190	Ã…ndens bue +0
+2191	Ã…ndens bue +1
+2192	Ã…ndens bue +2
+2193	Ã…ndens bue +3
+2194	Ã…ndens bue +4
+2195	Ã…ndens bue +5
+2196	Ã…ndens bue +6
+2197	Ã…ndens bue +7
+2198	Ã…ndens bue +8
+2199	Ã…ndens bue +9
+2370	FÃ¸niks bue +0
+2371	FÃ¸niks bue +1
+2372	FÃ¸niks bue +2
+2373	FÃ¸niks bue +3
+2374	FÃ¸niks bue +4
+2375	FÃ¸niks bue +5
+2376	FÃ¸niks bue +6
+2377	FÃ¸niks bue +7
+2378	FÃ¸niks bue +8
+2379	FÃ¸niks bue +9
 3000	Langspyd +0
 3001	Langspyd +1
 3002	Langspyd +2
@@ -771,16 +771,16 @@ VNUM	LOCALE_NAME
 3057	Krigs le +7
 3058	Krigs le +8
 3059	Krigs le +9
-3060	krigs høtyv +0
-3061	krigs høtyv +1
-3062	krigs høtyv +2
-3063	krigs høtyv +3
-3064	krigs høtyv +4
-3065	krigs høtyv +5
-3066	krigs høtyv +6
-3067	krigs høtyv +7
-3068	krigs høtyv +8
-3069	krigs høtyv +9
+3060	krigs hÃ¸tyv +0
+3061	krigs hÃ¸tyv +1
+3062	krigs hÃ¸tyv +2
+3063	krigs hÃ¸tyv +3
+3064	krigs hÃ¸tyv +4
+3065	krigs hÃ¸tyv +5
+3066	krigs hÃ¸tyv +6
+3067	krigs hÃ¸tyv +7
+3068	krigs hÃ¸tyv +8
+3069	krigs hÃ¸tyv +9
 3070	Hellebard+0
 3071	Hellebard+1
 3072	Hellebard+2
@@ -791,16 +791,16 @@ VNUM	LOCALE_NAME
 3077	Hellebard+7
 3078	Hellebard+8
 3079	Hellebard+9
-3080	Kæmpe økse +0
-3081	Kæmpe økse +1
-3082	Kæmpe økse +2
-3083	Kæmpe økse +3
-3084	Kæmpe økse +4
-3085	Kæmpe økse +5
-3086	Kæmpe økse +6
-3087	Kæmpe økse +7
-3088	Kæmpe økse +8
-3089	Kæmpe økse +9
+3080	KÃ¦mpe Ã¸kse +0
+3081	KÃ¦mpe Ã¸kse +1
+3082	KÃ¦mpe Ã¸kse +2
+3083	KÃ¦mpe Ã¸kse +3
+3084	KÃ¦mpe Ã¸kse +4
+3085	KÃ¦mpe Ã¸kse +5
+3086	KÃ¦mpe Ã¸kse +6
+3087	KÃ¦mpe Ã¸kse +7
+3088	KÃ¦mpe Ã¸kse +8
+3089	KÃ¦mpe Ã¸kse +9
 3090	Gletsjernes lanse +0
 3091	Gletsjernes lanse +1
 3092	Gletsjernes lanse +2
@@ -811,16 +811,16 @@ VNUM	LOCALE_NAME
 3097	Gletsjernes lanse +7
 3098	Gletsjernes lanse +8
 3099	Gletsjernes lanse +9
-3100	Tolvåndens sværd +0
-3101	Tolvåndens sværd +1
-3102	Tolvåndens sværd +2
-3103	Tolvåndens sværd +3
-3104	Tolvåndens sværd +4
-3105	Tolvåndens sværd +5
-3106	Tolvåndens sværd +6
-3107	Tolvåndens sværd +7
-3108	Tolvåndens sværd +8
-3109	Tolvåndens sværd +9
+3100	TolvÃ¥ndens svÃ¦rd +0
+3101	TolvÃ¥ndens svÃ¦rd +1
+3102	TolvÃ¥ndens svÃ¦rd +2
+3103	TolvÃ¥ndens svÃ¦rd +3
+3104	TolvÃ¥ndens svÃ¦rd +4
+3105	TolvÃ¥ndens svÃ¦rd +5
+3106	TolvÃ¥ndens svÃ¦rd +6
+3107	TolvÃ¥ndens svÃ¦rd +7
+3108	TolvÃ¥ndens svÃ¦rd +8
+3109	TolvÃ¥ndens svÃ¦rd +9
 3110	Frelseklinge +0
 3111	Frelseklinge  +1
 3112	Frelseklinge +2
@@ -831,16 +831,16 @@ VNUM	LOCALE_NAME
 3117	Frelseklinge +7
 3118	Frelseklinge +8
 3119	Frelseklinge +9
-3120	Løvedræber +0
-3121	Løvedræber +1
-3122	Løvedræber +2
-3123	Løvedræber +3
-3124	Løvedræber +4
-3125	Løvedræber +5
-3126	Løvedræber +6
-3127	Løvedræber +7
-3128	Løvedræber +8
-3129	Løvedræber +9
+3120	LÃ¸vedrÃ¦ber +0
+3121	LÃ¸vedrÃ¦ber +1
+3122	LÃ¸vedrÃ¦ber +2
+3123	LÃ¸vedrÃ¦ber +3
+3124	LÃ¸vedrÃ¦ber +4
+3125	LÃ¸vedrÃ¦ber +5
+3126	LÃ¸vedrÃ¦ber +6
+3127	LÃ¸vedrÃ¦ber +7
+3128	LÃ¸vedrÃ¦ber +8
+3129	LÃ¸vedrÃ¦ber +9
 3130	Partisan +0
 3131	Partisan +1
 3132	Partisan +2
@@ -871,36 +871,36 @@ VNUM	LOCALE_NAME
 3157	Halvmenneskets klinge +7
 3158	Halvmenneskets klinge +8
 3159	Halvmenneskets klinge +9
-3160	Harmens sværd +0
-3161	Harmens sværd +1
-3162	Harmens sværd +2
-3163	Harmens sværd +3
-3164	Harmens sværd +4
-3165	Harmens sværd +5
-3166	Harmens sværd +6
-3167	Harmens sværd +7
-3168	Harmens sværd +8
-3169	Harmens sværd +9
-3170	Gulddragensdræber +0
-3171	Gulddragensdræber +1
-3172	Gulddragensdræber +2
-3173	Gulddragensdræber +3
-3174	Gulddragensdræber +4
-3175	Gulddragensdræber +5
-3176	Gulddragensdræber +6
-3177	Gulddragensdræber +7
-3178	Gulddragensdræber +8
-3179	Gulddragensdræber +9
-3180	Blådragensdræber +0
-3181	Blådragensdræber +1
-3182	Blådragensdræber +2
-3183	Blådragensdræber +3
-3184	Blådragensdræber +4
-3185	Blådragensdræber +5
-3186	Blådragensdræber +6
-3187	Blådragensdræber +7
-3188	Blådragensdræber +8
-3189	Blådragensdræber +9
+3160	Harmens svÃ¦rd +0
+3161	Harmens svÃ¦rd +1
+3162	Harmens svÃ¦rd +2
+3163	Harmens svÃ¦rd +3
+3164	Harmens svÃ¦rd +4
+3165	Harmens svÃ¦rd +5
+3166	Harmens svÃ¦rd +6
+3167	Harmens svÃ¦rd +7
+3168	Harmens svÃ¦rd +8
+3169	Harmens svÃ¦rd +9
+3170	GulddragensdrÃ¦ber +0
+3171	GulddragensdrÃ¦ber +1
+3172	GulddragensdrÃ¦ber +2
+3173	GulddragensdrÃ¦ber +3
+3174	GulddragensdrÃ¦ber +4
+3175	GulddragensdrÃ¦ber +5
+3176	GulddragensdrÃ¦ber +6
+3177	GulddragensdrÃ¦ber +7
+3178	GulddragensdrÃ¦ber +8
+3179	GulddragensdrÃ¦ber +9
+3180	BlÃ¥dragensdrÃ¦ber +0
+3181	BlÃ¥dragensdrÃ¦ber +1
+3182	BlÃ¥dragensdrÃ¦ber +2
+3183	BlÃ¥dragensdrÃ¦ber +3
+3184	BlÃ¥dragensdrÃ¦ber +4
+3185	BlÃ¥dragensdrÃ¦ber +5
+3186	BlÃ¥dragensdrÃ¦ber +6
+3187	BlÃ¥dragensdrÃ¦ber +7
+3188	BlÃ¥dragensdrÃ¦ber +8
+3189	BlÃ¥dragensdrÃ¦ber +9
 3190	Solar Blade +0
 3191	Solar Blade +1
 3192	Solar Blade +2
@@ -921,16 +921,16 @@ VNUM	LOCALE_NAME
 3207	Dragegudens klinge +7
 3208	Dragegudens klinge +8
 3209	Dragegudens klinge +9
-3210	Rødjernsklinge +0
-3211	Rødjernsklinge +1
-3212	Rødjernsklinge +2
-3213	Rødjernsklinge +3
-3214	Rødjernsklinge +4
-3215	Rødjernsklinge +5
-3216	Rødjernsklinge +6
-3217	Rødjernsklinge +7
-3218	Rødjernsklinge +8
-3219	Rødjernsklinge +9
+3210	RÃ¸djernsklinge +0
+3211	RÃ¸djernsklinge +1
+3212	RÃ¸djernsklinge +2
+3213	RÃ¸djernsklinge +3
+3214	RÃ¸djernsklinge +4
+3215	RÃ¸djernsklinge +5
+3216	RÃ¸djernsklinge +6
+3217	RÃ¸djernsklinge +7
+3218	RÃ¸djernsklinge +8
+3219	RÃ¸djernsklinge +9
 4000	Amija +0
 4001	Amija +1
 4002	Amija +2
@@ -961,26 +961,26 @@ VNUM	LOCALE_NAME
 4027	Kort kniv +7
 4028	Kort kniv +8
 4029	Kort kniv +9
-4030	Månens tvillingedolk +0
-4031	Månens tvillingedolk +1
-4032	Månens tvillingedolk +2
-4033	Månens tvillingedolk +3
-4034	Månens tvillingedolk +4
-4035	Månens tvillingedolk +5
-4036	Månens tvillingedolk +6
-4037	Månens tvillingedolk +7
-4038	Månens tvillingedolk +8
-4039	Månens tvillingedolk +9
-4040	Sjæleløs kniv +0
-4041	Sjæleløs kniv +1
-4042	Sjæleløs kniv +2
-4043	Sjæleløs kniv +3
-4044	Sjæleløs kniv +4
-4045	Sjæleløs kniv +5
-4046	Sjæleløs kniv +6
-4047	Sjæleløs kniv +7
-4048	Sjæleløs kniv +8
-4049	Sjæleløs kniv +9
+4030	MÃ¥nens tvillingedolk +0
+4031	MÃ¥nens tvillingedolk +1
+4032	MÃ¥nens tvillingedolk +2
+4033	MÃ¥nens tvillingedolk +3
+4034	MÃ¥nens tvillingedolk +4
+4035	MÃ¥nens tvillingedolk +5
+4036	MÃ¥nens tvillingedolk +6
+4037	MÃ¥nens tvillingedolk +7
+4038	MÃ¥nens tvillingedolk +8
+4039	MÃ¥nens tvillingedolk +9
+4040	SjÃ¦lelÃ¸s kniv +0
+4041	SjÃ¦lelÃ¸s kniv +1
+4042	SjÃ¦lelÃ¸s kniv +2
+4043	SjÃ¦lelÃ¸s kniv +3
+4044	SjÃ¦lelÃ¸s kniv +4
+4045	SjÃ¦lelÃ¸s kniv +5
+4046	SjÃ¦lelÃ¸s kniv +6
+4047	SjÃ¦lelÃ¸s kniv +7
+4048	SjÃ¦lelÃ¸s kniv +8
+4049	SjÃ¦lelÃ¸s kniv +9
 5000	Kobberklokke +0
 5001	Kobberklokke +1
 5002	Kobberklokke +2
@@ -991,16 +991,16 @@ VNUM	LOCALE_NAME
 5007	Kobberklokke +7
 5008	Kobberklokke +8
 5009	Kobberklokke +9
-5010	Sølvklokke +0
-5011	Sølvklokke +1
-5012	Sølvklokke +2
-5013	Sølvklokke +3
-5014	Sølvklokke +4
-5015	Sølvklokke +5
-5016	Sølvklokke +6
-5017	Sølvklokke +7
-5018	Sølvklokke +8
-5019	Sølvklokke +9
+5010	SÃ¸lvklokke +0
+5011	SÃ¸lvklokke +1
+5012	SÃ¸lvklokke +2
+5013	SÃ¸lvklokke +3
+5014	SÃ¸lvklokke +4
+5015	SÃ¸lvklokke +5
+5016	SÃ¸lvklokke +6
+5017	SÃ¸lvklokke +7
+5018	SÃ¸lvklokke +8
+5019	SÃ¸lvklokke +9
 5020	Guldklokke +0
 5021	Guldklokke +1
 5022	Guldklokke +2
@@ -1021,16 +1021,16 @@ VNUM	LOCALE_NAME
 5037	Jadeklokke +7
 5038	Jadeklokke +8
 5039	Jadeklokke +9
-5040	Brøndklokke +0
-5041	Brøndklokke +1
-5042	Brøndklokke +2
-5043	Brøndklokke +3
-5044	Brøndklokke +4
-5045	Brøndklokke +5
-5046	Brøndklokke +6
-5047	Brøndklokke +7
-5048	Brøndklokke +8
-5049	Brøndklokke +9
+5040	BrÃ¸ndklokke +0
+5041	BrÃ¸ndklokke +1
+5042	BrÃ¸ndklokke +2
+5043	BrÃ¸ndklokke +3
+5044	BrÃ¸ndklokke +4
+5045	BrÃ¸ndklokke +5
+5046	BrÃ¸ndklokke +6
+5047	BrÃ¸ndklokke +7
+5048	BrÃ¸ndklokke +8
+5049	BrÃ¸ndklokke +9
 5050	Abrikosklokke +0
 5051	Abrikosklokke +1
 5052	Abrikosklokke +2
@@ -1061,16 +1061,16 @@ VNUM	LOCALE_NAME
 5077	Guldbillernes klokke +7
 5078	Guldbillernes klokke +8
 5079	Guldbillernes klokke +9
-5080	Stålbillernes klokke +0
-5081	Stålbillernes klokke +1
-5082	Stålbillernes klokke +2
-5083	Stålbillernes klokke +3
-5084	Stålbillernes klokke +4
-5085	Stålbillernes klokke +5
-5086	Stålbillernes klokke +6
-5087	Stålbillernes klokke +7
-5088	Stålbillernes klokke +8
-5089	Stålbillernes klokke +9
+5080	StÃ¥lbillernes klokke +0
+5081	StÃ¥lbillernes klokke +1
+5082	StÃ¥lbillernes klokke +2
+5083	StÃ¥lbillernes klokke +3
+5084	StÃ¥lbillernes klokke +4
+5085	StÃ¥lbillernes klokke +5
+5086	StÃ¥lbillernes klokke +6
+5087	StÃ¥lbillernes klokke +7
+5088	StÃ¥lbillernes klokke +8
+5089	StÃ¥lbillernes klokke +9
 5090	Tordenfuglens klokke +0
 5091	Tordenfuglens klokke +1
 5092	Tordenfuglens klokke +2
@@ -1141,26 +1141,26 @@ VNUM	LOCALE_NAME
 5157	Hibiskus klokke +7
 5158	Hibiskus klokke +8
 5159	Hibiskus klokke +9
-5330	Dragekæbeklokke+0
-5331	Dragekæbeklokke+1
-5332	Dragekæbeklokke+2
-5333	Dragekæbeklokke+3
-5334	Dragekæbeklokke+4
-5335	Dragekæbeklokke+5
-5336	Dragekæbeklokke+6
-5337	Dragekæbeklokke+7
-5338	Dragekæbeklokke+8
-5339	Dragekæbeklokke+9
-5340	Dragespøgelses klokke +0
-5341	Dragespøgelses klokke +1
-5342	Dragespøgelses klokke +2
-5343	Dragespøgelses klokke +3
-5344	Dragespøgelses klokke +4
-5345	Dragespøgelses klokke +5
-5346	Dragespøgelses klokke +6
-5347	Dragespøgelses klokke +7
-5348	Dragespøgelses klokke +8
-5349	Dragespøgelses klokke +9
+5330	DragekÃ¦beklokke+0
+5331	DragekÃ¦beklokke+1
+5332	DragekÃ¦beklokke+2
+5333	DragekÃ¦beklokke+3
+5334	DragekÃ¦beklokke+4
+5335	DragekÃ¦beklokke+5
+5336	DragekÃ¦beklokke+6
+5337	DragekÃ¦beklokke+7
+5338	DragekÃ¦beklokke+8
+5339	DragekÃ¦beklokke+9
+5340	DragespÃ¸gelses klokke +0
+5341	DragespÃ¸gelses klokke +1
+5342	DragespÃ¸gelses klokke +2
+5343	DragespÃ¸gelses klokke +3
+5344	DragespÃ¸gelses klokke +4
+5345	DragespÃ¸gelses klokke +5
+5346	DragespÃ¸gelses klokke +6
+5347	DragespÃ¸gelses klokke +7
+5348	DragespÃ¸gelses klokke +8
+5349	DragespÃ¸gelses klokke +9
 7000	Vifter +0
 7001	Vifter +1
 7002	Vifter +2
@@ -1201,16 +1201,16 @@ VNUM	LOCALE_NAME
 7037	Tranevingens vifter +7
 7038	Tranevingens vifter +8
 7039	Tranevingens vifter +9
-7040	Påfuglens vifter +0
-7041	Påfuglens vifter +1
-7042	Påfuglens vifter +2
-7043	Påfuglens vifter +3
-7044	Påfuglens vifter +4
-7045	Påfuglens vifter +5
-7046	Påfuglens vifter +6
-7047	Påfuglens vifter +7
-7048	Påfuglens vifter +8
-7049	Påfuglens vifter +9
+7040	PÃ¥fuglens vifter +0
+7041	PÃ¥fuglens vifter +1
+7042	PÃ¥fuglens vifter +2
+7043	PÃ¥fuglens vifter +3
+7044	PÃ¥fuglens vifter +4
+7045	PÃ¥fuglens vifter +5
+7046	PÃ¥fuglens vifter +6
+7047	PÃ¥fuglens vifter +7
+7048	PÃ¥fuglens vifter +8
+7049	PÃ¥fuglens vifter +9
 7050	Aquanske vifter +0
 7051	Aquanske vifter +1
 7052	Aquanske vifter +2
@@ -1251,16 +1251,16 @@ VNUM	LOCALE_NAME
 7087	Stikkevifter +7
 7088	Stikkevifter +8
 7089	Stikkevifter +9
-7090	Phønixs vifter +0
-7091	Phønixs vifter +1
-7092	Phønixs vifter +2
-7093	Phønixs vifter +3
-7094	Phønixs vifter +4
-7095	Phønixs vifter +5
-7096	Phønixs vifter +6
-7097	Phønixs vifter +7
-7098	Phønixs vifter +8
-7099	Phønixs vifter +9
+7090	PhÃ¸nixs vifter +0
+7091	PhÃ¸nixs vifter +1
+7092	PhÃ¸nixs vifter +2
+7093	PhÃ¸nixs vifter +3
+7094	PhÃ¸nixs vifter +4
+7095	PhÃ¸nixs vifter +5
+7096	PhÃ¸nixs vifter +6
+7097	PhÃ¸nixs vifter +7
+7098	PhÃ¸nixs vifter +8
+7099	PhÃ¸nixs vifter +9
 7100	Trearmede vifter +0
 7101	Trearmede vifter +1
 7102	Trearmede vifter +2
@@ -1321,16 +1321,16 @@ VNUM	LOCALE_NAME
 7157	Ekstasevifter+7
 7158	Ekstasevifter+8
 7159	Ekstasevifter+9
-7160	Efterårsvindens vifte +0
-7161	Efterårsvindens vifte +1
-7162	Efterårsvindens vifte +2
-7163	Efterårsvindens vifte +3
-7164	Efterårsvindens vifte +4
-7165	Efterårsvindens vifte +5
-7166	Efterårsvindens vifte +6
-7167	Efterårsvindens vifte +7
-7168	Efterårsvindens vifte +8
-7169	Efterårsvindens vifte +9
+7160	EfterÃ¥rsvindens vifte +0
+7161	EfterÃ¥rsvindens vifte +1
+7162	EfterÃ¥rsvindens vifte +2
+7163	EfterÃ¥rsvindens vifte +3
+7164	EfterÃ¥rsvindens vifte +4
+7165	EfterÃ¥rsvindens vifte +5
+7166	EfterÃ¥rsvindens vifte +6
+7167	EfterÃ¥rsvindens vifte +7
+7168	EfterÃ¥rsvindens vifte +8
+7169	EfterÃ¥rsvindens vifte +9
 7170	Otte-triagram-vifter +0
 7171	Otte-triagram-vifter +1
 7172	Otte-triagram-vifter +2
@@ -1351,16 +1351,16 @@ VNUM	LOCALE_NAME
 7187	Drage-vifter +7
 7188	Drage-vifter +8
 7189	Drage-vifter +9
-7190	Dæmonens vifter +0
-7191	Dæmonens vifter +1
-7192	Dæmonens vifter +2
-7193	Dæmonens vifter +3
-7194	Dæmonens vifter +4
-7195	Dæmonens vifter +5
-7196	Dæmonens vifter +6
-7197	Dæmonens vifter +7
-7198	Dæmonens vifter +8
-7199	Dæmonens vifter +9
+7190	DÃ¦monens vifter +0
+7191	DÃ¦monens vifter +1
+7192	DÃ¦monens vifter +2
+7193	DÃ¦monens vifter +3
+7194	DÃ¦monens vifter +4
+7195	DÃ¦monens vifter +5
+7196	DÃ¦monens vifter +6
+7197	DÃ¦monens vifter +7
+7198	DÃ¦monens vifter +8
+7199	DÃ¦monens vifter +9
 7200	Lanse +0
 7201	Lanse +1
 7202	Lanse +2
@@ -1381,12 +1381,12 @@ VNUM	LOCALE_NAME
 7377	Drage-vifter +7
 7378	Drage-vifter +8
 7379	Drage-vifter +9
-8000	Træpil
+8000	TrÃ¦pil
 8001	Bambuspil
 8002	Stenpil
 8003	Jernpil
-8004	Stålpil
-8005	Sølvpil
+8004	StÃ¥lpil
+8005	SÃ¸lvpil
 8006	Ildpil
 8007	Giftpil
 8008	Ispil
@@ -1395,14 +1395,14 @@ VNUM	LOCALE_NAME
 9002	Tanma rustning +5
 9003	Jinhon rustning +5
 9004	Chung rustning +5
-9501	Sværd +5
-9502	Kort sværd +5
+9501	SvÃ¦rd +5
+9502	Kort svÃ¦rd +5
 9503	Kort bue +5
-9504	Lang sværd +5
+9504	Lang svÃ¦rd +5
 9505	Stor vifter +5
 11000	Ulverustning
 11010	Vildsvinrustning
-11020	Bjørnerustning
+11020	BjÃ¸rnerustning
 11030	Tigerrustning
 11200	Munke pladerustning +0
 11201	Munke pladerustning +1
@@ -1434,26 +1434,26 @@ VNUM	LOCALE_NAME
 11227	Tiger-pladerustning +7
 11228	Tiger-pladerustning +8
 11229	Tiger-pladerustning +9
-11230	Løvens pladerustning +0
-11231	Løvens pladerustning +1
-11232	Løvens pladerustning +2
-11233	Løvens pladerustning +3
-11234	Løvens pladerustning +4
-11235	Løvens pladerustning +5
-11236	Løvens pladerustning +6
-11237	Løvens pladerustning +7
-11238	Løvens pladerustning +8
-11239	Løvens pladerustning +9
-11240	Dødl. pladerustning +0
-11241	Dødl. pladerustning +1
-11242	Dødl. pladerustning +2
-11243	Dødl. pladerustning +3
-11244	Dødl. pladerustning +4
-11245	Dødl. pladerustning +5
-11246	Dødl. pladerustning +6
-11247	Dødl. pladerustning +7
-11248	Dødl. pladerustning +8
-11249	Dødl. pladerustning +9
+11230	LÃ¸vens pladerustning +0
+11231	LÃ¸vens pladerustning +1
+11232	LÃ¸vens pladerustning +2
+11233	LÃ¸vens pladerustning +3
+11234	LÃ¸vens pladerustning +4
+11235	LÃ¸vens pladerustning +5
+11236	LÃ¸vens pladerustning +6
+11237	LÃ¸vens pladerustning +7
+11238	LÃ¸vens pladerustning +8
+11239	LÃ¸vens pladerustning +9
+11240	DÃ¸dl. pladerustning +0
+11241	DÃ¸dl. pladerustning +1
+11242	DÃ¸dl. pladerustning +2
+11243	DÃ¸dl. pladerustning +3
+11244	DÃ¸dl. pladerustning +4
+11245	DÃ¸dl. pladerustning +5
+11246	DÃ¸dl. pladerustning +6
+11247	DÃ¸dl. pladerustning +7
+11248	DÃ¸dl. pladerustning +8
+11249	DÃ¸dl. pladerustning +9
 11250	Dragens pladerustning +0
 11251	Dragens pladerustning +1
 11252	Dragens pladerustning +2
@@ -1464,16 +1464,16 @@ VNUM	LOCALE_NAME
 11257	Dragens pladerustning +7
 11258	Dragens pladerustning +8
 11259	Dragens pladerustning +9
-11260	Skælpanser +0
-11261	Skælpanser +1
-11262	Skælpanser +2
-11263	Skælpanser +3
-11264	Skælpanser +4
-11265	Skælpanser +5
-11266	Skælpanser +6
-11267	Skælpanser +7
-11268	Skælpanser +8
-11269	Skælpanser +9
+11260	SkÃ¦lpanser +0
+11261	SkÃ¦lpanser +1
+11262	SkÃ¦lpanser +2
+11263	SkÃ¦lpanser +3
+11264	SkÃ¦lpanser +4
+11265	SkÃ¦lpanser +5
+11266	SkÃ¦lpanser +6
+11267	SkÃ¦lpanser +7
+11268	SkÃ¦lpanser +8
+11269	SkÃ¦lpanser +9
 11270	Guldpladerustning +0
 11271	Guldpladerustning +1
 11272	Guldpladerustning +2
@@ -1494,16 +1494,16 @@ VNUM	LOCALE_NAME
 11287	Dragegudens panser +7
 11288	Dragegudens panser +8
 11289	Dragegudens panser +9
-11290	Sortstål rustning +0
-11291	Sortstål rustning +1
-11292	Sortstål rustning +2
-11293	Sortstål rustning +3
-11294	Sortstål rustning +4
-11295	Sortstål rustning +5
-11296	Sortstål rustning +6
-11297	Sortstål rustning +7
-11298	Sortstål rustning +8
-11299	Sortstål rustning +9
+11290	SortstÃ¥l rustning +0
+11291	SortstÃ¥l rustning +1
+11292	SortstÃ¥l rustning +2
+11293	SortstÃ¥l rustning +3
+11294	SortstÃ¥l rustning +4
+11295	SortstÃ¥l rustning +5
+11296	SortstÃ¥l rustning +6
+11297	SortstÃ¥l rustning +7
+11298	SortstÃ¥l rustning +8
+11299	SortstÃ¥l rustning +9
 11300	Smidighed
 11301	Smidighed
 11302	God udholdenhed
@@ -1534,36 +1534,36 @@ VNUM	LOCALE_NAME
 11417	Elfenbendragt +7
 11418	Elfenbendragt +8
 11419	Elfenbendragt +9
-11420	Skarlagenrød dragt +0
-11421	Skarlagenrød dragt +1
-11422	Skarlagenrød dragt +2
-11423	Skarlagenrød dragt +3
-11424	Skarlagenrød dragt +4
-11425	Skarlagenrød dragt +5
-11426	Skarlagenrød dragt +6
-11427	Skarlagenrød dragt +7
-11428	Skarlagenrød dragt +8
-11429	Skarlagenrød dragt +9
-11430	Rød myredragt +0
-11431	Rød myredragt +1
-11432	Rød myredragt +2
-11433	Rød myredragt +3
-11434	Rød myredragt +4
-11435	Rød myredragt +5
-11436	Rød myredragt +6
-11437	Rød myredragt +7
-11438	Rød myredragt +8
-11439	Rød myredragt +9
-11440	Myreløve dragt +0
-11441	Myreløve dragt +1
-11442	Myreløve dragt +2
-11443	Myreløve dragt +3
-11444	Myreløve dragt +4
-11445	Myreløve dragt +5
-11446	Myreløve dragt +6
-11447	Myreløve dragt +7
-11448	Myreløve dragt +8
-11449	Myreløve dragt +9
+11420	SkarlagenrÃ¸d dragt +0
+11421	SkarlagenrÃ¸d dragt +1
+11422	SkarlagenrÃ¸d dragt +2
+11423	SkarlagenrÃ¸d dragt +3
+11424	SkarlagenrÃ¸d dragt +4
+11425	SkarlagenrÃ¸d dragt +5
+11426	SkarlagenrÃ¸d dragt +6
+11427	SkarlagenrÃ¸d dragt +7
+11428	SkarlagenrÃ¸d dragt +8
+11429	SkarlagenrÃ¸d dragt +9
+11430	RÃ¸d myredragt +0
+11431	RÃ¸d myredragt +1
+11432	RÃ¸d myredragt +2
+11433	RÃ¸d myredragt +3
+11434	RÃ¸d myredragt +4
+11435	RÃ¸d myredragt +5
+11436	RÃ¸d myredragt +6
+11437	RÃ¸d myredragt +7
+11438	RÃ¸d myredragt +8
+11439	RÃ¸d myredragt +9
+11440	MyrelÃ¸ve dragt +0
+11441	MyrelÃ¸ve dragt +1
+11442	MyrelÃ¸ve dragt +2
+11443	MyrelÃ¸ve dragt +3
+11444	MyrelÃ¸ve dragt +4
+11445	MyrelÃ¸ve dragt +5
+11446	MyrelÃ¸ve dragt +6
+11447	MyrelÃ¸ve dragt +7
+11448	MyrelÃ¸ve dragt +8
+11449	MyrelÃ¸ve dragt +9
 11450	Ninjadragt +0
 11451	Ninjadragt +1
 11452	Ninjadragt +2
@@ -1584,16 +1584,16 @@ VNUM	LOCALE_NAME
 11467	Drageunge dragt +7
 11468	Drageunge dragt +8
 11469	Drageunge dragt +9
-11470	Dræbende vinddragt +0
-11471	Dræbende vinddragt +1
-11472	Dræbende vinddragt +2
-11473	Dræbende vinddragt +3
-11474	Dræbende vinddragt +4
-11475	Dræbende vinddragt +5
-11476	Dræbende vinddragt +6
-11477	Dræbende vinddragt +7
-11478	Dræbende vinddragt +8
-11479	Dræbende vinddragt +9
+11470	DrÃ¦bende vinddragt +0
+11471	DrÃ¦bende vinddragt +1
+11472	DrÃ¦bende vinddragt +2
+11473	DrÃ¦bende vinddragt +3
+11474	DrÃ¦bende vinddragt +4
+11475	DrÃ¦bende vinddragt +5
+11476	DrÃ¦bende vinddragt +6
+11477	DrÃ¦bende vinddragt +7
+11478	DrÃ¦bende vinddragt +8
+11479	DrÃ¦bende vinddragt +9
 11480	Fuchsia dragt +0
 11481	Fuchsia dragt +1
 11482	Fuchsia dragt +2
@@ -1654,16 +1654,16 @@ VNUM	LOCALE_NAME
 11627	Uhelds pladerustning +7
 11628	Uhelds pladerustning +8
 11629	Uhelds pladerustning +9
-11630	Åndens pladerustning +0
-11631	Åndens pladerustning +1
-11632	Åndens pladerustning +2
-11633	Åndens pladerustning +3
-11634	Åndens pladerustning +4
-11635	Åndens pladerustning +5
-11636	Åndens pladerustning +6
-11637	Åndens pladerustning +7
-11638	Åndens pladerustning +8
-11639	Åndens pladerustning +9
+11630	Ã…ndens pladerustning +0
+11631	Ã…ndens pladerustning +1
+11632	Ã…ndens pladerustning +2
+11633	Ã…ndens pladerustning +3
+11634	Ã…ndens pladerustning +4
+11635	Ã…ndens pladerustning +5
+11636	Ã…ndens pladerustning +6
+11637	Ã…ndens pladerustning +7
+11638	Ã…ndens pladerustning +8
+11639	Ã…ndens pladerustning +9
 11640	YinYang-pladerustning +0
 11641	YinYang-pladerustning +1
 11642	YinYang-pladerustning +2
@@ -1684,36 +1684,36 @@ VNUM	LOCALE_NAME
 11657	Mystisk pladerustning +7
 11658	Mystisk pladerustning +8
 11659	Mystisk pladerustning +9
-11660	Tågens pladerustning +0
-11661	Tågens pladerustning +1
-11662	Tågens pladerustning +2
-11663	Tågens pladerustning +3
-11664	Tågens pladerustning +4
-11665	Tågens pladerustning +5
-11666	Tågens pladerustning +6
-11667	Tågens pladerustning +7
-11668	Tågens pladerustning +8
-11669	Tågens pladerustning +9
-11670	Åndens maskepansring +0
-11671	Åndens maskepansring +1
-11672	Åndens maskepansring +2
-11673	Åndens maskepansring +3
-11674	Åndens maskepansring +4
-11675	Åndens maskepansring +5
-11676	Åndens maskepansring +6
-11677	Åndens maskepansring +7
-11678	Åndens maskepansring +8
-11679	Åndens maskepansring +9
-11680	Sjæle-pladerustning +0
-11681	Sjæle-pladerustning +1
-11682	Sjæle-pladerustning +2
-11683	Sjæle-pladerustning +3
-11684	Sjæle-pladerustning +4
-11685	Sjæle-pladerustning +5
-11686	Sjæle-pladerustning +6
-11687	Sjæle-pladerustning +7
-11688	Sjæle-pladerustning +8
-11689	Sjæle-pladerustning +9
+11660	TÃ¥gens pladerustning +0
+11661	TÃ¥gens pladerustning +1
+11662	TÃ¥gens pladerustning +2
+11663	TÃ¥gens pladerustning +3
+11664	TÃ¥gens pladerustning +4
+11665	TÃ¥gens pladerustning +5
+11666	TÃ¥gens pladerustning +6
+11667	TÃ¥gens pladerustning +7
+11668	TÃ¥gens pladerustning +8
+11669	TÃ¥gens pladerustning +9
+11670	Ã…ndens maskepansring +0
+11671	Ã…ndens maskepansring +1
+11672	Ã…ndens maskepansring +2
+11673	Ã…ndens maskepansring +3
+11674	Ã…ndens maskepansring +4
+11675	Ã…ndens maskepansring +5
+11676	Ã…ndens maskepansring +6
+11677	Ã…ndens maskepansring +7
+11678	Ã…ndens maskepansring +8
+11679	Ã…ndens maskepansring +9
+11680	SjÃ¦le-pladerustning +0
+11681	SjÃ¦le-pladerustning +1
+11682	SjÃ¦le-pladerustning +2
+11683	SjÃ¦le-pladerustning +3
+11684	SjÃ¦le-pladerustning +4
+11685	SjÃ¦le-pladerustning +5
+11686	SjÃ¦le-pladerustning +6
+11687	SjÃ¦le-pladerustning +7
+11688	SjÃ¦le-pladerustning +8
+11689	SjÃ¦le-pladerustning +9
 11690	Magi-pladepansring +0
 11691	Magi-pladepansring +1
 11692	Magi-pladepansring +2
@@ -1734,76 +1734,76 @@ VNUM	LOCALE_NAME
 11707	Heuk-Gui-Gab
 11708	Ma-Sin-Gab
 11709	Ma-Ryoung-Sin-Gab
-11800	Purpurklædning+0
-11801	Purpurklædning+1
-11802	Purpurklædning+2
-11803	Purpurklædning+3
-11804	Purpurklædning+4
-11805	Purpurklædning+5
-11806	Purpurklædning+6
-11807	Purpurklædning+7
-11808	Purpurklædning+8
-11809	Purpurklædning+9
-11810	Turkispåklædning +0
-11811	Turkispåklædning +1
-11812	Turkispåklædning +2
-11813	Turkispåklædning +3
-11814	Turkispåklædning +4
-11815	Turkispåklædning +5
-11816	Turkispåklædning +6
-11817	Turkispåklædning +7
-11818	Turkispåklædning +8
-11819	Turkispåklædning +9
-11820	Lyserød påklædning +0
-11821	Lyserød påklædning +1
-11822	Lyserød påklædning +2
-11823	Lyserød påklædning +3
-11824	Lyserød påklædning +4
-11825	Lyserød påklædning +5
-11826	Lyserød påklædning +6
-11827	Lyserød påklædning +7
-11828	Lyserød påklædning +8
-11829	Lyserød påklædning +9
-11830	Kærligheds påklædning +0
-11831	Kærligheds påklædning +1
-11832	Kærligheds påklædning +2
-11833	Kærligheds påklædning +3
-11834	Kærligheds påklædning +4
-11835	Kærligheds påklædning +5
-11836	Kærligheds påklædning +6
-11837	Kærligheds påklædning +7
-11838	Kærligheds påklædning +8
-11839	Kærligheds påklædning +9
-11840	Himlens påklædning +0
-11841	Himlens påklædning +1
-11842	Himlens påklædning +2
-11843	Himlens påklædning +3
-11844	Himlens påklædning +4
-11845	Himlens påklædning +5
-11846	Himlens påklædning +6
-11847	Himlens påklædning +7
-11848	Himlens påklædning +8
-11849	Himlens påklædning +9
-11850	Solpåklædning +0
-11851	Solpåklædning +1
-11852	Solpåklædning +2
-11853	Solpåklædning +3
-11854	Solpåklædning +4
-11855	Solpåklædning +5
-11856	Solpåklædning +6
-11857	Solpåklædning +7
-11858	Solpåklædning +8
-11859	Solpåklædning +9
-11860	Moralens påklædning +0
-11861	Moralens påklædning +1
-11862	Moralens påklædning +2
-11863	Moralens påklædning +3
-11864	Moralens påklædning +4
-11865	Moralens påklædning +5
-11866	Moralens påklædning +6
-11867	Moralens påklædning +7
-11868	Moralens påklædning +8
-11869	Moralens påklædning +9
+11800	PurpurklÃ¦dning+0
+11801	PurpurklÃ¦dning+1
+11802	PurpurklÃ¦dning+2
+11803	PurpurklÃ¦dning+3
+11804	PurpurklÃ¦dning+4
+11805	PurpurklÃ¦dning+5
+11806	PurpurklÃ¦dning+6
+11807	PurpurklÃ¦dning+7
+11808	PurpurklÃ¦dning+8
+11809	PurpurklÃ¦dning+9
+11810	TurkispÃ¥klÃ¦dning +0
+11811	TurkispÃ¥klÃ¦dning +1
+11812	TurkispÃ¥klÃ¦dning +2
+11813	TurkispÃ¥klÃ¦dning +3
+11814	TurkispÃ¥klÃ¦dning +4
+11815	TurkispÃ¥klÃ¦dning +5
+11816	TurkispÃ¥klÃ¦dning +6
+11817	TurkispÃ¥klÃ¦dning +7
+11818	TurkispÃ¥klÃ¦dning +8
+11819	TurkispÃ¥klÃ¦dning +9
+11820	LyserÃ¸d pÃ¥klÃ¦dning +0
+11821	LyserÃ¸d pÃ¥klÃ¦dning +1
+11822	LyserÃ¸d pÃ¥klÃ¦dning +2
+11823	LyserÃ¸d pÃ¥klÃ¦dning +3
+11824	LyserÃ¸d pÃ¥klÃ¦dning +4
+11825	LyserÃ¸d pÃ¥klÃ¦dning +5
+11826	LyserÃ¸d pÃ¥klÃ¦dning +6
+11827	LyserÃ¸d pÃ¥klÃ¦dning +7
+11828	LyserÃ¸d pÃ¥klÃ¦dning +8
+11829	LyserÃ¸d pÃ¥klÃ¦dning +9
+11830	KÃ¦rligheds pÃ¥klÃ¦dning +0
+11831	KÃ¦rligheds pÃ¥klÃ¦dning +1
+11832	KÃ¦rligheds pÃ¥klÃ¦dning +2
+11833	KÃ¦rligheds pÃ¥klÃ¦dning +3
+11834	KÃ¦rligheds pÃ¥klÃ¦dning +4
+11835	KÃ¦rligheds pÃ¥klÃ¦dning +5
+11836	KÃ¦rligheds pÃ¥klÃ¦dning +6
+11837	KÃ¦rligheds pÃ¥klÃ¦dning +7
+11838	KÃ¦rligheds pÃ¥klÃ¦dning +8
+11839	KÃ¦rligheds pÃ¥klÃ¦dning +9
+11840	Himlens pÃ¥klÃ¦dning +0
+11841	Himlens pÃ¥klÃ¦dning +1
+11842	Himlens pÃ¥klÃ¦dning +2
+11843	Himlens pÃ¥klÃ¦dning +3
+11844	Himlens pÃ¥klÃ¦dning +4
+11845	Himlens pÃ¥klÃ¦dning +5
+11846	Himlens pÃ¥klÃ¦dning +6
+11847	Himlens pÃ¥klÃ¦dning +7
+11848	Himlens pÃ¥klÃ¦dning +8
+11849	Himlens pÃ¥klÃ¦dning +9
+11850	SolpÃ¥klÃ¦dning +0
+11851	SolpÃ¥klÃ¦dning +1
+11852	SolpÃ¥klÃ¦dning +2
+11853	SolpÃ¥klÃ¦dning +3
+11854	SolpÃ¥klÃ¦dning +4
+11855	SolpÃ¥klÃ¦dning +5
+11856	SolpÃ¥klÃ¦dning +6
+11857	SolpÃ¥klÃ¦dning +7
+11858	SolpÃ¥klÃ¦dning +8
+11859	SolpÃ¥klÃ¦dning +9
+11860	Moralens pÃ¥klÃ¦dning +0
+11861	Moralens pÃ¥klÃ¦dning +1
+11862	Moralens pÃ¥klÃ¦dning +2
+11863	Moralens pÃ¥klÃ¦dning +3
+11864	Moralens pÃ¥klÃ¦dning +4
+11865	Moralens pÃ¥klÃ¦dning +5
+11866	Moralens pÃ¥klÃ¦dning +6
+11867	Moralens pÃ¥klÃ¦dning +7
+11868	Moralens pÃ¥klÃ¦dning +8
+11869	Moralens pÃ¥klÃ¦dning +9
 11870	Orange kattekjole +0
 11871	Orange kattekjole +1
 11872	Orange kattekjole +2
@@ -1814,26 +1814,26 @@ VNUM	LOCALE_NAME
 11877	Orange kattekjole +7
 11878	Orange kattekjole +8
 11879	Orange kattekjole +9
-11880	Baronesse påklædning +0
-11881	Baronesse påklædning +1
-11882	Baronesse påklædning +2
-11883	Baronesse påklædning +3
-11884	Baronesse påklædning +4
-11885	Baronesse påklædning +5
-11886	Baronesse påklædning +6
-11887	Baronesse påklædning +7
-11888	Baronesse påklædning +8
-11889	Baronesse påklædning +9
-11890	Sort påklædning +0
-11891	Sort påklædning +1
-11892	Sort påklædning +2
-11893	Sort påklædning +3
-11894	Sort påklædning +4
-11895	Sort påklædning +5
-11896	Sort påklædning +6
-11897	Sort påklædning +7
-11898	Sort påklædning +8
-11899	Sort påklædning +9
+11880	Baronesse pÃ¥klÃ¦dning +0
+11881	Baronesse pÃ¥klÃ¦dning +1
+11882	Baronesse pÃ¥klÃ¦dning +2
+11883	Baronesse pÃ¥klÃ¦dning +3
+11884	Baronesse pÃ¥klÃ¦dning +4
+11885	Baronesse pÃ¥klÃ¦dning +5
+11886	Baronesse pÃ¥klÃ¦dning +6
+11887	Baronesse pÃ¥klÃ¦dning +7
+11888	Baronesse pÃ¥klÃ¦dning +8
+11889	Baronesse pÃ¥klÃ¦dning +9
+11890	Sort pÃ¥klÃ¦dning +0
+11891	Sort pÃ¥klÃ¦dning +1
+11892	Sort pÃ¥klÃ¦dning +2
+11893	Sort pÃ¥klÃ¦dning +3
+11894	Sort pÃ¥klÃ¦dning +4
+11895	Sort pÃ¥klÃ¦dning +5
+11896	Sort pÃ¥klÃ¦dning +6
+11897	Sort pÃ¥klÃ¦dning +7
+11898	Sort pÃ¥klÃ¦dning +8
+11899	Sort pÃ¥klÃ¦dning +9
 11901	Smoking
 11902	Smoking
 11903	Brudekjole
@@ -1845,41 +1845,41 @@ VNUM	LOCALE_NAME
 11951	Munke pladerustning
 11952	Azuradragt
 11953	Rekviem-pladerustning
-11954	Purpurklædning
+11954	PurpurklÃ¦dning
 11971	Hwang-Rustning
-11972	Rød Hwang rustning
+11972	RÃ¸d Hwang rustning
 11973	Zin-Hwang rustning
 11974	Sang-Hwang rustning
-12000	Aqua påklædning +0
-12001	Aqua påklædning +1
-12002	Aqua påklædning +2
-12003	Aqua påklædning +3
-12004	Aqua påklædning +4
-12005	Aqua påklædning +5
-12006	Aqua påklædning +6
-12007	Aqua påklædning +7
-12008	Aqua påklædning +8
-12009	Aqua påklædning +9
-12010	Blåståls Rustning +0
-12011	Blåståls Rustning +1
-12012	Blåståls Rustning +2
-12013	Blåståls Rustning +3
-12014	Blåståls Rustning +4
-12015	Blåståls Rustning +5
-12016	Blåståls Rustning +6
-12017	Blåståls Rustning +7
-12018	Blåståls Rustning +8
-12019	Blåståls Rustning +9
-12020	Blå Dragedragt +0
-12021	Blå Dragedragt +1
-12022	Blå Dragedragt +2
-12023	Blå Dragedragt +3
-12024	Blå Dragedragt +4
-12025	Blå Dragedragt +5
-12026	Blå Dragedragt +6
-12027	Blå Dragedragt +7
-12028	Blå Dragedragt +8
-12029	Blå Dragedragt +9
+12000	Aqua pÃ¥klÃ¦dning +0
+12001	Aqua pÃ¥klÃ¦dning +1
+12002	Aqua pÃ¥klÃ¦dning +2
+12003	Aqua pÃ¥klÃ¦dning +3
+12004	Aqua pÃ¥klÃ¦dning +4
+12005	Aqua pÃ¥klÃ¦dning +5
+12006	Aqua pÃ¥klÃ¦dning +6
+12007	Aqua pÃ¥klÃ¦dning +7
+12008	Aqua pÃ¥klÃ¦dning +8
+12009	Aqua pÃ¥klÃ¦dning +9
+12010	BlÃ¥stÃ¥ls Rustning +0
+12011	BlÃ¥stÃ¥ls Rustning +1
+12012	BlÃ¥stÃ¥ls Rustning +2
+12013	BlÃ¥stÃ¥ls Rustning +3
+12014	BlÃ¥stÃ¥ls Rustning +4
+12015	BlÃ¥stÃ¥ls Rustning +5
+12016	BlÃ¥stÃ¥ls Rustning +6
+12017	BlÃ¥stÃ¥ls Rustning +7
+12018	BlÃ¥stÃ¥ls Rustning +8
+12019	BlÃ¥stÃ¥ls Rustning +9
+12020	BlÃ¥ Dragedragt +0
+12021	BlÃ¥ Dragedragt +1
+12022	BlÃ¥ Dragedragt +2
+12023	BlÃ¥ Dragedragt +3
+12024	BlÃ¥ Dragedragt +4
+12025	BlÃ¥ Dragedragt +5
+12026	BlÃ¥ Dragedragt +6
+12027	BlÃ¥ Dragedragt +7
+12028	BlÃ¥ Dragedragt +8
+12029	BlÃ¥ Dragedragt +9
 12030	Aura pladerustning +0
 12031	Aura pladerustning +1
 12032	Aura pladerustning +2
@@ -1890,16 +1890,16 @@ VNUM	LOCALE_NAME
 12037	Aura pladerustning +7
 12038	Aura pladerustning +8
 12039	Aura pladerustning +9
-12040	Drageklæde +0
-12041	Drageklæde +1
-12042	Drageklæde +2
-12043	Drageklæde +3
-12044	Drageklæde +4
-12045	Drageklæde +5
-12046	Drageklæde +6
-12047	Drageklæde +7
-12048	Drageklæde +8
-12049	Drageklæde +9
+12040	DrageklÃ¦de +0
+12041	DrageklÃ¦de +1
+12042	DrageklÃ¦de +2
+12043	DrageklÃ¦de +3
+12044	DrageklÃ¦de +4
+12045	DrageklÃ¦de +5
+12046	DrageklÃ¦de +6
+12047	DrageklÃ¦de +7
+12048	DrageklÃ¦de +8
+12049	DrageklÃ¦de +9
 12200	Traditionel hjelm +0
 12201	Traditionel hjelm +1
 12202	Traditionel hjelm +2
@@ -1920,16 +1920,16 @@ VNUM	LOCALE_NAME
 12227	Jernhjelm +7
 12228	Jernhjelm +8
 12229	Jernhjelm +9
-12240	Åndens maskehjelm +0
-12241	Åndens maskehjelm +1
-12242	Åndens maskehjelm +2
-12243	Åndens maskehjelm +3
-12244	Åndens maskehjelm +4
-12245	Åndens maskehjelm +5
-12246	Åndens maskehjelm +6
-12247	Åndens maskehjelm +7
-12248	Åndens maskehjelm +8
-12249	Åndens maskehjelm +9
+12240	Ã…ndens maskehjelm +0
+12241	Ã…ndens maskehjelm +1
+12242	Ã…ndens maskehjelm +2
+12243	Ã…ndens maskehjelm +3
+12244	Ã…ndens maskehjelm +4
+12245	Ã…ndens maskehjelm +5
+12246	Ã…ndens maskehjelm +6
+12247	Ã…ndens maskehjelm +7
+12248	Ã…ndens maskehjelm +8
+12249	Ã…ndens maskehjelm +9
 12260	Frygtens Maske +0
 12261	Frygtens Maske +1
 12262	Frygtens Maske +2
@@ -1950,56 +1950,56 @@ VNUM	LOCALE_NAME
 12287	Krigsmesterens Hjelm +7
 12288	Krigsmesterens Hjelm +8
 12289	Krigsmesterens Hjelm +9
-12340	Læder hætte +0
-12341	Læder hætte +1
-12342	Læder hætte +2
-12343	Læder hætte +3
-12344	Læder hætte +4
-12345	Læder hætte +5
-12346	Læder hætte +6
-12347	Læder hætte +7
-12348	Læder hætte +8
-12349	Læder hætte +9
-12360	Kæde hætte +0
-12361	Kæde hætte +1
-12362	Kæde hætte +2
-12363	Kæde hætte +3
-12364	Kæde hætte +4
-12365	Kæde hætte +5
-12366	Kæde hætte +6
-12367	Kæde hætte +7
-12368	Kæde hætte +8
-12369	Kæde hætte +9
-12380	Stål hætte +0
-12381	Stål hætte +1
-12382	Stål hætte +2
-12383	Stål hætte +3
-12384	Stål hætte +4
-12385	Stål hætte +5
-12386	Stål hætte +6
-12387	Stål hætte +7
-12388	Stål hætte +8
-12389	Stål hætte +9
-12390	Ork Hætte +0
-12391	Ork Hætte +1
-12392	Ork Hætte +2
-12393	Ork Hætte +3
-12394	Ork Hætte +4
-12395	Ork Hætte +5
-12396	Ork Hætte +6
-12397	Ork Hætte +7
-12398	Ork Hætte +8
-12399	Ork Hætte +9
-12400	Edderkops Hætte +0
-12401	Edderkops Hætte +1
-12402	Edderkops Hætte +2
-12403	Edderkops Hætte +3
-12404	Edderkops Hætte +4
-12405	Edderkops Hætte +5
-12406	Edderkops Hætte +6
-12407	Edderkops Hætte +7
-12408	Edderkops Hætte +8
-12409	Edderkops Hætte +9
+12340	LÃ¦der hÃ¦tte +0
+12341	LÃ¦der hÃ¦tte +1
+12342	LÃ¦der hÃ¦tte +2
+12343	LÃ¦der hÃ¦tte +3
+12344	LÃ¦der hÃ¦tte +4
+12345	LÃ¦der hÃ¦tte +5
+12346	LÃ¦der hÃ¦tte +6
+12347	LÃ¦der hÃ¦tte +7
+12348	LÃ¦der hÃ¦tte +8
+12349	LÃ¦der hÃ¦tte +9
+12360	KÃ¦de hÃ¦tte +0
+12361	KÃ¦de hÃ¦tte +1
+12362	KÃ¦de hÃ¦tte +2
+12363	KÃ¦de hÃ¦tte +3
+12364	KÃ¦de hÃ¦tte +4
+12365	KÃ¦de hÃ¦tte +5
+12366	KÃ¦de hÃ¦tte +6
+12367	KÃ¦de hÃ¦tte +7
+12368	KÃ¦de hÃ¦tte +8
+12369	KÃ¦de hÃ¦tte +9
+12380	StÃ¥l hÃ¦tte +0
+12381	StÃ¥l hÃ¦tte +1
+12382	StÃ¥l hÃ¦tte +2
+12383	StÃ¥l hÃ¦tte +3
+12384	StÃ¥l hÃ¦tte +4
+12385	StÃ¥l hÃ¦tte +5
+12386	StÃ¥l hÃ¦tte +6
+12387	StÃ¥l hÃ¦tte +7
+12388	StÃ¥l hÃ¦tte +8
+12389	StÃ¥l hÃ¦tte +9
+12390	Ork HÃ¦tte +0
+12391	Ork HÃ¦tte +1
+12392	Ork HÃ¦tte +2
+12393	Ork HÃ¦tte +3
+12394	Ork HÃ¦tte +4
+12395	Ork HÃ¦tte +5
+12396	Ork HÃ¦tte +6
+12397	Ork HÃ¦tte +7
+12398	Ork HÃ¦tte +8
+12399	Ork HÃ¦tte +9
+12400	Edderkops HÃ¦tte +0
+12401	Edderkops HÃ¦tte +1
+12402	Edderkops HÃ¦tte +2
+12403	Edderkops HÃ¦tte +3
+12404	Edderkops HÃ¦tte +4
+12405	Edderkops HÃ¦tte +5
+12406	Edderkops HÃ¦tte +6
+12407	Edderkops HÃ¦tte +7
+12408	Edderkops HÃ¦tte +8
+12409	Edderkops HÃ¦tte +9
 12480	Blodig hjelm +0
 12481	Blodig hjelm +1
 12482	Blodig hjelm +2
@@ -2010,16 +2010,16 @@ VNUM	LOCALE_NAME
 12487	Blodig hjelm +7
 12488	Blodig hjelm +8
 12489	Blodig hjelm +9
-12500	Forhånende hjelm +0
-12501	Forhånende hjelm +1
-12502	Forhånende hjelm +2
-12503	Forhånende hjelm +3
-12504	Forhånende hjelm +4
-12505	Forhånende hjelm +5
-12506	Forhånende hjelm +6
-12507	Forhånende hjelm +7
-12508	Forhånende hjelm +8
-12509	Forhånende hjelm +9
+12500	ForhÃ¥nende hjelm +0
+12501	ForhÃ¥nende hjelm +1
+12502	ForhÃ¥nende hjelm +2
+12503	ForhÃ¥nende hjelm +3
+12504	ForhÃ¥nende hjelm +4
+12505	ForhÃ¥nende hjelm +5
+12506	ForhÃ¥nende hjelm +6
+12507	ForhÃ¥nende hjelm +7
+12508	ForhÃ¥nende hjelm +8
+12509	ForhÃ¥nende hjelm +9
 12520	Slots hjelm +0
 12521	Slots hjelm +1
 12522	Slots hjelm +2
@@ -2060,16 +2060,16 @@ VNUM	LOCALE_NAME
 12627	Munkehat +7
 12628	Munkehat +8
 12629	Munkehat +9
-12640	Phønix hat +0
-12641	Phønix hat +1
-12642	Phønix hat +2
-12643	Phønix hat +3
-12644	Phønix hat +4
-12645	Phønix hat +5
-12646	Phønix hat +6
-12647	Phønix hat +7
-12648	Phønix hat +8
-12649	Phønix hat +9
+12640	PhÃ¸nix hat +0
+12641	PhÃ¸nix hat +1
+12642	PhÃ¸nix hat +2
+12643	PhÃ¸nix hat +3
+12644	PhÃ¸nix hat +4
+12645	PhÃ¸nix hat +5
+12646	PhÃ¸nix hat +6
+12647	PhÃ¸nix hat +7
+12648	PhÃ¸nix hat +8
+12649	PhÃ¸nix hat +9
 12660	Sollysets hat +0
 12661	Sollysets hat +1
 12662	Sollysets hat +2
@@ -2090,16 +2090,16 @@ VNUM	LOCALE_NAME
 12677	Kardinalens Hat +7
 12678	Kardinalens Hat +8
 12679	Kardinalens Hat +9
-12680	Sjælesplints Hat +0
-12681	Sjælesplints Hat +1
-12682	Sjælesplints Hat +2
-12683	Sjælesplints Hat +3
-12684	Sjælesplints Hat +4
-12685	Sjælesplints Hat +5
-12686	Sjælesplints Hat +6
-12687	Sjælesplints Hat +7
-12688	Sjælesplints Hat +8
-12689	Sjælesplints Hat +9
+12680	SjÃ¦lesplints Hat +0
+12681	SjÃ¦lesplints Hat +1
+12682	SjÃ¦lesplints Hat +2
+12683	SjÃ¦lesplints Hat +3
+12684	SjÃ¦lesplints Hat +4
+12685	SjÃ¦lesplints Hat +5
+12686	SjÃ¦lesplints Hat +6
+12687	SjÃ¦lesplints Hat +7
+12688	SjÃ¦lesplints Hat +8
+12689	SjÃ¦lesplints Hat +9
 13000	Krigsskjold +0
 13001	Krigsskjold +1
 13002	Krigsskjold +2
@@ -2150,26 +2150,26 @@ VNUM	LOCALE_NAME
 13087	Tiger skjold +7
 13088	Tiger skjold +8
 13089	Tiger skjold +9
-13100	Løve skjold +0
-13101	Løve skjold +1
-13102	Løve skjold +2
-13103	Løve skjold +3
-13104	Løve skjold +4
-13105	Løve skjold +5
-13106	Løve skjold +6
-13107	Løve skjold +7
-13108	Løve skjold +8
-13109	Løve skjold +9
-13120	Drageskæl skjold +0
-13121	Drageskæl skjold +1
-13122	Drageskæl skjold +2
-13123	Drageskæl skjold +3
-13124	Drageskæl skjold +4
-13125	Drageskæl skjold +5
-13126	Drageskæl skjold +6
-13127	Drageskæl skjold +7
-13128	Drageskæl skjold +8
-13129	Drageskæl skjold +9
+13100	LÃ¸ve skjold +0
+13101	LÃ¸ve skjold +1
+13102	LÃ¸ve skjold +2
+13103	LÃ¸ve skjold +3
+13104	LÃ¸ve skjold +4
+13105	LÃ¸ve skjold +5
+13106	LÃ¸ve skjold +6
+13107	LÃ¸ve skjold +7
+13108	LÃ¸ve skjold +8
+13109	LÃ¸ve skjold +9
+13120	DrageskÃ¦l skjold +0
+13121	DrageskÃ¦l skjold +1
+13122	DrageskÃ¦l skjold +2
+13123	DrageskÃ¦l skjold +3
+13124	DrageskÃ¦l skjold +4
+13125	DrageskÃ¦l skjold +5
+13126	DrageskÃ¦l skjold +6
+13127	DrageskÃ¦l skjold +7
+13128	DrageskÃ¦l skjold +8
+13129	DrageskÃ¦l skjold +9
 13140	Titan skjold +0
 13141	Titan skjold +1
 13142	Titan skjold +2
@@ -2190,16 +2190,16 @@ VNUM	LOCALE_NAME
 13167	Trekejser skjold +7
 13168	Trekejser skjold +8
 13169	Trekejser skjold +9
-13180	Strålende skjold +0
-13181	Strålende skjold +1
-13182	Strålende skjold +2
-13183	Strålende skjold +3
-13184	Strålende skjold +4
-13185	Strålende skjold +5
-13186	Strålende skjold +6
-13187	Strålende skjold +7
-13188	Strålende skjold +8
-13189	Strålende skjold +9
+13180	StrÃ¥lende skjold +0
+13181	StrÃ¥lende skjold +1
+13182	StrÃ¥lende skjold +2
+13183	StrÃ¥lende skjold +3
+13184	StrÃ¥lende skjold +4
+13185	StrÃ¥lende skjold +5
+13186	StrÃ¥lende skjold +6
+13187	StrÃ¥lende skjold +7
+13188	StrÃ¥lende skjold +8
+13189	StrÃ¥lende skjold +9
 13190	Femkantet skjold +0
 13191	Femkantet skjold +1
 13192	Femkantet skjold +2
@@ -2220,176 +2220,176 @@ VNUM	LOCALE_NAME
 13207	Sort rundskjold +7
 13208	Sort rundskjold +8
 13209	Sort rundskjold +9
-14000	Træ armbånd +0
-14001	Træ armbånd +1
-14002	Træ armbånd +2
-14003	Træ armbånd +3
-14004	Træ armbånd +4
-14005	Træ armbånd +5
-14006	Træ armbånd +6
-14007	Træ armbånd +7
-14008	Træ armbånd +8
-14009	Træ armbånd +9
-14020	Kobber armbånd +0
-14021	Kobber armbånd +1
-14022	Kobber armbånd +2
-14023	Kobber armbånd +3
-14024	Kobber armbånd +4
-14025	Kobber armbånd +5
-14026	Kobber armbånd +6
-14027	Kobber armbånd +7
-14028	Kobber armbånd +8
-14029	Kobber armbånd +9
-14040	Sølv armbånd +0
-14041	Sølv armbånd +1
-14042	Sølv armbånd +2
-14043	Sølv armbånd +3
-14044	Sølv armbånd +4
-14045	Sølv armbånd +5
-14046	Sølv armbånd +6
-14047	Sølv armbånd +7
-14048	Sølv armbånd +8
-14049	Sølv armbånd +9
-14060	Guld armbånd +0
-14061	Guld armbånd +1
-14062	Guld armbånd +2
-14063	Guld armbånd +3
-14064	Guld armbånd +4
-14065	Guld armbånd +5
-14066	Guld armbånd +6
-14067	Guld armbånd +7
-14068	Guld armbånd +8
-14069	Guld armbånd +9
-14080	Jade armbånd +0
-14081	Jade armbånd +1
-14082	Jade armbånd +2
-14083	Jade armbånd +3
-14084	Jade armbånd +4
-14085	Jade armbånd +5
-14086	Jade armbånd +6
-14087	Jade armbånd +7
-14088	Jade armbånd +8
-14089	Jade armbånd +9
-14100	Ibentræ armbånd +0
-14101	Ibentræ armbånd +1
-14102	Ibentræ armbånd +2
-14103	Ibentræ armbånd +3
-14104	Ibentræ armbånd +4
-14105	Ibentræ armbånd +5
-14106	Ibentræ armbånd +6
-14107	Ibentræ armbånd +7
-14108	Ibentræ armbånd +8
-14109	Ibentræ armbånd +9
-14120	Perle armbånd +0
-14121	Perle armbånd +1
-14122	Perle armbånd +2
-14123	Perle armbånd +3
-14124	Perle armbånd +4
-14125	Perle armbånd +5
-14126	Perle armbånd +6
-14127	Perle armbånd +7
-14128	Perle armbånd +8
-14129	Perle armbånd +9
-14140	Hvidguld armbånd +0
-14141	Hvidguld armbånd +1
-14142	Hvidguld armbånd +2
-14143	Hvidguld armbånd +3
-14144	Hvidguld armbånd +4
-14145	Hvidguld armbånd +5
-14146	Hvidguld armbånd +6
-14147	Hvidguld armbånd +7
-14148	Hvidguld armbånd +8
-14149	Hvidguld armbånd +9
-14160	Krystal armbånd +0
-14161	Krystal armbånd +1
-14162	Krystal armbånd +2
-14163	Krystal armbånd +3
-14164	Krystal armbånd +4
-14165	Krystal armbånd +5
-14166	Krystal armbånd +6
-14167	Krystal armbånd +7
-14168	Krystal armbånd +8
-14169	Krystal armbånd +9
-14180	Ametyst armbånd +0
-14181	Ametyst armbånd +1
-14182	Ametyst armbånd +2
-14183	Ametyst armbånd +3
-14184	Ametyst armbånd +4
-14185	Ametyst armbånd +5
-14186	Ametyst armbånd +6
-14187	Ametyst armbånd +7
-14188	Ametyst armbånd +8
-14189	Ametyst armbånd +9
-14200	Himmeltåre armbånd +0
-14201	Himmeltåre armbånd +1
-14202	Himmeltåre armbånd +2
-14203	Himmeltåre armbånd +3
-14204	Himmeltåre armbånd +4
-14205	Himmeltåre armbånd +5
-14206	Himmeltåre armbånd +6
-14207	Himmeltåre armbånd +7
-14208	Himmeltåre armbånd +8
-14209	Himmeltåre armbånd +9
-14220	Sjæle-krystal Armbånd+0
-14221	Sjæle-krystal Armbånd+1
-14222	Sjæle-krystal Armbånd+2
-14223	Sjæle-krystal Armbånd+3
-14224	Sjæle-krystal Armbånd+4
-14225	Sjæle-krystal Armbånd+5
-14226	Sjæle-krystal Armbånd+6
-14227	Sjæle-krystal Armbånd+7
-14228	Sjæle-krystal Armbånd+8
-14229	Sjæle-krystal Armbånd+9
-14500	Rubin armbånd +0
-14501	Rubin armbånd +1
-14502	Rubin armbånd +2
-14503	Rubin armbånd +3
-14504	Rubin armbånd +4
-14505	Rubin armbånd +5
-14506	Rubin armbånd +6
-14507	Rubin armbånd +7
-14508	Rubin armbånd +8
-14509	Rubin armbånd +9
-14520	Granat armbånd +0
-14521	Granat armbånd +1
-14522	Granat armbånd +2
-14523	Granat armbånd +3
-14524	Granat armbånd +4
-14525	Granat armbånd +5
-14526	Granat armbånd +6
-14527	Granat armbånd +7
-14528	Granat armbånd +8
-14529	Granat armbånd +9
-14540	Smaragd armbånd +0
-14541	Smaragd armbånd +1
-14542	Smaragd armbånd +2
-14543	Smaragd armbånd +3
-14544	Smaragd armbånd +4
-14545	Smaragd armbånd +5
-14546	Smaragd armbånd +6
-14547	Smaragd armbånd +7
-14548	Smaragd armbånd +8
-14549	Smaragd armbånd +9
-14560	Safir armbånd +0
-14561	Safir armbånd +1
-14562	Safir armbånd +2
-14563	Safir armbånd +3
-14564	Safir armbånd +4
-14565	Safir armbånd +5
-14566	Safir armbånd +6
-14567	Safir armbånd +7
-14568	Safir armbånd +8
-14569	Safir armbånd +9
-15000	Læder sko +0
-15001	Læder sko +1
-15002	Læder sko +2
-15003	Læder sko +3
-15004	Læder sko +4
-15005	Læder sko +5
-15006	Læder sko +6
-15007	Læder sko +7
-15008	Læder sko +8
-15009	Læder sko +9
+14000	TrÃ¦ armbÃ¥nd +0
+14001	TrÃ¦ armbÃ¥nd +1
+14002	TrÃ¦ armbÃ¥nd +2
+14003	TrÃ¦ armbÃ¥nd +3
+14004	TrÃ¦ armbÃ¥nd +4
+14005	TrÃ¦ armbÃ¥nd +5
+14006	TrÃ¦ armbÃ¥nd +6
+14007	TrÃ¦ armbÃ¥nd +7
+14008	TrÃ¦ armbÃ¥nd +8
+14009	TrÃ¦ armbÃ¥nd +9
+14020	Kobber armbÃ¥nd +0
+14021	Kobber armbÃ¥nd +1
+14022	Kobber armbÃ¥nd +2
+14023	Kobber armbÃ¥nd +3
+14024	Kobber armbÃ¥nd +4
+14025	Kobber armbÃ¥nd +5
+14026	Kobber armbÃ¥nd +6
+14027	Kobber armbÃ¥nd +7
+14028	Kobber armbÃ¥nd +8
+14029	Kobber armbÃ¥nd +9
+14040	SÃ¸lv armbÃ¥nd +0
+14041	SÃ¸lv armbÃ¥nd +1
+14042	SÃ¸lv armbÃ¥nd +2
+14043	SÃ¸lv armbÃ¥nd +3
+14044	SÃ¸lv armbÃ¥nd +4
+14045	SÃ¸lv armbÃ¥nd +5
+14046	SÃ¸lv armbÃ¥nd +6
+14047	SÃ¸lv armbÃ¥nd +7
+14048	SÃ¸lv armbÃ¥nd +8
+14049	SÃ¸lv armbÃ¥nd +9
+14060	Guld armbÃ¥nd +0
+14061	Guld armbÃ¥nd +1
+14062	Guld armbÃ¥nd +2
+14063	Guld armbÃ¥nd +3
+14064	Guld armbÃ¥nd +4
+14065	Guld armbÃ¥nd +5
+14066	Guld armbÃ¥nd +6
+14067	Guld armbÃ¥nd +7
+14068	Guld armbÃ¥nd +8
+14069	Guld armbÃ¥nd +9
+14080	Jade armbÃ¥nd +0
+14081	Jade armbÃ¥nd +1
+14082	Jade armbÃ¥nd +2
+14083	Jade armbÃ¥nd +3
+14084	Jade armbÃ¥nd +4
+14085	Jade armbÃ¥nd +5
+14086	Jade armbÃ¥nd +6
+14087	Jade armbÃ¥nd +7
+14088	Jade armbÃ¥nd +8
+14089	Jade armbÃ¥nd +9
+14100	IbentrÃ¦ armbÃ¥nd +0
+14101	IbentrÃ¦ armbÃ¥nd +1
+14102	IbentrÃ¦ armbÃ¥nd +2
+14103	IbentrÃ¦ armbÃ¥nd +3
+14104	IbentrÃ¦ armbÃ¥nd +4
+14105	IbentrÃ¦ armbÃ¥nd +5
+14106	IbentrÃ¦ armbÃ¥nd +6
+14107	IbentrÃ¦ armbÃ¥nd +7
+14108	IbentrÃ¦ armbÃ¥nd +8
+14109	IbentrÃ¦ armbÃ¥nd +9
+14120	Perle armbÃ¥nd +0
+14121	Perle armbÃ¥nd +1
+14122	Perle armbÃ¥nd +2
+14123	Perle armbÃ¥nd +3
+14124	Perle armbÃ¥nd +4
+14125	Perle armbÃ¥nd +5
+14126	Perle armbÃ¥nd +6
+14127	Perle armbÃ¥nd +7
+14128	Perle armbÃ¥nd +8
+14129	Perle armbÃ¥nd +9
+14140	Hvidguld armbÃ¥nd +0
+14141	Hvidguld armbÃ¥nd +1
+14142	Hvidguld armbÃ¥nd +2
+14143	Hvidguld armbÃ¥nd +3
+14144	Hvidguld armbÃ¥nd +4
+14145	Hvidguld armbÃ¥nd +5
+14146	Hvidguld armbÃ¥nd +6
+14147	Hvidguld armbÃ¥nd +7
+14148	Hvidguld armbÃ¥nd +8
+14149	Hvidguld armbÃ¥nd +9
+14160	Krystal armbÃ¥nd +0
+14161	Krystal armbÃ¥nd +1
+14162	Krystal armbÃ¥nd +2
+14163	Krystal armbÃ¥nd +3
+14164	Krystal armbÃ¥nd +4
+14165	Krystal armbÃ¥nd +5
+14166	Krystal armbÃ¥nd +6
+14167	Krystal armbÃ¥nd +7
+14168	Krystal armbÃ¥nd +8
+14169	Krystal armbÃ¥nd +9
+14180	Ametyst armbÃ¥nd +0
+14181	Ametyst armbÃ¥nd +1
+14182	Ametyst armbÃ¥nd +2
+14183	Ametyst armbÃ¥nd +3
+14184	Ametyst armbÃ¥nd +4
+14185	Ametyst armbÃ¥nd +5
+14186	Ametyst armbÃ¥nd +6
+14187	Ametyst armbÃ¥nd +7
+14188	Ametyst armbÃ¥nd +8
+14189	Ametyst armbÃ¥nd +9
+14200	HimmeltÃ¥re armbÃ¥nd +0
+14201	HimmeltÃ¥re armbÃ¥nd +1
+14202	HimmeltÃ¥re armbÃ¥nd +2
+14203	HimmeltÃ¥re armbÃ¥nd +3
+14204	HimmeltÃ¥re armbÃ¥nd +4
+14205	HimmeltÃ¥re armbÃ¥nd +5
+14206	HimmeltÃ¥re armbÃ¥nd +6
+14207	HimmeltÃ¥re armbÃ¥nd +7
+14208	HimmeltÃ¥re armbÃ¥nd +8
+14209	HimmeltÃ¥re armbÃ¥nd +9
+14220	SjÃ¦le-krystal ArmbÃ¥nd+0
+14221	SjÃ¦le-krystal ArmbÃ¥nd+1
+14222	SjÃ¦le-krystal ArmbÃ¥nd+2
+14223	SjÃ¦le-krystal ArmbÃ¥nd+3
+14224	SjÃ¦le-krystal ArmbÃ¥nd+4
+14225	SjÃ¦le-krystal ArmbÃ¥nd+5
+14226	SjÃ¦le-krystal ArmbÃ¥nd+6
+14227	SjÃ¦le-krystal ArmbÃ¥nd+7
+14228	SjÃ¦le-krystal ArmbÃ¥nd+8
+14229	SjÃ¦le-krystal ArmbÃ¥nd+9
+14500	Rubin armbÃ¥nd +0
+14501	Rubin armbÃ¥nd +1
+14502	Rubin armbÃ¥nd +2
+14503	Rubin armbÃ¥nd +3
+14504	Rubin armbÃ¥nd +4
+14505	Rubin armbÃ¥nd +5
+14506	Rubin armbÃ¥nd +6
+14507	Rubin armbÃ¥nd +7
+14508	Rubin armbÃ¥nd +8
+14509	Rubin armbÃ¥nd +9
+14520	Granat armbÃ¥nd +0
+14521	Granat armbÃ¥nd +1
+14522	Granat armbÃ¥nd +2
+14523	Granat armbÃ¥nd +3
+14524	Granat armbÃ¥nd +4
+14525	Granat armbÃ¥nd +5
+14526	Granat armbÃ¥nd +6
+14527	Granat armbÃ¥nd +7
+14528	Granat armbÃ¥nd +8
+14529	Granat armbÃ¥nd +9
+14540	Smaragd armbÃ¥nd +0
+14541	Smaragd armbÃ¥nd +1
+14542	Smaragd armbÃ¥nd +2
+14543	Smaragd armbÃ¥nd +3
+14544	Smaragd armbÃ¥nd +4
+14545	Smaragd armbÃ¥nd +5
+14546	Smaragd armbÃ¥nd +6
+14547	Smaragd armbÃ¥nd +7
+14548	Smaragd armbÃ¥nd +8
+14549	Smaragd armbÃ¥nd +9
+14560	Safir armbÃ¥nd +0
+14561	Safir armbÃ¥nd +1
+14562	Safir armbÃ¥nd +2
+14563	Safir armbÃ¥nd +3
+14564	Safir armbÃ¥nd +4
+14565	Safir armbÃ¥nd +5
+14566	Safir armbÃ¥nd +6
+14567	Safir armbÃ¥nd +7
+14568	Safir armbÃ¥nd +8
+14569	Safir armbÃ¥nd +9
+15000	LÃ¦der sko +0
+15001	LÃ¦der sko +1
+15002	LÃ¦der sko +2
+15003	LÃ¦der sko +3
+15004	LÃ¦der sko +4
+15005	LÃ¦der sko +5
+15006	LÃ¦der sko +6
+15007	LÃ¦der sko +7
+15008	LÃ¦der sko +8
+15009	LÃ¦der sko +9
 15020	Bambus sko +0
 15021	Bambus sko +1
 15022	Bambus sko +2
@@ -2400,16 +2400,16 @@ VNUM	LOCALE_NAME
 15027	Bambus sko +7
 15028	Bambus sko +8
 15029	Bambus sko +9
-15040	Træ sko +0
-15041	Træ sko +1
-15042	Træ sko +2
-15043	Træ sko +3
-15044	Træ sko +4
-15045	Træ sko +5
-15046	Træ sko +6
-15047	Træ sko +7
-15048	Træ sko +8
-15049	Træ sko +9
+15040	TrÃ¦ sko +0
+15041	TrÃ¦ sko +1
+15042	TrÃ¦ sko +2
+15043	TrÃ¦ sko +3
+15044	TrÃ¦ sko +4
+15045	TrÃ¦ sko +5
+15046	TrÃ¦ sko +6
+15047	TrÃ¦ sko +7
+15048	TrÃ¦ sko +8
+15049	TrÃ¦ sko +9
 15060	Guldbelagte sko +0
 15061	Guldbelagte sko +1
 15062	Guldbelagte sko +2
@@ -2420,16 +2420,16 @@ VNUM	LOCALE_NAME
 15067	Guldbelagte sko +7
 15068	Guldbelagte sko +8
 15069	Guldbelagte sko +9
-15080	Læder støvler +0
-15081	Læder støvler +1
-15082	Læder støvler +2
-15083	Læder støvler +3
-15084	Læder støvler +4
-15085	Læder støvler +5
-15086	Læder støvler +6
-15087	Læder støvler +7
-15088	Læder støvler +8
-15089	Læder støvler +9
+15080	LÃ¦der stÃ¸vler +0
+15081	LÃ¦der stÃ¸vler +1
+15082	LÃ¦der stÃ¸vler +2
+15083	LÃ¦der stÃ¸vler +3
+15084	LÃ¦der stÃ¸vler +4
+15085	LÃ¦der stÃ¸vler +5
+15086	LÃ¦der stÃ¸vler +6
+15087	LÃ¦der stÃ¸vler +7
+15088	LÃ¦der stÃ¸vler +8
+15089	LÃ¦der stÃ¸vler +9
 15100	Guld sko +0
 15101	Guld sko +1
 15102	Guld sko +2
@@ -2470,26 +2470,26 @@ VNUM	LOCALE_NAME
 15167	Ekstase sko +7
 15168	Ekstase sko +8
 15169	Ekstase sko +9
-15180	Nimbus-støvler +0
-15181	Nimbus-støvler +1
-15182	Nimbus-støvler +2
-15183	Nimbus-støvler +3
-15184	Nimbus-støvler +4
-15185	Nimbus-støvler +5
-15186	Nimbus-støvler +6
-15187	Nimbus-støvler +7
-15188	Nimbus-støvler +8
-15189	Nimbus-støvler +9
-15200	Phønix sko +0
-15201	Phønix sko +1
-15202	Phønix sko +2
-15203	Phønix sko +3
-15204	Phønix sko +4
-15205	Phønix sko +5
-15206	Phønix sko +6
-15207	Phønix sko +7
-15208	Phønix sko +8
-15209	Phønix sko +9
+15180	Nimbus-stÃ¸vler +0
+15181	Nimbus-stÃ¸vler +1
+15182	Nimbus-stÃ¸vler +2
+15183	Nimbus-stÃ¸vler +3
+15184	Nimbus-stÃ¸vler +4
+15185	Nimbus-stÃ¸vler +5
+15186	Nimbus-stÃ¸vler +6
+15187	Nimbus-stÃ¸vler +7
+15188	Nimbus-stÃ¸vler +8
+15189	Nimbus-stÃ¸vler +9
+15200	PhÃ¸nix sko +0
+15201	PhÃ¸nix sko +1
+15202	PhÃ¸nix sko +2
+15203	PhÃ¸nix sko +3
+15204	PhÃ¸nix sko +4
+15205	PhÃ¸nix sko +5
+15206	PhÃ¸nix sko +6
+15207	PhÃ¸nix sko +7
+15208	PhÃ¸nix sko +8
+15209	PhÃ¸nix sko +9
 15220	Ildfuglens sko +0
 15221	Ildfuglens sko +1
 15222	Ildfuglens sko +2
@@ -2520,16 +2520,16 @@ VNUM	LOCALE_NAME
 15377	Eufori Sko +7
 15378	Eufori Sko +8
 15379	Eufori Sko +9
-15390	Glorie Støvler +0
-15391	Glorie Støvler +1
-15392	Glorie Støvler +2
-15393	Glorie Støvler +3
-15394	Glorie Støvler +4
-15395	Glorie Støvler +5
-15396	Glorie Støvler +6
-15397	Glorie Støvler +7
-15398	Glorie Støvler +8
-15399	Glorie Støvler +9
+15390	Glorie StÃ¸vler +0
+15391	Glorie StÃ¸vler +1
+15392	Glorie StÃ¸vler +2
+15393	Glorie StÃ¸vler +3
+15394	Glorie StÃ¸vler +4
+15395	Glorie StÃ¸vler +5
+15396	Glorie StÃ¸vler +6
+15397	Glorie StÃ¸vler +7
+15398	Glorie StÃ¸vler +8
+15399	Glorie StÃ¸vler +9
 15410	Qilin Sko +0
 15411	Qilin Sko +1
 15412	Qilin Sko +2
@@ -2550,427 +2550,427 @@ VNUM	LOCALE_NAME
 15437	Isfugle Sko +7
 15438	Isfugle Sko +8
 15439	Isfugle Sko +9
-16000	Træ halskæde +0
-16001	Træ halskæde +1
-16002	Træ halskæde +2
-16003	Træ halskæde +3
-16004	Træ halskæde +4
-16005	Træ halskæde +5
-16006	Træ halskæde +6
-16007	Træ halskæde +7
-16008	Træ halskæde +8
-16009	Træ halskæde +9
-16020	Kobber halskæde +0
-16021	Kobber halskæde +1
-16022	Kobber halskæde +2
-16023	Kobber halskæde +3
-16024	Kobber halskæde +4
-16025	Kobber halskæde +5
-16026	Kobber halskæde +6
-16027	Kobber halskæde +7
-16028	Kobber halskæde +8
-16029	Kobber halskæde +9
-16040	Sølv halskæde +0
-16041	Sølv halskæde +1
-16042	Sølv halskæde +2
-16043	Sølv halskæde +3
-16044	Sølv halskæde +4
-16045	Sølv halskæde +5
-16046	Sølv halskæde +6
-16047	Sølv halskæde +7
-16048	Sølv halskæde +8
-16049	Sølv halskæde +9
-16060	Guld halskæde +0
-16061	Guld halskæde +1
-16062	Guld halskæde +2
-16063	Guld halskæde +3
-16064	Guld halskæde +4
-16065	Guld halskæde +5
-16066	Guld halskæde +6
-16067	Guld halskæde +7
-16068	Guld halskæde +8
-16069	Guld halskæde +9
-16080	Jade halskæde +0
-16081	Jade halskæde +1
-16082	Jade halskæde +2
-16083	Jade halskæde +3
-16084	Jade halskæde +4
-16085	Jade halskæde +5
-16086	Jade halskæde +6
-16087	Jade halskæde +7
-16088	Jade halskæde +8
-16089	Jade halskæde +9
-16100	Ibentræ halskæde +0
-16101	Ibentræ halskæde +1
-16102	Ibentræ halskæde +2
-16103	Ibentræ halskæde +3
-16104	Ibentræ halskæde +4
-16105	Ibentræ halskæde +5
-16106	Ibentræ halskæde +6
-16107	Ibentræ halskæde +7
-16108	Ibentræ halskæde +8
-16109	Ibentræ halskæde +9
-16120	Perle halskæde +0
-16121	Perle halskæde +1
-16122	Perle halskæde +2
-16123	Perle halskæde +3
-16124	Perle halskæde +4
-16125	Perle halskæde +5
-16126	Perle halskæde +6
-16127	Perle halskæde +7
-16128	Perle halskæde +8
-16129	Perle halskæde +9
-16140	Hvidgulds halskæde +0
-16141	Hvidgulds halskæde +1
-16142	Hvidgulds halskæde +2
-16143	Hvidgulds halskæde +3
-16144	Hvidgulds halskæde +4
-16145	Hvidgulds halskæde +5
-16146	Hvidgulds halskæde +6
-16147	Hvidgulds halskæde +7
-16148	Hvidgulds halskæde +8
-16149	Hvidgulds halskæde +9
-16160	Krystal halskæde +0
-16161	Krystal halskæde +1
-16162	Krystal halskæde +2
-16163	Krystal halskæde +3
-16164	Krystal halskæde +4
-16165	Krystal halskæde +5
-16166	Krystal halskæde +6
-16167	Krystal halskæde +7
-16168	Krystal halskæde +8
-16169	Krystal halskæde +9
-16180	Ametyst halskæde +0
-16181	Ametyst halskæde +1
-16182	Ametyst halskæde +2
-16183	Ametyst halskæde +3
-16184	Ametyst halskæde +4
-16185	Ametyst halskæde +5
-16186	Ametyst halskæde +6
-16187	Ametyst halskæde +7
-16188	Ametyst halskæde +8
-16189	Ametyst halskæde +9
-16200	Himmeltåre halsbånd +0
-16201	Himmeltåre halsbånd +1
-16202	Himmeltåre halsbånd +2
-16203	Himmeltåre halsbånd +3
-16204	Himmeltåre halsbånd +4
-16205	Himmeltåre halsbånd +5
-16206	Himmeltåre halsbånd +6
-16207	Himmeltåre halsbånd +7
-16208	Himmeltåre halsbånd +8
-16209	Himmeltåre halsbånd +9
-16220	Sjæle-krystal Halskæde+0
-16221	Sjæle-krystal Halskæde+1
-16222	Sjæle-krystal Halskæde+2
-16223	Sjæle-krystal Halskæde+3
-16224	Sjæle-krystal Halskæde+4
-16225	Sjæle-krystal Halskæde+5
-16226	Sjæle-krystal Halskæde+6
-16227	Sjæle-krystal Halskæde+7
-16228	Sjæle-krystal Halskæde+8
-16229	Sjæle-krystal Halskæde+9
-16500	Rubin halskæde +0
-16501	Rubin halskæde +1
-16502	Rubin halskæde +2
-16503	Rubin halskæde +3
-16504	Rubin halskæde +4
-16505	Rubin halskæde +5
-16506	Rubin halskæde +6
-16507	Rubin halskæde +7
-16508	Rubin halskæde +8
-16509	Rubin halskæde +9
-16520	Granat halskæde +0
-16521	Granat halskæde +1
-16522	Granat halskæde +2
-16523	Granat halskæde +3
-16524	Granat halskæde +4
-16525	Granat halskæde +5
-16526	Granat halskæde +6
-16527	Granat halskæde +7
-16528	Granat halskæde +8
-16529	Granat halskæde +9
-16540	Smaragd halskæde +0
-16541	Smaragd halskæde +1
-16542	Smaragd halskæde +2
-16543	Smaragd halskæde +3
-16544	Smaragd halskæde +4
-16545	Smaragd halskæde +5
-16546	Smaragd halskæde +6
-16547	Smaragd halskæde +7
-16548	Smaragd halskæde +8
-16549	Smaragd halskæde +9
-16560	Safir halskæde +0
-16561	Safir halskæde +1
-16562	Safir halskæde +2
-16563	Safir halskæde +3
-16564	Safir halskæde +4
-16565	Safir halskæde +5
-16566	Safir halskæde +6
-16567	Safir halskæde +7
-16568	Safir halskæde +8
-16569	Safir halskæde +9
-17000	Træ ørering +0
-17001	Træ ørering +1
-17002	Træ ørering +2
-17003	Træ ørering +3
-17004	Træ ørering +4
-17005	Træ ørering +5
-17006	Træ ørering +6
-17007	Træ ørering +7
-17008	Træ ørering +8
-17009	Træ ørering +9
-17020	Kobber ørering +0
-17021	Kobber ørering +1
-17022	Kobber ørering +2
-17023	Kobber ørering +3
-17024	Kobber ørering +4
-17025	Kobber ørering +5
-17026	Kobber ørering +6
-17027	Kobber ørering +7
-17028	Kobber ørering +8
-17029	Kobber ørering +9
-17040	Sølv ørering +0
-17041	Sølv ørering +1
-17042	Sølv ørering +2
-17043	Sølv ørering +3
-17044	Sølv ørering +4
-17045	Sølv ørering +5
-17046	Sølv ørering +6
-17047	Sølv ørering +7
-17048	Sølv ørering +8
-17049	Sølv ørering +9
-17060	Guld ørering +0
-17061	Guld ørering +1
-17062	Guld ørering +2
-17063	Guld ørering +3
-17064	Guld ørering +4
-17065	Guld ørering +5
-17066	Guld ørering +6
-17067	Guld ørering +7
-17068	Guld ørering +8
-17069	Guld ørering +9
-17080	Jade ørering +0
-17081	Jade ørering +1
-17082	Jade ørering +2
-17083	Jade ørering +3
-17084	Jade ørering +4
-17085	Jade ørering +5
-17086	Jade ørering +6
-17087	Jade ørering +7
-17088	Jade ørering +8
-17089	Jade ørering +9
-17100	Ibentræ ørering +0
-17101	Ibentræ ørering +1
-17102	Ibentræ ørering +2
-17103	Ibentræ ørering +3
-17104	Ibentræ ørering +4
-17105	Ibentræ ørering +5
-17106	Ibentræ ørering +6
-17107	Ibentræ ørering +7
-17108	Ibentræ ørering +8
-17109	Ibentræ ørering +9
-17120	Perle ørering +0
-17121	Perle ørering +1
-17122	Perle ørering +2
-17123	Perle ørering +3
-17124	Perle ørering +4
-17125	Perle ørering +5
-17126	Perle ørering +6
-17127	Perle ørering +7
-17128	Perle ørering +8
-17129	Perle ørering +9
-17140	Hvidgulds ørering +0
-17141	Hvidgulds ørering +1
-17142	Hvidgulds ørering +2
-17143	Hvidgulds ørering +3
-17144	Hvidgulds ørering +4
-17145	Hvidgulds ørering +5
-17146	Hvidgulds ørering +6
-17147	Hvidgulds ørering +7
-17148	Hvidgulds ørering +8
-17149	Hvidgulds ørering +9
-17160	Krystal ørering +0
-17161	Krystal ørering +1
-17162	Krystal ørering +2
-17163	Krystal ørering +3
-17164	Krystal ørering +4
-17165	Krystal ørering +5
-17166	Krystal ørering +6
-17167	Krystal ørering +7
-17168	Krystal ørering +8
-17169	Krystal ørering +9
-17180	Ametyst ørering +0
-17181	Ametyst ørering +1
-17182	Ametyst ørering +2
-17183	Ametyst ørering +3
-17184	Ametyst ørering +4
-17185	Ametyst ørering +5
-17186	Ametyst ørering +6
-17187	Ametyst ørering +7
-17188	Ametyst ørering +8
-17189	Ametyst ørering +9
-17200	Himmeltåre ørering +0
-17201	Himmeltåre ørering +1
-17202	Himmeltåre ørering +2
-17203	Himmeltåre ørering +3
-17204	Himmeltåre ørering +4
-17205	Himmeltåre ørering +5
-17206	Himmeltåre ørering +6
-17207	Himmeltåre ørering +7
-17208	Himmeltåre ørering +8
-17209	Himmeltåre ørering +9
-17220	Sjæle-krystal Øreringe+0
-17221	Sjæle-krystal Øreringe+1
-17222	Sjæle-krystal Øreringe+2
-17223	Sjæle-krystal Øreringe+3
-17224	Sjæle-krystal Øreringe+4
-17225	Sjæle-krystal Øreringe+5
-17226	Sjæle-krystal Øreringe+6
-17227	Sjæle-krystal Øreringe+7
-17228	Sjæle-krystal Øreringe+8
-17229	Sjæle-krystal Øreringe+9
-17500	Rubin øreringe +0
-17501	Rubin øreringe +1
-17502	Rubin øreringe +2
-17503	Rubin øreringe +3
-17504	Rubin øreringe +4
-17505	Rubin øreringe +5
-17506	Rubin øreringe +6
-17507	Rubin øreringe +7
-17508	Rubin øreringe +8
-17509	Rubin øreringe +9
-17520	Granat øreringe +0
-17521	Granat øreringe +1
-17522	Granat øreringe +2
-17523	Granat øreringe +3
-17524	Granat øreringe +4
-17525	Granat øreringe +5
-17526	Granat øreringe +6
-17527	Granat øreringe +7
-17528	Granat øreringe +8
-17529	Granat øreringe +9
-17540	Smaragd øreringe +0
-17541	Smaragd øreringe +1
-17542	Smaragd øreringe +2
-17543	Smaragd øreringe +3
-17544	Smaragd øreringe +4
-17545	Smaragd øreringe +5
-17546	Smaragd øreringe +6
-17547	Smaragd øreringe +7
-17548	Smaragd øreringe +8
-17549	Smaragd øreringe +9
-17560	Safir øreringe +0
-17561	Safir øreringe +1
-17562	Safir øreringe +2
-17563	Safir øreringe +3
-17564	Safir øreringe +4
-17565	Safir øreringe +5
-17566	Safir øreringe +6
-17567	Safir øreringe +7
-17568	Safir øreringe +8
-17569	Safir øreringe +9
-18000	Hør bælte +0
-18001	Hør bælte +1
-18002	Hør bælte +2
-18003	Hør bælte +3
-18004	Hør bælte +4
-18005	Hør bælte +5
-18006	Hør bælte +6
-18007	Hør bælte +7
-18008	Hør bælte +8
-18009	Hør bælte +9
-18010	Læder bælte +0
-18011	Læder bælte +1
-18012	Læder bælte +2
-18013	Læder bælte +3
-18014	Læder bælte +4
-18015	Læder bælte +5
-18016	Læder bælte +6
-18017	Læder bælte +7
-18018	Læder bælte +8
-18019	Læder bælte +9
-18020	Storslået bælte +0
-18021	Storslået bælte +1
-18022	Storslået bælte +2
-18023	Storslået bælte +3
-18024	Storslået bælte +4
-18025	Storslået bælte +5
-18026	Storslået bælte +6
-18027	Storslået bælte +7
-18028	Storslået bælte +8
-18029	Storslået bælte +9
-18030	Visdommens bælte +0
-18031	Visdommens bælte +1
-18032	Visdommens bælte +2
-18033	Visdommens bælte +3
-18034	Visdommens bælte +4
-18035	Visdommens bælte +5
-18036	Visdommens bælte +6
-18037	Visdommens bælte +7
-18038	Visdommens bælte +8
-18039	Visdommens bælte +9
-18040	Kongens bælte +0
-18041	Kongens bælte +1
-18042	Kongens bælte +2
-18043	Kongens bælte +3
-18044	Kongens bælte +4
-18045	Kongens bælte +5
-18046	Kongens bælte +6
-18047	Kongens bælte +7
-18048	Kongens bælte +8
-18049	Kongens bælte +9
-18050	Skygge bælte +0
-18051	Skygge bælte +1
-18052	Skygge bælte +2
-18053	Skygge bælte +3
-18054	Skygge bælte +4
-18055	Skygge bælte +5
-18056	Skygge bælte +6
-18057	Skygge bælte +7
-18058	Skygge bælte +8
-18059	Skygge bælte +9
-18060	Rune bælte +0
-18061	Rune bælte +1
-18062	Rune bælte +2
-18063	Rune bælte +3
-18064	Rune bælte +4
-18065	Rune bælte +5
-18066	Rune bælte +6
-18067	Rune bælte +7
-18068	Rune bælte +8
-18069	Rune bælte +9
-18070	Karlsvognens bælte +0
-18071	Karlsvognens bælte +1
-18072	Karlsvognens bælte +2
-18073	Karlsvognens bælte +3
-18074	Karlsvognens bælte +4
-18075	Karlsvognens bælte +5
-18076	Karlsvognens bælte +6
-18077	Karlsvognens bælte +7
-18078	Karlsvognens bælte +8
-18079	Karlsvognens bælte +9
-18080	Sjæle bælte +0
-18081	Sjæle bælte +1
-18082	Sjæle bælte +2
-18083	Sjæle bælte +3
-18084	Sjæle bælte +4
-18085	Sjæle bælte +5
-18086	Sjæle bælte +6
-18087	Sjæle bælte +7
-18088	Sjæle bælte +8
-18089	Sjæle bælte +9
-18900	Rød flamme sten
-20000	Djævelens horn panser +0
-20001	Djævelens horn panser +1
-20002	Djævelens horn panser +2
-20003	Djævelens horn panser +3
-20004	Djævelens horn panser +4
-20005	Djævelens horn panser +5
-20006	Djævelens horn panser +6
-20007	Djævelens horn panser +7
-20008	Djævelens horn panser +8
-20009	Djævelens horn panser +9
+16000	TrÃ¦ halskÃ¦de +0
+16001	TrÃ¦ halskÃ¦de +1
+16002	TrÃ¦ halskÃ¦de +2
+16003	TrÃ¦ halskÃ¦de +3
+16004	TrÃ¦ halskÃ¦de +4
+16005	TrÃ¦ halskÃ¦de +5
+16006	TrÃ¦ halskÃ¦de +6
+16007	TrÃ¦ halskÃ¦de +7
+16008	TrÃ¦ halskÃ¦de +8
+16009	TrÃ¦ halskÃ¦de +9
+16020	Kobber halskÃ¦de +0
+16021	Kobber halskÃ¦de +1
+16022	Kobber halskÃ¦de +2
+16023	Kobber halskÃ¦de +3
+16024	Kobber halskÃ¦de +4
+16025	Kobber halskÃ¦de +5
+16026	Kobber halskÃ¦de +6
+16027	Kobber halskÃ¦de +7
+16028	Kobber halskÃ¦de +8
+16029	Kobber halskÃ¦de +9
+16040	SÃ¸lv halskÃ¦de +0
+16041	SÃ¸lv halskÃ¦de +1
+16042	SÃ¸lv halskÃ¦de +2
+16043	SÃ¸lv halskÃ¦de +3
+16044	SÃ¸lv halskÃ¦de +4
+16045	SÃ¸lv halskÃ¦de +5
+16046	SÃ¸lv halskÃ¦de +6
+16047	SÃ¸lv halskÃ¦de +7
+16048	SÃ¸lv halskÃ¦de +8
+16049	SÃ¸lv halskÃ¦de +9
+16060	Guld halskÃ¦de +0
+16061	Guld halskÃ¦de +1
+16062	Guld halskÃ¦de +2
+16063	Guld halskÃ¦de +3
+16064	Guld halskÃ¦de +4
+16065	Guld halskÃ¦de +5
+16066	Guld halskÃ¦de +6
+16067	Guld halskÃ¦de +7
+16068	Guld halskÃ¦de +8
+16069	Guld halskÃ¦de +9
+16080	Jade halskÃ¦de +0
+16081	Jade halskÃ¦de +1
+16082	Jade halskÃ¦de +2
+16083	Jade halskÃ¦de +3
+16084	Jade halskÃ¦de +4
+16085	Jade halskÃ¦de +5
+16086	Jade halskÃ¦de +6
+16087	Jade halskÃ¦de +7
+16088	Jade halskÃ¦de +8
+16089	Jade halskÃ¦de +9
+16100	IbentrÃ¦ halskÃ¦de +0
+16101	IbentrÃ¦ halskÃ¦de +1
+16102	IbentrÃ¦ halskÃ¦de +2
+16103	IbentrÃ¦ halskÃ¦de +3
+16104	IbentrÃ¦ halskÃ¦de +4
+16105	IbentrÃ¦ halskÃ¦de +5
+16106	IbentrÃ¦ halskÃ¦de +6
+16107	IbentrÃ¦ halskÃ¦de +7
+16108	IbentrÃ¦ halskÃ¦de +8
+16109	IbentrÃ¦ halskÃ¦de +9
+16120	Perle halskÃ¦de +0
+16121	Perle halskÃ¦de +1
+16122	Perle halskÃ¦de +2
+16123	Perle halskÃ¦de +3
+16124	Perle halskÃ¦de +4
+16125	Perle halskÃ¦de +5
+16126	Perle halskÃ¦de +6
+16127	Perle halskÃ¦de +7
+16128	Perle halskÃ¦de +8
+16129	Perle halskÃ¦de +9
+16140	Hvidgulds halskÃ¦de +0
+16141	Hvidgulds halskÃ¦de +1
+16142	Hvidgulds halskÃ¦de +2
+16143	Hvidgulds halskÃ¦de +3
+16144	Hvidgulds halskÃ¦de +4
+16145	Hvidgulds halskÃ¦de +5
+16146	Hvidgulds halskÃ¦de +6
+16147	Hvidgulds halskÃ¦de +7
+16148	Hvidgulds halskÃ¦de +8
+16149	Hvidgulds halskÃ¦de +9
+16160	Krystal halskÃ¦de +0
+16161	Krystal halskÃ¦de +1
+16162	Krystal halskÃ¦de +2
+16163	Krystal halskÃ¦de +3
+16164	Krystal halskÃ¦de +4
+16165	Krystal halskÃ¦de +5
+16166	Krystal halskÃ¦de +6
+16167	Krystal halskÃ¦de +7
+16168	Krystal halskÃ¦de +8
+16169	Krystal halskÃ¦de +9
+16180	Ametyst halskÃ¦de +0
+16181	Ametyst halskÃ¦de +1
+16182	Ametyst halskÃ¦de +2
+16183	Ametyst halskÃ¦de +3
+16184	Ametyst halskÃ¦de +4
+16185	Ametyst halskÃ¦de +5
+16186	Ametyst halskÃ¦de +6
+16187	Ametyst halskÃ¦de +7
+16188	Ametyst halskÃ¦de +8
+16189	Ametyst halskÃ¦de +9
+16200	HimmeltÃ¥re halsbÃ¥nd +0
+16201	HimmeltÃ¥re halsbÃ¥nd +1
+16202	HimmeltÃ¥re halsbÃ¥nd +2
+16203	HimmeltÃ¥re halsbÃ¥nd +3
+16204	HimmeltÃ¥re halsbÃ¥nd +4
+16205	HimmeltÃ¥re halsbÃ¥nd +5
+16206	HimmeltÃ¥re halsbÃ¥nd +6
+16207	HimmeltÃ¥re halsbÃ¥nd +7
+16208	HimmeltÃ¥re halsbÃ¥nd +8
+16209	HimmeltÃ¥re halsbÃ¥nd +9
+16220	SjÃ¦le-krystal HalskÃ¦de+0
+16221	SjÃ¦le-krystal HalskÃ¦de+1
+16222	SjÃ¦le-krystal HalskÃ¦de+2
+16223	SjÃ¦le-krystal HalskÃ¦de+3
+16224	SjÃ¦le-krystal HalskÃ¦de+4
+16225	SjÃ¦le-krystal HalskÃ¦de+5
+16226	SjÃ¦le-krystal HalskÃ¦de+6
+16227	SjÃ¦le-krystal HalskÃ¦de+7
+16228	SjÃ¦le-krystal HalskÃ¦de+8
+16229	SjÃ¦le-krystal HalskÃ¦de+9
+16500	Rubin halskÃ¦de +0
+16501	Rubin halskÃ¦de +1
+16502	Rubin halskÃ¦de +2
+16503	Rubin halskÃ¦de +3
+16504	Rubin halskÃ¦de +4
+16505	Rubin halskÃ¦de +5
+16506	Rubin halskÃ¦de +6
+16507	Rubin halskÃ¦de +7
+16508	Rubin halskÃ¦de +8
+16509	Rubin halskÃ¦de +9
+16520	Granat halskÃ¦de +0
+16521	Granat halskÃ¦de +1
+16522	Granat halskÃ¦de +2
+16523	Granat halskÃ¦de +3
+16524	Granat halskÃ¦de +4
+16525	Granat halskÃ¦de +5
+16526	Granat halskÃ¦de +6
+16527	Granat halskÃ¦de +7
+16528	Granat halskÃ¦de +8
+16529	Granat halskÃ¦de +9
+16540	Smaragd halskÃ¦de +0
+16541	Smaragd halskÃ¦de +1
+16542	Smaragd halskÃ¦de +2
+16543	Smaragd halskÃ¦de +3
+16544	Smaragd halskÃ¦de +4
+16545	Smaragd halskÃ¦de +5
+16546	Smaragd halskÃ¦de +6
+16547	Smaragd halskÃ¦de +7
+16548	Smaragd halskÃ¦de +8
+16549	Smaragd halskÃ¦de +9
+16560	Safir halskÃ¦de +0
+16561	Safir halskÃ¦de +1
+16562	Safir halskÃ¦de +2
+16563	Safir halskÃ¦de +3
+16564	Safir halskÃ¦de +4
+16565	Safir halskÃ¦de +5
+16566	Safir halskÃ¦de +6
+16567	Safir halskÃ¦de +7
+16568	Safir halskÃ¦de +8
+16569	Safir halskÃ¦de +9
+17000	TrÃ¦ Ã¸rering +0
+17001	TrÃ¦ Ã¸rering +1
+17002	TrÃ¦ Ã¸rering +2
+17003	TrÃ¦ Ã¸rering +3
+17004	TrÃ¦ Ã¸rering +4
+17005	TrÃ¦ Ã¸rering +5
+17006	TrÃ¦ Ã¸rering +6
+17007	TrÃ¦ Ã¸rering +7
+17008	TrÃ¦ Ã¸rering +8
+17009	TrÃ¦ Ã¸rering +9
+17020	Kobber Ã¸rering +0
+17021	Kobber Ã¸rering +1
+17022	Kobber Ã¸rering +2
+17023	Kobber Ã¸rering +3
+17024	Kobber Ã¸rering +4
+17025	Kobber Ã¸rering +5
+17026	Kobber Ã¸rering +6
+17027	Kobber Ã¸rering +7
+17028	Kobber Ã¸rering +8
+17029	Kobber Ã¸rering +9
+17040	SÃ¸lv Ã¸rering +0
+17041	SÃ¸lv Ã¸rering +1
+17042	SÃ¸lv Ã¸rering +2
+17043	SÃ¸lv Ã¸rering +3
+17044	SÃ¸lv Ã¸rering +4
+17045	SÃ¸lv Ã¸rering +5
+17046	SÃ¸lv Ã¸rering +6
+17047	SÃ¸lv Ã¸rering +7
+17048	SÃ¸lv Ã¸rering +8
+17049	SÃ¸lv Ã¸rering +9
+17060	Guld Ã¸rering +0
+17061	Guld Ã¸rering +1
+17062	Guld Ã¸rering +2
+17063	Guld Ã¸rering +3
+17064	Guld Ã¸rering +4
+17065	Guld Ã¸rering +5
+17066	Guld Ã¸rering +6
+17067	Guld Ã¸rering +7
+17068	Guld Ã¸rering +8
+17069	Guld Ã¸rering +9
+17080	Jade Ã¸rering +0
+17081	Jade Ã¸rering +1
+17082	Jade Ã¸rering +2
+17083	Jade Ã¸rering +3
+17084	Jade Ã¸rering +4
+17085	Jade Ã¸rering +5
+17086	Jade Ã¸rering +6
+17087	Jade Ã¸rering +7
+17088	Jade Ã¸rering +8
+17089	Jade Ã¸rering +9
+17100	IbentrÃ¦ Ã¸rering +0
+17101	IbentrÃ¦ Ã¸rering +1
+17102	IbentrÃ¦ Ã¸rering +2
+17103	IbentrÃ¦ Ã¸rering +3
+17104	IbentrÃ¦ Ã¸rering +4
+17105	IbentrÃ¦ Ã¸rering +5
+17106	IbentrÃ¦ Ã¸rering +6
+17107	IbentrÃ¦ Ã¸rering +7
+17108	IbentrÃ¦ Ã¸rering +8
+17109	IbentrÃ¦ Ã¸rering +9
+17120	Perle Ã¸rering +0
+17121	Perle Ã¸rering +1
+17122	Perle Ã¸rering +2
+17123	Perle Ã¸rering +3
+17124	Perle Ã¸rering +4
+17125	Perle Ã¸rering +5
+17126	Perle Ã¸rering +6
+17127	Perle Ã¸rering +7
+17128	Perle Ã¸rering +8
+17129	Perle Ã¸rering +9
+17140	Hvidgulds Ã¸rering +0
+17141	Hvidgulds Ã¸rering +1
+17142	Hvidgulds Ã¸rering +2
+17143	Hvidgulds Ã¸rering +3
+17144	Hvidgulds Ã¸rering +4
+17145	Hvidgulds Ã¸rering +5
+17146	Hvidgulds Ã¸rering +6
+17147	Hvidgulds Ã¸rering +7
+17148	Hvidgulds Ã¸rering +8
+17149	Hvidgulds Ã¸rering +9
+17160	Krystal Ã¸rering +0
+17161	Krystal Ã¸rering +1
+17162	Krystal Ã¸rering +2
+17163	Krystal Ã¸rering +3
+17164	Krystal Ã¸rering +4
+17165	Krystal Ã¸rering +5
+17166	Krystal Ã¸rering +6
+17167	Krystal Ã¸rering +7
+17168	Krystal Ã¸rering +8
+17169	Krystal Ã¸rering +9
+17180	Ametyst Ã¸rering +0
+17181	Ametyst Ã¸rering +1
+17182	Ametyst Ã¸rering +2
+17183	Ametyst Ã¸rering +3
+17184	Ametyst Ã¸rering +4
+17185	Ametyst Ã¸rering +5
+17186	Ametyst Ã¸rering +6
+17187	Ametyst Ã¸rering +7
+17188	Ametyst Ã¸rering +8
+17189	Ametyst Ã¸rering +9
+17200	HimmeltÃ¥re Ã¸rering +0
+17201	HimmeltÃ¥re Ã¸rering +1
+17202	HimmeltÃ¥re Ã¸rering +2
+17203	HimmeltÃ¥re Ã¸rering +3
+17204	HimmeltÃ¥re Ã¸rering +4
+17205	HimmeltÃ¥re Ã¸rering +5
+17206	HimmeltÃ¥re Ã¸rering +6
+17207	HimmeltÃ¥re Ã¸rering +7
+17208	HimmeltÃ¥re Ã¸rering +8
+17209	HimmeltÃ¥re Ã¸rering +9
+17220	SjÃ¦le-krystal Ã˜reringe+0
+17221	SjÃ¦le-krystal Ã˜reringe+1
+17222	SjÃ¦le-krystal Ã˜reringe+2
+17223	SjÃ¦le-krystal Ã˜reringe+3
+17224	SjÃ¦le-krystal Ã˜reringe+4
+17225	SjÃ¦le-krystal Ã˜reringe+5
+17226	SjÃ¦le-krystal Ã˜reringe+6
+17227	SjÃ¦le-krystal Ã˜reringe+7
+17228	SjÃ¦le-krystal Ã˜reringe+8
+17229	SjÃ¦le-krystal Ã˜reringe+9
+17500	Rubin Ã¸reringe +0
+17501	Rubin Ã¸reringe +1
+17502	Rubin Ã¸reringe +2
+17503	Rubin Ã¸reringe +3
+17504	Rubin Ã¸reringe +4
+17505	Rubin Ã¸reringe +5
+17506	Rubin Ã¸reringe +6
+17507	Rubin Ã¸reringe +7
+17508	Rubin Ã¸reringe +8
+17509	Rubin Ã¸reringe +9
+17520	Granat Ã¸reringe +0
+17521	Granat Ã¸reringe +1
+17522	Granat Ã¸reringe +2
+17523	Granat Ã¸reringe +3
+17524	Granat Ã¸reringe +4
+17525	Granat Ã¸reringe +5
+17526	Granat Ã¸reringe +6
+17527	Granat Ã¸reringe +7
+17528	Granat Ã¸reringe +8
+17529	Granat Ã¸reringe +9
+17540	Smaragd Ã¸reringe +0
+17541	Smaragd Ã¸reringe +1
+17542	Smaragd Ã¸reringe +2
+17543	Smaragd Ã¸reringe +3
+17544	Smaragd Ã¸reringe +4
+17545	Smaragd Ã¸reringe +5
+17546	Smaragd Ã¸reringe +6
+17547	Smaragd Ã¸reringe +7
+17548	Smaragd Ã¸reringe +8
+17549	Smaragd Ã¸reringe +9
+17560	Safir Ã¸reringe +0
+17561	Safir Ã¸reringe +1
+17562	Safir Ã¸reringe +2
+17563	Safir Ã¸reringe +3
+17564	Safir Ã¸reringe +4
+17565	Safir Ã¸reringe +5
+17566	Safir Ã¸reringe +6
+17567	Safir Ã¸reringe +7
+17568	Safir Ã¸reringe +8
+17569	Safir Ã¸reringe +9
+18000	HÃ¸r bÃ¦lte +0
+18001	HÃ¸r bÃ¦lte +1
+18002	HÃ¸r bÃ¦lte +2
+18003	HÃ¸r bÃ¦lte +3
+18004	HÃ¸r bÃ¦lte +4
+18005	HÃ¸r bÃ¦lte +5
+18006	HÃ¸r bÃ¦lte +6
+18007	HÃ¸r bÃ¦lte +7
+18008	HÃ¸r bÃ¦lte +8
+18009	HÃ¸r bÃ¦lte +9
+18010	LÃ¦der bÃ¦lte +0
+18011	LÃ¦der bÃ¦lte +1
+18012	LÃ¦der bÃ¦lte +2
+18013	LÃ¦der bÃ¦lte +3
+18014	LÃ¦der bÃ¦lte +4
+18015	LÃ¦der bÃ¦lte +5
+18016	LÃ¦der bÃ¦lte +6
+18017	LÃ¦der bÃ¦lte +7
+18018	LÃ¦der bÃ¦lte +8
+18019	LÃ¦der bÃ¦lte +9
+18020	StorslÃ¥et bÃ¦lte +0
+18021	StorslÃ¥et bÃ¦lte +1
+18022	StorslÃ¥et bÃ¦lte +2
+18023	StorslÃ¥et bÃ¦lte +3
+18024	StorslÃ¥et bÃ¦lte +4
+18025	StorslÃ¥et bÃ¦lte +5
+18026	StorslÃ¥et bÃ¦lte +6
+18027	StorslÃ¥et bÃ¦lte +7
+18028	StorslÃ¥et bÃ¦lte +8
+18029	StorslÃ¥et bÃ¦lte +9
+18030	Visdommens bÃ¦lte +0
+18031	Visdommens bÃ¦lte +1
+18032	Visdommens bÃ¦lte +2
+18033	Visdommens bÃ¦lte +3
+18034	Visdommens bÃ¦lte +4
+18035	Visdommens bÃ¦lte +5
+18036	Visdommens bÃ¦lte +6
+18037	Visdommens bÃ¦lte +7
+18038	Visdommens bÃ¦lte +8
+18039	Visdommens bÃ¦lte +9
+18040	Kongens bÃ¦lte +0
+18041	Kongens bÃ¦lte +1
+18042	Kongens bÃ¦lte +2
+18043	Kongens bÃ¦lte +3
+18044	Kongens bÃ¦lte +4
+18045	Kongens bÃ¦lte +5
+18046	Kongens bÃ¦lte +6
+18047	Kongens bÃ¦lte +7
+18048	Kongens bÃ¦lte +8
+18049	Kongens bÃ¦lte +9
+18050	Skygge bÃ¦lte +0
+18051	Skygge bÃ¦lte +1
+18052	Skygge bÃ¦lte +2
+18053	Skygge bÃ¦lte +3
+18054	Skygge bÃ¦lte +4
+18055	Skygge bÃ¦lte +5
+18056	Skygge bÃ¦lte +6
+18057	Skygge bÃ¦lte +7
+18058	Skygge bÃ¦lte +8
+18059	Skygge bÃ¦lte +9
+18060	Rune bÃ¦lte +0
+18061	Rune bÃ¦lte +1
+18062	Rune bÃ¦lte +2
+18063	Rune bÃ¦lte +3
+18064	Rune bÃ¦lte +4
+18065	Rune bÃ¦lte +5
+18066	Rune bÃ¦lte +6
+18067	Rune bÃ¦lte +7
+18068	Rune bÃ¦lte +8
+18069	Rune bÃ¦lte +9
+18070	Karlsvognens bÃ¦lte +0
+18071	Karlsvognens bÃ¦lte +1
+18072	Karlsvognens bÃ¦lte +2
+18073	Karlsvognens bÃ¦lte +3
+18074	Karlsvognens bÃ¦lte +4
+18075	Karlsvognens bÃ¦lte +5
+18076	Karlsvognens bÃ¦lte +6
+18077	Karlsvognens bÃ¦lte +7
+18078	Karlsvognens bÃ¦lte +8
+18079	Karlsvognens bÃ¦lte +9
+18080	SjÃ¦le bÃ¦lte +0
+18081	SjÃ¦le bÃ¦lte +1
+18082	SjÃ¦le bÃ¦lte +2
+18083	SjÃ¦le bÃ¦lte +3
+18084	SjÃ¦le bÃ¦lte +4
+18085	SjÃ¦le bÃ¦lte +5
+18086	SjÃ¦le bÃ¦lte +6
+18087	SjÃ¦le bÃ¦lte +7
+18088	SjÃ¦le bÃ¦lte +8
+18089	SjÃ¦le bÃ¦lte +9
+18900	RÃ¸d flamme sten
+20000	DjÃ¦velens horn panser +0
+20001	DjÃ¦velens horn panser +1
+20002	DjÃ¦velens horn panser +2
+20003	DjÃ¦velens horn panser +3
+20004	DjÃ¦velens horn panser +4
+20005	DjÃ¦velens horn panser +5
+20006	DjÃ¦velens horn panser +6
+20007	DjÃ¦velens horn panser +7
+20008	DjÃ¦velens horn panser +8
+20009	DjÃ¦velens horn panser +9
 20250	Dragerytterens dragt +0
 20251	Dragerytterens dragt +1
 20252	Dragerytterens dragt +2
@@ -2991,16 +2991,16 @@ VNUM	LOCALE_NAME
 20507	Knogleplade rustning +7
 20508	Knogleplade rustning +8
 20509	Knogleplade rustning +9
-20750	Gylden beklædning +0
-20751	Gylden beklædning +1
-20752	Gylden beklædning +2
-20753	Gylden beklædning +3
-20754	Gylden beklædning +4
-20755	Gylden beklædning +5
-20756	Gylden beklædning +6
-20757	Gylden beklædning +7
-20758	Gylden beklædning +8
-20759	Gylden beklædning +9
+20750	Gylden beklÃ¦dning +0
+20751	Gylden beklÃ¦dning +1
+20752	Gylden beklÃ¦dning +2
+20753	Gylden beklÃ¦dning +3
+20754	Gylden beklÃ¦dning +4
+20755	Gylden beklÃ¦dning +5
+20756	Gylden beklÃ¦dning +6
+20757	Gylden beklÃ¦dning +7
+20758	Gylden beklÃ¦dning +8
+20759	Gylden beklÃ¦dning +9
 22000	By-dokument
 22001	Tilbage til byen
 22010	Omegns dokument
@@ -3011,35 +3011,35 @@ VNUM	LOCALE_NAME
 22050	Oplivelsesdokument
 25040	Velsignelses dok.
 25041	Magisk sten
-25100	Stenåndens dokument
-27001	Rød Eliksir (L)
-27002	Rød Eliksir(M)
-27003	Rød Eliksir(S)
-27004	Blå Eliksir(L)
-27005	Blå Eliksir(M)
-27006	Blå Eliksir(S)
-27051	Rød Eliksir (L)
-27052	Blå Eliksir (L)
-27053	Grøn Eliksir (L)
+25100	StenÃ¥ndens dokument
+27001	RÃ¸d Eliksir (L)
+27002	RÃ¸d Eliksir(M)
+27003	RÃ¸d Eliksir(S)
+27004	BlÃ¥ Eliksir(L)
+27005	BlÃ¥ Eliksir(M)
+27006	BlÃ¥ Eliksir(S)
+27051	RÃ¸d Eliksir (L)
+27052	BlÃ¥ Eliksir (L)
+27053	GrÃ¸n Eliksir (L)
 27054	Violet Eliksir (L)
-27100	Grøn Eliksir (L)
-27101	Grøn Eliksir(M)
-27102	Grøn Eliksir(S)
+27100	GrÃ¸n Eliksir (L)
+27101	GrÃ¸n Eliksir(M)
+27102	GrÃ¸n Eliksir(S)
 27103	Violet Eliksir(L)
 27104	Violet Eliksir(M)
 27105	Violet Eliksir(S)
-27110	Grøn Eliksir (L)
-27111	Grøn Eliksir(M)
-27112	Grøn Eliksir(S)
+27110	GrÃ¸n Eliksir (L)
+27111	GrÃ¸n Eliksir(M)
+27112	GrÃ¸n Eliksir(S)
 27113	Violet Eliksir(L)
 27114	Violet Eliksir(M)
 27115	Violet Eliksir(S)
-27116	Lyserød Eliksir(L)
-27117	Lyserød Eliksir(M)
-27118	Lyserød Eliksir(S)
-27119	Himmelblå Eliksir(L)
-27120	Himmelblå Eliksir(M)
-27121	Himmelblå Eliksir(S)
+27116	LyserÃ¸d Eliksir(L)
+27117	LyserÃ¸d Eliksir(M)
+27118	LyserÃ¸d Eliksir(S)
+27119	HimmelblÃ¥ Eliksir(L)
+27120	HimmelblÃ¥ Eliksir(M)
+27121	HimmelblÃ¥ Eliksir(S)
 27400	Medestang +1
 27410	Medestang +2
 27420	Medestang +3
@@ -3060,7 +3060,7 @@ VNUM	LOCALE_NAME
 27570	Medestang +18
 27580	Medestang +19
 27590	Medestang +20
-27600	Lejrbål
+27600	LejrbÃ¥l
 27610	Fiske kugle
 27620	Fiskeribogen
 27799	Fiskeben
@@ -3073,10 +3073,10 @@ VNUM	LOCALE_NAME
 27806	Karpe
 27807	Laks
 27808	Graskarpe
-27809	Bækørred
-27810	Ål
-27811	Regnbueørred
-27812	Tynd bækørred
+27809	BÃ¦kÃ¸rred
+27810	Ã…l
+27811	RegnbueÃ¸rred
+27812	Tynd bÃ¦kÃ¸rred
 27813	Rudskalle
 27814	Aborre
 27815	Tenchi
@@ -3088,37 +3088,37 @@ VNUM	LOCALE_NAME
 27821	Shiri
 27822	Spejlkarpe
 27823	Guldfisk
-27833	Død Karusse
-27834	Død mandarinfisk
-27835	Død stor Karusse
-27836	Død karpe
-27837	Død laks
-27838	Død graskarpe
-27839	Død bækørred
-27840	Død ål
-27841	Død regnbueørred
-27842	Død tynd bækørred
-27843	Død rudskalle
-27844	Død aborre
-27845	Død tenchi
-27846	Død havkat
-27847	Død smerling
-27848	Død lotusfisk
-27849	Død Ayu
-27850	Død smelt
-27851	Død shiri
-27852	Død spejlkarpe
-27853	Død guldfisk
+27833	DÃ¸d Karusse
+27834	DÃ¸d mandarinfisk
+27835	DÃ¸d stor Karusse
+27836	DÃ¸d karpe
+27837	DÃ¸d laks
+27838	DÃ¸d graskarpe
+27839	DÃ¸d bÃ¦kÃ¸rred
+27840	DÃ¸d Ã¥l
+27841	DÃ¸d regnbueÃ¸rred
+27842	DÃ¸d tynd bÃ¦kÃ¸rred
+27843	DÃ¸d rudskalle
+27844	DÃ¸d aborre
+27845	DÃ¸d tenchi
+27846	DÃ¸d havkat
+27847	DÃ¸d smerling
+27848	DÃ¸d lotusfisk
+27849	DÃ¸d Ayu
+27850	DÃ¸d smelt
+27851	DÃ¸d shiri
+27852	DÃ¸d spejlkarpe
+27853	DÃ¸d guldfisk
 27863	Stegt karusse
 27864	Stegt mandarinfisk
 27865	Stegt stor karusse
 27866	Stegt karpe
 27867	Stegt laks
 27868	Stegt Graskarpe
-27869	Stegt bækørred
-27870	Stegt ål
-27871	Stegt regnbueørred
-27872	Stegt tynd bækørred
+27869	Stegt bÃ¦kÃ¸rred
+27870	Stegt Ã¥l
+27871	Stegt regnbueÃ¸rred
+27872	Stegt tynd bÃ¦kÃ¸rred
 27873	Stegt rudskalle
 27874	Stegt aborre
 27875	Stegt tenchi
@@ -3136,19 +3136,19 @@ VNUM	LOCALE_NAME
 27990	Stykke af en sten
 27991	Aquasten
 27992	Hvid perle
-27993	Blå perle
-27994	Blodrød perle
+27993	BlÃ¥ perle
+27994	BlodrÃ¸d perle
 27995	Tom flaske
 27996	Giftflaske
 27997	Livskrafts kugle
 27998	Alkymitaske
-27999	Stenånd-taske
+27999	StenÃ¥nd-taske
 28000	Sten af Masakre +0
 28004	Paranoia-sten +0
 28008	Trauma-sten +0
 28012	Sten imod Lycans +0
 28030	Gennembruds-sten +0
-28031	Dødstød-sten +0
+28031	DÃ¸dstÃ¸d-sten +0
 28032	Tilbagekomst-sten +0
 28033	Sten mod Krigere +0
 28034	Sten mod Ninja +0
@@ -3156,7 +3156,7 @@ VNUM	LOCALE_NAME
 28036	Sten mod shamaner +0
 28037	Sten mod uhyrer +0
 28038	Undvigelses-sten +0
-28039	Adrætheds-sten +0
+28039	AdrÃ¦theds-sten +0
 28040	Magi-sten +0
 28041	Livskrafts-sten+0
 28042	Beskyttelses-sten +0
@@ -3166,7 +3166,7 @@ VNUM	LOCALE_NAME
 28108	Trauma-sten +1
 28112	Sten imod Lycans +1
 28130	Gennembruds-sten +1
-28131	Dødstød-sten +1
+28131	DÃ¸dstÃ¸d-sten +1
 28132	Tilbagekomst-sten +1
 28133	Sten mod Krigere +1
 28134	Sten mod Ninja +1
@@ -3174,7 +3174,7 @@ VNUM	LOCALE_NAME
 28136	Sten mod shamaner +1
 28137	Sten mod uhyrer +1
 28138	Undvigelses-sten +1
-28139	Adrætheds-sten +1
+28139	AdrÃ¦theds-sten +1
 28140	Magi-sten +1
 28141	Livskrafts-sten+1
 28142	Beskyttelses-sten +1
@@ -3184,7 +3184,7 @@ VNUM	LOCALE_NAME
 28208	Trauma-sten +2
 28212	Sten imod Lycans +2
 28230	Gennembruds-sten +2
-28231	Dødstøds-sten +2
+28231	DÃ¸dstÃ¸ds-sten +2
 28232	Tilbagekomst-sten +2
 28233	Sten mod Krigere +2
 28234	Sten mod Ninja +2
@@ -3192,7 +3192,7 @@ VNUM	LOCALE_NAME
 28236	Sten mod shamaner +2
 28237	Sten mod uhyrer +2
 28238	Undvigelses-sten +2
-28239	Adrætheds-sten +2
+28239	AdrÃ¦theds-sten +2
 28240	Magi-sten +2
 28241	Livskrafts-sten+2
 28242	Beskyttelses-sten +2
@@ -3202,7 +3202,7 @@ VNUM	LOCALE_NAME
 28308	Trauma-sten +3
 28312	Sten imod Lycans +3
 28330	Gennembruds-sten +3
-28331	Dødstøds-sten +3
+28331	DÃ¸dstÃ¸ds-sten +3
 28332	Tilbagekomst-sten +3
 28333	Sten mod Krigere +3
 28334	Sten mod Ninja +3
@@ -3210,7 +3210,7 @@ VNUM	LOCALE_NAME
 28336	Sten mod shamaner +3
 28337	Sten mod uhyrer +3
 28338	Undvigelses-sten +3
-28339	Adrætheds-sten +3
+28339	AdrÃ¦theds-sten +3
 28340	Magi-sten +3
 28341	Livskrafts-sten+3
 28342	Beskyttelses-sten +3
@@ -3220,7 +3220,7 @@ VNUM	LOCALE_NAME
 28408	Trauma-sten +4
 28412	Sten imod Lycans +4
 28430	Gennembruds-sten +4
-28431	Dødstøds-sten +4
+28431	DÃ¸dstÃ¸ds-sten +4
 28432	Tilbagekomst-sten +4
 28433	Sten mod Krigere +4
 28434	Sten mod Ninja +4
@@ -3228,7 +3228,7 @@ VNUM	LOCALE_NAME
 28436	Sten mod shamaner +4
 28437	Sten mod uhyrer +4
 28438	Undvigelses-sten +4
-28439	Adrætheds-sten +4
+28439	AdrÃ¦theds-sten +4
 28440	Magi-sten +4
 28441	Livskrafts-sten+4
 28442	Beskyttelses-sten +4
@@ -3238,7 +3238,7 @@ VNUM	LOCALE_NAME
 28508	Trauma-sten +5
 28512	Dumheds-sten +5
 28530	Gennembruds-sten +5
-28531	Dødstøds-sten +5
+28531	DÃ¸dstÃ¸ds-sten +5
 28532	Tilbagekomst-sten +5
 28533	Sten mod Krigere +5
 28534	Sten mod Ninja +5
@@ -3246,13 +3246,13 @@ VNUM	LOCALE_NAME
 28536	Sten mod shamaner +5
 28537	Sten mod uhyrer +5
 28538	Undvigelses-sten +5
-28539	Adrætheds-sten +5
+28539	AdrÃ¦theds-sten +5
 28540	Magi-sten +5
 28541	Livskrafts-sten+5
 28542	Beskyttelses-sten +5
 28543	Hastigheds-sten +5
 28600	Gennembruds-sten +6
-28601	Dødstøds-sten +6
+28601	DÃ¸dstÃ¸ds-sten +6
 28602	Tilbagekomst-sten +6
 28603	Sten mod Krigere +6
 28604	Sten mod Ninja +6
@@ -3260,13 +3260,13 @@ VNUM	LOCALE_NAME
 28606	Sten mod shamaner +6
 28607	Sten mod uhyrer +6
 28608	Undvigelses-sten +6
-28609	Adrætheds-sten +6
+28609	AdrÃ¦theds-sten +6
 28610	Magi-sten +6
 28611	Livskrafts-sten+6
 28612	Beskyttelses-sten +6
 28613	Hastigheds-sten +6
 28630	Aqua gennembruds-sten +5
-28631	Aqua dødstøds-sten +5
+28631	Aqua dÃ¸dstÃ¸ds-sten +5
 28632	Aqua tilbagekomst-sten+5
 28633	Sten mod Krigere +5
 28634	Aqua sten mod Ninja +5
@@ -3274,13 +3274,13 @@ VNUM	LOCALE_NAME
 28636	Aquasten mod shamaner+5
 28637	Aqua sten mod uhyrer +5
 28638	Aqua undvigelses-sten +5
-28639	Aqua adrætheds-sten+5
+28639	Aqua adrÃ¦theds-sten+5
 28640	Aqua magi-sten+5
 28641	Aqua vitalitet-sten+5
 28642	Aquabeskyttelses-sten+5
 28643	Aqua hastigheds-sten+5
 28700	Gennembruds-sten +7
-28701	Dødstøds-sten +7
+28701	DÃ¸dstÃ¸ds-sten +7
 28702	Tilbagekomst-sten +7
 28703	Sten mod Krigere +7
 28704	Sten mod Ninja +7
@@ -3288,13 +3288,13 @@ VNUM	LOCALE_NAME
 28706	Sten mod shamaner +7
 28707	Sten mod uhyrer +7
 28708	Undvigelses-sten +7
-28709	Adrætheds-sten +7
+28709	AdrÃ¦theds-sten +7
 28710	Magi-sten +7
 28711	Livskrafts-sten+7
 28712	Beskyttelses-sten +7
 28713	Hastigheds-sten +7
 28730	Aqua gennembruds-sten +7
-28731	Aqua dødstøds-sten +7
+28731	Aqua dÃ¸dstÃ¸ds-sten +7
 28732	Aquatilbagekomst-sten +7
 28733	Aqua sten mod Krigere +7
 28734	Aqua sten mod Ninja +7
@@ -3302,13 +3302,13 @@ VNUM	LOCALE_NAME
 28736	Aquasten mod shamaner +7
 28737	Aqua sten mod uhyrer +7
 28738	Aqua undvigelses-sten +7
-28739	Aqua adrætheds-sten +7
+28739	Aqua adrÃ¦theds-sten +7
 28740	Aqua magi-sten +7
 28741	Aqua vitalitet-sten +7
 28742	Aquabeskyttelses-sten +7
 28743	Aqua hastigheds-sten +7
 28800	Gennembruds-sten +8
-28801	Dødstøds-sten +8
+28801	DÃ¸dstÃ¸ds-sten +8
 28802	Tilbagekomst-sten +8
 28803	Sten mod Krigere +8
 28804	Sten mod Ninja +8
@@ -3316,13 +3316,13 @@ VNUM	LOCALE_NAME
 28806	Sten mod shamaner +8
 28807	Sten mod uhyrer +8
 28808	Undvigelses-sten +8
-28809	Adrætheds-sten +8
+28809	AdrÃ¦theds-sten +8
 28810	Magi-sten +8
 28811	Livskrafts-sten+8
 28812	Beskyttelses-sten +8
 28813	Hastigheds-sten +8
 28830	Aqua gennembruds-sten +8
-28831	Aqua dødstøds-sten +8
+28831	Aqua dÃ¸dstÃ¸ds-sten +8
 28832	Aquatilbagekomst-sten +8
 28833	Aqua sten mod Krigere +8
 28834	Aqua sten mod Ninja +8
@@ -3330,13 +3330,13 @@ VNUM	LOCALE_NAME
 28836	Aquasten mod shamaner +8
 28837	Aqua sten mod uhyrer +8
 28838	Aqua undvigelses-sten +8
-28839	Aqua adrætheds-sten +8
+28839	Aqua adrÃ¦theds-sten +8
 28840	Aqua magi-sten +8
 28841	Aqua vitalitet-sten +8
 28842	Aquabeskyttelses-sten +8
 28843	Aqua hastigheds-sten +8
 28900	Gennembruds-sten +9
-28901	Dødstøds-sten +9
+28901	DÃ¸dstÃ¸ds-sten +9
 28902	Tilbagekomst-sten +9
 28903	Sten mod Krigere +9
 28904	Sten mod Ninja +9
@@ -3344,13 +3344,13 @@ VNUM	LOCALE_NAME
 28906	Sten mod shamaner +9
 28907	Sten mod uhyrer +9
 28908	Undvigelses-sten +9
-28909	Adrætheds-sten +9
+28909	AdrÃ¦theds-sten +9
 28910	Magi-sten +9
 28911	Livskrafts-sten+9
 28912	Beskyttelses-sten +9
 28913	Hastigheds-sten +9
 28930	Aqua gennembruds-sten +9
-28931	Aqua dødstøds-sten +9
+28931	Aqua dÃ¸dstÃ¸ds-sten +9
 28932	Aquatilbagekomst-sten +9
 28933	Aqua sten mod Krigere +9
 28934	Aqua sten mod Ninja +9
@@ -3358,27 +3358,27 @@ VNUM	LOCALE_NAME
 28936	Aquasten mod shamaner +9
 28937	Aqua sten mod uhyrer +9
 28938	Aqua undvigelses-sten +9
-28939	Aqua adrætheds-sten +9
+28939	Aqua adrÃ¦theds-sten +9
 28940	Aqua magi-sten +9
 28941	Aqua vitalitet-sten +9
 28942	Aquabeskyttelses-sten +9
 28943	Aqua hastigheds-sten +9
 28960	Stenstykke
 29001	Jakobsmuslinger
-29002	Blå jakobsmuslinger
+29002	BlÃ¥ jakobsmuslinger
 29003	Gule jakobsmuslinger
-29004	Røde jakobsmuslinger
-29005	Grønne jakobsmuslinger
-29006	Mørkegul vinsten
-29007	Mørkeblå vinsten
-29008	Blåt Helligt Vand
+29004	RÃ¸de jakobsmuslinger
+29005	GrÃ¸nne jakobsmuslinger
+29006	MÃ¸rkegul vinsten
+29007	MÃ¸rkeblÃ¥ vinsten
+29008	BlÃ¥t Helligt Vand
 29009	Gult Helligt Vand
-29010	Rødt Helligt Vand
-29011	Grønt Helligt Vand
-29012	Mørkeblå Guds hånd
+29010	RÃ¸dt Helligt Vand
+29011	GrÃ¸nt Helligt Vand
+29012	MÃ¸rkeblÃ¥ Guds hÃ¥nd
 29013	M.gult helligt vand
-29014	Lyserødt Helligt Vand
-29015	Mørkegrøn Guds hånd
+29014	LyserÃ¸dt Helligt Vand
+29015	MÃ¸rkegrÃ¸n Guds hÃ¥nd
 29101	Spidshakke +0
 29102	Spidshakke +1
 29103	Spidshakke +2
@@ -3391,78 +3391,78 @@ VNUM	LOCALE_NAME
 29110	Spidshakke +9
 30000	Almindelig byg
 30001	Brev
-30002	Brændt pølse
-30003	Svinenæse
+30002	BrÃ¦ndt pÃ¸lse
+30003	SvinenÃ¦se
 30004	Vildsvinetand
-30005	Stykke ødelagt rustning
+30005	Stykke Ã¸delagt rustning
 30006	Orktand
 30007	Orkamulet
 30008	Esoteriks ABC
 30009	Ukendt medicin
-30010	Bjørnegalde
-30011	Garnnøgle
+30010	BjÃ¸rnegalde
+30011	GarnnÃ¸gle
 30012	Vinflaske
 30013	Alkoholkrus
 30014	Yetiskind
-30015	Dæmon-minde
-30016	Dæmon-ædelsten
-30017	Dekorativ Hårnål
-30018	Rødt hårbånd
-30019	Skinnende hårpragt
-30020	Ferskenfrø
-30021	Ædelstensstykke
+30015	DÃ¦mon-minde
+30016	DÃ¦mon-Ã¦delsten
+30017	Dekorativ HÃ¥rnÃ¥l
+30018	RÃ¸dt hÃ¥rbÃ¥nd
+30019	Skinnende hÃ¥rpragt
+30020	FerskenfrÃ¸
+30021	Ã†delstensstykke
 30022	Slangehale
 30023	Hvidt tigerskind
 30024	Hestehale
-30025	Edderkops Giftsæk
+30025	Edderkops GiftsÃ¦k
 30026	Ulvetarm
 30027	Ulveskind
-30028	Ulvekløer
+30028	UlveklÃ¸er
 30029	Ulvelever
-30030	Rusten kårdeklinge
+30030	Rusten kÃ¥rdeklinge
 30031	Smykker
 30032	Sort uniform
-30033	Ødelagt porcelæn
-30034	Hvidt hårbånd
+30033	Ã˜delagt porcelÃ¦n
+30034	Hvidt hÃ¥rbÃ¥nd
 30035	Ansigtscreme
 30036	Hemmelighedsfuldt Urt
-30037	Tigerkløer
+30037	TigerklÃ¸er
 30038	Tigerskind
 30039	Stof stykke
 30040	Blad
 30041	Shiriken
 30042	Tiger hugtand
-30043	Bønne
+30043	BÃ¸nne
 30044	Ler
-30045	Skorpionnål
+30045	SkorpionnÃ¥l
 30046	Skorpionhale
 30047	Forbandelsesbog
 30048	Isstykke
-30049	Is-Spækhugger-horn
+30049	Is-SpÃ¦khugger-horn
 30050	Iskugle
 30051	Ukendt talisman
 30052	Flag
-30053	Bjørnefodspels
+30053	BjÃ¸rnefodspels
 30054	Vielsesring
 30055	Skorpionsaks
 30056	Edderkoppenet
-30057	Edderkoppeøjne
-30058	Edderkoppe-æggesæk
+30057	EdderkoppeÃ¸jne
+30058	Edderkoppe-Ã¦ggesÃ¦k
 30059	Edderkoppeben
-30060	Frøtunge
-30061	Frølår
-30062	Medicinskål
+30060	FrÃ¸tunge
+30061	FrÃ¸lÃ¥r
+30062	MedicinskÃ¥l
 30063	Hudmedicin
 30064	Skarp sten
 30065	Klokke
-30066	Stærk peber
+30066	StÃ¦rk peber
 30067	Slangehud
 30068	Tofu-steak
-30069	Ulvekløer +
+30069	UlveklÃ¸er +
 30070	Ulveskind +
-30071	Bjørnegalde +
-30072	Bjørnefodspels +
-30073	Hvidt hårbånd +
+30071	BjÃ¸rnegalde +
+30072	BjÃ¸rnefodspels +
+30073	Hvidt hÃ¥rbÃ¥nd +
 30074	Sort uniform +
 30075	Shiriken +
 30076	Orkamulet +
@@ -3475,39 +3475,39 @@ VNUM	LOCALE_NAME
 30083	Ukendt medicin +
 30084	Ukendt talisman +
 30085	Stofstykke +
-30086	Dæmon-minde +
-30087	Dæmon-ædelsten +
+30086	DÃ¦mon-minde +
+30087	DÃ¦mon-Ã¦delsten +
 30088	Isstykke +
 30089	Yetiskind +
 30090	Iskugle +
 30091	Krigersymbol
-30092	Bytte af indfødte
+30092	Bytte af indfÃ¸dte
 30093	Lykkens taske
 30094	Lykkens taske
 30095	Lykkens taske
 30096	Lykkens taske
-30097	Børs-lykketaske
+30097	BÃ¸rs-lykketaske
 30098	Lykketaske
 30099	Lykketaske
 30100	Lykketaske
 30101	Ariyoungs vielsesring
-30102	Gylden økse fra smeden
+30102	Gylden Ã¸kse fra smeden
 30103	Gylden orktand
-30104	Ørken-edderkoppenet
+30104	Ã˜rken-edderkoppenet
 30105	Skorpionhale
 30106	Medicin til Yu-Rang
 30107	Orkhugtand
 30108	Keramik emalje
-30109	Ørken-edderkoppenet
+30109	Ã˜rken-edderkoppenet
 30110	Brev fra Huahn-So
 30111	Skorpionens giftbrod
-30112	Ål
+30112	Ã…l
 30113	Esoteriske dokumenter
 30114	Pest
 30115	Pestkur
-30116	Frølår
+30116	FrÃ¸lÃ¥r
 30117	Brev
-30118	Dæmons Smykkeskrin
+30118	DÃ¦mons Smykkeskrin
 30119	Klokke
 30120	Del af et kort
 30121	Del af et kort
@@ -3525,11 +3525,11 @@ VNUM	LOCALE_NAME
 30133	Blomstersko
 30134	Uriels taske
 30135	Ariyoungs brev
-30136	Overdådigt dekoreret Bue
+30136	OverdÃ¥digt dekoreret Bue
 30137	Abeblod
-30138	Ørkensand
+30138	Ã˜rkensand
 30139	Kindtand
-30140	Sytråd
+30140	SytrÃ¥d
 30141	Smykke
 30142	Brev
 30143	Medicinske planter
@@ -3537,7 +3537,7 @@ VNUM	LOCALE_NAME
 30145	Balsos' Medicin
 30146	Isklump
 30147	Tempelbog
-30148	Tempel halstørklæde
+30148	Tempel halstÃ¸rklÃ¦de
 30149	Is med sirup
 30150	Dagbogsside
 30151	Ulvepels
@@ -3548,71 +3548,71 @@ VNUM	LOCALE_NAME
 30156	Hemmelig tempel bog
 30157	Pilespids
 30158	Riskage
-30159	Tøj
+30159	TÃ¸j
 30160	Notits
 30161	Spyd fra Ah-Yus mand
-30162	Edderkops Øje
+30162	Edderkops Ã˜je
 30163	Uldvat
-30164	Oversættelse af Forb.Bog
-30165	Zelkova trægren
+30164	OversÃ¦ttelse af Forb.Bog
+30165	Zelkova trÃ¦gren
 30166	Tugyis tavle
-30167	Rød Spøgelsestræ Gren
+30167	RÃ¸d SpÃ¸gelsestrÃ¦ Gren
 30168	Lederens notits
-30169	Blodrød blomst
+30169	BlodrÃ¸d blomst
 30170	Orangefarvet blomst
 30171	Duftende gul blomst
-30172	Prægtig blomsterbuket
+30172	PrÃ¦gtig blomsterbuket
 30173	Mu-Rang-skind
-30174	Bjørne-klo
-30175	Diamanthård hval-lanse
+30174	BjÃ¸rne-klo
+30175	DiamanthÃ¥rd hval-lanse
 30176	Skinnende tigerskind
 30177	Moskus olie
 30178	Glyfsten
-30179	Forvredet nøgle
+30179	Forvredet nÃ¸gle
 30180	Drageguds amulet
 30181	Bogside
 30182	Legendarisk dagbog
-30183	Dyster træmaske
+30183	Dyster trÃ¦maske
 30184	Fortryllet aske
 30185	Sort is
-30186	Fossilet tåre
-30187	Dråbe blod
+30186	Fossilet tÃ¥re
+30187	DrÃ¥be blod
 30188	Obsidian
-30189	Baljit-Elvedin's tårer
+30189	Baljit-Elvedin's tÃ¥rer
 30190	Blodsten
 30191	Blodsten
 30192	Plante saft
 30193	Finger knogler
-30194	Ork Kølle
+30194	Ork KÃ¸lle
 30195	Quartzsand
 30196	Demons Aske
-30197	Magiske Frø
+30197	Magiske FrÃ¸
 30198	Vandkrystal
-30199	Blå Krystal
-30201	Hævnens ring
-30202	Tanakas øre
+30199	BlÃ¥ Krystal
+30201	HÃ¦vnens ring
+30202	Tanakas Ã¸re
 30203	Krystal
 30204	Krystalstykke
 30205	Fremstillingsmateriale
-30210	Ædelstensstykke
-30211	Ædelstensstykke
-30212	Ædelstensstykke
-30213	Ædelstensstykke
-30214	Ædelstensstykke
-30215	Ædelstensstykke
-30216	Ædelstensstykke
-30217	Ædelstensstykke
-30218	Ædelstensstykke
-30219	Ædelstensstykke
-30220	Jinunggyis sjæle-sten
-30221	Tempel sjæle-sten
-30222	Sagyis sjæle-sten
-30223	Aurtumryus sjæle-sten
-30224	Gyimoks sjæle-sten
-30225	Tugyis sjæle-sten
-30226	Skovspøgelses-sjælesten
-30227	Lederens sjælesten
-30228	Beran-Setaou Sjælesten
+30210	Ã†delstensstykke
+30211	Ã†delstensstykke
+30212	Ã†delstensstykke
+30213	Ã†delstensstykke
+30214	Ã†delstensstykke
+30215	Ã†delstensstykke
+30216	Ã†delstensstykke
+30217	Ã†delstensstykke
+30218	Ã†delstensstykke
+30219	Ã†delstensstykke
+30220	Jinunggyis sjÃ¦le-sten
+30221	Tempel sjÃ¦le-sten
+30222	Sagyis sjÃ¦le-sten
+30223	Aurtumryus sjÃ¦le-sten
+30224	Gyimoks sjÃ¦le-sten
+30225	Tugyis sjÃ¦le-sten
+30226	SkovspÃ¸gelses-sjÃ¦lesten
+30227	Lederens sjÃ¦lesten
+30228	Beran-Setaou SjÃ¦lesten
 30251	Ondsindet juvel
 30252	Visdommens juvel
 30253	Loyalitets juvel
@@ -3624,50 +3624,50 @@ VNUM	LOCALE_NAME
 30269	Medalje Stykke (5)
 30270	Delt drage sten
 30300	Ukendt gammel kiste
-30301	Kort over Sa-Gui-Tårnet
+30301	Kort over Sa-Gui-TÃ¥rnet
 30302	Kort over Zin-grotte
-30303	Bong-In-nøgle
-30304	Zin-Bong-In-nøgle
-30311	Sjæle-krystal Nøgle
+30303	Bong-In-nÃ¸gle
+30304	Zin-Bong-In-nÃ¸gle
+30311	SjÃ¦le-krystal NÃ¸gle
 30312	Grimasse Totem
-30315	Brød
+30315	BrÃ¸d
 30316	Donations platte
-30317	Føde donation
+30317	FÃ¸de donation
 30318	Velsignelsens frugt
 30319	Skrumpe-hoved
 30320	Skrumpe-hoved
-30321	Halloween Græskar
+30321	Halloween GrÃ¦skar
 30322	Magisk Tryllestav
 30323	Jack O'Lantern Mask Kort
-30324	Spindlernes Nøgle
-30325	Spindlernes Nøgle
+30324	Spindlernes NÃ¸gle
+30325	Spindlernes NÃ¸gle
 30326	Edderkop-Dronnings Gift
-30327	Spindlernes Fløjte
+30327	Spindlernes FlÃ¸jte
 30329	Gyldent tandhjul
 30330	Maat sten
 30500	Rubin indgraveret kniv
-30501	Guld spænde
+30501	Guld spÃ¦nde
 30502	Rubin dekoration
 30503	Ametyst ingraveret kniv
-30504	Sølv spænde
+30504	SÃ¸lv spÃ¦nde
 30505	Smaragd dekoration
 30506	Safir indgraveret kniv
-30507	Bronze spænde
+30507	Bronze spÃ¦nde
 30508	Safir dekoration
-30509	Blå drage stål
+30509	BlÃ¥ drage stÃ¥l
 30510	Stor epaulette
-30511	Rødt stof
-30512	Rød drage stål
+30511	RÃ¸dt stof
+30512	RÃ¸d drage stÃ¥l
 30513	Fornem epaulette
 30514	Violet stof
-30515	Lilla drage stål
+30515	Lilla drage stÃ¥l
 30516	Antik epaulette
 30517	Guld stof
 30518	Guld garn
 30519	Gylden krog
-30520	Gyldent spænde
+30520	Gyldent spÃ¦nde
 30521	Ringelement
-30522	Kædeled
+30522	KÃ¦deled
 30523	Smykke element
 30524	Flamme sten
 30525	Is flamme sten
@@ -3695,7 +3695,7 @@ VNUM	LOCALE_NAME
 30547	NoNAme
 30548	NoNAme
 30549	NoNAme
-30550	Blåt bælte
+30550	BlÃ¥t bÃ¦lte
 30551	NoNAme
 30552	NoNAme
 30553	NoNAme
@@ -3735,13 +3735,13 @@ VNUM	LOCALE_NAME
 31001	Kopi af inskriptionen
 31002	Gammelt dokument
 31003	Modgift
-31004	Helligt Gummi træ
-31005	Blå krystal essenc
-31006	Rød helveds kvarts
+31004	Helligt Gummi trÃ¦
+31005	BlÃ¥ krystal essenc
+31006	RÃ¸d helveds kvarts
 31007	Vulkansk jord
-31008	Himlens tåre
+31008	Himlens tÃ¥re
 31009	Gnom brev
-31010	Rød tyvs brev
+31010	RÃ¸d tyvs brev
 31011	NoNAme
 31012	NoNAme
 31013	Lap papir
@@ -3753,9 +3753,9 @@ VNUM	LOCALE_NAME
 31019	Carapax pulver
 31020	Sten Blomst rod
 31021	NoNAme
-31022	Oin vægt
+31022	Oin vÃ¦gt
 31023	NoNAme
-31024	Manticore læder
+31024	Manticore lÃ¦der
 31025	NoNAme
 31026	Skaldyrs pansring
 31027	Fint sand
@@ -3764,13 +3764,13 @@ VNUM	LOCALE_NAME
 31030	Indre lys
 31031	Millenium essensen
 31032	Leviathans Perler
-31033	Høvdingens kappe
+31033	HÃ¸vdingens kappe
 31034	Gigantens totem
 31035	Sort sten
 31036	Sort guld
-31037	Læder taske
+31037	LÃ¦der taske
 31038	Hellig jord
-31039	Mønt taske
+31039	MÃ¸nt taske
 31040	Gylden medalje
 31041	Jord forsil
 31042	Triton spyd
@@ -3804,9 +3804,9 @@ VNUM	LOCALE_NAME
 31070	NoNAme
 31071	NoNAme
 31072	NoNAme
-31073	Jagerens guld bånd
-31074	Nittet halskæde
-31075	Pig halskæde
+31073	Jagerens guld bÃ¥nd
+31074	Nittet halskÃ¦de
+31075	Pig halskÃ¦de
 31076	Sol urter
 31077	Fundamentstens pulver
 31078	Ren lumen
@@ -3837,7 +3837,7 @@ VNUM	LOCALE_NAME
 38051	Royal Tiger Krystal
 38052	Kongekisten
 38053	Evig Vinter Kiste
-38054	Ørken storms kiste
+38054	Ã˜rken storms kiste
 38055	Hvalpe boks
 38056	Ferie kiste
 38057	Nordens kiste.
@@ -3852,9 +3852,9 @@ VNUM	LOCALE_NAME
 39004	Velsignelseskugle
 39005	Magisk kobbermalm
 39006	Tapperhedens kappe
-39007	Smede håndbog
+39007	Smede hÃ¥ndbog
 39008	Eksorcisme-dokument
-39009	Færdigheds-Nulstilling
+39009	FÃ¦rdigheds-Nulstilling
 39010	Angrebs eliksir +10
 39011	Livets velsignelse
 39012	Magiens velsignelse
@@ -3866,48 +3866,48 @@ VNUM	LOCALE_NAME
 39018	Dragegudens angreb
 39019	Dragegudens intelligens
 39020	Dragegudens forsvar
-39021	Dragegudens hjælp
+39021	Dragegudens hjÃ¦lp
 39022	Dragens dokument
 39023	Forskerens eliksir
 39024	Kritisk angreb
 39025	Gennemborende angreb
 39026	Hastighedseliksir
-39027	Sten-håndbog
+39027	Sten-hÃ¥ndbog
 39028	Fortrylle genstand
-39029	Forstærk genstand
-39030	Koncentreret læsning
+39029	ForstÃ¦rk genstand
+39030	Koncentreret lÃ¦sning
 39031	Hastigheds eliksir
 39032	Livets frugt
 39033	Korrektions dokument
 39034	Heste sukker
-39035	Forståelsesglas
+39035	ForstÃ¥elsesglas
 39036	Vindsko
 39037	Sol Eliksir (L)
 39038	Sol Eliksir (M)
 39039	Sol Eliksir (S)
-39040	Måne Eliksir (L)
-39041	Måne Eliksir (M)
-39042	Måne Eliksir (S)
+39040	MÃ¥ne Eliksir (L)
+39041	MÃ¥ne Eliksir (M)
+39042	MÃ¥ne Eliksir (S)
 39043	Omegns dokument
 40001	Ukendt guldring
 40002	Levis ring
 40003	Thors ring
 40004	Eeks ring
 40005	Klokkeklang
-40006	Følgeseddel fra indfødte
-40007	Brev fra de indfødte
+40006	FÃ¸lgeseddel fra indfÃ¸dte
+40007	Brev fra de indfÃ¸dte
 41001	Hare kostume (brun)
 41002	Kanin kostume (brun)
-41003	Ørken kriger (M)
-41004	Ørken kriger (F)
-41005	Olym. Fægte dragt (M)
-41006	Olym. Fægte dragt (F)
-41007	GER Fægte dragt (M)
-41008	GER Fægte dragt (F)
-41009	TUR Fægte dragt (M)
-41010	TUR Fægte dragt (F)
-41011	BRA Fægte dragt (M)
-41012	BRA Fægte dragt (F)
+41003	Ã˜rken kriger (M)
+41004	Ã˜rken kriger (F)
+41005	Olym. FÃ¦gte dragt (M)
+41006	Olym. FÃ¦gte dragt (F)
+41007	GER FÃ¦gte dragt (M)
+41008	GER FÃ¦gte dragt (F)
+41009	TUR FÃ¦gte dragt (M)
+41010	TUR FÃ¦gte dragt (F)
+41011	BRA FÃ¦gte dragt (M)
+41012	BRA FÃ¦gte dragt (F)
 41013	Olym. Fodbold dragt(M)
 41014	Olym. Fodbold dragt(F)
 41015	GER Fodbold dragt (M)
@@ -3924,18 +3924,18 @@ VNUM	LOCALE_NAME
 41026	TUR Bokse dragt (F)
 41027	BRA Bokse dragt (M)
 41028	BRA Bokse dragt (F)
-41029	Ørken kriger (M,Bonus)
-41030	Ørken kriger (F,Bonus)
-41031	Olym. Fægte dragt (M)
-41032	Olym. Fægte dragt (F)
-41033	GER Fægte dragt (M)
-41034	GER Fægte dragt (F)
-41035	TUR Fægte dragt (M)
-41036	TUR Fægte dragt (F)
-41037	BRA Fægte dragt (M)
-41038	BRA Fægte dragt (F)
+41029	Ã˜rken kriger (M,Bonus)
+41030	Ã˜rken kriger (F,Bonus)
+41031	Olym. FÃ¦gte dragt (M)
+41032	Olym. FÃ¦gte dragt (F)
+41033	GER FÃ¦gte dragt (M)
+41034	GER FÃ¦gte dragt (F)
+41035	TUR FÃ¦gte dragt (M)
+41036	TUR FÃ¦gte dragt (F)
+41037	BRA FÃ¦gte dragt (M)
+41038	BRA FÃ¦gte dragt (F)
 41039	Olym. Fodbold dragt (M)
-41040	Olym. Fægte dragt (F)
+41040	Olym. FÃ¦gte dragt (F)
 41041	GER Fodbold dragt (M)
 41042	GER Fodbold dragt (F)
 41043	TUR Fodbold dragt (M)
@@ -3950,16 +3950,16 @@ VNUM	LOCALE_NAME
 41052	TUR Bokse dragt (F)
 41053	BRA Bokse dragt (M)
 41054	BRA Bokse dragt (F)
-41055	Fægte dragt FRA (M)
-41056	Fægte dragt FRA (F)
-41057	Fægte dragt ITA (M)
-41058	Fægte dragt ITA (F)
-41059	Fægte dragt POL (M)
-41060	Fægte dragt POL (F)
-41061	Fægte dragt ROU (M)
-41062	Fægte dragt ROU (F)
-41063	Fægte dragt ESP (M)
-41064	Fægte dragt ESP (F)
+41055	FÃ¦gte dragt FRA (M)
+41056	FÃ¦gte dragt FRA (F)
+41057	FÃ¦gte dragt ITA (M)
+41058	FÃ¦gte dragt ITA (F)
+41059	FÃ¦gte dragt POL (M)
+41060	FÃ¦gte dragt POL (F)
+41061	FÃ¦gte dragt ROU (M)
+41062	FÃ¦gte dragt ROU (F)
+41063	FÃ¦gte dragt ESP (M)
+41064	FÃ¦gte dragt ESP (F)
 41065	Fodbold dragt FRA (M)
 41066	Fodbold dragt FRA (F)
 41067	Fodbold dragt ITA (M)
@@ -3980,16 +3980,16 @@ VNUM	LOCALE_NAME
 41082	Bokse dragt ROU (F)
 41083	Bokse dragt ESP (M)
 41084	Bokse dragt ESP (F)
-41085	Fægte dragt FRA (M)
-41086	Fægte dragt FRA (F)
-41087	Fægte dragt ITA (M)
-41088	Fægte dragt ITA (F)
-41089	Fægte dragt POL (M)
-41090	Fægte dragt POL (F)
-41091	Fægte dragt ROU (M)
-41092	Fægte dragt ROU (F)
-41093	Fægte dragt ESP (M)
-41094	Fægte dragt ESP (F)
+41085	FÃ¦gte dragt FRA (M)
+41086	FÃ¦gte dragt FRA (F)
+41087	FÃ¦gte dragt ITA (M)
+41088	FÃ¦gte dragt ITA (F)
+41089	FÃ¦gte dragt POL (M)
+41090	FÃ¦gte dragt POL (F)
+41091	FÃ¦gte dragt ROU (M)
+41092	FÃ¦gte dragt ROU (F)
+41093	FÃ¦gte dragt ESP (M)
+41094	FÃ¦gte dragt ESP (F)
 41095	Fodbold dragt FRA (M)
 41096	Fodbold dragt FRA (F)
 41097	Fodbold dragt ITA (M)
@@ -4016,28 +4016,28 @@ VNUM	LOCALE_NAME
 41120	Salsa kjole
 41121	Gentlemans dragt
 41122	Cocktail kjole
-41125	Græskar Smoking
-41126	Græskar Kjole
+41125	GrÃ¦skar Smoking
+41126	GrÃ¦skar Kjole
 41129	Musketer kostume +
 41130	Stuepige uniform +
 41131	Salsa dragt +
 41132	Salsa kjole +
 41133	Gentlemans dragt +
 41134	Cocktail kjole +
-41135	Græskar Smoking (Bonus)
-41136	Græskar Kjole (Bonus)
-41137	Jule kostume (rød)
-41138	Jule kjole (rød)
-41139	Jule kostume (grøn)
-41140	Jule kjole (grøn)
+41135	GrÃ¦skar Smoking (Bonus)
+41136	GrÃ¦skar Kjole (Bonus)
+41137	Jule kostume (rÃ¸d)
+41138	Jule kjole (rÃ¸d)
+41139	Jule kostume (grÃ¸n)
+41140	Jule kjole (grÃ¸n)
 41141	Jule kostume (sort)
 41142	Jule kjole (sort)
 41143	Rensdyr kostume (M)
 41144	Rensdyr kostume (F)
-41145	Jule kostume+ (rød)
-41146	Jule kjole+ (rød)
-41147	Jule kostume+ (grøn)
-41148	Jule kjole+ (grøn)
+41145	Jule kostume+ (rÃ¸d)
+41146	Jule kjole+ (rÃ¸d)
+41147	Jule kostume+ (grÃ¸n)
+41148	Jule kjole+ (grÃ¸n)
 41149	Jule kostume+ (sort)
 41150	Jule kjole+ (sort)
 41151	Rensdyr kostume+ (M)
@@ -4047,7 +4047,7 @@ VNUM	LOCALE_NAME
 41155	AFC Yayang (M)
 41156	AFC Yayang (F)
 41157	RSC Snakefield (M)
-41158	RSC Slangeområde (F)
+41158	RSC SlangeomrÃ¥de (F)
 41159	Yongan FC (M)
 41160	Yongan FC (F)
 41161	FC Bakra (M)
@@ -4110,8 +4110,8 @@ VNUM	LOCALE_NAME
 41218	AC Miryang+ (F)
 41219	AFC Jayang+ (M)
 41220	AFC Jayang+ (F)
-41221	RSC Slangeområde+ (M)
-41222	RSC Slangeområde+ (F)
+41221	RSC SlangeomrÃ¥de+ (M)
+41222	RSC SlangeomrÃ¥de+ (F)
 41223	Yongan FC+ (M)
 41224	Yongan FC+ (F)
 41225	FC Bakra+ (M)
@@ -4171,52 +4171,52 @@ VNUM	LOCALE_NAME
 41279	FC St. Seungryong+ (M)
 41280	FC St. Seungryong+ (F)
 41291	Hare kostume (sort)
-41292	Hare kostume (blå)
-41293	Hare kostume (grøn)
+41292	Hare kostume (blÃ¥)
+41293	Hare kostume (grÃ¸n)
 41294	Hare kostume (pink)
 41295	Kanin kostume (sort)
-41296	Kanin kostume (blå)
-41297	Kanin kostume (grøn)
+41296	Kanin kostume (blÃ¥)
+41297	Kanin kostume (grÃ¸n)
 41298	Kanin kostume (pink)
 41299	Hare kostume+ (sort)
-41300	Hare kostume+ (blå)
-41301	Hare kostume+ (grøn)
+41300	Hare kostume+ (blÃ¥)
+41301	Hare kostume+ (grÃ¸n)
 41302	Hare kostume+ (pink)
 41303	Kanin kostume+ (sort)
-41304	Kanin kostume+ (blå)
-41305	Kanin kostume+ (grøn)
+41304	Kanin kostume+ (blÃ¥)
+41305	Kanin kostume+ (grÃ¸n)
 41306	Kanin kostume+ (pink)
 41307	Kobra Outfit (m)
 41308	Kobra Outfit (f)
 41309	Kobra Outfit+ (m)
 41310	Kobra Outfit+ (f)
-41311	Ørken kriger (M, sort)
-41312	Ørken kriger (F,sort)
-41313	Ørken kriger+ (M,sort)
-41314	Ørken kriger+ (F, sort)
+41311	Ã˜rken kriger (M, sort)
+41312	Ã˜rken kriger (F,sort)
+41313	Ã˜rken kriger+ (M,sort)
+41314	Ã˜rken kriger+ (F, sort)
 41315	Azraels rustning (m)
 41316	Azraels rustning (f)
 41317	Azraels rustning+ (m)
 41318	Azraels rustning+ (f)
-41319	Èæ»ç°©
-41320	Græskar Jack dragt (m)
-41321	Græskar Jack kjole (f)
-41322	Græskar Jack dragt+ (m)
-41323	Græskar Jack kjole+ (f)
-45001	Brune kanin ører (brun)
-45002	Hare ører (brun)
-45003	Hovedbeklædning (M)
-45004	Hovedbeklædning (F)
+41319	ÃˆÃ¦Â»Ã§Â°Â©
+41320	GrÃ¦skar Jack dragt (m)
+41321	GrÃ¦skar Jack kjole (f)
+41322	GrÃ¦skar Jack dragt+ (m)
+41323	GrÃ¦skar Jack kjole+ (f)
+45001	Brune kanin Ã¸rer (brun)
+45002	Hare Ã¸rer (brun)
+45003	HovedbeklÃ¦dning (M)
+45004	HovedbeklÃ¦dning (F)
 45005	LotoShosi (M)
-45006	Fægte frisure (F)
+45006	FÃ¦gte frisure (F)
 45007	Mohican (M)
 45008	Fodbold frisure GER (F)
 45009	Dreadlocks (M)
 45010	Bokse frisure GER (F)
-45011	Hovedbeklædning (M)
-45012	Hovedbeklædning (F)
+45011	HovedbeklÃ¦dning (M)
+45012	HovedbeklÃ¦dning (F)
 45013	LotoShosi (M)
-45014	Fægte frisure (F)
+45014	FÃ¦gte frisure (F)
 45015	Mohican (M))
 45016	Fodbold frisure GER (F)
 45017	Dreadlocks (M)
@@ -4259,24 +4259,24 @@ VNUM	LOCALE_NAME
 45056	Salsa knold
 45057	Bogart Fedora
 45058	Blomster frisure
-45061	Græskar Maske
-45062	Græskar Maske
+45061	GrÃ¦skar Maske
+45062	GrÃ¦skar Maske
 45065	Musketer frisure +
 45066	Stuepige frisure +
 45067	Lille hanekam +
 45068	Salsa knold +
 45069	Bogart Fedora +
 45070	Blomster frisure +
-45073	Græskar Maske (Bonus)
-45074	Græskar Maske (Bonus)
-45075	Jule hat (rød)
-45076	Jule hat (grøn)
+45073	GrÃ¦skar Maske (Bonus)
+45074	GrÃ¦skar Maske (Bonus)
+45075	Jule hat (rÃ¸d)
+45076	Jule hat (grÃ¸n)
 45077	Jule hat (sort)
 45078	Elver hat
 45079	Rensdyr hoved (M)
 45080	Rensdyr hoved (F)
-45081	Jule hat+ (rød)
-45082	Jule hat+ (grøn)
+45081	Jule hat+ (rÃ¸d)
+45082	Jule hat+ (grÃ¸n)
 45083	Jule hat+ (sort)
 45084	Elver hat+
 45085	Rensdyr hoved+ (M)
@@ -4289,8 +4289,8 @@ VNUM	LOCALE_NAME
 45092	Bandana (gul)
 45093	Bandana (orange)
 45094	Bandana (orange)
-45095	Bandana (blå)
-45096	Bandana (blå)
+45095	Bandana (blÃ¥)
+45096	Bandana (blÃ¥)
 45097	Bandana+ (hvid)
 45098	Bandana+ (hvid)
 45099	Bandana+ (sort)
@@ -4299,24 +4299,24 @@ VNUM	LOCALE_NAME
 45102	Bandana+ (gul)
 45103	Bandana+ (orange)
 45104	Bandana+ (orange)
-45105	Bandana+ (blå)
-45106	Bandana+ (blå)
-45119	Hare ører (sort)
-45120	Hare ører (blå)
-45121	Hare ører (grøn)
-45122	Hare ører (pink)
-45123	Kanin ører (sort)
-45124	Kanin ører (blå)
-45125	Kanin ører (grøn)
-45126	Kanin ører (pink)
-45127	Hare ører+ (sort)
-45128	Hare ører+ (blå)
-45129	Hare ører+ (grøn)
-45130	Hare ører+ (pink)
-45131	Kanin ører+ (sort)
-45132	Kanin ører+ (blå)
-45133	Kanin ører+ (grøn)
-45134	Kanin ører+ (pink)
+45105	Bandana+ (blÃ¥)
+45106	Bandana+ (blÃ¥)
+45119	Hare Ã¸rer (sort)
+45120	Hare Ã¸rer (blÃ¥)
+45121	Hare Ã¸rer (grÃ¸n)
+45122	Hare Ã¸rer (pink)
+45123	Kanin Ã¸rer (sort)
+45124	Kanin Ã¸rer (blÃ¥)
+45125	Kanin Ã¸rer (grÃ¸n)
+45126	Kanin Ã¸rer (pink)
+45127	Hare Ã¸rer+ (sort)
+45128	Hare Ã¸rer+ (blÃ¥)
+45129	Hare Ã¸rer+ (grÃ¸n)
+45130	Hare Ã¸rer+ (pink)
+45131	Kanin Ã¸rer+ (sort)
+45132	Kanin Ã¸rer+ (blÃ¥)
+45133	Kanin Ã¸rer+ (grÃ¸n)
+45134	Kanin Ã¸rer+ (pink)
 45135	Kobra frisure (m)
 45136	Kobra frisure (f)
 45137	Kobra frisure+ (m)
@@ -4337,37 +4337,37 @@ VNUM	LOCALE_NAME
 45152	Azraels hjelm (f)
 45153	Azraels hjelm+ (m)
 45154	Azraels hjelm+ (f)
-45155	Èæ»çÅõ±¸
-45156	Græskar Jack hoved (m)
-45157	Græskar Jack hoved (f)
-45158	Græskar Jack hoved+ (m)
-45159	Græskar Jack hoved+ (f)
+45155	ÃˆÃ¦Â»Ã§Ã…ÃµÂ±Â¸
+45156	GrÃ¦skar Jack hoved (m)
+45157	GrÃ¦skar Jack hoved (f)
+45158	GrÃ¦skar Jack hoved+ (m)
+45159	GrÃ¦skar Jack hoved+ (f)
 50001	Lykkens bog
 50002	Guldring
 50003	Annulleringsdokument
 50004	Begivenheds-detektor
 50005	Rytterkort (HM)
 50006	Guld skattekiste
-50007	Sølv skattekiste
-50008	Guld nøgle
-50009	Sølv nøgle
+50007	SÃ¸lv skattekiste
+50008	Guld nÃ¸gle
+50009	SÃ¸lv nÃ¸gle
 50010	Sok
-50011	Månelys-skattekiste
+50011	MÃ¥nelys-skattekiste
 50012	Guld skattekiste +
-50013	Sølv skattekiste +
-50014	Guld nøgle +
-50015	Sølv nøgle +
-50016	Bønnemasse
+50013	SÃ¸lv skattekiste +
+50014	Guld nÃ¸gle +
+50015	SÃ¸lv nÃ¸gle +
+50016	BÃ¸nnemasse
 50017	Sukkermasse
 50018	Frugtmasse
-50019	Søde ris
-50020	Bønnekage
+50019	SÃ¸de ris
+50020	BÃ¸nnekage
 50021	Sukkerkage
 50022	Frugtkage
 50023	Pung
 50024	Rose
 50025	Chokolade
-50026	Mønter
+50026	MÃ¸nter
 50027	Lotteriseddel
 50028	24 Karat Guldring
 50029	18 Karat Guldring
@@ -4375,82 +4375,82 @@ VNUM	LOCALE_NAME
 50031	Rose
 50032	Slik
 50033	Hemmelighedsfuld kiste
-50034	Gåde kiste
+50034	GÃ¥de kiste
 50035	Gave (gul)
 50036	Gave (violet)
 50037	Sekskantet skattekiste
 50038	Bronze vinderdokument
-50039	Sølv vinderdokument
+50039	SÃ¸lv vinderdokument
 50040	Gyldent Certifikat
-50041	Gaveæske
+50041	GaveÃ¦ske
 50042	Helte medalje
 50050	Heste medalje
 50051	Hestebillede
-50052	Våben-hestebog
-50053	Militær-hestebog
-50054	Hø
+50052	VÃ¥ben-hestebog
+50053	MilitÃ¦r-hestebog
+50054	HÃ¸
 50055	Gulerod
-50056	Rød ginseng
-50057	De søde abers urt
+50056	RÃ¸d ginseng
+50057	De sÃ¸de abers urt
 50058	De almindelige abers urt
 50059	De store abers urt
 50060	Hesteridningsmanual
-50061	Hestetæmningsmanual
-50062	Rytterhåndbog
+50061	HestetÃ¦mningsmanual
+50062	RytterhÃ¥ndbog
 50067	Rulle af Udvikling
 50068	Rulle af Mutation
-50070	Ork-høvdingens Kiste
-50071	Den mørke leders kiste
-50072	Ånde-høvdingens kiste
+50070	Ork-hÃ¸vdingens Kiste
+50071	Den mÃ¸rke leders kiste
+50072	Ã…nde-hÃ¸vdingens kiste
 50073	Dronninge-edderkop Kiste
-50074	Kæmpe edderkoppens kiste
-50075	Pestbærers kiste
-50076	Ørken-skildpaddens kiste
+50074	KÃ¦mpe edderkoppens kiste
+50075	PestbÃ¦rers kiste
+50076	Ã˜rken-skildpaddens kiste
 50077	Nihalede kiste
 50078	Gul tigers kiste
 50079	Ildkongens kiste
-50080	Rød Drages kiste
-50081	Dæmonkongens kiste
-50082	Høstmandens kiste
+50080	RÃ¸d Drages kiste
+50081	DÃ¦monkongens kiste
+50082	HÃ¸stmandens kiste
 50083	Rytterkort
-50084	Nøglesten
-50085	Frø
-50086	Månekage
-50087	Mung-bønne riskage
-50088	Grå-bynke riskage
-50089	Nøglesten
-50090	Kiste af Nihale-Ræv
+50084	NÃ¸glesten
+50085	FrÃ¸
+50086	MÃ¥nekage
+50087	Mung-bÃ¸nne riskage
+50088	GrÃ¥-bynke riskage
+50089	NÃ¸glesten
+50090	Kiste af Nihale-RÃ¦v
 50091	Guldfisk sushi
 50092	Karpe sushi
 50093	Laks sushi
 50094	Havkat sushi
-50095	Græskar
+50095	GrÃ¦skar
 50096	Fodbold
-50100	Fyrværkeri
-50101	Fyrværkeri
-50102	Fyrværkeri
-50103	Fyrværkeri
-50104	Fyrværkeri
-50105	Fyrværkeri
-50106	Jule-fyrværkeri
-50107	Kinesisk fyrværkeri
-50108	Fyrværkeri-kreds
-50109	Rød kiste af ibentræ
-50110	Værdifuld ibentræskiste
-50111	Gul ibentræskiste
-50112	Lysegrøn trækiste
-50113	Grøn ibentræskiste
-50114	Blå ibentræskiste
-50115	Purpur ibentræskiste
-50116	Våbenbyttebon
+50100	FyrvÃ¦rkeri
+50101	FyrvÃ¦rkeri
+50102	FyrvÃ¦rkeri
+50103	FyrvÃ¦rkeri
+50104	FyrvÃ¦rkeri
+50105	FyrvÃ¦rkeri
+50106	Jule-fyrvÃ¦rkeri
+50107	Kinesisk fyrvÃ¦rkeri
+50108	FyrvÃ¦rkeri-kreds
+50109	RÃ¸d kiste af ibentrÃ¦
+50110	VÃ¦rdifuld ibentrÃ¦skiste
+50111	Gul ibentrÃ¦skiste
+50112	LysegrÃ¸n trÃ¦kiste
+50113	GrÃ¸n ibentrÃ¦skiste
+50114	BlÃ¥ ibentrÃ¦skiste
+50115	Purpur ibentrÃ¦skiste
+50116	VÃ¥benbyttebon
 50117	Smykkekiste
 50118	NoNAme
 50119	NoNAme
 50120	Jern-skrin
 50121	Jern kasse
 50122	Jern kiste
-50123	Flødeis
-50124	Rådden trækiste
+50123	FlÃ¸deis
+50124	RÃ¥dden trÃ¦kiste
 50125	Mystisk Kiste
 50126	Mystisk Kiste
 50127	Mystisk Smaragd Boks
@@ -4464,43 +4464,43 @@ VNUM	LOCALE_NAME
 50135	Mystisk Ametyst Boks
 50136	Mystisk Topas Boks
 50137	Mystisk Citrin Boks
-50150	Rubin Nøgle
-50151	Smaragd Nøgle
-50152	Safir Nøgle
-50153	Ametyst Nøgle
-50154	Topas Nøgle
-50155	Citrin Nøgle
-50156	Diamant Nøgle
-50160	Påskeæg
-50161	Påskeæg
-50162	Påskeæg
-50163	Påskeæg
-50164	Påskeæg
-50165	Påskeæg
-50166	Påskeæg
-50167	Påskeæg
-50168	Påskeæg
-50169	Påskeæg
-50170	Påskeæg
-50171	Påskeæg
-50172	Påskeæg
-50173	Påskeæg
-50174	Påskeæg
-50175	Påskeæg
-50176	Påskeæg
-50177	Påskeæg
-50178	Påskeæg
-50179	Påskeæg
+50150	Rubin NÃ¸gle
+50151	Smaragd NÃ¸gle
+50152	Safir NÃ¸gle
+50153	Ametyst NÃ¸gle
+50154	Topas NÃ¸gle
+50155	Citrin NÃ¸gle
+50156	Diamant NÃ¸gle
+50160	PÃ¥skeÃ¦g
+50161	PÃ¥skeÃ¦g
+50162	PÃ¥skeÃ¦g
+50163	PÃ¥skeÃ¦g
+50164	PÃ¥skeÃ¦g
+50165	PÃ¥skeÃ¦g
+50166	PÃ¥skeÃ¦g
+50167	PÃ¥skeÃ¦g
+50168	PÃ¥skeÃ¦g
+50169	PÃ¥skeÃ¦g
+50170	PÃ¥skeÃ¦g
+50171	PÃ¥skeÃ¦g
+50172	PÃ¥skeÃ¦g
+50173	PÃ¥skeÃ¦g
+50174	PÃ¥skeÃ¦g
+50175	PÃ¥skeÃ¦g
+50176	PÃ¥skeÃ¦g
+50177	PÃ¥skeÃ¦g
+50178	PÃ¥skeÃ¦g
+50179	PÃ¥skeÃ¦g
 50180	Tom kurv:
-50181	Kurv med Påskeæg
+50181	Kurv med PÃ¥skeÃ¦g
 50182	Velsignelses Kiste
-50183	Søde sager
+50183	SÃ¸de sager
 50184	NoNAme
 50185	NoNAme
 50186	Azraels Kiste
-50187	Lærlinge kiste I
-50188	Lærlinge kiste II
-50189	Lærlinge kiste III
+50187	LÃ¦rlinge kiste I
+50188	LÃ¦rlinge kiste II
+50189	LÃ¦rlinge kiste III
 50190	Ekspert kiste I
 50191	Ekspert kiste II
 50192	Ekspert kiste III
@@ -4514,30 +4514,30 @@ VNUM	LOCALE_NAME
 50200	Bundt
 50201	Blomsterbuket
 50202	Blomsterbuket
-50212	Lærlinge kiste I
-50213	Lærlinge kiste I
+50212	LÃ¦rlinge kiste I
+50213	LÃ¦rlinge kiste I
 50215	Halloween Kiste
-50216	Gløgg
+50216	GlÃ¸gg
 50249	Kiste af triumf
 50252	Cor Draconis
 50253	NoNAme
-50254	Mørkets kiste
+50254	MÃ¸rkets kiste
 50255	Cor Draconis (uslebet)
 50256	Cor Draconis (slebet)
-50257	Cor Draconis (sjælden)
+50257	Cor Draconis (sjÃ¦lden)
 50258	Cor Draconis (antik)
 50259	Cor Draconis (mystisk)
 50260	Cor Draconis (uslebet)
-50300	Færdigheds bog
+50300	FÃ¦rdigheds bog
 50301	Sun-zi-krigskunst
 50302	Wu-zi-krigskunst
 50303	WeiLiao Zi-krigskunst
 50304	Kombobeherskelse
 50305	Kombo-Mester-beherskelse
-50306	Den høje Kombokunst
+50306	Den hÃ¸je Kombokunst
 50307	Missionsbog (nem)
 50308	Missionsbog (normal)
-50309	Missionsbog (svær)
+50309	Missionsbog (svÃ¦r)
 50310	Missionsbog (ekspert)
 50311	Shinsoo-sprog
 50312	Chunjo-sprog
@@ -4548,22 +4548,22 @@ VNUM	LOCALE_NAME
 50317	Missionsbog (test)
 50318	Missionsbog (nem)
 50319	Missionsbog (Normal)
-50320	Missionsbog (svær)
+50320	Missionsbog (svÃ¦r)
 50321	Missionsbog (Expert)
 50322	Forvandlingsdokument
 50401	Trevejssnit-Manual
-50402	Sværdspin-Manual
+50402	SvÃ¦rdspin-Manual
 50403	Berserker-Manual
-50404	Sværdaura-Manual
+50404	SvÃ¦rdaura-Manual
 50405	Fart-Manual
-50416	Åndeslags-Manual
+50416	Ã…ndeslags-Manual
 50417	Slag-Manual
 50418	Trampe-Manual
-50419	Stærk Krop Manual
-50420	Sværdstøds-Manual
+50419	StÃ¦rk Krop Manual
+50420	SvÃ¦rdstÃ¸ds-Manual
 50431	Bagholdsmanual
 50432	Hurtigangrebs-Manual
-50433	Bog om kård-hvirvel
+50433	Bog om kÃ¥rd-hvirvel
 50434	Camouflerings Manual
 50435	Giftskys-Manual
 50446	Gentaget Skud Manual
@@ -4577,18 +4577,18 @@ VNUM	LOCALE_NAME
 50464	Frygt-Manual
 50465	Fortryllet Rust.-Manual
 50466	Fordrivelses-Manual
-50476	Mørkt Slag Manual
+50476	MÃ¸rkt Slag Manual
 50477	Flammeslags-Manual
-50478	Flammeånds-Manual
-50479	Mørk Beskyttelse Manual
-50480	Åndeslags-Manual
-50481	Mørk Sten Manual
+50478	FlammeÃ¥nds-Manual
+50479	MÃ¸rk Beskyttelse Manual
+50480	Ã…ndeslags-Manual
+50481	MÃ¸rk Sten Manual
 50491	Flyvende Talisman Manual
 50492	Drageskuds-Manual
-50493	Dragebrøls-Manual
+50493	DragebrÃ¸ls-Manual
 50494	Velsignelses-Manual
 50495	Reflekterings Manual
-50496	Dragehjælps Manual
+50496	DragehjÃ¦lps Manual
 50506	Lyn Kast Manual
 50507	Lyn Manual
 50508	Lynklo Manual
@@ -4596,40 +4596,40 @@ VNUM	LOCALE_NAME
 50510	Hurtigheds-Manual
 50511	Angrebs-Manual
 50512	Regnbuesten
-50513	Sjælesten
+50513	SjÃ¦lesten
 50600	Minedrifts Guide
 50601	Diamantsten
 50602	Rav
 50603	Fossil gren
 50604	Kobbermalm
-50605	Sølvmalm
+50605	SÃ¸lvmalm
 50606	Guldmalm
 50607	Jademalm
-50608	Ibentræmalm
+50608	IbentrÃ¦malm
 50609	Perlestykke
 50610	Hvidguldmalm
 50611	Krystalmalm
 50612	Kvartsmalm
-50613	Himmeltåremalm
-50614	Sjæle krystal malm
+50613	HimmeltÃ¥remalm
+50614	SjÃ¦le krystal malm
 50615	Rubin malm
 50616	Granat malm
 50617	Smaragd malm
 50618	Safir malm
 50621	Diamant
 50622	Rav
-50623	Fossiltræ
+50623	FossiltrÃ¦
 50624	Kobber
-50625	Sølv
+50625	SÃ¸lv
 50626	Guld
 50627	Jade
-50628	Ibentræ
+50628	IbentrÃ¦
 50629	Perle
 50630	Hvidguld
 50631	Krystal
 50632	Ametyst
-50633	Himmeltåre
-50634	Sjæle krystal
+50633	HimmeltÃ¥re
+50634	SjÃ¦le krystal
 50635	Rubin
 50636	Granat
 50637	Smaragd
@@ -4641,8 +4641,8 @@ VNUM	LOCALE_NAME
 50705	Syren
 50706	Tue-svamp
 50707	Alperose
-50708	Morbær
-50709	Løvetand
+50708	MorbÃ¦r
+50709	LÃ¸vetand
 50710	Tidsel
 50711	Daddel
 50712	Sam-Zi blomst
@@ -4653,8 +4653,8 @@ VNUM	LOCALE_NAME
 50725	Syren
 50726	Tue-svamp
 50727	Alperose
-50728	Morbær
-50729	Løvetand
+50728	MorbÃ¦r
+50729	LÃ¸vetand
 50730	Tidsel
 50731	Daddel
 50732	Sam-Zi blomst
@@ -4665,8 +4665,8 @@ VNUM	LOCALE_NAME
 50805	Syren saft
 50806	Tue Svamp Juice
 50807	Alperose saft
-50808	Morbær saft
-50809	Løvetands saft
+50808	MorbÃ¦r saft
+50809	LÃ¸vetands saft
 50810	Tidsel saft
 50811	Daddel saft
 50812	Sam-Zi plantens saft
@@ -4678,11 +4678,11 @@ VNUM	LOCALE_NAME
 50818	SamBo-vand
 50819	Mong vand
 50820	Hwal-vand
-50821	Rød dug
-50822	Lyserød dug
+50821	RÃ¸d dug
+50822	LyserÃ¸d dug
 50823	Gul dug
-50824	Grøn dug
-50825	Blå dug
+50824	GrÃ¸n dug
+50825	BlÃ¥ dug
 50826	Hvid dug
 50901	Tom flaske
 50902	Begynderrecept
@@ -4699,11 +4699,11 @@ VNUM	LOCALE_NAME
 51501	Cor Draconis (uslebet)
 51502	Cor Draconis (uslebet)
 51503	Cor Draconis (normal)
-51504	Cor Draconis (ædel)
-51505	Cor Draconis (værdifuld)
-51506	Cor Draconis (gådefuld)
+51504	Cor Draconis (Ã¦del)
+51505	Cor Draconis (vÃ¦rdifuld)
+51506	Cor Draconis (gÃ¥defuld)
 51507	Cor Draconis (slebet)
-51508	Cor Draconis (sjælden)
+51508	Cor Draconis (sjÃ¦lden)
 51509	Cor Draconis (antik)
 51510	Cor Draconis (mystisk)
 51511	Cor Diamas
@@ -4718,31 +4718,31 @@ VNUM	LOCALE_NAME
 51520	Cor Saphirum (normal)
 51521	Cor Granatum (normal)
 51522	Cor Atrum (normal)
-51523	Cor Diamas (ædel)
-51524	Cor Rubinum (ædel)
-51525	Cor Jadeit (ædel)
-51526	Cor Saphirum (ædel)
-51527	Cor Granatum (ædel)
-51528	Cor Atrum (ædel)
-51529	Cor Diamas (værdifuld)
-51530	Cor Rubinum (værdifuld)
-51531	Cor Jadeit (værdifuld)
-51532	Cor Saphirum (værdifuld)
-51533	Cor Granatum (værdifuld)
-51534	Cor Atrum (værdifuld)
+51523	Cor Diamas (Ã¦del)
+51524	Cor Rubinum (Ã¦del)
+51525	Cor Jadeit (Ã¦del)
+51526	Cor Saphirum (Ã¦del)
+51527	Cor Granatum (Ã¦del)
+51528	Cor Atrum (Ã¦del)
+51529	Cor Diamas (vÃ¦rdifuld)
+51530	Cor Rubinum (vÃ¦rdifuld)
+51531	Cor Jadeit (vÃ¦rdifuld)
+51532	Cor Saphirum (vÃ¦rdifuld)
+51533	Cor Granatum (vÃ¦rdifuld)
+51534	Cor Atrum (vÃ¦rdifuld)
 51535	Cor Diamas (fejlfri)
 51536	Cor Rubinum (fejlfri)
 51537	Cor Jadeit (fejlfri)
 51538	Cor Saphirum (fejlfri)
 51539	Cor Granatum (fejlfri)
 51540	Cor Atrum (fejlfri)
-51541	Cor Draconis (glødende)
-51542	Cor Diamas (glødende)
-51543	Cor Rubinum (glødende)
-51544	Cor Jadeit (glødende)
-51545	Cor Saphirum (glødende)
-51546	Cor Granatum (glødende)
-51547	Cor Atrum (glødende)
+51541	Cor Draconis (glÃ¸dende)
+51542	Cor Diamas (glÃ¸dende)
+51543	Cor Rubinum (glÃ¸dende)
+51544	Cor Jadeit (glÃ¸dende)
+51545	Cor Saphirum (glÃ¸dende)
+51546	Cor Granatum (glÃ¸dende)
+51547	Cor Atrum (glÃ¸dende)
 51548	Cor Draconis (fejlfri)
 51549	Cor Draconis (evig)
 51550	Cor Diamas (evig)
@@ -4778,20 +4778,20 @@ VNUM	LOCALE_NAME
 51580	Cor Saphirum+ (normal)
 51581	Cor Granatum+ (normal)
 51582	Cor Atrum+ (normal)
-51583	Cor Draconis+ (ædel)
-51584	Cor Diamas+ (ædel)
-51585	Cor Rubinum+ (ædel)
-51586	Cor Jadeit+ (ædel)
-51587	Cor Saphirum+ (ædel)
-51588	Cor Granatum+ (ædel)
-51589	Cor Atrum+ (ædel)
-51590	Cor Draconis+ (værdifuld)
-51591	Cor Diamas+ (værdifuld)
-51592	Cor Rubinum+ (værdifuld)
-51593	Cor Jadeit+ (værdifuld)
-51594	Cor Saphirum+ (værdifuld)
-51595	Cor Granatum+ (værdifuld)
-51596	Cor Atrum+ (værdifuld)
+51583	Cor Draconis+ (Ã¦del)
+51584	Cor Diamas+ (Ã¦del)
+51585	Cor Rubinum+ (Ã¦del)
+51586	Cor Jadeit+ (Ã¦del)
+51587	Cor Saphirum+ (Ã¦del)
+51588	Cor Granatum+ (Ã¦del)
+51589	Cor Atrum+ (Ã¦del)
+51590	Cor Draconis+ (vÃ¦rdifuld)
+51591	Cor Diamas+ (vÃ¦rdifuld)
+51592	Cor Rubinum+ (vÃ¦rdifuld)
+51593	Cor Jadeit+ (vÃ¦rdifuld)
+51594	Cor Saphirum+ (vÃ¦rdifuld)
+51595	Cor Granatum+ (vÃ¦rdifuld)
+51596	Cor Atrum+ (vÃ¦rdifuld)
 51597	Cor Draconis+ (fejlfri)
 51598	Cor Diamas+ (fejlfri)
 51599	Cor Rubinum+ (fejlfri)
@@ -4799,13 +4799,13 @@ VNUM	LOCALE_NAME
 51601	Cor Saphirum+ (fejlfri)
 51602	Cor Granatum+ (fejlfri)
 51603	Cor Atrum+ (fejlfri)
-51604	Cor Draconis+ (glædende)
-51605	Cor Diamas+ (glødende)
-51606	Cor Rubinum+ (glødende)
-51607	Cor Jadeit+ (glødende)
-51608	Cor Saphirum+ (glødende)
-51609	Cor Granatum+ (glødende)
-51610	Cor Atrum+ (glødende)
+51604	Cor Draconis+ (glÃ¦dende)
+51605	Cor Diamas+ (glÃ¸dende)
+51606	Cor Rubinum+ (glÃ¸dende)
+51607	Cor Jadeit+ (glÃ¸dende)
+51608	Cor Saphirum+ (glÃ¸dende)
+51609	Cor Granatum+ (glÃ¸dende)
+51610	Cor Atrum+ (glÃ¸dende)
 51611	Cor Draconis+ (evig)
 51612	Cor Diamas+ (evig)
 51613	Cor Rubinum+ (evig)
@@ -4838,10 +4838,10 @@ VNUM	LOCALE_NAME
 51640	Drage kiste+
 51641	Drage kiste+ (farvet)
 51642	Drage kiste (farvet)
-51643	Ædel drage kiste
-51644	Ædel drage kiste+
-51645	Ædel d. kiste+ (farvet)
-51646	Ædel d. kiste (farvet)
+51643	Ã†del drage kiste
+51644	Ã†del drage kiste+
+51645	Ã†del d. kiste+ (farvet)
+51646	Ã†del d. kiste (farvet)
 52001	Ung Vildsvin (Segl)
 52002	Ung Vildsvin (Segl)
 52003	Ung Vildsvin (Segl)
@@ -4872,21 +4872,21 @@ VNUM	LOCALE_NAME
 52028	Tapper Ulv (Segl)
 52029	Tapper Ulv (Segl)
 52030	Tapper Ulv (Segl)
-52031	Ung Løve (Segl)
-52032	Ung Løve (Segl)
-52033	Ung Løve (Segl)
-52034	Ung Løve (Segl)
-52035	Ung Løve (Segl)
-52036	Vild Løve (Segl)
-52037	Vild Løve (Segl)
-52038	Vild Løve (Segl)
-52039	Vild Løve (Segl)
-52040	Vild Løve (Segl)
-52041	Tapper Løve (Segl)
-52042	Tapper Løve (Segl)
-52043	Tapper Løve (Segl)
-52044	Tapper Løve (Segl)
-52045	Tapper Løve (Segl)
+52031	Ung LÃ¸ve (Segl)
+52032	Ung LÃ¸ve (Segl)
+52033	Ung LÃ¸ve (Segl)
+52034	Ung LÃ¸ve (Segl)
+52035	Ung LÃ¸ve (Segl)
+52036	Vild LÃ¸ve (Segl)
+52037	Vild LÃ¸ve (Segl)
+52038	Vild LÃ¸ve (Segl)
+52039	Vild LÃ¸ve (Segl)
+52040	Vild LÃ¸ve (Segl)
+52041	Tapper LÃ¸ve (Segl)
+52042	Tapper LÃ¸ve (Segl)
+52043	Tapper LÃ¸ve (Segl)
+52044	Tapper LÃ¸ve (Segl)
+52045	Tapper LÃ¸ve (Segl)
 52046	Ung Tiger (Segl)
 52047	Ung Tiger (Segl)
 52048	Ung Tiger (Segl)
@@ -4947,7 +4947,7 @@ VNUM	LOCALE_NAME
 52103	Tapper Dragor segl
 52104	Tapper Dragor segl
 52105	Tapper Dragor segl
-52701	Løve Certifikat
+52701	LÃ¸ve Certifikat
 52702	Tiger Certifikat
 52703	Vildsvin Certifikat
 52704	Ulv Certifikat
@@ -4956,7 +4956,7 @@ VNUM	LOCALE_NAME
 52707	Dragor certifikat
 53001	NoNAme
 53002	Unge Rensdyr Segl
-53003	Is Føniks Segl
+53003	Is FÃ¸niks Segl
 53005	Baby Azrael
 53006	Baby Azrael (guld)
 53007	Bambi Segl
@@ -4969,10 +4969,10 @@ VNUM	LOCALE_NAME
 53014	Mini Executor segl
 53015	Mini Executor segl(guld)
 53016	Boney segl
-53017	Jade Føniks segl
+53017	Jade FÃ¸niks segl
 53501	NoNAme
 53502	Unge Rensdyr Kiste
-53503	Is Føniks Bur
+53503	Is FÃ¸niks Bur
 53504	NoNAme
 53505	Baby Azrael kiste
 53506	Baby Azrael kiste (guld)
@@ -4992,22 +4992,22 @@ VNUM	LOCALE_NAME
 60003	Heltesymbol
 69000	Slagets Hemmelighed
 69010	Chi hemmelighed
-69020	Åndeslagets Hemmelighed
+69020	Ã…ndeslagets Hemmelighed
 69030	Angrebslagets Hem.lighed
 69040	Bagholdets Hemmelighed
 69050	Pilens Hemmelighed
 69060	Fjerlet Gangs Hem.lighed
 69070	Hurtigt Angrebs Hem.
-69080	Mørkt Slags Hem.
+69080	MÃ¸rkt Slags Hem.
 69090	Dragehvirvels Hem.
 69100	Himmel og Jords Hem.
 69110	Fortryllet Klinges Hem.
 69120	Flyvende Talismans Hem.
 69130	Helbredelses Hem.
-69140	Dragehjælps Hem.
+69140	DragehjÃ¦lps Hem.
 69150	Velsignelses Hem.
 70001	Gudindens Dukke
-70002	Tredje hånd
+70002	Tredje hÃ¥nd
 70003	Lederens bog
 70004	Flittigheds medalje
 70005	Erfaringsring
@@ -5017,40 +5017,40 @@ VNUM	LOCALE_NAME
 70009	Skattekiste
 70010	lagerdokument
 70011	Forbedre flaske
-70012	Gudindens tåre
-70013	Kæmpegudindens tåre
+70012	Gudindens tÃ¥re
+70013	KÃ¦mpegudindens tÃ¥re
 70014	Blodtablet
-70015	Billig børste
-70016	Indianerambånd
-70017	Værdifuldt armbånd
-70018	Phønixørering
-70019	Millionærs halsbåndkæde
+70015	Billig bÃ¸rste
+70016	IndianerambÃ¥nd
+70017	VÃ¦rdifuldt armbÃ¥nd
+70018	PhÃ¸nixÃ¸rering
+70019	MillionÃ¦rs halsbÃ¥ndkÃ¦de
 70020	Ferskenblomst vin
 70021	Engels Velsignelse
 70022	Beras hjerte
 70023	Vismands Stok
 70024	Velsignelseskugle
-70025	Værdighedsring
+70025	VÃ¦rdighedsring
 70026	Usynligheds spejl
 70027	Notits fra smeden
 70028	Vismandens Notits
-70029	Rød Fjerpen
-70030	Rød monokel
-70031	Fægtnings skrifter
-70032	To-Håndssværd Manual
-70033	En-Håndssværd Manual
+70029	RÃ¸d Fjerpen
+70030	RÃ¸d monokel
+70031	FÃ¦gtnings skrifter
+70032	To-HÃ¥ndssvÃ¦rd Manual
+70033	En-HÃ¥ndssvÃ¦rd Manual
 70034	Dolk Manual
 70035	Magisk kobbermalm
 70036	Notits fra studenten
 70037	Glemsomhedens Bog
 70038	Tapperhedens kappe
-70039	Smede håndbog
-70040	Orkstædighed
-70041	Lærlingens næve
-70042	Djævlesplint
+70039	Smede hÃ¥ndbog
+70040	OrkstÃ¦dighed
+70041	LÃ¦rlingens nÃ¦ve
+70042	DjÃ¦vlesplint
 70043	Tyvehandsker
-70044	Den Mørke Fyrstes Horn
-70045	Den Mørke Fyrstes tand
+70044	Den MÃ¸rke Fyrstes Horn
+70045	Den MÃ¸rke Fyrstes tand
 70046	Dragegudens gral
 70047	Sprogring (eksempel)
 70048	Flygtninge kappe
@@ -5060,43 +5060,43 @@ VNUM	LOCALE_NAME
 70052	Karma-magi 1
 70053	Karma-magi 2
 70054	Karma-magi 3
-70056	Granatæble Juice+
+70056	GranatÃ¦ble Juice+
 70057	Tapperhedens kappe
 70058	Teleporterings ring
 70101	Forsynets Bog
-70102	Zen-bønne
+70102	Zen-bÃ¸nne
 70103	Sutra
 70104	Forvandlingskugle
 70105	Forvandlingskugle
 70106	Forvandlingskugle
 70107	Forvandlingskugle
 70201	blegemiddel
-70202	Hvidt hårfarvemiddel
-70203	Blond hårfarvemiddel
-70204	Rød hårfarvemiddel
-70205	Brunt hårfarvemiddel
-70206	Sort hårfarvemiddel
+70202	Hvidt hÃ¥rfarvemiddel
+70203	Blond hÃ¥rfarvemiddel
+70204	RÃ¸d hÃ¥rfarvemiddel
+70205	Brunt hÃ¥rfarvemiddel
+70206	Sort hÃ¥rfarvemiddel
 70207	Blegemiddel
 70208	Brun farve
-70251	Rød Urt
-70252	Blå Urt
-70253	Grøn Urt
+70251	RÃ¸d Urt
+70252	BlÃ¥ Urt
+70253	GrÃ¸n Urt
 70254	Violet Urt
 70301	Forlovelsesring
 70302	Vielsesring
 71001	Eksorcisme-dokument
 71002	Status-Nulstilling
-71003	Færdigheds-Nulstilling
+71003	FÃ¦rdigheds-Nulstilling
 71004	Dragens medalje
 71005	Sprogring
 71006	Sprogring
 71007	Sprogring
 71008	Fiskeriets ABC
 71009	Lagerkiste
-71010	Tredje hånd
-71011	Følelsesmaske
+71010	Tredje hÃ¥nd
+71011	FÃ¸lelsesmaske
 71012	Lederens Bog
-71013	Fyrværkeri
+71013	FyrvÃ¦rkeri
 71014	Angrebs eliksir +10
 71015	Erfaringsring
 71016	Tyvens handsker
@@ -5114,9 +5114,9 @@ VNUM	LOCALE_NAME
 71028	Dragegudens angreb
 71029	Dragegudens intelligens
 71030	Dragegudens forsvar
-71031	Dragegudens hjælp
+71031	Dragegudens hjÃ¦lp
 71032	Dragens dokument
-71033	Følelsesmaske
+71033	FÃ¸lelsesmaske
 71034	Angrebs eliksir +15
 71035	Forskerens eliksir
 71036	Dokument: ork-leder
@@ -5125,58 +5125,58 @@ VNUM	LOCALE_NAME
 71039	Dokument: Skildpadde
 71040	Dokument: Ildkonge
 71041	Dokument: Nihalede
-71042	Dokument: Dæmonkonge
-71043	Dokument: Tigerånd
+71042	Dokument: DÃ¦monkonge
+71043	Dokument: TigerÃ¥nd
 71044	Kritisk angreb
 71045	Gennemborende angreb
-71047	Åndestenens Skær
-71048	Ændringsmagi
+71047	Ã…ndestenens SkÃ¦r
+71048	Ã†ndringsmagi
 71049	Silkebundt
 71050	Hastighedseliksir
-71054	Rigets Skær
-71055	Navnets Skær
-71056	Himlens Skær
-71057	Dokument: Fossiltræ-åre
-71058	Dokument: Kobber-åre
-71059	Dokument: Sølv-åre
-71060	Dokument: Guld-åre
-71061	Dokument: Jade-åre
-71062	Dokument: Ibentræ-åre
+71054	Rigets SkÃ¦r
+71055	Navnets SkÃ¦r
+71056	Himlens SkÃ¦r
+71057	Dokument: FossiltrÃ¦-Ã¥re
+71058	Dokument: Kobber-Ã¥re
+71059	Dokument: SÃ¸lv-Ã¥re
+71060	Dokument: Guld-Ã¥re
+71061	Dokument: Jade-Ã¥re
+71062	Dokument: IbentrÃ¦-Ã¥re
 71063	Dokument: Muslinge-bunke
-71064	Dokument: Hvidguld-åre
-71065	Dokument: Krystal-åre
-71066	Dokument: Kvarts-åre
-71067	Dokument: Himmels-åre
+71064	Dokument: Hvidguld-Ã¥re
+71065	Dokument: Krystal-Ã¥re
+71066	Dokument: Kvarts-Ã¥re
+71067	Dokument: Himmels-Ã¥re
 71068	De Elskendes Fjer
-71069	Harmoniets øreringe
-71070	Kærlighedens armbånd
-71071	Kærlighedens øreringe
-71072	Harmoni-armbånd
-71073	Kærlighedens halskæde
-71074	Harmoni-halskæde
-71075	Hårfarve (Hvid)
-71076	Hårfarve (blond)
-71077	Hårfarve (rød)
-71078	Hårfarve (brun)
-71079	Hårfarve (sort)
+71069	Harmoniets Ã¸reringe
+71070	KÃ¦rlighedens armbÃ¥nd
+71071	KÃ¦rlighedens Ã¸reringe
+71072	Harmoni-armbÃ¥nd
+71073	KÃ¦rlighedens halskÃ¦de
+71074	Harmoni-halskÃ¦de
+71075	HÃ¥rfarve (Hvid)
+71076	HÃ¥rfarve (blond)
+71077	HÃ¥rfarve (rÃ¸d)
+71078	HÃ¥rfarve (brun)
+71079	HÃ¥rfarve (sort)
 71080	Metinsten (nem)
 71081	Metinsten (normal)
 71082	Metinsten (stor)
-71083	Sten-håndbog
+71083	Sten-hÃ¥ndbog
 71084	Fortrylle genstand
-71085	Forstærk genstand
+71085	ForstÃ¦rk genstand
 71086	Level-Mission (20-29)
 71087	Level-Mission (30-39)
 71088	Missionsbog (nem)
 71089	Missionsbog (normal)
-71090	Missionsbog (svær)
-71091	Handlens Skær
+71090	Missionsbog (svÃ¦r)
+71091	Handlens SkÃ¦r
 71092	Forvandlingsbog
 71093	Forvandlingskugle
-71094	Koncentreret læsning
+71094	Koncentreret lÃ¦sning
 71095	Passage Dokument
 71096	Tavle for at passere
-71099	Efterfølgerens ring
+71099	EfterfÃ¸lgerens ring
 71100	Uddannelses certifikat
 71101	Hastigheds eliksir
 71102	NoNAme
@@ -5185,53 +5185,53 @@ VNUM	LOCALE_NAME
 71105	Omfordeling (STR)
 71106	Omfordeling (DEX)
 71107	Livets frugt
-71108	Granatæble Juice
+71108	GranatÃ¦ble Juice
 71109	Korrektions dokument
 71110	Heste sukker
-71113	Forståelsesglas
+71113	ForstÃ¥elsesglas
 71114	Vildsvin segl (gul)
-71115	Vildsvin segl (blå)
+71115	Vildsvin segl (blÃ¥)
 71116	Ulv segl (gul)
-71117	Ulv segl (blå)
+71117	Ulv segl (blÃ¥)
 71118	Tiger segl (gul)
-71119	Tiger segl (blå)
-71120	Løve segl (gul)
-71121	Løve segl (blå)
+71119	Tiger segl (blÃ¥)
+71120	LÃ¸ve segl (gul)
+71121	LÃ¸ve segl (blÃ¥)
 71122	NoNAme
-71123	Drageskæl
-71124	Hvid løve
+71123	DrageskÃ¦l
+71124	Hvid lÃ¸ve
 71125	Krigs-Vildsvin-segl
 71126	Kamp Ulv-Segl
 71127	Storm Tiger-Segl
-71128	Kamp Løve-Segl
+71128	Kamp LÃ¸ve-Segl
 71129	Drageklo
 71130	Passage Dokument
 71131	Heste segl
 71132	Heste segl
 71133	Heste segl
 71134	Heste segl
-71135	Halvmåne Ring
-71136	Lolly den Mægtige
-71137	Royalt Tiger Segl (blå)
-71138	Royalt Tiger Segl (rød)
+71135	HalvmÃ¥ne Ring
+71136	Lolly den MÃ¦gtige
+71137	Royalt Tiger Segl (blÃ¥)
+71138	Royalt Tiger Segl (rÃ¸d)
 71139	Royalt Tiger Segl (guld)
-71140	Royalt Tiger Segl (grøn)
-71141	Royalt Tiger Segl (grå)
+71140	Royalt Tiger Segl (grÃ¸n)
+71141	Royalt Tiger Segl (grÃ¥)
 71142	Royal Tiger Segl (hvid)
-71143	Ring af Glæde
+71143	Ring af GlÃ¦de
 71144	Julekiste
-71145	Evig Kærligheds-amulet
+71145	Evig KÃ¦rligheds-amulet
 71146	Amors Kiste (pink)
-71147	Amors Kiste (blå)
+71147	Amors Kiste (blÃ¥)
 71148	Viljestyrkens Ring
-71149	Ring af Dødlig Styrke
-71150	Magisk æg
-71151	Grøn magi
-71152	Grøn styrke
+71149	Ring af DÃ¸dlig Styrke
+71150	Magisk Ã¦g
+71151	GrÃ¸n magi
+71152	GrÃ¸n styrke
 71153	Eliksir af visdom
 71154	Eliksir af himmelfart/3t
 71155	Eliksir af visdom (3t)
-71156	Eliksir af ånd (3t)
+71156	Eliksir af Ã¥nd (3t)
 71157	NoNAme
 71158	Helte medalje
 71159	Milon`s Kiste
@@ -5240,7 +5240,7 @@ VNUM	LOCALE_NAME
 71164	Komet segl
 71165	Polar rovdyrs segl
 71166	Ammeret panda segl
-71171	Enhjørning segl
+71171	EnhjÃ¸rning segl
 71172	Mareridts segl
 72001	Erfaringsring
 72002	Erfaringsring
@@ -5257,9 +5257,9 @@ VNUM	LOCALE_NAME
 72013	Fiskeriets ABC
 72014	Fiskeriets ABC
 72015	Fiskeriets ABC
-72016	Tredje hånd
-72017	Tredje hånd
-72018	Tredje hånd
+72016	Tredje hÃ¥nd
+72017	Tredje hÃ¥nd
+72018	Tredje hÃ¥nd
 72019	Lagerkiste
 72020	Lagerkiste
 72021	Lagerkiste
@@ -5269,9 +5269,9 @@ VNUM	LOCALE_NAME
 72025	Kritisk kamp
 72026	Kritisk kamp
 72027	Kritisk kamp
-72028	Følelsesmaske
-72029	Følelsesmaske
-72030	Følelsesmaske
+72028	FÃ¸lelsesmaske
+72029	FÃ¸lelsesmaske
+72030	FÃ¸lelsesmaske
 72031	Dragegudens angreb
 72032	Dragegudens angreb
 72033	Dragegudens angreb
@@ -5309,83 +5309,83 @@ VNUM	LOCALE_NAME
 72501	Erfaringsring (iCafe)
 72502	Tyvens handsker (iCafe)
 72701	Vindsko
-72702	Vindsko+ (omsættelig)
-72703	Tigerknogleørering
-72704	Drageknogleørering
-72705	Tigerknoglearmbånd
-72706	Drageknoglearmbånd
-72709	Tigerknogleørering
-72710	Drageknogleørering
-72711	Tigerknoglearmbånd
-72712	Drageknoglearmbånd
+72702	Vindsko+ (omsÃ¦ttelig)
+72703	TigerknogleÃ¸rering
+72704	DrageknogleÃ¸rering
+72705	TigerknoglearmbÃ¥nd
+72706	DrageknoglearmbÃ¥nd
+72709	TigerknogleÃ¸rering
+72710	DrageknogleÃ¸rering
+72711	TigerknoglearmbÃ¥nd
+72712	DrageknoglearmbÃ¥nd
 72723	Sol Eliksir (L)
 72724	Sol Eliksir (M)
 72725	Sol Eliksir (S)
 72726	Sol Eliksir (E)
-72727	Måne Eliksir (L)
-72728	Måne Eliksir (M)
-72729	Måne Eliksir (S)
-72730	Måne Eliksir (E)
-73001	Trendy Frisure (Rød)
+72727	MÃ¥ne Eliksir (L)
+72728	MÃ¥ne Eliksir (M)
+72729	MÃ¥ne Eliksir (S)
+72730	MÃ¥ne Eliksir (E)
+73001	Trendy Frisure (RÃ¸d)
 73002	Trendy Frisure (lys)
-73003	Trendy Frisure (blå)
+73003	Trendy Frisure (blÃ¥)
 73004	Trendy Frisure (brun)
-73005	Pande-tørklæde
-73006	Pande-tørklæde
-73007	Pande-tørklæde
-73008	Pande-tørklæde
-73009	Langt hår (sort)
-73010	Langt hår (rød)
-73011	Langt hår (brun)
-73012	Langt hår (grøn)
+73005	Pande-tÃ¸rklÃ¦de
+73006	Pande-tÃ¸rklÃ¦de
+73007	Pande-tÃ¸rklÃ¦de
+73008	Pande-tÃ¸rklÃ¦de
+73009	Langt hÃ¥r (sort)
+73010	Langt hÃ¥r (rÃ¸d)
+73011	Langt hÃ¥r (brun)
+73012	Langt hÃ¥r (grÃ¸n)
 73251	Hestehale (brun)
-73252	Hestehale (grøn)
-73253	Hestehale (blå)
+73252	Hestehale (grÃ¸n)
+73253	Hestehale (blÃ¥)
 73254	Hestehale (lys)
-73255	Skulderlangt hår (rød)
-73256	Skulderlangt hår (brun)
-73257	Skulderlangt hår (lys)
-73258	Skulderlangt hår (lilla)
-73259	Korthår (rød)
-73260	Korthår (blå)
-73261	Korthår (sort)
-73262	Korthår (blond)
+73255	Skulderlangt hÃ¥r (rÃ¸d)
+73256	Skulderlangt hÃ¥r (brun)
+73257	Skulderlangt hÃ¥r (lys)
+73258	Skulderlangt hÃ¥r (lilla)
+73259	KorthÃ¥r (rÃ¸d)
+73260	KorthÃ¥r (blÃ¥)
+73261	KorthÃ¥r (sort)
+73262	KorthÃ¥r (blond)
 73501	Sportslig frisure (lys)
 73502	Sportslig frisure (brun)
 73503	Sportsligfrisure (blond)
-73504	Sportslig frisure (grøn)
+73504	Sportslig frisure (grÃ¸n)
 73505	Karisma-frisure (hvid)
-73506	Karisma-frisure (rød)
+73506	Karisma-frisure (rÃ¸d)
 73507	Karisma-frisure (sort)
 73508	Karisma-frisure (violet)
 73509	Lang Rottehale (hvid)
-73510	Lang Rottehale (blå)
+73510	Lang Rottehale (blÃ¥)
 73511	Lang Rottehale (sort)
 73512	Lang Rottehale (brun)
-73751	Ædel frisure (brun)
-73752	Ædel frisure (sort)
-73753	Ædel frisure (blå)
-73754	Ædel frisure (lys)
-73755	Halvlangt hår (brunt)
-73756	Halvlangt hår (sort)
-73757	Halvlangt hår (blond)
-73758	Halvlangt hår (violet)
+73751	Ã†del frisure (brun)
+73752	Ã†del frisure (sort)
+73753	Ã†del frisure (blÃ¥)
+73754	Ã†del frisure (lys)
+73755	Halvlangt hÃ¥r (brunt)
+73756	Halvlangt hÃ¥r (sort)
+73757	Halvlangt hÃ¥r (blond)
+73758	Halvlangt hÃ¥r (violet)
 73759	Gammel Frisure (brun)
 73760	Gammel Frisure (lys)
 73761	Gammel Frisure (violet)
-73762	Gammel Frisure (rød)
-74001	Trendy Frisure (rød)
+73762	Gammel Frisure (rÃ¸d)
+74001	Trendy Frisure (rÃ¸d)
 74002	Trendy Frisure (lys)
-74003	Trendy Frisure (blå)
+74003	Trendy Frisure (blÃ¥)
 74004	Trendy Frisure (brun)
-74005	Pandebånd (rød)
-74006	Pandebånd (brunternet)
-74007	Pandebånd (blå)
-74008	Pandebånd (grønternet)
-74009	Langt hår (sort)
-74010	Langt hår (rød)
-74011	Langt hår (brun)
-74012	Langt hår (grøn)
+74005	PandebÃ¥nd (rÃ¸d)
+74006	PandebÃ¥nd (brunternet)
+74007	PandebÃ¥nd (blÃ¥)
+74008	PandebÃ¥nd (grÃ¸nternet)
+74009	Langt hÃ¥r (sort)
+74010	Langt hÃ¥r (rÃ¸d)
+74011	Langt hÃ¥r (brun)
+74012	Langt hÃ¥r (grÃ¸n)
 74013	Kriger Afro (Mandlig)
 74014	Kriger Afro (Mandlig)
 74015	Kriger Samuraihjelm (M)
@@ -5395,35 +5395,35 @@ VNUM	LOCALE_NAME
 74019	Kriger Turban (M)
 74020	Jack O' Kriger (m)
 74251	Hestehale (brun)
-74252	Hestehale (grøn)
-74253	Hestehale (blå)
+74252	Hestehale (grÃ¸n)
+74253	Hestehale (blÃ¥)
 74254	Hestehale (lys)
-74255	Skulderlangt hår (rød)
-74256	Skulderlangt hår (brun)
-74257	Skulderlangt hår (lys)
-74258	Skulderlangt hår (lilla)
-74259	Kort hår frisure (rød)
-74260	Korthår frisure (blå)
-74261	Korthår frisure (sort)
-74262	Korthår frisure (blond)
+74255	Skulderlangt hÃ¥r (rÃ¸d)
+74256	Skulderlangt hÃ¥r (brun)
+74257	Skulderlangt hÃ¥r (lys)
+74258	Skulderlangt hÃ¥r (lilla)
+74259	Kort hÃ¥r frisure (rÃ¸d)
+74260	KorthÃ¥r frisure (blÃ¥)
+74261	KorthÃ¥r frisure (sort)
+74262	KorthÃ¥r frisure (blond)
 74263	Ninja Afro (Kvindelig)
 74264	Ninja Afro (Kvindelig)
 74265	Ninja Blomsterhat (K)
 74266	Ninja Blomsterhat (K)
 74267	Ninja Ansigt-sjal (K)
-74268	Ninja Ørkensjal (K)
+74268	Ninja Ã˜rkensjal (K)
 74269	Ninja Turban (K)
 74270	Jack O' Ninja (f)
 74501	Sportslig frisure (lys)
 74502	Sportslig frisure (brun)
 74503	Sportsligfrisure (blond)
-74504	Sportslig frisure (grøn)
+74504	Sportslig frisure (grÃ¸n)
 74505	Karisma-frisure (hvid)
-74506	Karismatisk frisur (rød)
+74506	Karismatisk frisur (rÃ¸d)
 74507	Karisma-frisure (sort)
 74508	Karisma-frisure (violet)
 74509	Lang Rottehale (hvid)
-74510	Lang Rottehale (blå)
+74510	Lang Rottehale (blÃ¥)
 74511	Lang Rottehale (sort)
 74512	Lang Rottehale (brun)
 74513	Sura Afro (Mandlig)
@@ -5434,58 +5434,58 @@ VNUM	LOCALE_NAME
 74518	Sura Keffiyeh (M)
 74519	Sura Turban (M)
 74520	Jack O' Sura (m)
-74751	Ædel frisure (brun)
-74752	Ædel frisure (sort)
-74753	Ædel frisure (blå)
-74754	Ædel frisure (lys)
-74755	Halvlangt hår (brun)
-74756	Halvlangt hår (sort)
-74757	Halvlangt hår (blond)
-74758	Halvlangt hår (violet)
+74751	Ã†del frisure (brun)
+74752	Ã†del frisure (sort)
+74753	Ã†del frisure (blÃ¥)
+74754	Ã†del frisure (lys)
+74755	Halvlangt hÃ¥r (brun)
+74756	Halvlangt hÃ¥r (sort)
+74757	Halvlangt hÃ¥r (blond)
+74758	Halvlangt hÃ¥r (violet)
 74759	Gammel Frisure (brun)
 74760	Gammel Frisure (blondt)
 74761	Gammel Frisure (violet)
-74762	Gammel Frisure (rød)
+74762	Gammel Frisure (rÃ¸d)
 74763	Shaman Afro (Kvindelig)
 74764	Shaman Afro (Kvindelig)
 74765	Shaman Blomster Hat (F)
 74766	Shaman Blomster Hat (F)
 74767	Shaman Ansigt-sjal (K)
-74768	Shaman Ørkensjal (K)
+74768	Shaman Ã˜rkensjal (K)
 74769	Shaman Turban (K)
 74770	Jack O' Shaman (f)
-75001	Trendy Frisure (rød)
+75001	Trendy Frisure (rÃ¸d)
 75002	Trendy Frisure (lys)
-75003	Trendy Frisure (blå)
+75003	Trendy Frisure (blÃ¥)
 75004	Trendy Frisure (brun)
-75005	Pandebånd (brun)
-75006	Pandebånd (blond)
-75007	Pandebånd (blå)
-75008	Pandebånd (grøn)
-75009	Langt hår (sort)
-75010	Langt hår (rød)
-75011	Langt hår (brun)
-75012	Langt hår (grøn)
+75005	PandebÃ¥nd (brun)
+75006	PandebÃ¥nd (blond)
+75007	PandebÃ¥nd (blÃ¥)
+75008	PandebÃ¥nd (grÃ¸n)
+75009	Langt hÃ¥r (sort)
+75010	Langt hÃ¥r (rÃ¸d)
+75011	Langt hÃ¥r (brun)
+75012	Langt hÃ¥r (grÃ¸n)
 75013	Kriger Afro (Kvindelig)
 75014	Kriger Afro (Kvindelig)
 75015	Kriger Blomsterhat(K)
 75016	Kriger Blomsterhat (K)
 75017	Kriger Ansigt-sjal (K)
-75018	Kriger Ørkensjal (K)
+75018	Kriger Ã˜rkensjal (K)
 75019	Kriger Turban (K)
 75020	Jack O' Kriger (f)
 75201	Hestehale (brun)
-75202	Hestehale (grøn)
-75203	Hestehale (blå)
+75202	Hestehale (grÃ¸n)
+75203	Hestehale (blÃ¥)
 75204	Hestehale (lys)
-75205	Skulderlangt hår (rød)
-75206	Skulderlangt hår (brun)
-75207	Skulderlangt hår (lys)
-75208	Skulderlangt hår (lilla)
-75209	Korthår (rød)
-75210	Korthår (blå)
-75211	Korthår (sort)
-75212	Korthår (blond)
+75205	Skulderlangt hÃ¥r (rÃ¸d)
+75206	Skulderlangt hÃ¥r (brun)
+75207	Skulderlangt hÃ¥r (lys)
+75208	Skulderlangt hÃ¥r (lilla)
+75209	KorthÃ¥r (rÃ¸d)
+75210	KorthÃ¥r (blÃ¥)
+75211	KorthÃ¥r (sort)
+75212	KorthÃ¥r (blond)
 75213	Ninja Afro (Mandlig)
 75214	Ninja Afro (Mandlig)
 75215	Ninja Samurai Hjelm (M)
@@ -5497,13 +5497,13 @@ VNUM	LOCALE_NAME
 75401	Sportslig frisure (lys)
 75402	Sportslig frisure (brun)
 75403	Sportsligfrisure (blond)
-75404	Sportslig frisure (grøn)
+75404	Sportslig frisure (grÃ¸n)
 75405	Karisma-frisure (hvid)
-75406	Karisma-frisure (rød)
+75406	Karisma-frisure (rÃ¸d)
 75407	Karisma-frisure (sort)
 75408	Karisma-frisure (violet)
 75409	Lang Rottehale (hvid)
-75410	Lang Rottehale (blå)
+75410	Lang Rottehale (blÃ¥)
 75411	Lang Rottehale (sort)
 75412	Lang Rottehale (brun)
 75413	Sura Afro (Kvindelig)
@@ -5511,21 +5511,21 @@ VNUM	LOCALE_NAME
 75415	Sura Blomsterhat (K)
 75416	Sura Blomsterhat (K)
 75417	Sura Ansigt-sjal (K)
-75418	Sura Ørkensjal (K)
+75418	Sura Ã˜rkensjal (K)
 75419	Sura Turban (K)
 75420	Jack O' Sura (f)
-75601	Ædel frisure (brun)
-75602	Ædel frisure (sort)
-75603	Ædel frisure (blå)
-75604	Ædel frisure (lys)
-75605	Halvlangt hår (brun)
-75606	Halvlangt hår (sort)
-75607	Halvlangt hår (blond)
-75608	Halvlangt hår (violet)
+75601	Ã†del frisure (brun)
+75602	Ã†del frisure (sort)
+75603	Ã†del frisure (blÃ¥)
+75604	Ã†del frisure (lys)
+75605	Halvlangt hÃ¥r (brun)
+75606	Halvlangt hÃ¥r (sort)
+75607	Halvlangt hÃ¥r (blond)
+75608	Halvlangt hÃ¥r (violet)
 75609	Gammel Frisure (brun)
 75610	Gammel Frisure (lys)
 75611	Gammel Frisure (violet)
-75612	Gammel Frisure (rød)
+75612	Gammel Frisure (rÃ¸d)
 75613	Shaman Afro (M)
 75614	Shaman Afro (M)
 75615	Shaman Samuraihjelm (M)
@@ -5538,8 +5538,8 @@ VNUM	LOCALE_NAME
 76001	Status-Nulstillings dok.
 76002	Skrumpe-hovede
 76003	Hastigheds eliksir
-76004	Måne eliksir (L)
-76005	Måne eliksir (M)
+76004	MÃ¥ne eliksir (L)
+76005	MÃ¥ne eliksir (M)
 76006	Kompas til metin sten
 76007	Tapperhedens kappe
 76008	Dragens medalje
@@ -5547,7 +5547,7 @@ VNUM	LOCALE_NAME
 76010	Blodsten
 76011	Lederens bog
 76012	Hastighedseliksir
-76013	Forstærk genstand (b)
+76013	ForstÃ¦rk genstand (b)
 76014	Fortryl genstand (b)
 76015	Velsignelseskugle
 76016	Velsignelses dokument
@@ -5557,12 +5557,12 @@ VNUM	LOCALE_NAME
 76020	Forskerens eliksir
 76021	Sol Eliksir (L)
 76022	Sol Eliksir (M)
-76023	Grøn magi
-76024	Grøn styrke
+76023	GrÃ¸n magi
+76024	GrÃ¸n styrke
 80001	Pung
 80002	Blankt Papir
-80003	Sølv bar (50.000 Yang)
-80004	Sølv bar (100.000 Yang)
+80003	SÃ¸lv bar (50.000 Yang)
+80004	SÃ¸lv bar (100.000 Yang)
 80005	Guldbarre (500.000Yang)
 80006	Guld bar (1 Mio. Yang)
 80007	Guld bar (2 Mio. Yang)
@@ -5574,22 +5574,22 @@ VNUM	LOCALE_NAME
 90001	Tom vandflaske
 90002	Vandflaske
 90003	Krystal
-90004	Ædelsten
+90004	Ã†delsten
 90005	Aquasten
-90006	Åndesten
+90006	Ã…ndesten
 90007	Mineral
 90010	Fundamentsten
-90011	Træstamme
-90012	Krydsfinér
+90011	TrÃ¦stamme
+90012	KrydsfinÃ©r
 90013	NoNAme
 100000	Tids eliksir (S)
 100001	Tids eliksir (M)
 100002	Tids eliksir (L)
 100100	Drage tang
 100200	Tang af tid
-100300	Grøn drage bønne
-100400	Blå drage bønne
-100500	Pink drage bønne
+100300	GrÃ¸n drage bÃ¸nne
+100400	BlÃ¥ drage bÃ¸nne
+100500	Pink drage bÃ¸nne
 110000~110099	Uslebet drage diamant
 110100~110199	Uslebet drage diamant
 110200~110299	Uslebet drage diamant
@@ -5600,11 +5600,11 @@ VNUM	LOCALE_NAME
 111200~111299	Slebet drage diamant
 111300~111399	Slebet drage diamant
 111400~111499	Slebet drage diamant
-112000~112099	Sjælden drage diamant
-112100~112199	Sjælden drage diamant
-112200~112299	Sjælden drage diamant
-112300~112399	Sjælden drage diamant
-112400~112499	Sjælden drage diamant
+112000~112099	SjÃ¦lden drage diamant
+112100~112199	SjÃ¦lden drage diamant
+112200~112299	SjÃ¦lden drage diamant
+112300~112399	SjÃ¦lden drage diamant
+112400~112499	SjÃ¦lden drage diamant
 113000~113099	Antik drage diamant
 113100~113199	Antik drage diamant
 113200~113299	Antik drage diamant
@@ -5625,11 +5625,11 @@ VNUM	LOCALE_NAME
 121200~121299	Slebet drage Rubin
 121300~121399	Slebet drage rubin
 121400~121499	Slebet drage Rubin
-122000~122099	Sjælden drage rubin
-122100~122199	Sjælden drage rubin
-122200~122299	Sjælden drage rubin
-122300~122399	Sjælden drage rubin
-122400~122499	Sjælden drage rubin
+122000~122099	SjÃ¦lden drage rubin
+122100~122199	SjÃ¦lden drage rubin
+122200~122299	SjÃ¦lden drage rubin
+122300~122399	SjÃ¦lden drage rubin
+122400~122499	SjÃ¦lden drage rubin
 123000~123099	Antik drage rubin
 123100~123199	Antik drage rubin
 123200~123299	Antik drage rubin
@@ -5650,11 +5650,11 @@ VNUM	LOCALE_NAME
 131200~131299	Slebet drage jade
 131300~131399	Slebet drage jade
 131400~131499	Slebet drage jade
-132000~132099	Sjælden drage jade
-132100~132199	Sjælden drage jade
-132200~132299	Sjælden drage jade
-132300~132399	Sjælden drage jade
-132400~132499	Sjælden drage jade
+132000~132099	SjÃ¦lden drage jade
+132100~132199	SjÃ¦lden drage jade
+132200~132299	SjÃ¦lden drage jade
+132300~132399	SjÃ¦lden drage jade
+132400~132499	SjÃ¦lden drage jade
 133000~133099	Antik drage jade
 133100~133199	Antik drage jade
 133200~133299	Antik drage jade
@@ -5675,11 +5675,11 @@ VNUM	LOCALE_NAME
 141200~141299	Slebet drage safir
 141300~141399	Slebet drage safir
 141400~141499	Slebet drage safir
-142000~142099	Sjælden drage safir
-142100~142199	Sjælden drage safir
-142200~142299	Sjælden drage safir
-142300~142399	Sjælden drage safir
-142400~142499	Sjælden drage safir
+142000~142099	SjÃ¦lden drage safir
+142100~142199	SjÃ¦lden drage safir
+142200~142299	SjÃ¦lden drage safir
+142300~142399	SjÃ¦lden drage safir
+142400~142499	SjÃ¦lden drage safir
 143000~143099	Antik drage safir
 143100~143199	Antik drage safir
 143200~143299	Antik drage safir
@@ -5700,11 +5700,11 @@ VNUM	LOCALE_NAME
 151200~151299	Slebet drage granat
 151300~151399	Slebet drage granat
 151400~151499	Slebet drage granat
-152000~152099	Sjælden drage granat
-152100~152199	Sjælden drage granat
-152200~152299	Sjælden drage granat
-152300~152399	Sjælden drage granat
-152400~152499	Sjælden drage granat
+152000~152099	SjÃ¦lden drage granat
+152100~152199	SjÃ¦lden drage granat
+152200~152299	SjÃ¦lden drage granat
+152300~152399	SjÃ¦lden drage granat
+152400~152499	SjÃ¦lden drage granat
 153000~153099	Antik drage granat
 153100~153199	Antik drage granat
 153200~153299	Antik drage granat
@@ -5725,11 +5725,11 @@ VNUM	LOCALE_NAME
 161200~161299	Slebet drage onyks
 161300~161399	Slebet drage onyks
 161400~161499	Slebet drage onyks
-162000~162099	Sjælden drage onyks
-162100~162199	Sjælden drage onyks
-162200~162299	Sjælden drage onyks
-162300~162399	Sjælden drage onyks
-162400~162499	Sjælden drage onyks
+162000~162099	SjÃ¦lden drage onyks
+162100~162199	SjÃ¦lden drage onyks
+162200~162299	SjÃ¦lden drage onyks
+162300~162399	SjÃ¦lden drage onyks
+162400~162499	SjÃ¦lden drage onyks
 163000~163099	Antik drage onyks
 163100~163199	Antik drage onyks
 163200~163299	Antik drage onyks
