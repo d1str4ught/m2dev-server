@@ -1,4 +1,4 @@
-Group	두목늑대
+Group	Alpha_Wolf
 {
 	Mob	103
 	Type	drop
@@ -7,7 +7,7 @@ Group	두목늑대
 	3	11402	1	0.2
 	4	16022	1	0.2
 }
-Group	푸른늑대
+Group	Blue_Wolf
 {
 	Mob	104
 	Type	drop
@@ -17,7 +17,7 @@ Group	푸른늑대
 	4	2022	1	0.2
 	5	16002	1	0.2
 }
-Group	푸른두목늑대
+Group	Alpha_Blue_Wolf
 {
 	Mob	105
 	Type	drop
@@ -26,7 +26,7 @@ Group	푸른두목늑대
 	3	15022	1	0.2
 	4	16062	1	0.2
 }
-Group	회색두목늑대
+Group	Alpha_Grey_Wolf
 {
 	Mob	107
 	Type	drop
@@ -35,7 +35,7 @@ Group	회색두목늑대
 	3	17022	1	0.2
 	4	17002	1	0.2
 }
-Group	붉은멧돼지
+Group	Red_Wild_Boar
 {
 	Mob	109
 	Type	drop
@@ -45,50 +45,50 @@ Group	붉은멧돼지
 	4	5012	1	0.2
 	5	7032	1	0.2
 }
-Group	회색곰
+Group	Grizzly_Bear
 {
 	Mob	111
 	Type	drop
 	1	50721	1	1
 }
-Group	검은곰
+Group	Black_Bear
 {
 	Mob	112
 	Type	drop
 	1	50723	1	1
 }
-Group	불곰
+Group	Brown_Bear
 {
 	Mob	113
 	Type	drop
 	1	50721	1	1
 }
-Group	대호
+Group	White_Tiger
 {
 	Mob	115
 	Type	drop
 	1	50723	1	1
 }
-Group	저주받은_두목늑대
+Group	Cursed_Wolf
 {
 	Kill_drop	400
 	Mob	131
 	Type	kill
 	1	7160	1	25	10
 }
-Group	저주받은늑대
+Group	Cursed_Wolf
 {
 	Mob	131
 	Type	drop
 	1	50722	1	2
 }
-Group	저주받은두목늑대
+Group	Cursed_Alpha_Wolf
 {
 	Mob	132
 	Type	drop
 	1	50723	1	1
 }
-Group	저주받은_푸른두목늑대
+Group	Cursed_Alpha_Blue_Wolf
 {
 	Kill_drop	400
 	Mob	134
@@ -96,26 +96,26 @@ Group	저주받은_푸른두목늑대
 	1	5110	1	25	10
 	2	290	1	15	10
 }
-Group	저주받은_붉은멧돼지
+Group	Cursed_Red_Wild_Boar
 {
 	Kill_drop	400
 	Mob	138
 	Type	kill
 	1	1170	1	25	10
 }
-Group	저주받은곰
+Group	Cursed_Bear
 {
 	Mob	139
 	Type	drop
 	1	50724	1	1
 }
-Group	저주받은회색곰
+Group	Cursed_Grizzly_Bear
 {
 	Mob	140
 	Type	drop
 	1	50726	1	1
 }
-Group	저주받은_검은곰
+Group	Cursed_Black_Bear
 {
 	Kill_drop	400
 	Mob	141
@@ -124,13 +124,13 @@ Group	저주받은_검은곰
 	2	13193	1	20	20
 	3	3210	1	15	10
 }
-Group	저주받은호랑이
+Group	Cursed_Tiger
 {
 	Mob	143
 	Type	drop
 	1	50723	1	1
 }
-Group	푸른두목늑대청목
+Group	Cung-Mok
 {
 	Mob	151
 	Type	drop
@@ -143,7 +143,7 @@ Group	푸른두목늑대청목
 	7	11404	1	4
 	8	16024	1	4
 }
-Group	회색두목늑대무랑
+Group	Mu-Rang
 {
 	Mob	152
 	Type	drop
@@ -158,7 +158,7 @@ Group	회색두목늑대무랑
 	9	2024	1	4
 	10	16004	1	4
 }
-Group	붉은멧돼지적혈
+Group	Jug-Hyul
 {
 	Mob	153
 	Type	drop
@@ -173,7 +173,7 @@ Group	붉은멧돼지적혈
 	9	5014	1	4
 	10	7034	1	4
 }
-Group	불곰영지
+Group	Young-Ji
 {
 	Mob	154
 	Type	drop
@@ -184,7 +184,7 @@ Group	불곰영지
 	5	11412	1	8
 	6	11413	1	4
 }
-Group	대호일안
+Group	Li-An
 {
 	Mob	155
 	Type	drop
@@ -195,7 +195,7 @@ Group	대호일안
 	5	11812	1	8
 	6	11813	1	4
 }
-Group	산견신
+Group	Lykos
 {
 	Mob	191
 	Type	drop
@@ -213,7 +213,7 @@ Group	산견신
 	12	27006	10	50
 	13	30070	1	400
 }
-Group	저신
+Group	Scrofa
 {
 	Mob	192
 	Type	drop
@@ -230,7 +230,7 @@ Group	저신
 	11	27006	10	50
 	12	30004	1	400
 }
-Group	웅신
+Group	Bera
 {
 	Mob	193
 	Type	drop
@@ -248,7 +248,7 @@ Group	웅신
 	12	27006	10	50
 	13	30072	1	400
 }
-Group	호신
+Group	Tigris
 {
 	Mob	194
 	Type	drop
@@ -266,7 +266,7 @@ Group	호신
 	12	27006	10	50
 	13	30037	1	400
 }
-Group	백결단원
+Group	White_Oath_Soldier
 {
 	Kill_drop	800
 	Mob	301
@@ -276,20 +276,20 @@ Group	백결단원
 	3	16122	1	15	10
 	4	16142	1	10	10
 }
-Group	백결단원
+Group	White_Oath_Soldier
 {
 	Mob	301
 	Type	drop
 	1	50722	1	2
 }
-Group	백결궁병
+Group	White_Oath_Archer
 {
 	Mob	302
 	Type	drop
 	1	8001	30	12
 	2	50724	1	1
 }
-Group	백결장수_이령
+Group	White_Oath_Commander
 {
 	Kill_drop	350
 	Mob	304
@@ -303,7 +303,7 @@ Group	백결장수_이령
 	7	11832	1	65	10
 	8	11833	1	35	10
 }
-Group	백결단원은주
+Group	White_Oath_Soldier
 {
 	Mob	331
 	Type	drop
@@ -312,7 +312,7 @@ Group	백결단원은주
 	3	16123	1	4
 	4	16143	1	4
 }
-Group	백결궁병지영
+Group	White_Oath_Archer
 {
 	Mob	332
 	Type	drop
@@ -322,7 +322,7 @@ Group	백결궁병지영
 	4	2050	1	4
 	5	15122	1	4
 }
-Group	백결장수지연
+Group	White_Oath_General
 {
 	Mob	333
 	Type	drop
@@ -332,7 +332,7 @@ Group	백결장수지연
 	4	2050	1	4
 	5	15122	1	4
 }
-Group	백결장수인자
+Group	White_Oath_Commander
 {
 	Mob	334
 	Type	drop
@@ -345,7 +345,7 @@ Group	백결장수인자
 	7	11834	1	6
 	8	11833	1	4
 }
-Group	미정
+Group	Mi-Jung
 {
 	Mob	391
 	Type	drop
@@ -355,7 +355,7 @@ Group	미정
 	4	12640	1	0.2
 	5	15062	1	0.2
 }
-Group	은정
+Group	Eun-Jung
 {
 	Mob	392
 	Type	drop
@@ -365,7 +365,7 @@ Group	은정
 	4	2050	1	0.2
 	5	15122	1	0.01
 }
-Group	세랑
+Group	Se-Rang
 {
 	Mob	393
 	Type	drop
@@ -379,7 +379,7 @@ Group	세랑
 	8	27005	20	50
 	9	27006	10	50
 }
-Group	진희
+Group	Jin-Hee
 {
 	Mob	394
 	Type	drop
@@ -393,7 +393,7 @@ Group	진희
 	8	27005	20	50
 	9	27006	10	50
 }
-Group	흑풍단원
+Group	Black_Wind_Soldier
 {
 	Kill_drop	1000
 	Mob	401
@@ -403,20 +403,20 @@ Group	흑풍단원
 	3	15122	1	15	10
 	4	15142	1	10	10
 }
-Group	흑풍단원
+Group	Black_Wind_Soldier
 {
 	Mob	401
 	Type	drop
 	1	50724	1	1
 }
-Group	흑풍궁수
+Group	Black_Wind_Archer
 {
 	Mob	403
 	Type	drop
 	1	50007	1	0.5
 	2	8001	30	4
 }
-Group	흑풍장수_작도
+Group	Black_Wind_Jak-To
 {
 	Kill_drop	800
 	Mob	404
@@ -432,7 +432,7 @@ Group	흑풍장수_작도
 	9	12642	1	35	10
 	10	12643	1	15	10
 }
-Group	흑풍장수_도수
+Group	Black_Wind_To-Su
 {
 	Kill_drop	500
 	Mob	405
@@ -442,13 +442,13 @@ Group	흑풍장수_도수
 	3	4022	1	1	10
 	4	1042	1	1	10
 }
-Group	흑풍장수도수
+Group	Black_Wind_To-Su
 {
 	Mob	405
 	Type	drop
 	1	50721	1	1
 }
-Group	흑풍장수_구령
+Group	Black_Wind_Gu-Ryung
 {
 	Kill_drop	300
 	Mob	406
@@ -456,7 +456,7 @@ Group	흑풍장수_구령
 	1	82	1	65	10
 	2	83	1	35	10
 }
-Group	흑풍단원두봉
+Group	Black_Storm_Soldier
 {
 	Mob	431
 	Type	drop
@@ -466,7 +466,7 @@ Group	흑풍단원두봉
 	4	12363	1	4
 	5	50009	1	2
 }
-Group	흑풍돌격대상두
+Group	Black_Storm_Maniac
 {
 	Mob	432
 	Type	drop
@@ -476,7 +476,7 @@ Group	흑풍돌격대상두
 	4	12643	1	4
 	5	50009	1	2
 }
-Group	흑풍궁수관규
+Group	Black_Storm_Archer
 {
 	Mob	433
 	Type	drop
@@ -486,7 +486,7 @@ Group	흑풍궁수관규
 	4	1042	1	4
 	5	50009	1	2
 }
-Group	흑풍장수세민
+Group	Black_Storm_Joh-Hwan
 {
 	Mob	434
 	Type	drop
@@ -496,7 +496,7 @@ Group	흑풍장수세민
 	4	15060	1	4
 	5	50009	1	2
 }
-Group	흑풍장수민호
+Group	Black_Storm_Kyuk-Jang
 {
 	Mob	435
 	Type	drop
@@ -506,7 +506,7 @@ Group	흑풍장수민호
 	4	11820	1	4
 	5	50009	1	2
 }
-Group	흑풍장수윤석
+Group	Black_Storm_Pho-Hwan
 {
 	Mob	436
 	Type	drop
@@ -517,7 +517,7 @@ Group	흑풍장수윤석
 	5	15102	1	4
 	6	50009	1	2
 }
-Group	맹환
+Group	Mahon
 {
 	Mob	491
 	Type	drop
@@ -531,7 +531,7 @@ Group	맹환
 	8	27005	20	50
 	9	27006	10	50
 }
-Group	보우
+Group	Bo
 {
 	Mob	492
 	Type	drop
@@ -544,7 +544,7 @@ Group	보우
 	7	27005	20	50
 	8	27006	10	50
 }
-Group	구패
+Group	Goo-Pae
 {
 	Mob	493
 	Type	drop
@@ -557,7 +557,7 @@ Group	구패
 	7	27005	20	50
 	8	27006	10	50
 }
-Group	추흔
+Group	Chuong
 {
 	Mob	494
 	Type	drop
@@ -571,7 +571,7 @@ Group	추흔
 	8	27005	20	50
 	9	27006	10	50
 }
-Group	오랑케졸개
+Group	Savage_Minion
 {
 	Kill_drop	2000
 	Mob	502
@@ -581,13 +581,13 @@ Group	오랑케졸개
 	3	17122	1	15	10
 	4	17142	1	10	10
 }
-Group	오랑케졸개
+Group	Savage_Minion
 {
 	Mob	502
 	Type	drop
 	1	50724	1	1
 }
-Group	오랑캐궁수
+Group	Savage_Archer
 {
 	Mob	503
 	Type	drop
@@ -595,7 +595,7 @@ Group	오랑캐궁수
 	2	8001	50	20
 	3	50721	1	1
 }
-Group	오랑케궁수
+Group	Savage_Archer
 {
 	Kill_drop	500
 	Mob	503
@@ -604,7 +604,7 @@ Group	오랑케궁수
 	2	290	1	10	10
 	3	2150	1	15	10
 }
-Group	오랑케장수
+Group	Savage_General
 {
 	Kill_drop	400
 	Mob	504
@@ -622,13 +622,13 @@ Group	오랑케장수
 	11	11842	1	35	10
 	12	11843	1	15	10
 }
-Group	오랑케장수
+Group	Savage_General
 {
 	Mob	504
 	Type	drop
 	1	50725	1	1
 }
-Group	오랑캐보병비연
+Group	Bestial_Soldier
 {
 	Mob	531
 	Type	drop
@@ -638,7 +638,7 @@ Group	오랑캐보병비연
 	4	17143	1	4
 	5	50008	1	2
 }
-Group	오랑캐졸개강두
+Group	Bestial_Maniac
 {
 	Mob	532
 	Type	drop
@@ -648,7 +648,7 @@ Group	오랑캐졸개강두
 	4	16143	1	4
 	5	50008	1	2
 }
-Group	오랑캐궁수상천
+Group	Bestial_Archer
 {
 	Mob	533
 	Type	drop
@@ -657,7 +657,7 @@ Group	오랑캐궁수상천
 	3	2152	1	4
 	4	50008	1	2
 }
-Group	오랑캐부단장강천
+Group	Bestial_Specialist
 {
 	Mob	534
 	Type	drop
@@ -675,7 +675,7 @@ Group	오랑캐부단장강천
 	12	11843	1	4
 	13	50008	1	2
 }
-Group	비류단대장
+Group	Bestial_Captain
 {
 	Mob	591
 	Type	drop
@@ -688,7 +688,7 @@ Group	비류단대장
 	7	27005	30	50
 	8	27006	20	50
 }
-Group	진웅귀병둔살라
+Group	Orc
 {
 	Mob	601
 	Type	drop
@@ -699,7 +699,7 @@ Group	진웅귀병둔살라
 	5	14122	1	4
 	6	14142	1	4
 }
-Group	진웅귀척후병사실리
+Group	Orc_Scout
 {
 	Mob	602
 	Type	drop
@@ -707,7 +707,7 @@ Group	진웅귀척후병사실리
 	2	1053	1	8
 	3	1172	1	8
 }
-Group	진웅귀투병무로도
+Group	Orc_Fighter
 {
 	Mob	603
 	Type	drop
@@ -717,7 +717,7 @@ Group	진웅귀투병무로도
 	4	17100	1	8
 	5	15102	1	4
 }
-Group	진웅귀마병두오쿠
+Group	Orc_Sorcerer
 {
 	Mob	604
 	Type	drop
@@ -726,7 +726,7 @@ Group	진웅귀마병두오쿠
 	3	11422	1	4
 	4	15122	1	4
 }
-Group	진웅귀병
+Group	Elite_Orc
 {
 	Kill_drop	400
 	Mob	631
@@ -738,13 +738,13 @@ Group	진웅귀병
 	5	14122	1	15	10
 	6	14142	1	10	10
 }
-Group	진웅귀병
+Group	Elite_Orc
 {
 	Mob	631
 	Type	drop
 	1	50722	1	1
 }
-Group	진웅귀_척후병
+Group	Elite_Orc_Scout
 {
 	Kill_drop	600
 	Mob	632
@@ -753,13 +753,13 @@ Group	진웅귀_척후병
 	2	1052	1	10	20
 	3	1170	1	10	20
 }
-Group	진웅귀척후병
+Group	Elite_Orc_Scout
 {
 	Mob	632
 	Type	drop
 	1	50726	1	1
 }
-Group	진웅귀_투병
+Group	Elite_Orc_Fighter
 {
 	Kill_drop	1200
 	Mob	633
@@ -767,7 +767,7 @@ Group	진웅귀_투병
 	1	3082	1	10	20
 	2	1170	1	10	20
 }
-Group	진웅귀투병
+Group	Elite_Orc_Fighter
 {
 	Mob	633
 	Type	drop
@@ -776,7 +776,7 @@ Group	진웅귀투병
 	3	11432	1	0.2
 	4	15122	1	0.2
 }
-Group	진웅귀마병
+Group	Elite_Orc_Sorcerer
 {
 	Mob	634
 	Type	drop
@@ -785,13 +785,13 @@ Group	진웅귀마병
 	3	11422	1	0.2
 	4	15122	1	0.2
 }
-Group	진웅귀장군
+Group	Elite_Orc_General
 {
 	Mob	635
 	Type	drop
 	1	50722	1	1
 }
-Group	흑웅귀
+Group	Black_Orc
 {
 	Kill_drop	500
 	Mob	636
@@ -799,13 +799,13 @@ Group	흑웅귀
 	1	7092	1	65	10
 	2	7093	1	35	10
 }
-Group	흥웅귀
+Group	Black_Orc
 {
 	Mob	636
 	Type	drop
 	1	50721	1	4
 }
-Group	거대_흑웅귀
+Group	Black_Orc_Giant
 {
 	Kill_drop	900
 	Mob	637
@@ -813,14 +813,14 @@ Group	거대_흑웅귀
 	1	5062	1	65	10
 	2	5063	1	35	10
 }
-Group	웅귀족장
+Group	Chief_Orc
 {
 	Kill_drop	1
 	Mob	691
 	Type	kill
 	1	50070	1	100	0
 }
-Group	웅귀족장
+Group	Chief_Orc
 {
 	Mob	691
 	Type	drop
@@ -830,7 +830,7 @@ Group	웅귀족장
 	4	27006	100	400
 	5	90010	1	40
 }
-Group	밀교추종자
+Group	Dark_Fanatic
 {
 	Kill_drop	300
 	Mob	701
@@ -841,7 +841,7 @@ Group	밀교추종자
 	4	15202	1	12	10
 	5	15222	1	8	10
 }
-Group	밀교나한병
+Group	Dark_Arahan
 {
 	Kill_drop	500
 	Mob	702
@@ -856,13 +856,13 @@ Group	밀교나한병
 	8	11853	1	60	10
 	9	3210	1	40	10
 }
-Group	밀교나한병
+Group	Dark_Arahan
 {
 	Mob	702
 	Type	drop
 	1	50725	1	1
 }
-Group	밀교나한투병
+Group	Esoteric_Arahan_Fighter
 {
 	Kill_drop	200
 	Mob	703
@@ -873,7 +873,7 @@ Group	밀교나한투병
 	4	15223	1	10	10
 	5	3210	1	20	10
 }
-Group	밀교나한투병
+Group	Esoteric_Arahan_Fighter
 {
 	Mob	703
 	Type	drop
@@ -884,7 +884,7 @@ Group	밀교나한투병
 	5	16162	1	0.2
 	6	50724	1	1
 }
-Group	밀교나한장
+Group	Chief_Esoteric_Arahan
 {
 	Kill_drop	500
 	Mob	704
@@ -892,19 +892,19 @@ Group	밀교나한장
 	1	1062	1	65	10
 	2	1063	1	35	10
 }
-Group	밀교나한장
+Group	Chief_Esoteric_Arahan
 {
 	Mob	704
 	Type	drop
 	1	50723	1	2
 }
-Group	밀교집행병
+Group	Esoteric_Executioner
 {
 	Mob	705
 	Type	drop
 	1	50724	1	1
 }
-Group	밀교강박령
+Group	Dark_Tormentor
 {
 	Kill_drop	100
 	Mob	706
@@ -920,7 +920,7 @@ Group	밀교강박령
 	9	12662	1	20	10
 	10	12663	1	15	10
 }
-Group	밀교소환령
+Group	Dark_Summoner
 {
 	Kill_drop	40
 	Mob	707
@@ -934,25 +934,25 @@ Group	밀교소환령
 	7	16202	1	18	30
 	8	16203	1	9	30
 }
-Group	밀교소환령
+Group	Dark_Summoner
 {
 	Mob	707
 	Type	drop
 	1	50723	1	1
 }
-Group	진밀교추종자
+Group	Proud_Dark_Fanatic
 {
 	Mob	731
 	Type	drop
 	1	50726	1	2
 }
-Group	진밀교나한투병
+Group	Proud_Dark_Fighter
 {
 	Mob	733
 	Type	drop
 	1	50725	1	2
 }
-Group	진밀교나한장
+Group	Proud_Dark_Colonel
 {
 	Kill_drop	700
 	Mob	734
@@ -966,7 +966,7 @@ Group	진밀교나한장
 	7	11860	1	65	20
 	8	11861	1	35	20
 }
-Group	진밀교강박령
+Group	Elite_Esoteric_Tormentor
 {
 	Kill_drop	300
 	Mob	736
@@ -974,13 +974,13 @@ Group	진밀교강박령
 	1	122	1	65	10
 	2	123	1	35	10
 }
-Group	진밀교강박령
+Group	Elite_Esoteric_Tormentor
 {
 	Mob	736
 	Type	drop
 	1	50725	1	2
 }
-Group	진밀교소환령
+Group	Elite_Esoteric_Summoner
 {
 	Kill_drop	300
 	Mob	737
@@ -988,20 +988,20 @@ Group	진밀교소환령
 	1	3111	1	65	10
 	2	3112	1	35	10
 }
-Group	진밀교소환령
+Group	Elite_Esoteric_Summoner
 {
 	Mob	737
 	Type	drop
 	1	50727	1	0.8
 }
-Group	밀교교주
+Group	Dark_Leader
 {
 	Kill_drop	1
 	Mob	791
 	Type	kill
 	1	50071	1	100	0
 }
-Group	밀교교주
+Group	Dark_Leader
 {
 	Mob	791
 	Type	drop
@@ -1011,7 +1011,7 @@ Group	밀교교주
 	4	27006	100	400
 	5	90012	1	50
 }
-Group	환생한밀교교주
+Group	Dark-Ghost_Leader
 {
 	Mob	792
 	Type	drop
@@ -1021,7 +1021,7 @@ Group	환생한밀교교주
 	4	27006	100	400
 	5	90012	1	200
 }
-Group	시귀
+Group	Dead_Body_Ghost
 {
 	Kill_drop	500
 	Mob	901
@@ -1031,7 +1031,7 @@ Group	시귀
 	3	15202	1	6	30
 	4	15222	1	3	30
 }
-Group	시귀
+Group	Dead_Body_Ghost
 {
 	Mob	901
 	Type	drop
@@ -1040,7 +1040,7 @@ Group	시귀
 	3	11442	1	0.2
 	4	15122	1	0.2
 }
-Group	괴질감염견
+Group	Plagued_Dog
 {
 	Kill_drop	400
 	Mob	902
@@ -1052,20 +1052,20 @@ Group	괴질감염견
 	5	17202	1	6	30
 	6	17203	1	3	30
 }
-Group	괴질감염견
+Group	Plagued_Dog
 {
 	Mob	902
 	Type	drop
 	1	27110	1	1
 	2	50008	1	0.2
 }
-Group	괴질감염자
+Group	Plagued_Man
 {
 	Mob	903
 	Type	drop
 	1	50723	1	1
 }
-Group	괴질감염병
+Group	Plagued_Swordman
 {
 	Kill_drop	450
 	Mob	904
@@ -1075,14 +1075,14 @@ Group	괴질감염병
 	3	1092	1	6	10
 	4	1093	1	3	10
 }
-Group	괴질감염병
+Group	Plagued_Swordman
 {
 	Mob	904
 	Type	drop
 	1	27110	1	1
 	2	50008	1	0.2
 }
-Group	괴질감염창병
+Group	Plagued_Spearman
 {
 	Kill_drop	900
 	Mob	905
@@ -1090,7 +1090,7 @@ Group	괴질감염창병
 	1	2122	1	65	10
 	2	2123	1	35	10
 }
-Group	괴질감염창병
+Group	Plagued_Spearman
 {
 	Mob	905
 	Type	drop
@@ -1098,7 +1098,7 @@ Group	괴질감염창병
 	2	50008	1	0.2
 	3	50722	1	2
 }
-Group	괴질감염궁수
+Group	Plagued_Archer
 {
 	Kill_drop	250
 	Mob	906
@@ -1112,7 +1112,7 @@ Group	괴질감염궁수
 	7	12662	1	6	10
 	8	12663	1	3	10
 }
-Group	괴질감염궁수
+Group	Plagued_Archer
 {
 	Mob	906
 	Type	drop
@@ -1120,7 +1120,7 @@ Group	괴질감염궁수
 	2	8004	100	20
 	3	50723	1	2
 }
-Group	괴질감염대장
+Group	Plagued_Leader
 {
 	Kill_drop	200
 	Mob	907
@@ -1128,7 +1128,7 @@ Group	괴질감염대장
 	1	3122	1	65	10
 	2	3123	1	30	10
 }
-Group	괴질감염대장
+Group	Plagued_Leader
 {
 	Mob	907
 	Type	drop
@@ -1140,20 +1140,20 @@ Group	괴질감염대장
 	6	70049	1	0.1
 	7	50728	1	1
 }
-Group	사귀병
+Group	Demon_Soldier
 {
 	Mob	1001
 	Type	drop
 	1	50728	1	1
 }
-Group	사귀궁병
+Group	Demon_Archer
 {
 	Kill_drop	200
 	Mob	1002
 	Type	kill
 	1	2122	1	35	0
 }
-Group	사귀궁병
+Group	Demon_Archer
 {
 	Mob	1002
 	Type	drop
@@ -1161,7 +1161,7 @@ Group	사귀궁병
 	2	8005	100	20
 	3	50724	1	1
 }
-Group	사귀창병
+Group	Demon_Spearman
 {
 	Kill_drop	100
 	Mob	1003
@@ -1175,13 +1175,13 @@ Group	사귀창병
 	7	14202	1	18	30
 	8	14203	1	9	30
 }
-Group	사귀창병
+Group	Demon_Spearman
 {
 	Mob	1003
 	Type	drop
 	1	50721	1	2
 }
-Group	사귀주술사
+Group	Demon_Shaman
 {
 	Kill_drop	50
 	Mob	1004
@@ -1189,34 +1189,34 @@ Group	사귀주술사
 	1	3122	1	65	10
 	2	3123	1	35	10
 }
-Group	전귀궁병
+Group	Vile_Demon_Archer
 {
 	Mob	1032
 	Type	drop
 	1	50012	1	0.9
 	2	8005	100	20
 }
-Group	부활한전귀병
+Group	Brutal_Demon_Soldier
 {
 	Kill_drop	0
 	Mob	1061
 	Type	kill
 }
-Group	부활한전귀병
+Group	Brutal_Demon_Soldier
 {
 	Mob	1061
 	Type	drop
 	1	50724	1	2
 	2	30193	1	0.02
 }
-Group	부활한전귀궁병
+Group	Brutal_Demon_Archer
 {
 	Kill_drop	0.0
 	Mob	1062
 	Type	drop
 	1	30193	1	0.02
 }
-Group	부활한전귀창병
+Group	Brutal_Demonspearman
 {
 	Kill_drop	10000
 	Mob	1063
@@ -1230,20 +1230,20 @@ Group	부활한전귀창병
 	7	11671	1	1	20
 	8	11871	1	1	20
 }
-Group	부활한전귀창병
+Group	Brutal_Demonspearman
 {
 	Mob	1063
 	Type	drop
 	1	50726	1	2
 	2	30193	1	0.02
 }
-Group	Refining_1064
+Group	Brutal_Demon_Shaman
 {
 	Mob	1064
 	Type	drop
 	1	30193	1	0.2
 }
-Group	부활한전귀주술사
+Group	Brutal_Demon_Shaman
 {
 	Kill_drop	10000
 	Mob	1064
@@ -1257,7 +1257,7 @@ Group	부활한전귀주술사
 	7	11671	1	10	20
 	8	11871	1	10	20
 }
-Group	부활한원망의망령
+Group	Brutal_Ghost_of_Grudge
 {
 	Kill_drop	40000
 	Mob	1065
@@ -1277,37 +1277,37 @@ Group	부활한원망의망령
 	13	7130	1	1	10
 	14	2140	1	1	10
 }
-Group	부활한원망의망령
+Group	Brutal_Ghost_of_Grudge
 {
 	Mob	1065
 	Type	drop
 	1	50728	1	2
 }
-Group	부활한혼돈의망령
+Group	Brutal_Ghost_of_Chaos
 {
 	Kill_drop	0
 	Mob	1066
 	Type	kill
 }
-Group	부활한혼돈의망령
+Group	Brutal_Ghost_of_Chaos
 {
 	Mob	1066
 	Type	drop
 	1	50724	1	2
 }
-Group	부활한지마장
+Group	Ghost_Sword_Master
 {
 	Kill_drop	0
 	Mob	1068
 	Type	kill
 }
-Group	부활한지마장
+Group	Ghost_Sword_Master
 {
 	Mob	1068
 	Type	drop
 	1	50721	1	4
 }
-Group	부활한지마장
+Group	Ghost_Sword_Master
 {
 	Level_limit	75
 	Mob	1068
@@ -1321,19 +1321,19 @@ Group	부활한지마장
 	7	7140	1	0.08
 	8	13120	1	0.01
 }
-Group	부활한전령사
+Group	Brutal_Flying_Skull
 {
 	Kill_drop	0
 	Mob	1069
 	Type	kill
 }
-Group	부활한전령사
+Group	Brutal_Flying_Skull
 {
 	Mob	1069
 	Type	drop
 	1	50725	1	2
 }
-Group	부활한전령사
+Group	Brutal_Flying_Skull
 {
 	Level_limit	75
 	Mob	1069
@@ -1347,19 +1347,19 @@ Group	부활한전령사
 	7	160	1	0.08
 	8	13100	1	0.01
 }
-Group	부활한불사귀
+Group	Immortal_Ghost
 {
 	Kill_drop	0
 	Mob	1070
 	Type	kill
 }
-Group	부활한불사귀
+Group	Immortal_Ghost
 {
 	Mob	1070
 	Type	drop
 	1	50727	1	1
 }
-Group	부활한불사귀
+Group	Immortal_Ghost
 {
 	Level_limit	75
 	Mob	1070
@@ -1372,19 +1372,19 @@ Group	부활한불사귀
 	6	5100	1	0.08
 	7	13080	1	0.01
 }
-Group	부활한재활괴물
+Group	Demonic_Beast
 {
 	Kill_drop	0
 	Mob	1071
 	Type	kill
 }
-Group	부활한재활괴물
+Group	Demonic_Beast
 {
 	Mob	1071
 	Type	drop
 	1	50721	1	4
 }
-Group	부활한재활괴물
+Group	Demonic_Beast
 {
 	Level_limit	75
 	Mob	1071
@@ -1401,7 +1401,7 @@ Group	부활한재활괴물
 	10	13060	1	0.01
 }
 
-Group	사귀왕
+Group	Demon_King
 {
 	Mob	1091
 	Type	drop
@@ -1426,34 +1426,34 @@ Group	사귀왕
 	19	27006	20	100
 	20	50300	1	400
 }
-Group	사귀왕
+Group	Proud_Demon_King
 {
 	Kill_drop	1
 	Mob	1092
 	Type	kill
 	1	50081	1	100	0
 }
-Group	사신
+Group	Death_Reaper
 {
 	Level_limit	75
 	Mob	1093
 	Type	limit
 	1	50082	1	100
 }
-Group	빙마
+Group	Enchanted_Ice
 {
 	Mob	1101
 	Type	drop
 	1	90011	1	0.09
 }
-Group	얼음뿔범고래
+Group	Ice_Killer_Whale
 {
 	Mob	1102
 	Type	drop
 	1	90011	1	0.1
 	2	50728	1	1
 }
-Group	빙충
+Group	Ice_Bug
 {
 	Mob	1103
 	Type	drop
@@ -1466,7 +1466,7 @@ Group	빙충
 	7	90011	1	0.2
 	8	50722	1	1
 }
-Group	설구
+Group	Ice_Lion
 {
 	Kill_drop	350
 	Mob	1104
@@ -1480,13 +1480,13 @@ Group	설구
 	7	12523	1	3	30
 	8	12663	1	3	30
 }
-Group	설구
+Group	Ice_Lion
 {
 	Mob	1104
 	Type	drop
 	1	50723	1	2
 }
-Group	빙인
+Group	Frosty_Ice_Man
 {
 	Kill_drop	700
 	Mob	1105
@@ -1500,7 +1500,7 @@ Group	빙인
 	7	11862	1	6	20
 	8	11863	1	3	20
 }
-Group	빙인
+Group	Frosty_Ice_Man
 {
 	Mob	1105
 	Type	drop
@@ -1512,7 +1512,7 @@ Group	빙인
 	6	90011	1	0.3
 	7	50725	1	2
 }
-Group	설거인
+Group	Yeti
 {
 	Kill_drop	1000
 	Mob	1106
@@ -1521,7 +1521,7 @@ Group	설거인
 	2	1093	1	30	20
 	3	50009	1	10	0
 }
-Group	설거인
+Group	Yeti
 {
 	Mob	1106
 	Type	drop
@@ -1534,13 +1534,13 @@ Group	설거인
 	7	90011	1	0.4
 	8	50728	1	1
 }
-Group	얼음고램
+Group	Ice_Golem
 {
 	Mob	1107
 	Type	drop
 	1	50721	1	2
 }
-Group	얼음고렘
+Group	Ice_Golem
 {
 	Kill_drop	300
 	Mob	1107
@@ -1549,7 +1549,7 @@ Group	얼음고렘
 	2	3124	1	30	20
 	3	50009	1	10	0
 }
-Group	EisSplitter
+Group	Underworld_Ice_Splinters
 {
 	Level_limit	75
 	Mob	1131
@@ -1562,13 +1562,13 @@ Group	EisSplitter
 	6	11685	1	0.7
 	7	50124	1	0.07
 }
-Group	Refine_1131
+Group	Underworld_Ice_Splinters
 {
 	Mob	1131
 	Type	drop
 	1	30198	1	0.09
 }
-Group	Eiskillerwal
+Group	Underwrld_IceKillerWhale
 {
 	Level_limit	75
 	Mob	1132
@@ -1582,7 +1582,7 @@ Group	Eiskillerwal
 	7	11285	1	0.7
 	8	50124	1	0.07
 }
-Group	Eisinsekt
+Group	Underworld_Ice_Bug
 {
 	Level_limit	75
 	Mob	1133
@@ -1596,7 +1596,7 @@ Group	Eisinsekt
 	7	11685	1	0.7
 	8	50124	1	0.07
 }
-Group	Eisl?e
+Group	Underworld_Ice_Lion
 {
 	Level_limit	75
 	Mob	1134
@@ -1610,7 +1610,7 @@ Group	Eisl?e
 	7	11285	1	0.7
 	8	50124	1	0.07
 }
-Group	Eismann
+Group	Underworld_Ice_Man
 {
 	Level_limit	75
 	Mob	1135
@@ -1624,7 +1624,7 @@ Group	Eismann
 	7	11686	1	0.4
 	8	50124	1	0.07
 }
-Group	Yeti
+Group	Underworld_Yeti
 {
 	Level_limit	75
 	Mob	1136
@@ -1638,7 +1638,7 @@ Group	Yeti
 	7	11286	1	0.1
 	8	50124	1	0.07
 }
-Group	Eisgolem
+Group	Underworld_Ice_Golem
 {
 	Level_limit	75
 	Mob	1137
@@ -1659,13 +1659,13 @@ Group	Eisgolem
 	14	11286	1	0.1
 	15	50124	1	0.07
 }
-Group	Refine_1137
+Group	Underworld_Ice_Golem
 {
 	Mob	1137
 	Type	drop
 	1	30198	1	0.125
 }
-Group	ice_witch
+Group	Mighty_Ice_Witch
 {
 	Level_limit	80
 	Mob	1192
@@ -1706,7 +1706,7 @@ Group	ice_witch
 	34	30190	1	400	100
 	35	30190	5	100	10
 }
-Group	청와병
+Group	Tree_Frog_Soldier
 {
 	Kill_drop	400
 	Mob	1301
@@ -1718,7 +1718,7 @@ Group	청와병
 	5	16200	1	6	30
 	6	16201	1	3	30
 }
-Group	청와병
+Group	Tree_Frog_Soldier
 {
 	Mob	1301
 	Type	drop
@@ -1728,7 +1728,7 @@ Group	청와병
 	4	12530	1	5
 	5	12670	1	5
 }
-Group	청와장
+Group	Tree_Frog_Leader
 {
 	Kill_drop	800
 	Mob	1302
@@ -1736,7 +1736,7 @@ Group	청와장
 	1	5082	1	65	20
 	2	5083	1	35	20
 }
-Group	청와장
+Group	Tree_Frog_Leader
 {
 	Mob	1302
 	Type	drop
@@ -1746,27 +1746,27 @@ Group	청와장
 	4	12530	1	2.5
 	5	12670	1	2.5
 }
-Group	풀잎머리도깨비
+Group	Leflet_Bogeyman
 {
 	Kill_drop	1000
 	Mob	1303
 	Type	kill
 	1	2122	1	1	20
 }
-Group	풀잎머리도깨비
+Group	Leflet_Bogeyman
 {
 	Mob	1303
 	Type	drop
 	1	90012	1	0.1
 }
-Group	누렁범귀
+Group	Yellow_Tiger_Ghost
 {
 	Kill_drop	1
 	Mob	1304
 	Type	kill
 	1	50078	1	100	0
 }
-Group	누렁범귀
+Group	Yellow_Tiger_Ghost
 {
 	Mob	1304
 	Type	drop
@@ -1776,7 +1776,7 @@ Group	누렁범귀
 	4	27006	100	400
 	5	90010	1	300
 }
-Group	수구대장군
+Group	Bullfrog_General
 {
 	Kill_drop	350
 	Mob	1305
@@ -1784,7 +1784,7 @@ Group	수구대장군
 	1	7122	1	65	20
 	2	7123	1	35	20
 }
-Group	수구대장군
+Group	Bullfrog_General
 {
 	Mob	1305
 	Type	drop
@@ -1798,19 +1798,19 @@ Group	수구대장군
 	8	12530	1	0.75
 	9	12670	1	0.75
 }
-Group	투귀병
+Group	Destroyer
 {
 	Kill_drop	0
 	Mob	1401
 	Type	kill
 }
-Group	투귀병
+Group	Destroyer
 {
 	Mob	1401
 	Type	drop
 	1	50723	1	2
 }
-Group	투귀척후병
+Group	Axe_Fighter
 {
 	Kill_drop	1500
 	Mob	1402
@@ -1824,13 +1824,13 @@ Group	투귀척후병
 	7	11674	1	10	30
 	8	11874	1	10	30
 }
-Group	투귀척후병
+Group	Axe_Fighter
 {
 	Mob	1402
 	Type	drop
 	1	50726	1	2
 }
-Group	투귀천장수
+Group	Thousand_Fighter
 {
 	Kill_drop	500
 	Mob	1403
@@ -1846,13 +1846,13 @@ Group	투귀천장수
 	9	3150	1	1	20
 	10	7150	1	1	20
 }
-Group	투귀천장수
+Group	Thousand_Fighter
 {
 	Mob	1403
 	Type	drop
 	1	50725	1	2
 }
-Group	투귀천장수
+Group	Thousand_Fighter
 {
 	Level_limit	86
 	Mob	1403
@@ -1872,34 +1872,34 @@ Group	투귀천장수
 	13	3150	1	0.1
 	14	7150	1	0.1
 }
-Group	Refine_1501
+Group	Stone_Golem
 {
 	Mob	1501
 	Type	drop
 	1	30195	1	1
 }
-Group	석인
+Group	Stone_Golem
 {
 	Kill_drop	100
 	Mob	1501
 	Type	kill
 	1	8002	100	1	0
 }
-Group	투석인
+Group	Stone_Golem
 {
 	Kill_drop	100
 	Mob	1502
 	Type	kill
 	1	8002	100	1	0
 }
-Group	투석인
+Group	Stone_Golem
 {
 	Mob	1502
 	Type	drop
 	1	50722	1	1
 	2	30195	1	1
 }
-Group	거대투석인
+Group	Giant_Rock_Golem
 {
 	Kill_drop	3000
 	Mob	1503
@@ -1909,27 +1909,27 @@ Group	거대투석인
 	3	11482	1	1	10
 	4	11682	1	1	10
 }
-Group	거대투석인
+Group	Giant_Rock_Golem
 {
 	Mob	1503
 	Type	drop
 	1	50723	1	4
 	2	30195	1	1
 }
-Group	투귀일군
+Group	Ogre_Warrior
 {
 	Kill_drop	0
 	Mob	1601
 	Type	kill
 }
-Group	투귀일꾼
+Group	Ogre_Warrior
 {
 	Mob	1601
 	Type	drop
 	1	50728	1	2
 	2	30194	1	1.0
 }
-Group	투귀감찰병
+Group	Ogre_Butcher
 {
 	Kill_drop	1000
 	Mob	1602
@@ -1943,14 +1943,14 @@ Group	투귀감찰병
 	7	11672	1	10	10
 	8	11872	1	10	10
 }
-Group	투귀감찰병
+Group	Ogre_Butcher
 {
 	Mob	1602
 	Type	drop
 	1	50721	1	4
 	2	30194	1	1
 }
-Group	투귀백장수
+Group	Ogre_Berserk
 {
 	Kill_drop	2000
 	Mob	1603
@@ -1963,14 +1963,14 @@ Group	투귀백장수
 	6	160	1	1	10
 	7	240	1	1	10
 }
-Group	투귀백장수
+Group	Ogre_Berserk
 {
 	Mob	1603
 	Type	drop
 	1	50722	1	2
 	2	30194	1	1
 }
-Group	투귀백장수
+Group	Ogre_Berserk
 {
 	Level_limit	86
 	Mob	1603
@@ -1986,14 +1986,14 @@ Group	투귀백장수
 	9	3150	1	0.03
 	10	7150	1	0.03
 }
-Group	구미호
+Group	Nine_Tails
 {
 	Kill_drop	1
 	Mob	1901
 	Type	kill
 	1	50077	1	100	0
 }
-Group	구미호
+Group	Nine_Tails
 {
 	Mob	1901
 	Type	drop
@@ -2003,94 +2003,94 @@ Group	구미호
 	4	27006	100	400
 	5	90010	1	200
 }
-Group	진구미호				
-{					
-	type	kill			
-	mob	1902			
-	kill_drop	1			
-	1	진구미호의상자	2	100	0
+Group	Elite_Nine_Tails
+{
+	type	kill
+	mob	1902
+	kill_drop	1
+	1	50090	2	100	0
 	2	50006	15	30	0
 	3	50007	20	40	0
 	4	50012	10	15	0
 	5	50013	15	20	0
 	6	50011	5	5	0
-}					
-					
-Group	삼거리진구미호1				
-{					
-	type	kill			
-	mob	1904			
-	kill_drop	1			
+}
+
+Group	Elite_Nine_Tails
+{
+	type	kill
+	mob	1904
+	kill_drop	1
 	1	50006	15	30	0
 	2	50007	20	40	0
 	3	50012	10	15	0
 	4	50013	15	20	0
 	5	50011	5	5	0
-}					
-					
-Group	삼거리진구미호2				
-{					
-	type	kill			
-	mob	1905			
-	kill_drop	1			
+}
+
+Group	Elite_Nine_Tails
+{
+	type	kill
+	mob	1905
+	kill_drop	1
 	1	50006	15	30	0
 	2	50007	20	40	0
 	3	50012	10	15	0
 	4	50013	15	20	0
 	5	50011	5	5	0
-}					
-					
-Group	삼거리진구미호3				
-{					
-	type	kill			
-	mob	1906			
-	kill_drop	1			
+}
+
+Group	Elite_Nine_Tails
+{
+	type	kill
+	mob	1906
+	kill_drop	1
 	1	50006	15	30	0
 	2	50007	20	40	0
 	3	50012	10	15	0
 	4	50013	15	20	0
 	5	50011	5	5	0
-}					
-Group	새끼거미
+}
+Group	Baby_Spider
 {
 	Mob	2001
 	Type	drop
 	1	50721	1	2
 }
-Group	독거미
+Group	Poison_Spider
 {
 	Mob	2002
 	Type	drop
 	1	50725	1	1
 }
-Group	붉은독거미
+Group	Red_Poison_Spider
 {
 	Kill_drop	1000
 	Mob	2003
 	Type	kill
 	1	7102	1	1	10
 }
-Group	붉은독거미
+Group	Red_Poison_Spider
 {
 	Mob	2003
 	Type	drop
 	1	50725	1	1
 	2	50009	1	0.2
 }
-Group	집게거미
+Group	Claw_Spider
 {
 	Kill_drop	1000
 	Mob	2004
 	Type	kill
 	1	5072	1	1	10
 }
-Group	집게거미
+Group	Claw_Spider
 {
 	Mob	2004
 	Type	drop
 	1	50721	1	2
 }
-Group	병정거미
+Group	Soldier_Spider
 {
 	Kill_drop	500
 	Mob	2005
@@ -2100,19 +2100,19 @@ Group	병정거미
 	3	12522	1	1	10
 	4	12662	1	1	10
 }
-Group	병정거미
+Group	Soldier_Spider
 {
 	Mob	2005
 	Type	drop
 	1	50727	1	0.8
 }
-Group	새끼독거미
+Group	Baby_Poison_Spider
 {
 	Mob	2031
 	Type	drop
 	1	50722	1	1
 }
-Group	붉은맹독거미
+Group	Red_Angry_Poison_Spider
 {
 	Kill_drop	300
 	Mob	2033
@@ -2120,26 +2120,26 @@ Group	붉은맹독거미
 	1	112	1	65	10
 	2	113	1	35	10
 }
-Group	붉은맹독거미
+Group	Red_Angry_Poison_Spider
 {
 	Mob	2033
 	Type	drop
 	1	50727	1	0.8
 }
-Group	집게독거미
+Group	Claw_Poison_Spider
 {
 	Kill_drop	500
 	Mob	2034
 	Type	kill
 	1	1072	1	1	10
 }
-Group	집게독거미
+Group	Claw_Poison_Spider
 {
 	Mob	2034
 	Type	drop
 	1	50726	1	2
 }
-Group	병정독거미
+Group	Soldier_Poison_Spider
 {
 	Kill_drop	300
 	Mob	2035
@@ -2149,13 +2149,13 @@ Group	병정독거미
 	3	11660	1	1	10
 	4	11860	1	1	10
 }
-Group	병정독거미
+Group	Soldier_Poison_Spider
 {
 	Mob	2035
 	Type	drop
 	1	50726	1	2
 }
-Group	병정독거미
+Group	Proud_Soldier_Spider
 {
 	Kill_drop	90
 	Mob	2036
@@ -2163,13 +2163,13 @@ Group	병정독거미
 	1	3112	1	65	10
 	2	3113	1	35	10
 }
-Group	새끼독거미
+Group	Small_Poison_Spider
 {
 	Mob	2061
 	Type	drop
 	1	50724	1	2
 }
-Group	새끼독거미
+Group	Small_Poison_Spider
 {
 	Level_limit	60
 	Mob	2061
@@ -2184,13 +2184,13 @@ Group	새끼독거미
 	8	13060	1	0.05
 	9	13100	1	0.05
 }
-Group	맹독거미
+Group	Deadly_Poison_Spider
 {
 	Mob	2062
 	Type	drop
 	1	50721	1	4
 }
-Group	맹독거미
+Group	Deadly_Poison_Spider
 {
 	Level_limit	60
 	Mob	2062
@@ -2205,13 +2205,13 @@ Group	맹독거미
 	8	13080	1	0.05
 	9	13120	1	0.05
 }
-Group	붉은맹독거미
+Group	Red_Deadly_Poison_Spider
 {
 	Mob	2063
 	Type	drop
 	1	50724	1	2
 }
-Group	붉은맹독거미
+Group	Red_Deadly_Poison_Spider
 {
 	Level_limit	60
 	Mob	2063
@@ -2225,13 +2225,13 @@ Group	붉은맹독거미
 	7	12524	1	0.5
 	8	13120	1	0.1
 }
-Group	집게독거미
+Group	Claw_Poison_Spider
 {
 	Mob	2064
 	Type	drop
 	1	50722	1	2
 }
-Group	집게독거미
+Group	Claw_Poison_Spider
 {
 	Level_limit	60
 	Mob	2064
@@ -2245,14 +2245,14 @@ Group	집게독거미
 	7	12384	1	0.5
 	8	13120	1	0.1
 }
-Group	병정독거미
+Group	Soldier_Poison_Spider
 {
 	Mob	2065
 	Type	drop
 	1	50723	1	2
 	2	50009	1	0.2
 }
-Group	병정독거미
+Group	Soldier_Poison_Spider
 {
 	Level_limit	60
 	Mob	2065
@@ -2265,14 +2265,14 @@ Group	병정독거미
 	6	12244	1	0.5
 	7	13100	1	0.1
 }
-Group	여왕거미
+Group	Queen_Spider
 {
 	Kill_drop	1
 	Mob	2091
 	Type	kill
 	1	50073	1	100	0
 }
-Group	여왕거미
+Group	Queen_Spider
 {
 	Mob	2091
 	Type	drop
@@ -2282,7 +2282,7 @@ Group	여왕거미
 	4	27006	100	400
 	5	90011	1	60
 }
-Group	비마귀안
+Group	Deserts_Flying_Eye
 {
 	Kill_drop	400
 	Mob	2102
@@ -2296,13 +2296,13 @@ Group	비마귀안
 	7	12503	1	3	10
 	8	12643	1	3	10
 }
-Group	비마귀안
+Group	Deserts_Flying_Eye
 {
 	Mob	2102
 	Type	drop
 	1	50722	1	2
 }
-Group	대왕전갈
+Group	King_Scorpion
 {
 	Kill_drop	1000
 	Mob	2103
@@ -2314,13 +2314,13 @@ Group	대왕전갈
 	5	14200	1	6	10
 	6	14201	1	3	10
 }
-Group	대왕전갈
+Group	King_Scorpion
 {
 	Mob	2103
 	Type	drop
 	1	50721	1	4
 }
-Group	전갈인간
+Group	Young_Scorpion_Man
 {
 	Kill_drop	800
 	Mob	2104
@@ -2330,13 +2330,13 @@ Group	전갈인간
 	3	7160	1	40	10
 	4	5110	1	20	10
 }
-Group	전갈인간
+Group	Young_Scorpion_Man
 {
 	Mob	2104
 	Type	drop
 	1	50724	1	1
 }
-Group	전갈궁수
+Group	Scorpion_Archer
 {
 	Kill_drop	500
 	Mob	2105
@@ -2346,7 +2346,7 @@ Group	전갈궁수
 	3	7160	1	20	10
 	4	5110	1	40	10
 }
-Group	전갈궁수
+Group	Scorpion_Archer
 {
 	Mob	2105
 	Type	drop
@@ -2356,7 +2356,7 @@ Group	전갈궁수
 	4	50009	1	0.2
 	5	50722	1	2
 }
-Group	반인반사검병
+Group	Snake_Swordsman
 {
 	Kill_drop	700
 	Mob	2106
@@ -2364,14 +2364,14 @@ Group	반인반사검병
 	1	1062	1	65	10
 	2	1063	1	35	10
 }
-Group	반인반사검병
+Group	Snake_Swordsman
 {
 	Mob	2106
 	Type	drop
 	1	50726	1	1
 	2	50009	1	0.2
 }
-Group	반인반사궁병
+Group	Snake_Archer
 {
 	Kill_drop	400
 	Mob	2107
@@ -2379,7 +2379,7 @@ Group	반인반사궁병
 	1	13202	1	65	30
 	2	13203	1	35	30
 }
-Group	반인반사궁병
+Group	Snake_Archer
 {
 	Mob	2107
 	Type	drop
@@ -2388,7 +2388,7 @@ Group	반인반사궁병
 	3	30082	1	1
 	4	50725	1	2
 }
-Group	사막의무법자
+Group	Desert_Outlaw
 {
 	Kill_drop	100
 	Mob	2108
@@ -2400,7 +2400,7 @@ Group	사막의무법자
 	5	17202	1	6	10
 	6	17203	1	3	10
 }
-Group	사막의무법자
+Group	Desert_Outlaw
 {
 	Mob	2108
 	Type	drop
@@ -2415,7 +2415,7 @@ Group	사막의무법자
 	9	70008	1	0.1
 	10	50728	1	0.8
 }
-Group	새끼독거미
+Group	Bestial_Scorpion_Man
 {
 	Level_limit	60
 	Mob	2131
@@ -2430,13 +2430,13 @@ Group	새끼독거미
 	8	13100	1	0.1
 	9	50009	1	0.1
 }
-Group	전갈인간
+Group	Bestial_Scorpion_Man
 {
 	Mob	2131
 	Type	drop
 	1	50727	1	2
 }
-Group	맹독거미
+Group	Scorpion_Archer
 {
 	Level_limit	60
 	Mob	2132
@@ -2451,19 +2451,19 @@ Group	맹독거미
 	8	13080	1	0.1
 	9	50009	1	0.1
 }
-Group	전갈궁수
+Group	Scorpion_Archer
 {
 	Mob	2132
 	Type	drop
 	1	50726	1	4
 }
-Group	반인반사검병
+Group	Snake_Swordman
 {
 	Mob	2133
 	Type	drop
 	1	50725	1	4
 }
-Group	붉은맹독거미
+Group	Snake_Swordman
 {
 	Level_limit	60
 	Mob	2133
@@ -2478,13 +2478,13 @@ Group	붉은맹독거미
 	8	13080	1	0.1
 	9	50009	1	0.1
 }
-Group	반인반사궁병
+Group	Snake_Archer
 {
 	Mob	2134
 	Type	drop
 	1	50727	1	2
 }
-Group	집게독거미
+Group	Snake_Archer
 {
 	Level_limit	60
 	Mob	2134
@@ -2499,7 +2499,7 @@ Group	집게독거미
 	8	13060	1	0.1
 	9	50009	1	0.1
 }
-Group	병정독거미
+Group	Desert_Outlaw
 {
 	Level_limit	60
 	Mob	2135
@@ -2513,20 +2513,20 @@ Group	병정독거미
 	7	13060	1	0.1
 	8	50009	1	0.1
 }
-Group	사막의무법자
+Group	Desert_Outlaw
 {
 	Mob	2135
 	Type	drop
 	1	50725	1	4
 }
-Group	거대사막거북
+Group	Giant_Tortoise
 {
 	Kill_drop	1
 	Mob	2191
 	Type	kill
 	1	50076	1	100	0
 }
-Group	거대사막거북
+Group	Giant_Tortoise
 {
 	Mob	2191
 	Type	drop
@@ -2536,34 +2536,34 @@ Group	거대사막거북
 	4	27006	100	400
 	5	90012	1	80
 }
-Group	투지범졸개
+Group	Fighting_Tiger_Minion
 {
 	Kill_drop	0
 	Mob	2201
 	Type	kill
 }
-Group	투지범졸개
+Group	Fighting_Tiger_Minion
 {
 	Mob	2201
 	Type	drop
 	1	90010	1	0.09
 	2	50722	1	1
 }
-Group	화령
+Group	Flame_Ghost
 {
 	Kill_drop	1000
 	Mob	2202
 	Type	kill
 	1	50009	1	10	0
 }
-Group	화령
+Group	Flame_Ghost
 {
 	Mob	2202
 	Type	drop
 	1	90010	1	0.1
 	2	50727	1	2
 }
-Group	투지범
+Group	Fighting_Tiger
 {
 	Kill_drop	1000
 	Mob	2203
@@ -2571,14 +2571,14 @@ Group	투지범
 	1	132	1	65	20
 	2	133	1	35	20
 }
-Group	투지범
+Group	Fighting_Tiger
 {
 	Mob	2203
 	Type	drop
 	1	90010	1	0.2
 	2	50728	1	1
 }
-Group	참마인
+Group	Flame
 {
 	Kill_drop	1000
 	Mob	2204
@@ -2586,7 +2586,7 @@ Group	참마인
 	1	1092	1	65	20
 	2	1093	1	35	20
 }
-Group	참마인
+Group	Flame
 {
 	Mob	2204
 	Type	drop
@@ -2596,7 +2596,7 @@ Group	참마인
 	4	12540	1	0.041
 	5	12680	1	0.041
 }
-Group	태화무인
+Group	Flame_Warrior
 {
 	Kill_drop	500
 	Mob	2205
@@ -2604,7 +2604,7 @@ Group	태화무인
 	1	3123	1	65	20
 	2	3124	1	35	20
 }
-Group	태화무인
+Group	Flame_Warrior
 {
 	Mob	2205
 	Type	drop
@@ -2615,14 +2615,14 @@ Group	태화무인
 	5	12540	1	0.041
 	6	12680	1	0.041
 }
-Group	화염왕
+Group	Flame_King
 {
 	Kill_drop	1
 	Mob	2206
 	Type	kill
 	1	50079	1	100	0
 }
-Group	화염왕
+Group	Flame_King
 {
 	Mob	2206
 	Type	drop
@@ -2632,33 +2632,33 @@ Group	화염왕
 	4	27006	100	400
 	5	90012	1	200
 }
-Group	귀목
+Group	Ghost_Tree
 {
 	Kill_drop	0
 	Mob	2301
 	Type	kill
 }
-Group	귀목
+Group	Ghost_Tree
 {
 	Mob	2301
 	Type	drop
 	1	50727	1	2
 }
-Group	밑둥귀목
+Group	Ghost_Stump
 {
 	Kill_drop	2000
 	Mob	2302
 	Type	kill
 	1	50008	1	1	0
 }
-Group	밑둥귀목
+Group	Ghost_Stump
 {
 	Mob	2302
 	Type	drop
 	1	50726	1	1
 	2	30192	1	0.5
 }
-Group	목령
+Group	Dryad
 {
 	Kill_drop	1000
 	Mob	2303
@@ -2677,20 +2677,20 @@ Group	목령
 	12	11872	1	10	10
 	13	50008	1	20	0
 }
-Group	목령
+Group	Dryad
 {
 	Mob	2303
 	Type	drop
 	1	50725	1	2
 	2	30192	1	0.05
 }
-Group	Refining_2304
+Group	Ghost_Willow
 {
 	Mob	2304
 	Type	drop
 	1	30192	1	0.05
 }
-Group	화류귀목
+Group	Ghost_Willow
 {
 	Kill_drop	15000
 	Mob	2304
@@ -2700,7 +2700,7 @@ Group	화류귀목
 	3	11480	1	1	10
 	4	11680	1	1	10
 }
-Group	흑귀목
+Group	Evil_Tree
 {
 	Kill_drop	10000
 	Mob	2305
@@ -2720,35 +2720,35 @@ Group	흑귀목
 	13	7130	1	1	10
 	14	2140	1	1	10
 }
-Group	적귀목
+Group	Red_Ghost_Tree
 {
 	Kill_drop	800
 	Mob	2311
 	Type	kill
 	1	50008	1	1	0
 }
-Group	적귀목
+Group	Red_Ghost_Tree
 {
 	Mob	2311
 	Type	drop
 	1	50728	1	0.8
 	2	30197	1	0.03
 }
-Group	밑둥적귀목
+Group	Red_Ghost_Stump
 {
 	Kill_drop	800
 	Mob	2312
 	Type	kill
 	1	50008	1	1	0
 }
-Group	밑둥적귀목
+Group	Red_Ghost_Stump
 {
 	Mob	2312
 	Type	drop
 	1	50724	1	1
 	2	30197	1	0.03
 }
-Group	적목령
+Group	Red_Dryad
 {
 	Kill_drop	1000
 	Mob	2313
@@ -2763,14 +2763,14 @@ Group	적목령
 	8	11873	1	10	30
 	9	50008	1	20	0
 }
-Group	적목령
+Group	Red_Dryad
 {
 	Mob	2313
 	Type	drop
 	1	50726	1	1
 	2	30197	1	0.03
 }
-Group	적목령
+Group	Red_Dryad
 {
 	Level_limit	86
 	Mob	2313
@@ -2786,7 +2786,7 @@ Group	적목령
 	9	160	1	0.03
 	10	240	1	0.03
 }
-Group	화류적귀목
+Group	Red_Ghost_Willow
 {
 	Kill_drop	6000
 	Mob	2314
@@ -2796,14 +2796,14 @@ Group	화류적귀목
 	3	11480	1	1	10
 	4	11680	1	1	10
 }
-Group	화류적귀목
+Group	Red_Ghost_Willow
 {
 	Mob	2314
 	Type	drop
 	1	50727	1	0.8
 	2	30197	1	0.03
 }
-Group	화류적귀목
+Group	Red_Ghost_Willow
 {
 	Level_limit	86
 	Mob	2314
@@ -2819,7 +2819,7 @@ Group	화류적귀목
 	9	160	1	0.06
 	10	240	1	0.06
 }
-Group	적흑귀목
+Group	Red_Evil_Tree
 {
 	Kill_drop	3000
 	Mob	2315
@@ -2839,13 +2839,13 @@ Group	적흑귀목
 	13	7130	1	1	10
 	14	2140	1	1	10
 }
-Group	흑적귀목
+Group	Red_Evil_Tree
 {
 	Mob	2315
 	Type	drop
 	1	50728	1	1
 }
-Group	흑적귀목
+Group	Red_Evil_Tree
 {
 	Level_limit	86
 	Mob	2315
@@ -2866,7 +2866,7 @@ Group	흑적귀목
 	14	160	1	0.15
 	15	240	1	0.15
 }
-Group	Setaou-K?pfer87
+Group	Setaou_Fighter
 {
 	Level_limit	75
 	Mob	2401
@@ -2891,7 +2891,7 @@ Group	Setaou-K?pfer87
 	18	50124	1	0.02
 	19	50121	1	0.06
 }
-Group	Setaou-J?er89
+Group	Setaou_Hunter
 {
 	Level_limit	75
 	Mob	2402
@@ -2917,7 +2917,7 @@ Group	Setaou-J?er89
 	19	50124	1	0.02
 	20	50120	1	0.06
 }
-Group	Setaou-Seherin89
+Group	Setaou_Mystic
 {
 	Level_limit	75
 	Mob	2403
@@ -2941,13 +2941,13 @@ Group	Setaou-Seherin89
 	17	50124	1	0.02
 	18	50122	1	0.06
 }
-Group	Refine_2404
+Group	Setaou_Leader
 {
 	Mob	2404
 	Type	drop
 	1	30199	1	0.13
 }
-Group	Setaou-Anf?rer90
+Group	Setaou_Leader
 {
 	Level_limit	75
 	Mob	2404
@@ -2976,7 +2976,7 @@ Group	Setaou-Anf?rer90
 	22	50121	1	0.02
 	23	50122	1	0.02
 }
-Group	Setaou-Soldat91
+Group	Setaou_Soldier
 {
 	Level_limit	75
 	Mob	2411
@@ -2997,7 +2997,7 @@ Group	Setaou-Soldat91
 	14	50121	1	0.06
 	15	30196	1	0.02
 }
-Group	Setaou-J?er93
+Group	Setaou_Archer
 {
 	Level_limit	75
 	Mob	2412
@@ -3021,14 +3021,14 @@ Group	Setaou-J?er93
 	17	50120	1	0.06
 	18	30196	1	0.03
 }
-Group	Refine_2413
+Group	Setaou_Magistrate
 {
 	Mob	2413
 	Type	drop
 	1	30199	1	0.13
 	2	30196	1	0.07
 }
-Group	Setaou-Seherin95
+Group	Setaou_Magistrate
 {
 	Level_limit	75
 	Mob	2413
@@ -3051,7 +3051,7 @@ Group	Setaou-Seherin95
 	16	5122	1	0.1
 	17	50122	1	0.06
 }
-Group	Refine_2414
+Group	Setaou_Commander
 {
 	Mob	2414
 	Type	drop
@@ -3072,7 +3072,7 @@ Group	Setaou_Commander
 	7	50121	1	0.02
 	8	50122	1	0.02
 }
-Group	Setaou-General1
+Group	Captain_Yonghan
 {
 	Level_limit	85
 	Mob	2491
@@ -3080,7 +3080,7 @@ Group	Setaou-General1
 	1	30179	1	400
 	2	30196	1	1
 }
-Group	Setaou-General2
+Group	General_Yonghan
 {
 	Level_limit	85
 	Mob	2492
@@ -3104,7 +3104,7 @@ Group	Setaou-General2
 	17	15204	1	30
 	18	16184	1	50
 }
-Group	Water_Dragon
+Group	Beran-Setaou
 {
 	Mob	2493
 	Type	drop
@@ -3132,7 +3132,7 @@ Group	Water_Dragon
 	22	71085	1	0.5
 	23	71084	1	0.5
 }
-Group	Water_Dragon_HL
+Group	Beran-Setaou
 {
 	Level_limit	90
 	Mob	2493
@@ -3151,14 +3151,14 @@ Group	Water_Dragon_HL
 	12	71085	3	0.2
 	13	71084	3	0.2
 }
-Group	Setaou-General3
+Group	Captain_Huashin
 {
 	Level_limit	85
 	Mob	2494
 	Type	drop
 	1	30179	1	400	100
 }
-Group	Setaou-General4
+Group	General_Huashin
 {
 	Level_limit	85
 	Mob	2495
@@ -3182,7 +3182,7 @@ Group	Setaou-General4
 	17	50009	1	100
 	18	27987	1	100
 }
-Group	해태
+Group	Hae-Tae
 {
 	Kill_drop	1
 	Mob	5002
@@ -3218,7 +3218,7 @@ Group	해태
 	29	70014	1	40	0
 	30	25040	1	40	0
 }
-Group	해태
+Group	Hae-Tae
 {
 	Mob	5002
 	Type	drop
@@ -3227,34 +3227,34 @@ Group	해태
 	3	27005	100	400
 	4	27006	50	400
 }
-Group	이벤트용_다나까
+Group	Pirate_Tanaka
 {
 	Kill_drop	1
 	Mob	5004
 	Type	kill
 	1	30202	1	1	0
 }
-Group	하선동_원숭이
+Group	Weak_Ape_Soldier
 {
 	Kill_drop	550
 	Mob	5101
 	Type	kill
 	1	50050	1	20	0
 }
-Group	하선동원병
+Group	Weak_Ape_Soldier
 {
 	Mob	5101
 	Type	drop
 	1	50722	1	2
 }
-Group	하선동_원숭이
+Group	Weak_Ape_Thrower
 {
 	Kill_drop	250
 	Mob	5102
 	Type	kill
 	1	50050	1	20	0
 }
-Group	하선동_원숭이
+Group	Weak_Ape_Fighter
 {
 	Kill_drop	250
 	Mob	5103
@@ -3265,7 +3265,7 @@ Group	하선동_원숭이
 	4	5032	1	35	10
 	5	50050	1	100	0
 }
-Group	하선동_원숭이
+Group	Weak_Ape_General
 {
 	Kill_drop	100
 	Mob	5104
@@ -3276,33 +3276,33 @@ Group	하선동_원숭이
 	4	1043	1	20	10
 	5	50050	1	20	0
 }
-Group	하선동원장수
+Group	Weak_Ape_General
 {
 	Mob	5104
 	Type	drop
 	1	50721	1	1
 }
-Group	중선동_원숭이
+Group	Apesoldier
 {
 	Kill_drop	550
 	Mob	5111
 	Type	kill
 	1	50050	1	20	0
 }
-Group	중선동원병
+Group	Apesoldier
 {
 	Mob	5111
 	Type	drop
 	1	50723	1	2
 }
-Group	중선동_원숭이
+Group	Apethrower
 {
 	Kill_drop	300
 	Mob	5112
 	Type	kill
 	1	50050	1	20	0
 }
-Group	중선동_원숭이
+Group	Apefighter
 {
 	Kill_drop	250
 	Mob	5113
@@ -3311,7 +3311,7 @@ Group	중선동_원숭이
 	2	5053	1	10	10
 	3	50050	1	30	0
 }
-Group	중선동_원숭이
+Group	Apegeneral
 {
 	Kill_drop	100
 	Mob	5114
@@ -3320,13 +3320,13 @@ Group	중선동_원숭이
 	2	1053	1	20	20
 	3	50050	1	40	0
 }
-Group	중선동원장수
+Group	Apegeneral
 {
 	Mob	5114
 	Type	drop
 	1	50722	1	1
 }
-Group	중선동_돌원숭이
+Group	Stone_Ape
 {
 	Kill_drop	100
 	Mob	5115
@@ -3334,45 +3334,45 @@ Group	중선동_돌원숭이
 	1	3083	1	20	20
 	2	50050	1	20	0
 }
-Group	중선동돌원숭이
+Group	Stone_Ape
 {
 	Mob	5115
 	Type	drop
 	1	50725	1	1
 }
-Group	중선동대장원숭이
+Group	Ape_Leader
 {
 	Mob	5116
 	Type	drop
 	1	50726	1	1
 }
-Group	상선동_원숭이
+Group	Strong_Ape_Soldier
 {
 	Kill_drop	550
 	Mob	5121
 	Type	kill
 	1	50050	1	20	0
 }
-Group	상선동원병
+Group	Strong_Ape_Soldier
 {
 	Mob	5121
 	Type	drop
 	1	50726	1	1
 }
-Group	상선동_원숭이
+Group	Strong_Ape_Thrower
 {
 	Kill_drop	300
 	Mob	5122
 	Type	kill
 	1	50050	1	20	0
 }
-Group	상선동투마원병
+Group	Strong_Ape_Thrower
 {
 	Mob	5122
 	Type	drop
 	1	50723	1	1
 }
-Group	상선동_원숭이
+Group	Strong_Ape_Fighter
 {
 	Kill_drop	250
 	Mob	5123
@@ -3380,7 +3380,7 @@ Group	상선동_원숭이
 	1	7103	1	20	10
 	2	50050	1	20	0
 }
-Group	상선동_원숭이
+Group	Strong_Ape_General
 {
 	Kill_drop	100
 	Mob	5124
@@ -3388,7 +3388,7 @@ Group	상선동_원숭이
 	1	5073	1	20	10
 	2	50050	1	20	0
 }
-Group	상선동_돌원숭이
+Group	Strong_Stone_Ape
 {
 	Kill_drop	80
 	Mob	5125
@@ -3397,13 +3397,13 @@ Group	상선동_돌원숭이
 	2	114	1	35	10
 	3	50050	1	100	0
 }
-Group	상선동돌원숭이
+Group	Strong_Stone_Ape
 {
 	Mob	5125
 	Type	drop
 	1	50724	1	1
 }
-Group	상선동_금원숭이
+Group	Strong_Gold_Ape
 {
 	Kill_drop	30
 	Mob	5126
@@ -3412,19 +3412,19 @@ Group	상선동_금원숭이
 	2	3114	1	35	10
 	3	50050	1	100	0
 }
-Group	상선동금원숭이
+Group	Strong_Gold_Ape
 {
 	Mob	5126
 	Type	drop
 	1	50721	1	2
 }
-Group	상선동대장원숭이
+Group	Strong_Leader_Ape
 {
 	Mob	5127
 	Type	drop
 	1	50722	1	2
 }
-Group	이산대성
+Group	Rock_Ape
 {
 	Kill_drop	10
 	Mob	5161
@@ -3436,13 +3436,13 @@ Group	이산대성
 	5	5044	1	10	30
 	6	7064	1	10	30
 }
-Group	이산대성
+Group	Rock_Ape
 {
 	Mob	5161
 	Type	drop
 	1	50057	1	200
 }
-Group	통천대성
+Group	Walking_Ape
 {
 	Kill_drop	10
 	Mob	5162
@@ -3458,13 +3458,13 @@ Group	통천대성
 	9	11653	1	10	30
 	10	11853	1	10	30
 }
-Group	통천대성
+Group	Walking_Ape
 {
 	Mob	5162
 	Type	drop
 	1	50058	1	200
 }
-Group	제천대성
+Group	Ape_Lord
 {
 	Kill_drop	10
 	Mob	5163
@@ -3480,13 +3480,13 @@ Group	제천대성
 	9	11672	1	10	30
 	10	11872	1	10	30
 }
-Group	제천대성
+Group	Ape_Lord
 {
 	Mob	5163
 	Type	drop
 	1	50059	1	200
 }
-Group	비마석
+Group	Metin_of_Sorrow
 {
 	Mob	8001
 	Type	drop
@@ -3513,7 +3513,7 @@ Group	비마석
 	21	27006	20	50
 	22	50300	1	100
 }
-Group	전마석
+Group	Metin_of_Combat
 {
 	Mob	8002
 	Type	drop
@@ -3553,7 +3553,7 @@ Group	전마석
 	34	27006	20	50
 	35	50300	1	150
 }
-Group	투마석
+Group	Metin_of_Battle
 {
 	Mob	8003
 	Type	drop
@@ -3593,7 +3593,7 @@ Group	투마석
 	34	27006	20	50
 	35	50300	1	150
 }
-Group	욕마석
+Group	Metin_of_Greed
 {
 	Mob	8004
 	Type	drop
@@ -3631,7 +3631,7 @@ Group	욕마석
 	32	70014	1	1
 	33	70037	1	1
 }
-Group	흑마석
+Group	Metin_of_Black
 {
 	Mob	8005
 	Type	drop
@@ -3670,7 +3670,7 @@ Group	흑마석
 	33	70014	1	1
 	34	70037	1	1
 }
-Group	암마석
+Group	Metin_of_Darkness
 {
 	Mob	8006
 	Type	drop
@@ -3708,7 +3708,7 @@ Group	암마석
 	32	70014	1	1
 	33	70037	1	1
 }
-Group	질마석
+Group	Metin_of_Jealousy
 {
 	Mob	8007
 	Type	drop
@@ -3744,7 +3744,7 @@ Group	질마석
 	30	70014	1	1
 	31	70037	1	1
 }
-Group	혼마석
+Group	Metin_of_Soul
 {
 	Mob	8008
 	Type	drop
@@ -3780,7 +3780,7 @@ Group	혼마석
 	30	70014	1	1
 	31	70037	1	1
 }
-Group	영마석
+Group	Metin_of_Shadow
 {
 	Mob	8009
 	Type	drop
@@ -3820,7 +3820,7 @@ Group	영마석
 	34	70037	1	1
 	35	100300	1	1
 }
-Group	강마석
+Group	Metin_of_Toughness
 {
 	Mob	8010
 	Type	drop
@@ -3855,7 +3855,7 @@ Group	강마석
 	29	70037	1	1
 	30	100300	1	1
 }
-Group	악마석
+Group	Metin_of_Devil
 {
 	Mob	8011
 	Type	drop
@@ -3883,7 +3883,7 @@ Group	악마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	운마석
+Group	Metin_of_Fall
 {
 	Mob	8012
 	Type	drop
@@ -3911,7 +3911,7 @@ Group	운마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	사마석
+Group	Metin_of_Death
 {
 	Mob	8013
 	Type	drop
@@ -3939,7 +3939,7 @@ Group	사마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	살마석
+Group	Metin_of_Murder
 {
 	Mob	8014
 	Type	drop
@@ -3967,7 +3967,7 @@ Group	살마석
 	22	70037	1	50
 	23	100300	1	1
 }
-Group	강마석
+Group	Metin_of_Toughness
 {
 	Mob	8015
 	Type	drop
@@ -3990,7 +3990,7 @@ Group	강마석
 	17	70037	1	1
 	18	100300	1	1
 }
-Group	악마석
+Group	Metin_of_Devil
 {
 	Mob	8016
 	Type	drop
@@ -4018,7 +4018,7 @@ Group	악마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	운마석
+Group	Metin_of_Fall
 {
 	Mob	8017
 	Type	drop
@@ -4046,7 +4046,7 @@ Group	운마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	사마석
+Group	Metin_of_Death
 {
 	Mob	8018
 	Type	drop
@@ -4074,7 +4074,7 @@ Group	사마석
 	22	70037	1	1
 	23	100300	1	1
 }
-Group	살마석
+Group	Metin_of_Murder
 {
 	Mob	8019
 	Type	drop
@@ -4100,7 +4100,7 @@ Group	살마석
 	20	70037	1	1
 	21	100300	1	1
 }
-Group	풍마석
+Group	Metin_Pung-Ma
 {
 	Mob	8024
 	Type	drop
@@ -4134,7 +4134,7 @@ Group	풍마석
 	28	12681	1	0.0125
 	29	100300	1	1
 }
-Group	마안석
+Group	Metin_Ma-An
 {
 	Mob	8025
 	Type	drop
@@ -4168,7 +4168,7 @@ Group	마안석
 	28	12681	1	0.0125
 	29	100300	1	1
 }
-Group	투용석
+Group	Metin_Tu-Young
 {
 	Mob	8026
 	Type	drop
@@ -4209,7 +4209,7 @@ Group	투용석
 	35	70037	1	1
 	36	100300	1	1
 }
-Group	전운석
+Group	Metin_Jeon-Un
 {
 	Mob	8027
 	Type	drop
@@ -4272,10 +4272,10 @@ Group	전운석
 	57	70037	1	1
 	58	100300	1	1
 }
-Group	혼마석			
-{				
-	mob	8051		
-	Type	drop		
+Group	Metin_of_Gloom
+{
+	mob	8051
+	Type	drop
 	1	30500	1	100
 	2	30506	1	100
 	3	30512	1	100
@@ -4302,12 +4302,12 @@ Group	혼마석
 	24	70014	1	1
 	25	70037	1	1
 	26	100300	1	1
-}				
-				
-Group	귀마석			
-{				
-	mob	8052		
-	Type	drop		
+}
+
+Group	Metin_of_Ember
+{
+	mob	8052
+	Type	drop
 	1	30501	1	100
 	2	30507	1	100
 	3	30513	1	100
@@ -4333,12 +4333,12 @@ Group	귀마석
 	23	70014	1	1
 	24	70037	1	1
 	25	100300	1	1
-}				
-				
-Group	폭마석			
-{				
-	mob	8053		
-	Type	drop		
+}
+
+Group	Metin_of_Vanity
+{
+	mob	8053
+	Type	drop
 	1	30502	1	100
 	2	30508	1	100
 	3	30514	1	100
@@ -4364,12 +4364,12 @@ Group	폭마석
 	23	70014	1	1
 	24	70037	1	1
 	25	100300	1	1
-}				
-				
-Group	용마석			
-{				
-	mob	8054		
-	Type	drop		
+}
+
+Group	Metin_of_Wrath
+{
+	mob	8054
+	Type	drop
 	1	30503	1	100
 	2	30509	1	100
 	3	30515	1	100
@@ -4395,12 +4395,12 @@ Group	용마석
 	23	70014	1	1
 	24	70037	1	1
 	25	100300	1	1
-}				
-				
-Group	지마석			
-{				
-	mob	8055		
-	Type	drop		
+}
+
+Group	Metin_of_Calamity
+{
+	mob	8055
+	Type	drop
 	1	30504	1	100
 	2	30510	1	100
 	3	30516	1	100
@@ -4427,12 +4427,12 @@ Group	지마석
 	24	70014	1	1
 	25	70037	1	1
 	26	100300	1	1
-}				
-				
-Group	망마석			
-{				
-	mob	8056		
-	Type	drop		
+}
+
+Group	Metin_of_Malice
+{
+	mob	8056
+	Type	drop
 	1	30505	1	100
 	2	30511	1	100
 	3	30517	1	100
@@ -4461,7 +4461,7 @@ Group	망마석
 	26	100300	1	1
 }
 
-Group	봉화
+Group	??
 {
 	Mob	11506
 	Type	drop
@@ -4487,7 +4487,7 @@ Group	봉화
 	20	11893	1	20	30
 	21	11894	1	50	30
 }
-Group	봉화
+Group	??
 {
 	Mob	11507
 	Type	drop
@@ -4513,7 +4513,7 @@ Group	봉화
 	20	11893	1	20	30
 	21	11894	1	20	30
 }
-Group	봉화
+Group	??
 {
 	Mob	11508
 	Type	drop
@@ -4539,7 +4539,7 @@ Group	봉화
 	20	11893	1	20	30
 	21	11894	1	20	30
 }
-Group	봉화
+Group	??
 {
 	Mob	11509
 	Type	drop
@@ -4565,7 +4565,7 @@ Group	봉화
 	20	11893	1	20	30
 	21	11894	1	20	30
 }
-Group	봉화
+Group	??
 {
 	Mob	11510
 	Type	drop
@@ -4591,32 +4591,7 @@ Group	봉화
 	20	11893	1	20	30
 	21	11894	1	20	30
 }
-Group	빙마
-{
-	Mob	11041
-	Type	drop
-	1	50726	1	2
-}
-Group	Setaou-Anf?rer97
-{
-	Level_limit	85
-	Mob	2475
-	Type	limit
-	1	171	1	0.07
-	2	12246	1	0.12
-	3	14141	1	0.12
-	4	16183	1	0.21
-	5	50060	1	0.08
-	6	50009	1	0.34
-	7	50724	5	1.25
-	8	50728	5	1.25
-	9	244	1	0.34
-	10	146	1	0.27
-	11	1114	1	0.34
-	12	5104	1	0.34
-	13	70031	1	0.01
-}
-Group	Setaou-Soldat80
+Group	????
 {
 	Level_limit	80
 	Mob	2431
@@ -4631,7 +4606,7 @@ Group	Setaou-Soldat80
 	8	16065	1	0.48
 	9	70031	1	0.01
 }
-Group	Setaou-J?er82
+Group	????
 {
 	Level_limit	80
 	Mob	2432
@@ -4646,7 +4621,7 @@ Group	Setaou-J?er82
 	8	17104	1	0.22
 	9	70031	1	0.01
 }
-Group	Setaou-Seherin82
+Group	????
 {
 	Level_limit	80
 	Mob	2433
@@ -4662,7 +4637,7 @@ Group	Setaou-Seherin82
 	9	17105	1	0.34
 	10	70031	1	0.01
 }
-Group	Setaou-Anf?rer83
+Group	????
 {
 	Level_limit	80
 	Mob	2434
@@ -4677,7 +4652,7 @@ Group	Setaou-Anf?rer83
 	8	50728	5	1.25
 	9	70031	1	0.01
 }
-Group	Setaou-Soldat84
+Group	?????
 {
 	Level_limit	80
 	Mob	2451
@@ -4691,7 +4666,7 @@ Group	Setaou-Soldat84
 	7	50725	5	1.25
 	8	70031	1	0.01
 }
-Group	Setaou-J?er86
+Group	?????
 {
 	Level_limit	80
 	Mob	2452
@@ -4707,7 +4682,7 @@ Group	Setaou-J?er86
 	9	50726	5	1.25
 	10	70031	1	0.01
 }
-Group	Setaou-Seherin88
+Group	?????
 {
 	Level_limit	80
 	Mob	2453
@@ -4721,7 +4696,7 @@ Group	Setaou-Seherin88
 	7	50009	1	0.34
 	8	70031	1	0.01
 }
-Group	Setaou-Anf?rer90
+Group	?????
 {
 	Level_limit	80
 	Mob	2454
@@ -4736,52 +4711,52 @@ Group	Setaou-Anf?rer90
 	8	70050	1	0.39
 	9	70031	1	0.01
 }
-Group	아귀			
-{				
-	Level_limit	75		
-	Mob	2501		
-	Type	limit		
+Group	Jellyfish_of_Hell
+{
+	Level_limit	75
+	Mob	2501
+	Type	limit
 	1	50722	1	0.1
-}				
-				
-Group	아귀견			
-{				
-	Level_limit	75		
-	Mob	2502		
-	Type	limit		
+}
+
+Group	Hell_Hound
+{
+	Level_limit	75
+	Mob	2502
+	Type	limit
 	1	50723	1	0.1
-				
-}				
-				
-Group	아귀감염자			
-{				
-	Level_limit	75		
-	Mob	2503		
-	Type	limit		
+
+}
+
+Group	Zombie
+{
+	Level_limit	75
+	Mob	2503
+	Type	limit
 	1	50724	1	0.1
-}				
-				
-Group	아귀돌격병			
-{				
-	Level_limit	75		
-	Mob	2504		
-	Type	limit		
+}
+
+Group	Hell_Officer
+{
+	Level_limit	75
+	Mob	2504
+	Type	limit
 	1	50725	1	0.1
-}				
-				
-Group	아귀감염창병			
-{				
-	Level_limit	75		
-	Mob	2505		
-	Type	limit		
+}
+
+Group	Hell_Guard
+{
+	Level_limit	75
+	Mob	2505
+	Type	limit
 	1	50726	1	0.1
-}				
-				
-Group	아귀감염궁수			
-{				
-	Level_limit	75		
-	Mob	2506		
-	Type	limit		
+}
+
+Group	Double-head_Hell_Archer
+{
+	Level_limit	75
+	Mob	2506
+	Type	limit
 	1	50727	1	0.1
 	2	12260	1	0.02
 	3	12390	1	0.02
@@ -4791,13 +4766,13 @@ Group	아귀감염궁수
 	7	11880	1	0.05
 	8	11480	1	0.05
 	9	11680	1	0.05
-}				
-				
-Group	아귀감염장수			
-{				
-	Level_limit	75		
-	Mob	2507		
-	Type	limit		
+}
+
+Group	Infernal_Claw
+{
+	Level_limit	75
+	Mob	2507
+	Type	limit
 	1	50728	1	0.1
 	2	12260	1	0.02
 	3	12390	1	0.02
@@ -4807,13 +4782,13 @@ Group	아귀감염장수
 	7	11880	1	0.05
 	8	11480	1	0.05
 	9	11680	1	0.05
-}				
-				
-Group	부활한아귀병			
-{				
-	Level_limit	75		
-	Mob	2541		
-	Type	limit		
+}
+
+Group	Evil_Hell_Warrior
+{
+	Level_limit	75
+	Mob	2541
+	Type	limit
 	1	50722	1	0.2
 	2	50723	1	0.2
 	3	12260	1	0.02
@@ -4826,13 +4801,13 @@ Group	부활한아귀병
 	10	16200	1	0.025
 	11	17180	1	0.05
 	12	17200	1	0.025
-}				
-				
-Group	부활한아귀궁병			
-{				
-	Level_limit	75		
-	Mob	2542		
-	Type	limit		
+}
+
+Group	Evil_Hell_Archer
+{
+	Level_limit	75
+	Mob	2542
+	Type	limit
 	1	50722	1	0.2
 	2	50723	1	0.2
 	3	12260	1	0.04
@@ -4842,13 +4817,13 @@ Group	부활한아귀궁병
 	7	14220	1	0.01
 	8	16220	1	0.01
 	9	17220	1	0.01
-}				
-				
-Group	부활한아귀창병			
-{				
-	Level_limit	75		
-	Mob	2543		
-	Type	limit		
+}
+
+Group	Evil_Hell_Spearman
+{
+	Level_limit	75
+	Mob	2543
+	Type	limit
 	1	50724	1	0.2
 	2	50725	1	0.2
 	3	13060	1	0.02
@@ -4861,26 +4836,26 @@ Group	부활한아귀창병
 	10	16200	1	0.025
 	11	17180	1	0.05
 	12	17200	1	0.025
-}				
-				
-Group	부활한아귀주술사			
-{				
-	Level_limit	75		
-	Mob	2544		
-	Type	limit		
+}
+
+Group	Evil_Hell_Priest
+{
+	Level_limit	75
+	Mob	2544
+	Type	limit
 	1	50724	1	0.2
 	2	50725	1	0.2
 	3	12280	1	0.01
 	4	12400	1	0.01
 	5	12540	1	0.01
 	6	12680	1	0.01
-}				
-				
-Group	부활한아귀검병			
-{				
-	Level_limit	75		
-	Mob	2545		
-	Type	limit		
+}
+
+Group	Evil_Hell_Major
+{
+	Level_limit	75
+	Mob	2545
+	Type	limit
 	1	50726	1	0.2
 	2	50727	1	0.2
 	3	13140	1	0.015
@@ -4888,13 +4863,13 @@ Group	부활한아귀검병
 	5	13080	1	0.03
 	6	13100	1	0.03
 	7	13120	1	0.03
-}				
-				
-Group	부활한아귀마검사			
-{				
-	Level_limit	75		
-	Mob	2546		
-	Type	limit		
+}
+
+Group	Evil_Hell_Slaughterer
+{
+	Level_limit	75
+	Mob	2546
+	Type	limit
 	1	50726	1	0.2
 	2	50727	1	0.2
 	3	13140	1	0.02
@@ -4907,13 +4882,13 @@ Group	부활한아귀마검사
 	10	16200	1	0.025
 	11	17180	1	0.05
 	12	17200	1	0.025
-}				
-				
-Group	부활한아귀장수			
-{				
-	Level_limit	75		
-	Mob	2547		
-	Type	limit		
+}
+
+Group	Evil_Hell_General
+{
+	Level_limit	75
+	Mob	2547
+	Type	limit
 	1	50728	1	0.2
 	2	12280	1	0.025
 	3	12400	1	0.025
@@ -4924,13 +4899,13 @@ Group	부활한아귀장수
 	8	11490	1	0.02
 	9	11890	1	0.02
 	10	11690	1	0.02
-}				
-				
-Group	아귀대장군			
-{				
-	Level_limit	75		
-	Mob	2591		
-	Type	limit		
+}
+
+Group	Tartaros
+{
+	Level_limit	75
+	Mob	2591
+	Type	limit
 	1	12281	1	0.05
 	2	12401	1	0.08
 	3	12541	1	0.08
@@ -4943,13 +4918,13 @@ Group	아귀대장군
 	10	11491	1	0.1
 	11	11891	1	0.1
 	12	11691	1	0.1
-}				
-				
-Group	아귀왕염천			
-{				
-	Level_limit	75		
-	Mob	2597		
-	Type	limit		
+}
+
+Group	Charon
+{
+	Level_limit	75
+	Mob	2597
+	Type	limit
 	1	12282	1	0.025
 	2	12402	1	0.1
 	3	12542	1	0.1
@@ -4962,13 +4937,13 @@ Group	아귀왕염천
 	10	11491	1	0.15
 	11	11891	1	0.15
 	12	11691	1	0.15
-}				
-				
-Group	아귀대제파황			
-{				
-	Level_limit	75		
-	Mob	2598		
-	Type	limit		
+}
+
+Group	Azrael
+{
+	Level_limit	75
+	Mob	2598
+	Type	limit
 	1	50186	1	100
 	2	12283	1	0.2
 	3	12403	1	0.2
@@ -4990,204 +4965,204 @@ Group	아귀대제파황
 	19	160	1	0.4
 	20	240	1	0.4
 }
-Group	사신			
-{				
+Group	Death_Reaper
+{
 	Type	drop
 	Mob	1093
 	1	30319	1	100
-}				
-Group	투귀병			
-{				
-	Type	limit		
-	Mob	1401		
-	level_limit	50		
+}
+Group	Destroyer
+{
+	Type	limit
+	Mob	1401
+	level_limit	50
 	1	50723	1	2
 	2	50067	1	4
 	3	50068	1	2
-}				
-				
-Group	투귀척후병			
-{				
-	Type	limit		
-	Mob	1402		
-	level_limit	50		
+}
+
+Group	Axe_Fighter
+{
+	Type	limit
+	Mob	1402
+	level_limit	50
 	1	50067	1	4
 	2	50068	1	2
-}				
-				
-Group	석인			
-{				
-	Type	limit		
-	Mob	1501		
-	level_limit	50		
+}
+
+Group	Stone_Golem
+{
+	Type	limit
+	Mob	1501
+	level_limit	50
 	1	50067	1	3
 	2	50068	1	2
-}				
-				
-Group	투석인			
-{				
-	Type	limit		
-	Mob	1502		
-	level_limit	50		
+}
+
+Group	Stone_Golem
+{
+	Type	limit
+	Mob	1502
+	level_limit	50
 	1	50067	1	3
 	2	50068	1	2
-}				
-				
-Group	거대투석인			
-{				
-	Type	limit		
-	Mob	1503		
-	level_limit	50		
+}
+
+Group	Giant_Rock_Golem
+{
+	Type	limit
+	Mob	1503
+	level_limit	50
 	1	50723	1	4
 	2	50067	1	3
 	3	50068	1	2
-}				
-				
-Group	투귀일군			
-{				
-	Type	limit		
-	Mob	1601		
-	level_limit	50		
+}
+
+Group	Ogre_Warrior
+{
+	Type	limit
+	Mob	1601
+	level_limit	50
 	1	50067	1	3
 	2	50068	1	2
-}				
-				
-Group	투귀감찰병			
-{				
-	Type	limit		
-	Mob	1602		
-	level_limit	50		
+}
+
+Group	Ogre_Butcher
+{
+	Type	limit
+	Mob	1602
+	level_limit	50
 	1	50067	1	4
 	2	50068	1	3
-}				
-				
-Group	투귀천장수1			
-{				
-	Type	drop		
-	Mob	1403		
-	1	50067	1	16
-	2	50068	1	12
-}				
-				
-Group	투귀백장수2			
-{				
-	Type	drop		
-	Mob	1603		
+}
+
+Group	Thousand_Fighter
+{
+	Type	drop
+	Mob	1403
 	1	50067	1	16
 	2	50068	1	12
 }
-Group	거미동굴3층_여왕거미_피리드롭
-{				
-	Type	limit		
-	Mob	2094		
-	level_limit	60		
+
+Group	Ogre_Berserk
+{
+	Type	drop
+	Mob	1603
+	1	50067	1	16
+	2	50068	1	12
+}
+Group	Spider_Baron
+{
+	Type	limit
+	Mob	2094
+	level_limit	60
 	1	30327	1	100
 }
 
-Group	새끼사나운독거미			
-{				
-	type	limit		
-	mob	2071		
-	level_limit	60		
-	1	혈검+4	1	0.5
-	2	묵검+4	1	0.5
-	3	비선검+4	1	0.5
-	4	반월도+4	1	0.5
-	5	호신환패+6	1	0.5
+Group	Best._Baby_Poison_Spider
+{
+	type	limit
+	mob	2071
+	level_limit	60
+	1	104	1	0.5
+	2	114	1	0.5
+	3	124	1	0.5
+	4	134	1	0.5
+	5	13006	1	0.5
 	6	13194	1	0.5
 	7	13205	1	0.5
-	8	응룡갑패+0	1	0.05
-	9	사자각패+0	1	0.05
-}				
-				
-Group	맹사나운독거미			
-{				
-	type	limit		
-	mob	2072		
-	level_limit	60		
-	1	마정도+4	1	0.5
-	2	혈마검+4	1	0.5
-	3	무극검+4	1	0.5
-	4	봉마검+4	1	0.5
-	5	법모+6	1	0.5
-	6	태을모+5	1	0.5
-	7	선광모+4	1	0.5
-	8	나한호패+0	1	0.05
-	9	용린패+0	1	0.05
-}				
-				
-Group	붉은맹사나운독거미			
-{				
-	type	limit		
-	mob	2073		
-	level_limit	60		
-	1	천엽궁+4	1	0.5
-	2	소마궁+4	1	0.5
-	3	천마궁+4	1	0.5
-	4	사일대궁+4	1	0.5
-	5	적혈투구+6	1	0.5
-	6	애희투구+5	1	0.5
-	7	북성투구+4	1	0.5
-	8	용린패+0	1	0.1
-}				
-				
-Group	집게사나운독거미			
-{				
-	type	limit		
-	mob	2074		
-	level_limit	60		
-	1	빙검+4	1	0.5
-	2	십이지검+4	1	0.5
-	3	제세검+4	1	0.5
-	4	사자융+4	1	0.5
-	5	가죽두건+6	1	0.5
-	6	연환두건+5	1	0.5
-	7	철륜두건+4	1	0.5
-	8	용린패+0	1	0.1
-}				
-				
-Group	병정사나운독거미			
-{				
-	type	limit		
-	mob	2075		
-	level_limit	60		
-	1	퇴혼령+4	1	0.5
-	2	금사령+4	1	0.5
-	3	철사령+4	1	0.5
-	4	역사승+6	1	0.5
-	5	철편투구+5	1	0.5
-	6	귀면투구+4	1	0.5
-	7	사자각패+0	1	0.1
-}				
-				
-Group	진병정사나운독거미			
-{				
-	type	limit		
-	mob	2076		
-	level_limit	60		
-	1	퇴혼령+4	1	0.5
-	2	금사령+4	1	0.5
-	3	철사령+4	1	0.5
-	4	역사승+6	1	0.5
-	5	철편투구+5	1	0.5
-	6	귀면투구+4	1	0.5
-	7	사자각패+0	1	0.1
-}				
+	8	13060	1	0.05
+	9	13100	1	0.05
+}
 
-Group	여왕거미2층잡템드롭				
-{					
-	Level_limit	60			
-	Mob	2091			
-	Type	limit			
-	1	30326	1	50	
-}					
+Group	Best._Deadly_Pois._Spider
+{
+	type	limit
+	mob	2072
+	level_limit	60
+	1	1064	1	0.5
+	2	1074	1	0.5
+	3	1084	1	0.5
+	4	1094	1	0.5
+	5	12626	1	0.5
+	6	12645	1	0.5
+	7	12664	1	0.5
+	8	13080	1	0.05
+	9	13120	1	0.05
+}
+
+Group	Best._Red_Poison_Spider
+{
+	type	limit
+	mob	2073
+	level_limit	60
+	1	2094	1	0.5
+	2	2104	1	0.5
+	3	2114	1	0.5
+	4	2124	1	0.5
+	5	12486	1	0.5
+	6	12505	1	0.5
+	7	12524	1	0.5
+	8	13120	1	0.1
+}
+
+Group	Best._Claw_Poison_Spider
+{
+	type	limit
+	mob	2074
+	level_limit	60
+	1	3094	1	0.5
+	2	3104	1	0.5
+	3	3114	1	0.5
+	4	3124	1	0.5
+	5	12346	1	0.5
+	6	12365	1	0.5
+	7	12384	1	0.5
+	8	13120	1	0.1
+}
+
+Group	Best._Sold._Pois._Spider
+{
+	type	limit
+	mob	2075
+	level_limit	60
+	1	5064	1	0.5
+	2	5074	1	0.5
+	3	5084	1	0.5
+	4	12206	1	0.5
+	5	12225	1	0.5
+	6	12244	1	0.5
+	7	13100	1	0.1
+}
+
+Group	Best._Strg._Poison_Spider
+{
+	type	limit
+	mob	2076
+	level_limit	60
+	1	5064	1	0.5
+	2	5074	1	0.5
+	3	5084	1	0.5
+	4	12206	1	0.5
+	5	12225	1	0.5
+	6	12244	1	0.5
+	7	13100	1	0.1
+}
+
+Group	Queen_Spider
+{
+	Level_limit	60
+	Mob	2091
+	Type	limit
+	1	30326	1	50
+}
 
 
-Group	대왕거미			
-{				
-	type	limit		
-	mob	2092		
-	level_limit	60		
+Group	Spider_Baroness
+{
+	type	limit
+	mob	2092
+	level_limit	60
 	1	14163	1	50
 	2	14182	1	40
 	3	14201	1	30
@@ -5236,2094 +5211,726 @@ Group	대왕거미
 	46	11894	1	10
 }
 
-Group	낭인병				
-{					
-	type 	kill			
-	mob	3001			
-	kill_drop	400			
+Group	Gnoll_Warrior
+{
+	type 	kill
+	mob	3001
+	kill_drop	400
 	1	30500	1	100	0
 	2	30512	1	100	0
-}					
-					
-Group	낭인궁사				
-{					
-	type 	kill			
-	mob	3002			
-	kill_drop	300			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	낭인척후병				
-{					
-	type 	kill			
-	mob	3003			
-	kill_drop	250			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	낭인대법사				
-{					
-	type 	kill			
-	mob	3004			
-	kill_drop	200			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	낭인상급장군				
-{					
-	type 	kill			
-	mob	3005			
-	kill_drop	150			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	낭인족부족장				
-{					
-	type 	kill			
-	mob	3090			
-	kill_drop	1			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	낭인족장				
-{					
-	type 	kill			
-	mob	3091			
-	kill_drop	1			
-	1	30500	1	100	0
-	2	30512	1	100	0
-}					
-					
-Group	외안투귀병				
-{					
-	type 	kill			
-	mob	3101			
-	kill_drop	400			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀척후병				
-{					
-	type 	kill			
-	mob	3102			
-	kill_drop	300			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀법사				
-{					
-	type 	kill			
-	mob	3103			
-	kill_drop	250			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀장군				
-{					
-	type 	kill			
-	mob	3104			
-	kill_drop	200			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀상급장군				
-{					
-	type 	kill			
-	mob	3105			
-	kill_drop	150			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀족부족장				
-{					
-	type 	kill			
-	mob	3190			
-	kill_drop	1			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	외안투귀족장				
-{					
-	type 	kill			
-	mob	3191			
-	kill_drop	1			
-	1	30506	1	100	0
-	2	30510	1	100	0
-	3	30522	1	100	0
-}					
-					
-Group	범익병				
-{					
-	type 	kill			
-	mob	3201			
-	kill_drop	400			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익척후병				
-{					
-	type 	kill			
-	mob	3202			
-	kill_drop	300			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익법사				
-{					
-	type 	kill			
-	mob	3203			
-	kill_drop	250			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익장군				
-{					
-	type 	kill			
-	mob	3204			
-	kill_drop	200			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익상급장군				
-{					
-	type 	kill			
-	mob	3205			
-	kill_drop	150			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익족부족장				
-{					
-	type 	kill			
-	mob	3290			
-	kill_drop	1			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	범익족장				
-{					
-	type 	kill			
-	mob	3291			
-	kill_drop	1			
-	1	30504	1	100	0
-	2	30516	1	100	0
-	3	30521	1	100	0
-}					
-					
-Group	망량병				
-{					
-	type 	kill			
-	mob	3301			
-	kill_drop	400			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량척후병				
-{					
-	type 	kill			
-	mob	3302			
-	kill_drop	300			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량법사				
-{					
-	type 	kill			
-	mob	3303			
-	kill_drop	250			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량장군				
-{					
-	type 	kill			
-	mob	3304			
-	kill_drop	200			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량상급장군				
-{					
-	type 	kill			
-	mob	3305			
-	kill_drop	150			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량족부족장				
-{					
-	type 	kill			
-	mob	3390			
-	kill_drop	1			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	망량족장				
-{					
-	type 	kill			
-	mob	3391			
-	kill_drop	1			
-	1	30503	1	100	0
-	2	30509	1	100	0
-	3	30513	1	100	0
-	4	30523	1	100	0
-}					
-					
-Group	어인병				
-{					
-	type 	kill			
-	mob	3401			
-	kill_drop	400			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인척후병				
-{					
-	type 	kill			
-	mob	3402			
-	kill_drop	300			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인법사				
-{					
-	type 	kill			
-	mob	3403			
-	kill_drop	250			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인장군				
-{					
-	type 	kill			
-	mob	3404			
-	kill_drop	200			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인상급장군				
-{					
-	type 	kill			
-	mob	3405			
-	kill_drop	150			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인족부족장				
-{					
-	type 	kill			
-	mob	3490			
-	kill_drop	1			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	어인족장				
-{					
-	type 	kill			
-	mob	3491			
-	kill_drop	1			
-	1	30501	1	100	0
-	2	30511	1	100	0
-	3	30520	1	100	0
-}					
-					
-Group	붉은도적단원				
-{					
-	type 	kill			
-	mob	3501			
-	kill_drop	400			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단상급단원				
-{					
-	type 	kill			
-	mob	3502			
-	kill_drop	300			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단법사				
-{					
-	type 	kill			
-	mob	3503			
-	kill_drop	250			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단장수				
-{					
-	type 	kill			
-	mob	3504			
-	kill_drop	200			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단상급장군				
-{					
-	type 	kill			
-	mob	3505			
-	kill_drop	150			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단부단장				
-{					
-	type 	kill			
-	mob	3590			
-	kill_drop	1			
-	1	30508	1	100	0
-}					
-					
-Group	붉은도적단단장				
-{					
-	type 	kill			
-	mob	3591			
-	kill_drop	1			
-	1	30508	1	100	0
-}					
-					
-Group	진붉은도적단원				
-{					
-	type 	kill			
-	mob	3551			
-	kill_drop	400			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단상급단원				
-{					
-	type 	kill			
-	mob	3552			
-	kill_drop	300			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단법사				
-{					
-	type 	kill			
-	mob	3553			
-	kill_drop	250			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단장수				
-{					
-	type 	kill			
-	mob	3554			
-	kill_drop	200			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단상급장군				
-{					
-	type 	kill			
-	mob	3555			
-	kill_drop	150			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단부단장				
-{					
-	type 	kill			
-	mob	3595			
-	kill_drop	1			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	진붉은도적단단장				
-{					
-	type 	kill			
-	mob	3596			
-	kill_drop	1			
-	1	30508	1	100	0
-	2	30513	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	갑각충				
-{					
-	type 	kill			
-	mob	3601			
-	kill_drop	400			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	갑각투충				
-{					
-	type 	kill			
-	mob	3602			
-	kill_drop	300			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	갑각구충				
-{					
-	type 	kill			
-	mob	3603			
-	kill_drop	250			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	갑각방충				
-{					
-	type 	kill			
-	mob	3604			
-	kill_drop	200			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	갑각신충				
-{					
-	type 	kill			
-	mob	3605			
-	kill_drop	150			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	거대갑각투신충				
-{					
-	type 	kill			
-	mob	3690			
-	kill_drop	1			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	대왕투귀충				
-{					
-	type 	kill			
-	mob	3691			
-	kill_drop	1			
-	1	30505	1	100	0
-	2	30515	1	100	0
-}					
-					
-Group	거인병				
-{					
-	type 	kill			
-	mob	3701			
-	kill_drop	400			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인척후병				
-{					
-	type 	kill			
-	mob	3702			
-	kill_drop	300			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인법사				
-{					
-	type 	kill			
-	mob	3703			
-	kill_drop	250			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인장군				
-{					
-	type 	kill			
-	mob	3704			
-	kill_drop	200			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인상급장군				
-{					
-	type 	kill			
-	mob	3705			
-	kill_drop	150			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인족부족장				
-{					
-	type 	kill			
-	mob	3790			
-	kill_drop	1			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	거인족장				
-{					
-	type 	kill			
-	mob	3791			
-	kill_drop	1			
-	1	30502	1	100	0
-	2	30514	1	100	0
-	3	30518	1	100	0
-}					
-					
-Group	저인병				
-{					
-	type 	kill			
-	mob	3801			
-	kill_drop	400			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인궁사				
-{					
-	type 	kill			
-	mob	3802			
-	kill_drop	300			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인척후병				
-{					
-	type 	kill			
-	mob	3803			
-	kill_drop	250			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인법사				
-{					
-	type 	kill			
-	mob	3804			
-	kill_drop	200			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인상급장군				
-{					
-	type 	kill			
-	mob	3805			
-	kill_drop	150			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인족부족장				
-{					
-	type 	kill			
-	mob	3890			
-	kill_drop	1			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
-Group	저인족장				
-{					
-	type 	kill			
-	mob	3891			
-	kill_drop	1			
-	1	30507	1	100	0
-	2	30517	1	100	0
-	3	30519	1	100	0
-}					
-					
+}
 
-						
-Group	낭인병_약초					
-{						
-	type	drop				
-	Mob	3001				
-	1	50721	1	1		
-}						
-						
-Group	낭인궁사_약초					
-{						
-	type	drop				
-	Mob	3002				
-	1	50722	1	1		
-}						
-						
-Group	낭인척후병_약초					
-{						
-	type	drop				
-	Mob	3003				
-	1	50723	1	1		
-}						
-						
-Group	낭인대법사_약초					
-{						
-	type	drop				
-	Mob	3004				
-	1	50724	1	1		
-}						
-						
-Group	낭인상급장군_약초					
-{						
-	type	drop				
-	Mob	3005				
-	1	50725	1	1		
-}						
-						
-Group	낭인족부족장_약초_보상					
-{						
-	type	drop				
-	Mob	3090				
-	1	50726	1	1		
-	2	70012	1	15		
-	3	39006	1	15		
-	4	25040	1	10		
-	5	70048	1	20		
-	6	70037	1	25		
-	7	70014	1	25		
-	8	70043	1	20		
-	9	39002	1	20		
-	10	27002	50	100		
-	11	27003	30	200		
-	12	27005	30	100		
-	13	27006	20	150		
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	48	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}						
-						
-Group	낭인족장_약초_보상					
-{						
-	type	drop				
-	Mob	3091				
-	1	50727	1	1		
-	2	70012	1	15		
-	3	39006	1	15		
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}						
-						
-Group	외안투귀병_약초					
-{						
-	type	drop				
-	Mob	3101				
-	1	50728	1	1		
-}						
-						
-Group	외안투귀척후병_약초					
-{						
-	type	drop				
-	Mob	3102				
-	1	50721	1	1		
-}						
-						
-Group	외안투귀법사_약초					
-{						
-	type	drop				
-	Mob	3103				
-	1	50722	1	1		
-}						
-						
-Group	외안투귀장군_약초					
-{						
-	type	drop				
-	Mob	3104				
-	1	50723	1	1		
-}						
-						
-Group	외안투귀상급장군_약초					
-{						
-	type	drop				
-	Mob	3105				
-	1	50724	1	1		
-}						
-						
-Group	외안투귀족부족장_약초					
-{						
-	type	drop				
-	Mob	3190				
-	1	50725	1	1		
-	2	70012	1	15		
-	3	39006	1	15		
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}						
-						
-Group	외안투귀족장_약초					
-{						
-	type	drop				
-	Mob	3191				
-	1	50726	1	1		
-	2	70012	1	15		
-	3	39006	1	15		
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}						
-						
-Group	범익병_약초					
-{						
-	type	drop				
-	Mob	3201				
-	1	50727	1	1		
-}						
-						
-Group	범익척후병_약초					
-{						
-	type	drop				
-	Mob	3202				
-	1	50728	1	1		
-}						
-						
-Group	범익법사_약초					
-{						
-	type	drop				
-	Mob	3203				
-	1	50721	1	1		
-}						
-						
-Group	범익장군_약초					
-{						
-	type	drop				
-	Mob	3204				
-	1	50722	1	1		
-}						
-						
-Group	범익상급장군_약초					
-{						
-	type	drop				
-	Mob	3205				
-	1	50723	1	1		
-}						
-						
-Group	범익족부족장_약초					
-{						
-	type	drop				
-	Mob	3290				
-	1	50724	1	1		
-	2	70012	1	15		
-	3	39006	1	15		
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}				
-				
-Group	범익족장_약초			
-{				
-	type	drop		
-	Mob	3291		
-	1	50725	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	망량병_약초			
-{				
-	type	drop		
-	Mob	3301		
-	1	50726	1	1
-}				
-				
-Group	망량척후병_약초			
-{				
-	type	drop		
-	Mob	3302		
-	1	50727	1	1
-}				
-				
-Group	망량법사_약초			
-{				
-	type	drop		
-	Mob	3303		
-	1	50728	1	1
-}				
-				
-Group	망량장군_약초			
-{				
-	type	drop		
-	Mob	3304		
+Group	Gnoll_Archer
+{
+	type 	kill
+	mob	3002
+	kill_drop	300
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	Gnoll_Defender
+{
+	type 	kill
+	mob	3003
+	kill_drop	250
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	Gnoll_Magician
+{
+	type 	kill
+	mob	3004
+	kill_drop	200
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	Gnoll_General
+{
+	type 	kill
+	mob	3005
+	kill_drop	150
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	Gnoll_Lord
+{
+	type 	kill
+	mob	3090
+	kill_drop	1
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	Supreme_Gnoll_Guard
+{
+	type 	kill
+	mob	3091
+	kill_drop	1
+	1	30500	1	100	0
+	2	30512	1	100	0
+}
+
+Group	One-eyed_Slugger
+{
+	type 	kill
+	mob	3101
+	kill_drop	400
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Cyclops_Soldier
+{
+	type 	kill
+	mob	3102
+	kill_drop	300
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Cyclops_Magician
+{
+	type 	kill
+	mob	3103
+	kill_drop	250
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Cyclops_Executioner
+{
+	type 	kill
+	mob	3104
+	kill_drop	200
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	General_Outis
+{
+	type 	kill
+	mob	3105
+	kill_drop	150
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Arges
+{
+	type 	kill
+	mob	3190
+	kill_drop	1
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Polyphemos
+{
+	type 	kill
+	mob	3191
+	kill_drop	1
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}
+
+Group	Manticore_Warrior
+{
+	type 	kill
+	mob	3201
+	kill_drop	400
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Manticore_Soldier
+{
+	type 	kill
+	mob	3202
+	kill_drop	300
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Manticore_Magus
+{
+	type 	kill
+	mob	3203
+	kill_drop	250
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Manticore_Executioner
+{
+	type 	kill
+	mob	3204
+	kill_drop	200
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	General_Cor
+{
+	type 	kill
+	mob	3205
+	kill_drop	150
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Rakshasa
+{
+	type 	kill
+	mob	3290
+	kill_drop	1
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Martyaxwar
+{
+	type 	kill
+	mob	3291
+	kill_drop	1
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}
+
+Group	Lemures_Warrior
+{
+	type 	kill
+	mob	3301
+	kill_drop	400
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_Soldier
+{
+	type 	kill
+	mob	3302
+	kill_drop	300
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_Magician
+{
+	type 	kill
+	mob	3303
+	kill_drop	250
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_Executioner
+{
+	type 	kill
+	mob	3304
+	kill_drop	200
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_General
+{
+	type 	kill
+	mob	3305
+	kill_drop	150
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_Prince
+{
+	type 	kill
+	mob	3390
+	kill_drop	1
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Lemures_Bodyguard
+{
+	type 	kill
+	mob	3391
+	kill_drop	1
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}
+
+Group	Tritonic_Moray
+{
+	type 	kill
+	mob	3401
+	kill_drop	400
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Shark_Soldier
+{
+	type 	kill
+	mob	3402
+	kill_drop	300
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Tritonic_Magician
+{
+	type 	kill
+	mob	3403
+	kill_drop	250
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Tritonic_Hunter
+{
+	type 	kill
+	mob	3404
+	kill_drop	200
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Tritonic_Slasher
+{
+	type 	kill
+	mob	3405
+	kill_drop	150
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	General_Kappa
+{
+	type 	kill
+	mob	3490
+	kill_drop	1
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Triton
+{
+	type 	kill
+	mob	3491
+	kill_drop	1
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}
+
+Group	Red_Thief_Amazon
+{
+	type 	kill
+	mob	3501
+	kill_drop	400
+	1	30508	1	100	0
+}
+
+Group	Red_Thief_Assassin
+{
+	type 	kill
+	mob	3502
+	kill_drop	300
+	1	30508	1	100	0
+}
+
+Group	Red_Thief_Magician
+{
+	type 	kill
+	mob	3503
+	kill_drop	250
+	1	30508	1	100	0
+}
+
+Group	Red_Thief_Executioner
+{
+	type 	kill
+	mob	3504
+	kill_drop	200
+	1	30508	1	100	0
+}
+
+Group	Black_General
+{
+	type 	kill
+	mob	3505
+	kill_drop	150
+	1	30508	1	100	0
+}
+
+Group	Bone_Face
+{
+	type 	kill
+	mob	3590
+	kill_drop	1
+	1	30508	1	100	0
+}
+
+Group	Red_Chief
+{
+	type 	kill
+	mob	3591
+	kill_drop	1
+	1	30508	1	100	0
+}
+
+Group	Brutal_Red_Thief_Amazon
+{
+	type 	kill
+	mob	3551
+	kill_drop	400
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brut._Red_Thief_Assassin
+{
+	type 	kill
+	mob	3552
+	kill_drop	300
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brut._Red_Thief_Magician
+{
+	type 	kill
+	mob	3553
+	kill_drop	250
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brut.RedThiefExecutioner
+{
+	type 	kill
+	mob	3554
+	kill_drop	200
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	White_General
+{
+	type 	kill
+	mob	3555
+	kill_drop	150
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brutal_Bone_Face
+{
+	type 	kill
+	mob	3595
+	kill_drop	1
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brutal_Red_Chief
+{
+	type 	kill
+	mob	3596
+	kill_drop	1
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Crab_Warrior
+{
+	type 	kill
+	mob	3601
+	kill_drop	400
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	Scorpion_Marksman
+{
+	type 	kill
+	mob	3602
+	kill_drop	300
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	Shrimp_Soldier
+{
+	type 	kill
+	mob	3603
+	kill_drop	250
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	Diabolical_Hermit
+{
+	type 	kill
+	mob	3604
+	kill_drop	200
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	Armoured_Crab
+{
+	type 	kill
+	mob	3605
+	kill_drop	150
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	General_Lobster
+{
+	type 	kill
+	mob	3690
+	kill_drop	1
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	King_Crab
+{
+	type 	kill
+	mob	3691
+	kill_drop	1
+	1	30505	1	100	0
+	2	30515	1	100	0
+}
+
+Group	Gigantic_Biter
+{
+	type 	kill
+	mob	3701
+	kill_drop	400
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Gigantic_Slaughterer
+{
+	type 	kill
+	mob	3702
+	kill_drop	300
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Gigantic_Magus
+{
+	type 	kill
+	mob	3703
+	kill_drop	250
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Twiant
+{
+	type 	kill
+	mob	3704
+	kill_drop	200
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Captain_Hooks
+{
+	type 	kill
+	mob	3705
+	kill_drop	150
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Gargoyle
+{
+	type 	kill
+	mob	3790
+	kill_drop	1
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	King_Wubba
+{
+	type 	kill
+	mob	3791
+	kill_drop	1
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}
+
+Group	Hangork
+{
+	type 	kill
+	mob	3801
+	kill_drop	400
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Archie_Ogre
+{
+	type 	kill
+	mob	3802
+	kill_drop	300
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Brawl_Ogre
+{
+	type 	kill
+	mob	3803
+	kill_drop	250
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Ogre_Magus
+{
+	type 	kill
+	mob	3804
+	kill_drop	200
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	General_Ogg
+{
+	type 	kill
+	mob	3805
+	kill_drop	150
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	Captain_Shruk
+{
+	type 	kill
+	mob	3890
+	kill_drop	1
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+Group	The_Great_Ogre
+{
+	type 	kill
+	mob	3891
+	kill_drop	1
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}
+
+
+
+Group	Gnoll_Warrior
+{
+	type	drop
+	Mob	3001
 	1	50721	1	1
-}				
-				
-Group	망량상급장군_약초			
-{				
-	type	drop		
-	Mob	3305		
+}
+
+Group	Gnoll_Archer
+{
+	type	drop
+	Mob	3002
 	1	50722	1	1
-}				
-				
-Group	망량족부족장_약초			
-{				
-	type	drop		
-	Mob	3390		
+}
+
+Group	Gnoll_Defender
+{
+	type	drop
+	Mob	3003
 	1	50723	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}				
-				
-Group	망량족장_약초			
-{				
-	type	drop		
-	Mob	3391		
+}
+
+Group	Gnoll_Magician
+{
+	type	drop
+	Mob	3004
 	1	50724	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	어인병_약초			
-{				
-	type	drop		
-	Mob	3401		
+}
+
+Group	Gnoll_General
+{
+	type	drop
+	Mob	3005
 	1	50725	1	1
-}				
-				
-Group	어인척후병_약초			
-{				
-	type	drop		
-	Mob	3402		
-	1	50726	1	1
-}				
-				
-Group	어인법사_약초			
-{				
-	type	drop		
-	Mob	3403		
-	1	50727	1	1
-}				
-				
-Group	어인장군_약초			
-{				
-	type	drop		
-	Mob	3404		
-	1	50728	1	1
-}				
-				
-Group	어인상급장군_약초			
-{				
-	type	drop		
-	Mob	3405		
-	1	50721	1	1
-}				
-				
-Group	어인족부족장_약초			
-{				
-	type	drop		
-	Mob	3490		
-	1	50722	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}				
-				
-Group	어인족장_약초			
-{				
-	type	drop		
-	Mob	3491		
-	1	50723	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	붉은도적단원_약초			
-{				
-	type	drop		
-	Mob	3501		
-	1	50724	1	1
-}				
-				
-Group	붉은도적단상급단원_약초			
-{				
-	type	drop		
-	Mob	3502		
-	1	50725	1	1
-}				
-				
-Group	붉은도적단법사_약초			
-{				
-	type	drop		
-	Mob	3503		
-	1	50726	1	1
-}				
-				
-Group	붉은도적단장수_약초			
-{				
-	type	drop		
-	Mob	3504		
-	1	50727	1	1
-}				
-				
-Group	붉은도적단상급장군_약초			
-{				
-	type	drop		
-	Mob	3505		
-	1	50728	1	1
-}				
-				
-Group	붉은도적단부단장_약초			
-{				
-	type	drop		
-	Mob	3590		
-	1	50726	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	붉은도적단단장_약초			
-{				
-	type	drop		
-	Mob	3591		
-	1	50727	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	진붉은도적단원_약초			
-{				
-	type	drop		
-	Mob	3551		
-	1	50721	1	1
-}				
-				
-Group	진붉은도적단상급단원_약초			
-{				
-	type	drop		
-	Mob	3552		
-	1	50722	1	1
-}				
-				
-Group	진붉은도적단법사_약초			
-{				
-	type	drop		
-	Mob	3553		
-	1	50723	1	1
-}				
-				
-Group	진붉은도적단장수_약초			
-{				
-	type	drop		
-	Mob	3554		
-	1	50724	1	1
-}				
-				
-Group	진붉은도적단상급장군_약초			
-{				
-	type	drop		
-	Mob	3555		
-	1	50725	1	1
-}				
-				
-Group	진붉은도적단부단장_약초			
-{				
-	type	drop		
-	Mob	3595		
-	1	50728	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}				
-				
-Group	진붉은도적단단장_약초			
-{				
-	type	drop		
-	Mob	3596		
-	1	50721	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	갑각충_약초			
-{				
-	type	drop		
-	Mob	3601		
-	1	50722	1	1
-}				
-				
-Group	갑각투충_약초			
-{				
-	type	drop		
-	Mob	3602		
-	1	50723	1	1
-}				
-				
-Group	갑각구충_약초			
-{				
-	type	drop		
-	Mob	3603		
-	1	50724	1	1
-}				
-				
-Group	갑각방충_약초			
-{				
-	type	drop		
-	Mob	3604		
-	1	50725	1	1
-}				
-				
-Group	갑각신충_약초			
-{				
-	type	drop		
-	Mob	3605		
-	1	50726	1	1
-}				
-				
-Group	거대갑각투신충_약초			
-{				
-	type	drop		
-	Mob	3690		
-	1	50727	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	100
-	17	145	1	15
-	18	146	1	10
-	19	155	1	15
-	20	156	1	10
-	21	1105	1	15
-	22	1106	1	10
-	23	2145	1	15
-	24	2146	1	10
-	25	3145	1	15
-	26	3146	1	10
-	27	5105	1	15
-	28	5106	1	10
-	29	7145	1	15
-	30	7146	1	10
-	31	11295	1	15
-	32	11296	1	10
-	33	11495	1	15
-	34	11496	1	10
-	35	11695	1	15
-	36	11696	1	10
-	37	11895	1	15
-	38	11896	1	10
-	39	30500	1	40
-	40	30501	1	40
-	41	30502	1	40
-	42	30503	1	40
-	43	30504	1	40
-	44	30505	1	40
-	45	30506	1	40
-	46	30507	1	40
-	47	30508	1	40
-	48	30509	1	40
-	49	30510	1	40
-	50	30511	1	40
-	51	30512	1	40
-	52	30513	1	40
-	53	30514	1	40
-	54	30515	1	40
-	55	30516	1	40
-	56	30517	1	40
-	57	30518	1	40
-	58	30519	1	40
-	59	30520	1	40
-	60	30521	1	40
-	61	30522	1	40
-	62	30523	1	40
-}				
-				
-Group	대왕투귀충_약초			
-{				
-	type	drop		
-	Mob	3691		
-	1	50728	1	1
-	2	70012	1	15
-	3	39006	1	15
-	4	25040	1	10
-	5	70048	1	20
-	6	70037	1	25
-	7	70014	1	25
-	8	70043	1	20
-	9	39002	1	20
-	10	27002	50	100
-	11	27003	30	200
-	12	27005	30	100
-	13	27006	20	150
-	14	70014	1	1
-	15	70037	1	1
-	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	거인병_약초			
-{				
-	type	drop		
-	Mob	3701		
-	1	50721	1	1
-}				
-				
-Group	거인척후병_약초			
-{				
-	type	drop		
-	Mob	3702		
-	1	50722	1	1
-}				
-				
-Group	거인법사_약초			
-{				
-	type	drop		
-	Mob	3703		
-	1	50723	1	1
-}				
-				
-Group	거인장군_약초			
-{				
-	type	drop		
-	Mob	3704		
-	1	50724	1	1
-}				
-				
-Group	거인상급장군_약초			
-{				
-	type	drop		
-	Mob	3705		
-	1	50725	1	1
-}				
-				
-Group	거인족부족장_약초_보상			
-{				
-	type	drop		
-	Mob	3790		
+}
+
+Group	Gnoll_Lord
+{
+	type	drop
+	Mob	3090
 	1	50726	1	1
 	2	70012	1	15
 	3	39006	1	15
@@ -7386,12 +5993,12 @@ Group	거인족부족장_약초_보상
 	60	30521	1	40
 	61	30522	1	40
 	62	30523	1	40
-}				
-				
-Group	거인족장_약초_보상			
-{				
-	type	drop		
-	Mob	3791		
+}
+
+Group	Supreme_Gnoll_Guard
+{
+	type	drop
+	Mob	3091
 	1	50727	1	1
 	2	70012	1	15
 	3	39006	1	15
@@ -7408,93 +6015,93 @@ Group	거인족장_약초_보상
 	14	70014	1	1
 	15	70037	1	1
 	16	50254	1	400
-	17	145	1	30
-	18	146	1	20
-	19	155	1	30
-	20	156	1	20
-	21	1105	1	30
-	22	1106	1	20
-	23	2145	1	30
-	24	2146	1	20
-	25	3145	1	30
-	26	3146	1	20
-	27	5105	1	30
-	28	5106	1	20
-	29	7145	1	30
-	30	7146	1	20
-	31	11295	1	30
-	32	11296	1	20
-	33	11495	1	30
-	34	11496	1	20
-	35	11695	1	30
-	36	11696	1	20
-	37	11895	1	30
-	38	11896	1	20
-	39	30500	1	60
-	40	30501	1	60
-	41	30502	1	60
-	42	30503	1	60
-	43	30504	1	60
-	44	30505	1	60
-	45	30506	1	60
-	46	30507	1	60
-	47	30508	1	60
-	48	30509	1	60
-	49	30510	1	60
-	50	30511	1	60
-	51	30512	1	60
-	52	30513	1	60
-	53	30514	1	60
-	54	30515	1	60
-	55	30516	1	60
-	56	30517	1	60
-	57	30518	1	60
-	58	30519	1	60
-	59	30520	1	60
-	60	30521	1	60
-	61	30522	1	60
-	62	30523	1	60
-}				
-				
-Group	저인병_약초			
-{				
-	type	drop		
-	Mob	3801		
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	One-eyed_Slugger
+{
+	type	drop
+	Mob	3101
 	1	50728	1	1
-}				
-				
-Group	저인궁사_약초			
-{				
-	type	drop		
-	Mob	3802		
+}
+
+Group	Cyclops_Soldier
+{
+	type	drop
+	Mob	3102
 	1	50721	1	1
-}				
-				
-Group	저인척후병_약초			
-{				
-	type	drop		
-	Mob	3803		
+}
+
+Group	Cyclops_Magician
+{
+	type	drop
+	Mob	3103
 	1	50722	1	1
-}				
-				
-Group	저인법사_약초			
-{				
-	type	drop		
-	Mob	3804		
+}
+
+Group	Cyclops_Executioner
+{
+	type	drop
+	Mob	3104
 	1	50723	1	1
-}				
-				
-Group	저인상급장군_약초			
-{				
-	type	drop		
-	Mob	3805		
+}
+
+Group	General_Outis
+{
+	type	drop
+	Mob	3105
 	1	50724	1	1
-}				
-				
-Group	저인족부족장_약초_보상			
-{				
-	type	drop		
-	Mob	3890		
+}
+
+Group	Arges
+{
+	type	drop
+	Mob	3190
 	1	50725	1	1
 	2	70012	1	15
 	3	39006	1	15
@@ -7557,12 +6164,1380 @@ Group	저인족부족장_약초_보상
 	60	30521	1	40
 	61	30522	1	40
 	62	30523	1	40
-}				
-				
-Group	저인족장_약초_보상			
-{				
-	type	drop		
-	Mob	3891		
+}
+
+Group	Polyphemos
+{
+	type	drop
+	Mob	3191
+	1	50726	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Manticore_Warrior
+{
+	type	drop
+	Mob	3201
+	1	50727	1	1
+}
+
+Group	Manticore_Soldier
+{
+	type	drop
+	Mob	3202
+	1	50728	1	1
+}
+
+Group	Manticore_Magus
+{
+	type	drop
+	Mob	3203
+	1	50721	1	1
+}
+
+Group	Manticore_Executioner
+{
+	type	drop
+	Mob	3204
+	1	50722	1	1
+}
+
+Group	General_Cor
+{
+	type	drop
+	Mob	3205
+	1	50723	1	1
+}
+
+Group	Rakshasa
+{
+	type	drop
+	Mob	3290
+	1	50724	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	Martyaxwar
+{
+	type	drop
+	Mob	3291
+	1	50725	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Lemures_Warrior
+{
+	type	drop
+	Mob	3301
+	1	50726	1	1
+}
+
+Group	Lemures_Soldier
+{
+	type	drop
+	Mob	3302
+	1	50727	1	1
+}
+
+Group	Lemures_Magician
+{
+	type	drop
+	Mob	3303
+	1	50728	1	1
+}
+
+Group	Lemures_Executioner
+{
+	type	drop
+	Mob	3304
+	1	50721	1	1
+}
+
+Group	Lemures_General
+{
+	type	drop
+	Mob	3305
+	1	50722	1	1
+}
+
+Group	Lemures_Prince
+{
+	type	drop
+	Mob	3390
+	1	50723	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	Lemures_Bodyguard
+{
+	type	drop
+	Mob	3391
+	1	50724	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Tritonic_Moray
+{
+	type	drop
+	Mob	3401
+	1	50725	1	1
+}
+
+Group	Shark_Soldier
+{
+	type	drop
+	Mob	3402
+	1	50726	1	1
+}
+
+Group	Tritonic_Magician
+{
+	type	drop
+	Mob	3403
+	1	50727	1	1
+}
+
+Group	Tritonic_Hunter
+{
+	type	drop
+	Mob	3404
+	1	50728	1	1
+}
+
+Group	Tritonic_Slasher
+{
+	type	drop
+	Mob	3405
+	1	50721	1	1
+}
+
+Group	General_Kappa
+{
+	type	drop
+	Mob	3490
+	1	50722	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	Triton
+{
+	type	drop
+	Mob	3491
+	1	50723	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Red_Thief_Amazon
+{
+	type	drop
+	Mob	3501
+	1	50724	1	1
+}
+
+Group	Red_Thief_Assassin
+{
+	type	drop
+	Mob	3502
+	1	50725	1	1
+}
+
+Group	Red_Thief_Magician
+{
+	type	drop
+	Mob	3503
+	1	50726	1	1
+}
+
+Group	Red_Thief_Executioner
+{
+	type	drop
+	Mob	3504
+	1	50727	1	1
+}
+
+Group	Black_General
+{
+	type	drop
+	Mob	3505
+	1	50728	1	1
+}
+
+Group	Bone_Face
+{
+	type	drop
+	Mob	3590
+	1	50726	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Red_Chief
+{
+	type	drop
+	Mob	3591
+	1	50727	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Brutal_Red_Thief_Amazon
+{
+	type	drop
+	Mob	3551
+	1	50721	1	1
+}
+
+Group	Brut._Red_Thief_Assassin
+{
+	type	drop
+	Mob	3552
+	1	50722	1	1
+}
+
+Group	Brut._Red_Thief_Magician
+{
+	type	drop
+	Mob	3553
+	1	50723	1	1
+}
+
+Group	Brut.RedThiefExecutioner
+{
+	type	drop
+	Mob	3554
+	1	50724	1	1
+}
+
+Group	White_General
+{
+	type	drop
+	Mob	3555
+	1	50725	1	1
+}
+
+Group	Brutal_Bone_Face
+{
+	type	drop
+	Mob	3595
+	1	50728	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	Brutal_Red_Chief
+{
+	type	drop
+	Mob	3596
+	1	50721	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Crab_Warrior
+{
+	type	drop
+	Mob	3601
+	1	50722	1	1
+}
+
+Group	Scorpion_Marksman
+{
+	type	drop
+	Mob	3602
+	1	50723	1	1
+}
+
+Group	Shrimp_Soldier
+{
+	type	drop
+	Mob	3603
+	1	50724	1	1
+}
+
+Group	Diabolical_Hermit
+{
+	type	drop
+	Mob	3604
+	1	50725	1	1
+}
+
+Group	Armoured_Crab
+{
+	type	drop
+	Mob	3605
+	1	50726	1	1
+}
+
+Group	General_Lobster
+{
+	type	drop
+	Mob	3690
+	1	50727	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	King_Crab
+{
+	type	drop
+	Mob	3691
+	1	50728	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Gigantic_Biter
+{
+	type	drop
+	Mob	3701
+	1	50721	1	1
+}
+
+Group	Gigantic_Slaughterer
+{
+	type	drop
+	Mob	3702
+	1	50722	1	1
+}
+
+Group	Gigantic_Magus
+{
+	type	drop
+	Mob	3703
+	1	50723	1	1
+}
+
+Group	Twiant
+{
+	type	drop
+	Mob	3704
+	1	50724	1	1
+}
+
+Group	Captain_Hooks
+{
+	type	drop
+	Mob	3705
+	1	50725	1	1
+}
+
+Group	Gargoyle
+{
+	type	drop
+	Mob	3790
+	1	50726	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	King_Wubba
+{
+	type	drop
+	Mob	3791
+	1	50727	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+
+Group	Hangork
+{
+	type	drop
+	Mob	3801
+	1	50728	1	1
+}
+
+Group	Archie_Ogre
+{
+	type	drop
+	Mob	3802
+	1	50721	1	1
+}
+
+Group	Brawl_Ogre
+{
+	type	drop
+	Mob	3803
+	1	50722	1	1
+}
+
+Group	Ogre_Magus
+{
+	type	drop
+	Mob	3804
+	1	50723	1	1
+}
+
+Group	General_Ogg
+{
+	type	drop
+	Mob	3805
+	1	50724	1	1
+}
+
+Group	Captain_Shruk
+{
+	type	drop
+	Mob	3890
+	1	50725	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	27006	20	150
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	100
+	17	145	1	15
+	18	146	1	10
+	19	155	1	15
+	20	156	1	10
+	21	1105	1	15
+	22	1106	1	10
+	23	2145	1	15
+	24	2146	1	10
+	25	3145	1	15
+	26	3146	1	10
+	27	5105	1	15
+	28	5106	1	10
+	29	7145	1	15
+	30	7146	1	10
+	31	11295	1	15
+	32	11296	1	10
+	33	11495	1	15
+	34	11496	1	10
+	35	11695	1	15
+	36	11696	1	10
+	37	11895	1	15
+	38	11896	1	10
+	39	30500	1	40
+	40	30501	1	40
+	41	30502	1	40
+	42	30503	1	40
+	43	30504	1	40
+	44	30505	1	40
+	45	30506	1	40
+	46	30507	1	40
+	47	30508	1	40
+	48	30509	1	40
+	49	30510	1	40
+	50	30511	1	40
+	51	30512	1	40
+	52	30513	1	40
+	53	30514	1	40
+	54	30515	1	40
+	55	30516	1	40
+	56	30517	1	40
+	57	30518	1	40
+	58	30519	1	40
+	59	30520	1	40
+	60	30521	1	40
+	61	30522	1	40
+	62	30523	1	40
+}
+
+Group	The_Great_Ogre
+{
+	type	drop
+	Mob	3891
 	1	50726	1	1
 	2	70012	1	15
 	3	39006	1	15
@@ -7627,166 +7602,166 @@ Group	저인족장_약초_보상
 	62	30523	1	60
 }
 
-Group	화정				
-{					
-	type 	kill			
-	mob	6001			
-	kill_drop	1000			
+Group	Ember_Flame_Ghost
+{
+	type 	kill
+	mob	6001
+	kill_drop	1000
 	1	30506	1	100	0
 	2	30510	1	100	0
 	3	30522	1	100	0
-}					
-					
-Group	염정				
-{					
-	type 	kill			
-	mob	6002			
-	kill_drop	1000			
+}
+
+Group	Ember_Flame_Tiger
+{
+	type 	kill
+	mob	6002
+	kill_drop	1000
 	1	30504	1	100	0
 	2	30516	1	100	0
 	3	30521	1	100	0
-}					
-					
-Group	극열정				
-{					
-	type 	kill			
-	mob	6003			
-	kill_drop	500			
+}
+
+Group	Ember_Flame
+{
+	type 	kill
+	mob	6003
+	kill_drop	500
 	1	30503	1	100	0
 	2	30509	1	100	0
 	3	30513	1	100	0
-}					
-					
-Group	혈화정				
-{					
-	type 	kill			
-	mob	6004			
-	kill_drop	500			
+}
+
+Group	Ember_Flame_Warrior
+{
+	type 	kill
+	mob	6004
+	kill_drop	500
 	1	30506	1	100	0
 	2	30510	1	100	0
 	3	30522	1	100	0
-}					
-					
-Group	화마				
-{					
-	type 	kill			
-	mob	6005			
-	kill_drop	100			
+}
+
+Group	Ember_Flame_King
+{
+	type 	kill
+	mob	6005
+	kill_drop	100
 	1	30504	1	100	0
 	2	30516	1	100	0
 	3	30521	1	100	0
 	4	30550	1	10	0
-}					
-					
-Group	염마				
-{					
-	type 	kill			
-	mob	6006			
-	kill_drop	100			
+}
+
+Group	Ember_Flame_Golem
+{
+	type 	kill
+	mob	6006
+	kill_drop	100
 	1	30503	1	100	0
 	2	30509	1	100	0
 	3	30513	1	100	0
 	4	30550	1	50	0
-}					
-					
-Group	화괴				
-{					
-	type 	kill			
-	mob	6007			
-	kill_drop	100			
+}
+
+Group	Ember_Flame_Beard
+{
+	type 	kill
+	mob	6007
+	kill_drop	100
 	1	30506	1	100	0
 	2	30510	1	100	0
 	3	30522	1	100	0
 	4	30550	1	60	0
-}					
-					
-Group	염괴				
-{					
-	type 	kill			
-	mob	6008			
-	kill_drop	50			
+}
+
+Group	Ember_Flame_General
+{
+	type 	kill
+	mob	6008
+	kill_drop	50
 	1	30504	1	100	0
 	2	30516	1	100	0
 	3	30521	1	100	0
 	4	30550	1	80	0
-}					
-					
-Group	초열괴				
-{					
-	type 	kill			
-	mob	6009			
-	kill_drop	50			
+}
+
+Group	Ember_Flame_Chieftain
+{
+	type 	kill
+	mob	6009
+	kill_drop	50
 	1	30503	1	100	0
 	2	30509	1	100	0
 	3	30513	1	100	0
 	4	30550	1	100	0
-}					
-					
-Group	적룡성_야마천_보상				
-{					
-	type	drop			
-	Mob	6091			
-	1	50726	1	1	
-	2	70012	1	15	
-	3	39006	1	15	
-	4	25040	1	10	
-	5	70048	1	20	
-	6	70037	1	25	
-	7	70014	1	25	
-	8	70043	1	20	
-	9	39002	1	20	
-	10	27002	50	100	
-	11	27003	30	200	
-	12	27005	30	100	
-	13	50300	1	400	
-	14	70014	1	1	
-	15	70037	1	1	
-	16	50254	1	400	
-	17	145	1	30	
-	18	146	1	20	
-	19	155	1	30	
-	20	156	1	20	
-	21	1105	1	30	
-	22	1106	1	20	
-	23	2145	1	30	
-	24	2146	1	20	
-	25	3145	1	30	
-	26	3146	1	20	
-	27	5105	1	30	
-	28	5106	1	20	
-	29	7145	1	30	
-	30	7146	1	20	
-	31	11295	1	30	
-	32	11296	1	20	
-	33	11495	1	30	
-	34	11496	1	20	
-	35	11695	1	30	
-	36	11696	1	20	
-	37	11895	1	30	
-	38	11896	1	20	
-	39	30500	1	60	
-	40	30501	1	60	
-	41	30502	1	60	
-	42	30503	1	60	
-	43	30504	1	60	
-	44	30505	1	60	
-	45	30506	1	60	
-	46	30507	1	60	
-	47	30508	1	60	
-	48	30509	1	60	
-	49	30510	1	60	
-	50	30511	1	60	
-	51	30512	1	60	
-	52	30513	1	60	
-	53	30514	1	60	
-	54	30515	1	60	
-	55	30516	1	60	
-	56	30517	1	60	
-	57	30518	1	60	
-	58	30519	1	60	
-	59	30520	1	60	
-	60	30521	1	60	
-	61	30522	1	60	
-	62	30523	1	60	
 }
-	
+
+Group	Razador
+{
+	type	drop
+	Mob	6091
+	1	50726	1	1
+	2	70012	1	15
+	3	39006	1	15
+	4	25040	1	10
+	5	70048	1	20
+	6	70037	1	25
+	7	70014	1	25
+	8	70043	1	20
+	9	39002	1	20
+	10	27002	50	100
+	11	27003	30	200
+	12	27005	30	100
+	13	50300	1	400
+	14	70014	1	1
+	15	70037	1	1
+	16	50254	1	400
+	17	145	1	30
+	18	146	1	20
+	19	155	1	30
+	20	156	1	20
+	21	1105	1	30
+	22	1106	1	20
+	23	2145	1	30
+	24	2146	1	20
+	25	3145	1	30
+	26	3146	1	20
+	27	5105	1	30
+	28	5106	1	20
+	29	7145	1	30
+	30	7146	1	20
+	31	11295	1	30
+	32	11296	1	20
+	33	11495	1	30
+	34	11496	1	20
+	35	11695	1	30
+	36	11696	1	20
+	37	11895	1	30
+	38	11896	1	20
+	39	30500	1	60
+	40	30501	1	60
+	41	30502	1	60
+	42	30503	1	60
+	43	30504	1	60
+	44	30505	1	60
+	45	30506	1	60
+	46	30507	1	60
+	47	30508	1	60
+	48	30509	1	60
+	49	30510	1	60
+	50	30511	1	60
+	51	30512	1	60
+	52	30513	1	60
+	53	30514	1	60
+	54	30515	1	60
+	55	30516	1	60
+	56	30517	1	60
+	57	30518	1	60
+	58	30519	1	60
+	59	30520	1	60
+	60	30521	1	60
+	61	30522	1	60
+	62	30523	1	60
+}
+

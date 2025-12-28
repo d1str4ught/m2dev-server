@@ -1,12 +1,12 @@
-Group	a1_01		
-{			
-	Vnum	101	
+Group	a1_01
+{
+	Vnum	101
 	1	101	1
 	2	171	1
-}			
-Group	a1_02		
-{			
-	Vnum	102	
+}
+Group	a1_02
+{
+	Vnum	102
 	1	101	1
 	2	102	1
 	3	103	1
@@ -15,19 +15,19 @@ Group	a1_02
 	6	172	1
 	7	173	1
 	8	174	1
-}			
-Group	a1_03		
-{			
-	Vnum	103	
+}
+Group	a1_03
+{
+	Vnum	103
 	1	105	1
 	2	106	1
 	3	173	1
 	4	174	1
-}			
-			
-Group	a1_04		
-{			
-	Vnum	104	
+}
+
+Group	a1_04
+{
+	Vnum	104
 	1	107	1
 	2	108	1
 	3	109	1
@@ -37,11 +37,11 @@ Group	a1_04
 	7	177	1
 	8	178	1
 	9	179	1
-}			
-Group	a1_05		
-{			
-	Vnum	105	
-			
+}
+Group	a1_05
+{
+	Vnum	105
+
 	1	112	1
 	2	113	1
 	3	114	1
@@ -51,10 +51,10 @@ Group	a1_05
 	7	179	1
 	8	180	1
 	9	181	1
-}			
-Group	a1_06		
-{			
-	Vnum	106	
+}
+Group	a1_06
+{
+	Vnum	106
 	1	118	10
 	2	119	10
 	3	120	10
@@ -64,28 +64,28 @@ Group	a1_06
 	7	181	15
 	8	182	15
 	9	183	15
-}			
-Group	a1_07		
-{			
-	Vnum	107	
+}
+Group	a1_07
+{
+	Vnum	107
 	1	124	1
 	2	125	1
 	3	126	1
 	4	184	1
 	5	185	1
-}			
-Group	a1_08		
-{			
-	Vnum	108	
+}
+Group	a1_08
+{
+	Vnum	108
 	1	305	1
 	2	306	1
 	3	307	1
 	4	351	1
 	5	352	1
-}			
-Group	a1_09		
-{			
-	Vnum	109	
+}
+Group	a1_09
+{
+	Vnum	109
 	1	308	1
 	2	309	1
 	3	310	1
@@ -94,10 +94,10 @@ Group	a1_09
 	6	352	1
 	7	395	1
 	8	396	1
-}			
-Group	a1_10		
-{			
-	Vnum	110	
+}
+Group	a1_10
+{
+	Vnum	110
 	1	309	1
 	2	310	1
 	3	313	1
@@ -108,37 +108,37 @@ Group	a1_10
 	8	396	1
 	9	398	1
 	10	397	1
-}	
-Group	a1_11		
-{			
-	Vnum	111	
+}
+Group	a1_11
+{
+	Vnum	111
 	1	30009	1
 	2	30010	1
 	3	137	1
 	4	136	1
 	5	135	1
-}		
-Group	a3_01		
-{			
-	Vnum	201	
+}
+Group	a3_01
+{
+	Vnum	201
 	1	401	1
 	2	402	1
 	3	403	1
 	4	453	1
 	5	454	1
-}			
-Group	a3_02		
-{			
-	Vnum	202	
+}
+Group	a3_02
+{
+	Vnum	202
 	1	404	1
 	2	405	1
 	3	406	1
 	4	453	1
 	5	454	1
-}			
-Group	a3_03		
-{			
-	Vnum	203	
+}
+Group	a3_03
+{
+	Vnum	203
 	1	407	1
 	2	408	1
 	3	409	1
@@ -146,37 +146,37 @@ Group	a3_03
 	5	411	1
 	6	455	2
 	7	456	2
-}			
-Group	a3_04		
-{			
-	Vnum	204	
+}
+Group	a3_04
+{
+	Vnum	204
 	1	501	1
 	2	502	1
 	3	503	1
 	4	551	2
 	5	552	2
-}			
-Group	a3_05		
-{			
-	Vnum	205	
+}
+Group	a3_05
+{
+	Vnum	205
 	1	504	1
 	2	505	1
 	3	506	1
 	4	507	1
 	5	554	2
 	6	553	2
-}			
-Group	a3_06		
-{			
-	Vnum	206	
+}
+Group	a3_06
+{
+	Vnum	206
 	1	305	1
 	2	306	1
 	3	307	1
 	4	308	1
-}			
-Group	n3way_01		
-{			
-	Vnum	301	
+}
+Group	n3way_01
+{
+	Vnum	301
 	1	601	1
 	2	602	1
 	3	603	1
@@ -184,10 +184,10 @@ Group	n3way_01
 	5	651	1
 	6	653	1
 	7 	658 1
-}			
-Group	n3way_02		
-{			
-	Vnum	302	
+}
+Group	n3way_02
+{
+	Vnum	302
 	1	605	1
 	2	606	1
 	3	607	1
@@ -195,10 +195,10 @@ Group	n3way_02
 	5	609	1
 	6	610	1
 	7	652	2
-}			
-Group	n3way_03		
-{			
-	Vnum	303	
+}
+Group	n3way_03
+{
+	Vnum	303
 	1	611	1
 	2	612	1
 	3	613	1
@@ -206,20 +206,20 @@ Group	n3way_03
 	5	654	1
 	6	655	1
 	7	656	1
-}			
-Group	n3way_04		
-{			
-	Vnum	304	
+}
+Group	n3way_04
+{
+	Vnum	304
 	1	614	1
 	2	615	1
 	3	616	1
 	4	617	1
 	5	656	1
 	6	657	2
-}			
-Group	n3way_05		
-{			
-	Vnum	305	
+}
+Group	n3way_05
+{
+	Vnum	305
 	1	701	1
 	2	702	1
 	3	703	1
@@ -227,20 +227,20 @@ Group	n3way_05
 	5	705	1
 	6	706	1
 	7	751	7
-}			
-Group	n3way_06		
-{			
-	Vnum	306	
+}
+Group	n3way_06
+{
+	Vnum	306
 	1	707	1
 	2	708	1
 	3	709	1
 	4	710	1
 	5	711	1
 	6	712	1
-}			
-Group	de_01		
-{			
-	Vnum	401	
+}
+Group	de_01
+{
+	Vnum	401
 	1	1301	1
 	2	1302	1
 	3	1303	1
@@ -249,29 +249,29 @@ Group	de_01
 	6	2003	1
 	7	4071	3
 	8	4072	3
-}			
-Group	de_02		
-{			
-	Vnum	402	
+}
+Group	de_02
+{
+	Vnum	402
 	1	1304	1
 	2	1305	1
 	3	2004	1
 	4	2005	1
 	5	4074	3
 	6	4075	3
-}			
-Group	de_03		
-{			
-	Vnum	403	
+}
+Group	de_03
+{
+	Vnum	403
 	1	1306	1
 	2	1307	1
 	3	2006	1
 	4	2007	1
 	5	2158	4
-}			
-Group	de_04		
-{			
-	Vnum	404	
+}
+Group	de_04
+{
+	Vnum	404
 	1	1308	1
 	2	1309	1
 	3	1310	1
@@ -279,88 +279,88 @@ Group	de_04
 	5	2009	1
 	6	2131	1
 	7	2158	4
-}			
-Group	seohan_01		
-{			
-	Vnum	501	
+}
+Group	seohan_01
+{
+	Vnum	501
 	1	901	1
 	2	902	1
 	3	903	1
 	4	904	1
 	5	905	1
 	6	933	4
-}			
-Group	seohan_02		
-{			
-	Vnum	502	
+}
+Group	seohan_02
+{
+	Vnum	502
 	1	906	1
 	2	907	1
 	3	908	1
 	4	909	1
 	5	910	1
 	6	936	5
-}			
-Group	seohan_03		
-{			
-	Vnum	503	
+}
+Group	seohan_03
+{
+	Vnum	503
 	1	911	1
 	2	912	1
 	3	913	1
-}			
-Group	seohan_04		
-{			
-	Vnum	504	
+}
+Group	seohan_04
+{
+	Vnum	504
 	1	1101	1
 	2	1102	1
 	3	1103	1
 	4	1104	1
 	5	1171	4
-}			
-Group	seohan_05		
-{			
-	Vnum	505	
+}
+Group	seohan_05
+{
+	Vnum	505
 	1	1106	1
 	2	1107	1
 	3	1108	1
 	4	1105	1
 	5	1171	4
-}			
-Group	seohan_06		
-{			
-	Vnum	506	
+}
+Group	seohan_06
+{
+	Vnum	506
 	1	1109	1
 	2	1110	1
 	3	1111	1
 	4	1171	3
-}			
-Group	seohan_07		
-{			
-	Vnum	507	
+}
+Group	seohan_07
+{
+	Vnum	507
 	1	1111	1
 	2	1112	1
 	3	1113	1
-}			
-Group	mil_01		
-{			
-	Vnum	601	
+}
+Group	mil_01
+{
+	Vnum	601
 	1	714	1
 	2	715	1
 	3	716	1
 	4	717	1
 	5	774	5
-}			
-Group	mil_02		
-{			
-	Vnum	602	
+}
+Group	mil_02
+{
+	Vnum	602
 	1	718	1
 	2	719	1
 	3	720	1
 	4	721	1
 	5	775	5
-}			
-Group	mil_03		
-{			
-	Vnum	603	
+}
+Group	mil_03
+{
+	Vnum	603
 	1	725	1
 	2	726	1
 	3	2101	1
@@ -368,10 +368,10 @@ Group	mil_03
 	5	2103	1
 	6	776	3
 	7	777	3
-}			
-Group	mil_04		
-{			
-	Vnum	604	
+}
+Group	mil_04
+{
+	Vnum	604
 	1	725	1
 	2	726	1
 	3	2101	1
@@ -379,268 +379,268 @@ Group	mil_04
 	5	2103	1
 	6	776	2
 	7	777	2
-}			
-Group	mil_05		
-{			
-	Vnum	605	
+}
+Group	mil_05
+{
+	Vnum	605
 	1	2104	1
 	2	2105	1
 	3	2106	1
 	4	2107	1
 	5	1332	4
-}			
-Group	mil_06		
-{			
-	Vnum	606	
+}
+Group	mil_06
+{
+	Vnum	606
 	1	2107	1
 	2	2108	1
 	3	2109	1
 	4	1332	4
-}			
-Group	spider_01		
-{			
-	Vnum	701	
+}
+Group	spider_01
+{
+	Vnum	701
 	1	2010	1
 	2	2011	1
 	3	2012	1
-}			
-Group	spider_02		
-{			
-	Vnum	702	
+}
+Group	spider_02
+{
+	Vnum	702
 	1	2013	1
 	2	2014	1
-}			
-Group	spider_03		
-{			
-	Vnum	703	
+}
+Group	spider_03
+{
+	Vnum	703
 	1	2015	1
 	2	2016	1
-}			
-Group	spider_04		
-{			
-	Vnum	704	
+}
+Group	spider_04
+{
+	Vnum	704
 	1	2017	1
 	2	2018	1
-}			
-Group	fire_01		
-{			
-	Vnum	801	
+}
+Group	fire_01
+{
+	Vnum	801
 	1	2201	1
 	2	2202	1
 	3	2203	1
-}			
-Group	fire_02		
-{			
-	Vnum	802	
+}
+Group	fire_02
+{
+	Vnum	802
 	1	2203	3
 	2	2204	4
 	3	2205	3
-}			
-Group	fire_03		
-{			
-	Vnum	803	
+}
+Group	fire_03
+{
+	Vnum	803
 	1	2205	4
 	2	2206	3
 	3	2207	3
-}			
-Group	fire_04		
-{			
-	Vnum	804	
+}
+Group	fire_04
+{
+	Vnum	804
 	1	2208	1
 	2	2209	1
-}			
-Group	monkey_11		
-{			
-	Vnum	901	
+}
+Group	monkey_11
+{
+	Vnum	901
 	1	5001	1
 	2	5002	1
 	3	5003	1
-}			
-Group	monkey_12		
-{			
-	Vnum	902	
+}
+Group	monkey_12
+{
+	Vnum	902
 	1	5003	1
 	2	5004	1
 	3	5005	1
-}			
-Group	monkey_13		
-{			
-	Vnum	903	
+}
+Group	monkey_13
+{
+	Vnum	903
 	1	5005	1
 	2	5006	1
 	3	5007	1
-}			
-Group	monkey_21		
-{			
-	Vnum	911	
+}
+Group	monkey_21
+{
+	Vnum	911
 	1	5009	1
 	2	5010	1
 	3	5011	1
-}			
-Group	monkey_22		
-{			
-	Vnum	912	
+}
+Group	monkey_22
+{
+	Vnum	912
 	1	5011	1
 	2	5012	1
 	3	5013	1
-}			
-Group	monkey_23		
-{			
-	Vnum	913	
+}
+Group	monkey_23
+{
+	Vnum	913
 	1	5013	1
 	2	5014	1
-}			
-Group	monkey_24		
-{			
-	Vnum	914	
+}
+Group	monkey_24
+{
+	Vnum	914
 	1	5015	1
 	2	5016	1
-}			
-Group	monkey_31		
-{			
-	Vnum	921	
+}
+Group	monkey_31
+{
+	Vnum	921
 	1	5019	1
 	2	5020	1
 	3	5151	1
 	4	5152	1
-}			
-Group	monkey_32		
-{			
-	Vnum	922	
+}
+Group	monkey_32
+{
+	Vnum	922
 	1	5021	1
 	2	5022	1
 	3	5023	1
 	4	5153	1
 	5	5154	1
-}			
-Group	monkey_33		
-{			
-	Vnum	923	
+}
+Group	monkey_33
+{
+	Vnum	923
 	1	5023	1
 	2	5024	1
 	3	5025	1
 	4	5155	1
 	5	5156	1
-}			
-Group	monkey_34		
-{			
-	Vnum	924	
+}
+Group	monkey_34
+{
+	Vnum	924
 	1	5025	1
 	2	5026	1
 	3	5027	1
-}			
-			
-Group	devil_51		
-{			
-	Vnum	1051	
+}
+
+Group	devil_51
+{
+	Vnum	1051
 	1	1005	1
 	2	1006	1
 	3	1007	1
-}			
-			
-Group	devil_52		
-{			
-	Vnum	1052	
+}
+
+Group	devil_52
+{
+	Vnum	1052
 	1	1008	1
 	2	1009	1
 	3	1010	1
-}			
-			
-Group	devil_53		
-{			
-	Vnum	1053	
+}
+
+Group	devil_53
+{
+	Vnum	1053
 	1	1011	1
 	2	1012	1
 	3	1013	1
-}			
-			
-Group	devil_61		
-{			
-	Vnum	1061	
+}
+
+Group	devil_61
+{
+	Vnum	1061
 	1	1008	1
 	2	1009	1
 	3	1010	1
-}			
-			
-Group	devil_62		
-{			
-	Vnum	1062	
+}
+
+Group	devil_62
+{
+	Vnum	1062
 	1	1011	1
 	2	1012	1
 	3	1013	1
-}			
-			
-Group	devil_63		
-{			
-	Vnum	1063	
+}
+
+Group	devil_63
+{
+	Vnum	1063
 	1	1013	1
 	2	1014	1
 	3	1015	1
-}			
-			
-Group	devil_71		
-{			
-	Vnum	1064	
+}
+
+Group	devil_71
+{
+	Vnum	1064
 	1	1015	1
 	2	1016	1
 	3	1017	1
-}			
-			
-Group	devil_72		
-{			
-	Vnum	1065	
+}
+
+Group	devil_72
+{
+	Vnum	1065
 	1	1018	1
 	2	1019	1
 	3	1020	1
-}			
-			
-Group	devil_81		
-{			
-	Vnum	1066	
+}
+
+Group	devil_81
+{
+	Vnum	1066
 	1	1019	1
 	2	1020	1
 	3	1021	1
-}			
-			
-Group	devil_82		
-{			
-	Vnum	1067	
+}
+
+Group	devil_82
+{
+	Vnum	1067
 	1	1020	1
 	2	1021	1
 	3	1022	1
-}			
-			
-Group	devil_91		
-{			
-	Vnum	1068	
+}
+
+Group	devil_91
+{
+	Vnum	1068
 	1	1021	1
 	2	1022	1
 	3	1023	1
 	4	1027	1
-}			
-			
-Group	devil_92		
-{			
-	Vnum	1069	
+}
+
+Group	devil_92
+{
+	Vnum	1069
 	1	1027	1
 	2	1028	1
 	3	1029	1
 	4	1030	1
-}			
-			
-Group	deposit_1		
-{			
-	Vnum	2001	
+}
+
+Group	deposit_1
+{
+	Vnum	2001
 	1	20049	35
 	2	20050	30
 	3	20051	20
 	4	20052	15
 	5	20047	18
-}			
-			
-Group	deposit_2		
-{			
-	Vnum	2002	
+}
+
+Group	deposit_2
+{
+	Vnum	2002
 	1	20049	12
 	2	20050	18
 	3	20051	20
@@ -648,22 +648,22 @@ Group	deposit_2
 	5	20053	18
 	6	20054	12
 	7	20047	12
-}			
-			
-Group	deposit_n_three		
-{			
-	Vnum	2003	
+}
+
+Group	deposit_n_three
+{
+	Vnum	2003
 	1	20052	30
 	2	20053	25
 	3	20054	20
 	4	20055	15
 	5	20056	10
 	6	20047	15
-}			
-			
-Group	deposit_ice		
-{			
-	Vnum	2004	
+}
+
+Group	deposit_ice
+{
+	Vnum	2004
 	1	20054	5
 	2	20055	10
 	3	20056	10
@@ -671,22 +671,22 @@ Group	deposit_ice
 	5	20058	20
 	6	20059	25
 	7	20047	7
-}			
-			
-Group	deposit_fire		
-{			
-	Vnum	2005	
+}
+
+Group	deposit_fire
+{
+	Vnum	2005
 	1	20055	10
 	2	20056	10
 	3	20057	15
 	4	20058	20
 	5	20059	25
 	6	20047	12
-}			
-			
-Group	deposit_samak		
-{			
-	Vnum	2006	
+}
+
+Group	deposit_samak
+{
+	Vnum	2006
 	1	20052	12
 	2	20053	18
 	3	20054	20
@@ -694,11 +694,11 @@ Group	deposit_samak
 	5	20056	18
 	6	20057	12
 	7	20047	12
-}			
-			
-Group	deposit_milkyo		
-{			
-	Vnum	2007	
+}
+
+Group	deposit_milkyo
+{
+	Vnum	2007
 	1	20054	10
 	2	20055	10
 	3	20056	15
@@ -706,441 +706,441 @@ Group	deposit_milkyo
 	5	20058	20
 	6	20059	15
 	7	20047	10
-}			
-			
-Group	guild_map_1		
-{			
-	Vnum	1101	
+}
+
+Group	guild_map_1
+{
+	Vnum	1101
 	1	127	1
 	2	128	1
 	3	129	1
-}			
-			
-Group	guild_map_2		
-{			
-	Vnum	1102	
+}
+
+Group	guild_map_2
+{
+	Vnum	1102
 	1	129	1
 	2	130	1
 	3	131	1
-}			
-			
-Group	guild_map_3		
-{			
-	Vnum	1103	
+}
+
+Group	guild_map_3
+{
+	Vnum	1103
 	1	131	1
 	2	132	1
 	3	133	1
-}			
-			
-Group	guild_map_4		
-{			
-	Vnum	1104	
+}
+
+Group	guild_map_4
+{
+	Vnum	1104
 	1	134	1
 	2	135	1
 	3	136	1
-}			
-			
-Group	trent_1		
-{			
-	Vnum	2301	
+}
+
+Group	trent_1
+{
+	Vnum	2301
 	1	2301	1
 	2	2302	1
 	3	2303	1
-}			
-			
-Group	trent_2		
-{			
-	Vnum	2302	
+}
+
+Group	trent_2
+{
+	Vnum	2302
 	1	2302	1
 	2	2303	1
 	3	2304	1
-}			
-			
-Group	trent_3		
-{			
-	Vnum	2303	
+}
+
+Group	trent_3
+{
+	Vnum	2303
 	1	2304	1
 	2	2305	1
 	3	2306	1
 	4	2307	1
-}			
-			
-Group	trent_4		
-{			
-	Vnum	2304	
+}
+
+Group	trent_4
+{
+	Vnum	2304
 	1	2306	1
 	2	2307	1
 	3	2308	1
-}			
-			
-Group	trent_5		
-{			
-	Vnum	2305	
+}
+
+Group	trent_5
+{
+	Vnum	2305
 	1	2309	1
 	2	2310	1
 	3	2311	1
 	4	2312	1
 	5	2313	1
-}			
-			
-Group	trent2_1		
-{			
-	Vnum	2311	
+}
+
+Group	trent2_1
+{
+	Vnum	2311
 	1	2320	1
 	2	2321	1
 	3	2322	1
-}			
-			
-Group	trent2_2		
-{			
-	Vnum	2312	
+}
+
+Group	trent2_2
+{
+	Vnum	2312
 	1	2322	1
 	2	2323	1
 	3	2324	1
-}			
-			
-Group	trent2_3		
-{			
-	Vnum	2313	
+}
+
+Group	trent2_3
+{
+	Vnum	2313
 	1	2324	1
 	2	2325	1
 	3	2326	1
 	4	2327	1
-}			
-			
-Group	trent2_4		
-{			
-	Vnum	2314	
+}
+
+Group	trent2_4
+{
+	Vnum	2314
 	1	2326	1
 	2	2327	1
 	3	2328	1
-}			
-			
-Group	trent2_5		
-{			
-	Vnum	2315	
+}
+
+Group	trent2_5
+{
+	Vnum	2315
 	1	2329	1
 	2	2330	1
 	3	2331	1
 	4	2332	1
 	5	2333	1
-}			
-			
-Group	nusluck1_1		
-{			
-	Vnum	1401	
+}
+
+Group	nusluck1_1
+{
+	Vnum	1401
 	1	1401	1
 	2	1601	1
-}			
-			
-Group	nusluck1_2		
-{			
-	Vnum	1402	
-	1	1401	1
-	2	1601	1
-	3	1602	1
-}			
-			
-Group	nusluck2_1		
-{			
-	Vnum	1451	
+}
+
+Group	nusluck1_2
+{
+	Vnum	1402
 	1	1401	1
 	2	1601	1
 	3	1602	1
-}			
-			
-Group	nusluck2_2		
-{			
-	Vnum	1452	
+}
+
+Group	nusluck2_1
+{
+	Vnum	1451
+	1	1401	1
+	2	1601	1
+	3	1602	1
+}
+
+Group	nusluck2_2
+{
+	Vnum	1452
 	1	1401	1
 	2	1601	1
 	3	1602	1
 	4	1402	1
 	5	1603	1
-}			
-			
-Group	nusluck2_3		
-{			
-	Vnum	1453	
+}
+
+Group	nusluck2_3
+{
+	Vnum	1453
 	1	1601	1
 	2	1402	1
 	3	1602	1
 	4	1603	1
 	5	1403	1
-}			
-			
-Group	golem_1		
-{			
-	Vnum	1501	
+}
+
+Group	golem_1
+{
+	Vnum	1501
 	1	1501	6
 	2	1502	4
-}			
-			
-Group	golem_2		
-{			
-	Vnum	1502	
+}
+
+Group	golem_2
+{
+	Vnum	1502
 	1	1501	4
 	2	1502	6
-}			
-			
-Group	golem_3		
-{			
-	Vnum	1503	
+}
+
+Group	golem_3
+{
+	Vnum	1503
 	1	1501	2
 	2	1502	5
 	3	1503	3
-}			
-			
-Group	golem_4		
-{			
-	Vnum	1504	
+}
+
+Group	golem_4
+{
+	Vnum	1504
 	1	1502	6
 	2	1503	4
-}			
-			
-Group	spider2_01		
-{			
-	Vnum	2051	
+}
+
+Group	spider2_01
+{
+	Vnum	2051
 	1	2051	6
 	2	2052	4
 	3	2060	4
 	4	2061	3
-}			
-			
-Group	spider2_02		
-{			
-	Vnum	2052	
+}
+
+Group	spider2_02
+{
+	Vnum	2052
 	1	2053	4
 	2	2054	6
 	3	2062	4
 	4	2063	3
-}			
-			
-Group	spider2_03		
-{			
-	Vnum	2053	
+}
+
+Group	spider2_03
+{
+	Vnum	2053
 	1	2055	2
 	2	2056	5
 	3	2057	3
 	4	2065	4
 	5	2066	3
-}			
-			
-Group	spider2_04		
-{			
-	Vnum	2054	
+}
+
+Group	spider2_04
+{
+	Vnum	2054
 	1	2058	6
 	2	2059	4
 	3	2067	4
 	4	2068	3
-}			
-			
-Group	spider2_05		
-{			
-	Vnum	2055	
+}
+
+Group	spider2_05
+{
+	Vnum	2055
 	1	2069	4
 	2	2068	3
 	3	2059	2
 	4	2066	1
-}			
-			
-Group	skipia1_01		
-{			
-	Vnum	2401	
+}
+
+Group	skipia1_01
+{
+	Vnum	2401
 	1	2401	1
 	2	2402	1
-}			
-			
-Group	skipia1_02		
-{			
-	Vnum	2402	
+}
+
+Group	skipia1_02
+{
+	Vnum	2402
 	1	2403	1
 	2	2404	1
-}			
-			
-Group	skipia1_03		
-{			
-	Vnum	2403	
+}
+
+Group	skipia1_03
+{
+	Vnum	2403
 	1	2405	1
 	2	2406	1
-}			
-			
-Group	skipia1_04		
-{			
-	Vnum	2404	
+}
+
+Group	skipia1_04
+{
+	Vnum	2404
 	1	2407	1
 	2	2408	1
-}			
-			
-Group	skipia1_05		
-{			
-	Vnum	2405	
+}
+
+Group	skipia1_05
+{
+	Vnum	2405
 	1	2409	1
 	2	2410	1
-}			
-			
-Group	skipia1_06		
-{			
-	Vnum	2406	
+}
+
+Group	skipia1_06
+{
+	Vnum	2406
 	1	2411	1
 	2	2412	1
-}			
-			
-Group	skipia1_07		
-{			
-	Vnum	2407	
+}
+
+Group	skipia1_07
+{
+	Vnum	2407
 	1	2413	1
 	2	2414	1
-}			
-			
-Group	skipia1_08		
-{			
-	Vnum	2408	
+}
+
+Group	skipia1_08
+{
+	Vnum	2408
 	1	2415	1
 	2	2416	1
-}			
-			
-Group	skipia1_09		
-{			
-	Vnum	2409	
+}
+
+Group	skipia1_09
+{
+	Vnum	2409
 	1	2417	1
 	2	2418	1
-}			
-			
-Group	skipia1_10		
-{			
+}
+
+Group	skipia1_10
+{
 	Vnum	2415
 	1	2448	1
-}			
+}
 
-Group	skipia2_01		
-{			
-	Vnum	2411	
+Group	skipia2_01
+{
+	Vnum	2411
 	1	2421	1
 	2	2422	1
-}			
-			
-Group	skipia2_02		
-{			
-	Vnum	2412	
+}
+
+Group	skipia2_02
+{
+	Vnum	2412
 	1	2423	1
 	2	2424	1
-}			
-			
-Group	skipia2_03		
-{			
-	Vnum	2413	
+}
+
+Group	skipia2_03
+{
+	Vnum	2413
 	1	2425	1
 	2	2426	1
-}			
-			
-Group	skipia2_04		
-{			
-	Vnum	2414	
+}
+
+Group	skipia2_04
+{
+	Vnum	2414
 	1	2426	1
 	2	2427	1
-}			
-			
-Group	skipia1_11		
-{			
-	Vnum	2431	
+}
+
+Group	skipia1_11
+{
+	Vnum	2431
 	1	2401	1
 	2	2402	1
-}			
-			
-Group	skipia1_12		
-{			
-	Vnum	2432	
+}
+
+Group	skipia1_12
+{
+	Vnum	2432
 	1	2403	1
 	2	2404	1
-}			
-			
-Group	skipia1_13		
-{			
-	Vnum	2433	
+}
+
+Group	skipia1_13
+{
+	Vnum	2433
 	1	2405	1
 	2	2406	1
-}			
-			
-Group	skipia1_14		
-{			
-	Vnum	2434	
+}
+
+Group	skipia1_14
+{
+	Vnum	2434
 	1	2407	1
 	2	2408	1
-}			
-			
-Group	skipia1_15		
-{			
-	Vnum	2435	
+}
+
+Group	skipia1_15
+{
+	Vnum	2435
 	1	2409	1
 	2	2410	1
-}			
-			
-Group	skipia1_16		
-{			
-	Vnum	2436	
+}
+
+Group	skipia1_16
+{
+	Vnum	2436
 	1	2411	1
 	2	2412	1
-}			
-			
-Group	skipia1_17		
-{			
-	Vnum	2437	
+}
+
+Group	skipia1_17
+{
+	Vnum	2437
 	1	2413	1
 	2	2431	1
-}			
-			
-Group	skipia1_18		
-{			
-	Vnum	2438	
+}
+
+Group	skipia1_18
+{
+	Vnum	2438
 	1	2432	1
 	2	2433	1
-}			
-			
-Group	skipia1_19		
-{			
-	Vnum	2439	
+}
+
+Group	skipia1_19
+{
+	Vnum	2439
 	1	2434	1
 	2	2435	1
-}			
-			
-Group	skipia1_10		
-{			
-	Vnum	2440	
+}
+
+Group	skipia1_10
+{
+	Vnum	2440
 	1	2435	1
 	2	2436	1
-}			
-			
-Group	skipia2_11		
-{			
-	Vnum	2441	
+}
+
+Group	skipia2_11
+{
+	Vnum	2441
 	1	2438	1
 	2	2439	1
-}			
-			
-Group	skipia2_12		
-{			
-	Vnum	2442	
+}
+
+Group	skipia2_12
+{
+	Vnum	2442
 	1	2440	1
 	2	2441	1
-}			
-			
-Group	skipia2_13		
-{			
-	Vnum	2443	
+}
+
+Group	skipia2_13
+{
+	Vnum	2443
 	1	2442	1
 	2	2443	1
-}			
-			
-Group	skipia2_14		
-{			
-	Vnum	2444	
+}
+
+Group	skipia2_14
+{
+	Vnum	2444
 	1	2444	1
 	2	2445	1
-}			
-			
+}
+
 Group	skipia_boss_stone
-{			
+{
 	Vnum	8001
 	1	8031	1
 	2	8032	1
@@ -1148,9 +1148,9 @@ Group	skipia_boss_stone
 	4	8034	1
 }
 
-Group	event_boss		
-{			
-	Vnum	30001	
+Group	event_boss
+{
+	Vnum	30001
 	1	30001	1
 	2	30002	1
 	3	30003	1
@@ -1159,172 +1159,172 @@ Group	event_boss
 	6	30006	1
 	7	30007	1
 	8	30008	1
-}			
-Group	Devil_cave_1f_1		
-{			
-	Vnum	2501	
+}
+Group	Devil_cave_1f_1
+{
+	Vnum	2501
 	1	2501	1
 	2	2502	1
-}			
-			
-Group	Devil_cave_1f_2		
-{			
-	Vnum	2502	
+}
+
+Group	Devil_cave_1f_2
+{
+	Vnum	2502
 	1	2501	1
 	2	2502	1
 	3	2503	1
-}			
-			
-Group	Devil_cave_1f_3		
-{			
-	Vnum	2503	
+}
+
+Group	Devil_cave_1f_3
+{
+	Vnum	2503
 	1	2502	1
 	2	2503	1
 	3	2504	1
-}			
-			
-Group	Devil_cave_1f_4		
-{			
-	Vnum	2504	
+}
+
+Group	Devil_cave_1f_4
+{
+	Vnum	2504
 	1	2503	1
 	2	2504	1
 	3	2505	1
-}			
-			
-Group	Devil_cave_1f_5		
-{			
-	Vnum	2505	
+}
+
+Group	Devil_cave_1f_5
+{
+	Vnum	2505
 	1	2504	1
 	2	2505	1
 	3	2506	1
-}			
-			
-Group	Devil_cave_1f_6		
-{			
-	Vnum	2506	
+}
+
+Group	Devil_cave_1f_6
+{
+	Vnum	2506
 	1	2506	1
 	2	2507	1
 	3	2508	1
-}			
-			
-Group	Devil_cave_2f_1		
-{			
-	Vnum	2507	
+}
+
+Group	Devil_cave_2f_1
+{
+	Vnum	2507
 	1	2504	1
 	2	2505	1
 	3	2506	1
-}			
-			
-Group	Devil_cave_2f_2		
-{			
-	Vnum	2508	
+}
+
+Group	Devil_cave_2f_2
+{
+	Vnum	2508
 	1	2506	1
 	2	2507	1
 	3	2508	1
-}			
-			
-Group	Devil_cave_2f_3		
-{			
-	Vnum	2509	
+}
+
+Group	Devil_cave_2f_3
+{
+	Vnum	2509
 	1	2507	1
 	2	2508	1
 	3	2509	1
-}			
-			
-Group	Devil_cave_2f_4		
-{			
-	Vnum	2510	
+}
+
+Group	Devil_cave_2f_4
+{
+	Vnum	2510
 	1	2509	1
 	2	2510	1
 	3	2511	1
-}			
-			
-Group	Devil_cave_2f_5		
-{			
-	Vnum	2511	
+}
+
+Group	Devil_cave_2f_5
+{
+	Vnum	2511
 	1	2510	1
 	2	2511	1
 	3	2512	1
-}			
-			
-Group	Devil_cave_3f_1		
-{			
-	Vnum	2512	
+}
+
+Group	Devil_cave_3f_1
+{
+	Vnum	2512
 	1	2513	1
 	2	2514	1
 	3	2515	1
-}			
-			
-Group	Devil_cave_3f_2		
-{			
-	Vnum	2513	
+}
+
+Group	Devil_cave_3f_2
+{
+	Vnum	2513
 	1	2516	1
 	2	2517	1
 	3	2518	1
-}			
-			
-Group	Devil_cave_3f_3		
-{			
-	Vnum	2514	
+}
+
+Group	Devil_cave_3f_3
+{
+	Vnum	2514
 	1	2517	1
 	2	2518	1
 	3	2519	1
-}			
-			
-Group	Devil_cave_4f		
-{			
-	Vnum	2515	
+}
+
+Group	Devil_cave_4f
+{
+	Vnum	2515
 	1	2520	1
 	2	2521	1
 	3	2522	1
 	4	2523	1
 	5	2524	1
 	6	2525	1
-}			
-			
-Group	Devil_cave_5f_1		
-{			
-	Vnum	2516	
+}
+
+Group	Devil_cave_5f_1
+{
+	Vnum	2516
 	1	2520	1
 	2	2521	1
 	3	2522	1
-}			
-			
-Group	Devil_cave_5f_2		
-{			
-	Vnum	2517	
+}
+
+Group	Devil_cave_5f_2
+{
+	Vnum	2517
 	1	2521	1
 	2	2522	1
 	3	2523	1
-}			
-			
-Group	Devil_cave_5f_3		
-{			
-	Vnum	2518	
+}
+
+Group	Devil_cave_5f_3
+{
+	Vnum	2518
 	1	2522	1
 	2	2523	1
 	3	2524	1
-}			
-			
-Group	Devil_cave_5f_4		
-{			
-	Vnum	2519	
+}
+
+Group	Devil_cave_5f_4
+{
+	Vnum	2519
 	1	2523	1
 	2	2524	1
 	3	2525	1
-}			
-			
-Group	Devil_cave_5f_5		
-{			
-	Vnum	2520	
+}
+
+Group	Devil_cave_5f_5
+{
+	Vnum	2520
 	1	2525	1
 	2	2526	1
 	3	2527	1
-}			
-			
-Group	Devil_cave_6f_7f		
-{			
-	Vnum	2521	
+}
+
+Group	Devil_cave_6f_7f
+{
+	Vnum	2521
 	1	2520	1
 	2	2521	1
 	3	2522	1
@@ -1333,12 +1333,12 @@ Group	Devil_cave_6f_7f
 	6	2525	1
 	7	2526	1
 	8	2527	1
-}			
+}
 
-			
-Group	Devil_cave_2f_door		
-{			
-	Vnum	2550	
+
+Group	Devil_cave_2f_door
+{
+	Vnum	2550
 	1	2551	1
 	2	2552	1
 	3	2553	1
@@ -1348,388 +1348,388 @@ Group	Devil_cave_2f_door
 	7	2557	1
 	8	2558	1
 	9	2559	1
-}			
-Group	tway_trent1_1		
-{			
-	Vnum	2361	
+}
+Group	tway_trent1_1
+{
+	Vnum	2361
 	1	2361	1
 	2	2362	1
 	3	2363	1
-}			
-			
-Group	tway_trent1_2		
-{			
-	Vnum	2362	
+}
+
+Group	tway_trent1_2
+{
+	Vnum	2362
 	1	2362	1
 	2	2363	1
 	3	2364	1
-}			
-			
-Group	tway_trent1_3		
-{			
-	Vnum	2363	
+}
+
+Group	tway_trent1_3
+{
+	Vnum	2363
 	1	2364	1
 	2	2365	1
 	3	2366	1
 	4	2367	1
-}			
-			
-Group	tway_trent2_1		
-{			
-	Vnum	2368	
+}
+
+Group	tway_trent2_1
+{
+	Vnum	2368
 	1	2368	1
 	2	2369	1
 	3	2370	1
-}			
-			
-Group	tway_trent2_2		
-{			
-	Vnum	2369	
+}
+
+Group	tway_trent2_2
+{
+	Vnum	2369
 	1	2369	1
 	2	2370	1
 	3	2371	1
-}			
-			
-Group	tway_trent2_3		
-{			
-	Vnum	2370	
+}
+
+Group	tway_trent2_3
+{
+	Vnum	2370
 	1	2371	1
 	2	2372	1
 	3	2373	1
 	4	2374	1
-}			
-			
-Group	tway_trent3_1		
-{			
-	Vnum	2375	
+}
+
+Group	tway_trent3_1
+{
+	Vnum	2375
 	1	2375	1
 	2	2376	1
 	3	2377	1
-}			
-			
-Group	tway_trent3_2		
-{			
-	Vnum	2376	
+}
+
+Group	tway_trent3_2
+{
+	Vnum	2376
 	1	2376	1
 	2	2377	1
 	3	2378	1
-}			
-			
-Group	tway_trent3_3		
-{			
-	Vnum	2377	
+}
+
+Group	tway_trent3_3
+{
+	Vnum	2377
 	1	2378	1
 	2	2379	1
 	3	2380	1
 	4	2381	1
-}			
-Group	spider3_01		
-{			
-	Vnum	2701	
+}
+Group	spider3_01
+{
+	Vnum	2701
 	1	2071	6
 	2	2072	4
 	3	2073	2
-}			
-			
-Group	spider3_02		
-{			
-	Vnum	2702	
+}
+
+Group	spider3_02
+{
+	Vnum	2702
 	1	2072	6
 	2	2073	4
 	3	2074	2
-}			
-			
-Group	spider3_03		
-{			
-	Vnum	2703	
+}
+
+Group	spider3_03
+{
+	Vnum	2703
 	1	2073	6
 	2	2074	4
 	3	2075	2
-}			
-			
-Group	spider3_04		
-{			
-	Vnum	2704	
+}
+
+Group	spider3_04
+{
+	Vnum	2704
 	1	2074	6
 	2	2075	4
 	3	2076	2
-}			
-			
-Group	spider3_05		
-{			
-	Vnum	2705	
+}
+
+Group	spider3_05
+{
+	Vnum	2705
 	1	2075	6
 	2	2076	4
 	3	2077	2
-}			
-			
-Group	spider3_06		
-{			
-	Vnum	2706	
+}
+
+Group	spider3_06
+{
+	Vnum	2706
 	1	2076	6
 	2	2077	4
 	3	2078	2
-}			
-			
-Group	spider3_07		
-{			
-	Vnum	2706	
+}
+
+Group	spider3_07
+{
+	Vnum	2706
 	1	2077	6
 	2	2078	4
 	3	2079	2
-}			
-			
-Group	spider3_08		
-{			
-	Vnum	2707	
+}
+
+Group	spider3_08
+{
+	Vnum	2707
 	1	2077	2
 	2	2078	4
 	3	2079	6
 }
 
-Group	gnoll_1		
-{			
-	Vnum	3001	
+Group	gnoll_1
+{
+	Vnum	3001
 	1	3001	1
 	2	3002	1
 	3	3003	1
-}			
-			
-Group	gnoll_2		
-{			
-	Vnum	3002	
+}
+
+Group	gnoll_2
+{
+	Vnum	3002
 	1	3003	1
 	2	3004	1
 	3	3005	1
-}			
-			
-Group	gnoll_3		
-{			
-	Vnum	3003	
+}
+
+Group	gnoll_3
+{
+	Vnum	3003
 	1	3005	1
 	2	3006	1
 	3	3007	1
-}			
-			
-Group	cyclops_1		
-{			
-	Vnum	3004	
+}
+
+Group	cyclops_1
+{
+	Vnum	3004
 	1	3011	1
 	2	3012	1
 	3	3013	1
-}			
-			
-Group	cyclops_2		
-{			
-	Vnum	3005	
+}
+
+Group	cyclops_2
+{
+	Vnum	3005
 	1	3013	1
 	2	3014	1
 	3	3015	1
-}			
-			
-Group	cyclops_3		
-{			
-	Vnum	3006	
+}
+
+Group	cyclops_3
+{
+	Vnum	3006
 	1	3015	1
 	2	3016	1
 	3	3017	1
-}			
-			
-Group	manticore_1		
-{			
-	Vnum	3007	
+}
+
+Group	manticore_1
+{
+	Vnum	3007
 	1	3021	1
 	2	3022	1
 	3	3023	1
-}			
-			
-Group	manticore_2		
-{			
-	Vnum	3008	
+}
+
+Group	manticore_2
+{
+	Vnum	3008
 	1	3023	1
 	2	3024	1
 	3	3025	1
-}			
-			
-Group	manticore_3		
-{			
-	Vnum	3009	
+}
+
+Group	manticore_3
+{
+	Vnum	3009
 	1	3025	1
 	2	3026	1
 	3	3027	1
-}			
-			
-Group	lemures_1		
-{			
-	Vnum	3010	
+}
+
+Group	lemures_1
+{
+	Vnum	3010
 	1	3031	1
 	2	3032	1
 	3	3033	1
-}			
-			
-Group	lemures_2		
-{			
-	Vnum	3011	
+}
+
+Group	lemures_2
+{
+	Vnum	3011
 	1	3033	1
 	2	3034	1
 	3	3035	1
-}			
-			
-Group	lemures_3		
-{			
-	Vnum	3012	
+}
+
+Group	lemures_3
+{
+	Vnum	3012
 	1	3035	1
 	2	3036	1
 	3	3037	1
-}			
-			
-Group	triton_1		
-{			
-	Vnum	3013	
+}
+
+Group	triton_1
+{
+	Vnum	3013
 	1	3041	1
 	2	3042	1
 	3	3043	1
-}			
-			
-Group	triton_2		
-{			
-	Vnum	3014	
+}
+
+Group	triton_2
+{
+	Vnum	3014
 	1	3043	1
 	2	3044	1
 	3	3045	1
-}			
-			
-Group	triton_3		
-{			
-	Vnum	3015	
+}
+
+Group	triton_3
+{
+	Vnum	3015
 	1	3045	1
 	2	3046	1
 	3	3047	1
-}			
-			
-Group	redthief_1		
-{			
-	Vnum	3016	
+}
+
+Group	redthief_1
+{
+	Vnum	3016
 	1	3051	1
 	2	3052	1
 	3	3053	1
-}			
-			
-Group	redthief_2		
-{			
-	Vnum	3017	
+}
+
+Group	redthief_2
+{
+	Vnum	3017
 	1	3053	1
 	2	3054	1
 	3	3055	1
-}			
-			
-Group	redthief_3		
-{			
-	Vnum	3018	
+}
+
+Group	redthief_3
+{
+	Vnum	3018
 	1	3055	1
 	2	3056	1
 	3	3057	1
-}			
-			
-Group	redthief2_1		
-{			
-	Vnum	3019	
+}
+
+Group	redthief2_1
+{
+	Vnum	3019
 	1	3061	1
 	2	3062	1
 	3	3063	1
-}			
-			
-Group	redthief2_2		
-{			
-	Vnum	3020	
+}
+
+Group	redthief2_2
+{
+	Vnum	3020
 	1	3063	1
 	2	3064	1
 	3	3065	1
-}			
-			
-Group	redthief2_3		
-{			
-	Vnum	3021	
+}
+
+Group	redthief2_3
+{
+	Vnum	3021
 	1	3065	1
 	2	3066	1
 	3	3067	1
-}			
-			
-Group	crustacean_1		
-{			
-	Vnum	3022	
+}
+
+Group	crustacean_1
+{
+	Vnum	3022
 	1	3071	1
 	2	3072	1
 	3	3073	1
-}			
-			
-Group	crustacean_2		
-{			
-	Vnum	3023	
+}
+
+Group	crustacean_2
+{
+	Vnum	3023
 	1	3073	1
 	2	3074	1
 	3	3075	1
-}			
-			
-Group	crustacean_3		
-{			
-	Vnum	3024	
+}
+
+Group	crustacean_3
+{
+	Vnum	3024
 	1	3075	1
 	2	3076	1
 	3	3077	1
-}			
-			
-Group	giant_1		
-{			
-	Vnum	3025	
+}
+
+Group	giant_1
+{
+	Vnum	3025
 	1	3081	1
 	2	3082	1
 	3	3083	1
-}			
-			
-Group	giant_2		
-{			
-	Vnum	3026	
+}
+
+Group	giant_2
+{
+	Vnum	3026
 	1	3083	1
 	2	3084	1
 	3	3085	1
-}			
-			
-Group	giant_3		
-{			
-	Vnum	3027	
+}
+
+Group	giant_3
+{
+	Vnum	3027
 	1	3085	1
 	2	3086	1
 	3	3087	1
-}			
-			
-Group	ogre_1		
-{			
-	Vnum	3028	
+}
+
+Group	ogre_1
+{
+	Vnum	3028
 	1	3091	1
 	2	3092	1
 	3	3093	1
-}			
-			
-Group	ogre_2		
-{			
-	Vnum	3029	
+}
+
+Group	ogre_2
+{
+	Vnum	3029
 	1	3093	1
 	2	3094	1
 	3	3095	1
-}			
-			
-Group	ogre_3		
-{			
-	Vnum	3030	
+}
+
+Group	ogre_3
+{
+	Vnum	3030
 	1	3095	1
 	2	3096	1
 	3	3097	1
-}			
+}
 
-Group	deposit_w20_part1_map		
-{			
-	Vnum	2008	
+Group	deposit_w20_part1_map
+{
+	Vnum	2008
 	1	20047	10
 	2	20057	5
 	3	20058	5
@@ -1739,65 +1739,65 @@ Group	deposit_w20_part1_map
 	7	30303	15
 	8	30304	15
 	9	30305	15
-}	
+}
 
-Group	fire_dungeon_1		
-{			
-	Vnum	6001	
+Group	fire_dungeon_1
+{
+	Vnum	6001
 	1	6001	1
 	2	6002	1
 	3	6003	1
 	4	6004	1
 	5	6005	1
-}			
-			
-Group	fire_dungeon_2		
-{			
-	Vnum	6002	
+}
+
+Group	fire_dungeon_2
+{
+	Vnum	6002
 	1	6005	1
 	2	6006	1
 	3	6007	1
 	4	6008	1
 	5	6009	1
-}			
-			
-Group	fire_dungeon_3		
-{			
-	Vnum	6003	
+}
+
+Group	fire_dungeon_3
+{
+	Vnum	6003
 	1	6007	1
 	2	6008	1
 	3	6009	1
 	4	6010	1
 	5	6011	1
-}			
-			
-Group	ice_dungeon_1		
-{			
-	Vnum	6051	
+}
+
+Group	ice_dungeon_1
+{
+	Vnum	6051
 	1	6051	1
 	2	6052	1
 	3	6053	1
 	4	6054	1
 	5	6055	1
-}			
-			
-Group	ice_dungeon_2		
-{			
-	Vnum	6052	
+}
+
+Group	ice_dungeon_2
+{
+	Vnum	6052
 	1	6055	1
 	2	6056	1
 	3	6057	1
 	4	6058	1
 	5	6059	1
-}			
-			
-Group	ice_dungeon_3		
-{			
-	Vnum	6053	
+}
+
+Group	ice_dungeon_3
+{
+	Vnum	6053
 	1	6057	1
 	2	6058	1
 	3	6059	1
 	4	6060	1
 	5	6061	1
 }
-		
+

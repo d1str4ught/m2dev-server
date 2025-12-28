@@ -13,7 +13,7 @@ Scorpion Claw	2.0
 Scorpion Needle	4.0
 Scorpion Tail+	2.0
 Scorpion Tail	4.0
-Curse Book­+	4.0
+Curse Book+	4.0
 Curse Book	4.0
 Orc Tooth+	2.0
 Orc Tooth	1.0
