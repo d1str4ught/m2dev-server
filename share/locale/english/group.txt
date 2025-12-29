@@ -1,16 +1,16 @@
 Group	Wild_Dog
 {
-	Leader	Wild Dog	101
+	Leader	"Wild Dog"	101
 	Vnum	101
-	1	Wild Dog	101
-	2	Wild Dog	101
+	1	"Wild Dog"	101
+	2	"Wild Dog"	101
 }
 Group	Wolf
 {
 	Leader	Wolf	102
 	Vnum	102
-	1	Wild Dog	101
-	2	Wild Dog	101
+	1	"Wild Dog"	101
+	2	"Wild Dog"	101
 }
 Group	Wolf
 {
@@ -21,59 +21,59 @@ Group	Wolf
 }
 Group	Alpha_Wolf
 {
-	Leader	Alpha Wolf	103
+	Leader	"Alpha Wolf"	103
 	Vnum	104
 	1	Wolf	102
 	2	Wolf	102
 }
 Group	Blue_Wolf
 {
-	Leader	Blue Wolf	104
+	Leader	"Blue Wolf"	104
 	Vnum	105
-	1	Blue Wolf	104
-	2	Blue Wolf	104
+	1	"Blue Wolf"	104
+	2	"Blue Wolf"	104
 }
 Group	Wild_Boar
 {
-	Leader	Wild Boar	108
+	Leader	"Wild Boar"	108
 	Vnum	106
-	1	Blue Wolf	104
-	2	Blue Wolf	104
+	1	"Blue Wolf"	104
+	2	"Blue Wolf"	104
 }
 Group	Alpha_Blue_Wolf
 {
-	Leader	Alpha Blue Wolf	105
+	Leader	"Alpha Blue Wolf"	105
 	Vnum	107
-	1	Wild Boar	108
-	2	Wild Boar	108
+	1	"Wild Boar"	108
+	2	"Wild Boar"	108
 }
 Group	Alpha_Blue_Wolf
 {
-	Leader	Alpha Blue Wolf	105
+	Leader	"Alpha Blue Wolf"	105
 	Vnum	108
-	1	Alpha Blue Wolf	105
-	2	Alpha Blue Wolf	105
+	1	"Alpha Blue Wolf"	105
+	2	"Alpha Blue Wolf"	105
 }
 Group	Red_Wild_Boar
 {
-	Leader	Red Wild Boar	109
+	Leader	"Red Wild Boar"	109
 	Vnum	109
-	1	Alpha Blue Wolf	105
-	2	Alpha Blue Wolf	105
+	1	"Alpha Blue Wolf"	105
+	2	"Alpha Blue Wolf"	105
 }
 Group	Red_Wild_Boar
 {
-	Leader	Red Wild Boar	109
+	Leader	"Red Wild Boar"	109
 	Vnum	110
-	1	Red Wild Boar	109
-	2	Red Wild Boar	109
+	1	"Red Wild Boar"	109
+	2	"Red Wild Boar"	109
 }
 Group	Bear
 {
 	Leader	Bear	110
 	Vnum	111
-	1	Red Wild Boar	109
-	2	Red Wild Boar	109
+	1	"Red Wild Boar"	109
+	2	"Red Wild Boar"	109
 }
 Group	Bear
 {
@@ -84,52 +84,52 @@ Group	Bear
 }
 Group	Grey_Wolf
 {
-	Leader	Grey Wolf	106
+	Leader	"Grey Wolf"	106
 	Vnum	113
 	1	Bear	110
 	2	Bear	110
 }
 Group	Grey_Wolf
 {
-	Leader	Grey Wolf	106
+	Leader	"Grey Wolf"	106
 	Vnum	114
-	1	Grey Wolf	106
-	2	Grey Wolf	106
+	1	"Grey Wolf"	106
+	2	"Grey Wolf"	106
 }
 Group	Grizzly_Bear
 {
-	Leader	Grizzly Bear	111
+	Leader	"Grizzly Bear"	111
 	Vnum	115
-	1	Grey Wolf	106
-	2	Grey Wolf	106
+	1	"Grey Wolf"	106
+	2	"Grey Wolf"	106
 }
 Group	Grizzly_Bear
 {
-	Leader	Grizzly Bear	111
+	Leader	"Grizzly Bear"	111
 	Vnum	116
-	1	Grizzly Bear	111
-	2	Grizzly Bear	111
+	1	"Grizzly Bear"	111
+	2	"Grizzly Bear"	111
 }
 Group	Alpha_Grey_Wolf
 {
-	Leader	Alpha Grey Wolf	107
+	Leader	"Alpha Grey Wolf"	107
 	Vnum	117
-	1	Grizzly Bear	111
-	2	Grizzly Bear	111
+	1	"Grizzly Bear"	111
+	2	"Grizzly Bear"	111
 }
 Group	Alpha_Grey_Wolf
 {
-	Leader	Alpha Grey Wolf	107
+	Leader	"Alpha Grey Wolf"	107
 	Vnum	118
-	1	Alpha Grey Wolf	107
-	2	Alpha Grey Wolf	107
+	1	"Alpha Grey Wolf"	107
+	2	"Alpha Grey Wolf"	107
 }
 Group	Tiger
 {
 	Leader	Tiger	114
 	Vnum	119
-	1	Alpha Grey Wolf	107
-	2	Alpha Grey Wolf	107
+	1	"Alpha Grey Wolf"	107
+	2	"Alpha Grey Wolf"	107
 }
 Group	Tiger
 {
@@ -140,1914 +140,1914 @@ Group	Tiger
 }
 Group	Black_Bear
 {
-	Leader	Black Bear	112
+	Leader	"Black Bear"	112
 	Vnum	121
 	1	Tiger	114
 	2	Tiger	114
 }
 Group	Black_Bear
 {
-	Leader	Black Bear	112
+	Leader	"Black Bear"	112
 	Vnum	122
-	1	Black Bear	112
-	2	Black Bear	112
+	1	"Black Bear"	112
+	2	"Black Bear"	112
 }
 Group	Brown_Bear
 {
-	Leader	Brown Bear	113
+	Leader	"Brown Bear"	113
 	Vnum	123
-	1	Black Bear	112
-	2	Brown Bear	113
+	1	"Black Bear"	112
+	2	"Brown Bear"	113
 }
 Group	Brown_Bear
 {
-	Leader	Brown Bear	113
+	Leader	"Brown Bear"	113
 	Vnum	124
-	1	Brown Bear	113
-	2	Brown Bear	113
+	1	"Brown Bear"	113
+	2	"Brown Bear"	113
 }
 Group	White_Tiger
 {
-	Leader	White Tiger	115
+	Leader	"White Tiger"	115
 	Vnum	125
-	1	Brown Bear	113
-	2	Brown Bear	113
+	1	"Brown Bear"	113
+	2	"Brown Bear"	113
 }
 Group	White_Tiger
 {
-	Leader	White Tiger	115
+	Leader	"White Tiger"	115
 	Vnum	126
-	1	White Tiger	115
-	2	White Tiger	115
+	1	"White Tiger"	115
+	2	"White Tiger"	115
 }
 Group	Cursed_Wolf
 {
-	Leader	Cursed Wolf	131
+	Leader	"Cursed Wolf"	131
 	Vnum	127
-	1	Cursed Wolf	131
-	2	Cursed Wolf	131
+	1	"Cursed Wolf"	131
+	2	"Cursed Wolf"	131
 }
 Group	Cursed_Alpha_Wolf
 {
-	Leader	Cursed Alpha Wolf	132
+	Leader	"Cursed Alpha Wolf"	132
 	Vnum	128
-	1	Cursed Alpha Wolf	132
-	2	Cursed Wolf	131
-	3	Cursed Wolf	131
+	1	"Cursed Alpha Wolf"	132
+	2	"Cursed Wolf"	131
+	3	"Cursed Wolf"	131
 }
 Group	Cursed_Blue_Wolf
 {
-	Leader	Cursed Blue Wolf	133
+	Leader	"Cursed Blue Wolf"	133
 	Vnum	129
-	1	Cursed Blue Wolf	133
-	2	Cursed Blue Wolf	133
+	1	"Cursed Blue Wolf"	133
+	2	"Cursed Blue Wolf"	133
 }
 Group	Cursed_Alpha_Blue_Wolf
 {
-	Leader	Cursed Alpha Blue Wolf	134
+	Leader	"Cursed Alpha Blue Wolf"	134
 	Vnum	130
-	1	Cursed Alpha Blue Wolf	134
-	2	Cursed Blue Wolf	133
-	3	Cursed Blue Wolf	133
+	1	"Cursed Alpha Blue Wolf"	134
+	2	"Cursed Blue Wolf"	133
+	3	"Cursed Blue Wolf"	133
 }
 Group	Cursed_Grey_Wolf
 {
-	Leader	Cursed Grey Wolf	135
+	Leader	"Cursed Grey Wolf"	135
 	Vnum	131
-	1	Cursed Grey Wolf	135
-	2	Cursed Grey Wolf	135
+	1	"Cursed Grey Wolf"	135
+	2	"Cursed Grey Wolf"	135
 }
 Group	Cursed_Red_Wild_Boar
 {
-	Leader	Cursed Red Wild Boar	138
+	Leader	"Cursed Red Wild Boar"	138
 	Vnum	132
-	1	Cursed Red Wild Boar	138
-	2	Cursed Red Wild Boar	138
+	1	"Cursed Red Wild Boar"	138
+	2	"Cursed Red Wild Boar"	138
 }
 Group	Cursed_Bear
 {
-	Leader	Cursed Bear	139
+	Leader	"Cursed Bear"	139
 	Vnum	133
-	1	Cursed Bear	139
-	2	Cursed Bear	139
+	1	"Cursed Bear"	139
+	2	"Cursed Bear"	139
 }
 Group	Cursed_Grizzly_Bear
 {
-	Leader	Cursed Grizzly Bear	140
+	Leader	"Cursed Grizzly Bear"	140
 	Vnum	134
-	1	Cursed Grizzly Bear	140
-	2	Cursed Grizzly Bear	140
-	3	Cursed Bear	139
-	4	Cursed Bear	139
+	1	"Cursed Grizzly Bear"	140
+	2	"Cursed Grizzly Bear"	140
+	3	"Cursed Bear"	139
+	4	"Cursed Bear"	139
 }
 Group	Cursed_Black_Bear
 {
-	Leader	Cursed Black Bear	141
+	Leader	"Cursed Black Bear"	141
 	Vnum	135
-	1	Cursed Black Bear	141
-	2	Cursed Black Bear	141
+	1	"Cursed Black Bear"	141
+	2	"Cursed Black Bear"	141
 }
 Group	Cursed_Tiger
 {
-	Leader	Cursed Tiger	143
+	Leader	"Cursed Tiger"	143
 	Vnum	136
-	1	Cursed Tiger	143
-	2	Cursed Tiger	143
-	3	Cursed Black Bear	141
-	4	Cursed Black Bear	141
+	1	"Cursed Tiger"	143
+	2	"Cursed Tiger"	143
+	3	"Cursed Black Bear"	141
+	4	"Cursed Black Bear"	141
 }
 Group	Cursed_White_Tiger
 {
-	Leader	Cursed White Tiger	144
+	Leader	"Cursed White Tiger"	144
 	Vnum	137
-	1	Cursed Tiger	143
-	2	Cursed Tiger	143
+	1	"Cursed Tiger"	143
+	2	"Cursed Tiger"	143
 }
 Group	Lykos
 {
 	Leader	Lykos	191
 	Vnum	139
-	1	Cursed Alpha Grey Wolf	136
-	2	Cursed Alpha Grey Wolf	136
+	1	"Cursed Alpha Grey Wolf"	136
+	2	"Cursed Alpha Grey Wolf"	136
 }
 Group	Scrofa
 {
 	Leader	Scrofa	192
 	Vnum	140
-	1	Cursed Red Wild Boar	138
-	2	Cursed Red Wild Boar	138
+	1	"Cursed Red Wild Boar"	138
+	2	"Cursed Red Wild Boar"	138
 }
 Group	Bera
 {
 	Leader	Bera	193
 	Vnum	141
-	1	Cursed Brown Bear	142
-	2	Cursed Brown Bear	142
+	1	"Cursed Brown Bear"	142
+	2	"Cursed Brown Bear"	142
 }
 Group	Tigris
 {
 	Leader	Tigris	194
 	Vnum	142
-	1	Cursed White Tiger	144
-	2	Cursed White Tiger	144
+	1	"Cursed White Tiger"	144
+	2	"Cursed White Tiger"	144
 }
 Group	Hungry_Stray_Dog
 {
-	Leader	Hungry Stray Dog	171
+	Leader	"Hungry Stray Dog"	171
 	Vnum	171
-	1	Hungry Stray Dog	171
-	2	Hungry Stray Dog	171
+	1	"Hungry Stray Dog"	171
+	2	"Hungry Stray Dog"	171
 }
 Group	Hungry_Wolf
 {
-	Leader	Hungry Wolf	172
+	Leader	"Hungry Wolf"	172
 	Vnum	172
-	1	Hungry Wolf	172
-	2	Hungry Wolf	172
+	1	"Hungry Wolf"	172
+	2	"Hungry Wolf"	172
 }
 Group	Hungry_Alpha_Wolf
 {
-	Leader	Hungry Alpha Wolf	173
+	Leader	"Hungry Alpha Wolf"	173
 	Vnum	173
-	1	Hungry Alpha Wolf	173
-	2	Hungry Alpha Wolf	173
+	1	"Hungry Alpha Wolf"	173
+	2	"Hungry Alpha Wolf"	173
 }
 Group	Hungry_Blue_Wolf
 {
-	Leader	Hungry Blue Wolf	174
+	Leader	"Hungry Blue Wolf"	174
 	Vnum	174
-	1	Hungry Blue Wolf	174
-	2	Hungry Blue Wolf	174
+	1	"Hungry Blue Wolf"	174
+	2	"Hungry Blue Wolf"	174
 }
 Group	Hungry_Alpha_Blue_Wolf
 {
-	Leader	Hungry Alpha Blue Wolf	175
+	Leader	"Hungry Alpha Blue Wolf"	175
 	Vnum	175
-	1	Hungry Alpha Blue Wolf	175
-	2	Hungry Alpha Blue Wolf	175
+	1	"Hungry Alpha Blue Wolf"	175
+	2	"Hungry Alpha Blue Wolf"	175
 }
 Group	Hungry_Grey_Wolf
 {
-	Leader	Hungry Grey Wolf	176
+	Leader	"Hungry Grey Wolf"	176
 	Vnum	176
-	1	Hungry Grey Wolf	176
-	2	Hungry Grey Wolf	176
+	1	"Hungry Grey Wolf"	176
+	2	"Hungry Grey Wolf"	176
 }
 Group	Hungry_Alpha_Grey_Wolf
 {
-	Leader	Hungry Alpha Grey Wolf	177
+	Leader	"Hungry Alpha Grey Wolf"	177
 	Vnum	177
-	1	Hungry Alpha Grey Wolf	177
-	2	Hungry Alpha Grey Wolf	177
+	1	"Hungry Alpha Grey Wolf"	177
+	2	"Hungry Alpha Grey Wolf"	177
 }
 Group	Hungry_Wild_Boar
 {
-	Leader	Hungry Wild Boar	178
+	Leader	"Hungry Wild Boar"	178
 	Vnum	178
-	1	Hungry Wild Boar	178
-	2	Hungry Wild Boar	178
+	1	"Hungry Wild Boar"	178
+	2	"Hungry Wild Boar"	178
 }
 Group	Hungry_Red_Boar
 {
-	Leader	Hungry Red Boar	179
+	Leader	"Hungry Red Boar"	179
 	Vnum	179
-	1	Hungry Red Boar	179
-	2	Hungry Red Boar	179
+	1	"Hungry Red Boar"	179
+	2	"Hungry Red Boar"	179
 }
 Group	Hungry_Bear
 {
-	Leader	Hungry Bear	180
+	Leader	"Hungry Bear"	180
 	Vnum	180
-	1	Hungry Bear	180
-	2	Hungry Bear	180
+	1	"Hungry Bear"	180
+	2	"Hungry Bear"	180
 }
 Group	Hungry_Grizzly
 {
-	Leader	Hungry Grizzly	181
+	Leader	"Hungry Grizzly"	181
 	Vnum	181
-	1	Hungry Grizzly	181
-	2	Hungry Grizzly	181
+	1	"Hungry Grizzly"	181
+	2	"Hungry Grizzly"	181
 }
 Group	Hungry_Black_Bear
 {
-	Leader	Hungry Black Bear	182
+	Leader	"Hungry Black Bear"	182
 	Vnum	182
-	1	Hungry Black Bear	182
-	2	Hungry Black Bear	182
+	1	"Hungry Black Bear"	182
+	2	"Hungry Black Bear"	182
 }
 Group	Hungry_Brown_Bear
 {
-	Leader	Hungry Brown Bear	183
+	Leader	"Hungry Brown Bear"	183
 	Vnum	183
-	1	Hungry Brown Bear	183
-	2	Hungry Brown Bear	183
+	1	"Hungry Brown Bear"	183
+	2	"Hungry Brown Bear"	183
 }
 Group	Hungry_Tiger
 {
-	Leader	Hungry Tiger	184
+	Leader	"Hungry Tiger"	184
 	Vnum	184
-	1	Hungry Tiger	184
-	2	Hungry Tiger	184
+	1	"Hungry Tiger"	184
+	2	"Hungry Tiger"	184
 }
 Group	Hungry_White_Tiger
 {
-	Leader	Hungry White Tiger	185
+	Leader	"Hungry White Tiger"	185
 	Vnum	185
-	1	Hungry White Tiger	185
-	2	Hungry White Tiger	185
+	1	"Hungry White Tiger"	185
+	2	"Hungry White Tiger"	185
 }
 Group	White_Oath_Soldier
 {
-	Leader	White Oath Soldier	301
+	Leader	"White Oath Soldier"	301
 	Vnum	305
-	1	White Oath Soldier	301
-	2	White Oath Soldier	301
-	3	White Oath Soldier	301
+	1	"White Oath Soldier"	301
+	2	"White Oath Soldier"	301
+	3	"White Oath Soldier"	301
 }
 Group	White_Oath_Archer
 {
-	Leader	White Oath Archer	302
+	Leader	"White Oath Archer"	302
 	Vnum	306
-	1	White Oath Soldier	301
-	2	White Oath Soldier	301
-	3	White Oath Soldier	301
+	1	"White Oath Soldier"	301
+	2	"White Oath Soldier"	301
+	3	"White Oath Soldier"	301
 }
 Group	White_Oath_Archer
 {
-	Leader	White Oath Archer	302
+	Leader	"White Oath Archer"	302
 	Vnum	307
-	1	White Oath Archer	302
-	2	White Oath Soldier	301
-	3	White Oath Soldier	301
+	1	"White Oath Archer"	302
+	2	"White Oath Soldier"	301
+	3	"White Oath Soldier"	301
 }
 Group	White_Oath_Archer
 {
-	Leader	White Oath Archer	302
+	Leader	"White Oath Archer"	302
 	Vnum	308
-	1	White Oath Archer	302
-	2	White Oath Archer	302
+	1	"White Oath Archer"	302
+	2	"White Oath Archer"	302
 }
 Group	White_Oath_Commander
 {
-	Leader	White Oath Commander	304
+	Leader	"White Oath Commander"	304
 	Vnum	309
-	1	White Oath Soldier	301
-	2	White Oath Soldier	301
-	3	White Oath Soldier	301
+	1	"White Oath Soldier"	301
+	2	"White Oath Soldier"	301
+	3	"White Oath Soldier"	301
 }
 Group	White_Oath_Commander
 {
-	Leader	White Oath Commander	304
+	Leader	"White Oath Commander"	304
 	Vnum	310
-	1	White Oath Archer	302
-	2	White Oath Archer	302
-	3	White Oath Soldier	301
+	1	"White Oath Archer"	302
+	2	"White Oath Archer"	302
+	3	"White Oath Soldier"	301
 }
 Group	White_Oath_Commander
 {
-	Leader	White Oath Commander	304
+	Leader	"White Oath Commander"	304
 	Vnum	313
-	1	White Oath General	303
-	2	White Oath Archer	302
-	3	White Oath Soldier	301
+	1	"White Oath General"	303
+	2	"White Oath Archer"	302
+	3	"White Oath Soldier"	301
 }
 Group	Mi-Jung
 {
 	Leader	Mi-Jung	391
 	Vnum	315
-	1	Craven Wh. Oath Com.	354
-	2	White Oath General	303
-	3	White Oath Archer	302
+	1	"Craven Wh. Oath Com."	354
+	2	"White Oath General"	303
+	3	"White Oath Archer"	302
 }
 Group	Eun-Jung
 {
 	Leader	Eun-Jung	392
 	Vnum	316
-	1	White Oath Commander	304
-	2	White Oath General	303
-	3	White Oath Archer	302
+	1	"White Oath Commander"	304
+	2	"White Oath General"	303
+	3	"White Oath Archer"	302
 }
 Group	Se-Rang
 {
 	Leader	Se-Rang	393
 	Vnum	317
-	1	White Oath Commander	304
-	2	White Oath General	303
-	3	White Oath Archer	302
+	1	"White Oath Commander"	304
+	2	"White Oath General"	303
+	3	"White Oath Archer"	302
 }
 Group	Jin-Hee
 {
 	Leader	Jin-Hee	394
 	Vnum	318
-	1	White Oath Commander	304
-	2	White Oath General	303
-	3	White Oath Archer	302
-	4	White Oath Archer	302
+	1	"White Oath Commander"	304
+	2	"White Oath General"	303
+	3	"White Oath Archer"	302
+	4	"White Oath Archer"	302
 }
 Group	Craven_White_Oath_Sold.
 {
-	Leader	Craven White Oath Sold.	351
+	Leader	"Craven White Oath Sold."	351
 	Vnum	351
-	1	Craven White Oath Sold.	351
-	2	Craven White Oath Sold.	351
+	1	"Craven White Oath Sold."	351
+	2	"Craven White Oath Sold."	351
 }
 Group	Craven_White_Oath_Archer
 {
-	Leader	Craven White Oath Archer	352
+	Leader	"Craven White Oath Archer"	352
 	Vnum	352
-	1	Craven White Oath Archer	352
-	2	Craven White Oath Archer	352
+	1	"Craven White Oath Archer"	352
+	2	"Craven White Oath Archer"	352
 }
 Group	Dispirited_Mi-Jung
 {
-	Leader	Dispirited Mi-Jung	395
+	Leader	"Dispirited Mi-Jung"	395
 	Vnum	395
 }
 Group	Dispirited_Eun-Jung
 {
-	Leader	Dispirited Eun-Jung	396
+	Leader	"Dispirited Eun-Jung"	396
 	Vnum	396
 }
 Group	Dispirited_Se-Rang
 {
-	Leader	Dispirited Se-Rang	397
+	Leader	"Dispirited Se-Rang"	397
 	Vnum	397
 }
 Group	Dispirited_Jin-Hee
 {
-	Leader	Dispirited Jin-Hee	398
+	Leader	"Dispirited Jin-Hee"	398
 	Vnum	398
 }
 Group	Black_Wind_Soldier
 {
-	Leader	Black Wind Soldier	401
+	Leader	"Black Wind Soldier"	401
 	Vnum	401
-	1	Black Wind Soldier	401
-	2	Savage Infantryman	501
-	3	Savage Infantryman	501
+	1	"Black Wind Soldier"	401
+	2	"Savage Infantryman"	501
+	3	"Savage Infantryman"	501
 }
 Group	Black_Wind_Maniac
 {
-	Leader	Black Wind Maniac	402
+	Leader	"Black Wind Maniac"	402
 	Vnum	402
-	1	Black Wind Maniac	402
-	2	Black Wind Soldier	401
-	3	Savage Infantryman	501
+	1	"Black Wind Maniac"	402
+	2	"Black Wind Soldier"	401
+	3	"Savage Infantryman"	501
 }
 Group	Black_Wind_Maniac
 {
-	Leader	Black Wind Maniac	402
+	Leader	"Black Wind Maniac"	402
 	Vnum	403
-	1	Savage Minion	502
-	2	Black Wind Soldier	401
-	3	Evil Bl. Storm Soldier	451
+	1	"Savage Minion"	502
+	2	"Black Wind Soldier"	401
+	3	"Evil Bl. Storm Soldier"	451
 }
 Group	Black_Wind_Archer
 {
-	Leader	Black Wind Archer	403
+	Leader	"Black Wind Archer"	403
 	Vnum	404
-	1	Black Wind Maniac	402
-	2	Black Wind Maniac	402
-	3	Savage Minion	502
+	1	"Black Wind Maniac"	402
+	2	"Black Wind Maniac"	402
+	3	"Savage Minion"	502
 }
 Group	Black_Wind_Archer
 {
-	Leader	Black Wind Archer	403
+	Leader	"Black Wind Archer"	403
 	Vnum	405
-	1	Black Wind Archer	403
-	2	Savage Minion	502
-	3	Black Wind Maniac	402
+	1	"Black Wind Archer"	403
+	2	"Savage Minion"	502
+	3	"Black Wind Maniac"	402
 }
 Group	Black_Wind_Jak-To
 {
-	Leader	Black Wind Jak-To	404
+	Leader	"Black Wind Jak-To"	404
 	Vnum	406
-	1	Black Wind Archer	403
-	2	Black Wind Maniac	402
-	3	Black Wind Maniac	402
+	1	"Black Wind Archer"	403
+	2	"Black Wind Maniac"	402
+	3	"Black Wind Maniac"	402
 }
 Group	Black_Wind_Jak-To
 {
-	Leader	Black Wind Jak-To	404
+	Leader	"Black Wind Jak-To"	404
 	Vnum	407
-	1	Black Wind Archer	403
-	2	Black Wind Archer	403
-	3	Black Wind Maniac	402
+	1	"Black Wind Archer"	403
+	2	"Black Wind Archer"	403
+	3	"Black Wind Maniac"	402
 }
 Group	Black_Wind_To-Su
 {
-	Leader	Black Wind To-Su	405
+	Leader	"Black Wind To-Su"	405
 	Vnum	408
-	1	Black Wind Jak-To	404
-	2	Black Wind Archer	403
-	3	Black Wind Maniac	402
+	1	"Black Wind Jak-To"	404
+	2	"Black Wind Archer"	403
+	3	"Black Wind Maniac"	402
 }
 Group	Black_Wind_To-Su
 {
-	Leader	Black Wind To-Su	405
+	Leader	"Black Wind To-Su"	405
 	Vnum	409
-	1	Black Wind Jak-To	404
-	2	Black Wind Archer	403
-	3	Black Wind Archer	403
+	1	"Black Wind Jak-To"	404
+	2	"Black Wind Archer"	403
+	3	"Black Wind Archer"	403
 }
 Group	Black_Wind_Gu-Ryung
 {
-	Leader	Black Wind Gu-Ryung	406
+	Leader	"Black Wind Gu-Ryung"	406
 	Vnum	410
-	1	Black Wind To-Su	405
-	2	Black Wind Archer	403
-	3	Black Wind Maniac	402
+	1	"Black Wind To-Su"	405
+	2	"Black Wind Archer"	403
+	3	"Black Wind Maniac"	402
 }
 Group	Black_Wind_Gu-Ryung
 {
-	Leader	Black Wind Gu-Ryung	406
+	Leader	"Black Wind Gu-Ryung"	406
 	Vnum	411
-	1	Black Wind To-Su	405
-	2	Black Wind Jak-To	404
-	3	Black Wind Archer	403
+	1	"Black Wind To-Su"	405
+	2	"Black Wind Jak-To"	404
+	3	"Black Wind Archer"	403
 }
 Group	Black_Storm_Maniac
 {
-	Leader	Black Storm Maniac	432
+	Leader	"Black Storm Maniac"	432
 	Vnum	412
-	1	Black Storm Soldier	431
-	2	Black Storm Soldier	431
-	3	Black Storm Soldier	431
+	1	"Black Storm Soldier"	431
+	2	"Black Storm Soldier"	431
+	3	"Black Storm Soldier"	431
 }
 Group	Black_Storm_Maniac
 {
-	Leader	Black Storm Maniac	432
+	Leader	"Black Storm Maniac"	432
 	Vnum	413
-	1	Black Storm Maniac	432
-	2	Black Storm Soldier	431
-	3	Black Storm Soldier	431
+	1	"Black Storm Maniac"	432
+	2	"Black Storm Soldier"	431
+	3	"Black Storm Soldier"	431
 }
 Group	Black_Storm_Maniac
 {
-	Leader	Black Storm Maniac	432
+	Leader	"Black Storm Maniac"	432
 	Vnum	414
-	1	Black Storm Maniac	432
-	2	Black Storm Maniac	432
-	3	Black Storm Soldier	431
+	1	"Black Storm Maniac"	432
+	2	"Black Storm Maniac"	432
+	3	"Black Storm Soldier"	431
 }
 Group	Black_Storm_Archer
 {
-	Leader	Black Storm Archer	433
+	Leader	"Black Storm Archer"	433
 	Vnum	415
-	1	Black Storm Maniac	432
-	2	Black Storm Maniac	432
-	3	Black Storm Maniac	432
+	1	"Black Storm Maniac"	432
+	2	"Black Storm Maniac"	432
+	3	"Black Storm Maniac"	432
 }
 Group	Black_Storm_Archer
 {
-	Leader	Black Storm Archer	433
+	Leader	"Black Storm Archer"	433
 	Vnum	416
-	1	Black Storm Archer	433
-	2	Black Storm Maniac	432
-	3	Black Storm Maniac	432
+	1	"Black Storm Archer"	433
+	2	"Black Storm Maniac"	432
+	3	"Black Storm Maniac"	432
 }
 Group	Black_Storm_Joh-Hwan
 {
-	Leader	Black Storm Joh-Hwan	434
+	Leader	"Black Storm Joh-Hwan"	434
 	Vnum	417
-	1	Black Storm Archer	433
-	2	Black Storm Maniac	432
-	3	Black Storm Maniac	432
+	1	"Black Storm Archer"	433
+	2	"Black Storm Maniac"	432
+	3	"Black Storm Maniac"	432
 }
 Group	Black_Storm_Joh-Hwan
 {
-	Leader	Black Storm Joh-Hwan	434
+	Leader	"Black Storm Joh-Hwan"	434
 	Vnum	418
-	1	Black Storm Archer	433
-	2	Black Storm Archer	433
-	3	Black Storm Maniac	432
+	1	"Black Storm Archer"	433
+	2	"Black Storm Archer"	433
+	3	"Black Storm Maniac"	432
 }
 Group	Black_Storm_Kyuk-Jang
 {
-	Leader	Black Storm Kyuk-Jang	435
+	Leader	"Black Storm Kyuk-Jang"	435
 	Vnum	419
-	1	Black Storm Joh-Hwan	434
-	2	Black Storm Archer	433
-	3	Black Storm Maniac	432
+	1	"Black Storm Joh-Hwan"	434
+	2	"Black Storm Archer"	433
+	3	"Black Storm Maniac"	432
 }
 Group	Black_Storm_Kyuk-Jang
 {
-	Leader	Black Storm Kyuk-Jang	435
+	Leader	"Black Storm Kyuk-Jang"	435
 	Vnum	420
-	1	Black Storm Joh-Hwan	434
-	2	Black Storm Archer	433
-	3	Black Storm Archer	433
+	1	"Black Storm Joh-Hwan"	434
+	2	"Black Storm Archer"	433
+	3	"Black Storm Archer"	433
 }
 Group	Black_Storm_Pho-Hwan
 {
-	Leader	Black Storm Pho-Hwan	436
+	Leader	"Black Storm Pho-Hwan"	436
 	Vnum	421
-	1	Black Storm Kyuk-Jang	435
-	2	Black Storm Archer	433
-	3	Black Storm Archer	433
+	1	"Black Storm Kyuk-Jang"	435
+	2	"Black Storm Archer"	433
+	3	"Black Storm Archer"	433
 }
 Group	Black_Storm_Pho-Hwan
 {
-	Leader	Black Storm Pho-Hwan	436
+	Leader	"Black Storm Pho-Hwan"	436
 	Vnum	422
-	1	Black Storm Kyuk-Jang	435
-	2	Black Storm Joh-Hwan	434
-	3	Black Storm Archer	433
+	1	"Black Storm Kyuk-Jang"	435
+	2	"Black Storm Joh-Hwan"	434
+	3	"Black Storm Archer"	433
 }
 Group	Mahon
 {
 	Leader	Mahon	491
 	Vnum	423
-	1	Black Wind Gu-Ryung	406
-	2	Black Wind Gu-Ryung	406
-	3	Black Wind Archer	403
-	4	Black Wind Archer	403
+	1	"Black Wind Gu-Ryung"	406
+	2	"Black Wind Gu-Ryung"	406
+	3	"Black Wind Archer"	403
+	4	"Black Wind Archer"	403
 }
 Group	Bo
 {
 	Leader	Bo	492
 	Vnum	424
-	1	Black Wind Gu-Ryung	406
-	2	Black Wind Gu-Ryung	406
-	3	Black Wind Archer	403
-	4	Black Wind Archer	403
+	1	"Black Wind Gu-Ryung"	406
+	2	"Black Wind Gu-Ryung"	406
+	3	"Black Wind Archer"	403
+	4	"Black Wind Archer"	403
 }
 Group	Goo-Pae
 {
 	Leader	Goo-Pae	493
 	Vnum	425
-	1	Black Wind Gu-Ryung	406
-	2	Black Wind Gu-Ryung	406
-	3	Black Wind Archer	403
-	4	Black Wind Archer	403
+	1	"Black Wind Gu-Ryung"	406
+	2	"Black Wind Gu-Ryung"	406
+	3	"Black Wind Archer"	403
+	4	"Black Wind Archer"	403
 }
 Group	Chuong
 {
 	Leader	Chuong	494
 	Vnum	426
-	1	Black Wind Gu-Ryung	406
-	2	Black Wind To-Su	405
-	3	Black Wind Jak-To	404
-	4	Black Wind Archer	403
+	1	"Black Wind Gu-Ryung"	406
+	2	"Black Wind To-Su"	405
+	3	"Black Wind Jak-To"	404
+	4	"Black Wind Archer"	403
 }
 Group	Evil_Bl._Storm_Archer
 {
-	Leader	Evil Bl. Storm Archer	453
+	Leader	"Evil Bl. Storm Archer"	453
 	Vnum	453
-	1	Evil Bl. Storm Archer	453
-	2	Evil Bl. Storm Archer	453
+	1	"Evil Bl. Storm Archer"	453
+	2	"Evil Bl. Storm Archer"	453
 }
 Group	Evil_Bl._Storm_Joh-Hwan
 {
-	Leader	Evil Bl. Storm Joh-Hwan	454
+	Leader	"Evil Bl. Storm Joh-Hwan"	454
 	Vnum	454
-	1	Evil Bl. Storm Joh-Hwan	454
-	2	Evil Bl. Storm Joh-Hwan	454
+	1	"Evil Bl. Storm Joh-Hwan"	454
+	2	"Evil Bl. Storm Joh-Hwan"	454
 }
 Group	Evil_Bl._Storm_Kyuk-Jang
 {
-	Leader	Evil Bl. Storm Kyuk-Jang	455
+	Leader	"Evil Bl. Storm Kyuk-Jang"	455
 	Vnum	455
-	1	Evil Bl. Storm Kyuk-Jang	455
-	2	Evil Bl. Storm Kyuk-Jang	455
+	1	"Evil Bl. Storm Kyuk-Jang"	455
+	2	"Evil Bl. Storm Kyuk-Jang"	455
 }
 Group	Evil_Bl._Storm_Pho-Hwa
 {
-	Leader	Evil Bl. Storm Pho-Hwa	456
+	Leader	"Evil Bl. Storm Pho-Hwa"	456
 	Vnum	456
-	1	Evil Bl. Storm Pho-Hwa	456
-	2	Evil Bl. Storm Pho-Hwa	456
+	1	"Evil Bl. Storm Pho-Hwa"	456
+	2	"Evil Bl. Storm Pho-Hwa"	456
 }
 Group	Savage_Infantryman
 {
-	Leader	Savage Infantryman	501
+	Leader	"Savage Infantryman"	501
 	Vnum	501
-	1	Savage Infantryman	501
-	2	Black Wind Soldier	401
-	3	Black Wind Soldier	401
+	1	"Savage Infantryman"	501
+	2	"Black Wind Soldier"	401
+	3	"Black Wind Soldier"	401
 }
 Group	Savage_Minion
 {
-	Leader	Savage Minion	502
+	Leader	"Savage Minion"	502
 	Vnum	502
-	1	Savage Minion	502
-	2	Savage Infantryman	501
-	3	Black Wind Soldier	401
+	1	"Savage Minion"	502
+	2	"Savage Infantryman"	501
+	3	"Black Wind Soldier"	401
 }
 Group	Savage_Minion
 {
-	Leader	Savage Minion	502
+	Leader	"Savage Minion"	502
 	Vnum	503
-	1	Savage Infantryman	501
-	2	Savage Infantryman	501
-	3	Savage Infantryman	501
+	1	"Savage Infantryman"	501
+	2	"Savage Infantryman"	501
+	3	"Savage Infantryman"	501
 }
 Group	Savage_Minion
 {
-	Leader	Savage Minion	502
+	Leader	"Savage Minion"	502
 	Vnum	504
-	1	Savage Minion	502
-	2	Savage Minion	502
-	3	Savage Infantryman	501
+	1	"Savage Minion"	502
+	2	"Savage Minion"	502
+	3	"Savage Infantryman"	501
 }
 Group	Savage_Archer
 {
-	Leader	Savage Archer	503
+	Leader	"Savage Archer"	503
 	Vnum	505
-	1	Savage Minion	502
-	2	Savage Minion	502
-	3	Savage Minion	502
+	1	"Savage Minion"	502
+	2	"Savage Minion"	502
+	3	"Savage Minion"	502
 }
 Group	Savage_General
 {
-	Leader	Savage General	504
+	Leader	"Savage General"	504
 	Vnum	506
-	1	Savage Archer	503
-	2	Savage Minion	502
-	3	Savage Minion	502
+	1	"Savage Archer"	503
+	2	"Savage Minion"	502
+	3	"Savage Minion"	502
 }
 Group	Savage_General
 {
-	Leader	Savage General	504
+	Leader	"Savage General"	504
 	Vnum	507
-	1	Savage Archer	503
-	2	Savage Minion	502
-	3	Savage Minion	502
+	1	"Savage Archer"	503
+	2	"Savage Minion"	502
+	3	"Savage Minion"	502
 }
 Group	Bestial_Maniac
 {
-	Leader	Bestial Maniac	532
+	Leader	"Bestial Maniac"	532
 	Vnum	508
-	1	Bestial Soldier	531
-	2	Bestial Soldier	531
-	3	Bestial Soldier	531
+	1	"Bestial Soldier"	531
+	2	"Bestial Soldier"	531
+	3	"Bestial Soldier"	531
 }
 Group	Bestial_Maniac
 {
-	Leader	Bestial Maniac	532
+	Leader	"Bestial Maniac"	532
 	Vnum	509
-	1	Bestial Maniac	532
-	2	Bestial Soldier	531
-	3	Bestial Soldier	531
+	1	"Bestial Maniac"	532
+	2	"Bestial Soldier"	531
+	3	"Bestial Soldier"	531
 }
 Group	Bestial_Maniac
 {
-	Leader	Bestial Maniac	532
+	Leader	"Bestial Maniac"	532
 	Vnum	510
-	1	Bestial Maniac	532
-	2	Bestial Maniac	532
-	3	Bestial Soldier	531
+	1	"Bestial Maniac"	532
+	2	"Bestial Maniac"	532
+	3	"Bestial Soldier"	531
 }
 Group	Bestial_Archer
 {
-	Leader	Bestial Archer	533
+	Leader	"Bestial Archer"	533
 	Vnum	511
-	1	Bestial Maniac	532
-	2	Bestial Soldier	531
-	3	Bestial Soldier	531
+	1	"Bestial Maniac"	532
+	2	"Bestial Soldier"	531
+	3	"Bestial Soldier"	531
 }
 Group	Bestial_Archer
 {
-	Leader	Bestial Archer	533
+	Leader	"Bestial Archer"	533
 	Vnum	512
-	1	Bestial Archer	533
-	2	Bestial Maniac	532
-	3	Bestial Maniac	532
+	1	"Bestial Archer"	533
+	2	"Bestial Maniac"	532
+	3	"Bestial Maniac"	532
 }
 Group	Bestial_Specialist
 {
-	Leader	Bestial Specialist	534
+	Leader	"Bestial Specialist"	534
 	Vnum	513
-	1	Bestial Archer	533
-	2	Bestial Maniac	532
-	3	Bestial Maniac	532
+	1	"Bestial Archer"	533
+	2	"Bestial Maniac"	532
+	3	"Bestial Maniac"	532
 }
 Group	Bestial_Specialist
 {
-	Leader	Bestial Specialist	534
+	Leader	"Bestial Specialist"	534
 	Vnum	514
-	1	Bestial Archer	533
-	2	Bestial Archer	533
-	3	Bestial Maniac	532
+	1	"Bestial Archer"	533
+	2	"Bestial Archer"	533
+	3	"Bestial Maniac"	532
 }
 Group	Bestial_Captain
 {
-	Leader	Bestial Captain	591
+	Leader	"Bestial Captain"	591
 	Vnum	515
-	1	Savage General	504
-	2	Savage General	504
-	3	Savage Archer	503
-	4	Savage Archer	503
+	1	"Savage General"	504
+	2	"Savage General"	504
+	3	"Savage Archer"	503
+	4	"Savage Archer"	503
 }
 Group	Strong_Savage_Infantry
 {
-	Leader	Strong Savage Infantry	551
+	Leader	"Strong Savage Infantry"	551
 	Vnum	551
-	1	Strong Savage Infantry	551
-	2	Strong Savage Infantry	551
+	1	"Strong Savage Infantry"	551
+	2	"Strong Savage Infantry"	551
 }
 Group	Strong_Savage_Minion
 {
-	Leader	Strong Savage Minion	552
+	Leader	"Strong Savage Minion"	552
 	Vnum	552
-	1	Strong Savage Minion	552
-	2	Strong Savage Minion	552
+	1	"Strong Savage Minion"	552
+	2	"Strong Savage Minion"	552
 }
 Group	Strong_Savage_Archer
 {
-	Leader	Strong Savage Archer	553
+	Leader	"Strong Savage Archer"	553
 	Vnum	553
-	1	Strong Savage Archer	553
-	2	Strong Savage Archer	553
+	1	"Strong Savage Archer"	553
+	2	"Strong Savage Archer"	553
 }
 Group	Strong_Savage_General
 {
-	Leader	Strong Savage General	554
+	Leader	"Strong Savage General"	554
 	Vnum	554
-	1	Strong Savage General	554
-	2	Strong Savage General	554
+	1	"Strong Savage General"	554
+	2	"Strong Savage General"	554
 }
 Group	Elite_Orc
 {
-	Leader	Elite Orc	631
+	Leader	"Elite Orc"	631
 	Vnum	601
-	1	Elite Orc	631
-	2	King Scorpion	2103
-	3	King Scorpion	2103
+	1	"Elite Orc"	631
+	2	"King Scorpion"	2103
+	3	"King Scorpion"	2103
 }
 Group	Elite_Orc
 {
-	Leader	Elite Orc	631
+	Leader	"Elite Orc"	631
 	Vnum	602
-	1	Elite Orc	631
-	2	Elite Orc	631
-	3	King Scorpion	2103
+	1	"Elite Orc"	631
+	2	"Elite Orc"	631
+	3	"King Scorpion"	2103
 }
 Group	Elite_Orc_Fighter
 {
-	Leader	Elite Orc Fighter	633
+	Leader	"Elite Orc Fighter"	633
 	Vnum	603
-	1	Elite Orc Scout	632
-	2	Elite Orc Scout	632
-	3	Elite Orc Scout	632
+	1	"Elite Orc Scout"	632
+	2	"Elite Orc Scout"	632
+	3	"Elite Orc Scout"	632
 }
 Group	Elite_Orc_Fighter
 {
-	Leader	Elite Orc Fighter	633
+	Leader	"Elite Orc Fighter"	633
 	Vnum	604
-	1	Elite Orc Fighter	633
-	2	Elite Orc Scout	632
-	3	Elite Orc Scout	632
+	1	"Elite Orc Fighter"	633
+	2	"Elite Orc Scout"	632
+	3	"Elite Orc Scout"	632
 }
 Group	Elite_Orc_Scout
 {
-	Leader	Elite Orc Scout	632
+	Leader	"Elite Orc Scout"	632
 	Vnum	605
-	1	Elite Orc	631
-	2	Elite Orc	631
-	3	Elite Orc	631
+	1	"Elite Orc"	631
+	2	"Elite Orc"	631
+	3	"Elite Orc"	631
 }
 Group	Elite_Orc_Scout
 {
-	Leader	Elite Orc Scout	632
+	Leader	"Elite Orc Scout"	632
 	Vnum	606
-	1	Elite Orc Scout	632
-	2	Elite Orc	631
-	3	Elite Orc	631
+	1	"Elite Orc Scout"	632
+	2	"Elite Orc"	631
+	3	"Elite Orc"	631
 }
 Group	Elite_Orc_Fighter
 {
-	Leader	Elite Orc Fighter	633
+	Leader	"Elite Orc Fighter"	633
 	Vnum	607
-	1	Elite Orc Scout	632
-	2	Elite Orc	631
-	3	Elite Orc	631
+	1	"Elite Orc Scout"	632
+	2	"Elite Orc"	631
+	3	"Elite Orc"	631
 }
 Group	Elite_Orc_Fighter
 {
-	Leader	Elite Orc Fighter	633
+	Leader	"Elite Orc Fighter"	633
 	Vnum	608
-	1	Elite Orc Scout	632
-	2	Elite Orc Scout	632
-	3	Elite Orc	631
+	1	"Elite Orc Scout"	632
+	2	"Elite Orc Scout"	632
+	3	"Elite Orc"	631
 }
 Group	Elite_Orc_Sorcerer
 {
-	Leader	Elite Orc Sorcerer	634
+	Leader	"Elite Orc Sorcerer"	634
 	Vnum	609
-	1	Elite Orc Fighter	633
-	2	Elite Orc Fighter	633
-	3	Elite Orc Scout	632
+	1	"Elite Orc Fighter"	633
+	2	"Elite Orc Fighter"	633
+	3	"Elite Orc Scout"	632
 }
 Group	Elite_Orc_Sorcerer
 {
-	Leader	Elite Orc Sorcerer	634
+	Leader	"Elite Orc Sorcerer"	634
 	Vnum	610
-	1	Elite Orc Fighter	633
-	2	Elite Orc Fighter	633
-	3	Elite Orc Fighter	633
+	1	"Elite Orc Fighter"	633
+	2	"Elite Orc Fighter"	633
+	3	"Elite Orc Fighter"	633
 }
 Group	Elite_Orc_Sorcerer
 {
-	Leader	Elite Orc Sorcerer	634
+	Leader	"Elite Orc Sorcerer"	634
 	Vnum	611
-	1	Elite Orc Sorcerer	634
-	2	Elite Orc Fighter	633
-	3	Elite Orc Fighter	633
+	1	"Elite Orc Sorcerer"	634
+	2	"Elite Orc Fighter"	633
+	3	"Elite Orc Fighter"	633
 }
 Group	Elite_Orc_General
 {
-	Leader	Elite Orc General	635
+	Leader	"Elite Orc General"	635
 	Vnum	612
-	1	Elite Orc Sorcerer	634
-	2	Elite Orc Scout	632
-	3	Elite Orc Scout	632
+	1	"Elite Orc Sorcerer"	634
+	2	"Elite Orc Scout"	632
+	3	"Elite Orc Scout"	632
 }
 Group	Elite_Orc_General
 {
-	Leader	Elite Orc General	635
+	Leader	"Elite Orc General"	635
 	Vnum	613
-	1	Elite Orc Sorcerer	634
-	2	Elite Orc Sorcerer	634
-	3	Elite Orc Fighter	633
+	1	"Elite Orc Sorcerer"	634
+	2	"Elite Orc Sorcerer"	634
+	3	"Elite Orc Fighter"	633
 }
 Group	Black_Orc
 {
-	Leader	Black Orc	636
+	Leader	"Black Orc"	636
 	Vnum	614
-	1	Elite Orc General	635
-	2	Elite Orc Scout	632
-	3	Elite Orc Scout	632
+	1	"Elite Orc General"	635
+	2	"Elite Orc Scout"	632
+	3	"Elite Orc Scout"	632
 }
 Group	Black_Orc
 {
-	Leader	Black Orc	636
+	Leader	"Black Orc"	636
 	Vnum	615
-	1	Elite Orc General	635
-	2	Elite Orc Sorcerer	634
-	3	Elite Orc Fighter	633
+	1	"Elite Orc General"	635
+	2	"Elite Orc Sorcerer"	634
+	3	"Elite Orc Fighter"	633
 }
 Group	Black_Orc_Giant
 {
-	Leader	Black Orc Giant	637
+	Leader	"Black Orc Giant"	637
 	Vnum	616
-	1	Black Orc	636
-	2	Elite Orc Sorcerer	634
+	1	"Black Orc"	636
+	2	"Elite Orc Sorcerer"	634
 }
 Group	Black_Orc_Giant
 {
-	Leader	Black Orc Giant	637
+	Leader	"Black Orc Giant"	637
 	Vnum	617
-	1	Black Orc	636
-	2	Black Orc	636
+	1	"Black Orc"	636
+	2	"Black Orc"	636
 }
 Group	Chief_Orc
 {
-	Leader	Chief Orc	691
+	Leader	"Chief Orc"	691
 	Vnum	621
-	1	Black Orc Giant	637
-	2	Elite Orc General	635
-	3	Black Orc	636
-	4	Elite Orc Sorcerer	634
+	1	"Black Orc Giant"	637
+	2	"Elite Orc General"	635
+	3	"Black Orc"	636
+	4	"Elite Orc Sorcerer"	634
 }
 Group	Bold_Big_Orc
 {
-	Leader	Bold Big Orc	651
+	Leader	"Bold Big Orc"	651
 	Vnum	651
-	1	Bold Big Orc	651
-	2	Bold Big Orc	651
+	1	"Bold Big Orc"	651
+	2	"Bold Big Orc"	651
 }
 Group	Bold_Big_Orc_Scout
 {
-	Leader	Bold Big Orc Scout	652
+	Leader	"Bold Big Orc Scout"	652
 	Vnum	652
-	1	Bold Big Orc Scout	652
-	2	Bold Big Orc Scout	652
+	1	"Bold Big Orc Scout"	652
+	2	"Bold Big Orc Scout"	652
 }
 Group	Bold_Big_Orc_Fighter
 {
-	Leader	Bold Big Orc Fighter	653
+	Leader	"Bold Big Orc Fighter"	653
 	Vnum	653
-	1	Bold Big Orc Fighter	653
-	2	Bold Big Orc Fighter	653
+	1	"Bold Big Orc Fighter"	653
+	2	"Bold Big Orc Fighter"	653
 }
 Group	Bold_Big_Orc_Sorcerer
 {
-	Leader	Bold Big Orc Sorcerer	654
+	Leader	"Bold Big Orc Sorcerer"	654
 	Vnum	654
-	1	Bold Big Orc Sorcerer	654
-	2	Bold Big Orc Sorcerer	654
+	1	"Bold Big Orc Sorcerer"	654
+	2	"Bold Big Orc Sorcerer"	654
 }
 Group	Bold_Big_Orc_General
 {
-	Leader	Bold Big Orc General	655
+	Leader	"Bold Big Orc General"	655
 	Vnum	655
-	1	Bold Big Orc General	655
-	2	Bold Big Orc General	655
+	1	"Bold Big Orc General"	655
+	2	"Bold Big Orc General"	655
 }
 Group	Bold_Black_Orc
 {
-	Leader	Bold Black Orc	656
+	Leader	"Bold Black Orc"	656
 	Vnum	656
-	1	Bold Black Orc	656
-	2	Bold Black Orc	656
+	1	"Bold Black Orc"	656
+	2	"Bold Black Orc"	656
 }
 Group	Bold_Black_Giant_Orc
 {
-	Leader	Bold Black Giant Orc	657
+	Leader	"Bold Black Giant Orc"	657
 	Vnum	657
-	1	Bold Black Giant Orc	657
-	2	Bold Black Giant Orc	657
+	1	"Bold Black Giant Orc"	657
+	2	"Bold Black Giant Orc"	657
 }
 Group	Orc_Sorcerer
 {
-	Leader	Orc Sorcerer	604
+	Leader	"Orc Sorcerer"	604
 	Vnum	658
-	1	Orc Fighter	603
-	2	Orc Scout	602
+	1	"Orc Fighter"	603
+	2	"Orc Scout"	602
 }
 Group	Dark_Arahan
 {
-	Leader	Dark Arahan	702
+	Leader	"Dark Arahan"	702
 	Vnum	701
-	1	Dark Fanatic	701
-	2	Dark Fanatic	701
+	1	"Dark Fanatic"	701
+	2	"Dark Fanatic"	701
 }
 Group	Dark_Arahan
 {
-	Leader	Dark Arahan	702
+	Leader	"Dark Arahan"	702
 	Vnum	702
-	1	Dark Arahan	702
-	2	Dark Fanatic	701
-	3	Dark Fanatic	701
+	1	"Dark Arahan"	702
+	2	"Dark Fanatic"	701
+	3	"Dark Fanatic"	701
 }
 Group	Dark_Arahan
 {
-	Leader	Dark Arahan	702
+	Leader	"Dark Arahan"	702
 	Vnum	703
-	1	Dark Arahan	702
-	2	High Arahan	752
-	3	Dark Fanatic	701
+	1	"Dark Arahan"	702
+	2	"High Arahan"	752
+	3	"Dark Fanatic"	701
 }
 Group	Esoteric_Arahan_Fighter
 {
-	Leader	Esoteric Arahan Fighter	703
+	Leader	"Esoteric Arahan Fighter"	703
 	Vnum	704
-	1	Dark Arahan	702
-	2	Dark Fanatic	701
-	3	Dark Fanatic	701
+	1	"Dark Arahan"	702
+	2	"Dark Fanatic"	701
+	3	"Dark Fanatic"	701
 }
 Group	Esoteric_Arahan_Fighter
 {
-	Leader	Esoteric Arahan Fighter	703
+	Leader	"Esoteric Arahan Fighter"	703
 	Vnum	705
-	1	Dark Arahan	702
-	2	Dark Arahan	702
-	3	Dark Arahan	702
+	1	"Dark Arahan"	702
+	2	"Dark Arahan"	702
+	3	"Dark Arahan"	702
 }
 Group	Chief_Esoteric_Arahan
 {
-	Leader	Chief Esoteric Arahan	704
+	Leader	"Chief Esoteric Arahan"	704
 	Vnum	706
-	1	Esoteric Arahan Fighter	703
-	2	Dark Arahan	702
-	3	Dark Arahan	702
+	1	"Esoteric Arahan Fighter"	703
+	2	"Dark Arahan"	702
+	3	"Dark Arahan"	702
 }
 Group	Chief_Esoteric_Arahan
 {
-	Leader	Chief Esoteric Arahan	704
+	Leader	"Chief Esoteric Arahan"	704
 	Vnum	707
-	1	Esoteric Arahan Fighter	703
-	2	High Arahan Fighter	753
-	3	High Evocator	757
+	1	"Esoteric Arahan Fighter"	703
+	2	"High Arahan Fighter"	753
+	3	"High Evocator"	757
 }
 Group	Esoteric_Executioner
 {
-	Leader	Esoteric Executioner	705
+	Leader	"Esoteric Executioner"	705
 	Vnum	708
-	1	Chief Esoteric Arahan	704
-	2	High Elite Arahan	754
-	3	Chief Esoteric Arahan	704
+	1	"Chief Esoteric Arahan"	704
+	2	"High Elite Arahan"	754
+	3	"Chief Esoteric Arahan"	704
 }
 Group	Esoteric_Executioner
 {
-	Leader	Esoteric Executioner	705
+	Leader	"Esoteric Executioner"	705
 	Vnum	709
-	1	Esoteric Executioner	705
-	2	Chief Esoteric Arahan	704
-	3	Chief Esoteric Arahan	704
+	1	"Esoteric Executioner"	705
+	2	"Chief Esoteric Arahan"	704
+	3	"Chief Esoteric Arahan"	704
 }
 Group	Dark_Tormentor
 {
-	Leader	Dark Tormentor	706
+	Leader	"Dark Tormentor"	706
 	Vnum	710
-	1	Esoteric Executioner	705
-	2	High Deathsman	755
-	3	Chief Esoteric Arahan	704
+	1	"Esoteric Executioner"	705
+	2	"High Deathsman"	755
+	3	"Chief Esoteric Arahan"	704
 }
 Group	Dark_Tormentor
 {
-	Leader	Dark Tormentor	706
+	Leader	"Dark Tormentor"	706
 	Vnum	711
-	1	High Tormentor	756
-	2	Esoteric Executioner	705
-	3	Chief Esoteric Arahan	704
+	1	"High Tormentor"	756
+	2	"Esoteric Executioner"	705
+	3	"Chief Esoteric Arahan"	704
 }
 Group	Dark_Summoner
 {
-	Leader	Dark Summoner	707
+	Leader	"Dark Summoner"	707
 	Vnum	712
-	1	Dark Tormentor	706
-	2	Esoteric Executioner	705
-	3	Esoteric Executioner	705
+	1	"Dark Tormentor"	706
+	2	"Esoteric Executioner"	705
+	3	"Esoteric Executioner"	705
 }
 Group	Dark_Summoner
 {
-	Leader	Dark Summoner	707
+	Leader	"Dark Summoner"	707
 	Vnum	713
-	1	Dark Summoner	707
-	2	Dark Tormentor	706
-	3	Esoteric Executioner	705
+	1	"Dark Summoner"	707
+	2	"Dark Tormentor"	706
+	3	"Esoteric Executioner"	705
 }
 Group	Proud_Dark_Arahan
 {
-	Leader	Proud Dark Arahan	732
+	Leader	"Proud Dark Arahan"	732
 	Vnum	714
-	1	Proud Dark Fanatic	731
-	2	Bestial Fanatic	771
+	1	"Proud Dark Fanatic"	731
+	2	"Bestial Fanatic"	771
 }
 Group	Proud_Dark_Arahan
 {
-	Leader	Proud Dark Arahan	732
+	Leader	"Proud Dark Arahan"	732
 	Vnum	715
-	1	Proud Dark Arahan	732
-	2	Proud Dark Fanatic	731
-	3	Proud Dark Fanatic	731
+	1	"Proud Dark Arahan"	732
+	2	"Proud Dark Fanatic"	731
+	3	"Proud Dark Fanatic"	731
 }
 Group	Proud_Dark_Arahan
 {
-	Leader	Proud Dark Arahan	732
+	Leader	"Proud Dark Arahan"	732
 	Vnum	716
-	1	Proud Dark Arahan	732
-	2	Proud Dark Arahan	732
-	3	Proud Dark Fanatic	731
+	1	"Proud Dark Arahan"	732
+	2	"Proud Dark Arahan"	732
+	3	"Proud Dark Fanatic"	731
 }
 Group	Proud_Dark_Fighter
 {
-	Leader	Proud Dark Fighter	733
+	Leader	"Proud Dark Fighter"	733
 	Vnum	717
-	1	Proud Dark Arahan	732
-	2	Bestial Arahan	772
-	3	Proud Dark Fanatic	731
+	1	"Proud Dark Arahan"	732
+	2	"Bestial Arahan"	772
+	3	"Proud Dark Fanatic"	731
 }
 Group	Proud_Dark_Fighter
 {
-	Leader	Proud Dark Fighter	733
+	Leader	"Proud Dark Fighter"	733
 	Vnum	718
-	1	Proud Dark Arahan	732
-	2	Proud Dark Arahan	732
-	3	Proud Dark Fanatic	731
+	1	"Proud Dark Arahan"	732
+	2	"Proud Dark Arahan"	732
+	3	"Proud Dark Fanatic"	731
 }
 Group	Proud_Dark_Colonel
 {
-	Leader	Proud Dark Colonel	734
+	Leader	"Proud Dark Colonel"	734
 	Vnum	719
-	1	Proud Dark Fighter	733
-	2	Proud Dark Arahan	732
-	3	Proud Dark Fanatic	731
+	1	"Proud Dark Fighter"	733
+	2	"Proud Dark Arahan"	732
+	3	"Proud Dark Fanatic"	731
 }
 Group	Proud_Dark_Colonel
 {
-	Leader	Proud Dark Colonel	734
+	Leader	"Proud Dark Colonel"	734
 	Vnum	720
-	1	Proud Dark Colonel	734
-	2	Proud Dark Fighter	733
-	3	Proud Dark Arahan	732
+	1	"Proud Dark Colonel"	734
+	2	"Proud Dark Fighter"	733
+	3	"Proud Dark Arahan"	732
 }
 Group	Proud_Dark_Rifleman
 {
-	Leader	Proud Dark Rifleman	735
+	Leader	"Proud Dark Rifleman"	735
 	Vnum	721
-	1	Proud Dark Colonel	734
-	2	Proud Dark Fighter	733
-	3	Bestial Arahan Fighter	773
+	1	"Proud Dark Colonel"	734
+	2	"Proud Dark Fighter"	733
+	3	"Bestial Arahan Fighter"	773
 }
 Group	Proud_Dark_Rifleman
 {
-	Leader	Proud Dark Rifleman	735
+	Leader	"Proud Dark Rifleman"	735
 	Vnum	722
-	1	Proud Dark Colonel	734
-	2	Proud Dark Colonel	734
-	3	Proud Dark Fighter	733
+	1	"Proud Dark Colonel"	734
+	2	"Proud Dark Colonel"	734
+	3	"Proud Dark Fighter"	733
 }
 Group	Elite_Esoteric_Tormentor
 {
-	Leader	Elite Esoteric Tormentor	736
+	Leader	"Elite Esoteric Tormentor"	736
 	Vnum	723
-	1	Proud Dark Rifleman	735
-	2	Proud Dark Colonel	734
-	3	Proud Dark Colonel	734
+	1	"Proud Dark Rifleman"	735
+	2	"Proud Dark Colonel"	734
+	3	"Proud Dark Colonel"	734
 }
 Group	Elite_Esoteric_Tormentor
 {
-	Leader	Elite Esoteric Tormentor	736
+	Leader	"Elite Esoteric Tormentor"	736
 	Vnum	724
-	1	Elite Esoteric Tormentor	736
-	2	Proud Dark Rifleman	735
-	3	Proud Dark Rifleman	735
+	1	"Elite Esoteric Tormentor"	736
+	2	"Proud Dark Rifleman"	735
+	3	"Proud Dark Rifleman"	735
 }
 Group	Elite_Esoteric_Summoner
 {
-	Leader	Elite Esoteric Summoner	737
+	Leader	"Elite Esoteric Summoner"	737
 	Vnum	725
-	1	Elite Esoteric Tormentor	736
-	2	Elite Esoteric Tormentor	736
-	3	Proud Dark Rifleman	735
+	1	"Elite Esoteric Tormentor"	736
+	2	"Elite Esoteric Tormentor"	736
+	3	"Proud Dark Rifleman"	735
 }
 Group	Elite_Esoteric_Summoner
 {
-	Leader	Elite Esoteric Summoner	737
+	Leader	"Elite Esoteric Summoner"	737
 	Vnum	726
-	1	Elite Esoteric Summoner	737
-	2	Elite Esoteric Tormentor	736
-	3	Proud Dark Rifleman	735
+	1	"Elite Esoteric Summoner"	737
+	2	"Elite Esoteric Tormentor"	736
+	3	"Proud Dark Rifleman"	735
 }
 Group	Dark_Leader
 {
-	Leader	Dark Leader	791
+	Leader	"Dark Leader"	791
 	Vnum	727
-	1	Elite Esoteric Summoner	737
-	2	Elite Esoteric Summoner	737
-	3	Proud Dark Rifleman	735
-	4	Proud Dark Rifleman	735
+	1	"Elite Esoteric Summoner"	737
+	2	"Elite Esoteric Summoner"	737
+	3	"Proud Dark Rifleman"	735
+	4	"Proud Dark Rifleman"	735
 }
 Group	High_Fanatic
 {
-	Leader	High Fanatic	751
+	Leader	"High Fanatic"	751
 	Vnum	751
-	1	High Fanatic	751
-	2	High Fanatic	751
+	1	"High Fanatic"	751
+	2	"High Fanatic"	751
 }
 Group	Bestial_Chief_Arahan
 {
-	Leader	Bestial Chief Arahan	774
+	Leader	"Bestial Chief Arahan"	774
 	Vnum	774
-	1	Bestial Chief Arahan	774
-	2	Bestial Chief Arahan	774
+	1	"Bestial Chief Arahan"	774
+	2	"Bestial Chief Arahan"	774
 }
 Group	Bestial_Deathsman
 {
-	Leader	Bestial Deathsman	775
+	Leader	"Bestial Deathsman"	775
 	Vnum	775
-	1	Bestial Deathsman	775
-	2	Bestial Deathsman	775
+	1	"Bestial Deathsman"	775
+	2	"Bestial Deathsman"	775
 }
 Group	Bestial_Tormentor
 {
-	Leader	Bestial Tormentor	776
+	Leader	"Bestial Tormentor"	776
 	Vnum	776
-	1	Bestial Tormentor	776
-	2	Bestial Tormentor	776
+	1	"Bestial Tormentor"	776
+	2	"Bestial Tormentor"	776
 }
 Group	Bestial_Evocator
 {
-	Leader	Bestial Evocator	777
+	Leader	"Bestial Evocator"	777
 	Vnum	777
-	1	Bestial Evocator	777
-	2	Bestial Evocator	777
+	1	"Bestial Evocator"	777
+	2	"Bestial Evocator"	777
 }
 Group	Plagued_Dog
 {
-	Leader	Plagued Dog	902
+	Leader	"Plagued Dog"	902
 	Vnum	901
-	1	Dead Body Ghost	901
-	2	Dead Body Ghost	901
-	3	Dead Body Ghost	901
+	1	"Dead Body Ghost"	901
+	2	"Dead Body Ghost"	901
+	3	"Dead Body Ghost"	901
 }
 Group	Plagued_Dog
 {
-	Leader	Plagued Dog	902
+	Leader	"Plagued Dog"	902
 	Vnum	902
-	1	Angry Plagued Dog	932
-	2	Dead Body Ghost	901
-	3	Dead Body Ghost	901
+	1	"Angry Plagued Dog"	932
+	2	"Dead Body Ghost"	901
+	3	"Dead Body Ghost"	901
 }
 Group	Plagued_Dog
 {
-	Leader	Plagued Dog	902
+	Leader	"Plagued Dog"	902
 	Vnum	903
-	1	Plagued Dog	902
-	2	Dead Body Ghost	901
-	3	Angry Dead Body Ghost	931
+	1	"Plagued Dog"	902
+	2	"Dead Body Ghost"	901
+	3	"Angry Dead Body Ghost"	931
 }
 Group	Plagued_Man
 {
-	Leader	Plagued Man	903
+	Leader	"Plagued Man"	903
 	Vnum	904
-	1	Plagued Dog	902
-	2	Plagued Dog	902
-	3	Plagued Dog	902
+	1	"Plagued Dog"	902
+	2	"Plagued Dog"	902
+	3	"Plagued Dog"	902
 }
 Group	Plagued_Man
 {
-	Leader	Plagued Man	903
+	Leader	"Plagued Man"	903
 	Vnum	905
-	1	Plagued Man	903
-	2	Plagued Dog	902
-	3	Plagued Dog	902
+	1	"Plagued Man"	903
+	2	"Plagued Dog"	902
+	3	"Plagued Dog"	902
 }
 Group	Plagued_Swordman
 {
-	Leader	Plagued Swordman	904
+	Leader	"Plagued Swordman"	904
 	Vnum	906
-	1	Plagued Man	903
-	2	Plagued Man	903
-	3	Plagued Dog	902
-	4	Plagued Dog	902
+	1	"Plagued Man"	903
+	2	"Plagued Man"	903
+	3	"Plagued Dog"	902
+	4	"Plagued Dog"	902
 }
 Group	Plagued_Swordman
 {
-	Leader	Plagued Swordman	904
+	Leader	"Plagued Swordman"	904
 	Vnum	907
-	1	Plagued Swordman	904
-	2	Plagued Man	903
-	3	Angry Plagued Man	933
+	1	"Plagued Swordman"	904
+	2	"Plagued Man"	903
+	3	"Angry Plagued Man"	933
 }
 Group	Plagued_Spearman
 {
-	Leader	Plagued Spearman	905
+	Leader	"Plagued Spearman"	905
 	Vnum	908
-	1	Plagued Swordman	904
-	2	Plagued Swordman	904
-	3	Plagued Man	903
+	1	"Plagued Swordman"	904
+	2	"Plagued Swordman"	904
+	3	"Plagued Man"	903
 }
 Group	Plagued_Spearman
 {
-	Leader	Plagued Spearman	905
+	Leader	"Plagued Spearman"	905
 	Vnum	909
-	1	Plagued Spearman	905
-	2	Angry Plagued Fighter	934
-	3	Plagued Swordman	904
+	1	"Plagued Spearman"	905
+	2	"Angry Plagued Fighter"	934
+	3	"Plagued Swordman"	904
 }
 Group	Plagued_Archer
 {
-	Leader	Plagued Archer	906
+	Leader	"Plagued Archer"	906
 	Vnum	910
-	1	Plagued Spearman	905
-	2	Plagued Swordman	904
+	1	"Plagued Spearman"	905
+	2	"Plagued Swordman"	904
 }
 Group	Plagued_Archer
 {
-	Leader	Plagued Archer	906
+	Leader	"Plagued Archer"	906
 	Vnum	911
-	1	Plagued Spearman	905
-	2	Angry Plagued Spearman	935
+	1	"Plagued Spearman"	905
+	2	"Angry Plagued Spearman"	935
 }
 Group	Plagued_Leader
 {
-	Leader	Plagued Leader	907
+	Leader	"Plagued Leader"	907
 	Vnum	912
-	1	Plagued Archer	906
-	2	Plagued Spearman	905
-	3	Plagued Spearman	905
+	1	"Plagued Archer"	906
+	2	"Plagued Spearman"	905
+	3	"Plagued Spearman"	905
 }
 Group	Plagued_Leader
 {
-	Leader	Plagued Leader	907
+	Leader	"Plagued Leader"	907
 	Vnum	913
-	1	Angry Plagued Leader	937
-	2	Plagued Archer	906
-	3	Plagued Archer	906
+	1	"Angry Plagued Leader"	937
+	2	"Plagued Archer"	906
+	3	"Plagued Archer"	906
 }
 Group	Plagued_Egg
 {
-	Leader	Plagued Egg	991
+	Leader	"Plagued Egg"	991
 	Vnum	914
-	1	Plagued Leader	907
-	2	Plagued Archer	906
-	3	Plagued Archer	906
-	4	Plagued Spearman	905
+	1	"Plagued Leader"	907
+	2	"Plagued Archer"	906
+	3	"Plagued Archer"	906
+	4	"Plagued Spearman"	905
 }
 Group	Plague_Carrier
 {
-	Leader	Plague Carrier	992
+	Leader	"Plague Carrier"	992
 	Vnum	915
-	1	Plagued Leader	907
-	2	Plagued Archer	906
-	3	Plagued Archer	906
-	4	Plagued Spearman	905
+	1	"Plagued Leader"	907
+	2	"Plagued Archer"	906
+	3	"Plagued Archer"	906
+	4	"Plagued Spearman"	905
 }
 Group	Giant_Plague_Carrier
 {
-	Leader	Giant Plague Carrier	993
+	Leader	"Giant Plague Carrier"	993
 	Vnum	916
-	1	Plagued Leader	907
-	2	Plagued Archer	906
-	3	Plagued Archer	906
-	4	Plagued Spearman	905
+	1	"Plagued Leader"	907
+	2	"Plagued Archer"	906
+	3	"Plagued Archer"	906
+	4	"Plagued Spearman"	905
 }
 Group	Dead_Body_Ghost
 {
-	Leader	Dead Body Ghost	901
+	Leader	"Dead Body Ghost"	901
 	Vnum	917
-	1	Dead Body Ghost	901
-	2	Demon Soldier	1001
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Dead Body Ghost"	901
+	2	"Demon Soldier"	1001
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Dead_Body_Ghost
 {
-	Leader	Dead Body Ghost	901
+	Leader	"Dead Body Ghost"	901
 	Vnum	918
-	1	Dead Body Ghost	901
-	2	Demon Soldier	1001
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Dead Body Ghost"	901
+	2	"Demon Soldier"	1001
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Dead_Body_Ghost
 {
-	Leader	Dead Body Ghost	901
+	Leader	"Dead Body Ghost"	901
 	Vnum	919
-	1	Dead Body Ghost	901
-	2	Demon Archer	1002
-	3	Demon Archer	1002
-	4	Demon Soldier	1001
+	1	"Dead Body Ghost"	901
+	2	"Demon Archer"	1002
+	3	"Demon Archer"	1002
+	4	"Demon Soldier"	1001
 }
 Group	Angry_Plagued_Man
 {
-	Leader	Angry Plagued Man	933
+	Leader	"Angry Plagued Man"	933
 	Vnum	933
-	1	Angry Plagued Man	933
-	2	Angry Plagued Man	933
+	1	"Angry Plagued Man"	933
+	2	"Angry Plagued Man"	933
 }
 Group	Angry_Plagued_Archer
 {
-	Leader	Angry Plagued Archer	936
+	Leader	"Angry Plagued Archer"	936
 	Vnum	936
-	1	Angry Plagued Archer	936
-	2	Angry Plagued Archer	936
+	1	"Angry Plagued Archer"	936
+	2	"Angry Plagued Archer"	936
 }
 Group	Demon_Archer
 {
-	Leader	Demon Archer	1002
+	Leader	"Demon Archer"	1002
 	Vnum	1001
-	1	Demon Soldier	1001
-	2	Demon Soldier	1001
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Demon Soldier"	1001
+	2	"Demon Soldier"	1001
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Demon_Archer
 {
-	Leader	Demon Archer	1002
+	Leader	"Demon Archer"	1002
 	Vnum	1002
-	1	Demon Archer	1002
-	2	Demon Soldier	1001
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Demon Archer"	1002
+	2	"Demon Soldier"	1001
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Demon_Archer
 {
-	Leader	Demon Archer	1002
+	Leader	"Demon Archer"	1002
 	Vnum	1003
-	1	Demon Archer	1002
-	2	Demon Archer	1002
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Demon Archer"	1002
+	2	"Demon Archer"	1002
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Demon_Spearman
 {
-	Leader	Demon Spearman	1003
+	Leader	"Demon Spearman"	1003
 	Vnum	1004
-	1	Demon Archer	1002
-	2	Demon Archer	1002
-	3	Demon Soldier	1001
-	4	Demon Soldier	1001
+	1	"Demon Archer"	1002
+	2	"Demon Archer"	1002
+	3	"Demon Soldier"	1001
+	4	"Demon Soldier"	1001
 }
 Group	Demon_Spearman
 {
-	Leader	Demon Spearman	1003
+	Leader	"Demon Spearman"	1003
 	Vnum	1005
-	1	Demon Spearman	1003
-	2	Demon Archer	1002
-	3	Demon Archer	1002
-	4	Demon Archer	1002
+	1	"Demon Spearman"	1003
+	2	"Demon Archer"	1002
+	3	"Demon Archer"	1002
+	4	"Demon Archer"	1002
 }
 Group	Demon_Shaman
 {
-	Leader	Demon Shaman	1004
+	Leader	"Demon Shaman"	1004
 	Vnum	1006
-	1	Demon Spearman	1003
-	2	Demon Spearman	1003
-	3	Demon Archer	1002
-	4	Demon Archer	1002
+	1	"Demon Spearman"	1003
+	2	"Demon Spearman"	1003
+	3	"Demon Archer"	1002
+	4	"Demon Archer"	1002
 }
 Group	Demon_Shaman
 {
-	Leader	Demon Shaman	1004
+	Leader	"Demon Shaman"	1004
 	Vnum	1007
-	1	Demon Shaman	1004
-	2	Demon Spearman	1003
-	3	Demon Spearman	1003
-	4	Demon Spearman	1003
+	1	"Demon Shaman"	1004
+	2	"Demon Spearman"	1003
+	3	"Demon Spearman"	1003
+	4	"Demon Spearman"	1003
 }
 Group	Vile_Demon_Archer
 {
-	Leader	Vile Demon Archer	1032
+	Leader	"Vile Demon Archer"	1032
 	Vnum	1008
-	1	Vile Demon Soldier	1031
-	2	Vile Demon Soldier	1031
-	3	Vile Demon Soldier	1031
-	4	Vile Demon Soldier	1031
+	1	"Vile Demon Soldier"	1031
+	2	"Vile Demon Soldier"	1031
+	3	"Vile Demon Soldier"	1031
+	4	"Vile Demon Soldier"	1031
 }
 Group	Vile_Demon_Archer
 {
-	Leader	Vile Demon Archer	1032
+	Leader	"Vile Demon Archer"	1032
 	Vnum	1009
-	1	Vile Demon Archer	1032
-	2	Vile Demon Soldier	1031
-	3	Vile Demon Soldier	1031
-	4	Vile Demon Soldier	1031
+	1	"Vile Demon Archer"	1032
+	2	"Vile Demon Soldier"	1031
+	3	"Vile Demon Soldier"	1031
+	4	"Vile Demon Soldier"	1031
 }
 Group	Vile_Demon_Archer
 {
-	Leader	Vile Demon Archer	1032
+	Leader	"Vile Demon Archer"	1032
 	Vnum	1010
-	1	Vile Demon Archer	1032
-	2	Vile Demon Archer	1032
-	3	Vile Demon Soldier	1031
-	4	Vile Demon Soldier	1031
+	1	"Vile Demon Archer"	1032
+	2	"Vile Demon Archer"	1032
+	3	"Vile Demon Soldier"	1031
+	4	"Vile Demon Soldier"	1031
 }
 Group	Vile_Demon_Spearman
 {
-	Leader	Vile Demon Spearman	1033
+	Leader	"Vile Demon Spearman"	1033
 	Vnum	1011
-	1	Vile Demon Spearman	1033
-	2	Vile Demon Archer	1032
-	3	Vile Demon Archer	1032
-	4	Vile Demon Soldier	1031
+	1	"Vile Demon Spearman"	1033
+	2	"Vile Demon Archer"	1032
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Soldier"	1031
 }
 Group	Vile_Demon_Spearman
 {
-	Leader	Vile Demon Spearman	1033
+	Leader	"Vile Demon Spearman"	1033
 	Vnum	1012
-	1	Vile Demon Spearman	1033
-	2	Vile Demon Spearman	1033
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Spearman"	1033
+	2	"Vile Demon Spearman"	1033
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Vile_Demon_Shaman
 {
-	Leader	Vile Demon Shaman	1034
+	Leader	"Vile Demon Shaman"	1034
 	Vnum	1013
-	1	Vile Demon Spearman	1033
-	2	Vile Demon Spearman	1033
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Spearman"	1033
+	2	"Vile Demon Spearman"	1033
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Vile_Demon_Shaman
 {
-	Leader	Vile Demon Shaman	1034
+	Leader	"Vile Demon Shaman"	1034
 	Vnum	1014
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Spearman	1033
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Spearman"	1033
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Ghost_of_Grudge
 {
-	Leader	Ghost of Grudge	1035
+	Leader	"Ghost of Grudge"	1035
 	Vnum	1015
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Ghost_of_Grudge
 {
-	Leader	Ghost of Grudge	1035
+	Leader	"Ghost of Grudge"	1035
 	Vnum	1016
-	1	Ghost of Grudge	1035
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Ghost of Grudge"	1035
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Ghost_of_Chaos
 {
-	Leader	Ghost of Chaos	1036
+	Leader	"Ghost of Chaos"	1036
 	Vnum	1017
-	1	Ghost of Grudge	1035
-	2	Ghost of Grudge	1035
-	3	Vile Demon Shaman	1034
-	4	Vile Demon Shaman	1034
+	1	"Ghost of Grudge"	1035
+	2	"Ghost of Grudge"	1035
+	3	"Vile Demon Shaman"	1034
+	4	"Vile Demon Shaman"	1034
 }
 Group	Ghost_of_Chaos
 {
-	Leader	Ghost of Chaos	1036
+	Leader	"Ghost of Chaos"	1036
 	Vnum	1018
-	1	Ghost of Chaos	1036
-	2	Ghost of Grudge	1035
-	3	Vile Demon Shaman	1034
-	4	Vile Demon Shaman	1034
+	1	"Ghost of Chaos"	1036
+	2	"Ghost of Grudge"	1035
+	3	"Vile Demon Shaman"	1034
+	4	"Vile Demon Shaman"	1034
 }
 Group	Vile_Demon_Leader
 {
-	Leader	Vile Demon Leader	1037
+	Leader	"Vile Demon Leader"	1037
 	Vnum	1019
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Skull_Sword_Master
 {
-	Leader	Skull Sword Master	1038
+	Leader	"Skull Sword Master"	1038
 	Vnum	1020
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Flying_Skull
 {
-	Leader	Flying Skull	1039
+	Leader	"Flying Skull"	1039
 	Vnum	1021
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Spearman	1033
-	4	Vile Demon Spearman	1033
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Spearman"	1033
+	4	"Vile Demon Spearman"	1033
 }
 Group	Immortal_Ghost
 {
-	Leader	Immortal Ghost	1040
+	Leader	"Immortal Ghost"	1040
 	Vnum	1022
-	1	Immortal Ghost	1040
-	2	Immortal Ghost	1040
-	3	Immortal Ghost	1040
-	4	Immortal Ghost	1040
+	1	"Immortal Ghost"	1040
+	2	"Immortal Ghost"	1040
+	3	"Immortal Ghost"	1040
+	4	"Immortal Ghost"	1040
 }
 Group	Demonic_Beast
 {
-	Leader	Demonic Beast	1041
+	Leader	"Demonic Beast"	1041
 	Vnum	1023
-	1	Ghost of Grudge	1035
-	2	Ghost of Chaos	1036
-	3	Ghost of Grudge	1035
-	4	Ghost of Chaos	1036
+	1	"Ghost of Grudge"	1035
+	2	"Ghost of Chaos"	1036
+	3	"Ghost of Grudge"	1035
+	4	"Ghost of Chaos"	1036
 }
 Group	Demon_King
 {
-	Leader	Demon King	1091
+	Leader	"Demon King"	1091
 	Vnum	1024
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Spearman	1033
-	4	Vile Demon Spearman	1033
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Spearman"	1033
+	4	"Vile Demon Spearman"	1033
 }
 Group	Demon_King
 {
-	Leader	Demon King	1091
+	Leader	"Demon King"	1091
 	Vnum	1025
-	1	Vile Demon Leader	1037
-	2	Skull Sword Master	1038
-	3	Flying Skull	1039
-	4	Vile Demon Shaman	1034
+	1	"Vile Demon Leader"	1037
+	2	"Skull Sword Master"	1038
+	3	"Flying Skull"	1039
+	4	"Vile Demon Shaman"	1034
 }
 Group	Proud_Demon_King
 {
-	Leader	Proud Demon King	1092
+	Leader	"Proud Demon King"	1092
 	Vnum	1026
-	1	Vile Demon Leader	1037
-	2	Skull Sword Master	1038
-	3	Flying Skull	1039
-	4	Vile Demon Shaman	1034
+	1	"Vile Demon Leader"	1037
+	2	"Skull Sword Master"	1038
+	3	"Flying Skull"	1039
+	4	"Vile Demon Shaman"	1034
 }
 Group	Skull_Sword_Master
 {
-	Leader	Skull Sword Master	1038
+	Leader	"Skull Sword Master"	1038
 	Vnum	1027
-	1	Vile Demon Shaman	1034
-	2	Vile Demon Shaman	1034
-	3	Vile Demon Archer	1032
-	4	Vile Demon Archer	1032
+	1	"Vile Demon Shaman"	1034
+	2	"Vile Demon Shaman"	1034
+	3	"Vile Demon Archer"	1032
+	4	"Vile Demon Archer"	1032
 }
 Group	Immortal_Ghost
 {
-	Leader	Immortal Ghost	1040
+	Leader	"Immortal Ghost"	1040
 	Vnum	1028
-	1	Immortal Ghost	1040
-	2	Flying Skull	1039
-	3	Flying Skull	1039
-	4	Skull Sword Master	1038
+	1	"Immortal Ghost"	1040
+	2	"Flying Skull"	1039
+	3	"Flying Skull"	1039
+	4	"Skull Sword Master"	1038
 }
 Group	Immortal_Ghost
 {
-	Leader	Immortal Ghost	1040
+	Leader	"Immortal Ghost"	1040
 	Vnum	1029
-	1	Immortal Ghost	1040
-	2	Immortal Ghost	1040
-	3	Immortal Ghost	1040
-	4	Immortal Ghost	1040
+	1	"Immortal Ghost"	1040
+	2	"Immortal Ghost"	1040
+	3	"Immortal Ghost"	1040
+	4	"Immortal Ghost"	1040
 }
 Group	Demonic_Beast
 {
-	Leader	Demonic Beast	1041
+	Leader	"Demonic Beast"	1041
 	Vnum	1030
-	1	Demonic Beast	1041
-	2	Immortal Ghost	1040
-	3	Immortal Ghost	1040
-	4	Immortal Ghost	1040
+	1	"Demonic Beast"	1041
+	2	"Immortal Ghost"	1040
+	3	"Immortal Ghost"	1040
+	4	"Immortal Ghost"	1040
 }
 Group	Death_Reaper
 {
-	Leader	Death Reaper	1093
+	Leader	"Death Reaper"	1093
 	Vnum	1031
-	1	Demonic Beast	1041
-	2	Immortal Ghost	1040
-	3	Immortal Ghost	1040
-	4	Immortal Ghost	1040
+	1	"Demonic Beast"	1041
+	2	"Immortal Ghost"	1040
+	3	"Immortal Ghost"	1040
+	4	"Immortal Ghost"	1040
 }
 Group	Ice_Killer_Whale
 {
-	Leader	Ice Killer Whale	1102
+	Leader	"Ice Killer Whale"	1102
 	Vnum	1101
-	1	Enchanted Ice	1101
-	2	Enchanted Ice	1101
+	1	"Enchanted Ice"	1101
+	2	"Enchanted Ice"	1101
 }
 Group	Ice_Killer_Whale
 {
-	Leader	Ice Killer Whale	1102
+	Leader	"Ice Killer Whale"	1102
 	Vnum	1102
-	1	Ice Killer Whale	1102
-	2	Enchanted Ice	1101
-	3	Enchanted Ice	1101
+	1	"Ice Killer Whale"	1102
+	2	"Enchanted Ice"	1101
+	3	"Enchanted Ice"	1101
 }
 Group	Ice_Killer_Whale
 {
-	Leader	Ice Killer Whale	1102
+	Leader	"Ice Killer Whale"	1102
 	Vnum	1103
-	1	Ice Killer Whale	1102
-	2	Ice Killer Whale	1102
-	3	Enchanted Ice	1101
+	1	"Ice Killer Whale"	1102
+	2	"Ice Killer Whale"	1102
+	3	"Enchanted Ice"	1101
 }
 Group	Ice_Bug
 {
-	Leader	Ice Bug	1103
+	Leader	"Ice Bug"	1103
 	Vnum	1104
-	1	Ice Killer Whale	1102
-	2	Enchanted Ice	1101
-	3	Enchanted Ice	1101
+	1	"Ice Killer Whale"	1102
+	2	"Enchanted Ice"	1101
+	3	"Enchanted Ice"	1101
 }
 Group	Ice_Bug
 {
-	Leader	Ice Bug	1103
+	Leader	"Ice Bug"	1103
 	Vnum	1105
-	1	Ice Bug	1103
-	2	Ice Killer Whale	1102
-	3	Enchanted Ice	1101
+	1	"Ice Bug"	1103
+	2	"Ice Killer Whale"	1102
+	3	"Enchanted Ice"	1101
 }
 Group	Ice_Lion
 {
-	Leader	Ice Lion	1104
+	Leader	"Ice Lion"	1104
 	Vnum	1106
-	1	Ice Bug	1103
-	2	Ice Killer Whale	1102
-	3	Enchanted Ice	1101
+	1	"Ice Bug"	1103
+	2	"Ice Killer Whale"	1102
+	3	"Enchanted Ice"	1101
 }
 Group	Ice_Lion
 {
-	Leader	Ice Lion	1104
+	Leader	"Ice Lion"	1104
 	Vnum	1107
-	1	Ice Lion	1104
-	2	Ice Bug	1103
+	1	"Ice Lion"	1104
+	2	"Ice Bug"	1103
 }
 Group	Frosty_Ice_Man
 {
-	Leader	Frosty Ice Man	1105
+	Leader	"Frosty Ice Man"	1105
 	Vnum	1108
-	1	Ice Lion	1104
-	2	Ice Lion	1104
-	3	Ice Bug	1103
-	4	Enchanted Ice	1101
+	1	"Ice Lion"	1104
+	2	"Ice Lion"	1104
+	3	"Ice Bug"	1103
+	4	"Enchanted Ice"	1101
 }
 Group	Frosty_Ice_Man
 {
-	Leader	Frosty Ice Man	1105
+	Leader	"Frosty Ice Man"	1105
 	Vnum	1109
-	1	Frosty Ice Man	1105
-	2	Ice Lion	1104
-	3	Ice Lion	1104
+	1	"Frosty Ice Man"	1105
+	2	"Ice Lion"	1104
+	3	"Ice Lion"	1104
 }
 Group	Yeti
 {
 	Leader	Yeti	1106
 	Vnum	1110
-	1	Frosty Ice Man	1105
-	2	Frosty Ice Man	1105
-	3	Ice Bug	1103
-	4	Ice Bug	1103
+	1	"Frosty Ice Man"	1105
+	2	"Frosty Ice Man"	1105
+	3	"Ice Bug"	1103
+	4	"Ice Bug"	1103
 }
 Group	Yeti
 {
 	Leader	Yeti	1106
 	Vnum	1111
 	1	Yeti	1106
-	2	Frosty Ice Man	1105
-	3	Frosty Ice Man	1105
-	4	Ice Lion	1104
+	2	"Frosty Ice Man"	1105
+	3	"Frosty Ice Man"	1105
+	4	"Ice Lion"	1104
 }
 Group	Ice_Golem
 {
-	Leader	Ice Golem	1107
+	Leader	"Ice Golem"	1107
 	Vnum	1112
-	1	Frosty Ice Man	1105
-	2	Frosty Ice Man	1105
+	1	"Frosty Ice Man"	1105
+	2	"Frosty Ice Man"	1105
 	3	Yeti	1106
 	4	Yeti	1106
 }
 Group	Ice_Golem
 {
-	Leader	Ice Golem	1107
+	Leader	"Ice Golem"	1107
 	Vnum	1113
-	1	Ice Golem	1107
+	1	"Ice Golem"	1107
 	2	Yeti	1106
 	3	Yeti	1106
 	4	Yeti	1106
 }
 Group	Nine_Tails
 {
-	Leader	Nine Tails	1901
+	Leader	"Nine Tails"	1901
 	Vnum	1114
-	1	Ice Golem	1107
-	2	Ice Golem	1107
+	1	"Ice Golem"	1107
+	2	"Ice Golem"	1107
 	3	Yeti	1106
-	4	Enchanted Ice	1101
+	4	"Enchanted Ice"	1101
 }
 Group	Ice_Bug
 {
-	Leader	Ice Bug	1153
+	Leader	"Ice Bug"	1153
 	Vnum	1151
-	1	Ice Bug	1153
-	2	Icehorn Killer Whale	1152
-	3	Icehorn Killer Whale	1152
+	1	"Ice Bug"	1153
+	2	"Icehorn Killer Whale"	1152
+	3	"Icehorn Killer Whale"	1152
 }
 Group	Ice_Man
 {
-	Leader	Ice Man	1155
+	Leader	"Ice Man"	1155
 	Vnum	1152
-	1	Ice Man	1155
+	1	"Ice Man"	1155
 	2	Seol-Gu	1154
 	3	Seol-Gu	1154
 }
 Group	Ice_Golem
 {
-	Leader	Ice Golem	1157
+	Leader	"Ice Golem"	1157
 	Vnum	1153
-	1	Ice Golem	1157
-	2	Ice Giant	1156
-	3	Ice Giant	1156
+	1	"Ice Golem"	1157
+	2	"Ice Giant"	1156
+	3	"Ice Giant"	1156
 }
 Group	Mean_Enchanted_Ice
 {
-	Leader	Mean Enchanted Ice	1171
+	Leader	"Mean Enchanted Ice"	1171
 	Vnum	1171
-	1	Mean Enchanted Ice	1171
-	2	Mean Enchanted Ice	1171
+	1	"Mean Enchanted Ice"	1171
+	2	"Mean Enchanted Ice"	1171
 }
 Group	King_Scorpion
 {
-	Leader	King Scorpion	2103
+	Leader	"King Scorpion"	2103
 	Vnum	1301
-	1	Deserts Flying Eye	2102
-	2	Deserts Flying Eye	2102
-	3	Deserts Flying Eye	2102
+	1	"Deserts Flying Eye"	2102
+	2	"Deserts Flying Eye"	2102
+	3	"Deserts Flying Eye"	2102
 }
 Group	King_Scorpion
 {
-	Leader	King Scorpion	2103
+	Leader	"King Scorpion"	2103
 	Vnum	1302
-	1	King Scorpion	2103
-	2	Deserts Flying Eye	2102
-	3	Deserts Flying Eye	2102
+	1	"King Scorpion"	2103
+	2	"Deserts Flying Eye"	2102
+	3	"Deserts Flying Eye"	2102
 }
 Group	King_Scorpion
 {
-	Leader	King Scorpion	2103
+	Leader	"King Scorpion"	2103
 	Vnum	1303
-	1	King Scorpion	2103
-	2	King Scorpion	2103
-	3	Deserts Flying Eye	2102
+	1	"King Scorpion"	2103
+	2	"King Scorpion"	2103
+	3	"Deserts Flying Eye"	2102
 }
 Group	Young_Scorpion_Man
 {
-	Leader	Young Scorpion Man	2104
+	Leader	"Young Scorpion Man"	2104
 	Vnum	1304
-	1	Young Scorpion Man	2104
-	2	King Scorpion	2103
-	3	King Scorpion	2103
+	1	"Young Scorpion Man"	2104
+	2	"King Scorpion"	2103
+	3	"King Scorpion"	2103
 }
 Group	Scorpion_Archer
 {
-	Leader	Scorpion Archer	2105
+	Leader	"Scorpion Archer"	2105
 	Vnum	1305
-	1	Young Scorpion Man	2104
-	2	King Scorpion	2103
-	3	King Scorpion	2103
+	1	"Young Scorpion Man"	2104
+	2	"King Scorpion"	2103
+	3	"King Scorpion"	2103
 }
 Group	Scorpion_Archer
 {
-	Leader	Scorpion Archer	2105
+	Leader	"Scorpion Archer"	2105
 	Vnum	1306
-	1	Young Scorpion Man	2104
-	2	Young Scorpion Man	2104
-	3	King Scorpion	2103
+	1	"Young Scorpion Man"	2104
+	2	"Young Scorpion Man"	2104
+	3	"King Scorpion"	2103
 }
 Group	Snake_Archer
 {
-	Leader	Snake Archer	2107
+	Leader	"Snake Archer"	2107
 	Vnum	1307
-	1	Snake Swordsman	2106
-	2	Snake Swordsman	2106
-	3	Snake Swordsman	2106
+	1	"Snake Swordsman"	2106
+	2	"Snake Swordsman"	2106
+	3	"Snake Swordsman"	2106
 }
 Group	Snake_Archer
 {
-	Leader	Snake Archer	2107
+	Leader	"Snake Archer"	2107
 	Vnum	1308
-	1	Snake Archer	2107
-	2	Snake Swordsman	2106
-	3	Snake Swordsman	2106
+	1	"Snake Archer"	2107
+	2	"Snake Swordsman"	2106
+	3	"Snake Swordsman"	2106
 }
 Group	Snake_Archer
 {
-	Leader	Snake Archer	2107
+	Leader	"Snake Archer"	2107
 	Vnum	1309
-	1	Snake Swordsman	2106
-	2	Snake Swordsman	2106
+	1	"Snake Swordsman"	2106
+	2	"Snake Swordsman"	2106
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	2108
+	Leader	"Desert Outlaw"	2108
 	Vnum	1310
-	1	Snake Archer	2107
-	2	Snake Swordsman	2106
-	3	Scorpion Archer	2105
-	4	Young Scorpion Man	2104
+	1	"Snake Archer"	2107
+	2	"Snake Swordsman"	2106
+	3	"Scorpion Archer"	2105
+	4	"Young Scorpion Man"	2104
 }
 Group	Giant_Tortoise
 {
-	Leader	Giant Tortoise	2191
+	Leader	"Giant Tortoise"	2191
 	Vnum	1311
-	1	Desert Outlaw	2108
-	2	Desert Outlaw	2108
-	3	Snake Archer	2107
-	4	Scorpion Archer	2105
+	1	"Desert Outlaw"	2108
+	2	"Desert Outlaw"	2108
+	3	"Snake Archer"	2107
+	4	"Scorpion Archer"	2105
 }
 Group	Big_Tree_Frog_Leader
 {
-	Leader	Big Tree Frog Leader	1332
+	Leader	"Big Tree Frog Leader"	1332
 	Vnum	1332
-	1	Big Tree Frog Leader	1332
-	2	Big Tree Frog Leader	1332
+	1	"Big Tree Frog Leader"	1332
+	2	"Big Tree Frog Leader"	1332
 }
 Group	Destroyer
 {
@@ -2056,554 +2056,554 @@ Group	Destroyer
 }
 Group	Axe_Fighter
 {
-	Leader	Axe Fighter	1402
+	Leader	"Axe Fighter"	1402
 	Vnum	1402
 }
 Group	Thousand_Fighter
 {
-	Leader	Thousand Fighter	1403
+	Leader	"Thousand Fighter"	1403
 	Vnum	1403
 }
 Group	Stone_Golem
 {
-	Leader	Stone Golem	1501
+	Leader	"Stone Golem"	1501
 	Vnum	1501
 }
 Group	Stone_Golem
 {
-	Leader	Stone Golem	1502
+	Leader	"Stone Golem"	1502
 	Vnum	1502
 }
 Group	Giant_Rock_Golem
 {
-	Leader	Giant Rock Golem	1503
+	Leader	"Giant Rock Golem"	1503
 	Vnum	1503
 }
 Group	Ogre_Warrior
 {
-	Leader	Ogre Warrior	1601
+	Leader	"Ogre Warrior"	1601
 	Vnum	1601
 }
 Group	Ogre_Butcher
 {
-	Leader	Ogre Butcher	1602
+	Leader	"Ogre Butcher"	1602
 	Vnum	1602
 }
 Group	Ogre_Berserk
 {
-	Leader	Ogre Berserk	1603
+	Leader	"Ogre Berserk"	1603
 	Vnum	1603
 }
 Group	Baby_Spider
 {
-	Leader	Baby Spider	2001
+	Leader	"Baby Spider"	2001
 	Vnum	2001
-	1	Baby Spider	2001
-	2	Baby Spider	2001
+	1	"Baby Spider"	2001
+	2	"Baby Spider"	2001
 }
 Group	Poison_Spider
 {
-	Leader	Poison Spider	2002
+	Leader	"Poison Spider"	2002
 	Vnum	2002
-	1	Baby Spider	2001
-	2	Baby Spider	2001
+	1	"Baby Spider"	2001
+	2	"Baby Spider"	2001
 }
 Group	Poison_Spider
 {
-	Leader	Poison Spider	2002
+	Leader	"Poison Spider"	2002
 	Vnum	2003
-	1	Poison Spider	2002
-	2	Baby Spider	2001
+	1	"Poison Spider"	2002
+	2	"Baby Spider"	2001
 }
 Group	Red_Poison_Spider
 {
-	Leader	Red Poison Spider	2003
+	Leader	"Red Poison Spider"	2003
 	Vnum	2004
-	1	Poison Spider	2002
-	2	Poison Spider	2002
+	1	"Poison Spider"	2002
+	2	"Poison Spider"	2002
 }
 Group	Red_Poison_Spider
 {
-	Leader	Red Poison Spider	2003
+	Leader	"Red Poison Spider"	2003
 	Vnum	2005
-	1	Red Poison Spider	2003
-	2	Poison Spider	2002
+	1	"Red Poison Spider"	2003
+	2	"Poison Spider"	2002
 }
 Group	Claw_Spider
 {
-	Leader	Claw Spider	2004
+	Leader	"Claw Spider"	2004
 	Vnum	2006
-	1	Red Poison Spider	2003
-	2	Red Poison Spider	2003
+	1	"Red Poison Spider"	2003
+	2	"Red Poison Spider"	2003
 }
 Group	Claw_Spider
 {
-	Leader	Claw Spider	2004
+	Leader	"Claw Spider"	2004
 	Vnum	2007
-	1	Claw Spider	2004
-	2	Red Poison Spider	2003
+	1	"Claw Spider"	2004
+	2	"Red Poison Spider"	2003
 }
 Group	Soldier_Spider
 {
-	Leader	Soldier Spider	2005
+	Leader	"Soldier Spider"	2005
 	Vnum	2008
-	1	Claw Spider	2004
-	2	Claw Spider	2004
+	1	"Claw Spider"	2004
+	2	"Claw Spider"	2004
 }
 Group	Soldier_Spider
 {
-	Leader	Soldier Spider	2005
+	Leader	"Soldier Spider"	2005
 	Vnum	2009
-	1	Soldier Spider	2005
-	2	Claw Spider	2004
+	1	"Soldier Spider"	2005
+	2	"Claw Spider"	2004
 }
 Group	Baby_Poison_Spider
 {
-	Leader	Baby Poison Spider	2031
+	Leader	"Baby Poison Spider"	2031
 	Vnum	2010
-	1	Baby Poison Spider	2031
-	2	Baby Poison Spider	2031
+	1	"Baby Poison Spider"	2031
+	2	"Baby Poison Spider"	2031
 }
 Group	Deadly_Poison_Spider
 {
-	Leader	Deadly Poison Spider	2032
+	Leader	"Deadly Poison Spider"	2032
 	Vnum	2011
-	1	Baby Poison Spider	2031
-	2	Baby Poison Spider	2031
+	1	"Baby Poison Spider"	2031
+	2	"Baby Poison Spider"	2031
 }
 Group	Deadly_Poison_Spider
 {
-	Leader	Deadly Poison Spider	2032
+	Leader	"Deadly Poison Spider"	2032
 	Vnum	2012
-	1	Deadly Poison Spider	2032
-	2	Baby Poison Spider	2031
+	1	"Deadly Poison Spider"	2032
+	2	"Baby Poison Spider"	2031
 }
 Group	Red_Angry_Poison_Spider
 {
-	Leader	Red Angry Poison Spider	2033
+	Leader	"Red Angry Poison Spider"	2033
 	Vnum	2013
-	1	Deadly Poison Spider	2032
-	2	Deadly Poison Spider	2032
+	1	"Deadly Poison Spider"	2032
+	2	"Deadly Poison Spider"	2032
 }
 Group	Red_Angry_Poison_Spider
 {
-	Leader	Red Angry Poison Spider	2033
+	Leader	"Red Angry Poison Spider"	2033
 	Vnum	2014
-	1	Red Angry Poison Spider	2033
-	2	Deadly Poison Spider	2032
+	1	"Red Angry Poison Spider"	2033
+	2	"Deadly Poison Spider"	2032
 }
 Group	Claw_Poison_Spider
 {
-	Leader	Claw Poison Spider	2034
+	Leader	"Claw Poison Spider"	2034
 	Vnum	2015
-	1	Red Angry Poison Spider	2033
-	2	Red Angry Poison Spider	2033
+	1	"Red Angry Poison Spider"	2033
+	2	"Red Angry Poison Spider"	2033
 }
 Group	Claw_Poison_Spider
 {
-	Leader	Claw Poison Spider	2034
+	Leader	"Claw Poison Spider"	2034
 	Vnum	2016
-	1	Claw Poison Spider	2034
-	2	Red Angry Poison Spider	2033
+	1	"Claw Poison Spider"	2034
+	2	"Red Angry Poison Spider"	2033
 }
 Group	Soldier_Poison_Spider
 {
-	Leader	Soldier Poison Spider	2035
+	Leader	"Soldier Poison Spider"	2035
 	Vnum	2017
-	1	Claw Poison Spider	2034
-	2	Claw Poison Spider	2034
+	1	"Claw Poison Spider"	2034
+	2	"Claw Poison Spider"	2034
 }
 Group	Soldier_Poison_Spider
 {
-	Leader	Soldier Poison Spider	2035
+	Leader	"Soldier Poison Spider"	2035
 	Vnum	2018
-	1	Soldier Poison Spider	2035
-	2	Claw Poison Spider	2034
+	1	"Soldier Poison Spider"	2035
+	2	"Claw Poison Spider"	2034
 }
 Group	Queen_Spider
 {
-	Leader	Queen Spider	2091
+	Leader	"Queen Spider"	2091
 	Vnum	2019
-	1	Claw Poison Spider	2034
-	2	Claw Poison Spider	2034
+	1	"Claw Poison Spider"	2034
+	2	"Claw Poison Spider"	2034
 }
 Group	Spider_Baroness
 {
-	Leader	Spider Baroness	2092
+	Leader	"Spider Baroness"	2092
 	Vnum	2020
-	1	Soldier Poison Spider	2035
-	2	Soldier Poison Spider	2035
+	1	"Soldier Poison Spider"	2035
+	2	"Soldier Poison Spider"	2035
 }
 Group	Proud_Soldier_Spider
 {
-	Leader	Proud Soldier Spider	2036
+	Leader	"Proud Soldier Spider"	2036
 	Vnum	2021
-	1	Proud Soldier Spider	2036
-	2	Claw Poison Spider	2034
+	1	"Proud Soldier Spider"	2036
+	2	"Claw Poison Spider"	2034
 }
 Group	Small_Poison_Spider
 {
-	Leader	Small Poison Spider	2061
+	Leader	"Small Poison Spider"	2061
 	Vnum	2051
-	1	Small Poison Spider	2061
-	2	Small Poison Spider	2061
+	1	"Small Poison Spider"	2061
+	2	"Small Poison Spider"	2061
 }
 Group	Deadly_Poison_Spider
 {
-	Leader	Deadly Poison Spider	2062
+	Leader	"Deadly Poison Spider"	2062
 	Vnum	2052
-	1	Small Poison Spider	2061
-	2	Small Poison Spider	2061
+	1	"Small Poison Spider"	2061
+	2	"Small Poison Spider"	2061
 }
 Group	Deadly_Poison_Spider
 {
-	Leader	Deadly Poison Spider	2062
+	Leader	"Deadly Poison Spider"	2062
 	Vnum	2053
-	1	Deadly Poison Spider	2062
-	2	Small Poison Spider	2061
+	1	"Deadly Poison Spider"	2062
+	2	"Small Poison Spider"	2061
 }
 Group	Red_Deadly_Poison_Spider
 {
-	Leader	Red Deadly Poison Spider	2063
+	Leader	"Red Deadly Poison Spider"	2063
 	Vnum	2054
-	1	Deadly Poison Spider	2062
-	2	Deadly Poison Spider	2062
+	1	"Deadly Poison Spider"	2062
+	2	"Deadly Poison Spider"	2062
 }
 Group	Red_Deadly_Poison_Spider
 {
-	Leader	Red Deadly Poison Spider	2063
+	Leader	"Red Deadly Poison Spider"	2063
 	Vnum	2055
-	1	Red Deadly Poison Spider	2063
-	2	Deadly Poison Spider	2062
+	1	"Red Deadly Poison Spider"	2063
+	2	"Deadly Poison Spider"	2062
 }
 Group	Claw_Poison_Spider
 {
-	Leader	Claw Poison Spider	2064
+	Leader	"Claw Poison Spider"	2064
 	Vnum	2056
-	1	Red Deadly Poison Spider	2063
-	2	Red Deadly Poison Spider	2063
+	1	"Red Deadly Poison Spider"	2063
+	2	"Red Deadly Poison Spider"	2063
 }
 Group	Claw_Poison_Spider
 {
-	Leader	Claw Poison Spider	2064
+	Leader	"Claw Poison Spider"	2064
 	Vnum	2057
-	1	Claw Poison Spider	2064
-	2	Red Deadly Poison Spider	2063
+	1	"Claw Poison Spider"	2064
+	2	"Red Deadly Poison Spider"	2063
 }
 Group	Soldier_Poison_Spider
 {
-	Leader	Soldier Poison Spider	2065
+	Leader	"Soldier Poison Spider"	2065
 	Vnum	2058
-	1	Claw Poison Spider	2064
-	2	Claw Poison Spider	2064
+	1	"Claw Poison Spider"	2064
+	2	"Claw Poison Spider"	2064
 }
 Group	Soldier_Poison_Spider
 {
-	Leader	Soldier Poison Spider	2065
+	Leader	"Soldier Poison Spider"	2065
 	Vnum	2059
-	1	Soldier Poison Spider	2065
-	2	Claw Poison Spider	2064
+	1	"Soldier Poison Spider"	2065
+	2	"Claw Poison Spider"	2064
 }
 Group	Snake_Swordman
 {
-	Leader	Snake Swordman	2133
+	Leader	"Snake Swordman"	2133
 	Vnum	2060
-	1	Scorpion Archer	2132
-	2	Scorpion Archer	2132
-	3	Scorpion Archer	2132
+	1	"Scorpion Archer"	2132
+	2	"Scorpion Archer"	2132
+	3	"Scorpion Archer"	2132
 }
 Group	Snake_Swordman
 {
-	Leader	Snake Swordman	2133
+	Leader	"Snake Swordman"	2133
 	Vnum	2061
-	1	Snake Swordman	2133
-	2	Scorpion Archer	2132
-	3	Scorpion Archer	2132
+	1	"Snake Swordman"	2133
+	2	"Scorpion Archer"	2132
+	3	"Scorpion Archer"	2132
 }
 Group	Snake_Swordman
 {
-	Leader	Snake Swordman	2133
+	Leader	"Snake Swordman"	2133
 	Vnum	2062
-	1	Snake Swordman	2133
-	2	Snake Swordman	2133
-	3	Scorpion Archer	2132
+	1	"Snake Swordman"	2133
+	2	"Snake Swordman"	2133
+	3	"Scorpion Archer"	2132
 }
 Group	Snake_Archer
 {
-	Leader	Snake Archer	2134
+	Leader	"Snake Archer"	2134
 	Vnum	2063
-	1	Snake Archer	2134
-	2	Snake Swordman	2133
-	3	Snake Swordman	2133
+	1	"Snake Archer"	2134
+	2	"Snake Swordman"	2133
+	3	"Snake Swordman"	2133
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	2135
+	Leader	"Desert Outlaw"	2135
 	Vnum	2064
-	1	Snake Archer	2134
-	2	Snake Swordman	2133
-	3	Snake Swordman	2133
+	1	"Snake Archer"	2134
+	2	"Snake Swordman"	2133
+	3	"Snake Swordman"	2133
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	2135
+	Leader	"Desert Outlaw"	2135
 	Vnum	2065
-	1	Snake Archer	2134
-	2	Snake Archer	2134
-	3	Snake Swordman	2133
+	1	"Snake Archer"	2134
+	2	"Snake Archer"	2134
+	3	"Snake Swordman"	2133
 }
 Group	Mean_Baby_Poison_Spider
 {
-	Leader	Mean Baby Poison Spider	2051
+	Leader	"Mean Baby Poison Spider"	2051
 	Vnum	4071
-	1	Mean Baby Poison Spider	2051
-	2	Mean Baby Poison Spider	2051
+	1	"Mean Baby Poison Spider"	2051
+	2	"Mean Baby Poison Spider"	2051
 }
 Group	Mean_Dead._Poison_Spider
 {
-	Leader	Mean Dead. Poison Spider	2052
+	Leader	"Mean Dead. Poison Spider"	2052
 	Vnum	4072
-	1	Mean Dead. Poison Spider	2052
-	2	Mean Dead. Poison Spider	2052
+	1	"Mean Dead. Poison Spider"	2052
+	2	"Mean Dead. Poison Spider"	2052
 }
 Group	Mean_Red_Poison_Spider
 {
-	Leader	Mean Red Poison Spider	2053
+	Leader	"Mean Red Poison Spider"	2053
 	Vnum	4074
-	1	Mean Red Poison Spider	2053
-	2	Mean Red Poison Spider	2053
+	1	"Mean Red Poison Spider"	2053
+	2	"Mean Red Poison Spider"	2053
 }
 Group	Mean_Claw_Poison_Spider
 {
-	Leader	Mean Claw Poison Spider	2054
+	Leader	"Mean Claw Poison Spider"	2054
 	Vnum	4075
-	1	Mean Claw Poison Spider	2054
-	2	Mean Claw Poison Spider	2054
+	1	"Mean Claw Poison Spider"	2054
+	2	"Mean Claw Poison Spider"	2054
 }
 Group	Tree_Frog_Soldier
 {
-	Leader	Tree Frog Soldier	1301
+	Leader	"Tree Frog Soldier"	1301
 	Vnum	2101
-	1	Leflet Bogeyman	1303
-	2	Leflet Bogeyman	1303
-	3	Leflet Bogeyman	1303
+	1	"Leflet Bogeyman"	1303
+	2	"Leflet Bogeyman"	1303
+	3	"Leflet Bogeyman"	1303
 }
 Group	Tree_Frog_Soldier
 {
-	Leader	Tree Frog Soldier	1301
+	Leader	"Tree Frog Soldier"	1301
 	Vnum	2102
-	1	Tree Frog Soldier	1301
-	2	Leflet Bogeyman	1303
-	3	Leflet Bogeyman	1303
+	1	"Tree Frog Soldier"	1301
+	2	"Leflet Bogeyman"	1303
+	3	"Leflet Bogeyman"	1303
 }
 Group	Tree_Frog_Soldier
 {
-	Leader	Tree Frog Soldier	1301
+	Leader	"Tree Frog Soldier"	1301
 	Vnum	2103
-	1	Tree Frog Soldier	1301
-	2	Tree Frog Soldier	1301
-	3	Leflet Bogeyman	1303
+	1	"Tree Frog Soldier"	1301
+	2	"Tree Frog Soldier"	1301
+	3	"Leflet Bogeyman"	1303
 }
 Group	Tree_Frog_Leader
 {
-	Leader	Tree Frog Leader	1302
+	Leader	"Tree Frog Leader"	1302
 	Vnum	2104
-	1	Tree Frog Soldier	1301
-	2	Tree Frog Soldier	1301
+	1	"Tree Frog Soldier"	1301
+	2	"Tree Frog Soldier"	1301
 }
 Group	Tree_Frog_Leader
 {
-	Leader	Tree Frog Leader	1302
+	Leader	"Tree Frog Leader"	1302
 	Vnum	2105
-	1	Tree Frog Soldier	1301
-	2	Tree Frog Soldier	1301
-	3	Tree Frog Leader	1302
+	1	"Tree Frog Soldier"	1301
+	2	"Tree Frog Soldier"	1301
+	3	"Tree Frog Leader"	1302
 }
 Group	Tree_Frog_Leader
 {
-	Leader	Tree Frog Leader	1302
+	Leader	"Tree Frog Leader"	1302
 	Vnum	2106
-	1	Tree Frog Leader	1302
-	2	Tree Frog Leader	1302
-	3	Tree Frog Leader	1302
+	1	"Tree Frog Leader"	1302
+	2	"Tree Frog Leader"	1302
+	3	"Tree Frog Leader"	1302
 }
 Group	Bullfrog_General
 {
-	Leader	Bullfrog General	1305
+	Leader	"Bullfrog General"	1305
 	Vnum	2107
-	1	Tree Frog Leader	1302
-	2	Tree Frog Leader	1302
-	3	Tree Frog Leader	1302
+	1	"Tree Frog Leader"	1302
+	2	"Tree Frog Leader"	1302
+	3	"Tree Frog Leader"	1302
 }
 Group	Bullfrog_General
 {
-	Leader	Bullfrog General	1305
+	Leader	"Bullfrog General"	1305
 	Vnum	2108
-	1	Bullfrog General	1305
-	2	Tree Frog Leader	1302
-	3	Tree Frog Leader	1302
+	1	"Bullfrog General"	1305
+	2	"Tree Frog Leader"	1302
+	3	"Tree Frog Leader"	1302
 }
 Group	Bullfrog_General
 {
-	Leader	Bullfrog General	1305
+	Leader	"Bullfrog General"	1305
 	Vnum	2109
-	1	Bullfrog General	1305
-	2	Bullfrog General	1305
-	3	Tree Frog Leader	1302
-	4	Tree Frog Leader	1302
+	1	"Bullfrog General"	1305
+	2	"Bullfrog General"	1305
+	3	"Tree Frog Leader"	1302
+	4	"Tree Frog Leader"	1302
 }
 Group	Yellow_Tiger_Ghost
 {
-	Leader	Yellow Tiger Ghost	1304
+	Leader	"Yellow Tiger Ghost"	1304
 	Vnum	2110
-	1	Bullfrog General	1305
-	2	Bullfrog General	1305
-	3	Tree Frog Leader	1302
-	4	Tree Frog Leader	1302
+	1	"Bullfrog General"	1305
+	2	"Bullfrog General"	1305
+	3	"Tree Frog Leader"	1302
+	4	"Tree Frog Leader"	1302
 }
 Group	Bestial_Scorpion_Man
 {
-	Leader	Bestial Scorpion Man	2131
+	Leader	"Bestial Scorpion Man"	2131
 	Vnum	2131
-	1	Scorpion Archer	2105
-	2	Scorpion Archer	2105
+	1	"Scorpion Archer"	2105
+	2	"Scorpion Archer"	2105
 }
 Group	Strong_Desert_Outlaw
 {
-	Leader	Strong Desert Outlaw	2158
+	Leader	"Strong Desert Outlaw"	2158
 	Vnum	2158
-	1	Strong Desert Outlaw	2158
-	2	Strong Desert Outlaw	2158
+	1	"Strong Desert Outlaw"	2158
+	2	"Strong Desert Outlaw"	2158
 }
 Group	Fighting_Tiger_Minion
 {
-	Leader	Fighting Tiger Minion	2201
+	Leader	"Fighting Tiger Minion"	2201
 	Vnum	2201
-	1	Fighting Tiger Minion	2201
-	2	Fighting Tiger Minion	2201
+	1	"Fighting Tiger Minion"	2201
+	2	"Fighting Tiger Minion"	2201
 }
 Group	Flame_Ghost
 {
-	Leader	Flame Ghost	2202
+	Leader	"Flame Ghost"	2202
 	Vnum	2202
-	1	Fighting Tiger Minion	2201
-	2	Fighting Tiger Minion	2201
-	3	Fighting Tiger Minion	2201
+	1	"Fighting Tiger Minion"	2201
+	2	"Fighting Tiger Minion"	2201
+	3	"Fighting Tiger Minion"	2201
 }
 Group	Flame_Ghost
 {
-	Leader	Flame Ghost	2202
+	Leader	"Flame Ghost"	2202
 	Vnum	2203
-	1	Flame Ghost	2202
-	2	Fighting Tiger Minion	2201
-	3	Fighting Tiger Minion	2201
+	1	"Flame Ghost"	2202
+	2	"Fighting Tiger Minion"	2201
+	3	"Fighting Tiger Minion"	2201
 }
 Group	Fighting_Tiger
 {
-	Leader	Fighting Tiger	2203
+	Leader	"Fighting Tiger"	2203
 	Vnum	2204
-	1	Fighting Tiger	2203
-	2	Flame Ghost	2202
-	3	Flame Ghost	2202
+	1	"Fighting Tiger"	2203
+	2	"Flame Ghost"	2202
+	3	"Flame Ghost"	2202
 }
 Group	Flame
 {
 	Leader	Flame	2204
 	Vnum	2205
 	1	Flame	2204
-	2	Fighting Tiger	2203
-	3	Fighting Tiger	2203
+	2	"Fighting Tiger"	2203
+	3	"Fighting Tiger"	2203
 }
 Group	Flame_Warrior
 {
-	Leader	Flame Warrior	2205
+	Leader	"Flame Warrior"	2205
 	Vnum	2206
 	1	Flame	2204
 	2	Flame	2204
-	3	Fighting Tiger	2203
-	4	Fighting Tiger	2203
-	5	Fighting Tiger	2203
+	3	"Fighting Tiger"	2203
+	4	"Fighting Tiger"	2203
+	5	"Fighting Tiger"	2203
 }
 Group	Flame_Warrior
 {
-	Leader	Flame Warrior	2205
+	Leader	"Flame Warrior"	2205
 	Vnum	2207
 	1	Flame	2204
-	2	Flame Ghost	2202
-	3	Flame Ghost	2202
-	4	Fighting Tiger Minion	2201
-	5	Fighting Tiger Minion	2201
+	2	"Flame Ghost"	2202
+	3	"Flame Ghost"	2202
+	4	"Fighting Tiger Minion"	2201
+	5	"Fighting Tiger Minion"	2201
 }
 Group	Flame_Warrior
 {
-	Leader	Flame Warrior	2205
+	Leader	"Flame Warrior"	2205
 	Vnum	2208
-	1	Flame Warrior	2205
-	2	Fighting Tiger	2203
-	3	Fighting Tiger	2203
-	4	Fighting Tiger	2203
+	1	"Flame Warrior"	2205
+	2	"Fighting Tiger"	2203
+	3	"Fighting Tiger"	2203
+	4	"Fighting Tiger"	2203
 }
 Group	Flame_Warrior
 {
-	Leader	Flame Warrior	2205
+	Leader	"Flame Warrior"	2205
 	Vnum	2209
-	1	Flame Warrior	2205
+	1	"Flame Warrior"	2205
 	2	Flame	2204
 	3	Flame	2204
 	4	Flame	2204
 }
 Group	Flame_King
 {
-	Leader	Flame King	2206
+	Leader	"Flame King"	2206
 	Vnum	2210
-	1	Flame Warrior	2205
-	2	Flame Warrior	2205
+	1	"Flame Warrior"	2205
+	2	"Flame Warrior"	2205
 	3	Flame	2204
-	4	Flame Ghost	2202
+	4	"Flame Ghost"	2202
 }
 Group	Flame_King
 {
-	Leader	Flame King	2206
+	Leader	"Flame King"	2206
 	Vnum	2211
-	1	Flame Warrior	2205
-	2	Flame Warrior	2205
+	1	"Flame Warrior"	2205
+	2	"Flame Warrior"	2205
 	3	Flame	2204
-	4	Flame Ghost	2202
-	5	Flame Ghost	2202
-	6	Flame Ghost	2202
+	4	"Flame Ghost"	2202
+	5	"Flame Ghost"	2202
+	6	"Flame Ghost"	2202
 }
 Group	Red_Dragon
 {
-	Leader	Red Dragon	2291
+	Leader	"Red Dragon"	2291
 	Vnum	2212
-	1	Flame King	2206
-	2	Flame Warrior	2205
-	3	Flame Ghost	2202
-	4	Flame Ghost	2202
+	1	"Flame King"	2206
+	2	"Flame Warrior"	2205
+	3	"Flame Ghost"	2202
+	4	"Flame Ghost"	2202
 }
 Group	Ghost_Stump
 {
-	Leader	Ghost Stump	2302
+	Leader	"Ghost Stump"	2302
 	Vnum	2301
-	1	Ghost Stump	2302
-	2	Ghost Stump	2302
-	3	Ghost Stump	2302
+	1	"Ghost Stump"	2302
+	2	"Ghost Stump"	2302
+	3	"Ghost Stump"	2302
 }
 Group	Dryad
 {
 	Leader	Dryad	2303
 	Vnum	2302
-	1	Ghost Stump	2302
-	2	Ghost Stump	2302
-	3	Ghost Stump	2302
+	1	"Ghost Stump"	2302
+	2	"Ghost Stump"	2302
+	3	"Ghost Stump"	2302
 }
 Group	Dryad
 {
 	Leader	Dryad	2303
 	Vnum	2303
 	1	Dryad	2303
-	2	Ghost Stump	2302
-	3	Ghost Stump	2302
+	2	"Ghost Stump"	2302
+	3	"Ghost Stump"	2302
 }
 Group	Dryad
 {
@@ -2614,565 +2614,565 @@ Group	Dryad
 }
 Group	Ghost_Willow
 {
-	Leader	Ghost Willow	2304
+	Leader	"Ghost Willow"	2304
 	Vnum	2305
 	1	Dryad	2303
 	2	Dryad	2303
-	3	Ghost Stump	2302
-	4	Ghost Stump	2302
-	5	Ghost Stump	2302
+	3	"Ghost Stump"	2302
+	4	"Ghost Stump"	2302
+	5	"Ghost Stump"	2302
 }
 Group	Ghost_Willow
 {
-	Leader	Ghost Willow	2304
+	Leader	"Ghost Willow"	2304
 	Vnum	2306
-	1	Ghost Willow	2304
-	2	Ghost Stump	2302
-	3	Ghost Stump	2302
-	4	Ghost Stump	2302
+	1	"Ghost Willow"	2304
+	2	"Ghost Stump"	2302
+	3	"Ghost Stump"	2302
+	4	"Ghost Stump"	2302
 }
 Group	Ghost_Willow
 {
-	Leader	Ghost Willow	2304
+	Leader	"Ghost Willow"	2304
 	Vnum	2307
-	1	Ghost Willow	2304
+	1	"Ghost Willow"	2304
 	2	Dryad	2303
 	3	Dryad	2303
 	4	Dryad	2303
 }
 Group	Ghost_Willow
 {
-	Leader	Ghost Willow	2304
+	Leader	"Ghost Willow"	2304
 	Vnum	2308
-	1	Ghost Willow	2304
-	2	Ghost Willow	2304
-	3	Ghost Willow	2304
+	1	"Ghost Willow"	2304
+	2	"Ghost Willow"	2304
+	3	"Ghost Willow"	2304
 }
 Group	Evil_Tree
 {
-	Leader	Evil Tree	2305
+	Leader	"Evil Tree"	2305
 	Vnum	2309
-	1	Ghost Willow	2304
-	2	Ghost Willow	2304
-	3	Ghost Stump	2302
-	4	Ghost Stump	2302
-	5	Ghost Stump	2302
+	1	"Ghost Willow"	2304
+	2	"Ghost Willow"	2304
+	3	"Ghost Stump"	2302
+	4	"Ghost Stump"	2302
+	5	"Ghost Stump"	2302
 }
 Group	Evil_Tree
 {
-	Leader	Evil Tree	2305
+	Leader	"Evil Tree"	2305
 	Vnum	2310
-	1	Evil Tree	2305
-	2	Ghost Stump	2302
-	3	Ghost Stump	2302
-	4	Ghost Stump	2302
+	1	"Evil Tree"	2305
+	2	"Ghost Stump"	2302
+	3	"Ghost Stump"	2302
+	4	"Ghost Stump"	2302
 }
 Group	Evil_Tree
 {
-	Leader	Evil Tree	2305
+	Leader	"Evil Tree"	2305
 	Vnum	2311
-	1	Evil Tree	2305
+	1	"Evil Tree"	2305
 	2	Dryad	2303
 	3	Dryad	2303
 	4	Dryad	2303
 }
 Group	Evil_Tree
 {
-	Leader	Evil Tree	2305
+	Leader	"Evil Tree"	2305
 	Vnum	2312
-	1	Evil Tree	2305
-	2	Evil Tree	2305
-	3	Evil Tree	2305
-	4	Evil Tree	2305
+	1	"Evil Tree"	2305
+	2	"Evil Tree"	2305
+	3	"Evil Tree"	2305
+	4	"Evil Tree"	2305
 }
 Group	Evil_Tree
 {
-	Leader	Evil Tree	2305
+	Leader	"Evil Tree"	2305
 	Vnum	2313
-	1	Evil Tree	2305
-	2	Evil Tree	2305
-	3	Evil Tree	2305
+	1	"Evil Tree"	2305
+	2	"Evil Tree"	2305
+	3	"Evil Tree"	2305
 }
 Group	Giant_Ghost_Tree
 {
-	Leader	Giant Ghost Tree	2306
+	Leader	"Giant Ghost Tree"	2306
 	Vnum	2314
-	1	Evil Tree	2305
-	2	Ghost Willow	2304
-	3	Ghost Willow	2304
-	4	Ghost Stump	2302
-	5	Ghost Stump	2302
-	6	Ghost Stump	2302
-	7	Evil Tree	2305
+	1	"Evil Tree"	2305
+	2	"Ghost Willow"	2304
+	3	"Ghost Willow"	2304
+	4	"Ghost Stump"	2302
+	5	"Ghost Stump"	2302
+	6	"Ghost Stump"	2302
+	7	"Evil Tree"	2305
 	8	Dryad	2303
 	9	Dryad	2303
 }
 Group	Red_Ghost_Stump
 {
-	Leader	Red Ghost Stump	2312
+	Leader	"Red Ghost Stump"	2312
 	Vnum	2320
-	1	Red Ghost Stump	2312
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
+	1	"Red Ghost Stump"	2312
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
 }
 Group	Red_Ghost_Stump
 {
-	Leader	Red Ghost Stump	2312
+	Leader	"Red Ghost Stump"	2312
 	Vnum	2321
-	1	Red Ghost Stump	2312
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
+	1	"Red Ghost Stump"	2312
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
 }
 Group	Red_Dryad
 {
-	Leader	Red Dryad	2313
+	Leader	"Red Dryad"	2313
 	Vnum	2322
-	1	Red Ghost Stump	2312
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
+	1	"Red Ghost Stump"	2312
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
 }
 Group	Red_Dryad
 {
-	Leader	Red Dryad	2313
+	Leader	"Red Dryad"	2313
 	Vnum	2323
-	1	Red Dryad	2313
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
+	1	"Red Dryad"	2313
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
 }
 Group	Red_Dryad
 {
-	Leader	Red Dryad	2313
+	Leader	"Red Dryad"	2313
 	Vnum	2324
-	1	Red Dryad	2313
-	2	Red Dryad	2313
+	1	"Red Dryad"	2313
+	2	"Red Dryad"	2313
 }
 Group	Red_Ghost_Willow
 {
-	Leader	Red Ghost Willow	2314
+	Leader	"Red Ghost Willow"	2314
 	Vnum	2325
-	1	Red Dryad	2313
-	2	Red Dryad	2313
-	3	Red Ghost Stump	2312
-	4	Red Ghost Stump	2312
-	5	Red Ghost Stump	2312
+	1	"Red Dryad"	2313
+	2	"Red Dryad"	2313
+	3	"Red Ghost Stump"	2312
+	4	"Red Ghost Stump"	2312
+	5	"Red Ghost Stump"	2312
 }
 Group	Red_Ghost_Willow
 {
-	Leader	Red Ghost Willow	2314
+	Leader	"Red Ghost Willow"	2314
 	Vnum	2326
-	1	Red Ghost Willow	2314
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
-	4	Red Ghost Stump	2312
+	1	"Red Ghost Willow"	2314
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
+	4	"Red Ghost Stump"	2312
 }
 Group	Red_Ghost_Willow
 {
-	Leader	Red Ghost Willow	2314
+	Leader	"Red Ghost Willow"	2314
 	Vnum	2327
-	1	Red Ghost Willow	2314
-	2	Red Dryad	2313
-	3	Red Dryad	2313
-	4	Red Dryad	2313
+	1	"Red Ghost Willow"	2314
+	2	"Red Dryad"	2313
+	3	"Red Dryad"	2313
+	4	"Red Dryad"	2313
 }
 Group	Red_Ghost_Willow
 {
-	Leader	Red Ghost Willow	2314
+	Leader	"Red Ghost Willow"	2314
 	Vnum	2328
-	1	Red Ghost Willow	2314
-	2	Red Ghost Willow	2314
-	3	Red Ghost Willow	2314
+	1	"Red Ghost Willow"	2314
+	2	"Red Ghost Willow"	2314
+	3	"Red Ghost Willow"	2314
 }
 Group	Red_Evil_Tree
 {
-	Leader	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
 	Vnum	2329
-	1	Red Ghost Willow	2314
-	2	Red Ghost Willow	2314
-	3	Red Ghost Stump	2312
-	4	Red Ghost Stump	2312
-	5	Red Ghost Stump	2312
+	1	"Red Ghost Willow"	2314
+	2	"Red Ghost Willow"	2314
+	3	"Red Ghost Stump"	2312
+	4	"Red Ghost Stump"	2312
+	5	"Red Ghost Stump"	2312
 }
 Group	Red_Evil_Tree
 {
-	Leader	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
 	Vnum	2330
-	1	Red Evil Tree	2315
-	2	Red Ghost Stump	2312
-	3	Red Ghost Stump	2312
-	4	Red Ghost Stump	2312
+	1	"Red Evil Tree"	2315
+	2	"Red Ghost Stump"	2312
+	3	"Red Ghost Stump"	2312
+	4	"Red Ghost Stump"	2312
 }
 Group	Red_Evil_Tree
 {
-	Leader	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
 	Vnum	2331
-	1	Red Evil Tree	2315
-	2	Red Dryad	2313
-	3	Red Dryad	2313
-	4	Red Dryad	2313
+	1	"Red Evil Tree"	2315
+	2	"Red Dryad"	2313
+	3	"Red Dryad"	2313
+	4	"Red Dryad"	2313
 }
 Group	Red_Evil_Tree
 {
-	Leader	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
 	Vnum	2332
-	1	Red Evil Tree	2315
-	2	Red Evil Tree	2315
-	3	Red Evil Tree	2315
-	4	Red Evil Tree	2315
+	1	"Red Evil Tree"	2315
+	2	"Red Evil Tree"	2315
+	3	"Red Evil Tree"	2315
+	4	"Red Evil Tree"	2315
 }
 Group	Red_Evil_Tree
 {
-	Leader	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
 	Vnum	2333
-	1	Red Evil Tree	2315
-	2	Red Evil Tree	2315
-	3	Red Evil Tree	2315
+	1	"Red Evil Tree"	2315
+	2	"Red Evil Tree"	2315
+	3	"Red Evil Tree"	2315
 }
 Group	Underwrld_IceKillerWhale
 {
-	Leader	Underwrld IceKillerWhale	1132
+	Leader	"Underwrld IceKillerWhale"	1132
 	Vnum	2401
-	1	Underworld Ice Splinters	1131
-	2	Underworld Ice Splinters	1131
+	1	"Underworld Ice Splinters"	1131
+	2	"Underworld Ice Splinters"	1131
 }
 Group	Underwrld_IceKillerWhale
 {
-	Leader	Underwrld IceKillerWhale	1132
+	Leader	"Underwrld IceKillerWhale"	1132
 	Vnum	2402
-	1	Underwrld IceKillerWhale	1132
-	2	Underworld Ice Splinters	1131
-	3	Underworld Ice Splinters	1131
+	1	"Underwrld IceKillerWhale"	1132
+	2	"Underworld Ice Splinters"	1131
+	3	"Underworld Ice Splinters"	1131
 }
 Group	Underwrld_IceKillerWhale
 {
-	Leader	Underwrld IceKillerWhale	1132
+	Leader	"Underwrld IceKillerWhale"	1132
 	Vnum	2403
-	1	Underwrld IceKillerWhale	1132
-	2	Underwrld IceKillerWhale	1132
-	3	Underworld Ice Splinters	1131
+	1	"Underwrld IceKillerWhale"	1132
+	2	"Underwrld IceKillerWhale"	1132
+	3	"Underworld Ice Splinters"	1131
 }
 Group	Underworld_Ice_Bug
 {
-	Leader	Underworld Ice Bug	1133
+	Leader	"Underworld Ice Bug"	1133
 	Vnum	2404
-	1	Underwrld IceKillerWhale	1132
-	2	Underworld Ice Splinters	1131
-	3	Underworld Ice Splinters	1131
+	1	"Underwrld IceKillerWhale"	1132
+	2	"Underworld Ice Splinters"	1131
+	3	"Underworld Ice Splinters"	1131
 }
 Group	Underworld_Ice_Bug
 {
-	Leader	Underworld Ice Bug	1133
+	Leader	"Underworld Ice Bug"	1133
 	Vnum	2405
-	1	Underworld Ice Bug	1133
-	2	Underwrld IceKillerWhale	1132
-	3	Underworld Ice Splinters	1131
+	1	"Underworld Ice Bug"	1133
+	2	"Underwrld IceKillerWhale"	1132
+	3	"Underworld Ice Splinters"	1131
 }
 Group	Underworld_Ice_Lion
 {
-	Leader	Underworld Ice Lion	1134
+	Leader	"Underworld Ice Lion"	1134
 	Vnum	2406
-	1	Underworld Ice Bug	1133
-	2	Underwrld IceKillerWhale	1132
-	3	Underworld Ice Splinters	1131
+	1	"Underworld Ice Bug"	1133
+	2	"Underwrld IceKillerWhale"	1132
+	3	"Underworld Ice Splinters"	1131
 }
 Group	Underworld_Ice_Lion
 {
-	Leader	Underworld Ice Lion	1134
+	Leader	"Underworld Ice Lion"	1134
 	Vnum	2407
-	1	Underworld Ice Lion	1134
-	2	Underworld Ice Bug	1133
+	1	"Underworld Ice Lion"	1134
+	2	"Underworld Ice Bug"	1133
 }
 Group	Underworld_Ice_Man
 {
-	Leader	Underworld Ice Man	1135
+	Leader	"Underworld Ice Man"	1135
 	Vnum	2408
-	1	Underworld Ice Lion	1134
-	2	Underworld Ice Lion	1134
-	3	Underworld Ice Bug	1133
-	4	Underworld Ice Splinters	1131
+	1	"Underworld Ice Lion"	1134
+	2	"Underworld Ice Lion"	1134
+	3	"Underworld Ice Bug"	1133
+	4	"Underworld Ice Splinters"	1131
 }
 Group	Underworld_Ice_Man
 {
-	Leader	Underworld Ice Man	1135
+	Leader	"Underworld Ice Man"	1135
 	Vnum	2409
-	1	Underworld Ice Man	1135
-	2	Underworld Ice Lion	1134
-	3	Underworld Ice Lion	1134
+	1	"Underworld Ice Man"	1135
+	2	"Underworld Ice Lion"	1134
+	3	"Underworld Ice Lion"	1134
 }
 Group	Underworld_Ice_Man
 {
-	Leader	Underworld Ice Man	1135
+	Leader	"Underworld Ice Man"	1135
 	Vnum	2409
-	1	Underworld Ice Man	1135
-	2	Underworld Ice Lion	1134
-	3	Underworld Ice Lion	1134
+	1	"Underworld Ice Man"	1135
+	2	"Underworld Ice Lion"	1134
+	3	"Underworld Ice Lion"	1134
 }
 Group	Underworld_Yeti
 {
-	Leader	Underworld Yeti	1136
+	Leader	"Underworld Yeti"	1136
 	Vnum	2410
-	1	Underworld Ice Man	1135
-	2	Underworld Ice Man	1135
-	3	Underworld Ice Bug	1133
-	4	Underworld Ice Bug	1133
+	1	"Underworld Ice Man"	1135
+	2	"Underworld Ice Man"	1135
+	3	"Underworld Ice Bug"	1133
+	4	"Underworld Ice Bug"	1133
 }
 Group	Underworld_Yeti
 {
-	Leader	Underworld Yeti	1136
+	Leader	"Underworld Yeti"	1136
 	Vnum	2411
-	1	Underworld Yeti	1136
-	2	Underworld Yeti	1136
-	3	Underworld Ice Man	1135
-	4	Underworld Ice Man	1135
-	5	Underworld Ice Lion	1134
+	1	"Underworld Yeti"	1136
+	2	"Underworld Yeti"	1136
+	3	"Underworld Ice Man"	1135
+	4	"Underworld Ice Man"	1135
+	5	"Underworld Ice Lion"	1134
 }
 Group	Underworld_Ice_Golem
 {
-	Leader	Underworld Ice Golem	1137
+	Leader	"Underworld Ice Golem"	1137
 	Vnum	2412
-	1	Underworld Ice Man	1135
-	2	Underworld Ice Man	1135
-	3	Underworld Ice Man	1135
-	4	Underworld Yeti	1136
-	5	Underworld Yeti	1136
+	1	"Underworld Ice Man"	1135
+	2	"Underworld Ice Man"	1135
+	3	"Underworld Ice Man"	1135
+	4	"Underworld Yeti"	1136
+	5	"Underworld Yeti"	1136
 }
 Group	Underworld_Ice_Golem
 {
-	Leader	Underworld Ice Golem	1137
+	Leader	"Underworld Ice Golem"	1137
 	Vnum	2413
-	1	Underworld Ice Golem	1137
-	2	Underworld Ice Golem	1137
-	3	Underworld Yeti	1136
-	4	Underworld Yeti	1136
-	5	Underworld Yeti	1136
+	1	"Underworld Ice Golem"	1137
+	2	"Underworld Ice Golem"	1137
+	3	"Underworld Yeti"	1136
+	4	"Underworld Yeti"	1136
+	5	"Underworld Yeti"	1136
 }
 Group	Setaou_Fighter
 {
-	Leader	Setaou Fighter	2401
+	Leader	"Setaou Fighter"	2401
 	Vnum	2414
-	1	Setaou Fighter	2401
-	2	Setaou Fighter	2401
-	3	Setaou Fighter	2401
+	1	"Setaou Fighter"	2401
+	2	"Setaou Fighter"	2401
+	3	"Setaou Fighter"	2401
 }
 Group	Setaou_Hunter
 {
-	Leader	Setaou Hunter	2402
+	Leader	"Setaou Hunter"	2402
 	Vnum	2415
-	1	Setaou Fighter	2401
-	2	Setaou Fighter	2401
-	3	Setaou Fighter	2401
-	4	Setaou Fighter	2401
+	1	"Setaou Fighter"	2401
+	2	"Setaou Fighter"	2401
+	3	"Setaou Fighter"	2401
+	4	"Setaou Fighter"	2401
 }
 Group	Setaou_Hunter
 {
-	Leader	Setaou Hunter	2402
+	Leader	"Setaou Hunter"	2402
 	Vnum	2416
-	1	Setaou Hunter	2402
-	2	Setaou Hunter	2402
-	3	Setaou Fighter	2401
-	4	Setaou Fighter	2401
+	1	"Setaou Hunter"	2402
+	2	"Setaou Hunter"	2402
+	3	"Setaou Fighter"	2401
+	4	"Setaou Fighter"	2401
 }
 Group	Setaou_Mystic
 {
-	Leader	Setaou Mystic	2403
+	Leader	"Setaou Mystic"	2403
 	Vnum	2417
-	1	Setaou Hunter	2402
-	2	Setaou Hunter	2402
-	3	Setaou Fighter	2401
-	4	Setaou Fighter	2401
-	5	Setaou Fighter	2401
-	6	Setaou Fighter	2401
+	1	"Setaou Hunter"	2402
+	2	"Setaou Hunter"	2402
+	3	"Setaou Fighter"	2401
+	4	"Setaou Fighter"	2401
+	5	"Setaou Fighter"	2401
+	6	"Setaou Fighter"	2401
 }
 Group	Setaou_Mystic
 {
-	Leader	Setaou Mystic	2403
+	Leader	"Setaou Mystic"	2403
 	Vnum	2418
-	1	Setaou Mystic	2403
-	2	Setaou Hunter	2402
-	3	Setaou Hunter	2402
-	4	Setaou Hunter	2402
-	5	Setaou Fighter	2401
-	6	Setaou Fighter	2401
+	1	"Setaou Mystic"	2403
+	2	"Setaou Hunter"	2402
+	3	"Setaou Hunter"	2402
+	4	"Setaou Hunter"	2402
+	5	"Setaou Fighter"	2401
+	6	"Setaou Fighter"	2401
 }
 Group	Setaou_Leader
 {
-	Leader	Setaou Leader	2404
+	Leader	"Setaou Leader"	2404
 	Vnum	2419
-	1	Setaou Mystic	2403
-	2	Setaou Mystic	2403
-	3	Setaou Fighter	2401
-	4	Setaou Fighter	2401
-	5	Setaou Fighter	2401
+	1	"Setaou Mystic"	2403
+	2	"Setaou Mystic"	2403
+	3	"Setaou Fighter"	2401
+	4	"Setaou Fighter"	2401
+	5	"Setaou Fighter"	2401
 }
 Group	Setaou_Leader
 {
-	Leader	Setaou Leader	2404
+	Leader	"Setaou Leader"	2404
 	Vnum	2420
-	1	Setaou Mystic	2403
-	2	Setaou Mystic	2403
-	3	Setaou Hunter	2402
-	4	Setaou Hunter	2402
-	5	Setaou Fighter	2401
-	6	Setaou Fighter	2401
-	7	Setaou Fighter	2401
+	1	"Setaou Mystic"	2403
+	2	"Setaou Mystic"	2403
+	3	"Setaou Hunter"	2402
+	4	"Setaou Hunter"	2402
+	5	"Setaou Fighter"	2401
+	6	"Setaou Fighter"	2401
+	7	"Setaou Fighter"	2401
 }
 Group	Setaou_Soldier
 {
-	Leader	Setaou Soldier	2411
+	Leader	"Setaou Soldier"	2411
 	Vnum	2421
-	1	Setaou Soldier	2411
-	2	Setaou Soldier	2411
-	3	Setaou Soldier	2411
+	1	"Setaou Soldier"	2411
+	2	"Setaou Soldier"	2411
+	3	"Setaou Soldier"	2411
 }
 Group	Setaou_Archer
 {
-	Leader	Setaou Archer	2412
+	Leader	"Setaou Archer"	2412
 	Vnum	2422
-	1	Setaou Soldier	2411
-	2	Setaou Soldier	2411
-	3	Setaou Soldier	2411
+	1	"Setaou Soldier"	2411
+	2	"Setaou Soldier"	2411
+	3	"Setaou Soldier"	2411
 }
 Group	Setaou_Archer
 {
-	Leader	Setaou Archer	2412
+	Leader	"Setaou Archer"	2412
 	Vnum	2423
-	1	Setaou Archer	2412
-	2	Setaou Soldier	2411
-	3	Setaou Soldier	2411
+	1	"Setaou Archer"	2412
+	2	"Setaou Soldier"	2411
+	3	"Setaou Soldier"	2411
 }
 Group	Setaou_Magistrate
 {
-	Leader	Setaou Magistrate	2413
+	Leader	"Setaou Magistrate"	2413
 	Vnum	2424
-	1	Setaou Archer	2412
-	2	Setaou Soldier	2411
-	3	Setaou Soldier	2411
+	1	"Setaou Archer"	2412
+	2	"Setaou Soldier"	2411
+	3	"Setaou Soldier"	2411
 }
 Group	Setaou_Magistrate
 {
-	Leader	Setaou Magistrate	2413
+	Leader	"Setaou Magistrate"	2413
 	Vnum	2425
-	1	Setaou Archer	2412
-	2	Setaou Archer	2412
-	3	Setaou Soldier	2411
-	4	Setaou Soldier	2411
+	1	"Setaou Archer"	2412
+	2	"Setaou Archer"	2412
+	3	"Setaou Soldier"	2411
+	4	"Setaou Soldier"	2411
 }
 Group	Setaou_Commander
 {
-	Leader	Setaou Commander	2414
+	Leader	"Setaou Commander"	2414
 	Vnum	2426
-	1	Setaou Magistrate	2413
-	2	Setaou Magistrate	2413
-	3	Setaou Soldier	2411
-	4	Setaou Soldier	2411
-	5	Setaou Soldier	2411
+	1	"Setaou Magistrate"	2413
+	2	"Setaou Magistrate"	2413
+	3	"Setaou Soldier"	2411
+	4	"Setaou Soldier"	2411
+	5	"Setaou Soldier"	2411
 }
 Group	Setaou_Commander
 {
-	Leader	Setaou Commander	2414
+	Leader	"Setaou Commander"	2414
 	Vnum	2427
-	1	Setaou Magistrate	2413
-	2	Setaou Magistrate	2413
-	3	Setaou Archer	2412
-	4	Setaou Archer	2412
-	5	Setaou Soldier	2411
-	6	Setaou Soldier	2411
-	7	Setaou Soldier	2411
+	1	"Setaou Magistrate"	2413
+	2	"Setaou Magistrate"	2413
+	3	"Setaou Archer"	2412
+	4	"Setaou Archer"	2412
+	5	"Setaou Soldier"	2411
+	6	"Setaou Soldier"	2411
+	7	"Setaou Soldier"	2411
 }
 Group	Captain_Yonghan
 {
-	Leader	Captain Yonghan	2491
+	Leader	"Captain Yonghan"	2491
 	Vnum	2428
-	1	Setaou Leader	2404
-	2	Setaou Leader	2404
-	3	Setaou Mystic	2403
-	4	Setaou Mystic	2403
-	5	Setaou Fighter	2401
-	6	Setaou Fighter	2401
-	7	Setaou Fighter	2401
+	1	"Setaou Leader"	2404
+	2	"Setaou Leader"	2404
+	3	"Setaou Mystic"	2403
+	4	"Setaou Mystic"	2403
+	5	"Setaou Fighter"	2401
+	6	"Setaou Fighter"	2401
+	7	"Setaou Fighter"	2401
 }
 Group	General_Yonghan
 {
-	Leader	General Yonghan	2492
+	Leader	"General Yonghan"	2492
 	Vnum	2429
-	1	Setaou Commander	2414
-	2	Setaou Commander	2414
-	3	Setaou Magistrate	2413
-	4	Setaou Magistrate	2413
-	5	Setaou Soldier	2411
-	6	Setaou Soldier	2411
-	7	Setaou Soldier	2411
+	1	"Setaou Commander"	2414
+	2	"Setaou Commander"	2414
+	3	"Setaou Magistrate"	2413
+	4	"Setaou Magistrate"	2413
+	5	"Setaou Soldier"	2411
+	6	"Setaou Soldier"	2411
+	7	"Setaou Soldier"	2411
 }
 Group	Mighty_Ice_Witch
 {
-	Leader	Mighty Ice Witch	1192
+	Leader	"Mighty Ice Witch"	1192
 	Vnum	2448
-	1	Underworld Ice Golem	1137
-	2	Underworld Ice Golem	1137
-	3	Underworld Ice Golem	1137
+	1	"Underworld Ice Golem"	1137
+	2	"Underworld Ice Golem"	1137
+	3	"Underworld Ice Golem"	1137
 }
 Group	Weak_Ape_Soldier
 {
-	Leader	Weak Ape Soldier	5101
+	Leader	"Weak Ape Soldier"	5101
 	Vnum	5001
-	1	Weak Ape Soldier	5101
-	2	Weak Ape Soldier	5101
+	1	"Weak Ape Soldier"	5101
+	2	"Weak Ape Soldier"	5101
 }
 Group	Weak_Ape_Thrower
 {
-	Leader	Weak Ape Thrower	5102
+	Leader	"Weak Ape Thrower"	5102
 	Vnum	5002
-	1	Weak Ape Soldier	5101
-	2	Weak Ape Soldier	5101
+	1	"Weak Ape Soldier"	5101
+	2	"Weak Ape Soldier"	5101
 }
 Group	Weak_Ape_Thrower
 {
-	Leader	Weak Ape Thrower	5102
+	Leader	"Weak Ape Thrower"	5102
 	Vnum	5003
-	1	Weak Ape Thrower	5102
-	2	Weak Ape Soldier	5101
-	3	Weak Ape Soldier	5101
+	1	"Weak Ape Thrower"	5102
+	2	"Weak Ape Soldier"	5101
+	3	"Weak Ape Soldier"	5101
 }
 Group	Weak_Ape_Fighter
 {
-	Leader	Weak Ape Fighter	5103
+	Leader	"Weak Ape Fighter"	5103
 	Vnum	5004
-	1	Weak Ape Thrower	5102
-	2	Weak Ape Soldier	5101
-	3	Weak Ape Soldier	5101
+	1	"Weak Ape Thrower"	5102
+	2	"Weak Ape Soldier"	5101
+	3	"Weak Ape Soldier"	5101
 }
 Group	Weak_Ape_Fighter
 {
-	Leader	Weak Ape Fighter	5103
+	Leader	"Weak Ape Fighter"	5103
 	Vnum	5005
-	1	Weak Ape Fighter	5103
-	2	Weak Ape Fighter	5103
+	1	"Weak Ape Fighter"	5103
+	2	"Weak Ape Fighter"	5103
 }
 Group	Weak_Ape_General
 {
-	Leader	Weak Ape General	5104
+	Leader	"Weak Ape General"	5104
 	Vnum	5006
-	1	Weak Ape Fighter	5103
-	2	Weak Ape Soldier	5101
-	3	Weak Ape Soldier	5101
+	1	"Weak Ape Fighter"	5103
+	2	"Weak Ape Soldier"	5101
+	3	"Weak Ape Soldier"	5101
 }
 Group	Weak_Ape_General
 {
-	Leader	Weak Ape General	5104
+	Leader	"Weak Ape General"	5104
 	Vnum	5007
-	1	Weak Ape General	5104
-	2	Weak Ape Fighter	5103
-	3	Weak Ape Soldier	5101
+	1	"Weak Ape General"	5104
+	2	"Weak Ape Fighter"	5103
+	3	"Weak Ape Soldier"	5101
 }
 Group	Rock_Ape
 {
-	Leader	Rock Ape	5161
+	Leader	"Rock Ape"	5161
 	Vnum	5008
-	1	Weak Ape General	5104
-	2	Weak Ape Fighter	5103
-	3	Weak Ape Fighter	5103
-	4	Weak Ape Soldier	5101
-	5	Weak Ape Soldier	5101
-	6	Weak Ape Soldier	5101
+	1	"Weak Ape General"	5104
+	2	"Weak Ape Fighter"	5103
+	3	"Weak Ape Fighter"	5103
+	4	"Weak Ape Soldier"	5101
+	5	"Weak Ape Soldier"	5101
+	6	"Weak Ape Soldier"	5101
 }
 Group	Apesoldier
 {
@@ -3229,14 +3229,14 @@ Group	Apegeneral
 }
 Group	Stone_Ape
 {
-	Leader	Stone Ape	5115
+	Leader	"Stone Ape"	5115
 	Vnum	5016
 	1	Apegeneral	5114
 	2	Apegeneral	5114
 }
 Group	Ape_Leader
 {
-	Leader	Ape Leader	5116
+	Leader	"Ape Leader"	5116
 	Vnum	5017
 	1	Apegeneral	5114
 	2	Apefighter	5113
@@ -3245,226 +3245,226 @@ Group	Ape_Leader
 }
 Group	Walking_Ape
 {
-	Leader	Walking Ape	5162
+	Leader	"Walking Ape"	5162
 	Vnum	5018
-	1	Stone Ape	5115
-	2	Stone Ape	5115
+	1	"Stone Ape"	5115
+	2	"Stone Ape"	5115
 	3	Apegeneral	5114
 	4	Apegeneral	5114
 	5	Apegeneral	5114
 }
 Group	Strong_Ape_Soldier
 {
-	Leader	Strong Ape Soldier	5121
+	Leader	"Strong Ape Soldier"	5121
 	Vnum	5019
-	1	Strong Ape Soldier	5121
-	2	Strong Ape Soldier	5121
+	1	"Strong Ape Soldier"	5121
+	2	"Strong Ape Soldier"	5121
 }
 Group	Strong_Ape_Thrower
 {
-	Leader	Strong Ape Thrower	5122
+	Leader	"Strong Ape Thrower"	5122
 	Vnum	5020
-	1	Strong Ape Soldier	5121
-	2	Strong Ape Soldier	5121
+	1	"Strong Ape Soldier"	5121
+	2	"Strong Ape Soldier"	5121
 }
 Group	Strong_Ape_Thrower
 {
-	Leader	Strong Ape Thrower	5122
+	Leader	"Strong Ape Thrower"	5122
 	Vnum	5021
-	1	Strong Ape Thrower	5122
-	2	Strong Ape Soldier	5121
-	3	Strong Ape Soldier	5121
+	1	"Strong Ape Thrower"	5122
+	2	"Strong Ape Soldier"	5121
+	3	"Strong Ape Soldier"	5121
 }
 Group	Strong_Ape_Fighter
 {
-	Leader	Strong Ape Fighter	5123
+	Leader	"Strong Ape Fighter"	5123
 	Vnum	5022
-	1	Strong Ape Thrower	5122
-	2	Strong Ape Soldier	5121
-	3	Strong Ape Soldier	5121
+	1	"Strong Ape Thrower"	5122
+	2	"Strong Ape Soldier"	5121
+	3	"Strong Ape Soldier"	5121
 }
 Group	Strong_Ape_Fighter
 {
-	Leader	Strong Ape Fighter	5123
+	Leader	"Strong Ape Fighter"	5123
 	Vnum	5023
-	1	Strong Ape Fighter	5123
-	2	Strong Ape Fighter	5123
+	1	"Strong Ape Fighter"	5123
+	2	"Strong Ape Fighter"	5123
 }
 Group	Strong_Ape_General
 {
-	Leader	Strong Ape General	5124
+	Leader	"Strong Ape General"	5124
 	Vnum	5024
-	1	Strong Ape Fighter	5123
-	2	Strong Ape Soldier	5121
-	3	Strong Ape Soldier	5121
+	1	"Strong Ape Fighter"	5123
+	2	"Strong Ape Soldier"	5121
+	3	"Strong Ape Soldier"	5121
 }
 Group	Strong_Ape_General
 {
-	Leader	Strong Ape General	5124
+	Leader	"Strong Ape General"	5124
 	Vnum	5025
-	1	Strong Ape General	5124
-	2	Strong Ape Fighter	5123
-	3	Strong Ape Soldier	5121
+	1	"Strong Ape General"	5124
+	2	"Strong Ape Fighter"	5123
+	3	"Strong Ape Soldier"	5121
 }
 Group	Strong_Stone_Ape
 {
-	Leader	Strong Stone Ape	5125
+	Leader	"Strong Stone Ape"	5125
 	Vnum	5026
-	1	Strong Ape General	5124
-	2	Strong Ape Fighter	5123
-	3	Strong Ape Soldier	5121
-	4	Strong Ape Soldier	5121
+	1	"Strong Ape General"	5124
+	2	"Strong Ape Fighter"	5123
+	3	"Strong Ape Soldier"	5121
+	4	"Strong Ape Soldier"	5121
 }
 Group	Strong_Gold_Ape
 {
-	Leader	Strong Gold Ape	5126
+	Leader	"Strong Gold Ape"	5126
 	Vnum	5027
-	1	Strong Stone Ape	5125
-	2	Strong Ape General	5124
-	3	Strong Ape Soldier	5121
-	4	Strong Ape Soldier	5121
+	1	"Strong Stone Ape"	5125
+	2	"Strong Ape General"	5124
+	3	"Strong Ape Soldier"	5121
+	4	"Strong Ape Soldier"	5121
 }
 Group	Strong_Leader_Ape
 {
-	Leader	Strong Leader Ape	5127
+	Leader	"Strong Leader Ape"	5127
 	Vnum	5028
-	1	Strong Stone Ape	5125
-	2	Strong Ape General	5124
-	3	Strong Ape General	5124
-	4	Strong Ape Soldier	5121
-	5	Strong Ape Soldier	5121
+	1	"Strong Stone Ape"	5125
+	2	"Strong Ape General"	5124
+	3	"Strong Ape General"	5124
+	4	"Strong Ape Soldier"	5121
+	5	"Strong Ape Soldier"	5121
 }
 Group	Ape_Lord
 {
-	Leader	Ape Lord	5163
+	Leader	"Ape Lord"	5163
 	Vnum	5029
-	1	Strong Gold Ape	5126
-	2	Strong Stone Ape	5125
-	3	Strong Stone Ape	5125
-	4	Strong Ape General	5124
-	5	Strong Ape General	5124
-	6	Strong Ape General	5124
+	1	"Strong Gold Ape"	5126
+	2	"Strong Stone Ape"	5125
+	3	"Strong Stone Ape"	5125
+	4	"Strong Ape General"	5124
+	5	"Strong Ape General"	5124
+	6	"Strong Ape General"	5124
 }
 Group	Evil_strong_Apesoldier
 {
-	Leader	Evil strong Apesoldier	5151
+	Leader	"Evil strong Apesoldier"	5151
 	Vnum	5151
-	1	Evil strong Apesoldier	5151
-	2	Evil strong Apesoldier	5151
+	1	"Evil strong Apesoldier"	5151
+	2	"Evil strong Apesoldier"	5151
 }
 Group	Evil_strong_Apethrower
 {
-	Leader	Evil strong Apethrower	5152
+	Leader	"Evil strong Apethrower"	5152
 	Vnum	5152
-	1	Evil strong Apethrower	5152
-	2	Evil strong Apethrower	5152
+	1	"Evil strong Apethrower"	5152
+	2	"Evil strong Apethrower"	5152
 }
 Group	Evil_strong_Apefighter
 {
-	Leader	Evil strong Apefighter	5153
+	Leader	"Evil strong Apefighter"	5153
 	Vnum	5153
-	1	Evil strong Apefighter	5153
-	2	Evil strong Apefighter	5153
+	1	"Evil strong Apefighter"	5153
+	2	"Evil strong Apefighter"	5153
 }
 Group	Evil_strong_Apegeneral
 {
-	Leader	Evil strong Apegeneral	5154
+	Leader	"Evil strong Apegeneral"	5154
 	Vnum	5154
-	1	Evil strong Apegeneral	5154
-	2	Evil strong Apegeneral	5154
+	1	"Evil strong Apegeneral"	5154
+	2	"Evil strong Apegeneral"	5154
 }
 Group	Evil_strong_Stoneape
 {
-	Leader	Evil strong Stoneape	5155
+	Leader	"Evil strong Stoneape"	5155
 	Vnum	5155
-	1	Evil strong Stoneape	5155
-	2	Evil strong Stoneape	5155
+	1	"Evil strong Stoneape"	5155
+	2	"Evil strong Stoneape"	5155
 }
 Group	Evil_strong_Goldape
 {
-	Leader	Evil strong Goldape	5156
+	Leader	"Evil strong Goldape"	5156
 	Vnum	5156
-	1	Evil strong Goldape	5156
-	2	Evil strong Goldape	5156
+	1	"Evil strong Goldape"	5156
+	2	"Evil strong Goldape"	5156
 }
 Group	Scorpion_King
 {
-	Leader	Scorpion King	7013
+	Leader	"Scorpion King"	7013
 	Vnum	7011
-	1	Scorpion King	7013
+	1	"Scorpion King"	7013
 	2	Bi-Ma-Gui-An	7012
 	3	Bi-Ma-Gui-An	7012
 }
 Group	Snake_Swordfighter
 {
-	Leader	Snake Swordfighter	7016
+	Leader	"Snake Swordfighter"	7016
 	Vnum	7012
-	1	Snake Swordfighter	7016
-	2	Smart Scorpion Man	7014
-	3	Smart Scorpion Man	7014
+	1	"Snake Swordfighter"	7016
+	2	"Smart Scorpion Man"	7014
+	3	"Smart Scorpion Man"	7014
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	7018
+	Leader	"Desert Outlaw"	7018
 	Vnum	7013
-	1	Desert Outlaw	7018
-	2	Snake Swordfighter	7016
-	3	Snake Swordfighter	7016
+	1	"Desert Outlaw"	7018
+	2	"Snake Swordfighter"	7016
+	3	"Snake Swordfighter"	7016
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	7018
+	Leader	"Desert Outlaw"	7018
 	Vnum	7014
-	1	Desert Outlaw	7018
-	2	Snake Archer	7017
-	3	Snake Archer	7017
+	1	"Desert Outlaw"	7018
+	2	"Snake Archer"	7017
+	3	"Snake Archer"	7017
 }
 Group	Tu-Ji_Bum
 {
-	Leader	Tu-Ji Bum	7021
+	Leader	"Tu-Ji Bum"	7021
 	Vnum	7019
-	1	Tu-Ji Soldier	7019
-	2	Tu-Ji Soldier	7019
-	3	Tu-Ji Soldier	7019
+	1	"Tu-Ji Soldier"	7019
+	2	"Tu-Ji Soldier"	7019
+	3	"Tu-Ji Soldier"	7019
 }
 Group	Hwa-ryung
 {
 	Leader	Hwa-ryung	7020
 	Vnum	7020
-	1	Tu-Ji Soldier	7019
-	2	Tu-Ji Soldier	7019
-	3	Tu-Ji Soldier	7019
+	1	"Tu-Ji Soldier"	7019
+	2	"Tu-Ji Soldier"	7019
+	3	"Tu-Ji Soldier"	7019
 }
 Group	Cham-Ma
 {
 	Leader	Cham-Ma	7022
 	Vnum	7021
-	1	Tu-Ji Bum	7021
+	1	"Tu-Ji Bum"	7021
 	2	Hwa-ryung	7020
 }
 Group	Teawha-Mu
 {
 	Leader	Teawha-Mu	7023
 	Vnum	7022
-	1	Tu-Ji Bum	7021
-	2	Tu-Ji Bum	7021
+	1	"Tu-Ji Bum"	7021
+	2	"Tu-Ji Bum"	7021
 	3	Hwa-ryung	7020
 }
 Group	Wild_Dog
 {
-	Leader	Wild Dog	8501
+	Leader	"Wild Dog"	8501
 	Vnum	8501
-	1	Wild Dog	8501
-	2	Wild Dog	8501
-	3	Wild Dog	8501
+	1	"Wild Dog"	8501
+	2	"Wild Dog"	8501
+	3	"Wild Dog"	8501
 }
 Group	Wild_Boar
 {
-	Leader	Wild Boar	8502
+	Leader	"Wild Boar"	8502
 	Vnum	8502
-	1	Wild Boar	8502
-	2	Wild Boar	8502
-	3	Wild Boar	8502
+	1	"Wild Boar"	8502
+	2	"Wild Boar"	8502
+	3	"Wild Boar"	8502
 }
 Group	Bear
 {
@@ -3476,67 +3476,67 @@ Group	Bear
 }
 Group	White_Tiger
 {
-	Leader	White Tiger	8504
+	Leader	"White Tiger"	8504
 	Vnum	8504
-	1	White Tiger	8504
-	2	White Tiger	8504
-	3	White Tiger	8504
+	1	"White Tiger"	8504
+	2	"White Tiger"	8504
+	3	"White Tiger"	8504
 }
 Group	Black_Giant_Orc
 {
-	Leader	Black Giant Orc	8505
+	Leader	"Black Giant Orc"	8505
 	Vnum	8505
-	1	Black Giant Orc	8505
-	2	Black Giant Orc	8505
-	3	Black Giant Orc	8505
+	1	"Black Giant Orc"	8505
+	2	"Black Giant Orc"	8505
+	3	"Black Giant Orc"	8505
 }
 Group	Tree_Frog_Leader
 {
-	Leader	Tree Frog Leader	8506
+	Leader	"Tree Frog Leader"	8506
 	Vnum	8506
-	1	Tree Frog Leader	8506
-	2	Tree Frog Leader	8506
-	3	Tree Frog Leader	8506
+	1	"Tree Frog Leader"	8506
+	2	"Tree Frog Leader"	8506
+	3	"Tree Frog Leader"	8506
 }
 Group	Desert_Outlaw
 {
-	Leader	Desert Outlaw	8507
+	Leader	"Desert Outlaw"	8507
 	Vnum	8507
-	1	Desert Outlaw	8507
-	2	Desert Outlaw	8507
-	3	Desert Outlaw	8507
+	1	"Desert Outlaw"	8507
+	2	"Desert Outlaw"	8507
+	3	"Desert Outlaw"	8507
 }
 Group	Esoteric_Tormentor
 {
-	Leader	Esoteric Tormentor	8508
+	Leader	"Esoteric Tormentor"	8508
 	Vnum	8508
-	1	Esoteric Tormentor	8508
-	2	Esoteric Tormentor	8508
-	3	Esoteric Tormentor	8508
+	1	"Esoteric Tormentor"	8508
+	2	"Esoteric Tormentor"	8508
+	3	"Esoteric Tormentor"	8508
 }
 Group	Esoteric_Summoner
 {
-	Leader	Esoteric Summoner	8509
+	Leader	"Esoteric Summoner"	8509
 	Vnum	8509
-	1	Esoteric Summoner	8509
-	2	Esoteric Summoner	8509
-	3	Esoteric Summoner	8509
+	1	"Esoteric Summoner"	8509
+	2	"Esoteric Summoner"	8509
+	3	"Esoteric Summoner"	8509
 }
 Group	Flame_Warrior
 {
-	Leader	Flame Warrior	8510
+	Leader	"Flame Warrior"	8510
 	Vnum	8510
-	1	Flame Warrior	8510
-	2	Flame Warrior	8510
-	3	Flame Warrior	8510
+	1	"Flame Warrior"	8510
+	2	"Flame Warrior"	8510
+	3	"Flame Warrior"	8510
 }
 Group	Ice_Golem
 {
-	Leader	Ice Golem	8511
+	Leader	"Ice Golem"	8511
 	Vnum	8511
-	1	Ice Golem	8511
-	2	Ice Golem	8511
-	3	Ice Golem	8511
+	1	"Ice Golem"	8511
+	2	"Ice Golem"	8511
+	3	"Ice Golem"	8511
 }
 Group	Guardian
 {
@@ -3547,10 +3547,10 @@ Group	Guardian
 }
 Group	Battle_Bailiff
 {
-	Leader	Battle Bailiff	11101
+	Leader	"Battle Bailiff"	11101
 	Vnum	9502
-	1	Battle Bailiff	11101
-	2	Battle Bailiff	11101
+	1	"Battle Bailiff"	11101
+	2	"Battle Bailiff"	11101
 }
 Group	Guardian
 {
@@ -3561,10 +3561,10 @@ Group	Guardian
 }
 Group	Battle_Bailiff
 {
-	Leader	Battle Bailiff	11103
+	Leader	"Battle Bailiff"	11103
 	Vnum	9512
-	1	Battle Bailiff	11103
-	2	Battle Bailiff	11103
+	1	"Battle Bailiff"	11103
+	2	"Battle Bailiff"	11103
 }
 Group	Guardian
 {
@@ -3575,10 +3575,10 @@ Group	Guardian
 }
 Group	Battle_Bailiff
 {
-	Leader	Battle Bailiff	11105
+	Leader	"Battle Bailiff"	11105
 	Vnum	9522
-	1	Battle Bailiff	11105
-	2	Battle Bailiff	11105
+	1	"Battle Bailiff"	11105
+	2	"Battle Bailiff"	11105
 }
 Group	.
 {
@@ -3669,148 +3669,148 @@ Group	.
 }
 Group	Vein_Of_Diamond_Ore
 {
-	Leader	Vein Of Diamond Ore	20047
+	Leader	"Vein Of Diamond Ore"	20047
 	Vnum	20047
 }
 Group	Vein_Of_Amber_Ore
 {
-	Leader	Vein Of Amber Ore	20048
+	Leader	"Vein Of Amber Ore"	20048
 	Vnum	20048
 }
 Group	Vein_Of_Fossil_Trunk_Ore
 {
-	Leader	Vein Of Fossil Trunk Ore	20049
+	Leader	"Vein Of Fossil Trunk Ore"	20049
 	Vnum	20049
 }
 Group	Vein_Of_Copper_Ore
 {
-	Leader	Vein Of Copper Ore	20050
+	Leader	"Vein Of Copper Ore"	20050
 	Vnum	20050
 }
 Group	Vein_Of_Silver_Ore
 {
-	Leader	Vein Of Silver Ore	20051
+	Leader	"Vein Of Silver Ore"	20051
 	Vnum	20051
 }
 Group	Vein_Of_Gold_Ore
 {
-	Leader	Vein Of Gold Ore	20052
+	Leader	"Vein Of Gold Ore"	20052
 	Vnum	20052
 }
 Group	Vein_Of_Jade_Ore
 {
-	Leader	Vein Of Jade Ore	20053
+	Leader	"Vein Of Jade Ore"	20053
 	Vnum	20053
 }
 Group	Vein_Of_Ebony_Ore
 {
-	Leader	Vein Of Ebony Ore	20054
+	Leader	"Vein Of Ebony Ore"	20054
 	Vnum	20054
 }
 Group	Pile_Of_Clams
 {
-	Leader	Pile Of Clams	20055
+	Leader	"Pile Of Clams"	20055
 	Vnum	20055
 }
 Group	Vein_Of_White_Gold_Ore
 {
-	Leader	Vein Of White Gold Ore	20056
+	Leader	"Vein Of White Gold Ore"	20056
 	Vnum	20056
 }
 Group	Vein_Of_Crystal_Ore
 {
-	Leader	Vein Of Crystal Ore	20057
+	Leader	"Vein Of Crystal Ore"	20057
 	Vnum	20057
 }
 Group	Vein_Of_Amethyst_Ore
 {
-	Leader	Vein Of Amethyst Ore	20058
+	Leader	"Vein Of Amethyst Ore"	20058
 	Vnum	20058
 }
 Group	Heaven's_Tear_Vein
 {
-	Leader	Heaven's Tear Vein	20059
+	Leader	"Heaven's Tear Vein"	20059
 	Vnum	20059
 }
 Group	Reborn_Chief_Ork
 {
-	Leader	Reborn Chief Ork	693
+	Leader	"Reborn Chief Ork"	693
 	Vnum	30001
 }
 Group	Elite_Fighter
 {
-	Leader	Elite Fighter	795
+	Leader	"Elite Fighter"	795
 	Vnum	30002
 }
 Group	Elite_Vile_Demon_King
 {
-	Leader	Elite Vile Demon King	1094
+	Leader	"Elite Vile Demon King"	1094
 	Vnum	30003
 }
 Group	Blue_Death
 {
-	Leader	Blue Death	1095
+	Leader	"Blue Death"	1095
 	Vnum	30004
 }
 Group	Elite_Nine_Tails
 {
-	Leader	Elite Nine Tails	1903
+	Leader	"Elite Nine Tails"	1903
 	Vnum	30005
 }
 Group	Elite_Yellow_Tiger_Ghost
 {
-	Leader	Elite Yellow Tiger Ghost	1307
+	Leader	"Elite Yellow Tiger Ghost"	1307
 	Vnum	30006
 }
 Group	Dark_Queen_Spider
 {
-	Leader	Dark Queen Spider	2093
+	Leader	"Dark Queen Spider"	2093
 	Vnum	30007
 }
 Group	Dark_Giant_Tortoise
 {
-	Leader	Dark Giant Tortoise	2192
+	Leader	"Dark Giant Tortoise"	2192
 	Vnum	30008
 }
 Group	Cursed_White_Tiger
 {
-	Leader	Cursed White Tiger	144
+	Leader	"Cursed White Tiger"	144
 	Vnum	30009
-	1	Cursed Tiger	143
-	2	Cursed Tiger	143
+	1	"Cursed Tiger"	143
+	2	"Cursed Tiger"	143
 }
 Group	Cursed_White_Tiger
 {
-	Leader	Cursed White Tiger	144
+	Leader	"Cursed White Tiger"	144
 	Vnum	30010
-	1	Cursed White Tiger	144
-	2	Cursed White Tiger	144
-	3	Cursed White Tiger	144
-	4	Cursed White Tiger	144
+	1	"Cursed White Tiger"	144
+	2	"Cursed White Tiger"	144
+	3	"Cursed White Tiger"	144
+	4	"Cursed White Tiger"	144
 }
 Group	Noname
 {
 	Leader	Noname	2316
 	Vnum	2334
-	1	Red Evil Tree	2315
-	2	Red Ghost Willow	2314
-	3	Red Ghost Willow	2314
-	4	Red Ghost Stump	2312
-	5	Red Ghost Stump	2312
-	6	Red Ghost Stump	2312
-	7	Red Evil Tree	2315
-	8	Red Dryad	2313
-	9	Red Dryad	2313
+	1	"Red Evil Tree"	2315
+	2	"Red Ghost Willow"	2314
+	3	"Red Ghost Willow"	2314
+	4	"Red Ghost Stump"	2312
+	5	"Red Ghost Stump"	2312
+	6	"Red Ghost Stump"	2312
+	7	"Red Evil Tree"	2315
+	8	"Red Dryad"	2313
+	9	"Red Dryad"	2313
 }
 Group	Beran-Setaou
 {
 	Leader	Beran-Setaou	2493
 	Vnum	2430
-	1	Setaou Commander	2414
-	2	Setaou Commander	2414
-	3	Setaou Soldier	2411
-	4	Setaou Soldier	2411
-	5	Setaou Soldier	2411
+	1	"Setaou Commander"	2414
+	2	"Setaou Commander"	2414
+	3	"Setaou Soldier"	2411
+	4	"Setaou Soldier"	2411
+	5	"Setaou Soldier"	2411
 }
 Group	????
 {
@@ -3940,7 +3940,7 @@ Group	?????
 }
 Group	Captain_Huashin
 {
-	Leader	Captain Huashin	2494
+	Leader	"Captain Huashin"	2494
 	Vnum	2445
 	1	????	2434
 	2	????	2434
@@ -3952,7 +3952,7 @@ Group	Captain_Huashin
 }
 Group	General_Huashin
 {
-	Leader	General Huashin	2495
+	Leader	"General Huashin"	2495
 	Vnum	2446
 	1	?????	2454
 	2	?????	2454
@@ -3997,27 +3997,27 @@ Group	Noname
 	Vnum	2069
 	1	Noname	2137
 	2	Noname	2136
-	3	Desert Outlaw	2135
-	4	Snake Archer	2134
+	3	"Desert Outlaw"	2135
+	4	"Snake Archer"	2134
 }
 Group	Metin_of_the_Mountain
 {
-	Leader	Metin of the Mountain	8031
+	Leader	"Metin of the Mountain"	8031
 	Vnum	8031
 }
 Group	Metin_of_Vengeance
 {
-	Leader	Metin of Vengeance	8032
+	Leader	"Metin of Vengeance"	8032
 	Vnum	8032
 }
 Group	Metin_of_Solitude
 {
-	Leader	Metin of Solitude	8033
+	Leader	"Metin of Solitude"	8033
 	Vnum	8033
 }
 Group	Metin_of_Arrogance
 {
-	Leader	Metin of Arrogance	8034
+	Leader	"Metin of Arrogance"	8034
 	Vnum	8034
 }
 Group	???
@@ -4106,10 +4106,10 @@ Group	???
 }
 Group	Desert_Fox
 {
-	Leader	Desert Fox	2101
+	Leader	"Desert Fox"	2101
 	Vnum	9611
-	1	Desert Fox	2101
-	2	Desert Fox	2101
+	1	"Desert Fox"	2101
+	2	"Desert Fox"	2101
 }
 Group	Mu-Rang
 {
@@ -4121,30 +4121,30 @@ Group	Mu-Rang
 Group	Desert_Outlaw
 {
 	Vnum	9613
-	Leader	Desert Outlaw	8507
-	1	Desert Outlaw	8507
-	2	Desert Outlaw	8507
+	Leader	"Desert Outlaw"	8507
+	1	"Desert Outlaw"	8507
+	2	"Desert Outlaw"	8507
 }
 Group	White_Oath_Archer
 {
 	Vnum	9614
-	Leader	White Oath Archer	302
-	1	White Oath Archer	302
-	2	White Oath Archer	302
+	Leader	"White Oath Archer"	302
+	1	"White Oath Archer"	302
+	2	"White Oath Archer"	302
 }
 Group	Cursed_Grizzly_Bear
 {
 	Vnum	9615
-	Leader	Cursed Grizzly Bear	140
-	1	Cursed Grizzly Bear	140
-	2	Cursed Grizzly Bear	140
+	Leader	"Cursed Grizzly Bear"	140
+	1	"Cursed Grizzly Bear"	140
+	2	"Cursed Grizzly Bear"	140
 }
 Group	Flame_Warrior
 {
 	Vnum	9621
-	Leader	Flame Warrior	8510
-	1	Flame Warrior	8510
-	2	Flame Warrior	8510
+	Leader	"Flame Warrior"	8510
+	1	"Flame Warrior"	8510
+	2	"Flame Warrior"	8510
 }
 Group	Li-An
 {
@@ -4156,16 +4156,16 @@ Group	Li-An
 Group	Weak_Ape_Thrower
 {
 	Vnum	9623
-	Leader	Weak Ape Thrower	5102
-	1	Weak Ape Thrower	5102
-	2	Weak Ape Thrower	5102
+	Leader	"Weak Ape Thrower"	5102
+	1	"Weak Ape Thrower"	5102
+	2	"Weak Ape Thrower"	5102
 }
 Group	Evil_Bl._Storm_Joh-Hwan
 {
 	Vnum	9624
-	Leader	Evil Bl. Storm Joh-Hwan	454
-	1	Evil Bl. Storm Joh-Hwan	454
-	2	Evil Bl. Storm Joh-Hwan	454
+	Leader	"Evil Bl. Storm Joh-Hwan"	454
+	1	"Evil Bl. Storm Joh-Hwan"	454
+	2	"Evil Bl. Storm Joh-Hwan"	454
 }
 Group	Lykos
 {
@@ -4177,80 +4177,80 @@ Group	Lykos
 Group	King_Scorpion
 {
 	Vnum	9631
-	Leader	King Scorpion	2103
-	1	King Scorpion	2103
-	2	King Scorpion	2103
+	Leader	"King Scorpion"	2103
+	1	"King Scorpion"	2103
+	2	"King Scorpion"	2103
 }
 Group	Clever_Apethrower
 {
 	Vnum	9632
-	Leader	Clever Apethrower	5142
-	1	Clever Apethrower	5142
-	2	Clever Apethrower	5142
+	Leader	"Clever Apethrower"	5142
+	1	"Clever Apethrower"	5142
+	2	"Clever Apethrower"	5142
 }
 Group	Strong_Dervish
 {
 	Vnum	9633
-	Leader	Strong Dervish	2152
-	1	Strong Dervish	2152
-	2	Strong Dervish	2152
+	Leader	"Strong Dervish"	2152
+	1	"Strong Dervish"	2152
+	2	"Strong Dervish"	2152
 }
 Group	Strong_Scorpion_King
 {
 	Vnum	9634
-	Leader	Strong Scorpion King	2153
-	1	Strong Scorpion King	2153
-	2	Strong Scorpion King	2153
+	Leader	"Strong Scorpion King"	2153
+	1	"Strong Scorpion King"	2153
+	2	"Strong Scorpion King"	2153
 }
 Group	Strong_Savage_General
 {
 	Vnum	9635
-	Leader	Strong Savage General	554
-	1	Strong Savage General	554
-	2	Strong Savage General	554
+	Leader	"Strong Savage General"	554
+	1	"Strong Savage General"	554
+	2	"Strong Savage General"	554
 }
 Group	Evil_strong_Apethrower
 {
 	Vnum	9641
-	Leader	Evil strong Apethrower	5152
-	1	Evil strong Apethrower	5152
-	2	Evil strong Apethrower	5152
-	3	Evil strong Apethrower	5152
+	Leader	"Evil strong Apethrower"	5152
+	1	"Evil strong Apethrower"	5152
+	2	"Evil strong Apethrower"	5152
+	3	"Evil strong Apethrower"	5152
 }
 Group	Red_Poison_Spider
 {
 	Vnum	9642
-	Leader	Red Poison Spider	2003
-	1	Red Poison Spider	2003
-	2	Red Poison Spider	2003
+	Leader	"Red Poison Spider"	2003
+	1	"Red Poison Spider"	2003
+	2	"Red Poison Spider"	2003
 }
 Group	Bold_Black_Giant_Orc
 {
 	Vnum	9643
-	Leader	Bold Black Giant Orc	657
-	1	Bold Black Giant Orc	657
-	2	Bold Black Giant Orc	657
+	Leader	"Bold Black Giant Orc"	657
+	1	"Bold Black Giant Orc"	657
+	2	"Bold Black Giant Orc"	657
 }
 Group	Strong_Ape_Soldier
 {
 	Vnum	9644
-	Leader	Strong Ape Soldier	5121
-	1	Strong Ape Soldier	5121
-	2	Strong Ape Soldier	5121
+	Leader	"Strong Ape Soldier"	5121
+	1	"Strong Ape Soldier"	5121
+	2	"Strong Ape Soldier"	5121
 }
 Group	Young_Scorpion_Man
 {
 	Vnum	9645
-	Leader	Young Scorpion Man	2104
-	1	Young Scorpion Man	2104
-	2	Young Scorpion Man	2104
+	Leader	"Young Scorpion Man"	2104
+	1	"Young Scorpion Man"	2104
+	2	"Young Scorpion Man"	2104
 }
 Group	Tu-Ji_Bum
 {
 	Vnum	9651
-	Leader	Tu-Ji Bum	7021
-	1	Tu-Ji Bum	7021
-	2	Tu-Ji Bum	7021
+	Leader	"Tu-Ji Bum"	7021
+	1	"Tu-Ji Bum"	7021
+	2	"Tu-Ji Bum"	7021
 }
 Group	Hwa-ryung
 {
@@ -4262,30 +4262,30 @@ Group	Hwa-ryung
 Group	Tu-Ji_Soldier
 {
 	Vnum	9653
-	Leader	Tu-Ji Soldier	7019
-	1	Tu-Ji Soldier	7019
-	2	Tu-Ji Soldier	7019
+	Leader	"Tu-Ji Soldier"	7019
+	1	"Tu-Ji Soldier"	7019
+	2	"Tu-Ji Soldier"	7019
 }
 Group	Tu-Gui_White_Commander
 {
 	Vnum	9654
-	Leader	Tu-Gui White Commander	7010
-	1	Tu-Gui White Commander	7010
-	2	Tu-Gui White Commander	7010
+	Leader	"Tu-Gui White Commander"	7010
+	1	"Tu-Gui White Commander"	7010
+	2	"Tu-Gui White Commander"	7010
 }
 Group	Scorpion_Archer
 {
 	Vnum	9655
-	Leader	Scorpion Archer	7015
-	1	Scorpion Archer	7015
-	2	Scorpion Archer	7015
+	Leader	"Scorpion Archer"	7015
+	1	"Scorpion Archer"	7015
+	2	"Scorpion Archer"	7015
 }
 Group	Vile_Demon_Archer
 {
 	Vnum	9661
-	Leader	Vile Demon Archer	1032
-	1	Vile Demon Archer	1032
-	2	Vile Demon Archer	1032
+	Leader	"Vile Demon Archer"	1032
+	1	"Vile Demon Archer"	1032
+	2	"Vile Demon Archer"	1032
 }
 Group	Teawha-Mu
 {
@@ -4304,173 +4304,173 @@ Group	Cham-Ma
 Group	Bullfrog_General
 {
 	Vnum	9664
-	Leader	Bullfrog General	1305
-	1	Bullfrog General	1305
-	2	Bullfrog General	1305
+	Leader	"Bullfrog General"	1305
+	1	"Bullfrog General"	1305
+	2	"Bullfrog General"	1305
 }
 Group	Soldier_Poison_Spider
 {
 	Vnum	9665
-	Leader	Soldier Poison Spider	2065
-	1	Soldier Poison Spider	2065
-	2	Soldier Poison Spider	2065
+	Leader	"Soldier Poison Spider"	2065
+	1	"Soldier Poison Spider"	2065
+	2	"Soldier Poison Spider"	2065
 }
 Group	Red_Ghost_Willow
 {
 	Vnum	9671
-	Leader	Red Ghost Willow	2314
-	1	Red Ghost Willow	2314
-	2	Red Ghost Willow	2314
+	Leader	"Red Ghost Willow"	2314
+	1	"Red Ghost Willow"	2314
+	2	"Red Ghost Willow"	2314
 }
 Group	Black_Juk-Guimok
 {
 	Vnum	9672
-	Leader	Black Juk-Guimok	7028
-	1	Black Juk-Guimok	7028
-	2	Black Juk-Guimok	7028
+	Leader	"Black Juk-Guimok"	7028
+	1	"Black Juk-Guimok"	7028
+	2	"Black Juk-Guimok"	7028
 }
 Group	Ghost_Sword_Master
 {
 	Vnum	9673
-	Leader	Ghost Sword Master	1068
-	1	Ghost Sword Master	1068
-	2	Ghost Sword Master	1068
+	Leader	"Ghost Sword Master"	1068
+	1	"Ghost Sword Master"	1068
+	2	"Ghost Sword Master"	1068
 }
 Group	Demonic_Beast
 {
 	Vnum	9674
-	Leader	Demonic Beast	1041
-	1	Demonic Beast	1041
-	2	Demonic Beast	1041
+	Leader	"Demonic Beast"	1041
+	1	"Demonic Beast"	1041
+	2	"Demonic Beast"	1041
 }
 Group	Skull_Sword_Master
 {
 	Vnum	9675
-	Leader	Skull Sword Master	1038
-	1	Skull Sword Master	1038
-	2	Skull Sword Master	1038
+	Leader	"Skull Sword Master"	1038
+	1	"Skull Sword Master"	1038
+	2	"Skull Sword Master"	1038
 }
 Group	Red_Evil_Tree
 {
 	Vnum	9681
-	Leader	Red Evil Tree	2315
-	1	Red Evil Tree	2315
-	2	Red Evil Tree	2315
+	Leader	"Red Evil Tree"	2315
+	1	"Red Evil Tree"	2315
+	2	"Red Evil Tree"	2315
 }
 Group	Underworld_Yeti
 {
 	Vnum	9682
-	Leader	Underworld Yeti	1136
-	1	Underworld Yeti	1136
-	2	Underworld Yeti	1136
+	Leader	"Underworld Yeti"	1136
+	1	"Underworld Yeti"	1136
+	2	"Underworld Yeti"	1136
 }
 Group	Setaou_Fighter
 {
 	Vnum	9683
-	Leader	Setaou Fighter	2401
-	1	Setaou Fighter	2401
-	2	Setaou Fighter	2401
+	Leader	"Setaou Fighter"	2401
+	1	"Setaou Fighter"	2401
+	2	"Setaou Fighter"	2401
 }
 Group	Setaou_Mystic
 {
 	Vnum	9684
-	Leader	Setaou Mystic	2403
-	1	Setaou Mystic	2403
-	2	Setaou Mystic	2403
+	Leader	"Setaou Mystic"	2403
+	1	"Setaou Mystic"	2403
+	2	"Setaou Mystic"	2403
 }
 Group	Underworld_Ice_Bug
 {
 	Vnum	9685
-	Leader	Underworld Ice Bug	1133
-	1	Underworld Ice Bug	1133
-	2	Underworld Ice Bug	1133
+	Leader	"Underworld Ice Bug"	1133
+	1	"Underworld Ice Bug"	1133
+	2	"Underworld Ice Bug"	1133
 }
 Group	Setaou_Magistrate
 {
 	Vnum	9691
-	Leader	Setaou Magistrate	2413
-	1	Setaou Magistrate	2413
-	2	Setaou Magistrate	2413
+	Leader	"Setaou Magistrate"	2413
+	1	"Setaou Magistrate"	2413
+	2	"Setaou Magistrate"	2413
 }
 Group	Hae-Tae
 {
 	Vnum	9692
 	Leader	Hae-Tae	5002
-	1	Strong Flame Ghost	2232
-	2	Strong Flame Ghost	2232
+	1	"Strong Flame Ghost"	2232
+	2	"Strong Flame Ghost"	2232
 }
 Group	Setaou_Archer
 {
 	Vnum	9693
-	Leader	Setaou Archer	2412
-	1	Setaou Archer	2412
-	2	Setaou Archer	2412
+	Leader	"Setaou Archer"	2412
+	1	"Setaou Archer"	2412
+	2	"Setaou Archer"	2412
 }
 Group	Wild_Dog
 {
 	Vnum	9694
-	Leader	Wild Dog	101
-	1	Wild Dog	101
-	2	Wild Dog	101
-	3	Wild Dog	101
-	4	Wild Dog	101
-	5	Wild Dog	101
-	6	Wild Dog	101
-	7	Wild Dog	101
-	8	Wild Dog	101
-	9	Wild Dog	101
-	10	Wild Dog	101
+	Leader	"Wild Dog"	101
+	1	"Wild Dog"	101
+	2	"Wild Dog"	101
+	3	"Wild Dog"	101
+	4	"Wild Dog"	101
+	5	"Wild Dog"	101
+	6	"Wild Dog"	101
+	7	"Wild Dog"	101
+	8	"Wild Dog"	101
+	9	"Wild Dog"	101
+	10	"Wild Dog"	101
 }
 Group	Setaou_Soldier
 {
 	Vnum	9695
-	Leader	Setaou Soldier	2411
-	1	Setaou Soldier	2411
-	2	Setaou Soldier	2411
+	Leader	"Setaou Soldier"	2411
+	1	"Setaou Soldier"	2411
+	2	"Setaou Soldier"	2411
 }
 Group	Setaou_Magistrate
 {
 	Vnum	9696
-	Leader	Setaou Magistrate	2413
-	1	Setaou Magistrate	2413
-	2	Setaou Magistrate	2413
+	Leader	"Setaou Magistrate"	2413
+	1	"Setaou Magistrate"	2413
+	2	"Setaou Magistrate"	2413
 }
 Group	Ice_Witch
 {
 	Vnum	9697
-	Leader	Ice Witch	1191
-	1	Setaou Magistrate	2413
-	2	Setaou Magistrate	2413
+	Leader	"Ice Witch"	1191
+	1	"Setaou Magistrate"	2413
+	2	"Setaou Magistrate"	2413
 }
 Group	Jellyfish_of_Hell
 {
 	Vnum	2501
-	Leader	Jellyfish of Hell	2501
-	1	Jellyfish of Hell	2501
-	2	Jellyfish of Hell	2501
-	3	Jellyfish of Hell	2501
+	Leader	"Jellyfish of Hell"	2501
+	1	"Jellyfish of Hell"	2501
+	2	"Jellyfish of Hell"	2501
+	3	"Jellyfish of Hell"	2501
 }
 Group	Hell_Hound
 {
 	Vnum	2502
-	Leader	Hell Hound	2502
-	1	Jellyfish of Hell	2501
-	2	Jellyfish of Hell	2501
+	Leader	"Hell Hound"	2502
+	1	"Jellyfish of Hell"	2501
+	2	"Jellyfish of Hell"	2501
 }
 Group	Hell_Hound
 {
 	Vnum	2503
-	Leader	Hell Hound	2502
-	1	Hell Hound	2502
-	2	Hell Hound	2502
-	3	Hell Hound	2502
+	Leader	"Hell Hound"	2502
+	1	"Hell Hound"	2502
+	2	"Hell Hound"	2502
+	3	"Hell Hound"	2502
 }
 Group	Zombie
 {
 	Vnum	2504
 	Leader	Zombie	2503
-	1	Hell Hound	2502
-	2	Hell Hound	2502
+	1	"Hell Hound"	2502
+	2	"Hell Hound"	2502
 }
 Group	Zombie
 {
@@ -4483,327 +4483,327 @@ Group	Zombie
 Group	Hell_Officer
 {
 	Vnum	2506
-	Leader	Hell Officer	2504
-	1	Hell Officer	2504
+	Leader	"Hell Officer"	2504
+	1	"Hell Officer"	2504
 	2	Zombie	2503
 	3	Zombie	2503
 }
 Group	Hell_Officer
 {
 	Vnum	2506
-	Leader	Hell Officer	2504
-	1	Hell Officer	2504
-	2	Hell Officer	2504
-	3	Hell Officer	2504
+	Leader	"Hell Officer"	2504
+	1	"Hell Officer"	2504
+	2	"Hell Officer"	2504
+	3	"Hell Officer"	2504
 }
 Group	Hell_Guard
 {
 	Vnum	2507
-	Leader	Hell Guard	2505
-	1	Hell Officer	2504
-	2	Hell Officer	2504
-	3	Hell Officer	2504
+	Leader	"Hell Guard"	2505
+	1	"Hell Officer"	2504
+	2	"Hell Officer"	2504
+	3	"Hell Officer"	2504
 }
 Group	Hell_Guard
 {
 	Vnum	2508
-	Leader	Hell Guard	2505
-	1	Hell Guard	2505
-	2	Hell Officer	2504
-	3	Hell Officer	2504
+	Leader	"Hell Guard"	2505
+	1	"Hell Guard"	2505
+	2	"Hell Officer"	2504
+	3	"Hell Officer"	2504
 }
 Group	Hell_Guard
 {
 	Vnum	2509
-	Leader	Hell Guard	2505
-	1	Hell Guard	2505
-	2	Hell Guard	2505
-	3	Hell Guard	2505
+	Leader	"Hell Guard"	2505
+	1	"Hell Guard"	2505
+	2	"Hell Guard"	2505
+	3	"Hell Guard"	2505
 }
 Group	Double-head_Hell_Archer
 {
 	Vnum	2510
-	Leader	Double-head Hell Archer	2506
-	1	Double-head Hell Archer	2506
-	2	Hell Guard	2505
-	3	Hell Guard	2505
+	Leader	"Double-head Hell Archer"	2506
+	1	"Double-head Hell Archer"	2506
+	2	"Hell Guard"	2505
+	3	"Hell Guard"	2505
 }
 Group	Double-head_Hell_Archer
 {
 	Vnum	2511
-	Leader	Double-head Hell Archer	2506
-	1	Double-head Hell Archer	2506
-	2	Double-head Hell Archer	2506
-	3	Double-head Hell Archer	2506
+	Leader	"Double-head Hell Archer"	2506
+	1	"Double-head Hell Archer"	2506
+	2	"Double-head Hell Archer"	2506
+	3	"Double-head Hell Archer"	2506
 }
 Group	Infernal_Claw
 {
 	Vnum	2512
-	Leader	Infernal Claw	2507
-	1	Double-head Hell Archer	2506
-	2	Double-head Hell Archer	2506
-	3	Hell Guard	2505
-	4	Hell Guard	2505
-	5	Hell Guard	2505
+	Leader	"Infernal Claw"	2507
+	1	"Double-head Hell Archer"	2506
+	2	"Double-head Hell Archer"	2506
+	3	"Hell Guard"	2505
+	4	"Hell Guard"	2505
+	5	"Hell Guard"	2505
 }
 Group	Hell_Warrior
 {
 	Vnum	2513
-	Leader	Hell Warrior	2508
-	1	Hell Warrior	2508
-	2	Hell Warrior	2508
-	3	Hell Warrior	2508
-	4	Hell Warrior	2508
+	Leader	"Hell Warrior"	2508
+	1	"Hell Warrior"	2508
+	2	"Hell Warrior"	2508
+	3	"Hell Warrior"	2508
+	4	"Hell Warrior"	2508
 }
 Group	Hell_Warrior
 {
 	Vnum	2514
-	Leader	Hell Warrior	2508
-	1	Hell Warrior	2508
-	2	Hell Archer	2509
-	3	Hell Archer	2509
-	4	Hell Archer	2509
+	Leader	"Hell Warrior"	2508
+	1	"Hell Warrior"	2508
+	2	"Hell Archer"	2509
+	3	"Hell Archer"	2509
+	4	"Hell Archer"	2509
 }
 Group	Hell_Archer
 {
 	Vnum	2515
-	Leader	Hell Archer	2509
-	1	Hell Warrior	2508
-	2	Hell Warrior	2508
-	3	Hell Warrior	2508
-	4	Hell Warrior	2508
+	Leader	"Hell Archer"	2509
+	1	"Hell Warrior"	2508
+	2	"Hell Warrior"	2508
+	3	"Hell Warrior"	2508
+	4	"Hell Warrior"	2508
 }
 Group	Hell_Archer
 {
 	Vnum	2516
-	Leader	Hell Archer	2509
-	1	Hell Archer	2509
-	2	Hell Warrior	2508
-	3	Hell Warrior	2508
-	4	Hell Warrior	2508
+	Leader	"Hell Archer"	2509
+	1	"Hell Archer"	2509
+	2	"Hell Warrior"	2508
+	3	"Hell Warrior"	2508
+	4	"Hell Warrior"	2508
 }
 Group	Hell_Archer
 {
 	Vnum	2517
-	Leader	Hell Archer	2509
-	1	Hell Archer	2509
-	2	Hell Archer	2509
-	3	Hell Warrior	2508
-	4	Hell Warrior	2508
+	Leader	"Hell Archer"	2509
+	1	"Hell Archer"	2509
+	2	"Hell Archer"	2509
+	3	"Hell Warrior"	2508
+	4	"Hell Warrior"	2508
 }
 Group	Hell_Spearman
 {
 	Vnum	2518
-	Leader	Hell Spearman	2510
-	1	Hell Archer	2509
-	2	Hell Archer	2509
-	3	Hell Warrior	2508
-	4	Hell Warrior	2508
+	Leader	"Hell Spearman"	2510
+	1	"Hell Archer"	2509
+	2	"Hell Archer"	2509
+	3	"Hell Warrior"	2508
+	4	"Hell Warrior"	2508
 }
 Group	Hell_Spearman
 {
 	Vnum	2519
-	Leader	Hell Spearman	2510
-	1	Hell Spearman	2510
-	2	Hell Archer	2509
-	3	Hell Archer	2509
-	4	Hell Archer	2509
+	Leader	"Hell Spearman"	2510
+	1	"Hell Spearman"	2510
+	2	"Hell Archer"	2509
+	3	"Hell Archer"	2509
+	4	"Hell Archer"	2509
 }
 Group	Hell_Priest
 {
 	Vnum	2520
-	Leader	Hell Priest	2511
-	1	Hell Spearman	2510
-	2	Hell Spearman	2510
-	3	Hell Archer	2509
-	4	Hell Archer	2509
+	Leader	"Hell Priest"	2511
+	1	"Hell Spearman"	2510
+	2	"Hell Spearman"	2510
+	3	"Hell Archer"	2509
+	4	"Hell Archer"	2509
 }
 Group	Hell_Priest
 {
 	Vnum	2521
-	Leader	Hell Priest	2511
-	1	Hell Priest	2511
-	2	Hell Spearman	2510
-	3	Hell Spearman	2510
-	4	Hell Spearman	2510
+	Leader	"Hell Priest"	2511
+	1	"Hell Priest"	2511
+	2	"Hell Spearman"	2510
+	3	"Hell Spearman"	2510
+	4	"Hell Spearman"	2510
 }
 Group	Hell_Major
 {
 	Vnum	2522
-	Leader	Hell Major	2512
-	1	Hell Major	2512
-	2	Hell Priest	2511
-	3	Hell Spearman	2510
-	4	Hell Spearman	2510
+	Leader	"Hell Major"	2512
+	1	"Hell Major"	2512
+	2	"Hell Priest"	2511
+	3	"Hell Spearman"	2510
+	4	"Hell Spearman"	2510
 }
 Group	Hell_Slaughterer
 {
 	Vnum	2523
-	Leader	Hell Slaughterer	2513
-	1	Hell Major	2512
-	2	Hell Major	2512
-	3	Hell Priest	2511
-	4	Hell Spearman	2510
+	Leader	"Hell Slaughterer"	2513
+	1	"Hell Major"	2512
+	2	"Hell Major"	2512
+	3	"Hell Priest"	2511
+	4	"Hell Spearman"	2510
 }
 Group	Hell_Slaughterer
 {
 	Vnum	2524
-	Leader	Hell Slaughterer	2513
-	1	Hell Major	2512
-	2	Hell Major	2512
-	3	Hell Spearman	2510
-	4	Hell Spearman	2510
+	Leader	"Hell Slaughterer"	2513
+	1	"Hell Major"	2512
+	2	"Hell Major"	2512
+	3	"Hell Spearman"	2510
+	4	"Hell Spearman"	2510
 }
 Group	Hell_Slaughterer
 {
 	Vnum	2525
-	Leader	Hell Slaughterer	2513
-	1	Hell Slaughterer	2513
-	2	Hell Major	2512
-	3	Hell Major	2512
-	4	Hell Spearman	2510
-	5	Hell Spearman	2510
+	Leader	"Hell Slaughterer"	2513
+	1	"Hell Slaughterer"	2513
+	2	"Hell Major"	2512
+	3	"Hell Major"	2512
+	4	"Hell Spearman"	2510
+	5	"Hell Spearman"	2510
 }
 Group	Hell_General
 {
 	Vnum	2526
-	Leader	Hell General	2514
-	1	Hell Slaughterer	2513
-	2	Hell Slaughterer	2513
-	3	Hell Major	2512
-	4	Hell Major	2512
-	5	Hell Spearman	2510
+	Leader	"Hell General"	2514
+	1	"Hell Slaughterer"	2513
+	2	"Hell Slaughterer"	2513
+	3	"Hell Major"	2512
+	4	"Hell Major"	2512
+	5	"Hell Spearman"	2510
 }
 Group	Hell_General
 {
 	Vnum	2527
-	Leader	Hell General	2514
-	1	Hell Slaughterer	2513
-	2	Hell Slaughterer	2513
-	3	Hell Priest	2511
-	4	Hell Priest	2511
-	5	Hell Major	2512
-	6	Hell Spearman	2510
+	Leader	"Hell General"	2514
+	1	"Hell Slaughterer"	2513
+	2	"Hell Slaughterer"	2513
+	3	"Hell Priest"	2511
+	4	"Hell Priest"	2511
+	5	"Hell Major"	2512
+	6	"Hell Spearman"	2510
 }
 Group	Tartaros
 {
 	Vnum	2528
 	Leader	Tartaros	2591
-	1	Hell Slaughterer	2513
-	2	Hell Slaughterer	2513
-	3	Hell Priest	2511
-	4	Hell Major	2512
-	5	Hell Major	2512
-	6	Hell Spearman	2510
-	7	Hell Archer	2509
-	8	Hell Archer	2509
+	1	"Hell Slaughterer"	2513
+	2	"Hell Slaughterer"	2513
+	3	"Hell Priest"	2511
+	4	"Hell Major"	2512
+	5	"Hell Major"	2512
+	6	"Hell Spearman"	2510
+	7	"Hell Archer"	2509
+	8	"Hell Archer"	2509
 }
 Group	Charon
 {
 	Vnum	2529
 	Leader	Charon	2597
-	1	Hell Slaughterer	2513
-	2	Hell Slaughterer	2513
-	3	Hell Priest	2511
-	4	Hell Major	2512
-	5	Hell Major	2512
-	6	Hell Spearman	2510
-	7	Hell Archer	2509
-	8	Hell Archer	2509
+	1	"Hell Slaughterer"	2513
+	2	"Hell Slaughterer"	2513
+	3	"Hell Priest"	2511
+	4	"Hell Major"	2512
+	5	"Hell Major"	2512
+	6	"Hell Spearman"	2510
+	7	"Hell Archer"	2509
+	8	"Hell Archer"	2509
 }
 Group	Azrael
 {
 	Vnum	2530
 	Leader	Azrael	2598
-	1	Hell Slaughterer	2513
-	2	Hell Slaughterer	2513
-	3	Hell Priest	2511
-	4	Hell Major	2512
-	5	Hell Major	2512
-	6	Hell Spearman	2510
-	7	Hell Archer	2509
-	8	Hell Archer	2509
+	1	"Hell Slaughterer"	2513
+	2	"Hell Slaughterer"	2513
+	3	"Hell Priest"	2511
+	4	"Hell Major"	2512
+	5	"Hell Major"	2512
+	6	"Hell Spearman"	2510
+	7	"Hell Archer"	2509
+	8	"Hell Archer"	2509
 }
 Group	1st_Gate_of_Perdition
 {
 	Vnum	2551
-	Leader	1st Gate of Perdition	30111
+	Leader	"1st Gate of Perdition"	30111
 }
 Group	2nd_Gate_of_Perdition
 {
 	Vnum	2552
-	Leader	2nd Gate of Perdition	30112
+	Leader	"2nd Gate of Perdition"	30112
 }
 Group	3rd_Gate_of_Perdition
 {
 	Vnum	2553
-	Leader	3rd Gate of Perdition	30113
+	Leader	"3rd Gate of Perdition"	30113
 }
 Group	4th_Gate_of_Perdition
 {
 	Vnum	2554
-	Leader	4th Gate of Perdition	30114
+	Leader	"4th Gate of Perdition"	30114
 }
 Group	5th_Gate_of_Perdition
 {
 	Vnum	2555
-	Leader	5th Gate of Perdition	30115
+	Leader	"5th Gate of Perdition"	30115
 }
 Group	6th_Gate_of_Perdition
 {
 	Vnum	2556
-	Leader	6th Gate of Perdition	30116
+	Leader	"6th Gate of Perdition"	30116
 }
 Group	7th_Gate_of_Perdition
 {
 	Vnum	2557
-	Leader	7th Gate of Perdition	30117
+	Leader	"7th Gate of Perdition"	30117
 }
 Group	8th_Gate_of_Perdition
 {
 	Vnum	2558
-	Leader	8th Gate of Perdition	30118
+	Leader	"8th Gate of Perdition"	30118
 }
 Group	9th_Gate_of_Perdition
 {
 	Vnum	2559
-	Leader	9th Gate of Perdition	30119
+	Leader	"9th Gate of Perdition"	30119
 }
 Group	Fighting_Tigers
 {
 	Vnum	7023
-	Leader	Fighting Tigers	7073
-	1	Fighting Tiger Minion	7071
-	2	Fighting Tiger Minion	7071
-	3	Fighting Tiger Minion	7071
+	Leader	"Fighting Tigers"	7073
+	1	"Fighting Tiger Minion"	7071
+	2	"Fighting Tiger Minion"	7071
+	3	"Fighting Tiger Minion"	7071
 }
 Group	Flame_Spirit
 {
 	Vnum	7024
-	Leader	Flame Spirit	7072
-	1	Fighting Tiger Minion	7071
-	2	Fighting Tiger Minion	7071
-	3	Fighting Tiger Minion	7071
+	Leader	"Flame Spirit"	7072
+	1	"Fighting Tiger Minion"	7071
+	2	"Fighting Tiger Minion"	7071
+	3	"Fighting Tiger Minion"	7071
 }
 Group	Flame
 {
 	Vnum	7025
 	Leader	Flame	7074
-	1	Fighting Tigers	7073
-	2	Flame Spirit	7072
+	1	"Fighting Tigers"	7073
+	2	"Flame Spirit"	7072
 }
 Group	Flame_Warrior
 {
 	Vnum	7026
-	Leader	Flame Warrior	7075
-	1	Fighting Tigers	7073
-	2	Fighting Tigers	7073
-	3	Flame Spirit	7072
+	Leader	"Flame Warrior"	7075
+	1	"Fighting Tigers"	7073
+	2	"Fighting Tigers"	7073
+	3	"Flame Spirit"	7072
 }
 Group	Fighting_Tiger_Minion
 {
 	Vnum	7027
-	Leader	Fighting Tiger Minion	7076
+	Leader	"Fighting Tiger Minion"	7076
 	1	Flame	7074
 	2	Flame	7074
 	3	Flame	7074
@@ -4811,200 +4811,200 @@ Group	Fighting_Tiger_Minion
 Group	Flame_Spirit
 {
 	Vnum	7028
-	Leader	Flame Spirit	7077
-	1	Fighting Tiger Minion	7076
-	2	Fighting Tiger Minion	7076
-	3	Fighting Tiger Minion	7076
+	Leader	"Flame Spirit"	7077
+	1	"Fighting Tiger Minion"	7076
+	2	"Fighting Tiger Minion"	7076
+	3	"Fighting Tiger Minion"	7076
 }
 Group	Flame
 {
 	Vnum	7029
 	Leader	Flame	7079
-	1	Fighting Tigers	7078
-	2	Flame Spirit	7077
+	1	"Fighting Tigers"	7078
+	2	"Flame Spirit"	7077
 }
 Group	Flame_Warrior
 {
 	Vnum	7030
-	Leader	Flame Warrior	7080
-	1	Fighting Tigers	7078
-	2	Fighting Tigers	7078
-	3	Flame Spirit	7077
+	Leader	"Flame Warrior"	7080
+	1	"Fighting Tigers"	7078
+	2	"Fighting Tigers"	7078
+	3	"Flame Spirit"	7077
 }
 Group	Fighting_Tigers
 {
 	Vnum	7031
-	Leader	Fighting Tigers	7083
-	1	Fighting Tiger Minion	7081
-	2	Fighting Tiger Minion	7081
-	3	Fighting Tiger Minion	7081
+	Leader	"Fighting Tigers"	7083
+	1	"Fighting Tiger Minion"	7081
+	2	"Fighting Tiger Minion"	7081
+	3	"Fighting Tiger Minion"	7081
 }
 Group	Flame_Spirit
 {
 	Vnum	7032
-	Leader	Flame Spirit	7082
-	1	Fighting Tiger Minion	7081
-	2	Fighting Tiger Minion	7081
-	3	Fighting Tiger Minion	7081
+	Leader	"Flame Spirit"	7082
+	1	"Fighting Tiger Minion"	7081
+	2	"Fighting Tiger Minion"	7081
+	3	"Fighting Tiger Minion"	7081
 }
 Group	Flame
 {
 	Vnum	7033
 	Leader	Flame	7084
-	1	Fighting Tigers	7083
-	2	Flame Spirit	7082
+	1	"Fighting Tigers"	7083
+	2	"Flame Spirit"	7082
 }
 Group	Flame_Warrior
 {
 	Vnum	7034
-	Leader	Flame Warrior	7085
-	1	Fighting Tigers	7083
-	2	Fighting Tigers	7083
-	3	Flame Spirit	7082
+	Leader	"Flame Warrior"	7085
+	1	"Fighting Tigers"	7083
+	2	"Fighting Tigers"	7083
+	3	"Flame Spirit"	7082
 }
 Group	King_Scorpion
 {
 	Vnum	7035
-	Leader	King Scorpion	7051
-	1	King Scorpion	7051
-	2	Deserts Flying Eye	7050
-	3	Deserts Flying Eye	7050
+	Leader	"King Scorpion"	7051
+	1	"King Scorpion"	7051
+	2	"Deserts Flying Eye"	7050
+	3	"Deserts Flying Eye"	7050
 }
 Group	Snake_Swordsman
 {
 	Vnum	7036
-	Leader	Snake Swordsman	7054
-	1	Snake Swordsman	7054
-	2	Young Scorpion Man	7052
-	3	Young Scorpion Man	7052
+	Leader	"Snake Swordsman"	7054
+	1	"Snake Swordsman"	7054
+	2	"Young Scorpion Man"	7052
+	3	"Young Scorpion Man"	7052
 }
 Group	Desert_Outlaw
 {
 	Vnum	7037
-	Leader	Desert Outlaw	7056
-	1	Desert Outlaw	7056
-	2	Snake Swordsman	7054
-	3	Snake Swordsman	7054
+	Leader	"Desert Outlaw"	7056
+	1	"Desert Outlaw"	7056
+	2	"Snake Swordsman"	7054
+	3	"Snake Swordsman"	7054
 }
 Group	Desert_Outlaw
 {
 	Vnum	7038
-	Leader	Desert Outlaw	7056
-	1	Desert Outlaw	7056
-	2	Snake Archer	7055
-	3	Snake Archer	7055
+	Leader	"Desert Outlaw"	7056
+	1	"Desert Outlaw"	7056
+	2	"Snake Archer"	7055
+	3	"Snake Archer"	7055
 }
 Group	King_Scorpion
 {
 	Vnum	7039
-	Leader	King Scorpion	7058
-	1	King Scorpion	7058
-	2	Deserts Flying Eye	7057
-	3	Deserts Flying Eye	7057
+	Leader	"King Scorpion"	7058
+	1	"King Scorpion"	7058
+	2	"Deserts Flying Eye"	7057
+	3	"Deserts Flying Eye"	7057
 }
 Group	Snake_Swordsman
 {
 	Vnum	7040
-	Leader	Snake Swordsman	7061
-	1	Snake Swordsman	7061
-	2	Young Scorpion Man	7059
-	3	Young Scorpion Man	7059
+	Leader	"Snake Swordsman"	7061
+	1	"Snake Swordsman"	7061
+	2	"Young Scorpion Man"	7059
+	3	"Young Scorpion Man"	7059
 }
 Group	Desert_Outlaw
 {
 	Vnum	7041
-	Leader	Desert Outlaw	7063
-	1	Desert Outlaw	7063
-	2	Snake Swordsman	7061
-	3	Snake Swordsman	7061
+	Leader	"Desert Outlaw"	7063
+	1	"Desert Outlaw"	7063
+	2	"Snake Swordsman"	7061
+	3	"Snake Swordsman"	7061
 }
 Group	Desert_Outlaw
 {
 	Vnum	7042
-	Leader	Desert Outlaw	7063
-	1	Desert Outlaw	7063
+	Leader	"Desert Outlaw"	7063
+	1	"Desert Outlaw"	7063
 	2	NoNAme	7062
 	3	NoNAme	7062
 }
 Group	King_Scorpion
 {
 	Vnum	7043
-	Leader	King Scorpion	7065
-	1	King Scorpion	7065
-	2	Deserts Flying Eye	7064
-	3	Deserts Flying Eye	7064
+	Leader	"King Scorpion"	7065
+	1	"King Scorpion"	7065
+	2	"Deserts Flying Eye"	7064
+	3	"Deserts Flying Eye"	7064
 }
 Group	Snake_Swordsman
 {
 	Vnum	7044
-	Leader	Snake Swordsman	7068
-	1	Snake Swordsman	7068
-	2	Young Scorpion Man	7066
-	3	Young Scorpion Man	7066
+	Leader	"Snake Swordsman"	7068
+	1	"Snake Swordsman"	7068
+	2	"Young Scorpion Man"	7066
+	3	"Young Scorpion Man"	7066
 }
 Group	Desert_Outlaw
 {
 	Vnum	7045
-	Leader	Desert Outlaw	7070
-	1	Desert Outlaw	7070
-	2	Snake Swordsman	7068
-	3	Snake Swordsman	7068
+	Leader	"Desert Outlaw"	7070
+	1	"Desert Outlaw"	7070
+	2	"Snake Swordsman"	7068
+	3	"Snake Swordsman"	7068
 }
 Group	Desert_Outlaw
 {
 	Vnum	7046
-	Leader	Desert Outlaw	7070
-	1	Desert Outlaw	7070
-	2	Snake Archer	7069
-	3	Snake Archer	7069
+	Leader	"Desert Outlaw"	7070
+	1	"Desert Outlaw"	7070
+	2	"Snake Archer"	7069
+	3	"Snake Archer"	7069
 }
 Group	Ice_Bug
 {
 	Vnum	1154
-	Leader	Ice Bug	7031
-	1	Ice Bug	7031
-	2	Icehorn Killer Whale	7030
-	3	Icehorn Killer Whale	7030
+	Leader	"Ice Bug"	7031
+	1	"Ice Bug"	7031
+	2	"Icehorn Killer Whale"	7030
+	3	"Icehorn Killer Whale"	7030
 }
 Group	Ice_Man
 {
 	Vnum	1155
-	Leader	Ice Man	7033
-	1	Ice Man	7033
+	Leader	"Ice Man"	7033
+	1	"Ice Man"	7033
 	2	Seol-Gu	7032
 	3	Seol-Gu	7032
 }
 Group	Ice_Golem
 {
 	Vnum	1156
-	Leader	Ice Golem	7035
-	1	Ice Golem	7035
-	2	Ice Giant	7034
-	3	Ice Giant	7034
+	Leader	"Ice Golem"	7035
+	1	"Ice Golem"	7035
+	2	"Ice Giant"	7034
+	3	"Ice Giant"	7034
 }
 Group	Ice_Bug
 {
 	Vnum	1157
-	Leader	Ice Bug	7038
-	1	Ice Bug	7038
+	Leader	"Ice Bug"	7038
+	1	"Ice Bug"	7038
 	2	NoNAme	7037
 	3	NoNAme	7037
 }
 Group	Ice_Man
 {
 	Vnum	1158
-	Leader	Ice Man	7040
-	1	Ice Man	7040
+	Leader	"Ice Man"	7040
+	1	"Ice Man"	7040
 	2	Seol-Gu	7039
 	3	Seol-Gu	7039
 }
 Group	Ice_Golem
 {
 	Vnum	1159
-	Leader	Ice Golem	7042
-	1	Ice Golem	7042
-	2	Ice Giant	7041
-	3	Ice Giant	7041
+	Leader	"Ice Golem"	7042
+	1	"Ice Golem"	7042
+	2	"Ice Giant"	7041
+	3	"Ice Giant"	7041
 }
 Group	NoNAme
 {
@@ -5017,42 +5017,42 @@ Group	NoNAme
 Group	Ice_Man
 {
 	Vnum	1161
-	Leader	Ice Man	7047
-	1	Ice Man	7047
+	Leader	"Ice Man"	7047
+	1	"Ice Man"	7047
 	2	Seol-Gu	7046
 	3	Seol-Gu	7046
 }
 Group	Ice_Golem
 {
 	Vnum	1162
-	Leader	Ice Golem	7049
-	1	Ice Golem	7049
-	2	Ice Giant	7048
-	3	Ice Giant	7048
+	Leader	"Ice Golem"	7049
+	1	"Ice Golem"	7049
+	2	"Ice Giant"	7048
+	3	"Ice Giant"	7048
 }
 Group	Ghost_Stump
 {
 	Vnum	2361
-	Leader	Ghost Stump	7086
-	1	Ghost Stump	7086
-	2	Ghost Stump	7086
-	3	Ghost Stump	7086
+	Leader	"Ghost Stump"	7086
+	1	"Ghost Stump"	7086
+	2	"Ghost Stump"	7086
+	3	"Ghost Stump"	7086
 }
 Group	Dryad
 {
 	Vnum	2362
 	Leader	Dryad	7087
-	1	Ghost Stump	7086
-	2	Ghost Stump	7086
-	3	Ghost Stump	7086
+	1	"Ghost Stump"	7086
+	2	"Ghost Stump"	7086
+	3	"Ghost Stump"	7086
 }
 Group	Dryad
 {
 	Vnum	2363
 	Leader	Dryad	7087
 	1	Dryad	7087
-	2	Ghost Stump	7086
-	3	Ghost Stump	7086
+	2	"Ghost Stump"	7086
+	3	"Ghost Stump"	7086
 }
 Group	Dryad
 {
@@ -5064,27 +5064,27 @@ Group	Dryad
 Group	Ghost_Willow
 {
 	Vnum	2365
-	Leader	Ghost Willow	7088
+	Leader	"Ghost Willow"	7088
 	1	Dryad	7087
 	2	Dryad	7087
-	3	Ghost Stump	7086
-	4	Ghost Stump	7086
-	5	Ghost Stump	7086
+	3	"Ghost Stump"	7086
+	4	"Ghost Stump"	7086
+	5	"Ghost Stump"	7086
 }
 Group	Ghost_Willow
 {
 	Vnum	2366
-	Leader	Ghost Willow	7088
-	1	Ghost Willow	7088
-	2	Ghost Stump	7086
-	3	Ghost Stump	7086
-	4	Ghost Stump	7086
+	Leader	"Ghost Willow"	7088
+	1	"Ghost Willow"	7088
+	2	"Ghost Stump"	7086
+	3	"Ghost Stump"	7086
+	4	"Ghost Stump"	7086
 }
 Group	Ghost_Willow
 {
 	Vnum	2367
-	Leader	Ghost Willow	7088
-	1	Ghost Willow	7088
+	Leader	"Ghost Willow"	7088
+	1	"Ghost Willow"	7088
 	2	Dryad	7087
 	3	Dryad	7087
 	4	Dryad	7087
@@ -5092,26 +5092,26 @@ Group	Ghost_Willow
 Group	Ghost_Stump
 {
 	Vnum	2368
-	Leader	Ghost Stump	7090
-	1	Ghost Stump	7090
-	2	Ghost Stump	7090
-	3	Ghost Stump	7090
+	Leader	"Ghost Stump"	7090
+	1	"Ghost Stump"	7090
+	2	"Ghost Stump"	7090
+	3	"Ghost Stump"	7090
 }
 Group	Dryad
 {
 	Vnum	2369
 	Leader	Dryad	7091
-	1	Ghost Stump	7090
-	2	Ghost Stump	7090
-	3	Ghost Stump	7090
+	1	"Ghost Stump"	7090
+	2	"Ghost Stump"	7090
+	3	"Ghost Stump"	7090
 }
 Group	Dryad
 {
 	Vnum	2370
 	Leader	Dryad	7091
 	1	Dryad	7091
-	2	Ghost Stump	7090
-	3	Ghost Stump	7090
+	2	"Ghost Stump"	7090
+	3	"Ghost Stump"	7090
 }
 Group	Dryad
 {
@@ -5123,27 +5123,27 @@ Group	Dryad
 Group	Ghost_Willow
 {
 	Vnum	2372
-	Leader	Ghost Willow	7092
+	Leader	"Ghost Willow"	7092
 	1	Dryad	7091
 	2	Dryad	7091
-	3	Ghost Stump	7090
-	4	Ghost Stump	7090
-	5	Ghost Stump	7090
+	3	"Ghost Stump"	7090
+	4	"Ghost Stump"	7090
+	5	"Ghost Stump"	7090
 }
 Group	Ghost_Willow
 {
 	Vnum	2373
-	Leader	Ghost Willow	7092
-	1	Ghost Willow	7092
-	2	Ghost Stump	7090
-	3	Ghost Stump	7090
-	4	Ghost Stump	7090
+	Leader	"Ghost Willow"	7092
+	1	"Ghost Willow"	7092
+	2	"Ghost Stump"	7090
+	3	"Ghost Stump"	7090
+	4	"Ghost Stump"	7090
 }
 Group	Ghost_Willow
 {
 	Vnum	2374
-	Leader	Ghost Willow	7092
-	1	Ghost Willow	7092
+	Leader	"Ghost Willow"	7092
+	1	"Ghost Willow"	7092
 	2	Dryad	7091
 	3	Dryad	7091
 	4	Dryad	7091
@@ -5151,26 +5151,26 @@ Group	Ghost_Willow
 Group	Ghost_Stump
 {
 	Vnum	2375
-	Leader	Ghost Stump	7094
-	1	Ghost Stump	7094
-	2	Ghost Stump	7094
-	3	Ghost Stump	7094
+	Leader	"Ghost Stump"	7094
+	1	"Ghost Stump"	7094
+	2	"Ghost Stump"	7094
+	3	"Ghost Stump"	7094
 }
 Group	Dryad
 {
 	Vnum	2376
 	Leader	Dryad	7095
-	1	Ghost Stump	7094
-	2	Ghost Stump	7094
-	3	Ghost Stump	7094
+	1	"Ghost Stump"	7094
+	2	"Ghost Stump"	7094
+	3	"Ghost Stump"	7094
 }
 Group	Dryad
 {
 	Vnum	2377
 	Leader	Dryad	7095
 	1	Dryad	7095
-	2	Ghost Stump	7094
-	3	Ghost Stump	7094
+	2	"Ghost Stump"	7094
+	3	"Ghost Stump"	7094
 }
 Group	Dryad
 {
@@ -5182,27 +5182,27 @@ Group	Dryad
 Group	Ghost_Willow
 {
 	Vnum	2379
-	Leader	Ghost Willow	7096
+	Leader	"Ghost Willow"	7096
 	1	Dryad	7095
 	2	Dryad	7095
-	3	Ghost Stump	7094
-	4	Ghost Stump	7094
-	5	Ghost Stump	7094
+	3	"Ghost Stump"	7094
+	4	"Ghost Stump"	7094
+	5	"Ghost Stump"	7094
 }
 Group	Ghost_Willow
 {
 	Vnum	2380
-	Leader	Ghost Willow	7096
-	1	Ghost Willow	7096
-	2	Ghost Stump	7094
-	3	Ghost Stump	7094
-	4	Ghost Stump	7094
+	Leader	"Ghost Willow"	7096
+	1	"Ghost Willow"	7096
+	2	"Ghost Stump"	7094
+	3	"Ghost Stump"	7094
+	4	"Ghost Stump"	7094
 }
 Group	Ghost_Willow
 {
 	Vnum	2381
-	Leader	Ghost Willow	7096
-	1	Ghost Willow	7096
+	Leader	"Ghost Willow"	7096
+	1	"Ghost Willow"	7096
 	2	Dryad	7095
 	3	Dryad	7095
 	4	Dryad	7095
@@ -5210,821 +5210,821 @@ Group	Ghost_Willow
 Group	Best._Baby_Poison_Spider
 {
 	Vnum	2071
-	Leader	Best. Baby Poison Spider	2071
-	1	Best. Baby Poison Spider	2071
-	2	Best. Baby Poison Spider	2071
+	Leader	"Best. Baby Poison Spider"	2071
+	1	"Best. Baby Poison Spider"	2071
+	2	"Best. Baby Poison Spider"	2071
 }
 Group	Best._Deadly_Pois._Spider
 {
 	Vnum	2072
-	Leader	Best. Deadly Pois. Spider	2072
-	1	Best. Baby Poison Spider	2071
-	2	Best. Baby Poison Spider	2071
+	Leader	"Best. Deadly Pois. Spider"	2072
+	1	"Best. Baby Poison Spider"	2071
+	2	"Best. Baby Poison Spider"	2071
 }
 Group	Best._Deadly_Pois._Spider
 {
 	Vnum	2073
-	Leader	Best. Deadly Pois. Spider	2072
-	1	Best. Deadly Pois. Spider	2072
-	2	Best. Baby Poison Spider	2071
+	Leader	"Best. Deadly Pois. Spider"	2072
+	1	"Best. Deadly Pois. Spider"	2072
+	2	"Best. Baby Poison Spider"	2071
 }
 Group	Best._Red_Poison_Spider
 {
 	Vnum	2074
-	Leader	Best. Red Poison Spider	2073
-	1	Best. Deadly Pois. Spider	2072
-	2	Best. Deadly Pois. Spider	2072
+	Leader	"Best. Red Poison Spider"	2073
+	1	"Best. Deadly Pois. Spider"	2072
+	2	"Best. Deadly Pois. Spider"	2072
 }
 Group	Best._Red_Poison_Spider
 {
 	Vnum	2075
-	Leader	Best. Red Poison Spider	2073
-	1	Best. Red Poison Spider	2073
-	2	Best. Deadly Pois. Spider	2072
+	Leader	"Best. Red Poison Spider"	2073
+	1	"Best. Red Poison Spider"	2073
+	2	"Best. Deadly Pois. Spider"	2072
 }
 Group	Best._Claw_Poison_Spider
 {
 	Vnum	2076
-	Leader	Best. Claw Poison Spider	2074
-	1	Best. Red Poison Spider	2073
-	2	Best. Red Poison Spider	2073
+	Leader	"Best. Claw Poison Spider"	2074
+	1	"Best. Red Poison Spider"	2073
+	2	"Best. Red Poison Spider"	2073
 }
 Group	Best._Claw_Poison_Spider
 {
 	Vnum	2077
-	Leader	Best. Claw Poison Spider	2074
-	1	Best. Claw Poison Spider	2074
-	2	Best. Red Poison Spider	2073
+	Leader	"Best. Claw Poison Spider"	2074
+	1	"Best. Claw Poison Spider"	2074
+	2	"Best. Red Poison Spider"	2073
 }
 Group	Best._Sold._Pois._Spider
 {
 	Vnum	2078
-	Leader	Best. Sold. Pois. Spider	2075
-	1	Best. Claw Poison Spider	2074
-	2	Best. Claw Poison Spider	2074
+	Leader	"Best. Sold. Pois. Spider"	2075
+	1	"Best. Claw Poison Spider"	2074
+	2	"Best. Claw Poison Spider"	2074
 }
 Group	Best._Sold._Pois._Spider
 {
 	Vnum	2079
-	Leader	Best. Sold. Pois. Spider	2075
-	1	Best. Sold. Pois. Spider	2075
-	2	Best. Claw Poison Spider	2074
+	Leader	"Best. Sold. Pois. Spider"	2075
+	1	"Best. Sold. Pois. Spider"	2075
+	2	"Best. Claw Poison Spider"	2074
 }
 Group	Gnoll_Warrior
 {
 	Vnum	3001
-	Leader	Gnoll Warrior	3001
-	1	Gnoll Warrior	3001
-	2	Gnoll Warrior	3001
+	Leader	"Gnoll Warrior"	3001
+	1	"Gnoll Warrior"	3001
+	2	"Gnoll Warrior"	3001
 }
 Group	Gnoll_Archer
 {
 	Vnum	3002
-	Leader	Gnoll Archer	3002
-	1	Gnoll Warrior	3001
-	2	Gnoll Warrior	3001
+	Leader	"Gnoll Archer"	3002
+	1	"Gnoll Warrior"	3001
+	2	"Gnoll Warrior"	3001
 }
 Group	Gnoll_Archer
 {
 	Vnum	3003
-	Leader	Gnoll Archer	3002
-	1	Gnoll Archer	3002
-	2	Gnoll Archer	3002
+	Leader	"Gnoll Archer"	3002
+	1	"Gnoll Archer"	3002
+	2	"Gnoll Archer"	3002
 }
 Group	Gnoll_Defender
 {
 	Vnum	3004
-	Leader	Gnoll Defender	3003
-	1	Gnoll Archer	3002
-	2	Gnoll Archer	3002
+	Leader	"Gnoll Defender"	3003
+	1	"Gnoll Archer"	3002
+	2	"Gnoll Archer"	3002
 }
 Group	Gnoll_Defender
 {
 	Vnum	3005
-	Leader	Gnoll Defender	3003
-	1	Gnoll Defender	3003
-	2	Gnoll Defender	3003
+	Leader	"Gnoll Defender"	3003
+	1	"Gnoll Defender"	3003
+	2	"Gnoll Defender"	3003
 }
 Group	Gnoll_Magician
 {
 	Vnum	3006
-	Leader	Gnoll Magician	3004
-	1	Gnoll Defender	3003
-	2	Gnoll Archer	3002
-	3	Gnoll Archer	3002
+	Leader	"Gnoll Magician"	3004
+	1	"Gnoll Defender"	3003
+	2	"Gnoll Archer"	3002
+	3	"Gnoll Archer"	3002
 }
 Group	Gnoll_General
 {
 	Vnum	3007
-	Leader	Gnoll General	3005
-	1	Gnoll Magician	3004
-	2	Gnoll Magician	3004
-	3	Gnoll Archer	3002
-	4	Gnoll Archer	3002
+	Leader	"Gnoll General"	3005
+	1	"Gnoll Magician"	3004
+	2	"Gnoll Magician"	3004
+	3	"Gnoll Archer"	3002
+	4	"Gnoll Archer"	3002
 }
 Group	Gnoll_Lord
 {
 	Vnum	3008
-	Leader	Gnoll Lord	3090
-	1	Gnoll General	3005
-	2	Gnoll General	3005
-	3	Gnoll Magician	3004
-	4	Gnoll Magician	3004
-	5	Gnoll Magician	3004
-	6	Gnoll Defender	3003
-	7	Gnoll Defender	3003
-	8	Gnoll Archer	3002
-	9	Gnoll Archer	3002
-	10	Gnoll Archer	3002
-	11	Gnoll Archer	3002
+	Leader	"Gnoll Lord"	3090
+	1	"Gnoll General"	3005
+	2	"Gnoll General"	3005
+	3	"Gnoll Magician"	3004
+	4	"Gnoll Magician"	3004
+	5	"Gnoll Magician"	3004
+	6	"Gnoll Defender"	3003
+	7	"Gnoll Defender"	3003
+	8	"Gnoll Archer"	3002
+	9	"Gnoll Archer"	3002
+	10	"Gnoll Archer"	3002
+	11	"Gnoll Archer"	3002
 }
 Group	Supreme_Gnoll_Guard
 {
 	Vnum	3009
-	Leader	Supreme Gnoll Guard	3091
-	1	Gnoll General	3005
-	2	Gnoll General	3005
-	3	Gnoll Magician	3004
-	4	Gnoll Magician	3004
-	5	Gnoll Magician	3004
-	6	Gnoll Defender	3003
-	7	Gnoll Defender	3003
-	8	Gnoll Archer	3002
-	9	Gnoll Archer	3002
-	10	Gnoll Archer	3002
-	11	Gnoll Archer	3002
+	Leader	"Supreme Gnoll Guard"	3091
+	1	"Gnoll General"	3005
+	2	"Gnoll General"	3005
+	3	"Gnoll Magician"	3004
+	4	"Gnoll Magician"	3004
+	5	"Gnoll Magician"	3004
+	6	"Gnoll Defender"	3003
+	7	"Gnoll Defender"	3003
+	8	"Gnoll Archer"	3002
+	9	"Gnoll Archer"	3002
+	10	"Gnoll Archer"	3002
+	11	"Gnoll Archer"	3002
 }
 Group	One-eyed_Slugger
 {
 	Vnum	3011
-	Leader	One-eyed Slugger	3101
-	1	One-eyed Slugger	3101
-	2	One-eyed Slugger	3101
+	Leader	"One-eyed Slugger"	3101
+	1	"One-eyed Slugger"	3101
+	2	"One-eyed Slugger"	3101
 }
 Group	Cyclops_Soldier
 {
 	Vnum	3012
-	Leader	Cyclops Soldier	3102
-	1	One-eyed Slugger	3101
-	2	One-eyed Slugger	3101
+	Leader	"Cyclops Soldier"	3102
+	1	"One-eyed Slugger"	3101
+	2	"One-eyed Slugger"	3101
 }
 Group	Cyclops_Soldier
 {
 	Vnum	3013
-	Leader	Cyclops Soldier	3102
-	1	Cyclops Soldier	3102
-	2	Cyclops Soldier	3102
+	Leader	"Cyclops Soldier"	3102
+	1	"Cyclops Soldier"	3102
+	2	"Cyclops Soldier"	3102
 }
 Group	Cyclops_Magician
 {
 	Vnum	3014
-	Leader	Cyclops Magician	3103
-	1	Cyclops Soldier	3102
-	2	Cyclops Soldier	3102
+	Leader	"Cyclops Magician"	3103
+	1	"Cyclops Soldier"	3102
+	2	"Cyclops Soldier"	3102
 }
 Group	Cyclops_Magician
 {
 	Vnum	3015
-	Leader	Cyclops Magician	3103
-	1	Cyclops Magician	3103
-	2	Cyclops Magician	3103
+	Leader	"Cyclops Magician"	3103
+	1	"Cyclops Magician"	3103
+	2	"Cyclops Magician"	3103
 }
 Group	Cyclops_Executioner
 {
 	Vnum	3016
-	Leader	Cyclops Executioner	3104
-	1	Cyclops Magician	3103
-	2	Cyclops Soldier	3102
-	3	Cyclops Soldier	3102
+	Leader	"Cyclops Executioner"	3104
+	1	"Cyclops Magician"	3103
+	2	"Cyclops Soldier"	3102
+	3	"Cyclops Soldier"	3102
 }
 Group	General_Outis
 {
 	Vnum	3017
-	Leader	General Outis	3105
-	1	Cyclops Executioner	3104
-	2	Cyclops Executioner	3104
-	3	Cyclops Soldier	3102
-	4	Cyclops Soldier	3102
+	Leader	"General Outis"	3105
+	1	"Cyclops Executioner"	3104
+	2	"Cyclops Executioner"	3104
+	3	"Cyclops Soldier"	3102
+	4	"Cyclops Soldier"	3102
 }
 Group	Arges
 {
 	Vnum	3018
 	Leader	Arges	3190
-	1	General Outis	3105
-	2	General Outis	3105
-	3	Cyclops Executioner	3104
-	4	Cyclops Executioner	3104
-	5	Cyclops Executioner	3104
-	6	Cyclops Magician	3103
-	7	Cyclops Magician	3103
-	8	Cyclops Soldier	3102
-	9	Cyclops Soldier	3102
-	10	Cyclops Soldier	3102
-	11	Cyclops Soldier	3102
+	1	"General Outis"	3105
+	2	"General Outis"	3105
+	3	"Cyclops Executioner"	3104
+	4	"Cyclops Executioner"	3104
+	5	"Cyclops Executioner"	3104
+	6	"Cyclops Magician"	3103
+	7	"Cyclops Magician"	3103
+	8	"Cyclops Soldier"	3102
+	9	"Cyclops Soldier"	3102
+	10	"Cyclops Soldier"	3102
+	11	"Cyclops Soldier"	3102
 }
 Group	Polyphemos
 {
 	Vnum	3019
 	Leader	Polyphemos	3191
-	1	General Outis	3105
-	2	General Outis	3105
-	3	Cyclops Executioner	3104
-	4	Cyclops Executioner	3104
-	5	Cyclops Executioner	3104
-	6	Cyclops Magician	3103
-	7	Cyclops Magician	3103
-	8	Cyclops Soldier	3102
-	9	Cyclops Soldier	3102
-	10	Cyclops Soldier	3102
-	11	Cyclops Soldier	3102
+	1	"General Outis"	3105
+	2	"General Outis"	3105
+	3	"Cyclops Executioner"	3104
+	4	"Cyclops Executioner"	3104
+	5	"Cyclops Executioner"	3104
+	6	"Cyclops Magician"	3103
+	7	"Cyclops Magician"	3103
+	8	"Cyclops Soldier"	3102
+	9	"Cyclops Soldier"	3102
+	10	"Cyclops Soldier"	3102
+	11	"Cyclops Soldier"	3102
 }
 Group	Manticore_Warrior
 {
 	Vnum	3021
-	Leader	Manticore Warrior	3201
-	1	Manticore Warrior	3201
-	2	Manticore Warrior	3201
+	Leader	"Manticore Warrior"	3201
+	1	"Manticore Warrior"	3201
+	2	"Manticore Warrior"	3201
 }
 Group	Manticore_Soldier
 {
 	Vnum	3022
-	Leader	Manticore Soldier	3202
-	1	Manticore Warrior	3201
-	2	Manticore Warrior	3201
+	Leader	"Manticore Soldier"	3202
+	1	"Manticore Warrior"	3201
+	2	"Manticore Warrior"	3201
 }
 Group	Manticore_Soldier
 {
 	Vnum	3023
-	Leader	Manticore Soldier	3202
-	1	Manticore Soldier	3202
-	2	Manticore Soldier	3202
+	Leader	"Manticore Soldier"	3202
+	1	"Manticore Soldier"	3202
+	2	"Manticore Soldier"	3202
 }
 Group	Manticore_Magus
 {
 	Vnum	3024
-	Leader	Manticore Magus	3203
-	1	Manticore Soldier	3202
-	2	Manticore Soldier	3202
+	Leader	"Manticore Magus"	3203
+	1	"Manticore Soldier"	3202
+	2	"Manticore Soldier"	3202
 }
 Group	Manticore_Magus
 {
 	Vnum	3025
-	Leader	Manticore Magus	3203
-	1	Manticore Magus	3203
-	2	Manticore Magus	3203
+	Leader	"Manticore Magus"	3203
+	1	"Manticore Magus"	3203
+	2	"Manticore Magus"	3203
 }
 Group	Manticore_Executioner
 {
 	Vnum	3026
-	Leader	Manticore Executioner	3204
-	1	Manticore Magus	3203
-	2	Manticore Soldier	3202
-	3	Manticore Soldier	3202
+	Leader	"Manticore Executioner"	3204
+	1	"Manticore Magus"	3203
+	2	"Manticore Soldier"	3202
+	3	"Manticore Soldier"	3202
 }
 Group	General_Cor
 {
 	Vnum	3027
-	Leader	General Cor	3205
-	1	Manticore Executioner	3204
-	2	Manticore Executioner	3204
-	3	Manticore Soldier	3202
-	4	Manticore Soldier	3202
+	Leader	"General Cor"	3205
+	1	"Manticore Executioner"	3204
+	2	"Manticore Executioner"	3204
+	3	"Manticore Soldier"	3202
+	4	"Manticore Soldier"	3202
 }
 Group	Rakshasa
 {
 	Vnum	3028
 	Leader	Rakshasa	3290
-	1	General Cor	3205
-	2	General Cor	3205
-	3	Manticore Executioner	3204
-	4	Manticore Executioner	3204
-	5	Manticore Executioner	3204
-	6	Manticore Magus	3203
-	7	Manticore Magus	3203
-	8	Manticore Soldier	3202
-	9	Manticore Soldier	3202
-	10	Manticore Soldier	3202
-	11	Manticore Soldier	3202
+	1	"General Cor"	3205
+	2	"General Cor"	3205
+	3	"Manticore Executioner"	3204
+	4	"Manticore Executioner"	3204
+	5	"Manticore Executioner"	3204
+	6	"Manticore Magus"	3203
+	7	"Manticore Magus"	3203
+	8	"Manticore Soldier"	3202
+	9	"Manticore Soldier"	3202
+	10	"Manticore Soldier"	3202
+	11	"Manticore Soldier"	3202
 }
 Group	Martyaxwar
 {
 	Vnum	3029
 	Leader	Martyaxwar	3291
-	1	General Cor	3205
-	2	General Cor	3205
-	3	Manticore Executioner	3204
-	4	Manticore Executioner	3204
-	5	Manticore Executioner	3204
-	6	Manticore Magus	3203
-	7	Manticore Magus	3203
-	8	Manticore Soldier	3202
-	9	Manticore Soldier	3202
-	10	Manticore Soldier	3202
-	11	Manticore Soldier	3202
+	1	"General Cor"	3205
+	2	"General Cor"	3205
+	3	"Manticore Executioner"	3204
+	4	"Manticore Executioner"	3204
+	5	"Manticore Executioner"	3204
+	6	"Manticore Magus"	3203
+	7	"Manticore Magus"	3203
+	8	"Manticore Soldier"	3202
+	9	"Manticore Soldier"	3202
+	10	"Manticore Soldier"	3202
+	11	"Manticore Soldier"	3202
 }
 Group	Lemures_Warrior
 {
 	Vnum	3031
-	Leader	Lemures Warrior	3301
-	1	Lemures Warrior	3301
-	2	Lemures Warrior	3301
+	Leader	"Lemures Warrior"	3301
+	1	"Lemures Warrior"	3301
+	2	"Lemures Warrior"	3301
 }
 Group	Lemures_Soldier
 {
 	Vnum	3032
-	Leader	Lemures Soldier	3302
-	1	Lemures Warrior	3301
-	2	Lemures Warrior	3301
+	Leader	"Lemures Soldier"	3302
+	1	"Lemures Warrior"	3301
+	2	"Lemures Warrior"	3301
 }
 Group	Lemures_Soldier
 {
 	Vnum	3033
-	Leader	Lemures Soldier	3302
-	1	Lemures Soldier	3302
-	2	Lemures Soldier	3302
+	Leader	"Lemures Soldier"	3302
+	1	"Lemures Soldier"	3302
+	2	"Lemures Soldier"	3302
 }
 Group	Lemures_Magician
 {
 	Vnum	3034
-	Leader	Lemures Magician	3303
-	1	Lemures Soldier	3302
-	2	Lemures Soldier	3302
+	Leader	"Lemures Magician"	3303
+	1	"Lemures Soldier"	3302
+	2	"Lemures Soldier"	3302
 }
 Group	Lemures_Magician
 {
 	Vnum	3035
-	Leader	Lemures Magician	3303
-	1	Lemures Magician	3303
-	2	Lemures Magician	3303
+	Leader	"Lemures Magician"	3303
+	1	"Lemures Magician"	3303
+	2	"Lemures Magician"	3303
 }
 Group	Lemures_Executioner
 {
 	Vnum	3036
-	Leader	Lemures Executioner	3304
-	1	Lemures Magician	3303
-	2	Lemures Soldier	3302
-	3	Lemures Soldier	3302
+	Leader	"Lemures Executioner"	3304
+	1	"Lemures Magician"	3303
+	2	"Lemures Soldier"	3302
+	3	"Lemures Soldier"	3302
 }
 Group	Lemures_General
 {
 	Vnum	3037
-	Leader	Lemures General	3305
-	1	Lemures Executioner	3304
-	2	Lemures Executioner	3304
-	3	Lemures Soldier	3302
-	4	Lemures Soldier	3302
+	Leader	"Lemures General"	3305
+	1	"Lemures Executioner"	3304
+	2	"Lemures Executioner"	3304
+	3	"Lemures Soldier"	3302
+	4	"Lemures Soldier"	3302
 }
 Group	Lemures_Prince
 {
 	Vnum	3038
-	Leader	Lemures Prince	3390
-	1	Lemures General	3305
-	2	Lemures General	3305
-	3	Lemures Executioner	3304
-	4	Lemures Executioner	3304
-	5	Lemures Executioner	3304
-	6	Lemures Magician	3303
-	7	Lemures Magician	3303
-	8	Lemures Soldier	3302
-	9	Lemures Soldier	3302
-	10	Lemures Soldier	3302
-	11	Lemures Soldier	3302
+	Leader	"Lemures Prince"	3390
+	1	"Lemures General"	3305
+	2	"Lemures General"	3305
+	3	"Lemures Executioner"	3304
+	4	"Lemures Executioner"	3304
+	5	"Lemures Executioner"	3304
+	6	"Lemures Magician"	3303
+	7	"Lemures Magician"	3303
+	8	"Lemures Soldier"	3302
+	9	"Lemures Soldier"	3302
+	10	"Lemures Soldier"	3302
+	11	"Lemures Soldier"	3302
 }
 Group	Lemures_Bodyguard
 {
 	Vnum	3039
-	Leader	Lemures Bodyguard	3391
-	1	Lemures General	3305
-	2	Lemures General	3305
-	3	Lemures Executioner	3304
-	4	Lemures Executioner	3304
-	5	Lemures Executioner	3304
-	6	Lemures Magician	3303
-	7	Lemures Magician	3303
-	8	Lemures Soldier	3302
-	9	Lemures Soldier	3302
-	10	Lemures Soldier	3302
-	11	Lemures Soldier	3302
+	Leader	"Lemures Bodyguard"	3391
+	1	"Lemures General"	3305
+	2	"Lemures General"	3305
+	3	"Lemures Executioner"	3304
+	4	"Lemures Executioner"	3304
+	5	"Lemures Executioner"	3304
+	6	"Lemures Magician"	3303
+	7	"Lemures Magician"	3303
+	8	"Lemures Soldier"	3302
+	9	"Lemures Soldier"	3302
+	10	"Lemures Soldier"	3302
+	11	"Lemures Soldier"	3302
 }
 Group	Tritonic_Moray
 {
 	Vnum	3041
-	Leader	Tritonic Moray	3401
-	1	Tritonic Moray	3401
-	2	Tritonic Moray	3401
+	Leader	"Tritonic Moray"	3401
+	1	"Tritonic Moray"	3401
+	2	"Tritonic Moray"	3401
 }
 Group	Shark_Soldier
 {
 	Vnum	3042
-	Leader	Shark Soldier	3402
-	1	Tritonic Moray	3401
-	2	Tritonic Moray	3401
+	Leader	"Shark Soldier"	3402
+	1	"Tritonic Moray"	3401
+	2	"Tritonic Moray"	3401
 }
 Group	Shark_Soldier
 {
 	Vnum	3043
-	Leader	Shark Soldier	3402
-	1	Shark Soldier	3402
-	2	Shark Soldier	3402
+	Leader	"Shark Soldier"	3402
+	1	"Shark Soldier"	3402
+	2	"Shark Soldier"	3402
 }
 Group	Tritonic_Magician
 {
 	Vnum	3044
-	Leader	Tritonic Magician	3403
-	1	Shark Soldier	3402
-	2	Shark Soldier	3402
+	Leader	"Tritonic Magician"	3403
+	1	"Shark Soldier"	3402
+	2	"Shark Soldier"	3402
 }
 Group	Tritonic_Magician
 {
 	Vnum	3045
-	Leader	Tritonic Magician	3403
-	1	Tritonic Magician	3403
-	2	Tritonic Magician	3403
+	Leader	"Tritonic Magician"	3403
+	1	"Tritonic Magician"	3403
+	2	"Tritonic Magician"	3403
 }
 Group	Tritonic_Hunter
 {
 	Vnum	3046
-	Leader	Tritonic Hunter	3404
-	1	Tritonic Magician	3403
-	2	Shark Soldier	3402
-	3	Shark Soldier	3402
+	Leader	"Tritonic Hunter"	3404
+	1	"Tritonic Magician"	3403
+	2	"Shark Soldier"	3402
+	3	"Shark Soldier"	3402
 }
 Group	Tritonic_Slasher
 {
 	Vnum	3047
-	Leader	Tritonic Slasher	3405
-	1	Tritonic Hunter	3404
-	2	Tritonic Hunter	3404
-	3	Shark Soldier	3402
-	4	Shark Soldier	3402
+	Leader	"Tritonic Slasher"	3405
+	1	"Tritonic Hunter"	3404
+	2	"Tritonic Hunter"	3404
+	3	"Shark Soldier"	3402
+	4	"Shark Soldier"	3402
 }
 Group	General_Kappa
 {
 	Vnum	3048
-	Leader	General Kappa	3490
-	1	Tritonic Slasher	3405
-	2	Tritonic Slasher	3405
-	3	Tritonic Hunter	3404
-	4	Tritonic Hunter	3404
-	5	Tritonic Hunter	3404
-	6	Tritonic Magician	3403
-	7	Tritonic Magician	3403
-	8	Shark Soldier	3402
-	9	Shark Soldier	3402
-	10	Shark Soldier	3402
-	11	Shark Soldier	3402
+	Leader	"General Kappa"	3490
+	1	"Tritonic Slasher"	3405
+	2	"Tritonic Slasher"	3405
+	3	"Tritonic Hunter"	3404
+	4	"Tritonic Hunter"	3404
+	5	"Tritonic Hunter"	3404
+	6	"Tritonic Magician"	3403
+	7	"Tritonic Magician"	3403
+	8	"Shark Soldier"	3402
+	9	"Shark Soldier"	3402
+	10	"Shark Soldier"	3402
+	11	"Shark Soldier"	3402
 }
 Group	Triton
 {
 	Vnum	3049
 	Leader	Triton	3491
-	1	Tritonic Slasher	3405
-	2	Tritonic Slasher	3405
-	3	Tritonic Hunter	3404
-	4	Tritonic Hunter	3404
-	5	Tritonic Hunter	3404
-	6	Tritonic Magician	3403
-	7	Tritonic Magician	3403
-	8	Shark Soldier	3402
-	9	Shark Soldier	3402
-	10	Shark Soldier	3402
-	11	Shark Soldier	3402
+	1	"Tritonic Slasher"	3405
+	2	"Tritonic Slasher"	3405
+	3	"Tritonic Hunter"	3404
+	4	"Tritonic Hunter"	3404
+	5	"Tritonic Hunter"	3404
+	6	"Tritonic Magician"	3403
+	7	"Tritonic Magician"	3403
+	8	"Shark Soldier"	3402
+	9	"Shark Soldier"	3402
+	10	"Shark Soldier"	3402
+	11	"Shark Soldier"	3402
 }
 Group	Red_Thief_Amazon
 {
 	Vnum	3051
-	Leader	Red Thief Amazon	3501
-	1	Red Thief Amazon	3501
-	2	Red Thief Amazon	3501
+	Leader	"Red Thief Amazon"	3501
+	1	"Red Thief Amazon"	3501
+	2	"Red Thief Amazon"	3501
 }
 Group	Red_Thief_Assassin
 {
 	Vnum	3052
-	Leader	Red Thief Assassin	3502
-	1	Red Thief Amazon	3501
-	2	Red Thief Amazon	3501
+	Leader	"Red Thief Assassin"	3502
+	1	"Red Thief Amazon"	3501
+	2	"Red Thief Amazon"	3501
 }
 Group	Red_Thief_Assassin
 {
 	Vnum	3053
-	Leader	Red Thief Assassin	3502
-	1	Red Thief Assassin	3502
-	2	Red Thief Assassin	3502
+	Leader	"Red Thief Assassin"	3502
+	1	"Red Thief Assassin"	3502
+	2	"Red Thief Assassin"	3502
 }
 Group	Red_Thief_Magician
 {
 	Vnum	3054
-	Leader	Red Thief Magician	3503
-	1	Red Thief Assassin	3502
-	2	Red Thief Assassin	3502
+	Leader	"Red Thief Magician"	3503
+	1	"Red Thief Assassin"	3502
+	2	"Red Thief Assassin"	3502
 }
 Group	Red_Thief_Magician
 {
 	Vnum	3055
-	Leader	Red Thief Magician	3503
-	1	Red Thief Magician	3503
-	2	Red Thief Magician	3503
+	Leader	"Red Thief Magician"	3503
+	1	"Red Thief Magician"	3503
+	2	"Red Thief Magician"	3503
 }
 Group	Red_Thief_Executioner
 {
 	Vnum	3056
-	Leader	Red Thief Executioner	3504
-	1	Red Thief Magician	3503
-	2	Red Thief Assassin	3502
-	3	Red Thief Assassin	3502
+	Leader	"Red Thief Executioner"	3504
+	1	"Red Thief Magician"	3503
+	2	"Red Thief Assassin"	3502
+	3	"Red Thief Assassin"	3502
 }
 Group	Black_General
 {
 	Vnum	3057
-	Leader	Black General	3505
-	1	Red Thief Executioner	3504
-	2	Red Thief Executioner	3504
-	3	Red Thief Assassin	3502
-	4	Red Thief Assassin	3502
+	Leader	"Black General"	3505
+	1	"Red Thief Executioner"	3504
+	2	"Red Thief Executioner"	3504
+	3	"Red Thief Assassin"	3502
+	4	"Red Thief Assassin"	3502
 }
 Group	Bone_Face
 {
 	Vnum	3058
-	Leader	Bone Face	3590
-	1	Black General	3505
-	2	Black General	3505
-	3	Red Thief Executioner	3504
-	4	Red Thief Executioner	3504
-	5	Red Thief Executioner	3504
-	6	Red Thief Magician	3503
-	7	Red Thief Magician	3503
-	8	Red Thief Assassin	3502
-	9	Red Thief Assassin	3502
-	10	Red Thief Assassin	3502
-	11	Red Thief Assassin	3502
+	Leader	"Bone Face"	3590
+	1	"Black General"	3505
+	2	"Black General"	3505
+	3	"Red Thief Executioner"	3504
+	4	"Red Thief Executioner"	3504
+	5	"Red Thief Executioner"	3504
+	6	"Red Thief Magician"	3503
+	7	"Red Thief Magician"	3503
+	8	"Red Thief Assassin"	3502
+	9	"Red Thief Assassin"	3502
+	10	"Red Thief Assassin"	3502
+	11	"Red Thief Assassin"	3502
 }
 Group	Red_Chief
 {
 	Vnum	3059
-	Leader	Red Chief	3591
-	1	Black General	3505
-	2	Black General	3505
-	3	Red Thief Executioner	3504
-	4	Red Thief Executioner	3504
-	5	Red Thief Executioner	3504
-	6	Red Thief Magician	3503
-	7	Red Thief Magician	3503
-	8	Red Thief Assassin	3502
-	9	Red Thief Assassin	3502
-	10	Red Thief Assassin	3502
-	11	Red Thief Assassin	3502
+	Leader	"Red Chief"	3591
+	1	"Black General"	3505
+	2	"Black General"	3505
+	3	"Red Thief Executioner"	3504
+	4	"Red Thief Executioner"	3504
+	5	"Red Thief Executioner"	3504
+	6	"Red Thief Magician"	3503
+	7	"Red Thief Magician"	3503
+	8	"Red Thief Assassin"	3502
+	9	"Red Thief Assassin"	3502
+	10	"Red Thief Assassin"	3502
+	11	"Red Thief Assassin"	3502
 }
 Group	Brutal_Red_Thief_Amazon
 {
 	Vnum	3061
-	Leader	Brutal Red Thief Amazon	3551
-	1	Brutal Red Thief Amazon	3551
-	2	Brutal Red Thief Amazon	3551
+	Leader	"Brutal Red Thief Amazon"	3551
+	1	"Brutal Red Thief Amazon"	3551
+	2	"Brutal Red Thief Amazon"	3551
 }
 Group	Brut._Red_Thief_Assassin
 {
 	Vnum	3062
-	Leader	Brut. Red Thief Assassin	3552
-	1	Brutal Red Thief Amazon	3551
-	2	Brutal Red Thief Amazon	3551
+	Leader	"Brut. Red Thief Assassin"	3552
+	1	"Brutal Red Thief Amazon"	3551
+	2	"Brutal Red Thief Amazon"	3551
 }
 Group	Brut._Red_Thief_Assassin
 {
 	Vnum	3063
-	Leader	Brut. Red Thief Assassin	3552
-	1	Brut. Red Thief Assassin	3552
-	2	Brut. Red Thief Assassin	3552
+	Leader	"Brut. Red Thief Assassin"	3552
+	1	"Brut. Red Thief Assassin"	3552
+	2	"Brut. Red Thief Assassin"	3552
 }
 Group	Brut._Red_Thief_Magician
 {
 	Vnum	3064
-	Leader	Brut. Red Thief Magician	3553
-	1	Brut. Red Thief Assassin	3552
-	2	Brut. Red Thief Assassin	3552
+	Leader	"Brut. Red Thief Magician"	3553
+	1	"Brut. Red Thief Assassin"	3552
+	2	"Brut. Red Thief Assassin"	3552
 }
 Group	Brut._Red_Thief_Magician
 {
 	Vnum	3065
-	Leader	Brut. Red Thief Magician	3553
-	1	Brut. Red Thief Magician	3553
-	2	Brut. Red Thief Magician	3553
+	Leader	"Brut. Red Thief Magician"	3553
+	1	"Brut. Red Thief Magician"	3553
+	2	"Brut. Red Thief Magician"	3553
 }
 Group	Brut.RedThiefExecutioner
 {
 	Vnum	3066
 	Leader	Brut.RedThiefExecutioner	3554
-	1	Brut. Red Thief Magician	3553
-	2	Brut. Red Thief Assassin	3552
-	3	Brut. Red Thief Assassin	3552
+	1	"Brut. Red Thief Magician"	3553
+	2	"Brut. Red Thief Assassin"	3552
+	3	"Brut. Red Thief Assassin"	3552
 }
 Group	White_General
 {
 	Vnum	3067
-	Leader	White General	3555
+	Leader	"White General"	3555
 	1	Brut.RedThiefExecutioner	3554
 	2	Brut.RedThiefExecutioner	3554
-	3	Brut. Red Thief Assassin	3552
-	4	Brut. Red Thief Assassin	3552
+	3	"Brut. Red Thief Assassin"	3552
+	4	"Brut. Red Thief Assassin"	3552
 }
 Group	Brutal_Bone_Face
 {
 	Vnum	3068
-	Leader	Brutal Bone Face	3595
-	1	White General	3555
-	2	White General	3555
+	Leader	"Brutal Bone Face"	3595
+	1	"White General"	3555
+	2	"White General"	3555
 	3	Brut.RedThiefExecutioner	3554
 	4	Brut.RedThiefExecutioner	3554
 	5	Brut.RedThiefExecutioner	3554
-	6	Brut. Red Thief Magician	3553
-	7	Brut. Red Thief Magician	3553
-	8	Brut. Red Thief Assassin	3552
-	9	Brut. Red Thief Assassin	3552
-	10	Brut. Red Thief Assassin	3552
-	11	Brut. Red Thief Assassin	3552
+	6	"Brut. Red Thief Magician"	3553
+	7	"Brut. Red Thief Magician"	3553
+	8	"Brut. Red Thief Assassin"	3552
+	9	"Brut. Red Thief Assassin"	3552
+	10	"Brut. Red Thief Assassin"	3552
+	11	"Brut. Red Thief Assassin"	3552
 }
 Group	Brutal_Red_Chief
 {
 	Vnum	3069
-	Leader	Brutal Red Chief	3596
-	1	White General	3555
-	2	White General	3555
+	Leader	"Brutal Red Chief"	3596
+	1	"White General"	3555
+	2	"White General"	3555
 	3	Brut.RedThiefExecutioner	3554
 	4	Brut.RedThiefExecutioner	3554
 	5	Brut.RedThiefExecutioner	3554
-	6	Brut. Red Thief Magician	3553
-	7	Brut. Red Thief Magician	3553
-	8	Brut. Red Thief Assassin	3552
-	9	Brut. Red Thief Assassin	3552
-	10	Brut. Red Thief Assassin	3552
-	11	Brut. Red Thief Assassin	3552
+	6	"Brut. Red Thief Magician"	3553
+	7	"Brut. Red Thief Magician"	3553
+	8	"Brut. Red Thief Assassin"	3552
+	9	"Brut. Red Thief Assassin"	3552
+	10	"Brut. Red Thief Assassin"	3552
+	11	"Brut. Red Thief Assassin"	3552
 }
 Group	Crab_Warrior
 {
 	Vnum	3071
-	Leader	Crab Warrior	3601
-	1	Crab Warrior	3601
-	2	Crab Warrior	3601
+	Leader	"Crab Warrior"	3601
+	1	"Crab Warrior"	3601
+	2	"Crab Warrior"	3601
 }
 Group	Scorpion_Marksman
 {
 	Vnum	3072
-	Leader	Scorpion Marksman	3602
-	1	Crab Warrior	3601
-	2	Crab Warrior	3601
+	Leader	"Scorpion Marksman"	3602
+	1	"Crab Warrior"	3601
+	2	"Crab Warrior"	3601
 }
 Group	Scorpion_Marksman
 {
 	Vnum	3073
-	Leader	Scorpion Marksman	3602
-	1	Scorpion Marksman	3602
-	2	Scorpion Marksman	3602
+	Leader	"Scorpion Marksman"	3602
+	1	"Scorpion Marksman"	3602
+	2	"Scorpion Marksman"	3602
 }
 Group	Shrimp_Soldier
 {
 	Vnum	3074
-	Leader	Shrimp Soldier	3603
-	1	Scorpion Marksman	3602
-	2	Scorpion Marksman	3602
+	Leader	"Shrimp Soldier"	3603
+	1	"Scorpion Marksman"	3602
+	2	"Scorpion Marksman"	3602
 }
 Group	Shrimp_Soldier
 {
 	Vnum	3075
-	Leader	Shrimp Soldier	3603
-	1	Shrimp Soldier	3603
-	2	Shrimp Soldier	3603
+	Leader	"Shrimp Soldier"	3603
+	1	"Shrimp Soldier"	3603
+	2	"Shrimp Soldier"	3603
 }
 Group	Diabolical_Hermit
 {
 	Vnum	3076
-	Leader	Diabolical Hermit	3604
-	1	Shrimp Soldier	3603
-	2	Scorpion Marksman	3602
-	3	Scorpion Marksman	3602
+	Leader	"Diabolical Hermit"	3604
+	1	"Shrimp Soldier"	3603
+	2	"Scorpion Marksman"	3602
+	3	"Scorpion Marksman"	3602
 }
 Group	Armoured_Crab
 {
 	Vnum	3077
-	Leader	Armoured Crab	3605
-	1	Diabolical Hermit	3604
-	2	Diabolical Hermit	3604
-	3	Scorpion Marksman	3602
-	4	Scorpion Marksman	3602
+	Leader	"Armoured Crab"	3605
+	1	"Diabolical Hermit"	3604
+	2	"Diabolical Hermit"	3604
+	3	"Scorpion Marksman"	3602
+	4	"Scorpion Marksman"	3602
 }
 Group	General_Lobster
 {
 	Vnum	3078
-	Leader	General Lobster	3690
-	1	Armoured Crab	3605
-	2	Armoured Crab	3605
-	3	Diabolical Hermit	3604
-	4	Diabolical Hermit	3604
-	5	Diabolical Hermit	3604
-	6	Shrimp Soldier	3603
-	7	Shrimp Soldier	3603
-	8	Scorpion Marksman	3602
-	9	Scorpion Marksman	3602
-	10	Scorpion Marksman	3602
-	11	Scorpion Marksman	3602
+	Leader	"General Lobster"	3690
+	1	"Armoured Crab"	3605
+	2	"Armoured Crab"	3605
+	3	"Diabolical Hermit"	3604
+	4	"Diabolical Hermit"	3604
+	5	"Diabolical Hermit"	3604
+	6	"Shrimp Soldier"	3603
+	7	"Shrimp Soldier"	3603
+	8	"Scorpion Marksman"	3602
+	9	"Scorpion Marksman"	3602
+	10	"Scorpion Marksman"	3602
+	11	"Scorpion Marksman"	3602
 }
 Group	King_Crab
 {
 	Vnum	3079
-	Leader	King Crab	3691
-	1	Armoured Crab	3605
-	2	Armoured Crab	3605
-	3	Diabolical Hermit	3604
-	4	Diabolical Hermit	3604
-	5	Diabolical Hermit	3604
-	6	Shrimp Soldier	3603
-	7	Shrimp Soldier	3603
-	8	Scorpion Marksman	3602
-	9	Scorpion Marksman	3602
-	10	Scorpion Marksman	3602
-	11	Scorpion Marksman	3602
+	Leader	"King Crab"	3691
+	1	"Armoured Crab"	3605
+	2	"Armoured Crab"	3605
+	3	"Diabolical Hermit"	3604
+	4	"Diabolical Hermit"	3604
+	5	"Diabolical Hermit"	3604
+	6	"Shrimp Soldier"	3603
+	7	"Shrimp Soldier"	3603
+	8	"Scorpion Marksman"	3602
+	9	"Scorpion Marksman"	3602
+	10	"Scorpion Marksman"	3602
+	11	"Scorpion Marksman"	3602
 }
 Group	Gigantic_Biter
 {
 	Vnum	3081
-	Leader	Gigantic Biter	3701
-	1	Gigantic Biter	3701
-	2	Gigantic Biter	3701
+	Leader	"Gigantic Biter"	3701
+	1	"Gigantic Biter"	3701
+	2	"Gigantic Biter"	3701
 }
 Group	Gigantic_Slaughterer
 {
 	Vnum	3082
-	Leader	Gigantic Slaughterer	3702
-	1	Gigantic Biter	3701
-	2	Gigantic Biter	3701
+	Leader	"Gigantic Slaughterer"	3702
+	1	"Gigantic Biter"	3701
+	2	"Gigantic Biter"	3701
 }
 Group	Gigantic_Slaughterer
 {
 	Vnum	3083
-	Leader	Gigantic Slaughterer	3702
-	1	Gigantic Slaughterer	3702
-	2	Gigantic Slaughterer	3702
+	Leader	"Gigantic Slaughterer"	3702
+	1	"Gigantic Slaughterer"	3702
+	2	"Gigantic Slaughterer"	3702
 }
 Group	Gigantic_Magus
 {
 	Vnum	3084
-	Leader	Gigantic Magus	3703
-	1	Gigantic Slaughterer	3702
-	2	Gigantic Slaughterer	3702
+	Leader	"Gigantic Magus"	3703
+	1	"Gigantic Slaughterer"	3702
+	2	"Gigantic Slaughterer"	3702
 }
 Group	Gigantic_Magus
 {
 	Vnum	3085
-	Leader	Gigantic Magus	3703
-	1	Gigantic Magus	3703
-	2	Gigantic Magus	3703
+	Leader	"Gigantic Magus"	3703
+	1	"Gigantic Magus"	3703
+	2	"Gigantic Magus"	3703
 }
 Group	Twiant
 {
 	Vnum	3086
 	Leader	Twiant	3704
-	1	Gigantic Magus	3703
-	2	Gigantic Slaughterer	3702
-	3	Gigantic Slaughterer	3702
+	1	"Gigantic Magus"	3703
+	2	"Gigantic Slaughterer"	3702
+	3	"Gigantic Slaughterer"	3702
 }
 Group	Captain_Hooks
 {
 	Vnum	3087
-	Leader	Captain Hooks	3705
+	Leader	"Captain Hooks"	3705
 	1	Twiant	3704
 	2	Twiant	3704
-	3	Gigantic Slaughterer	3702
-	4	Gigantic Slaughterer	3702
+	3	"Gigantic Slaughterer"	3702
+	4	"Gigantic Slaughterer"	3702
 }
 Group	Gargoyle
 {
 	Vnum	3088
 	Leader	Gargoyle	3790
-	1	Captain Hooks	3705
-	2	Captain Hooks	3705
+	1	"Captain Hooks"	3705
+	2	"Captain Hooks"	3705
 	3	Twiant	3704
 	4	Twiant	3704
 	5	Twiant	3704
-	6	Gigantic Magus	3703
-	7	Gigantic Magus	3703
-	8	Gigantic Slaughterer	3702
-	9	Gigantic Slaughterer	3702
-	10	Gigantic Slaughterer	3702
-	11	Gigantic Slaughterer	3702
+	6	"Gigantic Magus"	3703
+	7	"Gigantic Magus"	3703
+	8	"Gigantic Slaughterer"	3702
+	9	"Gigantic Slaughterer"	3702
+	10	"Gigantic Slaughterer"	3702
+	11	"Gigantic Slaughterer"	3702
 }
 Group	King_Wubba
 {
 	Vnum	3089
-	Leader	King Wubba	3791
-	1	Captain Hooks	3705
-	2	Captain Hooks	3705
+	Leader	"King Wubba"	3791
+	1	"Captain Hooks"	3705
+	2	"Captain Hooks"	3705
 	3	Twiant	3704
 	4	Twiant	3704
 	5	Twiant	3704
-	6	Gigantic Magus	3703
-	7	Gigantic Magus	3703
-	8	Gigantic Slaughterer	3702
-	9	Gigantic Slaughterer	3702
-	10	Gigantic Slaughterer	3702
-	11	Gigantic Slaughterer	3702
+	6	"Gigantic Magus"	3703
+	7	"Gigantic Magus"	3703
+	8	"Gigantic Slaughterer"	3702
+	9	"Gigantic Slaughterer"	3702
+	10	"Gigantic Slaughterer"	3702
+	11	"Gigantic Slaughterer"	3702
 }
 Group	Hangork
 {
@@ -6036,79 +6036,79 @@ Group	Hangork
 Group	Archie_Ogre
 {
 	Vnum	3092
-	Leader	Archie Ogre	3802
+	Leader	"Archie Ogre"	3802
 	1	Hangork	3801
 	2	Hangork	3801
 }
 Group	Archie_Ogre
 {
 	Vnum	3093
-	Leader	Archie Ogre	3802
-	1	Archie Ogre	3802
-	2	Archie Ogre	3802
+	Leader	"Archie Ogre"	3802
+	1	"Archie Ogre"	3802
+	2	"Archie Ogre"	3802
 }
 Group	Brawl_Ogre
 {
 	Vnum	3094
-	Leader	Brawl Ogre	3803
-	1	Archie Ogre	3802
-	2	Archie Ogre	3802
+	Leader	"Brawl Ogre"	3803
+	1	"Archie Ogre"	3802
+	2	"Archie Ogre"	3802
 }
 Group	Brawl_Ogre
 {
 	Vnum	3095
-	Leader	Brawl Ogre	3803
-	1	Brawl Ogre	3803
-	2	Brawl Ogre	3803
+	Leader	"Brawl Ogre"	3803
+	1	"Brawl Ogre"	3803
+	2	"Brawl Ogre"	3803
 }
 Group	Ogre_Magus
 {
 	Vnum	3096
-	Leader	Ogre Magus	3804
-	1	Brawl Ogre	3803
-	2	Archie Ogre	3802
-	3	Archie Ogre	3802
+	Leader	"Ogre Magus"	3804
+	1	"Brawl Ogre"	3803
+	2	"Archie Ogre"	3802
+	3	"Archie Ogre"	3802
 }
 Group	General_Ogg
 {
 	Vnum	3097
-	Leader	General Ogg	3805
-	1	Ogre Magus	3804
-	2	Ogre Magus	3804
-	3	Archie Ogre	3802
-	4	Archie Ogre	3802
+	Leader	"General Ogg"	3805
+	1	"Ogre Magus"	3804
+	2	"Ogre Magus"	3804
+	3	"Archie Ogre"	3802
+	4	"Archie Ogre"	3802
 }
 Group	Captain_Shruk
 {
 	Vnum	3098
-	Leader	Captain Shruk	3890
-	1	General Ogg	3805
-	2	General Ogg	3805
-	3	Ogre Magus	3804
-	4	Ogre Magus	3804
-	5	Ogre Magus	3804
-	6	Brawl Ogre	3803
-	7	Brawl Ogre	3803
-	8	Archie Ogre	3802
-	9	Archie Ogre	3802
-	10	Archie Ogre	3802
-	11	Archie Ogre	3802
+	Leader	"Captain Shruk"	3890
+	1	"General Ogg"	3805
+	2	"General Ogg"	3805
+	3	"Ogre Magus"	3804
+	4	"Ogre Magus"	3804
+	5	"Ogre Magus"	3804
+	6	"Brawl Ogre"	3803
+	7	"Brawl Ogre"	3803
+	8	"Archie Ogre"	3802
+	9	"Archie Ogre"	3802
+	10	"Archie Ogre"	3802
+	11	"Archie Ogre"	3802
 }
 Group	The_Great_Ogre
 {
 	Vnum	3099
-	Leader	The Great Ogre	3891
-	1	General Ogg	3805
-	2	General Ogg	3805
-	3	Ogre Magus	3804
-	4	Ogre Magus	3804
-	5	Ogre Magus	3804
-	6	Brawl Ogre	3803
-	7	Brawl Ogre	3803
-	8	Archie Ogre	3802
-	9	Archie Ogre	3802
-	10	Archie Ogre	3802
-	11	Archie Ogre	3802
+	Leader	"The Great Ogre"	3891
+	1	"General Ogg"	3805
+	2	"General Ogg"	3805
+	3	"Ogre Magus"	3804
+	4	"Ogre Magus"	3804
+	5	"Ogre Magus"	3804
+	6	"Brawl Ogre"	3803
+	7	"Brawl Ogre"	3803
+	8	"Archie Ogre"	3802
+	9	"Archie Ogre"	3802
+	10	"Archie Ogre"	3802
+	11	"Archie Ogre"	3802
 }
 Group	.
 {
@@ -6119,36 +6119,36 @@ Group	.
 Group	Captain_Hooks
 {
 	Vnum	20001
-	Leader	Captain Hooks	3904
-	1	Cyclops Magician	3103
-	2	Cyclops Soldier	3102
-	3	Cyclops Soldier	3102
+	Leader	"Captain Hooks"	3904
+	1	"Cyclops Magician"	3103
+	2	"Cyclops Soldier"	3102
+	3	"Cyclops Soldier"	3102
 }
 Group	Mu-Shu
 {
 	Vnum	20002
 	Leader	Mu-Shu	3905
-	1	Lemures General	3305
-	2	Lemures Executioner	3304
-	3	Lemures Executioner	3304
-	4	Lemures Soldier	3302
-	5	Lemures Soldier	3302
+	1	"Lemures General"	3305
+	2	"Lemures Executioner"	3304
+	3	"Lemures Executioner"	3304
+	4	"Lemures Soldier"	3302
+	5	"Lemures Soldier"	3302
 }
 Group	Yah-Ki
 {
 	Vnum	20003
 	Leader	Yah-Ki	3906
-	1	Lemures General	3305
-	2	Lemures Executioner	3304
-	3	Lemures Executioner	3304
-	4	Lemures Soldier	3302
-	5	Lemures Soldier	3302
+	1	"Lemures General"	3305
+	2	"Lemures Executioner"	3304
+	3	"Lemures Executioner"	3304
+	4	"Lemures Soldier"	3302
+	5	"Lemures Soldier"	3302
 }
 Group	Skeletos
 {
 	Vnum	20004
 	Leader	Skeletos	3910
-	1	General Albus	3909
+	1	"General Albus"	3909
 	2	Carnifex	3908
 	3	Carnifex	3908
 	4	Moghu	3907
@@ -6157,229 +6157,229 @@ Group	Skeletos
 Group	Vein_of_Soul_Crystal_Ore
 {
 	Vnum	30301
-	Leader	Vein of Soul Crystal Ore	30301
+	Leader	"Vein of Soul Crystal Ore"	30301
 }
 Group	Vein_of_Ruby_Ore
 {
 	Vnum	30302
-	Leader	Vein of Ruby Ore	30302
+	Leader	"Vein of Ruby Ore"	30302
 }
 Group	Vein_of_Garnet_Ore
 {
 	Vnum	30303
-	Leader	Vein of Garnet Ore	30303
+	Leader	"Vein of Garnet Ore"	30303
 }
 Group	Vein_of_Emerald_Ore
 {
 	Vnum	30304
-	Leader	Vein of Emerald Ore	30304
+	Leader	"Vein of Emerald Ore"	30304
 }
 Group	Vein_of_Sapphire_Ore
 {
 	Vnum	30305
-	Leader	Vein of Sapphire Ore	30305
+	Leader	"Vein of Sapphire Ore"	30305
 }
 Group	Ember_Flame_Ghost
 {
 	Vnum	6001
-	Leader	Ember Flame Ghost	6001
-	1	Ember Flame Ghost	6001
-	2	Ember Flame Ghost	6001
+	Leader	"Ember Flame Ghost"	6001
+	1	"Ember Flame Ghost"	6001
+	2	"Ember Flame Ghost"	6001
 }
 Group	Ember_Flame_Tiger
 {
 	Vnum	6002
-	Leader	Ember Flame Tiger	6002
-	1	Ember Flame Ghost	6001
-	2	Ember Flame Ghost	6001
+	Leader	"Ember Flame Tiger"	6002
+	1	"Ember Flame Ghost"	6001
+	2	"Ember Flame Ghost"	6001
 }
 Group	Ember_Flame_Tiger
 {
 	Vnum	6003
-	Leader	Ember Flame Tiger	6002
-	1	Ember Flame Tiger	6002
-	2	Ember Flame Tiger	6002
+	Leader	"Ember Flame Tiger"	6002
+	1	"Ember Flame Tiger"	6002
+	2	"Ember Flame Tiger"	6002
 }
 Group	Ember_Flame
 {
 	Vnum	6004
-	Leader	Ember Flame	6003
-	1	Ember Flame Tiger	6002
-	2	Ember Flame Tiger	6002
+	Leader	"Ember Flame"	6003
+	1	"Ember Flame Tiger"	6002
+	2	"Ember Flame Tiger"	6002
 }
 Group	Ember_Flame
 {
 	Vnum	6005
-	Leader	Ember Flame	6003
-	1	Ember Flame	6003
-	2	Ember Flame	6003
+	Leader	"Ember Flame"	6003
+	1	"Ember Flame"	6003
+	2	"Ember Flame"	6003
 }
 Group	Ember_Flame_Warrior
 {
 	Vnum	6006
-	Leader	Ember Flame Warrior	6004
-	1	Ember Flame	6003
-	2	Ember Flame Tiger	6002
-	3	Ember Flame Tiger	6002
+	Leader	"Ember Flame Warrior"	6004
+	1	"Ember Flame"	6003
+	2	"Ember Flame Tiger"	6002
+	3	"Ember Flame Tiger"	6002
 }
 Group	Ember_Flame_King
 {
 	Vnum	6007
-	Leader	Ember Flame King	6005
-	1	Ember Flame Warrior	6004
-	2	Ember Flame Warrior	6004
-	3	Ember Flame Tiger	6002
-	4	Ember Flame Tiger	6002
+	Leader	"Ember Flame King"	6005
+	1	"Ember Flame Warrior"	6004
+	2	"Ember Flame Warrior"	6004
+	3	"Ember Flame Tiger"	6002
+	4	"Ember Flame Tiger"	6002
 }
 Group	Ember_Flame_Golem
 {
 	Vnum	6008
-	Leader	Ember Flame Golem	6006
-	1	Ember Flame King	6005
-	2	Ember Flame Warrior	6004
-	3	Ember Flame Warrior	6004
+	Leader	"Ember Flame Golem"	6006
+	1	"Ember Flame King"	6005
+	2	"Ember Flame Warrior"	6004
+	3	"Ember Flame Warrior"	6004
 }
 Group	Ember_Flame_Beard
 {
 	Vnum	6009
-	Leader	Ember Flame Beard	6007
-	1	Ember Flame Golem	6006
-	2	Ember Flame Golem	6006
-	3	Ember Flame King	6005
-	4	Ember Flame King	6005
+	Leader	"Ember Flame Beard"	6007
+	1	"Ember Flame Golem"	6006
+	2	"Ember Flame Golem"	6006
+	3	"Ember Flame King"	6005
+	4	"Ember Flame King"	6005
 }
 Group	Ember_Flame_General
 {
 	Vnum	6010
-	Leader	Ember Flame General	6008
-	1	Ember Flame Beard	6007
-	2	Ember Flame Golem	6006
-	3	Ember Flame Golem	6006
+	Leader	"Ember Flame General"	6008
+	1	"Ember Flame Beard"	6007
+	2	"Ember Flame Golem"	6006
+	3	"Ember Flame Golem"	6006
 }
 Group	Ember_Flame_Chieftain
 {
 	Vnum	6011
-	Leader	Ember Flame Chieftain	6009
-	1	Ember Flame General	6008
-	2	Ember Flame General	6008
-	3	Ember Flame Beard	6007
-	4	Ember Flame Beard	6007
+	Leader	"Ember Flame Chieftain"	6009
+	1	"Ember Flame General"	6008
+	2	"Ember Flame General"	6008
+	3	"Ember Flame Beard"	6007
+	4	"Ember Flame Beard"	6007
 }
 Group	Razador
 {
 	Vnum	6012
 	Leader	Razador	6091
-	1	Ember Flame Chieftain	6009
-	2	Ember Flame Chieftain	6009
-	3	Ember Flame General	6008
-	4	Ember Flame General	6008
-	5	Ember Flame General	6008
-	6	Ember Flame Beard	6007
-	7	Ember Flame Beard	6007
-	8	Ember Flame Beard	6007
-	9	Ember Flame Golem	6006
-	10	Ember Flame Golem	6006
-	11	Ember Flame Golem	6006
+	1	"Ember Flame Chieftain"	6009
+	2	"Ember Flame Chieftain"	6009
+	3	"Ember Flame General"	6008
+	4	"Ember Flame General"	6008
+	5	"Ember Flame General"	6008
+	6	"Ember Flame Beard"	6007
+	7	"Ember Flame Beard"	6007
+	8	"Ember Flame Beard"	6007
+	9	"Ember Flame Golem"	6006
+	10	"Ember Flame Golem"	6006
+	11	"Ember Flame Golem"	6006
 }
 Group	Frost_Crystal
 {
 	Vnum	6051
-	Leader	Frost Crystal	6101
-	1	Frost Crystal	6101
-	2	Frost Crystal	6101
+	Leader	"Frost Crystal"	6101
+	1	"Frost Crystal"	6101
+	2	"Frost Crystal"	6101
 }
 Group	Frost_Bug
 {
 	Vnum	6052
-	Leader	Frost Bug	6102
-	1	Frost Crystal	6101
-	2	Frost Crystal	6101
+	Leader	"Frost Bug"	6102
+	1	"Frost Crystal"	6101
+	2	"Frost Crystal"	6101
 }
 Group	Frost_Bug
 {
 	Vnum	6053
-	Leader	Frost Bug	6102
-	1	Frost Bug	6102
-	2	Frost Bug	6102
+	Leader	"Frost Bug"	6102
+	1	"Frost Bug"	6102
+	2	"Frost Bug"	6102
 }
 Group	Frost_Man
 {
 	Vnum	6054
-	Leader	Frost Man	6103
-	1	Frost Bug	6102
-	2	Frost Bug	6102
+	Leader	"Frost Man"	6103
+	1	"Frost Bug"	6102
+	2	"Frost Bug"	6102
 }
 Group	Frost_Man
 {
 	Vnum	6055
-	Leader	Frost Man	6103
-	1	Frost Man	6103
-	2	Frost Man	6103
+	Leader	"Frost Man"	6103
+	1	"Frost Man"	6103
+	2	"Frost Man"	6103
 }
 Group	Frost_Yeti
 {
 	Vnum	6056
-	Leader	Frost Yeti	6104
-	1	Frost Man	6103
-	2	Frost Bug	6102
-	3	Frost Bug	6102
+	Leader	"Frost Yeti"	6104
+	1	"Frost Man"	6103
+	2	"Frost Bug"	6102
+	3	"Frost Bug"	6102
 }
 Group	Frost_Golem
 {
 	Vnum	6057
-	Leader	Frost Golem	6105
-	1	Frost Yeti	6104
-	2	Frost Yeti	6104
-	3	Frost Bug	6102
-	4	Frost Bug	6102
+	Leader	"Frost Golem"	6105
+	1	"Frost Yeti"	6104
+	2	"Frost Yeti"	6104
+	3	"Frost Bug"	6102
+	4	"Frost Bug"	6102
 }
 Group	Frost_Troll
 {
 	Vnum	6058
-	Leader	Frost Troll	6106
-	1	Frost Golem	6105
-	2	Frost Yeti	6104
-	3	Frost Yeti	6104
+	Leader	"Frost Troll"	6106
+	1	"Frost Golem"	6105
+	2	"Frost Yeti"	6104
+	3	"Frost Yeti"	6104
 }
 Group	Frost_Beard
 {
 	Vnum	6059
-	Leader	Frost Beard	6107
-	1	Frost Troll	6106
-	2	Frost Troll	6106
-	3	Frost Yeti	6104
-	4	Frost Yeti	6104
+	Leader	"Frost Beard"	6107
+	1	"Frost Troll"	6106
+	2	"Frost Troll"	6106
+	3	"Frost Yeti"	6104
+	4	"Frost Yeti"	6104
 }
 Group	Frost_Golem
 {
 	Vnum	6060
-	Leader	Frost Golem	6105
-	1	Frost Yeti	6104
-	2	Frost Man	6103
-	3	Frost Man	6103
+	Leader	"Frost Golem"	6105
+	1	"Frost Yeti"	6104
+	2	"Frost Man"	6103
+	3	"Frost Man"	6103
 }
 Group	Frost_Troll
 {
 	Vnum	6061
-	Leader	Frost Troll	6106
-	1	Frost Golem	6105
-	2	Frost Golem	6105
-	3	Frost Man	6103
-	4	Frost Man	6103
+	Leader	"Frost Troll"	6106
+	1	"Frost Golem"	6105
+	2	"Frost Golem"	6105
+	3	"Frost Man"	6103
+	4	"Frost Man"	6103
 }
 Group	Nemere
 {
 	Vnum	6062
 	Leader	Nemere	6191
-	1	Frost Lord	6109
-	2	Frost Lord	6109
-	3	Frost General	6108
-	4	Frost General	6108
-	5	Frost General	6108
-	6	Frost Beard	6107
-	7	Frost Beard	6107
-	8	Frost Troll	6106
-	9	Frost Troll	6106
-	10	Frost Troll	6106
-	11	Frost Troll	6106
+	1	"Frost Lord"	6109
+	2	"Frost Lord"	6109
+	3	"Frost General"	6108
+	4	"Frost General"	6108
+	5	"Frost General"	6108
+	6	"Frost Beard"	6107
+	7	"Frost Beard"	6107
+	8	"Frost Troll"	6106
+	9	"Frost Troll"	6106
+	10	"Frost Troll"	6106
+	11	"Frost Troll"	6106
 }
