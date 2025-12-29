@@ -1007,16 +1007,16 @@
 "[Grupa] Wskazany cel nie jest cz쿽nkiem twojej grupy.";
 
 "<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
-"[Grupa] Nie możesz wyrzucić gracza jeśli jesteś w lochu.";
+"[Grupa] Nie możesz rozwiązać grupy, gdy znajdujesz się na dungeonie.";
 
 "<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
-"[Grupa] Nie możesz wyrzucić gracza jeśli jesteś w lochu.";
+"[Grupa] Nie możesz wyrzucić gracza z grupy, gdy znajdujesz się na dungeonie.";
 
 "<파티> 파티에서 추방당하셨습니다.";
-"[Grupa] Zostałeś usunięty z Grupy.";
+"[Grupa] Zostałeś wyrzucony z grupy.";
 
 "<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
-"[Grupa] Nie możesz opuścić grupy w lochach.";
+"[Grupa] Nie możesz opuścić grupy, gdy znajdujesz się na dungeonie.";
 
 "<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
 "[Grupa] Nie możesz wyrzucać członków grupy.";
@@ -1505,7 +1505,7 @@
 "[Grupa] %s dołączył do Grupy.";
 
 "<파티> %s님의 파티에 참가하셨습니다.";
-"[Grupa] %s dołączył do twojej Grupy.";
+"[Grupa] Dołączyłeś do grupy gracza %s.";
 
 "다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
 "Nie możesz skorzystać teraz z prywatnego Magazynu.";
@@ -2270,28 +2270,28 @@
 "Jeśli będziesz wdychać czerwony dym ze skrzyni, będziesz szybszy!";
 
 "더 이상 이 아이템으로 속성을 추가할 수 없습니다";
-"You cannot add more bonus.";
+"Nie można dodać więcej wzmocnień do tego przedmiotu.";
 
 "성공적으로 속성이 추가 되었습니다";
-"New bonus added successfully.";
+"Pomyślnie dodano wzmocnienie.";
 
 "변경 시킬 속성이 없습니다";
-"You cannot change the bonuses.";
+"Ten przedmiot nie posiada bonusów, które można zmienić.";
 
 "%s이 필요합니다.";
-"%s needed.";
+"Potrzebujesz %s.";
 
 "문제 입니다.";
-"OX-Question: ";
+"Pytanie OX: ";
 
 "[Friends] You cannot add yourself as a friend.";
-"[Friends] You cannot add yourself as a friend.";
+"[Znajomi] Nie możesz dodać samego siebie do listy znajomych.";
 
 "[Friends] You are already friends with %s.";
-"[Friends] You are already friends with %s.";
+"[Znajomi] Gracz %s znajduje się już na Twojej liście znajomych.";
 
 "[Friends] You already sent a friend request to %s.";
-"[Friends] You already sent a friend request to %s.";
+"[Znajomi] Wysłałeś już zaproszenie do gracza %s.";
 
 "[Friends] %s has already sent you a friend request.";
-"[Friends] %s has already sent you a friend request.";
+"[Znajomi] Gracz %s wysłał Ci już zaproszenie.";
