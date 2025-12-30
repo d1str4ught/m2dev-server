@@ -1333,3 +1333,4 @@ VNUM	LOCALE_NAME
 33011	Garnet Alchemist
 33012	Smaragd Alchemist
 33013	Sapphire Alchemist
+9013	Special Bonus Saleswoman

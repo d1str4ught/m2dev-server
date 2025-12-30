@@ -15,7 +15,7 @@ for line in file('locale_list'):
 		filename = line
 
 	if os.system('./qc '+filename):
-		print 'Error occured on compile ' + line
+		print('Error occured on compile ') + line
 		os.system('chmod -R 770 object')
 		import sys
 		sys.exit(-1)

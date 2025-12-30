@@ -5742,3 +5742,4 @@ VNUM	LOCALE_NAME
 164400~164499	Legendary Dragon Onyx
 71051	Bewitch Item
 71052	Bless Item
+71053	Beginner Chest

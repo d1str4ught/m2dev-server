@@ -1,0 +1,45 @@
+quest beginner_chest begin
+    state start begin
+        when login with pc.get_level() == 1 and pc.getqf("beginner_chest_received") == 0 begin
+    	    pc.give_item2(71053, 1)
+    	    pc.setqf("beginner_chest_received", 1)
+    	    syschat("Welcome to the server! Check your inventory for a Beginner's Chest!")
+	end
+        when 71053.use begin
+            local job = pc.get_job()
+            
+            if job == 0 then
+                pc.give_item2(10, 1)
+                pc.give_item2(3000, 1)
+                pc.give_item2(11200, 1)
+                pc.give_item2(12200, 1)
+                pc.give_item2(13000, 1)
+            elseif job == 1 then
+                pc.give_item2(1000, 1)
+                pc.give_item2(2000, 1)
+                pc.give_item2(11400, 1)
+                pc.give_item2(12340, 1)
+                pc.give_item2(50300, 100)
+            elseif job == 2 then
+                pc.give_item2(10, 1)
+                pc.give_item2(11600, 1)
+                pc.give_item2(12480, 1)
+            elseif job == 3 then
+                pc.give_item2(7000, 1)
+                pc.give_item2(5000, 1)
+                pc.give_item2(11800, 1)
+                pc.give_item2(12620, 1)
+            end
+            
+            pc.give_item2(15000, 1)
+            pc.give_item2(14000, 1)
+            pc.give_item2(16000, 1)
+            pc.give_item2(17000, 1)
+            pc.give_item2(27001, 100)
+            pc.give_item2(27004, 100)
+            
+            syschat("You opened the Beginner's Chest! Full equipment set added to your inventory.")
+            item.remove()
+        end
+    end
+end
