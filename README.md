@@ -7,4 +7,5 @@ This repository contains the core server files and configurations. It includes f
 ## 📋 Changelog
 
 ### ⬆️ Feature Improvements
-* **Translations added:** Polish locale_string.txt updated with the new/changed strings translated.
+* **NPC's rotated:** Some NPC's rotated towards the correct direction in Threeway (A2) and Milgyo maps
+* **NPC's added:** Added the Ice Dungeon Guard NPC in the Ice mountain map
