@@ -17,11 +17,11 @@ quest ring_warp begin
 				return
 			end
 			
-			local t = item.get_socket(1)
-			if t > get_global_time() then
-				say (string.format(gameforge.ring_warp._020_say, (t - get_global_time()) / 60 ))
-				return 
-			end
+			--local t = item.get_socket(1)
+			--if t > get_global_time() then
+			--	say (string.format(gameforge.ring_warp._020_say, (t - get_global_time()) / 60 ))
+			--	return 
+			--end
 			say(string.format(gameforge.ring_warp._030_say, max_use -n))
 			local sub_set = 0
 			
