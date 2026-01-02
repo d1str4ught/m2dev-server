@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Arachnids Whistle
 30329	Golden Cog Wheel
 30330	Maat Stone
+30331	Frost Key
+30332	North Star
+30333	Frostflower Key
 30500	Ruby Engraving Knife
 30501	Gold Clasp
 30502	Ruby Decoration
