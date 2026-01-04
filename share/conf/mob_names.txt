@@ -697,6 +697,7 @@ VNUM	LOCALE_NAME
 8055	Metin of Calamity
 8056	Metin of Malice
 8057	Purgatory Fire Metin
+8058	Metin of Cold
 8101	Metin of Sorrow
 8102	Metin of Combat
 8103	Metin of Battle
@@ -1273,6 +1274,9 @@ VNUM	LOCALE_NAME
 20393	Wounded Soldier
 20394	Fireland Guard
 20395	Ice Land Guardian
+20397	Ice Lion
+20398	Arctic Cube
+20399	North Dragon Pillar
 30000	????
 30001	????
 30101	Kud Statue
