@@ -1,10 +1,28 @@
 import sys
+import os
+import builtins
+
+# --------------------------------------------------
+# FORCE UTF-8 FOR ALL FILE WRITES
+# --------------------------------------------------
+_original_open = builtins.open
+
+def utf8_open(file, mode="r", buffering=-1, encoding=None,
+              errors=None, newline=None, closefd=True, opener=None):
+	if "w" in mode and encoding is None:
+		encoding = "utf-8"
+	return _original_open(
+		file, mode, buffering, encoding, errors, newline, closefd, opener
+	)
+
+builtins.open = utf8_open
+# --------------------------------------------------
+
 sys.dont_write_bytecode = True
 
 from pathlib import Path
 import shutil
 import subprocess
-import os
 import pre_qc
 
 
@@ -32,33 +50,29 @@ def main() -> None:
 		pre_qc_dir.mkdir(parents=True, exist_ok=True)
 
 	if os.name != "nt":
-		# 1. Check if the 'quest' group actually exists in FreeBSD
 		group_exists = False
 		try:
 			import grp
-			grp.getgrnam('quest')
+			grp.getgrnam("quest")
 			group_exists = True
 		except KeyError:
 			print("Warning: Group 'quest' not found. Skipping chgrp.")
 
 		if group_exists:
 			try:
-				subprocess.run(["chgrp", "quest", str(object_dir)], check = True)
+				subprocess.run(["chgrp", "quest", str(object_dir)], check=True)
 			except subprocess.CalledProcessError:
 				print("Failed to change group ownership.")
 
-		# 2. Set Permissions (This will work even if chgrp failed)
-		# Using -R inside subprocess is fine
-		subprocess.run(["chmod", "-R", "770", str(object_dir)], check = True)
+		subprocess.run(["chmod", "-R", "770", str(object_dir)], check=True)
 
 	qc_exe = script_dir / ("qc.exe" if os.name == "nt" else "qc")
 
 	locale_list_path = script_dir / "locale_list"
-
 	if not locale_list_path.exists():
 		raise FileNotFoundError(f"locale_list nicht gefunden: {locale_list_path}")
 
-	with locale_list_path.open("r", encoding="utf-8", errors="ignore") as file:
+	with _original_open(locale_list_path, "r", encoding="utf-8", errors="ignore") as file:
 		for raw_line in file:
 			line = raw_line.strip()
 			if not line or line.startswith("#"):
@@ -68,12 +82,9 @@ def main() -> None:
 
 			r = pre_qc.run(line)
 
-			if r:
-				filename = pre_qc_dir / line
-			else:
-				filename = script_dir / line
-
+			filename = (pre_qc_dir if r else script_dir) / line
 			subprocess.run([str(qc_exe), str(filename)], check=True)
+
 
 if __name__ == "__main__":
 	main()
