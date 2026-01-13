@@ -1,4 +1,4 @@
-    quest new_quest_lv7 begin
+quest new_quest_lv7 begin
     state start begin
     -- Function declaration
         function reward()
@@ -25,7 +25,7 @@
             end
         end
         
-        when 20008.chat.gameforge.new_quest_lv7._020_say_title begin
+        when 20008.chat.gameforge.new_quest_lv7._020_say_title with pc.get_level() >= 7 begin
             target.delete("__TARGET__")
             local empire = pc.get_empire()
             say_title(gameforge.new_quest_lv7._011_say_title)  -- A Daughters Wedding
@@ -63,6 +63,7 @@
             end
         end
     end
+
     ---- ask altefrau what to do --------------------------------------------------------------------------------
     state ask_oldwoman begin
         function get_old_woman_map() 
@@ -90,8 +91,8 @@
             new_quest_lv7_mob1 = 173 -- kill a 173#Hungriger Alpha-Wolf
             new_quest_lv7_mob2 = 174 -- kill a 174#Hungriger Blauwolf
             new_quest_lv7_mob3 = 175 -- kill a 175#Hungriger Alpha-Blauwolf
-            -- Einige deser Mobs werden auch in der Level 7 Aufgabe verwendet, was dazu führt, 
-            -- dass diese dort nicht mehr hoch zählen wenn man sie tötet.
+            -- Einige deser Mobs werden auch in der Level 7 Aufgabe verwendet, was dazu fÃ¼hrt, 
+            -- dass diese dort nicht mehr hoch zÃ¤hlen wenn man sie tÃ¶tet.
             new_quest_lv7_drop1 = 30169 -- Blutrote Blume
             new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
             new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
@@ -109,14 +110,15 @@
             end			
         end
         
-            -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No questbook button		
+        -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No questbook button		
         when button or info begin
             say_title(gameforge.new_quest_lv7._020_say_title) -- A Daughters Wedding
             say(gameforge.new_quest_lv7._041_say) -- goto old lady and ask her to help with the preperations
             say("")
-            say(string.format(gameforge.new_quest_lv7._042_say, get_map_name_by_number(1)))  -- where the old lady can be found
+            -- FIX: correct map name based on player's empire
+            say(string.format(gameforge.new_quest_lv7._042_say, get_map_name_by_number(new_quest_lv7.get_old_woman_map())))  -- where the old lady can be found
         end
-            --END EDIT
+        --END EDIT
         
         when 9006.chat.gameforge.new_quest_lv7._020_say_title begin
             target.delete("__TARGET2__")
@@ -125,7 +127,7 @@
         wait()
             say_title(gameforge.new_quest_lv7._012_say_title) -- yellow text headline
             say(gameforge.new_quest_lv7._052_say)
-            -- "vom Bräutigam an seine Liebste überreicht" versteht das unsere Zielgruppe?
+            -- "vom BrÃ¤utigam an seine Liebste Ã¼berreicht" versteht das unsere Zielgruppe?
         wait()	
             say(gameforge.new_quest_lv7._054_say)
             say_reward(string.format("%s x", new_quest_lv7_AmountNeed1))
@@ -172,7 +174,15 @@
             send_letter(gameforge.new_quest_lv7._020_say_title)	
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
-                
+            
+            -- FIX: if the player already has all flowers, go directly to return_oldwoman
+            if pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1
+               and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
+               and pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 then
+                q.done()
+                set_state(return_oldwoman)
+                return
+            end                
         end
         --END EDIT		
         
@@ -193,6 +203,11 @@
                 else
             notice_multiline(gameforge.new_quest_lv7._082_say, notice)
         end
+            end
+
+            -- FIX: also check completion when there is no drop or flowers came from trade
+            if (pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2 and pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1) then
+                return true
             end
         end
         -------------- Blutrote Blume ------------------------------------------------------
@@ -264,7 +279,8 @@
             say_title(gameforge.new_quest_lv7._020_say_title)
             say(gameforge.new_quest_lv7._091_say) -- success return to old lady
             say("")
-            say(string.format(gameforge.new_quest_lv7._042_say, get_map_name_by_number(1)))
+            -- FIX: correct map name (same logic as in ask_oldwoman)
+            say(string.format(gameforge.new_quest_lv7._042_say, get_map_name_by_number(new_quest_lv7.get_old_woman_map())))
         end
     --END EDIT
 
@@ -274,9 +290,10 @@
             say_title(gameforge.new_quest_lv7._012_say_title)
             if (pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1 or pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2 or pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3) then
                 say(gameforge.new_quest_lv7._110_say)
-                say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1)))
-                say_reward(string.format(gameforge.new_quest_lv7._086_say_reward, new_quest_lv7_AmountNeed2 - pc.count_item(new_quest_lv7_drop2)))
-                say_reward(string.format(gameforge.new_quest_lv7._087_say_reward, new_quest_lv7_AmountNeed3 - pc.count_item(new_quest_lv7_drop3)))
+                -- FIX: avoid negative numbers if player has more flowers than needed
+                say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, math.max(0, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1))))
+                say_reward(string.format(gameforge.new_quest_lv7._086_say_reward, math.max(0, new_quest_lv7_AmountNeed2 - pc.count_item(new_quest_lv7_drop2))))
+                say_reward(string.format(gameforge.new_quest_lv7._087_say_reward, math.max(0, new_quest_lv7_AmountNeed3 - pc.count_item(new_quest_lv7_drop3))))
                 say(gameforge.new_quest_lv7._081_say)
                 set_state(collect_flowers)
             else
@@ -466,7 +483,13 @@
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
             -- END EDIT
-            soup = false
+
+            -- FIX: keep soup flag persistent via quest flag
+            if pc.getqf("soup") == 1 then
+                soup = true
+            else
+                soup = false
+            end
         end
         
         when button or info begin
@@ -492,8 +515,11 @@
                 say_reward(string.format(gameforge.new_quest_lv7._154_say_reward,reward_exp))
                 say_reward(string.format(gameforge.new_quest_lv7._155_say_reward,reward))
                 
-                pc.give_exp2(new_quest_lv7.reward_exp())
-                pc.change_money(new_quest_lv7.reward())
+                -- FIX: use the same values for the actual reward
+                pc.give_exp2(reward_exp)
+                pc.change_money(reward)
+
+                pc.setqf("soup", 0) -- reset flavour flag after success
 
                 local reward_item="0"
                 if pc.job==0 then
@@ -588,6 +614,7 @@
                 say(gameforge.new_quest_lv7._160_say)
                 say(gameforge.new_quest_lv7._165_say)
                 soup = true
+                pc.setqf("soup", 1) -- FIX: remember that player talked to the wrong Octavio
             end
         end
     end
