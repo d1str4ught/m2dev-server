@@ -188,7 +188,7 @@ quest new_quest_lv7 begin
         -- itemicon vnum of flower used for icon 
         function when_one_killed(neededAmount, dropProb, itemIcon)
             if pc.count_item(itemIcon) < neededAmount then
-        local drop=math.random(1,100)
+        local drop=number(1,100)
                 if drop <= dropProb then -- probability if s.th. drops
                     pc.give_item2(itemIcon) -- icon of item by vnum - Blutrote Blume
                     --  EDIT Arne 18Sept09 moved q.done    Reason: removed quest from book
