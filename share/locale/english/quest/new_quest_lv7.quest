@@ -529,7 +529,8 @@ quest new_quest_lv7 begin
                 pc.setqf("soup", 0) -- reset flavour flag after success
 
                 local reward_item="0"
-                if pc.job==0 then
+                local job = pc.get_job()
+                if job==0 then
                     local r=number(1,10)
                     if r==1 then
                         reward_item="00013"
@@ -552,7 +553,7 @@ quest new_quest_lv7 begin
                     elseif r==10 then
                         reward_item="03043"
                     end
-                elseif pc.job==1 then
+                elseif job==1 then
                     local r=number(1,10)
                     if r==1 then
                         reward_item="01003"
@@ -573,9 +574,9 @@ quest new_quest_lv7 begin
                     elseif r==9 then
                         reward_item="02033"
                     elseif r==10 then
-                        reward_item="2043"
+                        reward_item="02043"
                     end
-                elseif pc.job==2 then
+                elseif job==2 then
                     local r=number(1, 6)
                     if r==1 then
                         reward_item="00013"
@@ -590,7 +591,7 @@ quest new_quest_lv7 begin
                     elseif r==6 then
                         reward_item="00053"
                     end
-                elseif pc.job==3 then
+                elseif job==3 then
                     local r=number(1, 8)
                     if r==1 then
                         reward_item="05003"
