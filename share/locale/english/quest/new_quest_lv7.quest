@@ -45,6 +45,7 @@ quest new_quest_lv7 begin
             say(gameforge.new_quest_lv7._031_say) -- Go to the Old Lady and ask her to help with the preperations 
             local doquest = select(gameforge.subquest_06._40_select, gameforge.subquest_12._50_select, gameforge.new_quest_lv75._290_2_select)
             if doquest == 1 then
+                pc.setqf("soup", 0)  -- hard reset flavour flag at quest start
                 set_state(ask_oldwoman) -- Quest approved
             elseif doquest == 3 then -- abort permantenly
                 say(gameforge.subquest_06._60_say)
