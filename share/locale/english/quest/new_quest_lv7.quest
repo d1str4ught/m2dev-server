@@ -147,10 +147,6 @@ quest new_quest_lv7 begin
             say_item_vnum(new_quest_lv7_drop3) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say )
             say(mob_name(new_quest_lv7_mob3))
-            --set flags:
-            pc.setqf("collect_count_1",0) --Current number of items
-            pc.setqf("collect_count_2",0) --Current number of items
-            pc.setqf("collect_count_3",0) --Current number of items
         wait()
             say_title(gameforge.new_quest_lv7._012_say_title)
             say(gameforge.new_quest_lv7._060_say)
