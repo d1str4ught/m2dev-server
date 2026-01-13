@@ -381,9 +381,19 @@ quest new_quest_lv7 begin
             send_letter(gameforge.new_quest_lv7._020_say_title)
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
+
+            -- FIX: recompute destination map index to ensure correct map for the sister
+            new_quest_lv7_DestMapIndex = 99
+            if pc.get_empire() == 1 then -- = Shinsoo
+                new_quest_lv7_DestMapIndex = 3  -- = Yayang
+            elseif pc.get_empire() == 2 then -- = Chunjo
+                new_quest_lv7_DestMapIndex = 23 -- = Bokjung
+            elseif pc.get_empire() == 3 then -- = Jinno
+                new_quest_lv7_DestMapIndex = 43 -- = Bakra
+            end
         end
         
-        when 9006.chat.gameforge.new_quest_lv7._020_say_title begin
+        when 9006.chat.gameforge.new_quest_lv7._020_say_title with pc.get_map_index() == new_quest_lv7_DestMapIndex begin
             if pc.count_item(30172) >= 1 then -- has flowers in inventory
                 target.delete("__TARGET3__")
                 say_title(gameforge.new_quest_lv7._020_say_title) -- yellow
