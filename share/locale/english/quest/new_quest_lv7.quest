@@ -1,6 +1,6 @@
 quest new_quest_lv7 begin
     state start begin
-    -- Function declaration
+        -- Function declaration
         function reward()
             local div = number(1,5)
             local reward = 5000
@@ -8,6 +8,7 @@ quest new_quest_lv7 begin
             reward = math.floor(reward/div)
             return reward
         end
+
         function reward_exp()
             local div = number(1,4)
             local reward_exp = 4000
@@ -16,29 +17,30 @@ quest new_quest_lv7 begin
             return reward_exp
         end
         -- end function declaration
+
         -- When level 7 target Octavio for new Quest-------------------------------------------------------------
         when login or levelup with pc.get_level() >= 7 begin
-            local v=find_npc_by_vnum(20008)
-            if 0==v then
+            local v = find_npc_by_vnum(20008)
+            if 0 == v then
             else
                 target.vid("__TARGET__", v, gameforge.new_quest_lv7._010_target)
             end
         end
-        
+
         when 20008.chat.gameforge.new_quest_lv7._020_say_title with pc.get_level() >= 7 begin
             target.delete("__TARGET__")
             local empire = pc.get_empire()
             say_title(gameforge.new_quest_lv7._011_say_title)  -- A Daughters Wedding
             say(gameforge.new_quest_lv7._021_say) -- Octavio has a daughter and she is in love with a guy for a village
-                if empire == 1 then -- = Shinsoo
-                    say(gameforge.new_quest_lv7._022_say) -- The guy lives in a village in the Jayang area
-                end
-                if empire == 2 then -- = Chunjo
-                    say(gameforge.new_quest_lv7._023_say) -- The guy lives in a village in the Bokjung area
-                end
-                if empire == 3 then -- = Jinno
-                    say(gameforge.new_quest_lv7._024_say) -- The guy lives in a village in the Bakra area
-                end
+            if empire == 1 then -- = Shinsoo
+                say(gameforge.new_quest_lv7._022_say) -- The guy lives in a village in the Jayang area
+            end
+            if empire == 2 then -- = Chunjo
+                say(gameforge.new_quest_lv7._023_say) -- The guy lives in a village in the Bokjung area
+            end
+            if empire == 3 then -- = Jinno
+                say(gameforge.new_quest_lv7._024_say) -- The guy lives in a village in the Bakra area
+            end
             wait() -- next button 
             say_title(gameforge.new_quest_lv7._011_say_title) -- A Daughters Wedding
             say(gameforge.new_quest_lv7._030_say) -- Octavio heared that she is going to marry him there
@@ -69,7 +71,7 @@ quest new_quest_lv7 begin
     state ask_oldwoman begin
         function get_old_woman_map() 
             local empire = pc.get_empire()
-            if empire == 1  then 
+            if empire == 1 then 
                 return 1 
             elseif empire == 2 then 
                 return 21
@@ -77,6 +79,7 @@ quest new_quest_lv7 begin
                 return 41
             end
         end
+
         function is_my_vil()
             if pc.get_map_index() == new_quest_lv7.get_old_woman_map() then
                 return true
@@ -97,14 +100,16 @@ quest new_quest_lv7 begin
             new_quest_lv7_drop1 = 30169 -- Blutrote Blume
             new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
             new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
+
             -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No quest letter, no questbook entry
             send_letter(gameforge.new_quest_lv7._020_say_title)  -- A Daughters Wedding
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title) -- A Daughters Wedding
             -- END EDIT
+
             if new_quest_lv7.is_my_vil() then
-                local v=find_npc_by_vnum(9006) -- Old Lady
-                if 0==v then
+                local v = find_npc_by_vnum(9006) -- Old Lady
+                if 0 == v then
                 else
                     target.vid("__TARGET2__", v, gameforge.new_quest_lv7._040_target ) -- Old Lady
                 end
@@ -125,29 +130,29 @@ quest new_quest_lv7 begin
             target.delete("__TARGET2__")
             say_title(gameforge.new_quest_lv7._012_say_title) -- yellow text headline
             say(gameforge.new_quest_lv7._051_say)
-        wait()
+            wait()
             say_title(gameforge.new_quest_lv7._012_say_title) -- yellow text headline
             say(gameforge.new_quest_lv7._052_say)
             -- "vom Bräutigam an seine Liebste überreicht" versteht das unsere Zielgruppe?
-        wait()	
+            wait()	
             say(gameforge.new_quest_lv7._054_say)
             say_reward(string.format("%s x", new_quest_lv7_AmountNeed1))
             say_item_vnum(new_quest_lv7_drop1) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say)
             say(mob_name(new_quest_lv7_mob1))
-        wait()
+            wait()
             say(gameforge.new_quest_lv7._056_say)
             say_reward(string.format("%s x", new_quest_lv7_AmountNeed2))
             say_item_vnum(new_quest_lv7_drop2) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say)
             say(mob_name(new_quest_lv7_mob2))
-        wait()
+            wait()
             say(gameforge.new_quest_lv7._056_say)
             say_reward(string.format("%s x", new_quest_lv7_AmountNeed3))
             say_item_vnum(new_quest_lv7_drop3) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say )
             say(mob_name(new_quest_lv7_mob3))
-        wait()
+            wait()
             say_title(gameforge.new_quest_lv7._012_say_title)
             say(gameforge.new_quest_lv7._060_say)
             -- Wo ist die Schwester?
@@ -155,6 +160,7 @@ quest new_quest_lv7 begin
             set_state(collect_flowers)
         end
     end
+
     ----- collect flowers -------------------------------------------------------------------------------------------------
     state collect_flowers begin
         -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No letter, questbook entry, button						
@@ -174,8 +180,8 @@ quest new_quest_lv7 begin
             
             -- FIX: if the player already has all flowers, go directly to return_oldwoman
             if pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1
-               and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
-               and pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 then
+                and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
+                and pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 then
                 q.done()
                 set_state(return_oldwoman)
                 return
@@ -188,25 +194,30 @@ quest new_quest_lv7 begin
         -- itemicon vnum of flower used for icon 
         function when_one_killed(neededAmount, dropProb, itemIcon)
             if pc.count_item(itemIcon) < neededAmount then
-        local drop=number(1,100)
+                local drop = number(1,100)
                 if drop <= dropProb then -- probability if s.th. drops
                     pc.give_item2(itemIcon) -- icon of item by vnum - Blutrote Blume
                     --  EDIT Arne 18Sept09 moved q.done    Reason: removed quest from book
                     -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No arrow on old lady for flower return	
                     --notice_multiline(gameforge.new_quest_lv7._088_notice, notice)
-                    if (pc.count_item(new_quest_lv7_drop3) == new_quest_lv7_AmountNeed3 and pc.count_item(new_quest_lv7_drop2) == new_quest_lv7_AmountNeed2 and pc.count_item(new_quest_lv7_drop1) == new_quest_lv7_AmountNeed1) then
-            return true
-            end
+                    if pc.count_item(new_quest_lv7_drop3) == new_quest_lv7_AmountNeed3
+                        and pc.count_item(new_quest_lv7_drop2) == new_quest_lv7_AmountNeed2
+                        and pc.count_item(new_quest_lv7_drop1) == new_quest_lv7_AmountNeed1 then
+                        return true
+                    end
                 else
-            --notice_multiline(gameforge.new_quest_lv7._082_say, notice)
-        end
+                    --notice_multiline(gameforge.new_quest_lv7._082_say, notice)
+                end
             end
 
             -- FIX: also check completion when there is no drop or flowers came from trade
-            if (pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2 and pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1) then
+            if pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3
+                and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
+                and pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1 then
                 return true
             end
         end
+
         -------------- Blutrote Blume ------------------------------------------------------
         -- kill a 173#Hungriger Alpha-Wolf
         when 173.kill begin
@@ -215,14 +226,16 @@ quest new_quest_lv7 begin
                 set_state(return_oldwoman)
             end
         end
+
         -------------- Orangefarbene Blume ------------------------------------------------------
         -- kill a 174#Hungriger Blauwolf
         when 174.kill begin
             if new_quest_lv7.when_one_killed(new_quest_lv7_AmountNeed2, new_quest_lv7_dropProb2, new_quest_lv7_drop2) then 
                 q.done()
                 set_state(return_oldwoman)
-                        end
+            end
         end
+
         -------------- Duftende gelbe Blume ------------------------------------------------------
         -- kill a 175#Hungriger Alpha-Blauwolf
         when 175.kill begin		
@@ -238,23 +251,19 @@ quest new_quest_lv7 begin
             say_title(gameforge.new_quest_lv7._020_say_title)
             say(gameforge.new_quest_lv7._092_say) -- collect flowers for the Bouquet
             if pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_1_say_reward, new_quest_lv7_AmountNeed1 - 
-    pc.count_item(new_quest_lv7_drop1))) -- number of red flowers missing
+                say_reward(string.format(gameforge.new_quest_lv7._085_1_say_reward, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1))) -- number of red flowers missing
             end
             if pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_2_say_reward, new_quest_lv7_AmountNeed2 - 
-    pc.count_item(new_quest_lv7_drop2))) -- number of orange flowers missing
+                say_reward(string.format(gameforge.new_quest_lv7._085_2_say_reward, new_quest_lv7_AmountNeed2 - pc.count_item(new_quest_lv7_drop2))) -- number of orange flowers missing
             end
             if pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_3_say_reward, new_quest_lv7_AmountNeed3 - 
-    pc.count_item(new_quest_lv7_drop3))) -- number of yellow flowers missing
+                say_reward(string.format(gameforge.new_quest_lv7._085_3_say_reward, new_quest_lv7_AmountNeed3 - pc.count_item(new_quest_lv7_drop3))) -- number of yellow flowers missing
             end
         end
     end
 
 
     state return_oldwoman begin -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, state needed to set up quest		
-
         when enter or login begin
             new_quest_lv7_AmountNeed1 = 1
             new_quest_lv7_AmountNeed2 = 1
@@ -262,13 +271,13 @@ quest new_quest_lv7 begin
             new_quest_lv7_drop1 = 30169 -- Blutrote Blume
             new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
             new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
-            local v=find_npc_by_vnum(9006)
+            local v = find_npc_by_vnum(9006)
             send_letter(gameforge.new_quest_lv7._020_say_title)
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
-            if 0==v then
-                else
-                    target.vid("__TARGET6__", v, gameforge.new_quest_lv7._040_target)
+            if 0 == v then
+            else
+                target.vid("__TARGET6__", v, gameforge.new_quest_lv7._040_target)
             end
         end
         
@@ -279,13 +288,15 @@ quest new_quest_lv7 begin
             -- FIX: correct map name (same logic as in ask_oldwoman)
             say(string.format(gameforge.new_quest_lv7._042_say, get_map_name_by_number(new_quest_lv7.get_old_woman_map())))
         end
-    --END EDIT
+        --END EDIT
 
         -------------- try to give old woman the flowers ---------------------
         when 9006.chat.gameforge.new_quest_lv7._020_say_title begin
             target.delete("__TARGET6__")
             say_title(gameforge.new_quest_lv7._012_say_title)
-            if (pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1 or pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2 or pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3) then
+            if pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1
+                or pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2
+                or pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3 then
                 say(gameforge.new_quest_lv7._110_say)
                 -- FIX: avoid negative numbers if player has more flowers than needed
                 say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, math.max(0, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1))))
@@ -316,6 +327,7 @@ quest new_quest_lv7 begin
             end
         end
     end
+
     --- go to twin sister of old woman in other kingdom---------------------------------------------------------------------------------------------------
     state find_empire begin
         when login or enter begin
@@ -324,34 +336,36 @@ quest new_quest_lv7 begin
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
             -- END EDIT
+
             new_quest_lv7_DestMapIndex = 99
             if pc.get_empire() == 1 then -- = Shinsoo
                 new_quest_lv7_DestMapIndex = 3 -- = Yayang
-                local v=find_npc_by_vnum(10001)
-                if 0==v then
+                local v = find_npc_by_vnum(10001)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._190_select)
                 end
             elseif pc.get_empire() == 2 then -- = Chunjo
                 new_quest_lv7_DestMapIndex = 23 -- = Bokjung
-                local v=find_npc_by_vnum(10003)
-                if 0==v then
+                local v = find_npc_by_vnum(10003)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._210_select)
                 end
             elseif pc.get_empire() == 3 then -- = Jinno
                 new_quest_lv7_DestMapIndex = 43 -- = Bakra
-                local v=find_npc_by_vnum(10005)
-                if 0==v then
+                local v = find_npc_by_vnum(10005)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._230_select)
                 end
             end
+
             if pc.get_map_index() == new_quest_lv7_DestMapIndex  then
                 target.delete("__TARGET7__")
                 --notice_multiline(gameforge.new_quest_lv7._125_notice, notice)
-                local v=find_npc_by_vnum(9006)
-                if 0==v then
+                local v = find_npc_by_vnum(9006)
+                if 0 == v then
                 else
                     target.vid("__TARGET3__", v, gameforge.subquest_48._230_targetVid)
                 end
@@ -360,7 +374,6 @@ quest new_quest_lv7 begin
         end
         
         when button or info begin
-            
             say_title(gameforge.new_quest_lv7._020_say_title)
             say(gameforge.new_quest_lv7._131_say)
             if new_quest_lv7_DestMapIndex == 3 then 
@@ -372,6 +385,7 @@ quest new_quest_lv7 begin
             end
         end
     end
+
     ------  find the sister of the old woman in a different empire ------------------------------------------------------------------------------------------------------
     state goto_oldwomans_sister begin
         when enter or login begin
@@ -396,11 +410,11 @@ quest new_quest_lv7 begin
                 say_title(gameforge.new_quest_lv7._020_say_title) -- yellow
                 pc.remove_item(30172, pc.count_item(30172))
                 say_title(pc.get_name())
-                        say(gameforge.new_quest_lv7._140_say)
-                        say_title(gameforge.new_quest_lv7._012_say_title)
+                say(gameforge.new_quest_lv7._140_say)
+                say_title(gameforge.new_quest_lv7._012_say_title)
                 say(gameforge.new_quest_lv7._141_say)
                 wait()
-                        say_title(gameforge.new_quest_lv7._012_say_title)
+                say_title(gameforge.new_quest_lv7._012_say_title)
                 say(gameforge.new_quest_lv7._142_say)
                 q.done()
                 set_state(find_way_home)
@@ -413,11 +427,13 @@ quest new_quest_lv7 begin
                 set_state(ask_oldwoman)
             end
         end
+
         when button or info begin
             q.set_title(gameforge.new_quest_lv7._020_say_title)
             say(gameforge.new_quest_lv7._145_say)
         end
     end
+
     ------ return to first village ------------------------------------------------------------------------------------------------------
     state find_way_home begin
         when login or enter begin
@@ -429,22 +445,22 @@ quest new_quest_lv7 begin
             new_quest_lv7_HomeMapIndex = 99
             if pc.get_empire() == 1 then -- = Shinsoo
                 new_quest_lv7_HomeMapIndex = 1 -- = Youngan
-                local v=find_npc_by_vnum(10002)
-                if 0==v then
+                local v = find_npc_by_vnum(10002)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._180_select)
                 end
             elseif pc.get_empire() == 2 then -- = Chunjo
                 new_quest_lv7_HomeMapIndex = 21 -- = Joan
-                local v=find_npc_by_vnum(10004)
-                if 0==v then
+                local v = find_npc_by_vnum(10004)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._200_select)
                 end
             elseif pc.get_empire() == 3 then -- = Jinno
                 new_quest_lv7_HomeMapIndex = 41 -- = Pyungmoo
-                local v=find_npc_by_vnum(10006)
-                if 0==v then
+                local v = find_npc_by_vnum(10006)
+                if 0 == v then
                 else
                     target.vid("__TARGET7__", v, gameforge.map_warp._220_select)
                 end
@@ -452,8 +468,8 @@ quest new_quest_lv7 begin
             if pc.get_map_index() == new_quest_lv7_HomeMapIndex  then
                 target.delete("__TARGET7__")
                 --notice_multiline(gameforge.new_quest_lv7._129_say, notice)
-                local v=find_npc_by_vnum(20008)
-                if 0==v then
+                local v = find_npc_by_vnum(20008)
+                if 0 == v then
                 else
                     target.vid("__TARGET5__", v, gameforge.subquest_48._230_targetVid)
                 end
@@ -474,14 +490,14 @@ quest new_quest_lv7 begin
                 say(gameforge.new_quest_lv7._137_say)
             end			
         end		
-        
     end
+
     ------  invite ocatvio to the wedding ------------------------------------------------------------------------------------------------------
     state back_to_octavio begin
         when enter or login begin
             -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: no quest, no letter
-            local v=find_npc_by_vnum(20008)
-            if 0==v then
+            local v = find_npc_by_vnum(20008)
+            if 0 == v then
             else
                 target.vid("__TARGET5__", v, gameforge.new_quest_lv7._010_target)
             end
@@ -504,7 +520,6 @@ quest new_quest_lv7 begin
             say(gameforge.new_quest_lv7._129_say)
         end
         
-        
         when 20008.chat.gameforge.new_quest_lv7._020_say_title begin
             target.delete("__TARGET5__")
             say_title(gameforge.new_quest_lv7._020_say_title)
@@ -516,11 +531,11 @@ quest new_quest_lv7 begin
                 say(gameforge.new_quest_lv7._152_say)
 
                 -- random reward
-                local reward=new_quest_lv7.reward()
-                local reward_exp=new_quest_lv7.reward_exp()
+                local reward = new_quest_lv7.reward()
+                local reward_exp = new_quest_lv7.reward_exp()
 
-                say_reward(string.format(gameforge.new_quest_lv7._154_say_reward,reward_exp))
-                say_reward(string.format(gameforge.new_quest_lv7._155_say_reward,reward))
+                say_reward(string.format(gameforge.new_quest_lv7._154_say_reward, reward_exp))
+                say_reward(string.format(gameforge.new_quest_lv7._155_say_reward, reward))
                 
                 -- FIX: use the same values for the actual reward
                 pc.give_exp2(reward_exp)
@@ -528,89 +543,90 @@ quest new_quest_lv7 begin
 
                 pc.setqf("soup", 0) -- reset flavour flag after success
 
-                local reward_item="0"
+                local reward_item = "0"
                 local job = pc.get_job()
-                if job==0 then
-                    local r=number(1,10)
-                    if r==1 then
-                        reward_item="00013"
-                    elseif r==2 then
-                        reward_item="00023"
-                    elseif r==3 then
-                         reward_item="00033"
-                    elseif r==4 then
-                        reward_item="00043"
-                    elseif r==5 then
-                        reward_item="00053"
-                    elseif r==6 then
-                        reward_item="03003"
-                    elseif r==7 then
-                        reward_item="03013"
-                    elseif r==8 then
-                        reward_item="03023"
-                    elseif r==9 then
-                        reward_item="03033"
-                    elseif r==10 then
-                        reward_item="03043"
+                if job == 0 then
+                    local r = number(1,10)
+                    if r == 1 then
+                        reward_item = "00013"
+                    elseif r == 2 then
+                        reward_item = "00023"
+                    elseif r == 3 then
+                        reward_item = "00033"
+                    elseif r == 4 then
+                        reward_item = "00043"
+                    elseif r == 5 then
+                        reward_item = "00053"
+                    elseif r == 6 then
+                        reward_item = "03003"
+                    elseif r == 7 then
+                        reward_item = "03013"
+                    elseif r == 8 then
+                        reward_item = "03023"
+                    elseif r == 9 then
+                        reward_item = "03033"
+                    elseif r == 10 then
+                        reward_item = "03043"
                     end
-                elseif job==1 then
-                    local r=number(1,10)
-                    if r==1 then
-                        reward_item="01003"
-                    elseif r==2 then
-                        reward_item="04003"
-                    elseif r==3 then
-                        reward_item="01013"
-                    elseif r==4 then
-                        reward_item="04013"
-                    elseif r==5 then
-                        reward_item="01023"
-                    elseif r==6 then
-                        reward_item="02003"
-                    elseif r==7 then
-                        reward_item="02013"
-                    elseif r==8 then
-                        reward_item="02023"
-                    elseif r==9 then
-                        reward_item="02033"
-                    elseif r==10 then
-                        reward_item="02043"
+                elseif job == 1 then
+                    local r = number(1,10)
+                    if r == 1 then
+                        reward_item = "01003"
+                    elseif r == 2 then
+                        reward_item = "04003"
+                    elseif r == 3 then
+                        reward_item = "01013"
+                    elseif r == 4 then
+                        reward_item = "04013"
+                    elseif r == 5 then
+                        reward_item = "01023"
+                    elseif r == 6 then
+                        reward_item = "02003"
+                    elseif r == 7 then
+                        reward_item = "02013"
+                    elseif r == 8 then
+                        reward_item = "02023"
+                    elseif r == 9 then
+                        reward_item = "02033"
+                    elseif r == 10 then
+                        reward_item = "02043"
                     end
-                elseif job==2 then
-                    local r=number(1, 6)
-                    if r==1 then
-                        reward_item="00013"
-                    elseif r==2 then
-                        reward_item="00023"
-                    elseif r==3 then
-                        reward_item="00033"
-                    elseif r==4 then
-                        reward_item="00043"
-                    elseif r==5 then
-                        reward_item="00053"
-                    elseif r==6 then
-                        reward_item="00053"
+                elseif job == 2 then
+                    local r = number(1, 6)
+                    if r == 1 then
+                        reward_item = "00013"
+                    elseif r == 2 then
+                        reward_item = "00023"
+                    elseif r == 3 then
+                        reward_item = "00033"
+                    elseif r == 4 then
+                        reward_item = "00043"
+                    elseif r == 5 then
+                        reward_item = "00053"
+                    elseif r == 6 then
+                        reward_item = "00053"
                     end
-                elseif job==3 then
-                    local r=number(1, 8)
-                    if r==1 then
-                        reward_item="05003"
-                    elseif r==2 then
-                        reward_item="05013"
-                    elseif r==3 then
-                        reward_item="05023"
-                    elseif r==4 then
-                        reward_item="07003"
-                    elseif r==5 then
-                        reward_item="07013"
-                    elseif r==6 then
-                        reward_item="07023"
-                    elseif r==7 then
-                        reward_item="07033"
-                    elseif r==8 then
-                        reward_item="07043"
+                elseif job == 3 then
+                    local r = number(1, 8)
+                    if r == 1 then
+                        reward_item = "05003"
+                    elseif r == 2 then
+                        reward_item = "05013"
+                    elseif r == 3 then
+                        reward_item = "05023"
+                    elseif r == 4 then
+                        reward_item = "07003"
+                    elseif r == 5 then
+                        reward_item = "07013"
+                    elseif r == 6 then
+                        reward_item = "07023"
+                    elseif r == 7 then
+                        reward_item = "07033"
+                    elseif r == 8 then
+                        reward_item = "07043"
                     end
                 end
+
                 if reward_item != "0" then
                     wait()
                     say_reward(gameforge.new_quest_lv7._153_say_reward)
@@ -633,6 +649,7 @@ quest new_quest_lv7 begin
             return
         end
     end
+
     ------  complete ------------------------------------------------------------------------------------------------------
     state __COMPLETE__ begin
         when button or info begin
