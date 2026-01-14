@@ -1,3 +1,20 @@
+-- Flower items and bouquet
+define ITEM_FLOWER_RED     30169  -- Red Flower
+define ITEM_FLOWER_ORANGE  30170  -- Orange Flower
+define ITEM_FLOWER_YELLOW  30171  -- Yellow Flower
+define ITEM_BOUQUET        30172  -- Bouquet
+
+-- Required amounts
+define NEED_RED            1
+define NEED_ORANGE         1
+define NEED_YELLOW         1
+
+-- Drop chances (percent)
+define DROP_RED            45
+define DROP_ORANGE         30
+define DROP_YELLOW         15
+
+
 quest new_quest_lv7 begin
     state start begin
         -- Function declaration
@@ -89,17 +106,11 @@ quest new_quest_lv7 begin
         end
                 
         when enter or login begin
-            new_quest_lv7_AmountNeed1 = 1
-            new_quest_lv7_AmountNeed2 = 1
-            new_quest_lv7_AmountNeed3 = 1
             new_quest_lv7_mob1 = 173 -- kill a 173#Hungriger Alpha-Wolf
             new_quest_lv7_mob2 = 174 -- kill a 174#Hungriger Blauwolf
             new_quest_lv7_mob3 = 175 -- kill a 175#Hungriger Alpha-Blauwolf
             -- Einige deser Mobs werden auch in der Level 7 Aufgabe verwendet, was dazu führt, 
             -- dass diese dort nicht mehr hoch zählen wenn man sie tötet.
-            new_quest_lv7_drop1 = 30169 -- Blutrote Blume
-            new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
-            new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
 
             -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No quest letter, no questbook entry
             send_letter(gameforge.new_quest_lv7._020_say_title)  -- A Daughters Wedding
@@ -136,20 +147,20 @@ quest new_quest_lv7 begin
             -- "vom Bräutigam an seine Liebste überreicht" versteht das unsere Zielgruppe?
             wait()	
             say(gameforge.new_quest_lv7._054_say)
-            say_reward(string.format("%s x", new_quest_lv7_AmountNeed1))
-            say_item_vnum(new_quest_lv7_drop1) -- icon of item
+            say_reward(string.format("%s x", NEED_RED))
+            say_item_vnum(ITEM_FLOWER_RED) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say)
             say(mob_name(new_quest_lv7_mob1))
             wait()
             say(gameforge.new_quest_lv7._056_say)
-            say_reward(string.format("%s x", new_quest_lv7_AmountNeed2))
-            say_item_vnum(new_quest_lv7_drop2) -- icon of item
+            say_reward(string.format("%s x", NEED_ORANGE))
+            say_item_vnum(ITEM_FLOWER_ORANGE) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say)
             say(mob_name(new_quest_lv7_mob2))
             wait()
             say(gameforge.new_quest_lv7._056_say)
-            say_reward(string.format("%s x", new_quest_lv7_AmountNeed3))
-            say_item_vnum(new_quest_lv7_drop3) -- icon of item
+            say_reward(string.format("%s x", NEED_YELLOW))
+            say_item_vnum(ITEM_FLOWER_YELLOW) -- icon of item
             say_reward(gameforge.new_quest_lv7._055_say )
             say(mob_name(new_quest_lv7_mob3))
             wait()
@@ -165,23 +176,14 @@ quest new_quest_lv7 begin
     state collect_flowers begin
         -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No letter, questbook entry, button						
         when enter or login begin	
-            new_quest_lv7_AmountNeed1 = 1
-            new_quest_lv7_AmountNeed2 = 1
-            new_quest_lv7_AmountNeed3 = 1
-            new_quest_lv7_dropProb1 = 45
-            new_quest_lv7_dropProb2 = 30
-            new_quest_lv7_dropProb3 = 15
-            new_quest_lv7_drop1 = 30169 -- Blutrote Blume
-            new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
-            new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
             send_letter(gameforge.new_quest_lv7._020_say_title)	
             q.start()
             q.set_title(gameforge.new_quest_lv7._020_say_title)
             
             -- FIX: if the player already has all flowers, go directly to return_oldwoman
-            if pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1
-                and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
-                and pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3 then
+            if pc.count_item(ITEM_FLOWER_RED) >= NEED_RED
+                and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE
+                and pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW then
                 q.done()
                 set_state(return_oldwoman)
                 return
@@ -200,9 +202,9 @@ quest new_quest_lv7 begin
                     --  EDIT Arne 18Sept09 moved q.done    Reason: removed quest from book
                     -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No arrow on old lady for flower return	
                     --notice_multiline(gameforge.new_quest_lv7._088_notice, notice)
-                    if pc.count_item(new_quest_lv7_drop3) == new_quest_lv7_AmountNeed3
-                        and pc.count_item(new_quest_lv7_drop2) == new_quest_lv7_AmountNeed2
-                        and pc.count_item(new_quest_lv7_drop1) == new_quest_lv7_AmountNeed1 then
+                    if pc.count_item(ITEM_FLOWER_YELLOW) == NEED_YELLOW
+                        and pc.count_item(ITEM_FLOWER_ORANGE) == NEED_ORANGE
+                        and pc.count_item(ITEM_FLOWER_RED) == NEED_RED then
                         return true
                     end
                 else
@@ -211,9 +213,9 @@ quest new_quest_lv7 begin
             end
 
             -- FIX: also check completion when there is no drop or flowers came from trade
-            if pc.count_item(new_quest_lv7_drop3) >= new_quest_lv7_AmountNeed3
-                and pc.count_item(new_quest_lv7_drop2) >= new_quest_lv7_AmountNeed2
-                and pc.count_item(new_quest_lv7_drop1) >= new_quest_lv7_AmountNeed1 then
+            if pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW
+                and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE
+                and pc.count_item(ITEM_FLOWER_RED) >= NEED_RED then
                 return true
             end
         end
@@ -221,7 +223,7 @@ quest new_quest_lv7 begin
         -------------- Blutrote Blume ------------------------------------------------------
         -- kill a 173#Hungriger Alpha-Wolf
         when 173.kill begin
-            if new_quest_lv7.when_one_killed(new_quest_lv7_AmountNeed1, new_quest_lv7_dropProb1, new_quest_lv7_drop1) then
+            if new_quest_lv7.when_one_killed(NEED_RED, DROP_RED, ITEM_FLOWER_RED) then
                 q.done()
                 set_state(return_oldwoman)
             end
@@ -230,7 +232,7 @@ quest new_quest_lv7 begin
         -------------- Orangefarbene Blume ------------------------------------------------------
         -- kill a 174#Hungriger Blauwolf
         when 174.kill begin
-            if new_quest_lv7.when_one_killed(new_quest_lv7_AmountNeed2, new_quest_lv7_dropProb2, new_quest_lv7_drop2) then 
+            if new_quest_lv7.when_one_killed(NEED_ORANGE, DROP_ORANGE, ITEM_FLOWER_ORANGE) then 
                 q.done()
                 set_state(return_oldwoman)
             end
@@ -239,7 +241,7 @@ quest new_quest_lv7 begin
         -------------- Duftende gelbe Blume ------------------------------------------------------
         -- kill a 175#Hungriger Alpha-Blauwolf
         when 175.kill begin		
-            if new_quest_lv7.when_one_killed(new_quest_lv7_AmountNeed3, new_quest_lv7_dropProb3, new_quest_lv7_drop3) then
+            if new_quest_lv7.when_one_killed(NEED_YELLOW, DROP_YELLOW, ITEM_FLOWER_YELLOW) then
                 q.done()
                 set_state(return_oldwoman)
             end
@@ -250,14 +252,14 @@ quest new_quest_lv7 begin
         when button or info begin
             say_title(gameforge.new_quest_lv7._020_say_title)
             say(gameforge.new_quest_lv7._092_say) -- collect flowers for the Bouquet
-            if pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_1_say_reward, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1))) -- number of red flowers missing
+            if pc.count_item(ITEM_FLOWER_RED) < NEED_RED then
+                say_reward(string.format(gameforge.new_quest_lv7._085_1_say_reward, NEED_RED - pc.count_item(ITEM_FLOWER_RED))) -- number of red flowers missing
             end
-            if pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_2_say_reward, new_quest_lv7_AmountNeed2 - pc.count_item(new_quest_lv7_drop2))) -- number of orange flowers missing
+            if pc.count_item(ITEM_FLOWER_ORANGE) < NEED_ORANGE then
+                say_reward(string.format(gameforge.new_quest_lv7._085_2_say_reward, NEED_ORANGE - pc.count_item(ITEM_FLOWER_ORANGE))) -- number of orange flowers missing
             end
-            if pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3 then
-                say_reward(string.format(gameforge.new_quest_lv7._085_3_say_reward, new_quest_lv7_AmountNeed3 - pc.count_item(new_quest_lv7_drop3))) -- number of yellow flowers missing
+            if pc.count_item(ITEM_FLOWER_YELLOW) < NEED_YELLOW then
+                say_reward(string.format(gameforge.new_quest_lv7._085_3_say_reward, NEED_YELLOW - pc.count_item(ITEM_FLOWER_YELLOW))) -- number of yellow flowers missing
             end
         end
     end
@@ -265,12 +267,6 @@ quest new_quest_lv7 begin
 
     state return_oldwoman begin -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, state needed to set up quest		
         when enter or login begin
-            new_quest_lv7_AmountNeed1 = 1
-            new_quest_lv7_AmountNeed2 = 1
-            new_quest_lv7_AmountNeed3 = 1
-            new_quest_lv7_drop1 = 30169 -- Blutrote Blume
-            new_quest_lv7_drop2 = 30170 -- Orangefarbene Blume
-            new_quest_lv7_drop3 = 30171 --  Duftende gelbe Blume
             local v = find_npc_by_vnum(9006)
             send_letter(gameforge.new_quest_lv7._020_say_title)
             q.start()
@@ -294,21 +290,21 @@ quest new_quest_lv7 begin
         when 9006.chat.gameforge.new_quest_lv7._020_say_title begin
             target.delete("__TARGET6__")
             say_title(gameforge.new_quest_lv7._012_say_title)
-            if pc.count_item(new_quest_lv7_drop1) < new_quest_lv7_AmountNeed1
-                or pc.count_item(new_quest_lv7_drop2) < new_quest_lv7_AmountNeed2
-                or pc.count_item(new_quest_lv7_drop3) < new_quest_lv7_AmountNeed3 then
+            if pc.count_item(ITEM_FLOWER_RED) < NEED_RED
+                or pc.count_item(ITEM_FLOWER_ORANGE) < NEED_ORANGE
+                or pc.count_item(ITEM_FLOWER_YELLOW) < NEED_YELLOW then
                 say(gameforge.new_quest_lv7._110_say)
                 -- FIX: avoid negative numbers if player has more flowers than needed
-                say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, math.max(0, new_quest_lv7_AmountNeed1 - pc.count_item(new_quest_lv7_drop1))))
-                say_reward(string.format(gameforge.new_quest_lv7._086_say_reward, math.max(0, new_quest_lv7_AmountNeed2 - pc.count_item(new_quest_lv7_drop2))))
-                say_reward(string.format(gameforge.new_quest_lv7._087_say_reward, math.max(0, new_quest_lv7_AmountNeed3 - pc.count_item(new_quest_lv7_drop3))))
+                say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, math.max(0, NEED_RED - pc.count_item(ITEM_FLOWER_RED))))
+                say_reward(string.format(gameforge.new_quest_lv7._086_say_reward, math.max(0, NEED_ORANGE - pc.count_item(ITEM_FLOWER_ORANGE))))
+                say_reward(string.format(gameforge.new_quest_lv7._087_say_reward, math.max(0, NEED_YELLOW - pc.count_item(ITEM_FLOWER_YELLOW))))
                 say(gameforge.new_quest_lv7._081_say)
                 set_state(collect_flowers)
             else
-                pc.remove_item(30169, 1)
-                pc.remove_item(30170, 1)
-                pc.remove_item(30171, 1)
-                pc.give_item2(30172) -- flowers
+                pc.remove_item(ITEM_FLOWER_RED, NEED_RED)
+                pc.remove_item(ITEM_FLOWER_ORANGE, NEED_ORANGE)
+                pc.remove_item(ITEM_FLOWER_YELLOW, NEED_YELLOW)
+                pc.give_item2(ITEM_BOUQUET) -- flowers
                 -- game.drop_item(30169, 1)
                 say(gameforge.new_quest_lv7._115_say)
                 -- hier fehlt info wie man in das reich kommt
@@ -405,10 +401,10 @@ quest new_quest_lv7 begin
         end
         
         when 9006.chat.gameforge.new_quest_lv7._020_say_title with pc.get_map_index() == new_quest_lv7_DestMapIndex begin
-            if pc.count_item(30172) >= 1 then -- has flowers in inventory
+            if pc.count_item(ITEM_BOUQUET) >= 1 then -- has flowers in inventory
                 target.delete("__TARGET3__")
                 say_title(gameforge.new_quest_lv7._020_say_title) -- yellow
-                pc.remove_item(30172, pc.count_item(30172))
+                pc.remove_item(ITEM_BOUQUET, pc.count_item(ITEM_BOUQUET))
                 say_title(pc.get_name())
                 say(gameforge.new_quest_lv7._140_say)
                 say_title(gameforge.new_quest_lv7._012_say_title)
