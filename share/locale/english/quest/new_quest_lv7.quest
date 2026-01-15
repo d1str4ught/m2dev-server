@@ -181,9 +181,7 @@ quest new_quest_lv7 begin
             q.set_title(gameforge.new_quest_lv7._020_say_title)
             
             -- FIX: if the player already has all flowers, go directly to return_oldwoman
-            if pc.count_item(ITEM_FLOWER_RED) >= NEED_RED
-                and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE
-                and pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW then
+            if pc.count_item(ITEM_FLOWER_RED) >= NEED_RED and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE and pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW then
                 q.done()
                 set_state(return_oldwoman)
                 return
@@ -202,9 +200,7 @@ quest new_quest_lv7 begin
                     --  EDIT Arne 18Sept09 moved q.done    Reason: removed quest from book
                     -- BEGIN EDIT added by Arne 18Sept09, according to Mantis 0026063, REASON: No arrow on old lady for flower return	
                     --notice_multiline(gameforge.new_quest_lv7._088_notice, notice)
-                    if pc.count_item(ITEM_FLOWER_YELLOW) == NEED_YELLOW
-                        and pc.count_item(ITEM_FLOWER_ORANGE) == NEED_ORANGE
-                        and pc.count_item(ITEM_FLOWER_RED) == NEED_RED then
+                    if pc.count_item(ITEM_FLOWER_YELLOW) == NEED_YELLOW and pc.count_item(ITEM_FLOWER_ORANGE) == NEED_ORANGE and pc.count_item(ITEM_FLOWER_RED) == NEED_RED then
                         return true
                     end
                 else
@@ -213,9 +209,7 @@ quest new_quest_lv7 begin
             end
 
             -- FIX: also check completion when there is no drop or flowers came from trade
-            if pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW
-                and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE
-                and pc.count_item(ITEM_FLOWER_RED) >= NEED_RED then
+            if pc.count_item(ITEM_FLOWER_YELLOW) >= NEED_YELLOW and pc.count_item(ITEM_FLOWER_ORANGE) >= NEED_ORANGE and pc.count_item(ITEM_FLOWER_RED) >= NEED_RED then
                 return true
             end
         end
@@ -629,6 +623,7 @@ quest new_quest_lv7 begin
                     say_item_vnum(reward_item)
                     pc.give_item2(reward_item,1)
                 end
+                q.done()
                 set_state(__COMPLETE__)
             else
                 say(gameforge.new_quest_lv7._160_say)
