@@ -284,9 +284,7 @@ quest new_quest_lv7 begin
         when 9006.chat.gameforge.new_quest_lv7._020_say_title begin
             target.delete("__TARGET6__")
             say_title(gameforge.new_quest_lv7._012_say_title)
-            if pc.count_item(ITEM_FLOWER_RED) < NEED_RED
-                or pc.count_item(ITEM_FLOWER_ORANGE) < NEED_ORANGE
-                or pc.count_item(ITEM_FLOWER_YELLOW) < NEED_YELLOW then
+            if pc.count_item(ITEM_FLOWER_RED) < NEED_RED or pc.count_item(ITEM_FLOWER_ORANGE) < NEED_ORANGE or pc.count_item(ITEM_FLOWER_YELLOW) < NEED_YELLOW then
                 say(gameforge.new_quest_lv7._110_say)
                 -- FIX: avoid negative numbers if player has more flowers than needed
                 say_reward(string.format(gameforge.new_quest_lv7._085_say_reward, math.max(0, NEED_RED - pc.count_item(ITEM_FLOWER_RED))))
