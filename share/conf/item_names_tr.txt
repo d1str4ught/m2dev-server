@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Arachnida Flütü
 30329	Altın Dişli Çark
 30330	Maat Taşı
+30331	Buz Anahtarı
+30332	Kuzey Yıldızı
+30333	Buzçiçeği Anahtarı
 30500	Yakut Oyma Bıçağı
 30501	Altın Kenet
 30502	Yakut İşlemeli
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Cellatçık Sandığı(altın)
 53516	Kemik Sandık
 53517	Yeşim Kafesi
+54702	Razadör'ün sandığı
+54703	Nemere sandığı
 60001	Safra
 60002	Depo Bekçisinin Notu
 60003	Kahramanlık Sembolu

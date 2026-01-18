@@ -696,7 +696,8 @@ VNUM	LOCALE_NAME
 8054	Metin de Furia
 8055	Metin del Desastre
 8056	Metin de la Infamia
-8057	Purgatory Fire Metin
+8057	Metin de Fuego del Purgatorio
+8058	Metin de Frío
 8101	Metin de Dolor
 8102	Metin de Combate
 8103	Metin de Batalla
@@ -1268,11 +1269,14 @@ VNUM	LOCALE_NAME
 20388	Dragon Gate
 20389	NoNAme
 20390	Taramor Gravestone
-20391	Sun Herb
-20392	Dead Soldier
-20393	Wounded Soldier
-20394	Fireland Guard
-20395	Ice Land Guardian
+20391	Hierba del sol
+20392	Soldado muerto
+20393	Solda hérido
+20394	Guardián del fuego
+20395	Guardián Tierra de Hielo
+20397	León Helado
+20398	Cubos Árticos
+20399	Pilar Dragón del Norte
 30000	????
 30001	????
 30101	Estatua de Kud

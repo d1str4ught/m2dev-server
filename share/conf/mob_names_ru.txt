@@ -697,6 +697,7 @@ VNUM	LOCALE_NAME
 8055	Метин бедствия
 8056	Метин гнусти
 8057	Purgatory Fire Metin
+8058	Metin of Cold
 8101	Метин Печали
 8102	Метин Битвы
 8103	Метин Сражений
@@ -1273,6 +1274,9 @@ VNUM	LOCALE_NAME
 20393	Wounded Soldier
 20394	Fireland Guard
 20395	Ice Land Guardian
+20397	Ice Lion
+20398	Arctic Cube
+20399	North Dragon Pillar
 30000	????
 30001	????
 30101	Статуя Куд

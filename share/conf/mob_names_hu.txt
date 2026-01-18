@@ -697,6 +697,7 @@ VNUM	LOCALE_NAME
 8055	Balsors metinje
 8056	Rosszindulat metinje
 8057	Tisztítótűz metinje
+8058	Hideg metinje
 8101	Bánat Metinje
 8102	Harc Metinje
 8103	Csata Metinje
@@ -1273,6 +1274,9 @@ VNUM	LOCALE_NAME
 20393	Sebesült katona
 20394	Tűzföld-őr
 20395	Jégföld-őr
+20397	Fagyos oroszlán
+20398	Sarkvidéki kocka
+20399	Északi sárkányoszlop
 30000	????
 30001	????
 30101	Kud szobra

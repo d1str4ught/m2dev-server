@@ -1,6 +1,5 @@
 ScriptType               MotionData
 
-MotionFileName           "D:/Ymir Work/monster2/firegolem_magician/run.GR2"
-MotionDuration           1.000000
-Accumulation             0.00	15.84	0.00
-
+MotionFileName           "d:\ymir work\monster2\firegolem_magician\run.GR2"
+MotionDuration           1.0
+Accumulation             0.00   -310.21 0.00

@@ -2295,3 +2295,6 @@
 
 "[Friends] %s has already sent you a friend request.";
 "[Φίλοι] Ο %s σου έχει ήδη στείλει αίτημα φιλίας.";
+
+"You cannot ride your horse in Nemere's Watchtower.";
+"Δεν μπορείς να ιππεύσεις το άλογό σου στο Φυλάκιο του Nemere.";

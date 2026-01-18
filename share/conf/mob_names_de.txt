@@ -697,6 +697,7 @@ VNUM	LOCALE_NAME
 8055	Metin des Unheils
 8056	Metin der Niedertracht
 8057	Metin des Fegefeuers
+8058	Metin der Kälte
 8101	Metin des Kummers
 8102	Metin des Kampfs
 8103	Metin der Schlacht
@@ -1273,6 +1274,9 @@ VNUM	LOCALE_NAME
 20393	Verwundeter Soldat
 20394	Feuerland-Wächter
 20395	Eisland-Wächter
+20397	Eisigen Löwens
+20398	Würfel des Arktos
+20399	Säule des Norddrachen
 30000	????
 30001	????
 30101	Statue des Kud

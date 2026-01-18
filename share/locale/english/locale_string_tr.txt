@@ -2294,4 +2294,7 @@
 "[Arkadaş] Daha önce bir Arkadaşlık isteği Gönderdiniz %s.";
 
 "[Friends] %s has already sent you a friend request.";
-"[Arkadaş] %s Daha önce Bir arkadaşlık isteği Aldınız."; 
+"[Arkadaş] %s Daha önce Bir arkadaşlık isteği Aldınız.";
+
+"You cannot ride your horse in Nemere's Watchtower.";
+"You cannot ride your horse in Nemere's Watchtower.";

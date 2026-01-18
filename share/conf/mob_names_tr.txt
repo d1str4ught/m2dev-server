@@ -696,7 +696,8 @@ VNUM	LOCALE_NAME
 8054	Öfkenin Metini
 8055	Felaketin Metini
 8056	Namertlik Metini
-8057	Purgatory Fire Metin
+8057	Cehennem Ateşi Metini
+8058	Ayaz Metini
 8101	Üzüntü Metini
 8102	Dövüş Metini
 8103	Savaş Metini
@@ -1268,11 +1269,14 @@ VNUM	LOCALE_NAME
 20388	Dragon Gate
 20389	NoNAme
 20390	Taramor Gravestone
-20391	Sun Herb
-20392	Dead Soldier
-20393	Wounded Soldier
-20394	Fireland Guard
-20395	Ice Land Guardian
+20391	Güneş Bitkisi
+20392	Ölü Asker
+20393	Yaralı Asker
+20394	Ateş Diyarı Bekçisi
+20395	Buz Dağı Muhafızı
+20397	Buz Arslanı
+20398	Arktos Küpü
+20399	Kuzey Ejderi Sütunu
 30000	????
 30001	????
 30101	Kud Heykeli

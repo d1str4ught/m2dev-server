@@ -696,7 +696,8 @@ VNUM	LOCALE_NAME
 8054	Metinul Furiei
 8055	Metinul Nenorocirilor
 8056	Metinul Rautatii
-8057	Purgatory Fire Metin
+8057	Metinul Focul Iadului
+8058	Metinul de Gheață
 8101	Metinul Necazului
 8102	Metinul Luptei
 8103	Metinul Bataliei
@@ -1268,11 +1269,14 @@ VNUM	LOCALE_NAME
 20388	Dragon Gate
 20389	NoNAme
 20390	Taramor Gravestone
-20391	Sun Herb
-20392	Dead Soldier
-20393	Wounded Soldier
-20394	Fireland Guard
-20395	Ice Land Guardian
+20391	Iarba Soarelui
+20392	Soldat Mort
+20393	Soldat Rănit
+20394	Paznic Țară de Foc
+20395	Gardian Țară de Gheață
+20397	Leu de Gheață
+20398	Cub de Gheață
+20399	Pilonul Dragon din Nord
 30000	????
 30001	????
 30101	Statuia Kud

@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Arachnidenflöte
 30329	Goldenes Zahnrad
 30330	Stein der Maat
+30331	Frostschlüssel
+30332	Nordsterne
+30333	Eisblumenschlüssel
 30500	Rubin-Gravurmesser
 30501	Goldschelle
 30502	Rubinverzierung
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	³ì°¢ º¸°üÇÔ
 53516	Knochentruhe
 53517	Jadekäfig
+54702	Truhe des Razador
+54703	Truhe des Nemere
 60001	Galle
 60002	Brief des Lagerwächters
 60003	Heldensymbol

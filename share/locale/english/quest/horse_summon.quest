@@ -1,174 +1,302 @@
 quest horse_summon begin
 	state start begin
-		
-function get_horse_summon_prob_pct()
-	local skill_level=pc.get_skill_level(131)
-	if skill_level==1 then
-		return 15
-	elseif skill_level==2 then
-		return 20
-	elseif skill_level==3 then
-		return 30
-	elseif skill_level==4 then
-		return 40
-	elseif skill_level==5 then
-		return 50
-	elseif skill_level==6 then
-		return 60
-	elseif skill_level==7 then
-		return 70
-	elseif skill_level==8 then
-		return 80
-	elseif skill_level==9 then
-		return 90
-	elseif skill_level>=10 then
-		return 100
-	end
-	return 10
-end	
+		function get_horse_summon_prob_pct()
+			local skill_level = pc.get_skill_level(131)
 
+			if skill_level == 1 then
+				return 15
+			elseif skill_level == 2 then
+				return 20
+			elseif skill_level == 3 then
+				return 30
+			elseif skill_level == 4 then
+				return 40
+			elseif skill_level == 5 then
+				return 50
+			elseif skill_level == 6 then
+				return 60
+			elseif skill_level == 7 then
+				return 70
+			elseif skill_level == 8 then
+				return 80
+			elseif skill_level == 9 then
+				return 90
+			elseif skill_level >= 10 then
+				return 100
+			end
+
+			return 10
+		end
 		
-		when 20349.chat.gameforge.horse_summon._10_npcChat with horse.get_grade()==1 and pc.countitem("50051")<1 begin
+		when 20349.chat.gameforge.horse_summon._10_npcChat with horse.get_grade() == 1 and pc.countitem("50051")<1 begin
 			say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 			say(gameforge.horse_summon._20_say)
+			
 			local b= select(gameforge.find_squareguard._50_select, gameforge.find_brother_article._100_select)
-			if 1==b then
-				if pc.money>=400000 then
+			
+			if 1 == b then
+				if pc.money >= 400000 then
 					pc.changemoney(-400000)
+
 					say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 					say(gameforge.horse_summon._30_say)
+
 					pc.give_item2("50051", 1)
 				else
 					say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 					say(gameforge.horse_summon._40_say)
 				end
-			elseif 2==b then
+			elseif 2 == b then
 			else
 				say(string.format(gameforge.find_squareguard._70_say, b))
 			end
 		end
-		when 20349.chat.gameforge.horse_summon._50_npcChat with horse.get_grade()==2 and pc.countitem("50052")<1 begin
+
+		when 20349.chat.gameforge.horse_summon._50_npcChat with horse.get_grade() == 2 and pc.countitem("50052") < 1 begin
 			say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 			say(gameforge.horse_summon._60_say)
+			
 			local b= select(gameforge.find_squareguard._50_select, gameforge.find_brother_article._100_select)
-			if 1==b then
-				if pc.money>=50000 then
+			
+			if 1 == b then
+				if pc.money >= 50000 then
 					pc.changemoney(-50000)
+
 					say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 					say(gameforge.horse_summon._70_say)
+
 					pc.give_item2("50052", 1)
 				else
 					say(gameforge.horse_summon._80_say)
 				end
-			elseif 2==b then
+			elseif 2 == b then
 			else
 				say(string.format(gameforge.find_squareguard._70_say, b))
 			end
 		end
-		when 20349.chat.gameforge.horse_summon._90_npcChat with horse.get_grade()==3 and pc.countitem("50053")<1 begin
+		
+		when 20349.chat.gameforge.horse_summon._90_npcChat with horse.get_grade() == 3 and pc.countitem("50053") < 1 begin
 			say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 			say(gameforge.horse_summon._100_say)
+			
 			local b= select(gameforge.find_squareguard._50_select, gameforge.find_brother_article._100_select)
-			if 1==b then
-				if pc.money>=100000 then
+			
+			if 1 == b then
+				if pc.money >= 100000 then
 					pc.changemoney(-100000)
+
 					say_title(gameforge.buy_fishrod._210_sayTitle)
 					say(gameforge.horse_summon._110_say)
+
 					pc.give_item2("50053", 1)
 				else
 					say_title(gameforge.horse_exchange_ticket._20_sayTitle)
 					say(gameforge.horse_summon._80_say)
 				end
-			elseif 2==b then
+			elseif 2 == b then
 			else
 				say(string.format(gameforge.find_squareguard._70_say, b))
 			end
 		end
-		when 50051.use with horse.get_grade()==0 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-			say(gameforge.horse_summon._120_say)
-		end
-		when 50051.use with horse.get_grade()==1 begin
-			if pc.getsp()>=100 then
-				if number(1, 100)<=horse_summon.get_horse_summon_prob_pct() then
-					say_title(gameforge.buy_fishrod._210_sayTitle)
-					say(gameforge.horse_summon._130_say)
-					horse.summon()
-				else
-					say_title(gameforge.buy_fishrod._210_sayTitle)
-										say_reward(gameforge.horse_summon._140_sayReward)
-									end
-				pc.change_sp(-100)
+
+		when 50051.use with horse.get_grade() == 0 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
 			else
 				say_title(gameforge.buy_fishrod._210_sayTitle)
-								say_reward(gameforge.horse_summon._150_sayReward)
-							end
+				say(gameforge.horse_summon._120_say)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
 		end
-		when 50051.use with horse.get_grade()==2 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._160_sayReward)
+
+		when 50051.use with horse.get_grade() == 1 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				if pc.getsp() >= 100 then
+					if number(1, 100) <= horse_summon.get_horse_summon_prob_pct() then
+						say_title(gameforge.buy_fishrod._210_sayTitle)
+						say(gameforge.horse_summon._130_say)
+
+						horse.summon()
+					else
+						say_title(gameforge.buy_fishrod._210_sayTitle)
+						say_reward(gameforge.horse_summon._140_sayReward)
 					end
-		when 50051.use with horse.get_grade()==3 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._170_sayReward)
-					end
-		when 50052.use with horse.get_grade()==0 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._180_sayReward)
-					end
-		when 50052.use with horse.get_grade()==1 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._190_sayReward)
+					pc.change_sp(-100)
+				else
+					say_title(gameforge.buy_fishrod._210_sayTitle)
+					say_reward(gameforge.horse_summon._150_sayReward)
+				end
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
 		end
-		when 50052.use with horse.get_grade()==2 begin
-			if pc.getsp()>=200 then
-				if number(1, 100)<=horse_summon.get_horse_summon_prob_pct() then
-			say_title(gameforge.buy_fishrod._210_sayTitle)
+
+		when 50051.use with horse.get_grade() == 2 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._160_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50051.use with horse.get_grade() == 3 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._170_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50052.use with horse.get_grade() == 0 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._180_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50052.use with horse.get_grade() == 1 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._190_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50052.use with horse.get_grade() == 2 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				if pc.getsp() >= 200 then
+					if number(1, 100) <= horse_summon.get_horse_summon_prob_pct() then
+						say_title(gameforge.buy_fishrod._210_sayTitle)
 						say_reward(gameforge.horse_summon._200_sayReward)
+
 						horse.summon()
-			else
-			say_title(gameforge.buy_fishrod._210_sayTitle)
+					else
+						say_title(gameforge.buy_fishrod._210_sayTitle)
 						say_reward(gameforge.horse_summon._210_sayReward)
-							end
-				pc.change_sp(-200)
-			else
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._220_sayReward)
-						end
+					end
+
+					pc.change_sp(-200)
+				else
+					say_title(gameforge.buy_fishrod._210_sayTitle)
+					say_reward(gameforge.horse_summon._220_sayReward)
+				end
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
 		end
-		when 50052.use with horse.get_grade()==3 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._230_sayReward)
-					end
-		when 50053.use with horse.get_grade()==0 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._240_sayReward)
-					end
-		when 50053.use with horse.get_grade()==1 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._190_sayReward)
-					end
-		when 50053.use with horse.get_grade()==2 begin
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._250_sayReward)
-					end
-		when 50053.use with horse.get_grade()==3 begin
-			if pc.getsp()>=300 then
-				if number(1, 100)<=horse_summon.get_horse_summon_prob_pct() then
-			say_title(gameforge.buy_fishrod._210_sayTitle)
+
+		when 50052.use with horse.get_grade() == 3 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._230_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50053.use with horse.get_grade() == 0 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._240_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50053.use with horse.get_grade() == 1 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._190_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50053.use with horse.get_grade() == 2 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				say_title(gameforge.buy_fishrod._210_sayTitle)
+				say_reward(gameforge.horse_summon._250_sayReward)
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
+		end
+
+		when 50053.use with horse.get_grade() == 3 begin
+			-- MR-8: Prevent mounting in Nemere's Watchtower
+			local map_idx = pc.get_map_index()
+
+			if map_idx >= 352 * 10000 and map_idx < 353 * 10000 then
+				notice(gameforge.horse_ride._50_notice)
+			else
+				if pc.getsp() >= 300 then
+					if number(1, 100) <= horse_summon.get_horse_summon_prob_pct() then
+						say_title(gameforge.buy_fishrod._210_sayTitle)
 						say_reward(gameforge.horse_summon._260_sayReward)
+
 						horse.summon()
-			else
-			say_title(gameforge.buy_fishrod._210_sayTitle)
+					else
+						say_title(gameforge.buy_fishrod._210_sayTitle)
 						say_reward(gameforge.horse_summon._270_sayReward)
-						end
-			pc.change_sp(-300)
-			else
-			say_title(gameforge.buy_fishrod._210_sayTitle)
-						say_reward(gameforge.horse_summon._280_sayReward)
-						end
+					end
+					
+					pc.change_sp(-300)
+				else
+					say_title(gameforge.buy_fishrod._210_sayTitle)
+					say_reward(gameforge.horse_summon._280_sayReward)
+				end
+			end
+			-- MR-8: -- END OF -- Prevent mounting in Nemere's Watchtower
 		end
 	end
+
 	state __COMPLETE__ begin
 		when enter begin
 			q.done()

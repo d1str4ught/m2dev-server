@@ -1,0 +1,12 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	256
+
+MapSize	4	3
+BasePosition	512000	153600
+TextureSet	textureset\metin2_map_n_snow_dungeon_01.txt
+Environment	metin2_map_n_snow_dungeon_01.msenv
+
