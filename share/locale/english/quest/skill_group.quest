@@ -65,7 +65,7 @@ quest skill_group begin
 				say(gameforge.skill_group._170_sayReward)
 			end
 
-			 select(gameforge.locale.confirm)
+			select(gameforge.locale.confirm)
 			setskin(NOWINDOW)
 		end
 
@@ -86,15 +86,14 @@ quest skill_group begin
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 
 			say_title(gameforge.skill_group._250_sayTitle)
 			say(gameforge.skill_group._260_say)
 			say_reward(gameforge.skill_group._270_sayReward)
 
-
-						local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
+			local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
 
 			if 2 == s then
 				return
@@ -108,7 +107,7 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(1) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Lehrer löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._310_sayTitle)
 
@@ -127,27 +126,27 @@ quest skill_group begin
 			target.delete("teacher2")
 
 			local pc_job=pc.get_job()
-			if pc_job != 0 then
-				say_title(gameforge.skill_group._370_sayTitle)
+			if pc_job != 0 then -- !!!
+				say_title(gameforge.skill_group._190_sayTitle)
 
 				say(gameforge.skill_group._380_say)
 				if pc_job==0 then
 					say_reward(gameforge.skill_group._210_sayReward)
 				elseif pc_job==1 then
-					say_reward(gameforge.skill_group._390_sayReward)
+					say_reward(gameforge.skill_group._220_sayReward)
 				elseif pc_job==2 then
 					say_reward(gameforge.skill_group._230_sayReward)
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 
 			say_title(gameforge.skill_group._400_sayTitle)
 			say(gameforge.skill_group._410_say)
 			say_reward(gameforge.skill_group._270_sayReward)
 
-						local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
+			local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
 
 			if 2 == s then
 				return
@@ -161,8 +160,7 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(2)
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
-
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._420_sayTitle)
 
@@ -181,7 +179,6 @@ quest skill_group begin
 		when teacher3.target.click or skill_group1_3.chat.gameforge.skill_group._430_npcChat or	skill_group2_3.chat.gameforge.skill_group._430_npcChat or	skill_group3_3.chat.gameforge.skill_group._430_npcChat	begin 
 			target.delete("teacher3")
 
-
 			local pc_job=pc.get_job()
 			if pc_job != 1 then -- !!!
 				say_title(gameforge.skill_group._190_sayTitle)
@@ -196,13 +193,13 @@ quest skill_group begin
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 			say_title(gameforge.skill_group._450_sayTitle)
 			say(gameforge.skill_group._460_say)
 			say_reward(gameforge.skill_group._470_sayReward)
 
-						local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
+			local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
 
 			if 2 == s then
 				return
@@ -216,13 +213,13 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(1) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._480_sayTitle)
 
 			say(gameforge.skill_group._320_say)
 			if not pc.is_clear_skill_group() then
-				say(gameforge.skill_group._490_say)
+				say(gameforge.skill_group._330_say)
 				say_title(gameforge.buy_fishrod._210_sayTitle)
 				say_reward(gameforge.skill_group._340_sayReward)
 			else
@@ -249,7 +246,7 @@ quest skill_group begin
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 
 			say_title(gameforge.skill_group._520_sayTitle)
@@ -268,7 +265,7 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(2) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._540_sayTitle)
 
@@ -289,7 +286,7 @@ quest skill_group begin
 
 			local pc_job=pc.get_job()
 			if pc_job != 2 then -- !!!
-				say_title(gameforge.skill_group._370_sayTitle)
+				say_title(gameforge.skill_group._190_sayTitle)
 
 				say(gameforge.skill_group._560_say)
 				if pc_job==0 then
@@ -320,20 +317,18 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(1) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
-
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._600_sayTitle)
 
 			say(gameforge.skill_group._320_say)
 			if not pc.is_clear_skill_group() then
-				           ---                                                   l
 				say(gameforge.skill_group._330_say)
 				say_title(gameforge.buy_fishrod._210_sayTitle)
-								say_reward(gameforge.skill_group._340_sayReward)
-							else
+				say_reward(gameforge.skill_group._340_sayReward)
+			else
 				say_reward(gameforge.skill_group._350_sayReward)
-							end
+			end
 			clear_letter()
 		end
 
@@ -355,14 +350,14 @@ quest skill_group begin
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 
 			say_title(gameforge.skill_group._630_sayTitle)
 			say(gameforge.skill_group._640_say)
 			say_reward(gameforge.skill_group._590_sayReward)
 
-						local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
+			local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
 
 			if 2 == s then
 				return
@@ -376,19 +371,18 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(2) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._650_sayTitle)
 
 			say(gameforge.skill_group._320_say)
 			if not pc.is_clear_skill_group() then
-				           ---                                                   l
 				say(gameforge.skill_group._330_say)
 				say_title(gameforge.buy_fishrod._210_sayTitle)
-								say_reward(gameforge.skill_group._340_sayReward)
-							else
+				say_reward(gameforge.skill_group._340_sayReward)
+			else
 				say_reward(gameforge.skill_group._350_sayReward)
-							end
+			end
 			clear_letter()
 		end
 
@@ -410,40 +404,39 @@ quest skill_group begin
 				elseif pc_job==3 then
 					say_reward(gameforge.skill_group._240_sayReward)
 				end
-								return
+				return
 			end
 
 			say_title(gameforge.skill_group._680_sayTitle)
 			say(gameforge.skill_group._690_say)
 			say_reward(gameforge.skill_group._700_sayReward)
 
-						local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
+			local s= select(gameforge.skill_group._280_select, gameforge.skill_group._290_select)
 
 			if 2 == s then
 				return
 			end
 
 			if pc.get_job()!=3 or pc.get_skill_group()!=0 then
-				test_chat(string.format(gameforge.skill_group._300_chat, bool_to_str(npc_is_same_job()).." pc.get_skill_group:"..pc.get_skill_group().."pc_job:"..pc.get_job()))
+				test_chat(string.format(gameforge.skill_group._300_chat, bool_to_str(npc_is_same_job()).."pc.get_skill_group:"..pc.get_skill_group().."pc_job:"..pc.get_job()))
 				return
 			end
 
 			set_state("start")
 			pc.set_skill_group(1) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._710_sayTitle)
 
 			say(gameforge.skill_group._320_say)
 			if not pc.is_clear_skill_group() then
-				           ---                                                   l
 				say(gameforge.skill_group._330_say)
 				say_title(gameforge.buy_fishrod._210_sayTitle)
-								say_reward(gameforge.skill_group._340_sayReward)
-							else
+				say_reward(gameforge.skill_group._340_sayReward)
+			else
 				say_reward(gameforge.skill_group._350_sayReward)
-							end
+			end
 			clear_letter()
 		end
 
@@ -468,7 +461,6 @@ quest skill_group begin
 				return
 			end
 
-
 			say_title(gameforge.skill_group._740_sayTitle)
 			say(gameforge.skill_group._750_say)
 			say_reward(gameforge.skill_group._700_sayReward)
@@ -485,19 +477,18 @@ quest skill_group begin
 			set_state("start")
 			pc.set_skill_group(2) -- !!!
 			pc.clear_skill()
-			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister löschen")
+			char_log(0, "CLEAR_SKILL", "Fertigkeit nach Fertigkeitsmeister lÃ¶schen")
 
 			say_title(gameforge.skill_group._760_sayTitle)
 
 			say(gameforge.skill_group._320_say)
 			if not pc.is_clear_skill_group() then
-				           ---                                                   l
 				say(gameforge.skill_group._330_say)
 				say_title(gameforge.buy_fishrod._210_sayTitle)
-								say_reward(gameforge.skill_group._340_sayReward)
-							else
+				say_reward(gameforge.skill_group._340_sayReward)
+			else
 				say_reward(gameforge.skill_group._350_sayReward)
-							end
+			end
 			clear_letter()
 		end
 
