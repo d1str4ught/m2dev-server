@@ -77,7 +77,7 @@ quest collect_quest_lv90  begin
 		end
 
 		when 691.kill or 792.kill or 791.kill or 1093.kill or  1304.kill or 2091.kill or 2191.kill or 2206.kill or 1901.kill or
-			 3090.kill or 3290.kill or 3590.kill  begin
+			 3090.kill or 3290.kill or 3590.kill or 6091.kill or 6191.kill  begin
 			local s = number(1, 100)
 			if s <= 30 and pc.count_item(30168)==0 then
 				pc.give_item2(30168, 1)
@@ -179,9 +179,10 @@ end
 			say(gameforge.collect_quest_lv90._240_say)
 			say(mob_name(1304)..", "..mob_name(1093)..",")
 			say(mob_name(1901)..".")
-			say(""..mob_name(3090)..","..mob_name(3290)..","..mob_name(3590)..",")
+			say(""..mob_name(3090)..", "..mob_name(3290)..", "..mob_name(3590)..",")
+			say(""..mob_name(6091)..", "..mob_name(6191)..".")
 		end
-		when 1093.kill or  1304.kill or	 1901.kill or 3090.kill or 3290.kill or 3590.kill  begin
+		when 1093.kill or 1304.kill or 1901.kill or 3090.kill or 3290.kill or 3590.kill or 6091.kill or 6191.kill  begin
 			local s = number(1, 100)
 			if s <= 30 and pc.count_item(30227)==0 then
 				pc.give_item2(30227, 1)

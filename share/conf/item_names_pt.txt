@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Apito do Aracnídeo
 30329	Roda Dentada Dourada
 30330	Pedra de Maat
+30331	Chave da Geada
+30332	Estrelas Polares
+30333	Chave da Flor da Geada
 30500	Faca de Gravura Rubi
 30501	Punho de Ouro
 30502	Decoração Rubi
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Cofre Mini-Executor Ouro
 53516	Cofre de Ossos
 53517	Jaula Jade
+54702	Cofre do Razador
+54703	Cofre de Nemere
 60001	Fel
 60002	Nota do Guarda
 60003	Símbolo Heróico

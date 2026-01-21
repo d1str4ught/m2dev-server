@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Flûte de l'araignée
 30329	Pignon doré
 30330	Pierre de Maât
+30331	Clé gelée
+30332	Etoile du Nord
+30333	Clé du cristal de glace
 30500	Pointe à graver - rubis
 30501	Bague en or
 30502	Ornement en rubis
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	³ì°¢ º¸°üÇÔ
 53516	Coffre d'os
 53517	Cage de jade
+54702	Coffre de Razador
+54703	Coffre de Nemere
 60001	Bile
 60002	Note pour le gardien
 60003	Symbole de Héros

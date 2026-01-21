@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Flauto degli Aracnidi
 30329	Ruota dorata
 30330	Pietra di Maat
+30331	Chiave del Gelo
+30332	Stella Polare
+30333	Chiave Fiore di Ghiaccio
 30500	Coltello Intaglio Rubino
 30501	Fascetta d'Oro
 30502	Decoro Rubino
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Baule Miniboia (oro)
 53516	Baule delle ossa
 53517	Gabbia di Giada
+54702	Baule di Razador
+54703	Baule di Nemere
 60001	Bile
 60002	Lettera dell'Amm.deiMag.
 60003	Simbolo degli Eroi

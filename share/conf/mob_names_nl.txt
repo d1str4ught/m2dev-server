@@ -696,7 +696,8 @@ VNUM	LOCALE_NAME
 8054	Metin van Toorn
 8055	Metin van Onheil
 8056	Metin van Boosaardigheid
-8057	Purgatory Fire Metin
+8057	Vagevuur Metin
+8058	Metin der Kou
 8101	Metin van Verdriet
 8102	Metin van Strijd
 8103	Metin van Gevecht
@@ -1268,11 +1269,14 @@ VNUM	LOCALE_NAME
 20388	Dragon Gate
 20389	NoNAme
 20390	Taramor Gravestone
-20391	Sun Herb
-20392	Dead Soldier
-20393	Wounded Soldier
-20394	Fireland Guard
-20395	Ice Land Guardian
+20391	Zonnekruid
+20392	Dode Soldaat
+20393	Gewonde Soldaat
+20394	Vuurland Wachter
+20395	IJs Land Beschermer
+20397	IJsleeuw
+20398	Arctische Kubus
+20399	Noordelijke Draken Pilaar
 30000	????
 30001	????
 30101	Kud Standbeeld

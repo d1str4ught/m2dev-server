@@ -2295,3 +2295,6 @@
 
 "[Friends] %s has already sent you a friend request.";
 "[Amigos] %s já te enviou um pedido de amizade.";
+
+"You cannot ride your horse in Nemere's Watchtower.";
+"You cannot ride your horse in Nemere's Watchtower.";

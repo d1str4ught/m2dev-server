@@ -697,6 +697,7 @@ VNUM	LOCALE_NAME
 8055	Metin du Malheur
 8056	Metin de l'Infamie
 8057	Metin du Purgatoire
+8058	Metin du Froid
 8101	Metin de Tristesse
 8102	Metin de Combat
 8103	Metin de Bataille
@@ -1273,6 +1274,9 @@ VNUM	LOCALE_NAME
 20393	Soldat blessé
 20394	Gardien de Doyyumhwan
 20395	Garde de Terre glaciaire
+20397	Lion glacial,
+20398	Cube de l'Arctis
+20399	Pilier du Dragon du Nord
 30000	????
 30001	????
 30101	Statue mythique

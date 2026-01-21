@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Pavoučí píšťalka
 30329	Zlaté ozubené kolo
 30330	Kámen Maat
+30331	Mrazivý klíč
+30332	Severka
+30333	Klíč mrazivého květu
 30500	Nůž vykládaný rubíny
 30501	Zlatá svorka
 30502	Rubínová dekorace
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Truhla Mini-Exekut. (zl)
 53516	Kostěná truhla
 53517	Nefritová klec
+54702	Razadorova truhla
+54703	Nemerova truhla
 60001	Žluč
 60002	Dopis od strážce tábora
 60003	Symbol hrdiny

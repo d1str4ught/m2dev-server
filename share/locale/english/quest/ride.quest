@@ -2,17 +2,17 @@ quest ride begin
 	state start begin
 		function Ride( vnum, remain_time )
 			ride_info = {
-				[71114] = { 20110,	5*60,					apply.DEF_GRADE_BONUS,	75,		75,	true	},
-				[71115] = { 20110,	24*60,					apply.DEF_GRADE_BONUS,	100,	75,	false	},
-				[71116] = { 20111,	5*60,					apply.DEF_GRADE_BONUS,	100,	80,	true	},
-				[71117] = { 20111,	24*60,					apply.DEF_GRADE_BONUS,	150,	80,	false	},
-				[71118] = { 20112,	5*60,					apply.DEF_GRADE_BONUS,	125,	85,	true	},
-				[71119] = { 20112,	24*60,					apply.DEF_GRADE_BONUS,	200,	85,	false	},
-				[71120] = { 20113,	5*60,					apply.ATT_GRADE_BONUS,	200,	85,	true	},
-				[71121] = { 20113,	24*60,					apply.ATT_GRADE_BONUS,	300,	85,	false	},
-				[71171] = { 20227,	item.get_socket(2)*60,	apply.MOV_SPEED,	60,		1,	false,	false,	false},
-				[71172] = { 20226,	item.get_socket(2)*60,	apply.MOV_SPEED,	60,		1,	false,	false,	false},
-				}
+				[71114] = { 20110,	5 * 60,						apply.DEF_GRADE_BONUS,	75,		75,	true					},
+				[71115] = { 20110,	24 * 60,					apply.DEF_GRADE_BONUS,	100,	75,	false					},
+				[71116] = { 20111,	5 * 60,						apply.DEF_GRADE_BONUS,	100,	80,	true					},
+				[71117] = { 20111,	24 * 60,					apply.DEF_GRADE_BONUS,	150,	80,	false					},
+				[71118] = { 20112,	5 * 60,						apply.DEF_GRADE_BONUS,	125,	85,	true					},
+				[71119] = { 20112,	24 * 60,					apply.DEF_GRADE_BONUS,	200,	85,	false					},
+				[71120] = { 20113,	5 * 60,						apply.ATT_GRADE_BONUS,	200,	85,	true					},
+				[71121] = { 20113,	24 * 60,					apply.ATT_GRADE_BONUS,	300,	85,	false					},
+				[71171] = { 20227,	item.get_socket(2) * 60,	apply.MOV_SPEED,		60,		1,	false,	false,	false 	},
+				[71172] = { 20226,	item.get_socket(2) * 60,	apply.MOV_SPEED,		60,		1,	false,	false,	false 	},
+			}
 
 			if pc.level < ride_info[vnum][5] then
 				say("")
@@ -22,12 +22,18 @@ quest ride begin
 				if 112 == pc.get_map_index() then
 					return
 				end
+
+				if pc.get_map_index() >= 352 * 10000 and pc.get_map_index() < 353 * 10000 then
+					notice(gameforge.horse_ride._50_notice)
+					return
+				end
+
 				if ride_info[vnum][2] == 0 and remain_time != 0 then
-					pc.mount( ride_info[vnum][1], remain_time*60 )
-					pc.mount_bonus( ride_info[vnum][3], ride_info[vnum][4], remain_time*60 )
+					pc.mount(ride_info[vnum][1], remain_time * 60)
+					pc.mount_bonus(ride_info[vnum][3], ride_info[vnum][4], remain_time * 60)
 				else
-					pc.mount( ride_info[vnum][1], ride_info[vnum][2] )
-					pc.mount_bonus( ride_info[vnum][3], ride_info[vnum][4], ride_info[vnum][2] )
+					pc.mount(ride_info[vnum][1], ride_info[vnum][2])
+					pc.mount_bonus(ride_info[vnum][3], ride_info[vnum][4], ride_info[vnum][2])
 				end
 
 				if true == ride_info[vnum][6] then
@@ -38,30 +44,32 @@ quest ride begin
 
 		when login begin
 			local vnum, remain_time = pc.get_special_ride_vnum()
-			if vnum <=  71113 or vnum >71121 then
+
+			if vnum <= 71113 or vnum > 71121 then
 				return
 			end
+
 			if 0 != vnum then
 				ride.Ride(vnum, remain_time)
 			end
 		end
 
-		when 71114.use or 71115.use or 71116.use or 71117.use or 71118.use or 71119.use or 71120.use or 71121.use 
-				or 71171.use or 71172.use begin
-			 if pc.is_polymorphed() then
-				 say("")
-				 say(gameforge.ride._020_say)
-				 say("")
+		when 71114.use or 71115.use or 71116.use or 71117.use or 71118.use or 71119.use or 71120.use or 71121.use or 71171.use or 71172.use begin
+			if pc.is_polymorphed() then
+				say("")
+				say(gameforge.ride._020_say)
+				say("")
 			elseif false == pc.is_riding() then
 			 	if true == horse.is_summon() then
 					horse.unsummon()
 				end
-				 ride.Ride(item.vnum, 0)
-			 else
+
+				ride.Ride(item.vnum, 0)
+			else
 				say("")
-				 say(gameforge.ride._030_say)
-				 say("")
-			 end
+				say(gameforge.ride._030_say)
+				say("")
+			end
 		end
 	end
 end

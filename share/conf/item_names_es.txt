@@ -3643,8 +3643,11 @@ VNUM	LOCALE_NAME
 30325	Llave Arácnida
 30326	Veneno de la Reina Araña
 30327	Silbato Arácnido
-30329	Unknown Item
-30330	Unknown Item
+30329	Golden Cog Wheel
+30330	Maat Stone
+30331	Llave de hielo
+30332	Estrella del norte
+30333	Llaves flor escarcha
 30500	Buril de Rubí
 30501	Abrazadera de Oro
 30502	Adorno de Rubí
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Unknown Item
 53516	Unknown Item
 53517	Unknown Item
+54702	Baúl de Arrador
+54703	Baúl de Nemere
 60001	Rozadura
 60002	Recom. protector almac.
 60003	Símbolo Heróico

@@ -4990,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	³ì°¢ º¸°üÇÔ
 53516	Bone Chest
 53517	Jade Cage
+54702	Razador's Chest
+54703	Nemere's Chest
 60001	Gall
 60002	Note from Storage Guard
 60003	Heroic Symbol

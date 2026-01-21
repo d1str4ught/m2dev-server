@@ -2285,13 +2285,16 @@
 "OX-Domanda: ";
 
 "[Friends] You cannot add yourself as a friend.";
-"[Amici] Non puoi aggiungere te stesso come amico."
+"[Amici] Non puoi aggiungere te stesso come amico.";
 
 "[Friends] You are already friends with %s.";
-"[Amici] Sei già amico con %s." 
+"[Amici] Sei già amico con %s.";
 
 "[Friends] You already sent a friend request to %s.";
-"[Amici] Hai già invitato una richiesta d'amicizia a %s." 
+"[Amici] Hai già invitato una richiesta d'amicizia a %s.";
 
 "[Friends] %s has already sent you a friend request.";
-"[Amici] %s ti ha già invitato una richiesta d'amicizia."
+"[Amici] %s ti ha già invitato una richiesta d'amicizia.";
+
+"You cannot ride your horse in Nemere's Watchtower.";
+"You cannot ride your horse in Nemere's Watchtower.";

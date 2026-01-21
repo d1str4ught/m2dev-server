@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Spinachtige Fluit
 30329	Gouden Tandrad
 30330	Steen der Maat
+30331	Vries Sleutel
+30332	Noordster
+30333	Vriesbloem Sleutel
 30500	Robijnen Graveermes
 30501	Gouden Gesp
 30502	Robijnen Versiersel
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Mini-Beul Kist (Goud)
 53516	Botten Kist
 53517	Jade Kooi
+54702	Razador's Kist
+54703	Nemere's Kist
 60001	Gal
 60002	Brief van Opslagwachter
 60003	Helden Symbool

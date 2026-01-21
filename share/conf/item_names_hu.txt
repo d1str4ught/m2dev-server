@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Pók-síp
 30329	Arany fogaskerék
 30330	Maat kő
+30331	Fagy-kulcsot
+30332	Északi sarkcsillag
+30333	Jégvirág-kulcsot
 30500	Rubin metszetű kés
 30501	Arany kapocs
 30502	Rubin díszítés
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	łě°˘ ş¸°üÇÔ
 53516	Csontláda
 53517	Jáde kalitka
+54702	Razador ládája
+54703	Nemere ládája
 60001	Epe
 60002	Raktár őrök levele
 60003	Hősi szimbólum

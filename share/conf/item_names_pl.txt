@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Pajęczy Flet
 30329	Złota Zębatka
 30330	Kamień Maat
+30331	Mroźny Klucz
+30332	Gwiazda Północy
+30333	Klucz Lodowego Kwiatu
 30500	Rubinowy Ozdobny Nóż
 30501	Złota Sprzączka
 30502	Rubinowa Ozdoba
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Skrzynia Kata (złota)
 53516	Trupia Skrzynia
 53517	Jadeitowa Klatka
+54702	Skrzynia Razadora
+54703	Skrzynia Nemere
 60001	Żółć
 60002	Rekomend. Od Dozorcy
 60003	Heroiczny Symbol

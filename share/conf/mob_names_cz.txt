@@ -696,7 +696,8 @@ VNUM	LOCALE_NAME
 8054	Metin zloby
 8055	Metin zkázy
 8056	Metin zlomyslnosti
-8057	Purgatory Fire Metin
+8057	Metin Ohně očistce
+8058	Metin chladu
 8101	Metin smutku
 8102	Metin boje
 8103	Metin bitvy
@@ -1268,11 +1269,14 @@ VNUM	LOCALE_NAME
 20388	Dragon Gate
 20389	NoNAme
 20390	Taramor Gravestone
-20391	Sun Herb
-20392	Dead Soldier
-20393	Wounded Soldier
-20394	Fireland Guard
-20395	Ice Land Guardian
+20391	Sluneční bylina
+20392	Mrtvý voják
+20393	Zraněný voják
+20394	Strážce ohnivé země
+20395	Strážce ledové země
+20397	Ledový lev
+20398	Arktická kostka
+20399	Sloup severního draka
 30000	????
 30001	????
 30101	Socha Kud

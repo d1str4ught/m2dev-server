@@ -6367,9 +6367,24 @@ Group	Frost_Troll
 	3	"Frost Man"	6103
 	4	"Frost Man"	6103
 }
-Group	Nemere
+Group	Szel
 {
 	Vnum	6062
+	Leader	Szel	6151
+	1	"Frost Lord"	6109
+	2	"Frost Lord"	6109
+	3	"Frost General"	6108
+	4	"Frost General"	6108
+	5	"Frost General"	6108
+	6	"Frost Beard"	6107
+	7	"Frost Beard"	6107
+	8	"Frost Troll"	6106
+	9	"Frost Troll"	6106
+	10	"Frost Troll"	6106
+}
+Group	Nemere
+{
+	Vnum	6063
 	Leader	Nemere	6191
 	1	"Frost Lord"	6109
 	2	"Frost Lord"	6109

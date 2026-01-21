@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Fluierul Arahnidelor
 30329	Roata Zimtata de Aur
 30330	Piatra Maat
+30331	Cheie de Gheaţă
+30332	Steaua Nordului
+30333	Cheie Floare de Gheaţă
 30500	Cutit Gravat Rubin
 30501	Clema de Aur
 30502	Ornament Rubin
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	Cufar Mini Executor(Aur)
 53516	Cufar de Oase
 53517	Colivie de Jad
+54702	Cufăr Razador
+54703	Cufăr Nemere
 60001	Fiere
 60002	Nota Paznic Depozit
 60003	Simbol Eroic

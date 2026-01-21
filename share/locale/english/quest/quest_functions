@@ -76,6 +76,8 @@ d.purge
 d.purge_area
 d.purge_unique
 d.regen_file
+d.regen_file_with_immunity
+d.regen_file_with_vids
 d.revived
 d.say_diff_by_item
 d.say_diff_by_item_group
@@ -94,9 +96,12 @@ d.setqf2
 d.spawn
 d.spawn_goto_mob
 d.spawn_group
+d.spawn_group_with_immunity
+d.spawn_group_with_vids
 d.spawn_mob
 d.spawn_mob_ac_dir
 d.spawn_mob_dir
+d.spawn_mob_with_immunity
 d.spawn_move_group
 d.spawn_move_unique
 d.spawn_name_mob
@@ -268,6 +273,8 @@ notice
 notice_all
 notice_in_map
 notice_multiline
+npc.add_damage_immunity_condition
+npc.clear_damage_immunity_conditions
 npc.dec_remain_hairdye_count
 npc.dec_remain_skill_book_count
 npc.get_empire
@@ -277,6 +284,7 @@ npc.get_remain_hairdye_count
 npc.get_remain_skill_book_count
 npc.get_vid
 npc.getrace
+npc.is_damage_immune
 npc.is_near
 npc.is_near_vid
 npc.is_pc
@@ -285,6 +293,8 @@ npc.kill
 npc.lock
 npc.open_shop
 npc.purge
+npc.set_damage_immunity
+npc.set_damage_immunity_with_conditions
 npc.set_vid_attack_mul
 npc.set_vid_damage_mul
 npc.unlock

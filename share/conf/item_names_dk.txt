@@ -3645,6 +3645,9 @@ VNUM	LOCALE_NAME
 30327	Spindlernes Fløjte
 30329	Gyldent tandhjul
 30330	Maat sten
+30331	Frost nøgle
+30332	Nord stjerne
+30333	Frostblomst nøgle
 30500	Rubin indgraveret kniv
 30501	Guld spænde
 30502	Rubin dekoration
@@ -4987,6 +4990,8 @@ VNUM	LOCALE_NAME
 53515	MiniExecutor kiste(guld)
 53516	Knogle kiste
 53517	Jade bur
+54702	Razador's Kiste
+54703	Nemere's Kiste
 60001	Galde
 60002	Brev fra lejrvagten
 60003	Heltesymbol
