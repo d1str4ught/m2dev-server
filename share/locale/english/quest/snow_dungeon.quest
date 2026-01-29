@@ -23,7 +23,7 @@ define GICHEON_BUFF 96
 quest snow_dungeon begin
 	state start begin
 		function setting()
-			return 
+			return
 			{
 				["dungeon_entry_pos"] = { 5291, 1814 },
 				["DUNGEON_MAN_pos"] = { 172, 261 },
@@ -39,7 +39,7 @@ quest snow_dungeon begin
 					{ 5969, 2229 },
 					{ 6047, 1924 }
 				},
-				["LEVEL2_STONE_pos"] = { 421, 191 }, 
+				["LEVEL2_STONE_pos"] = { 421, 191 },
 				["LEVEL4_TARGET_pos"] = { 171, 496 },
 				["LEVEL5_STONE_pos"] = {
 					{ 449, 488 },
@@ -66,227 +66,162 @@ quest snow_dungeon begin
 			}
 		end
 
-		function make_dungeon() 
+		function make_dungeon()
 			local setting = snow_dungeon.setting()
 
 			d.new_jump_party(DUNGEON_MAP_INDEX, setting.dungeon_entry_pos[1], setting.dungeon_entry_pos[2])
 			d.set_item_group("fd_pass_ticket", 1, PASS_TICKET, 1)
 			d.spawn_mob_ac_dir(DUNGEON_MAN, setting.DUNGEON_MAN_pos[1], setting.DUNGEON_MAN_pos[2], 1)
-			d.setf("tickets_consumed", 0)
 		end
 
-		function start_dungeon_at_stage(stage)
+		function start_at_level(stage)
 			local setting = snow_dungeon.setting()
-			local map_idx = 0
-
-			if party.is_party() then
-				map_idx = party.getf("dungeon_index")
+			
+			-- Create dungeon and warp to appropriate position
+			local warp_x = setting.dungeon_entry_pos[1]
+			local warp_y = setting.dungeon_entry_pos[2]
+			
+			if stage > 1 then
+				warp_x = setting.WARP_pos[stage][1]
+				warp_y = setting.WARP_pos[stage][2]
 			end
+			
+			d.new_jump_party(DUNGEON_MAP_INDEX, warp_x, warp_y)
+			
+			local map_idx = d.get_map_index()
 
-			-- Create dungeon if needed
-			if map_idx == 0 or not d.find(map_idx) then
-				-- Create dungeon and jump to appropriate position based on stage
-				local warp_x = setting.dungeon_entry_pos[1]
-				local warp_y = setting.dungeon_entry_pos[2]
-				
-				if stage > 1 then
-					warp_x = setting.WARP_pos[stage][1]
-					warp_y = setting.WARP_pos[stage][2]
-				end
-				
-				d.new_jump_party(DUNGEON_MAP_INDEX, warp_x, warp_y)
+			party.setf("dungeon_index", map_idx)
+			d.setf("party_leader_pid", party.get_leader_pid())
+			
+			-- Stage 1: Just spawn DUNGEON_MAN and wait
+			if stage == 1 then
 				d.set_item_group("fd_pass_ticket", 1, PASS_TICKET, 1)
-
-				if stage == 1 then
-					d.spawn_mob_ac_dir(DUNGEON_MAN, setting.DUNGEON_MAN_pos[1], setting.DUNGEON_MAN_pos[2], 1)
-				end
-
-				d.setf("tickets_consumed", 0)
-				map_idx = d.get_map_index()
-
-				notice("DEBUG: Created dungeon at map_idx " .. map_idx)
-
-				if party.is_party() then
-					party.setf("dungeon_index", map_idx)
-				end
-			else
-				notice("DEBUG: Using existing dungeon at map_idx " .. map_idx)
-			end
-
-			if not d.select(map_idx) then
-				notice("DEBUG: d.select failed for map_idx " .. map_idx)
+				d.spawn_mob_ac_dir(DUNGEON_MAN, setting.DUNGEON_MAN_pos[1], setting.DUNGEON_MAN_pos[2], 1)
+				d.setf("level", 0)
 
 				return
 			end
+			
+			-- Stages 2-10: Start immediately
+			d.setf("dungeon_enter", 1)
+			d.setf("dungeon_start_time", get_global_time())
+			
+			-- Remove tickets from all party members
+			local pids = { party.get_member_pids() }
 
-			notice("DEBUG: Selected map_idx " .. map_idx .. ", setting stage to " .. stage)
+			for i = 1, table.getn(pids) do
+				q.begin_other_pc_block(pids[i])
 
-			snow_dungeon.clear_timer(map_idx)
+				pc.remove_item(PASS_TICKET, 1)
+				pc.setf("snow_dungeon", "ticket_delete", 1)
 
-			local s = stage
-
-			if s < 1 then
-				s = 1
-			elseif s > 10 then
-				s = 10
+				q.end_other_pc_block()
 			end
+			
+			-- Start timers
+			server_timer("snow_dungeon_45m_left_timer", 15 * 60, map_idx)
+			server_timer("snow_dungeon_30m_left_timer", 15 * 60, map_idx)
+			
+			-- Level-specific initialization
+			if stage == 2 then
+				d.setf("level", 2)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_2f.txt")
+			elseif stage == 3 then
+				d.setf("level", 3)
+				d.regen_file(MOB_REGEN_FILE_PATH .. "id_3f.txt")
 
-			-- Stage 1: Don't auto-start, wait for DUNGEON_MAN chat
-			if s == 1 then
-				d.setf("level", 0)
-				d.jump_all(setting.WARP_pos[1][1], setting.WARP_pos[1][2])
-			-- Stages 2-10: Auto-start with proper setup
-			else
-				d.setf("dungeon_enter", 1)
-				d.setf("dungeon_start_time", get_global_time())
-				d.setf("party_leader_pid", party.is_party() and party.get_leader_pid() or 0)
+				server_timer("snow_dungeon_killed_A_1", 6, map_idx)
+			elseif stage == 4 then
+				d.setf("level", 4)
+				d.regen_file(MOB_REGEN_FILE_PATH .. "id_4f.txt")
 
-				if d.getf("tickets_consumed") == 0 then
-					d.delete_item_in_item_group_from_all("fd_pass_ticket")
-					d.setqf2("snow_dungeon", "ticket_delete", 1)
-					d.setf("tickets_consumed", 1)
-				end
-
-				d.setf("level4_boss_gen", 0)
-				d.setf("stonekill", 0)
-				d.setf("level8_clear", 0)
-
-				d.say_diff_by_item_group("fd_pass_ticket", gameforge.snow_dungeon._070_say, gameforge.snow_dungeon._080_say)
+				server_timer("snow_dungeon_killed_A_1", 6, map_idx)
+			elseif stage == 5 then
+				d.setf("level", 5)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
 				
-				server_timer("snow_dungeon_30m_left_timer", 15 * 60, map_idx)
-				server_timer("snow_dungeon_45m_left_timer", 15 * 60, map_idx)
+				local vis = { 0, 0, 0, 0, 0 }
 
-				if s == 2 then
-					d.setf("level", 2)
-					d.jump_all(setting.WARP_pos[2][1], setting.WARP_pos[2][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_2f.txt")
-					
-					notice_multiline(gameforge.snow_dungeon._220_notice, d.notice)
-				elseif s == 3 then
-					d.setf("level", 3)
-					d.jump_all(setting.WARP_pos[3][1], setting.WARP_pos[3][2])
-					d.regen_file(MOB_REGEN_FILE_PATH .. "id_3f.txt")
-					
-					server_timer("snow_dungeon_killed_A_1", 6, map_idx)
-					notice_multiline(gameforge.snow_dungeon._260_notice, d.notice)
-				elseif s == 4 then
-					d.setf("level", 4)
-					d.jump_all(setting.WARP_pos[4][1], setting.WARP_pos[4][2])
-					d.regen_file(MOB_REGEN_FILE_PATH .. "id_4f.txt")
-					d.setf("level4_boss_gen", 0)
-					
-					server_timer("snow_dungeon_killed_A_1", 6, map_idx)
-					notice_multiline(gameforge.snow_dungeon._270_notice, d.notice)
-				elseif s == 5 then
-					d.setf("level", 5)
-					d.jump_all(setting.WARP_pos[5][1], setting.WARP_pos[5][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
-					
-					notice_multiline(gameforge.snow_dungeon._280_notice, d.notice)
-					notice_multiline(gameforge.snow_dungeon._290_notice, d.notice)
+				for i = 1, 5 do
+					local ran = number(1, 5)
+					local st = 0
 
-					local vis = { 0, 0, 0, 0, 0 }
+					for j = 1, 50 do
+						st = st + 1
 
-					for i = 1, 5 do 
-						local ran = number(1, 5)
-						local st = 0
-						
-						for j = 1, 50 do
-							st = st + 1
+						if st > 5 then st = 1 end
 
-							if st > 5 then
-								st = 1
-							end
+						if vis[st] == 0 then
+							ran = ran - 1
 
-							if vis[st] == 0 then
-								ran = ran - 1
-
-								if ran == 0 then
-									vis[st] = 1
-									d.set_unique("stone5_" .. st, d.spawn_mob(LEVEL5_STONE, setting.LEVEL5_STONE_pos[i][1], setting.LEVEL5_STONE_pos[i][2]))
-									
-									break
-								end
+							if ran == 0 then
+								vis[st] = 1
+								
+								d.set_unique("stone5_" .. st, d.spawn_mob(LEVEL5_STONE, setting.LEVEL5_STONE_pos[i][1], setting.LEVEL5_STONE_pos[i][2]))
+								
+								break
 							end
 						end
 					end
-				elseif s == 6 then
-					d.setf("level", 6)
-					d.jump_all(setting.WARP_pos[6][1], setting.WARP_pos[6][2])
-					d.regen_file(MOB_REGEN_FILE_PATH .. "id_6f.txt")
-					d.set_unique("stage6_npc", d.spawn_mob(20379, 747, 517))
-					server_timer("snow_dungeon_stage6_npc_guard", 10, map_idx)
-					
-					server_timer("snow_dungeon_killed_A_1", 6, map_idx)
-					notice_multiline(gameforge.snow_dungeon._360_notice, d.notice)
-				elseif s == 7 then
-					d.setf("level", 7)
-					d.jump_all(setting.WARP_pos[7][1], setting.WARP_pos[7][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_7f.txt")
-					
-					notice_multiline(gameforge.snow_dungeon._380_notice, d.notice)
-					notice_multiline(gameforge.snow_dungeon._390_notice, d.notice)
-
-					local vis = { 0, 0, 0, 0 }
-
-					for i = 1, 3 do
-						vis[i] = 0
-					end
-
-					for i = 1, 4 do 
-						local ran = number(1, 4)
-						local st = 0
-
-						for j = 1, 50 do
-							st = st + 1
-
-							if st > 4 then
-								st = 1
-							end
-
-							if vis[st] == 0 then
-								ran = ran - 1
-
-								if ran == 0 then
-									vis[st] = 1
-									d.set_unique("boss7_" .. st, d.spawn_mob(LEVEL7_BOSSMOB, setting.LEVEL7_BOSSMOB_pos[i][1], setting.LEVEL7_BOSSMOB_pos[i][2]))
-									
-									break
-								end
-							end
-						end
-					end
-
-					for i = 1, 4 do
-						local vid = d.get_unique_vid('boss7_' .. i)
-						
-						if vid ~= 0 then
-							npc.set_damage_immunity_with_conditions(vid, {{ type = 0, value = GICHEON_BUFF }})
-						end
-					end
-					
-					server_timer("snow_dungeon_killed_B_1", 6, map_idx)
-				elseif s == 8 then
-					d.setf("level", 8)
-					d.jump_all(setting.WARP_pos[8][1], setting.WARP_pos[8][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_8f.txt")
-					
-					notice_multiline(gameforge.snow_dungeon._420_notice, d.notice)
-				elseif s == 9 then
-					d.setf("level", 9)
-					d.jump_all(setting.WARP_pos[9][1], setting.WARP_pos[9][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_9f.txt")
-					d.spawn_mob_with_immunity(LEVEL9_TARGET, setting.LEVEL9_TARGET_pos[1][1], setting.LEVEL9_TARGET_pos[1][2], {{ type = 6, value = 1 }, { type = 6, value = 3 }})
-					
-					notice_multiline(gameforge.snow_dungeon._450_notice, d.notice)
-				else
-					d.setf("level", 10)
-					d.jump_all(setting.WARP_pos[10][1], setting.WARP_pos[10][2])
-					d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_boss.txt")
-					d.spawn_mob(FINAL_BOSS, setting.boss_pos[1], setting.boss_pos[2])
-					
-					notice_multiline(gameforge.snow_dungeon._490_notice, d.notice)
 				end
+			elseif stage == 6 then
+				d.setf("level", 6)
+				d.regen_file(MOB_REGEN_FILE_PATH .. "id_6f.txt")
+				d.set_unique("stage6_npc", d.spawn_mob(20379, 747, 517))
+
+				server_timer("snow_dungeon_stage6_npc_guard", 10, map_idx)
+				server_timer("snow_dungeon_killed_A_1", 6, map_idx)
+			elseif stage == 7 then
+				d.setf("level", 7)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_7f.txt")
+				
+				local vis = { 0, 0, 0, 0 }
+
+				for i = 1, 3 do vis[i] = 0 end
+
+				for i = 1, 4 do
+					local ran = number(1, 4)
+					local st = 0
+
+					for j = 1, 50 do
+						st = st + 1
+
+						if st > 4 then st = 1 end
+
+						if vis[st] == 0 then
+							ran = ran - 1
+
+							if ran == 0 then
+								vis[st] = 1
+								
+								d.set_unique("boss7_" .. st, d.spawn_mob(LEVEL7_BOSSMOB, setting.LEVEL7_BOSSMOB_pos[i][1], setting.LEVEL7_BOSSMOB_pos[i][2]))
+								
+								break
+							end
+						end
+					end
+				end
+				
+				for i = 1, 4 do
+					local vid = d.get_unique_vid('boss7_' .. i)
+					
+					if vid ~= 0 then
+						npc.set_damage_immunity_with_conditions(vid, {{ type = 0, value = GICHEON_BUFF }})
+					end
+				end
+
+				server_timer("snow_dungeon_killed_B_1", 6, map_idx)
+			elseif stage == 8 then
+				d.setf("level", 8)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_8f.txt")
+			elseif stage == 9 then
+				d.setf("level", 9)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_9f.txt")
+				d.spawn_mob_with_immunity(LEVEL9_TARGET, setting.LEVEL9_TARGET_pos[1][1], setting.LEVEL9_TARGET_pos[1][2], {{ type = 6, value = 1 }, { type = 6, value = 3 }})
+			elseif stage == 10 then
+				d.setf("level", 10)
+				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_boss.txt")
+				d.spawn_mob(FINAL_BOSS, setting.boss_pos[1], setting.boss_pos[2])
 			end
 		end
 
@@ -331,7 +266,7 @@ quest snow_dungeon begin
 			if idx == DUNGEON_MAP_INDEX then
 				timer("snow_dungeon_warp_timer", 5)
 			elseif snow_dungeon.is_snowd(idx) then
-				pc.set_warp_location(ENTRY_MAP_INDEX, setting.outside_entry_pos[1] , setting.outside_entry_pos[2])
+				pc.set_warp_location(ENTRY_MAP_INDEX, setting.outside_entry_pos[1], setting.outside_entry_pos[2])
 
 				if d.getf("dungeon_enter") == 0 then
 					if get_global_time() - pc.getf("snow_dungeon", "exit_time") < ENTER_LIMIT_TIME * 60 then
@@ -348,19 +283,25 @@ quest snow_dungeon begin
 						timer("snow_dungeon_warp_timer", 5)
 					end
 				else
-					-- Clear leader timeout if they're back
-					if party.is_party() and party.is_leader() then
-						clear_server_timer("snow_dungeon_leader_out_timer", idx)
+					if pc.getf("snow_dungeon", "ticket_delete") == 0 then
+						if party.is_party() and party.is_leader() then
+							clear_server_timer("snow_dungeon_leader_out_timer", idx)
+						end
+
+						pc.remove_item(PASS_TICKET, 1)
+						pc.setf("snow_dungeon", "ticket_delete", 1)
 					end
 				end
+			else
+				pc.setf("snow_dungeon", "ticket_delete", 0)
 			end
 		end
 
 		when logout begin
 			local idx = pc.get_map_index()
 
-			if snow_dungeon.is_snowd(idx) then 
-				if d.getf("dungeon_enter") == 1 then 
+			if snow_dungeon.is_snowd(idx) then
+				if d.getf("dungeon_enter") == 1 then
 					pc.setf("snow_dungeon", "exit_time", get_global_time())
 				end
 
@@ -383,41 +324,30 @@ quest snow_dungeon begin
 				d.setf("level", 1)
 				d.regen_file(MOB_REGEN_FILE_PATH .. "id_1f.txt")
 
-				-- Consume the initial entry ticket for everyone inside right when the run starts
-				if d.getf("tickets_consumed") == 0 then
-					d.delete_item_in_item_group_from_all("fd_pass_ticket")
-					d.setqf2("snow_dungeon", "ticket_delete", 1)
-					d.setf("tickets_consumed", 1)
-				end
-
 				server_timer("snow_dungeon_30m_left_timer", 15 * 60, get_server_timer_arg())
 				server_timer("snow_dungeon_killed_A_1", 6, d.get_map_index())
 				server_timer("snow_dungeon_45m_left_timer", 15 * 60, d.get_map_index())
-				
+
 				d.say_diff_by_item_group("fd_pass_ticket", gameforge.snow_dungeon._070_say, gameforge.snow_dungeon._080_say)
-				
+
 				server_timer("snow_dungeon_ticket_remove", 5, d.get_map_index())
 
 				party.setf("dungeon_index", d.get_map_index())
 				d.setf("party_leader_pid", party.get_leader_pid())
 			else
+				say_title(mob_name(DUNGEON_MAN) .. ": ")
 				say(gameforge.snow_dungeon._090_say)
 			end
 		end
 
 		when snow_dungeon_ticket_remove.server_timer begin
 			if d.select(get_server_timer_arg()) then
-				-- Fallback cleanup in case the start NPC path did not consume tickets
-				if d.getf("tickets_consumed") == 0 then
-					d.exit_all_by_item_group("fd_pass_ticket")
-					d.delete_item_in_item_group_from_all("fd_pass_ticket")
-					d.setqf2("snow_dungeon", "ticket_delete", 1)
-					d.setf("tickets_consumed", 1)
-				end
-
+				d.exit_all_by_item_group("fd_pass_ticket")
+				d.delete_item_in_item_group_from_all("fd_pass_ticket")
+				d.setqf2("snow_dungeon", "ticket_delete", 1)
 				d.setf("dungeon_enter", 1)
 				d.setf("dungeon_start_time", get_global_time())
-				
+
 				notice_multiline(gameforge.snow_dungeon._120_notice, d.notice)
 			end
 		end
@@ -462,232 +392,98 @@ quest snow_dungeon begin
 					party.setf("dungeon_index", 0)
 
 					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say("Party dungeon state has been reset by GM.")
+					say("Per-character dungeon cooldown states have been reset.")
 				else
 					-- Solo GM reset
 					pc.setf("snow_dungeon", "ticket_delete", 0)
 					pc.setf("snow_dungeon", "exit_time", 0)
-					
+
 					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say("Your dungeon state has been reset.")
+					say("Your dungeon cooldown states have been reset.")
 				end
 			end
 		end
 
 		when ENTRY_MAN.chat."GM: Start at stage" with pc.is_gm() begin
-			say_title(mob_name(ENTRY_MAN) .. ": ")
-			say("Select stage to start:")
+			-- Check all party members have passage tickets
+			local pids = { party.get_member_pids() }
 
-			local sel = select(
-				"1. Clear room",
-				"2. Frost Keys",
-				"3. Clear room",
-				"4. Dual-wave (Blessing)",
-				"5. Arctic Cubes",
-				"6. Metin of Cold (Shaman)",
-				"7. Szel (Dragon's Aid)",
-				"8. Frostflower Key",
-				"9. Pillar (Ninja/Shaman)",
-				"10. Nemere",
-				"Cancel"
-			)
+			-- Check all party members are level 100+
+			local has_low_level = false
 
-			if sel >= 1 and sel <= 10 then
-				snow_dungeon.start_dungeon_at_stage(sel)
-			end
-		end
+			for i = 1, table.getn(pids) do
+				q.begin_other_pc_block(pids[i])
 
-		when ENTRY_MAN.chat.gameforge.snow_dungeon._100_npcChat with pc.get_map_index() == ENTRY_MAP_INDEX begin
-			local setting = snow_dungeon.setting()
-			
-			-- Try to find the dungeon instance player belongs to
-			local dungeon_map_idx = 0
-			local is_valid_dungeon = false
-			
-			-- Check if player is in party and party has a dungeon
-			if party.is_party() then
-				dungeon_map_idx = party.getf("dungeon_index")
+				if pc.get_level() < 100 then
+					has_low_level = true
+				end
 
-				if dungeon_map_idx > 0 and d.find(dungeon_map_idx) then
-					-- Verify this is the same party that created the dungeon
-					if d.getf_from_map_index("party_leader_pid", dungeon_map_idx) == party.get_leader_pid() then
-						is_valid_dungeon = true
-					end
+				q.end_other_pc_block()
+
+				if has_low_level then
+					break
 				end
 			end
-			
-			-- If no valid party dungeon, check if player has solo re-entry eligibility
-			if not is_valid_dungeon and pc.getf("snow_dungeon", "initial_entry") == 1 then
-				-- Player was in a dungeon previously, try to find it
-				for test_idx = DUNGEON_MAP_INDEX * 10000, (DUNGEON_MAP_INDEX + 1) * 10000 - 1 do
-					if d.find(test_idx) and d.getf_from_map_index("dungeon_enter", test_idx) == 1 then
-						-- Found active dungeon, allow re-entry
-						dungeon_map_idx = test_idx
-						is_valid_dungeon = true
 
-						break
+			if has_low_level then
+				say_title(mob_name(ENTRY_MAN) .. ": ")
+				say(string.format(gameforge.snow_dungeon._050_notice, 100))
+			elseif pc.is_riding() then
+				say_title(mob_name(ENTRY_MAN) .. ": ")
+				say(gameforge.snow_dungeon._620_say)
+			else
+				-- Check for ninja and shaman in party (no nested other_pc_block)
+				local has_ninja = false
+				local has_shaman = false
+
+				for i = 1, table.getn(pids) do
+					q.begin_other_pc_block(pids[i])
+
+					local job = pc.get_job()
+
+					if job == 1 then
+						has_ninja = true
 					end
+
+					if job == 3 and pc.get_skill_group() == 1 then
+						has_shaman = true
+					end
+
+					q.end_other_pc_block()
 				end
-			end
-			
-			-- Handle re-entry into active dungeon
-			if is_valid_dungeon and dungeon_map_idx > 0 then
-				local map_idx = dungeon_map_idx
-				local current_time = get_global_time()
-				local dungeon_enter = d.getf_from_map_index("dungeon_enter", map_idx)
-				local dungeon_start_time = d.getf_from_map_index("dungeon_start_time", map_idx)
 
-				-- Dungeon has been started; check 5-minute windows
-				if dungeon_enter == 1 then
-					-- True re-entry requires both ticket consumed AND having actually entered before
-					local is_reentry = pc.getf("snow_dungeon", "ticket_delete") == 1 and pc.getf("snow_dungeon", "initial_entry") == 1
-					local allow = false
-
-					if pc.get_level() < 100 then
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(string.format(gameforge.snow_dungeon._050_notice, 100))
-
-						return
-					elseif pc.is_riding() then
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(gameforge.snow_dungeon._620_say)
-
-						return
-					elseif is_reentry then
-						-- Per-player re-entry window from last exit
-						if current_time - pc.getf("snow_dungeon", "exit_time") < 5 * 60 then
-							allow = true
-						end
-					else
-						-- Late entry window from dungeon start; requires ticket
-						if current_time - dungeon_start_time < 5 * 60 then
-							if pc.count_item(PASS_TICKET) < 1 then
-								say_title(mob_name(ENTRY_MAN) .. ": ")
-								say(gameforge.snow_dungeon._040_say)
-								
-								return
-							else
-								allow = true
-							end
-						end
-					end
-
-					if allow then
-						local dungeon_level = d.getf_from_map_index("level", map_idx)
-
-						if dungeon_level == 0 then
-							dungeon_level = 1
-						end
-
-						-- Consume ticket for late entries right here (before warp)
-						-- Re-entries already have ticket_delete = 1 from their initial entry
-						if not is_reentry and pc.getf("snow_dungeon", "ticket_delete") == 0 then
-							pc.remove_item(PASS_TICKET, 1)
-							pc.setf("snow_dungeon", "ticket_delete", 1)
-						end
-
-						-- Count player back into the instance if not already counted
-						if pc.getf("snow_dungeon", "counted") == 0 then
-							if d.find(map_idx) and d.select(map_idx) then
-								d.setf("party_member_count", d.getf("party_member_count") + 1)
-								pc.setf("snow_dungeon", "counted", 1)
-							end
-						end
-
-						-- Mark as having entered if this is first time
-						if pc.getf("snow_dungeon", "initial_entry") == 0 then
-							pc.setqf("snow_dungeon", "initial_entry", 1)
-						end
-
-						pc.warp(setting.WARP_pos[dungeon_level][1] * 100, setting.WARP_pos[dungeon_level][2] * 100, map_idx)
-					else
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(gameforge.snow_dungeon._110_say)
-
-						return
-					end
-				elseif dungeon_enter == 0 and party.is_party() and party.is_leader() then
-					-- Dungeon not started yet, only party leader can request entry
-					local dungeon_level = d.getf_from_map_index("level", map_idx)
-					
-					if dungeon_level == 0 then
-						dungeon_level = 1
-					end
-					
-					pc.warp(setting.WARP_pos[dungeon_level][1] * 100, setting.WARP_pos[dungeon_level][2] * 100, map_idx)
-				elseif dungeon_enter == 0 then
-					-- Dungeon not started and player not leader
+				if not has_ninja or not has_shaman then
 					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say(gameforge.snow_dungeon._160_say)
-					
-					return
-				else
-					-- Re-entry/late entry window expired
+					say(gameforge.snow_dungeon._170_say)
+				elseif not party.is_party() then
 					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say(gameforge.snow_dungeon._110_say)
-					
-					return
-				end
-			-- Handle initial dungeon creation (only for party leaders)
-			elseif party.is_party() then
-				if party.is_leader() then
-					-- Check all party members have passage tickets
-					local pids = { party.get_member_pids() }
-					
-					-- Check all party members are level 100+
-					local min_level = party.get_near_count(pc.get_level(), 0, 1000000)
-					local total_members = party.get_near_count(1, 0, 1000000)
-					
-					if party.get_near_count(100, 0, 1000000) < total_members then
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(string.format(gameforge.snow_dungeon._050_notice, 100))
-
-						return
-					end
-
-					if pc.is_riding() then
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(gameforge.snow_dungeon._620_say)
-
-						return
-					end
-					
-					-- Check for ninja and shaman in party (no nested other_pc_block)
-					local has_ninja = false
-					local has_shaman = false
-					
-					for i = 1, table.getn(pids) do
-						q.begin_other_pc_block(pids[i])
-
-						local job = pc.get_job()
-
-						if job == 1 then
-							has_ninja = true
-						end
-
-						if job == 3 and pc.get_skill_group() == 1 then
-							has_shaman = true
-						end
-
-						q.end_other_pc_block()
-					end
-					
-					if not has_ninja or not has_shaman then
-						say_title(mob_name(ENTRY_MAN) .. ": ")
-						say(gameforge.snow_dungeon._170_say)
-
-						return
-					end
-					
+					say("You must be in a party.")
+				elseif not party.is_leader() then
 					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say(gameforge.snow_dungeon._130_say)
-
-					local warp = select(gameforge.snow_dungeon._140_select, gameforge.snow_dungeon._150_select)
+					say("Only the party leader can do this.")
+				else			
+					say_title(mob_name(ENTRY_MAN) .. ": ")
+					say("Select stage to start:")
 					
-					if warp == 1 then
+					local sel = select(
+						"1. Clear room",
+						"2. Frost Keys",
+						"3. Clear room",
+						"4. Dual-wave (Blessing)",
+						"5. Arctic Cubes",
+						"6. Metin of Cold (Shaman)",
+						"7. Szel (Dragon's Aid)",
+						"8. Frostflower Key",
+						"9. Pillar (Ninja/Shaman)",
+						"10. Nemere",
+						"Cancel"
+					)
+					
+					if sel >= 1 and sel <= 10 then
 						local members_without_ticket = {}
 						local members_riding = {}
-						
+						local members_cooling_down = {}
+
 						for i = 1, table.getn(pids) do
 							q.begin_other_pc_block(pids[i])
 
@@ -699,15 +495,17 @@ quest snow_dungeon begin
 								table.insert(members_without_ticket, pc.get_name())
 							end
 
+							if get_global_time() - pc.getf("snow_dungeon", "exit_time") < ENTER_LIMIT_TIME * 60 then
+								table.insert(members_cooling_down, pc.get_name())
+							end
+
 							q.end_other_pc_block()
 						end
-						
+
 						if table.getn(members_riding) > 0 then
 							say_title(mob_name(ENTRY_MAN) .. ": ")
 							say(gameforge.snow_dungeon._630_say)
-
-							return
-						elseif table.getn(members_without_ticket) > 0 then
+						elseif table.getn(members_without_ticket) > 0 and sel == 1 then
 							say_title(mob_name(ENTRY_MAN) .. ": ")
 							say(gameforge.snow_dungeon._610_notice)
 							say("")
@@ -715,19 +513,158 @@ quest snow_dungeon begin
 							for i = 1, table.getn(members_without_ticket) do
 								say(string.format("  - %s", members_without_ticket[i]))
 							end
-
-							say("")
-						elseif party.is_map_member_flag_lt("exit_time", get_global_time() - ENTER_LIMIT_TIME * 60) then
-							party.setf("snow_dungeon_boss_kill_count", 0)
-							snow_dungeon.make_dungeon()
-						else
+						elseif table.getn(members_cooling_down) > 0 then
 							say_title(mob_name(ENTRY_MAN) .. ": ")
 							say(gameforge.snow_dungeon._600_say)
+						else
+							snow_dungeon.start_at_level(sel)
 						end
 					end
+				end
+			end
+		end
+
+		when ENTRY_MAN.chat.gameforge.snow_dungeon._100_npcChat with pc.get_map_index() == ENTRY_MAP_INDEX begin
+			if party.is_party() then
+				local party_check = 0
+
+				if d.find(party.getf("dungeon_index")) then
+					party_check = (d.getf_from_map_index("party_leader_pid", party.getf("dungeon_index")) == party.get_leader_pid())
+				end
+
+				if d.find(party.getf("dungeon_index")) and party_check then
+					local dungeon_level = d.getf_from_map_index("level", party.getf("dungeon_index"))
+					local setting = snow_dungeon.setting()
+
+					if dungeon_level == 0 then
+						dungeon_level = 1
+					end
+
+					if pc.get_level() < 100 then
+						say_title(mob_name(ENTRY_MAN) .. ": ")
+						say(gameforge.snow_dungeon._050_notice)
+					elseif pc.is_riding() then
+						say_title(mob_name(ENTRY_MAN) .. ": ")
+						say(gameforge.snow_dungeon._620_say)
+					elseif get_global_time() - pc.getf("snow_dungeon", "exit_time") < 5 * 60 then
+						pc.warp(setting.WARP_pos[dungeon_level][1] * 100, setting.WARP_pos[dungeon_level][2] * 100, party.getf("dungeon_index"))
+					elseif get_global_time() - d.getf_from_map_index("dungeon_start_time", party.getf("dungeon_index")) < 5 * 60 then
+						if pc.count_item(PASS_TICKET) < 1 then
+							say_title(mob_name(ENTRY_MAN) .. ": ")
+							say(gameforge.snow_dungeon._040_notice)
+						else
+							pc.warp(setting.WARP_pos[dungeon_level][1] * 100, setting.WARP_pos[dungeon_level][2] * 100, party.getf("dungeon_index"))
+						end
+					else
+						say_title(mob_name(ENTRY_MAN) .. ": ")
+						say(gameforge.snow_dungeon._110_say)
+					end
 				else
-					say_title(mob_name(ENTRY_MAN) .. ": ")
-					say(gameforge.snow_dungeon._160_say)
+					if party.is_leader() then
+						-- Check all party members have passage tickets
+						local pids = { party.get_member_pids() }
+
+						-- Check all party members are level 100+
+						local has_low_level = false
+
+						for i = 1, table.getn(pids) do
+							q.begin_other_pc_block(pids[i])
+
+							if pc.get_level() < 100 then
+								has_low_level = true
+							end
+
+							q.end_other_pc_block()
+
+							if has_low_level then
+								break
+							end
+						end
+
+						if has_low_level then
+							say_title(mob_name(ENTRY_MAN) .. ": ")
+							say(string.format(gameforge.snow_dungeon._050_notice, 100))
+						elseif pc.is_riding() then
+							say_title(mob_name(ENTRY_MAN) .. ": ")
+							say(gameforge.snow_dungeon._620_say)
+						else
+							-- Check for ninja and shaman in party (no nested other_pc_block)
+							local has_ninja = false
+							local has_shaman = false
+
+							for i = 1, table.getn(pids) do
+								q.begin_other_pc_block(pids[i])
+
+								local job = pc.get_job()
+
+								if job == 1 then
+									has_ninja = true
+								end
+
+								if job == 3 and pc.get_skill_group() == 1 then
+									has_shaman = true
+								end
+
+								q.end_other_pc_block()
+							end
+
+							if not has_ninja or not has_shaman then
+								say_title(mob_name(ENTRY_MAN) .. ": ")
+								say(gameforge.snow_dungeon._170_say)
+							else
+								say_title(mob_name(ENTRY_MAN) .. ": ")
+								say(gameforge.snow_dungeon._130_say)
+
+								local warp = select(gameforge.snow_dungeon._140_select, gameforge.snow_dungeon._150_select)
+
+								if warp == 1 then
+									local members_without_ticket = {}
+									local members_riding = {}
+									local members_cooling_down = {}
+
+									for i = 1, table.getn(pids) do
+										q.begin_other_pc_block(pids[i])
+
+										if pc.is_riding() then
+											table.insert(members_riding, pc.get_name())
+										end
+
+										if pc.count_item(PASS_TICKET) < 1 then
+											table.insert(members_without_ticket, pc.get_name())
+										end
+
+										if get_global_time() - pc.getf("snow_dungeon", "exit_time") < ENTER_LIMIT_TIME * 60 then
+											table.insert(members_cooling_down, pc.get_name())
+										end
+
+										q.end_other_pc_block()
+									end
+
+									if table.getn(members_riding) > 0 then
+										say_title(mob_name(ENTRY_MAN) .. ": ")
+										say(gameforge.snow_dungeon._630_say)
+									elseif table.getn(members_without_ticket) > 0 then
+										say_title(mob_name(ENTRY_MAN) .. ": ")
+										say(gameforge.snow_dungeon._610_notice)
+										say("")
+
+										for i = 1, table.getn(members_without_ticket) do
+											say(string.format("  - %s", members_without_ticket[i]))
+										end
+									elseif table.getn(members_cooling_down) > 0 then
+										say_title(mob_name(ENTRY_MAN) .. ": ")
+										say(gameforge.snow_dungeon._600_say)
+									else
+										party.setf("snow_dungeon_boss_kill_count", 0)
+										snow_dungeon.make_dungeon()
+									end
+								end
+							end
+						end
+					else
+						say_title(mob_name(ENTRY_MAN) .. ": ")
+						say(gameforge.snow_dungeon._160_say)
+					end
 				end
 			else
 				say_title(mob_name(ENTRY_MAN) .. ": ")
@@ -738,7 +675,7 @@ quest snow_dungeon begin
 		when snow_dungeon_killed_A_1.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
-				
+
 				if d.count_monster() <= 0 then
 					if d.getf("level") == 1 then
 						notice_multiline(gameforge.snow_dungeon._180_notice, d.notice)
@@ -748,36 +685,31 @@ quest snow_dungeon begin
 						server_timer("snow_dungeon_level4_start", 10, d.get_map_index())
 					elseif d.getf("level") == 4 then
 						if d.getf("level4_boss_gen") == 0 then
-							-- First clear: trigger second wave with boss group 6062 that requires Hosin buff to break immunity
-							char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL4 second wave (boss) STARTED")
+							char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL4_boss_gen STARTED")
+
 							d.setf("level4_boss_gen", 1)
-							-- Spawn boss group with Hosin-only immunity
 							d.spawn_group_with_immunity(LEVEL4_TARGET_GROUP, setting.LEVEL4_TARGET_pos[1], setting.LEVEL4_TARGET_pos[2], 1, true, 1, {{ type = 0, value = HOSIN_BUFF }})
-							-- Re-run stage mobs for the second wave (no immunity on regular mobs)
 							d.regen_file(MOB_REGEN_FILE_PATH .. "id_4f.txt")
-							
 							server_timer("snow_dungeon_killed_A_2", 6, get_server_timer_arg())
 						elseif d.getf("level4_boss_gen") == 1 then
 							d.setf("level4_boss_gen", 0)
-							
+
 							notice_multiline(gameforge.snow_dungeon._200_notice, d.notice)
 							server_timer("snow_dungeon_level5_start", 10, d.get_map_index())
 						end
 					elseif d.getf("level") == 6 then
 						notice_multiline(gameforge.snow_dungeon._210_notice, d.notice)
-						
-						d.spawn_mob_with_immunity(LEVEL6_TARGET, setting.LEVEL6_TARGET_pos[1], setting.LEVEL6_TARGET_pos[2], { { type = 6, value = 3 } })
+						d.spawn_mob_with_immunity(LEVEL6_TARGET, setting.LEVEL6_TARGET_pos[1], setting.LEVEL6_TARGET_pos[2], {{ type = 6, value = 3 }})
 					end
-				else 
+				else
 					server_timer("snow_dungeon_killed_A_2", 6, get_server_timer_arg())
 				end
 			end
 		end
-
 		when snow_dungeon_killed_A_2.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
-				
+
 				if d.count_monster() <= 0 then
 					if d.getf("level") == 1 then
 						notice_multiline(gameforge.snow_dungeon._180_notice, d.notice)
@@ -787,47 +719,45 @@ quest snow_dungeon begin
 						server_timer("snow_dungeon_level4_start", 10, d.get_map_index())
 					elseif d.getf("level") == 4 then
 						if d.getf("level4_boss_gen") == 0 then
-							-- First clear: trigger second wave with boss group 6062 that requires Hosin buff to break immunity
-							char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL4 second wave (boss) STARTED")
+							char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL4_boss_gen STARTED")
+
 							d.setf("level4_boss_gen", 1)
 							d.spawn_group_with_immunity(LEVEL4_TARGET_GROUP, setting.LEVEL4_TARGET_pos[1], setting.LEVEL4_TARGET_pos[2], 1, true, 1, {{ type = 0, value = HOSIN_BUFF }})
 							d.regen_file(MOB_REGEN_FILE_PATH .. "id_4f.txt")
-							
+
 							server_timer("snow_dungeon_killed_A_1", 6, get_server_timer_arg())
 						elseif d.getf("level4_boss_gen") == 1 then
 							d.setf("level4_boss_gen", 0)
-							
+
 							notice_multiline(gameforge.snow_dungeon._200_notice, d.notice)
 							server_timer("snow_dungeon_level5_start", 10, d.get_map_index())
 						end
 					elseif d.getf("level") == 6 then
 						notice_multiline(gameforge.snow_dungeon._210_notice, d.notice)
-						
-						d.spawn_mob_with_immunity(LEVEL6_TARGET, setting.LEVEL6_TARGET_pos[1], setting.LEVEL6_TARGET_pos[2], { { type = 6, value = 3 } })
+						d.spawn_mob_with_immunity(LEVEL6_TARGET, setting.LEVEL6_TARGET_pos[1], setting.LEVEL6_TARGET_pos[2], {{ type = 6, value = 3 }})
 					end
-				else 
+				else
 					server_timer("snow_dungeon_killed_A_1", 6, get_server_timer_arg())
 				end
 			end
 		end
 
-		when snow_dungeon_level2_start.server_timer begin 
+		when snow_dungeon_level2_start.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
-				
+
 				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 2 started")
-				
+
 				d.setf("level", 2)
 				d.jump_all(setting.WARP_pos[2][1], setting.WARP_pos[2][2])
 				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_2f.txt")
-				
+
 				notice_multiline(gameforge.snow_dungeon._220_notice, d.notice)
 			end
 		end
 
-		when kill with snow_dungeon.is_snowd(pc.get_map_index()) and d.getf("level") == 2 begin 
+		when kill with snow_dungeon.is_snowd(pc.get_map_index()) and d.getf("level") == 2 begin
 			local i = number(1, 100)
-			
 			if i == 1 then
 				game.drop_item(LEVEL2_REALKEY, 1)
 			end
@@ -837,14 +767,11 @@ quest snow_dungeon begin
 			if pc.get_job() == 3 then
 				if d.getf("level2_clear") == 0 then
 					local j = number(1, 5)
-					
 					if j == 1 then
 						item.remove()
 						snow_dungeon.level_clear()
-						
 						notice_multiline(gameforge.snow_dungeon._230_notice, d.notice)
 						server_timer("snow_dungeon_level3_start", 10, d.get_map_index())
-						
 						d.setf("level2_clear", 1)
 					else
 						say(gameforge.snow_dungeon._240_say)
@@ -859,55 +786,49 @@ quest snow_dungeon begin
 		when snow_dungeon_level3_start.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
-				
 				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 3 started")
-				
 				d.setf("level", 3)
 				d.jump_all(setting.WARP_pos[3][1], setting.WARP_pos[3][2])
 				d.regen_file(MOB_REGEN_FILE_PATH .. "id_3f.txt")
-				
 				server_timer("snow_dungeon_killed_A_1", 6, d.get_map_index())
 				notice_multiline(gameforge.snow_dungeon._260_notice, d.notice)
-			end 
+			end
 		end
 
 		when snow_dungeon_level4_start.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
-				
 				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 4 started")
-				
 				d.setf("level", 4)
 				d.jump_all(setting.WARP_pos[4][1], setting.WARP_pos[4][2])
 				d.regen_file(MOB_REGEN_FILE_PATH .. "id_4f.txt")
-				
 				server_timer("snow_dungeon_killed_A_1", 6, d.get_map_index())
 				notice_multiline(gameforge.snow_dungeon._270_notice, d.notice)
-			end 
+			end
 		end
+
 
 		when snow_dungeon_level5_start.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
 
 				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 5 started")
-				
+
 				d.setf("level", 5)
 				d.jump_all(setting.WARP_pos[5][1], setting.WARP_pos[5][2])
 				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
-				
+
 				notice_multiline(gameforge.snow_dungeon._280_notice, d.notice)
 				notice_multiline(gameforge.snow_dungeon._290_notice, d.notice)
 
 				local vis = { 0, 0, 0, 0, 0 }
-				
-				for i = 1, 5 do 
+
+				for i = 1, 5 do
 					local ran = number(1, 5)
 					local st = 0
-					
+
 					for j = 1, 50 do
 						st = st + 1
-
 						if st > 5 then
 							st = 1
 						end
@@ -918,7 +839,7 @@ quest snow_dungeon begin
 							if ran == 0 then
 								vis[st] = 1
 								d.set_unique("stone5_" .. st, d.spawn_mob(LEVEL5_STONE, setting.LEVEL5_STONE_pos[i][1], setting.LEVEL5_STONE_pos[i][2]))
-								
+
 								break
 							end
 						end
@@ -929,7 +850,7 @@ quest snow_dungeon begin
 
 		when kill with snow_dungeon.is_snowd(pc.get_map_index()) and d.getf("level") == 5 begin
 			local i = number(1, 100)
-			
+
 			if i == 1 then
 				game.drop_item(LEVEL5_REALKEY, 1)
 			end
@@ -937,25 +858,25 @@ quest snow_dungeon begin
 
 		when LEVEL5_STONE.take with snow_dungeon.is_snowd(d.get_map_index()) and item.vnum == LEVEL5_REALKEY and d.getf("level") == 5 begin
 			local setting = snow_dungeon.setting()
-			
-			if npc.get_vid() == d.get_unique_vid("stone5_1") then 
+			if npc.get_vid() == d.get_unique_vid("stone5_1") then
 				npc.purge()
 				item.remove()
-				
+
 				say(gameforge.snow_dungeon._300_say)
+
 				d.setf("stonekill", 2)
-				
 				if d.count_monster() < LEVEL5_GEN_LIMIT then
 					d.regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
 				end
-			elseif npc.get_vid() == d.get_unique_vid("stone5_2") then 
-				if d.getf("stonekill") == 2 then 
+			elseif npc.get_vid() == d.get_unique_vid("stone5_2") then
+				if d.getf("stonekill") == 2 then
 					npc.purge()
 					item.remove()
-					
+
 					say(gameforge.snow_dungeon._310_say)
+
 					d.setf("stonekill", 3)
-					
+
 					if d.count_monster() < LEVEL5_GEN_LIMIT then
 						d.regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
 					end
@@ -967,10 +888,11 @@ quest snow_dungeon begin
 				if d.getf("stonekill") == 3 then
 					npc.purge()
 					item.remove()
-					
+
 					say(gameforge.snow_dungeon._330_say)
+
 					d.setf("stonekill", 4)
-					
+
 					if d.count_monster() < LEVEL5_GEN_LIMIT then
 						d.regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
 					end
@@ -982,10 +904,10 @@ quest snow_dungeon begin
 				if d.getf("stonekill") == 4 then
 					npc.purge()
 					item.remove()
-					
+
 					say(gameforge.snow_dungeon._340_say)
+
 					d.setf("stonekill", 5)
-					
 					if d.count_monster() < LEVEL5_GEN_LIMIT then
 						d.regen_file(MOB_REGEN_FILE_PATH .. "id_5f.txt")
 					end
@@ -993,41 +915,42 @@ quest snow_dungeon begin
 					item.remove()
 					say(gameforge.snow_dungeon._320_say)
 				end
-			else 
+			else
 				if d.getf("stonekill") == 5 then
 					npc.purge()
 					item.remove()
-					
 					notice_multiline(gameforge.snow_dungeon._350_notice, d.notice)
 					snow_dungeon.level_clear()
 					server_timer("snow_dungeon_level6_start", 10, d.get_map_index())
 				else
 					item.remove()
 					say(gameforge.snow_dungeon._320_say)
+					end
 				end
 			end
-		end
 
 		when snow_dungeon_level6_start.server_timer begin
 			if d.select(get_server_timer_arg()) then
 				local setting = snow_dungeon.setting()
 
-				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 6 started")
+				char_log(pc.get_channel_id() .. "" .. 	d.get_map_index(), "NW", "LEVEL 6 started")
 
 				d.setf("level", 6)
 				d.jump_all(setting.WARP_pos[6][1], setting.WARP_pos[6][2])
 				d.regen_file(MOB_REGEN_FILE_PATH .. "id_6f.txt")
 				d.set_unique("stage6_npc", d.spawn_mob(20379, 747, 517))
+
 				server_timer("snow_dungeon_stage6_npc_guard", 10, d.get_map_index())
-				
 				server_timer("snow_dungeon_killed_A_1", 6, d.get_map_index())
+
 				notice_multiline(gameforge.snow_dungeon._360_notice, d.notice)
-			end 
+			end
 		end
 
 		when LEVEL6_TARGET.kill with snow_dungeon.is_snowd(d.get_map_index()) and d.getf("level") == 6 begin
 			notice_multiline(gameforge.snow_dungeon._370_notice, d.notice)
 			snow_dungeon.level_clear()
+
 			server_timer("snow_dungeon_level7_start", 10, d.get_map_index())
 		end
 
@@ -1040,7 +963,7 @@ quest snow_dungeon begin
 				d.setf("level", 7)
 				d.jump_all(setting.WARP_pos[7][1], setting.WARP_pos[7][2])
 				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_7f.txt")
-				
+
 				notice_multiline(gameforge.snow_dungeon._380_notice, d.notice)
 				notice_multiline(gameforge.snow_dungeon._390_notice, d.notice)
 
@@ -1050,7 +973,7 @@ quest snow_dungeon begin
 					vis[i] = 0
 				end
 
-				for i = 1, 4 do 
+				for i = 1, 4 do
 					local ran = number(1, 4)
 					local st = 0
 
@@ -1067,7 +990,7 @@ quest snow_dungeon begin
 							if ran == 0 then
 								vis[st] = 1
 								d.set_unique("boss7_" .. st, d.spawn_mob(LEVEL7_BOSSMOB, setting.LEVEL7_BOSSMOB_pos[i][1], setting.LEVEL7_BOSSMOB_pos[i][2]))
-								
+
 								break
 							end
 						end
@@ -1077,23 +1000,22 @@ quest snow_dungeon begin
 				-- Apply Dragon's Aid requirement (Gicheon buff) to all stage 7 bosses
 				for i = 1, 4 do
 					local vid = d.get_unique_vid('boss7_' .. i)
-					
+
 					if vid ~= 0 then
 						npc.set_damage_immunity_with_conditions(vid, {{ type = 0, value = GICHEON_BUFF }})
 					end
 				end
-				
+
 				server_timer("snow_dungeon_killed_B_1", 6, d.get_map_index())
-			end 
+			end
 		end
 
-		when snow_dungeon_killed_B_1.server_timer begin 
+		when snow_dungeon_killed_B_1.server_timer begin
 			if d.select(get_server_timer_arg()) then
-				for i = 1, 4 do
+				for i = 1, 3 do
 					if not d.is_unique_dead("boss7_" .. i) then
 						if d.unique_get_hp_perc("boss7_" .. i) < 50 then
 							d.purge_unique("boss7_" .. i)
-							
 							notice_multiline(gameforge.snow_dungeon._400_notice, d.notice)
 						end
 					end
@@ -1114,14 +1036,15 @@ quest snow_dungeon begin
 
 		when snow_dungeon_killed_B_2.server_timer begin
 			if d.select(get_server_timer_arg()) then
-				for i = 1, 4 do
+				for i = 1, 3 do
 					if not d.is_unique_dead("boss7_" .. i) then
 						if d.unique_get_hp_perc("boss7_" .. i) < 50 then
 							d.purge_unique("boss7_" .. i)
-							notice_multiline(gameforge.snow_dungeon._400_notice,  d.notice)
+							notice_multiline(gameforge.snow_dungeon._400_notice, d.notice)
 						end
 					end
 				end
+
 				if d.is_unique_dead("boss7_4") then
 					snow_dungeon.level_clear()
 
@@ -1140,7 +1063,7 @@ quest snow_dungeon begin
 				-- Keep NPC 20379 present during stage 6; respawn if purged
 				if d.getf("level") == 6 then
 					local vid = d.get_unique_vid("stage6_npc")
-					
+
 					if vid == 0 then
 						local new_vid = d.spawn_mob(20379, 747, 517)
 
@@ -1157,34 +1080,35 @@ quest snow_dungeon begin
 				local setting = snow_dungeon.setting()
 
 				char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "LEVEL 8 started")
-				
+
 				d.setf("level", 8)
 				d.jump_all(setting.WARP_pos[8][1], setting.WARP_pos[8][2])
 				d.set_regen_file(MOB_REGEN_FILE_PATH .. "id_8f.txt")
-				
+
 				notice_multiline(gameforge.snow_dungeon._420_notice, d.notice)
 			end
 		end
 
-		when kill with snow_dungeon.is_snowd(pc.get_map_index()) and d.getf("level") == 8 begin 
+		when kill with snow_dungeon.is_snowd(pc.get_map_index()) and d.getf("level") == 8 begin
 			local i = number(1, 100)
-			
+
 			if i == 1 then
 				game.drop_item(LEVEL8_REALKEY, 1)
 			end
 		end
 
-		when LEVEL8_REALKEY.use with snow_dungeon.is_snowd(d.get_map_index()) and d.getf("level") == 8 begin 
+		when LEVEL8_REALKEY.use with snow_dungeon.is_snowd(d.get_map_index()) and d.getf("level") == 8 begin
 			if pc.get_job() == 1 or pc.get_job() == 3 then
 				if d.getf("level8_clear") == 0 then
 					if number(1, 5) == 1 then
+
 						item.remove()
 						snow_dungeon.level_clear()
-						
+
 						notice_multiline(gameforge.snow_dungeon._430_notice, d.notice)
 						server_timer("snow_dungeon_level9_start", 10, d.get_map_index())
 
-						d.setf("level8_clear", 1) 
+						d.setf("level8_clear", 1)
 
 						if party.is_party() then
 							party.setf("snow_dungeon_room_enter", 9)
@@ -1224,20 +1148,21 @@ quest snow_dungeon begin
 
 		when DUNGEON_MAN.chat.gameforge.snow_dungeon._460_npcChat with d.getf("level") == 9 and pc.get_map_index() >= DUNGEON_MAP_INDEX * 10000 and pc.get_map_index() < (DUNGEON_MAP_INDEX + 1) * 10000 begin
 			local setting = snow_dungeon.setting()
-			
+
 			if not party.is_leader() then
 				say(gameforge.snow_dungeon._090_say)
 			else
-				--if pc.get_level() < 104 then 
+				--if pc.get_level() < 104 then
 					--say(gameforge.snow_dungeon._470_say)
 					--server_timer("snow_dungeon_end_timer", 10, d.get_map_index())
 				--else
 					--if pc.getf("main_quest_flame_lv103", "__status")==main_quest_flame_lv103.__COMPLETE__ then
 					--if pc.getf("main_quest_lv1", "__status")==main_quest_lv1.__COMPLETE__ then
+						say_title(mob_name(DUNGEON_MAN) .. ": ")
 						say(gameforge.snow_dungeon._480_say)
-						
+
 						local warp = select(gameforge.snow_dungeon._140_select, gameforge.snow_dungeon._150_select)
-						
+
 						if warp == 1 then
 							d.setf("level", 10)
 							d.jump_all(setting.WARP_pos[10][1], setting.WARP_pos[10][2])
@@ -1246,7 +1171,7 @@ quest snow_dungeon begin
 
 							notice_multiline(gameforge.snow_dungeon._490_notice, d.notice)
 						end
-					--else 
+					--else
 						--say(gameforge.snow_dungeon._500_say)
 						--notice_multiline(gameforge.snow_dungeon._510_notice, d.notice)
 						--server_timer("snow_dungeon_end_timer", 10, d.get_map_index())
@@ -1257,12 +1182,14 @@ quest snow_dungeon begin
 
 		when FINAL_BOSS.kill with snow_dungeon.is_snowd(d.get_map_index()) and d.getf("level") == 10 begin
 			char_log(pc.get_channel_id() .. "" .. d.get_map_index(), "NW", "BOSS KILLED")
+
 			notice_multiline(gameforge.snow_dungeon._520_notice, d.notice)
 			notice_multiline(gameforge.snow_dungeon._530_notice, d.notice)
+
 			server_timer("snow_dungeon_end_timer", 60, d.get_map_index())
-			
+
 			snow_dungeon.level_clear()
-			
+
 			if party.is_party() then
 				party.setf("snow_dungeon_boss_kill_count", 1)
 			end
@@ -1272,6 +1199,7 @@ quest snow_dungeon begin
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(string.format(gameforge.snow_dungeon._540_notice, 45), d.notice)
 				notice_multiline(gameforge.snow_dungeon._550_notice, d.notice)
+
 				server_timer("snow_dungeon_30m_left_timer", 15 * 60, get_server_timer_arg())
 			end
 		end
@@ -1280,6 +1208,7 @@ quest snow_dungeon begin
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(string.format(gameforge.snow_dungeon._540_notice, 30), d.notice)
 				notice_multiline(gameforge.snow_dungeon._550_notice, d.notice)
+
 				server_timer("snow_dungeon_15m_left_timer", 15 * 60, get_server_timer_arg())
 			end
 		end
@@ -1288,6 +1217,7 @@ quest snow_dungeon begin
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(string.format(gameforge.snow_dungeon._540_notice, 15), d.notice)
 				notice_multiline(gameforge.snow_dungeon._550_notice, d.notice)
+
 				server_timer("snow_dungeon_5m_left_timer", 10 * 60, get_server_timer_arg())
 			end
 		end
@@ -1296,6 +1226,7 @@ quest snow_dungeon begin
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(string.format(gameforge.snow_dungeon._540_notice, 5), d.notice)
 				notice_multiline(gameforge.snow_dungeon._550_notice, d.notice)
+
 				server_timer("snow_dungeon_1m_left_timer", 4 * 60, get_server_timer_arg())
 			end
 		end
@@ -1304,34 +1235,38 @@ quest snow_dungeon begin
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(string.format(gameforge.snow_dungeon._540_notice, 1), d.notice)
 				notice_multiline(gameforge.snow_dungeon._550_notice, d.notice)
+
 				server_timer("snow_dungeon_0m_left_timer", 60, get_server_timer_arg())
 			end
 		end
 
 		when snow_dungeon_0m_left_timer.server_timer begin
 			local setting = snow_dungeon.setting()
-			
+
 			if d.select(get_server_timer_arg()) then
 				notice_multiline(gameforge.snow_dungeon._560_notice, d.notice)
 				notice_multiline(gameforge.snow_dungeon._510_notice, d.notice)
+
 				server_timer("snow_dungeon_end_timer", 10, d.get_map_index())
 			end
 		end
 
 		when snow_dungeon_end_timer.server_timer begin
 			local setting = snow_dungeon.setting()
-			
+
 			if d.select(get_server_timer_arg()) then
 				d.setf("party_leader_pid", 0)
+
 				snow_dungeon.clear_timer(d.get_map_index())
-				d.set_warp_location(ENTRY_MAP_INDEX, setting.outside_entry_pos[1] , setting.outside_entry_pos[2])
+
+				d.set_warp_location(ENTRY_MAP_INDEX, setting.outside_entry_pos[1], setting.outside_entry_pos[2])
 				d.exit_all()
 			end
 		end
 
 		when snow_dungeon_leader_out_timer.server_timer begin
 			local setting = snow_dungeon.setting()
-			
+
 			if d.select(get_server_timer_arg()) then
 				say_in_map(get_server_timer_arg(), gameforge.snow_dungeon._570_say .. gameforge.snow_dungeon._580_say)
 				server_timer("snow_dungeon_end_timer", 10, d.get_map_index())
