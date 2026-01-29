@@ -104,7 +104,7 @@ def Replace(lines, parameter_table, keys):
 			else:
 				tokens = my_split_with_seps(
 					s,
-					["\t", ",", " ", "=", "[", "]", "-", "<", ">", "~", "!", ".", "(", ")"],
+					["\t", ",", " ", "=", "[", "]", "-", "<", ">", "~", "!", ".", "(", ")", "\r", "\n"],
 				)
 				for key in keys:
 					try:

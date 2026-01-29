@@ -129,7 +129,7 @@ quest subquest_6 begin
 			target.delete("__TARGET2__")
 			if pc.count_item(30132) >= 1 then
 				pc.setqf("ironore_done", 1)
-				pc.setqf("asked_20011", 1)
+				pc.setqf("asked_20011", 0)
 				pc.remove_item("30132", 1)
 
 				say_title(gameforge.main_quest_lv30._40_sayTitle)
