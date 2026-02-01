@@ -1371,20 +1371,6 @@ LOCK TABLES `sms_pool` WRITE;
 UNLOCK TABLES;
 
 --
--- Table structure for table `string`
---
-
-DROP TABLE IF EXISTS `string`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8mb4 */;
-CREATE TABLE `string` (
-  `name` varchar(64) NOT NULL DEFAULT '',
-  `text` text DEFAULT NULL,
-  PRIMARY KEY (`name`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
 -- Dumping data for table `string`
 --
 
