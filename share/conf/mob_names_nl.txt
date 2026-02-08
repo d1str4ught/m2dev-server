@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Rots Aap
 5162	Lopende Aap
 5163	Apen Heer
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
+6001	Sintel Vlamspook
+6002	Sintel Vlamtijger
+6003	Sintel Vlam
+6004	Sintel Vlamkrijger
+6005	Sintel Vlammenkoning
+6006	Sintel Vlamgolem
+6007	Sintel Vlambaard
+6008	Sintel Vlamgeneraal
+6009	Sintel Vlamleider
 6051	Ignitor
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Vries Kristal
+6102	Vries Kever
+6103	Vries Man
+6104	Vries Yeti
+6105	Vries Golem
+6106	Vries Trol
+6107	Vries Baard
+6108	Vries Generaal
+6109	Vries Heer
 6151	Szel
 6191	Nemere
 7001	Aap Soldaat

@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Горная обезьяна
 5162	Идущая обезьяна
 5163	Обезьяний лорд
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
+6001	Тлеющее пламя-призрак
+6002	Тлеющий пламенный тигр
+6003	Тлеющее пламя
+6004	Тлеющий пламенный воин
+6005	Тлеющий пламенный король
+6006	Тлеющий пламенный голем
+6007	Тлеющая пламенная борода
+6008	Тлеющий пламенный генерал
+6009	Тлеющий пламенный вождь
+6051	Поджигатель
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Морозный кристалл
+6102	Морозный жук
+6103	Морозный человек
+6104	Морозный йети
+6105	Морозный голем
+6106	Морозный тролль
+6107	Морозная борода
+6108	Морозный генерал
+6109	Морозный лорд
 6151	Szel
 6191	Nemere
 7001	Рядовая обезьяна

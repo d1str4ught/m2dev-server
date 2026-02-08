@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Fels-abe
 5162	Gående abe
 5163	Abe-lord
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
+6001	Glødeflamme-ånd
+6002	Glødeflamme-tiger
+6003	Glødeflamme
+6004	Glødeflamme-kriger
+6005	Glødeflamme-konge
+6006	Glødeflamme-golem
+6007	Glødeflamme-skæg
+6008	Glødeflamme-general
+6009	Glødeflamme-høvding
+6051	Antænder
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Frost-krystal
+6102	Frost-insekt
+6103	Frost-mand
+6104	Frost-yeti
+6105	Frost-golem
+6106	Frost-trold
+6107	Frost-skæg
+6108	Frost-general
+6109	Frost-lord
 6151	Szel
 6191	Nemere
 7001	Abe-soldat

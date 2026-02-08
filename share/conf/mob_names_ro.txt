@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Maimuta de Piatra
 5162	Maimuta Umblatoare
 5163	Maimuta Lord
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
+6001	Cenușă Spiritul Focului
+6002	Cenușă Tigru de Foc
+6003	Cenușă Flacără
+6004	Cenușă Luptător de Foc
+6005	Cenușă Regele Focului
+6006	Cenușă Troll de Foc
+6007	Cenușă Barbă de Foc
+6008	Cenușă General de Foc
+6009	Cenușă Căpetenie de Foc
 6051	Ignitor
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Cristal de Gheață
+6102	Insectă de Gheață
+6103	Om de Gheață
+6104	Yeti de Gheață
+6105	Golem de Gheață
+6106	Troll de Gheață
+6107	Barbă de Gheață
+6108	General de Gheață
+6109	Lord de Gheață
 6151	Szel
 6191	Nemere
 7001	Maimuta Soldat

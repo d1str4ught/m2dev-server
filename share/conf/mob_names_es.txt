@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Mono de Roca
 5162	Mono Ambulante
 5163	Señor Mono
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
+6001	Fantasma llama
+6002	Tigre fantasma
+6003	Llama
+6004	Guerrero llama
+6005	Rey llama
+6006	Golem llama
+6007	Barba llamaascua
+6008	General llama
+6009	Príncipe llama ascua
+6051	Ignidor
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Escarcha de Cristal
+6102	Insecto de Escarcha
+6103	Hombre de Escarcha
+6104	Yeti de Escarcha
+6105	Golem de Escarcha
+6106	Troll de Escarcha
+6107	Escarcha con Barba
+6108	General Escarcha
+6109	Señor Escarcha
 6151	Szel
 6191	Nemere
 7001	Soldado Mono

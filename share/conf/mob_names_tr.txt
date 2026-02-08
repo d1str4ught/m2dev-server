@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Kaya Maymun
 5162	Yürüyen Maymun
 5163	Maymun Lordu
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
-6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6001	Kor Alev Hayaleti
+6002	Kor Alev Kaplanı
+6003	Kor Alev
+6004	Kor Alev Savaşçısı
+6005	Kor Alev Kralı
+6006	Kor Alev Golemi
+6007	Kor Alev Sakallısı
+6008	Kor Alev Generali
+6009	Kor Alev Lordu
+6051	İgnatör
+6091	Razadör
+6101	Ayaz Kristali
+6102	Ayaz Böceği
+6103	Ayaz Adam
+6104	Ayaz Yetisi
+6105	Ayaz Golemi
+6106	Ayaz Trolü
+6107	Ayaz Sakal
+6108	Ayaz Generali
+6109	Ayaz Lordu
 6151	Szel
 6191	Nemere
 7001	Maymun Asker

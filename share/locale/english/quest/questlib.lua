@@ -32,16 +32,16 @@ function resetdelay(v) raw_script("[/DELAY]") end
 -- trim a string
 function trim(s) return (string.gsub(s, "^%s*(.-)%s*$", "%1")) end
 
--- minimap¿¡ µ¿±×¶ó¹Ì Ç¥½Ã
+-- minimapï¿½ï¿½ ï¿½ï¿½ï¿½×¶ï¿½ï¿½ Ç¥ï¿½ï¿½
 function addmapsignal(x,y) raw_script("[ADDMAPSIGNAL x;"..x.."|y;"..y.."]") end
 
--- minimap µ¿±×¶ó¹Ìµé ¸ðµÎ Å¬¸®¾î
+-- minimap ï¿½ï¿½ï¿½×¶ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½
 function clearmapsignal() raw_script("[CLEARMAPSIGNAL]") end
 
--- Å¬¶óÀÌ¾ðÆ®¿¡¼­ º¸¿©ÁÙ ´ëÈ­Ã¢ ¹è°æ ±×¸²À» Á¤ÇÑ´Ù.
+-- Å¬ï¿½ï¿½ï¿½Ì¾ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È­Ã¢ ï¿½ï¿½ï¿½ ï¿½×¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ñ´ï¿½.
 function setbgimage(src) raw_script("[BGIMAGE src;") raw_script(src) raw_script("]") end
 
--- ´ëÈ­Ã¢¿¡ ÀÌ¹ÌÁö¸¦ º¸¿©ÁØ´Ù.
+-- ï¿½ï¿½È­Ã¢ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½.
 function addimage(x,y,src) raw_script("[IMAGE x;"..x.."|y;"..y) raw_script("|src;") raw_script(src) raw_script("]") end
 
 -- generate when a linebreak in the functions: d.notice,notice,notice_all
@@ -284,13 +284,13 @@ end
 
 
 function giveup_quest_menu(title)
-    local s=select("ÁøÇàÇÑ´Ù", "Æ÷±âÇÑ´Ù")
+    local s=select("ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½", "ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½")
     if 2==s then 
-    say(title.." Äù½ºÆ®¸¦ Á¤¸»·Î")
-    say("Æ÷±âÇÏ½Ã°Ú½À´Ï±î?")
-    local s=select("³×, ±×·¸½À´Ï´Ù", "¾Æ´Õ´Ï´Ù")
+    say(title.." ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+    say("ï¿½ï¿½ï¿½ï¿½ï¿½Ï½Ã°Ú½ï¿½ï¿½Ï±ï¿½?")
+    local s=select("ï¿½ï¿½, ï¿½×·ï¿½ï¿½ï¿½ï¿½Ï´ï¿½", "ï¿½Æ´Õ´Ï´ï¿½")
     if 1==s then
-        say(title.."Äù½ºÆ®¸¦ Æ÷±âÇß½À´Ï´Ù")
+        say(title.."ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ß½ï¿½ï¿½Ï´ï¿½")
         restart_quest()
     end
     end
@@ -339,11 +339,11 @@ SURA2_NPC_LIST 		= {20305, 20325, 20345, }
 SHAMAN1_NPC_LIST 	= {20306, 20326, 20346, }
 SHAMAN2_NPC_LIST 	= {20307, 20327, 20347, }
 
-function skill_group_dialog(e, j, g) -- e = Á¦±¹, j = Á÷¾÷, g = ±×·ì
-    e = 1 -- XXX ¸Þ½ÃÁö°¡ ³ª¶óº°·Î ÀÖ´Ù°¡ ÇÏ³ª·Î ÅëÇÕµÇ¾úÀ½
+function skill_group_dialog(e, j, g) -- e = ï¿½ï¿½ï¿½ï¿½, j = ï¿½ï¿½ï¿½ï¿½, g = ï¿½×·ï¿½
+    e = 1 -- XXX ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½óº°·ï¿½ ï¿½Ö´Ù°ï¿½ ï¿½Ï³ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ÕµÇ¾ï¿½ï¿½ï¿½
     
 
-    -- ´Ù¸¥ Á÷¾÷ÀÌ°Å³ª ´Ù¸¥ Á¦±¹ÀÏ °æ¿ì
+    -- ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì°Å³ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
     if pc.job != j then
         say(locale.skill_group.dialog[e][pc.job][3])
     elseif pc.get_skill_group() == 0 then
@@ -478,7 +478,7 @@ setmetatable(pc,{__index=pc_index})
 setmetatable(npc,{__index=npc_index})
 setmetatable(item,{__index=item_index})
 
---coroutineÀ» ÀÌ¿ëÇÑ ¼±ÅÃÇ× Ã³¸®
+--coroutineï¿½ï¿½ ï¿½Ì¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½
 function select(...)
     return q.yield('select', arg)
 end
@@ -487,7 +487,7 @@ function select_table(table)
     return q.yield('select', table)
 end
 
--- coroutineÀ» ÀÌ¿ëÇÑ ´ÙÀ½ ¿£ÅÍ ±â´Ù¸®±â
+-- coroutineï¿½ï¿½ ï¿½Ì¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ù¸ï¿½ï¿½ï¿½
 function wait()
     q.yield('wait')
 end
@@ -505,7 +505,7 @@ function select_item()
     return q.yield('select_item')
 end
 
---Àü¿ª º¯¼ö Á¢±Ù°ú °ü·ÃµÈ °è¿­
+--ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ù°ï¿½ ï¿½ï¿½ï¿½Ãµï¿½ ï¿½è¿­
 NOWINDOW = 0
 NORMAL = 1
 CINEMATIC = 2
@@ -617,12 +617,12 @@ apply = {
     ["NORMAL_HIT_DEFEND_BONUS"] = 74,
 }
 
--- ·¹º§¾÷ Äù½ºÆ® -_-
+-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® -_-
 special = {}
 
 special.fortune_telling = 
 {
---  { prob	Å©¸®	item	money	remove money
+--  { prob	Å©ï¿½ï¿½	item	money	remove money
     { 1,	0,	20,	20,	0	}, -- 10
     { 499,	0,	10,	10,	0	}, -- 5
     { 2500,	0,	5,	5,	0	}, -- 1
@@ -1000,13 +1000,13 @@ special.levelup_reward1 =
 {
     -- warrior assassin  sura  shaman
     {     0,        0,      0,      0 },
-    { 11200,    11400,  11600,  11800 }, -- °©¿Ê
-    { 12200,    12340,  12480,  12620 }, -- Åõ±¸
-    { 13000,    13000,  13000,  13000 }  -- ¹æÆÐ
+    { 11200,    11400,  11600,  11800 }, -- ï¿½ï¿½ï¿½ï¿½
+    { 12200,    12340,  12480,  12620 }, -- ï¿½ï¿½ï¿½ï¿½
+    { 13000,    13000,  13000,  13000 }  -- ï¿½ï¿½ï¿½ï¿½
 }
 
--- levelup_reward1 Å×ÀÌºí Å©±âº¸´Ù ·¹º§ÀÌ ³ô¾ÆÁö¸é ¾Æ·¡
--- Å×ÀÌºíÀ» ÀÌ¿ëÇÏ¿© ¾ÆÀÌÅÛÀ» ÁØ´Ù.
+-- levelup_reward1 ï¿½ï¿½ï¿½Ìºï¿½ Å©ï¿½âº¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½
+-- ï¿½ï¿½ï¿½Ìºï¿½ï¿½ï¿½ ï¿½Ì¿ï¿½ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½.
 special.levelup_reward3 = {
     -- pct   item #  item count
     {   33,  27002,  10 }, -- 25%
@@ -1118,13 +1118,13 @@ special.levelup_reward_item_21 =
 }
 
 special.warp_to_pos = {
--- ½Â·æ°î
+-- ï¿½Â·ï¿½ï¿½
     {
     { 402100, 673900 }, 
     { 270400, 739900 },
     { 321300, 808000 },
     },
---µµ¿°È­Áö
+--ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½
     {
 --A 5994 7563 
 --B 5978 6222
@@ -1133,7 +1133,7 @@ special.warp_to_pos = {
     { 597800, 622200 },
     { 730700, 689800 },
     },
---¿µºñ»ç¸·
+--ï¿½ï¿½ï¿½ï¿½ç¸·
     {
 --A 2178 6272
     { 217800, 627200 },
@@ -1142,7 +1142,7 @@ special.warp_to_pos = {
 --C 3440 5025
     { 344000, 502500 },
     },
---¼­ÇÑ»ê
+--ï¿½ï¿½ï¿½Ñ»ï¿½
     {
 --A 4342 2906
     { 434200, 290600 },
@@ -1596,139 +1596,140 @@ PREMIUM_FISH_MIND       = 4
 PREMIUM_MARRIAGE_FAST   = 5
 PREMIUM_GOLD            = 6
 
+-- MR-10: Fix POINT_* support for Lua
 -- point type start
-POINT_NONE                 = 0
-POINT_LEVEL                = 1
-POINT_VOICE                = 2
-POINT_EXP                  = 3
-POINT_NEXT_EXP             = 4
-POINT_HP                   = 5
-POINT_MAX_HP               = 6
-POINT_SP                   = 7
-POINT_MAX_SP               = 8  
-POINT_STAMINA              = 9  --½ºÅ×¹Ì³Ê
-POINT_MAX_STAMINA          = 10 --ÃÖ´ë ½ºÅ×¹Ì³Ê
+POINT_NONE                      = 0
+POINT_LEVEL                     = 1
+POINT_VOICE                     = 2
+POINT_EXP                       = 3
+POINT_NEXT_EXP                  = 4
+POINT_HP                        = 5
+POINT_MAX_HP                    = 6
+POINT_SP                        = 7
+POINT_MAX_SP                    = 8  
+POINT_STAMINA                   = 9  --ï¿½ï¿½ï¿½×¹Ì³ï¿½
+POINT_MAX_STAMINA               = 10 --ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½×¹Ì³ï¿½
 
-POINT_GOLD                 = 11
-POINT_ST                   = 12 --±Ù·Â
-POINT_HT                   = 13 --Ã¼·Â
-POINT_DX                   = 14 --¹ÎÃ¸¼º
-POINT_IQ                   = 15 --Á¤½Å·Â
-POINT_DEF_GRADE			= 16
-POINT_ATT_SPEED            = 17 --°ø°Ý¼Óµµ
-POINT_ATT_GRADE			= 18 --°ø°Ý·Â MAX
-POINT_MOV_SPEED            = 19 --ÀÌµ¿¼Óµµ
-POINT_CLIENT_DEF_GRADE		= 20 --¹æ¾îµî±Þ
-POINT_CASTING_SPEED        = 21 --ÁÖ¹®¼Óµµ (Äð´Ù¿îÅ¸ÀÓ*100) / (100 + ÀÌ°ª) = ÃÖÁ¾ Äð´Ù¿î Å¸ÀÓ
-POINT_MAGIC_ATT_GRADE      = 22 --¸¶¹ý°ø°Ý·Â
-POINT_MAGIC_DEF_GRADE      = 23 --¸¶¹ý¹æ¾î·Â
-POINT_EMPIRE_POINT         = 24 --Á¦±¹Á¡¼ö
-POINT_LEVEL_STEP           = 25 --ÇÑ ·¹º§¿¡¼­ÀÇ ´Ü°è.. (1 2 3 µÉ ¶§ º¸»ó 4 µÇ¸é ·¹º§ ¾÷)
-POINT_STAT                 = 26 --´É·ÂÄ¡ ¿Ã¸± ¼ö ÀÖ´Â °³¼ö
-POINT_SUB_SKILL			= 27 --º¸Á¶ ½ºÅ³ Æ÷ÀÎÆ®
-POINT_SKILL				= 28 --¾×Æ¼ºê ½ºÅ³ Æ÷ÀÎÆ®
-POINT_WEAPON_MIN			= 29 --¹«±â ÃÖ¼Ò µ¥¹ÌÁö
-POINT_WEAPON_MAX			= 30 --¹«±â ÃÖ´ë µ¥¹ÌÁö
-POINT_PLAYTIME             = 31 --ÇÃ·¹ÀÌ½Ã°£
-POINT_HP_REGEN             = 32 --HP È¸º¹·ü
-POINT_SP_REGEN             = 33 --SP È¸º¹·ü
+POINT_GOLD                      = 11
+POINT_ST                        = 12 --ï¿½Ù·ï¿½
+POINT_HT                        = 13 --Ã¼ï¿½ï¿½
+POINT_DX                        = 14 --ï¿½ï¿½Ã¸ï¿½ï¿½
+POINT_IQ                        = 15 --ï¿½ï¿½ï¿½Å·ï¿½
+POINT_DEF_GRADE			        = 16
+POINT_ATT_SPEED                 = 17 --ï¿½ï¿½ï¿½Ý¼Óµï¿½
+POINT_ATT_GRADE			        = 18 --ï¿½ï¿½ï¿½Ý·ï¿½ MAX
+POINT_MOV_SPEED                 = 19 --ï¿½Ìµï¿½ï¿½Óµï¿½
+POINT_CLIENT_DEF_GRADE		    = 20 --ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_CASTING_SPEED             = 21 --ï¿½Ö¹ï¿½ï¿½Óµï¿½ (ï¿½ï¿½Ù¿ï¿½Å¸ï¿½ï¿½*100) / (100 + ï¿½Ì°ï¿½) = ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ù¿ï¿½ Å¸ï¿½ï¿½
+POINT_MAGIC_ATT_GRADE           = 22 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý·ï¿½
+POINT_MAGIC_DEF_GRADE           = 23 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_EMPIRE_POINT              = 24 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_LEVEL_STEP                = 25 --ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ü°ï¿½.. (1 2 3 ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 4 ï¿½Ç¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½)
+POINT_STAT                      = 26 --ï¿½É·ï¿½Ä¡ ï¿½Ã¸ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_SUB_SKILL			        = 27 --ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½Æ®
+POINT_SKILL				        = 28 --ï¿½ï¿½Æ¼ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½Æ®
+POINT_WEAPON_MIN			    = 29 --ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_WEAPON_MAX			    = 30 --ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_PLAYTIME                  = 31 --ï¿½Ã·ï¿½ï¿½Ì½Ã°ï¿½
+POINT_HP_REGEN                  = 32 --HP È¸ï¿½ï¿½ï¿½ï¿½
+POINT_SP_REGEN                  = 33 --SP È¸ï¿½ï¿½ï¿½ï¿½
 
-POINT_BOW_DISTANCE         = 34 --È° »çÁ¤°Å¸® Áõ°¡Ä¡ (meter)
+POINT_BOW_DISTANCE              = 34 --È° ï¿½ï¿½ï¿½ï¿½ï¿½Å¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ä¡ (meter)
 
-POINT_HP_RECOVERY          = 35 --Ã¼·Â È¸º¹ Áõ°¡·®
-POINT_SP_RECOVERY          = 36 --Á¤½Å·Â È¸º¹ Áõ°¡·®
+POINT_HP_RECOVERY               = 35 --Ã¼ï¿½ï¿½ È¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_SP_RECOVERY               = 36 --ï¿½ï¿½ï¿½Å·ï¿½ È¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-POINT_POISON_PCT           = 37 --µ¶ È®·ü
-POINT_STUN_PCT             = 38 --±âÀý È®·ü
-POINT_SLOW_PCT             = 39 --½½·Î¿ì È®·ü
-POINT_CRITICAL_PCT         = 40 --Å©¸®Æ¼ÄÃ È®·ü
-POINT_PENETRATE_PCT        = 41 --°üÅëÅ¸°Ý È®·ü
-POINT_CURSE_PCT            = 42 --ÀúÁÖ È®·ü
+POINT_POISON_PCT                = 37 --ï¿½ï¿½ È®ï¿½ï¿½
+POINT_STUN_PCT                  = 38 --ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½
+POINT_SLOW_PCT                  = 39 --ï¿½ï¿½ï¿½Î¿ï¿½ È®ï¿½ï¿½
+POINT_CRITICAL_PCT              = 40 --Å©ï¿½ï¿½Æ¼ï¿½ï¿½ È®ï¿½ï¿½
+POINT_PENETRATE_PCT             = 41 --ï¿½ï¿½ï¿½ï¿½Å¸ï¿½ï¿½ È®ï¿½ï¿½
+POINT_CURSE_PCT                 = 42 --ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½
 
-POINT_ATTBONUS_HUMAN       = 43 --ÀÎ°£¿¡°Ô °­ÇÔ
-POINT_ATTBONUS_ANIMAL      = 44 --µ¿¹°¿¡°Ô µ¥¹ÌÁö % Áõ°¡
-POINT_ATTBONUS_ORC         = 45 --¿õ±Í¿¡°Ô µ¥¹ÌÁö % Áõ°¡
-POINT_ATTBONUS_MILGYO      = 46 --¹Ð±³¿¡°Ô µ¥¹ÌÁö % Áõ°¡
-POINT_ATTBONUS_UNDEAD      = 47 --½ÃÃ¼¿¡°Ô µ¥¹ÌÁö % Áõ°¡
-POINT_ATTBONUS_DEVIL       = 48 --¸¶±Í(¾Ç¸¶)¿¡°Ô µ¥¹ÌÁö % Áõ°¡
-POINT_ATTBONUS_INSECT      = 49 --¹ú·¹Á·
-POINT_ATTBONUS_FIRE        = 50 --È­¿°Á·
-POINT_ATTBONUS_ICE         = 51 --ºù¼³Á·
-POINT_ATTBONUS_DESERT      = 52 --»ç¸·Á·
-POINT_ATTBONUS_MONSTER     = 53 --¸ðµç ¸ó½ºÅÍ¿¡°Ô °­ÇÔ
-POINT_ATTBONUS_WARRIOR     = 54 --¹«»ç¿¡°Ô °­ÇÔ
-POINT_ATTBONUS_ASSASSIN	= 55 --ÀÚ°´¿¡°Ô °­ÇÔ
-POINT_ATTBONUS_SURA		= 56 --¼ö¶ó¿¡°Ô °­ÇÔ
-POINT_ATTBONUS_SHAMAN		= 57 --¹«´ç¿¡°Ô °­ÇÔ
+POINT_ATTBONUS_HUMAN            = 43 --ï¿½Î°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_ANIMAL           = 44 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ % ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_ORC              = 45 --ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ % ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_MILGYO           = 46 --ï¿½Ð±ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ % ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_UNDEAD           = 47 --ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ % ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_DEVIL            = 48 --ï¿½ï¿½ï¿½ï¿½(ï¿½Ç¸ï¿½)ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ % ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_INSECT           = 49 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_FIRE             = 50 --È­ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_ICE              = 51 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_DESERT           = 52 --ï¿½ç¸·ï¿½ï¿½
+POINT_ATTBONUS_MONSTER          = 53 --ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_WARRIOR          = 54 --ï¿½ï¿½ï¿½ç¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_ASSASSIN	        = 55 --ï¿½Ú°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_SURA		        = 56 --ï¿½ï¿½ï¿½ó¿¡°ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_ATTBONUS_SHAMAN		    = 57 --ï¿½ï¿½ï¿½ç¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
 -- ADD_TRENT_MONSTER
-POINT_ATTBONUS_TREE     	= 58 --³ª¹«¿¡°Ô °­ÇÔ 20050729.myevan UNUSED5 
+POINT_ATTBONUS_TREE     	    = 58 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 20050729.myevan UNUSED5 
 -- END_OF_ADD_TRENT_MONSTER
-POINT_RESIST_WARRIOR		= 59 --¹«»ç¿¡°Ô ÀúÇ×
-POINT_RESIST_ASSASSIN		= 60 --ÀÚ°´¿¡°Ô ÀúÇ×
-POINT_RESIST_SURA			= 61 --¼ö¶ó¿¡°Ô ÀúÇ×
-POINT_RESIST_SHAMAN		= 62 --¹«´ç¿¡°Ô ÀúÇ×
+POINT_RESIST_WARRIOR		    = 59 --ï¿½ï¿½ï¿½ç¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_ASSASSIN		    = 60 --ï¿½Ú°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_SURA			    = 61 --ï¿½ï¿½ï¿½ó¿¡°ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_SHAMAN		        = 62 --ï¿½ï¿½ï¿½ç¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
-POINT_STEAL_HP             = 63 --»ý¸í·Â Èí¼ö
-POINT_STEAL_SP             = 64 --Á¤½Å·Â Èí¼ö
+POINT_STEAL_HP                  = 63 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_STEAL_SP                  = 64 --ï¿½ï¿½ï¿½Å·ï¿½ ï¿½ï¿½ï¿½ï¿½
 
-POINT_MANA_BURN_PCT        = 65 --¸¶³ª ¹ø
+POINT_MANA_BURN_PCT             = 65 --ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½
 
---/ ÇÇÇØ½Ã º¸³Ê½º =/
+--/ ï¿½ï¿½ï¿½Ø½ï¿½ ï¿½ï¿½ï¿½Ê½ï¿½ =/  
 
-POINT_DAMAGE_SP_RECOVER    = 66 --°ø°Ý´çÇÒ ½Ã Á¤½Å·Â È¸º¹ È®·ü
+POINT_DAMAGE_SP_RECOVER         = 66 --ï¿½ï¿½ï¿½Ý´ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½Å·ï¿½ È¸ï¿½ï¿½ È®ï¿½ï¿½
 
-POINT_BLOCK                = 67 --ºí·°À²
-POINT_DODGE                = 68 --È¸ÇÇÀ²
+POINT_BLOCK                     = 67 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_DODGE                     = 68 --È¸ï¿½ï¿½ï¿½ï¿½
 
-POINT_RESIST_SWORD         = 69
-POINT_RESIST_TWOHAND       = 70
-POINT_RESIST_DAGGER        = 71
-POINT_RESIST_BELL          = 72
-POINT_RESIST_FAN           = 73
-POINT_RESIST_BOW           = 74  --È­»ì   ÀúÇ×   : ´ë¹ÌÁö °¨¼Ò
-POINT_RESIST_FIRE          = 75  --È­¿°   ÀúÇ×   : È­¿°°ø°Ý¿¡ ´ëÇÑ ´ë¹ÌÁö °¨¼Ò
-POINT_RESIST_ELEC          = 76  --Àü±â   ÀúÇ×   : Àü±â°ø°Ý¿¡ ´ëÇÑ ´ë¹ÌÁö °¨¼Ò
-POINT_RESIST_MAGIC         = 77  --¼ú¹ý   ÀúÇ×   : ¸ðµç¼ú¹ý¿¡ ´ëÇÑ ´ë¹ÌÁö °¨¼Ò
-POINT_RESIST_WIND          = 78  --¹Ù¶÷   ÀúÇ×   : ¹Ù¶÷°ø°Ý¿¡ ´ëÇÑ ´ë¹ÌÁö °¨¼Ò
+POINT_RESIST_SWORD              = 69
+POINT_RESIST_TWOHAND            = 70
+POINT_RESIST_DAGGER             = 71
+POINT_RESIST_BELL               = 72
+POINT_RESIST_FAN                = 73
+POINT_RESIST_BOW                = 74  --È­ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½   : ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_FIRE               = 75  --È­ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½   : È­ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_ELEC               = 76  --ï¿½ï¿½ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½   : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_MAGIC              = 77  --ï¿½ï¿½ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½   : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+POINT_RESIST_WIND               = 78  --ï¿½Ù¶ï¿½   ï¿½ï¿½ï¿½ï¿½   : ï¿½Ù¶ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
-POINT_REFLECT_MELEE        = 79 --°ø°Ý ¹Ý»ç
+POINT_REFLECT_MELEE             = 79 --ï¿½ï¿½ï¿½ï¿½ ï¿½Ý»ï¿½
 
---/ Æ¯¼ö ÇÇÇØ½Ã =/
-POINT_REFLECT_CURSE		= 80 --ÀúÁÖ ¹Ý»ç
-POINT_POISON_REDUCE		= 81 --µ¶µ¥¹ÌÁö °¨¼Ò
+--/ Æ¯ï¿½ï¿½ ï¿½ï¿½ï¿½Ø½ï¿½ =/
+POINT_REFLECT_CURSE		        = 80 --ï¿½ï¿½ï¿½ï¿½ ï¿½Ý»ï¿½
+POINT_POISON_REDUCE		        = 81 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
---/ Àû ¼Ò¸ê½Ã =/
-POINT_KILL_SP_RECOVER		= 82 --Àû ¼Ò¸ê½Ã MP È¸º¹
-POINT_EXP_DOUBLE_BONUS		= 83
-POINT_GOLD_DOUBLE_BONUS		= 84
-POINT_ITEM_DROP_BONUS		= 85
+--/ ï¿½ï¿½ ï¿½Ò¸ï¿½ï¿½ =/
+POINT_KILL_SP_RECOVER		    = 82 --ï¿½ï¿½ ï¿½Ò¸ï¿½ï¿½ MP È¸ï¿½ï¿½
+POINT_EXP_DOUBLE_BONUS		    = 83
+POINT_GOLD_DOUBLE_BONUS		    = 84
+POINT_ITEM_DROP_BONUS		    = 85
 
---/ È¸º¹ °ü·Ã =/
-POINT_POTION_BONUS			= 86
-POINT_KILL_HP_RECOVERY		= 87
+--/ È¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ =/
+POINT_POTION_BONUS			    = 86
+POINT_KILL_HP_RECOVERY		    = 87
 
-POINT_IMMUNE_STUN			= 88
-POINT_IMMUNE_SLOW			= 89
-POINT_IMMUNE_FALL			= 90
+POINT_IMMUNE_STUN			    = 88
+POINT_IMMUNE_SLOW			    = 89
+POINT_IMMUNE_FALL			    = 90
 --========
 
 POINT_PARTY_ATTACKER_BONUS		= 91
 POINT_PARTY_TANKER_BONUS		= 92
 
-POINT_ATT_BONUS			= 93
-POINT_DEF_BONUS			= 94
+POINT_ATT_BONUS			        = 93
+POINT_DEF_BONUS			        = 94
 
-POINT_ATT_GRADE_BONUS		= 95
-POINT_DEF_GRADE_BONUS		= 96
-POINT_MAGIC_ATT_GRADE_BONUS	= 97
-POINT_MAGIC_DEF_GRADE_BONUS	= 98
+POINT_ATT_GRADE_BONUS		    = 95
+POINT_DEF_GRADE_BONUS		    = 96
+POINT_MAGIC_ATT_GRADE_BONUS	    = 97
+POINT_MAGIC_DEF_GRADE_BONUS	    = 98
 
 POINT_RESIST_NORMAL_DAMAGE		= 99
 
-POINT_HIT_HP_RECOVERY		= 100
-POINT_HIT_SP_RECOVERY 		= 101
-POINT_MANASHIELD			= 102 --Èæ½Å¼öÈ£ ½ºÅ³¿¡ ÀÇÇÑ ¸¶³ª½¯µå È¿°ú Á¤µµ
+POINT_HIT_HP_RECOVERY		    = 100
+POINT_HIT_SP_RECOVERY 		    = 101
+POINT_MANASHIELD			    = 102 --ï¿½ï¿½Å¼ï¿½È£ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
 POINT_PARTY_BUFFER_BONUS		= 103
 POINT_PARTY_SKILL_MASTER_BONUS	= 104
@@ -1736,39 +1737,58 @@ POINT_PARTY_SKILL_MASTER_BONUS	= 104
 POINT_HP_RECOVER_CONTINUE		= 105
 POINT_SP_RECOVER_CONTINUE		= 106
 
-POINT_STEAL_GOLD			= 107 
-POINT_POLYMORPH			= 108 --º¯½ÅÇÑ ¸ó½ºÅÍ ¹øÈ£
-POINT_MOUNT				= 109 --Å¸°íÀÖ´Â ¸ó½ºÅÍ ¹øÈ£
+POINT_STEAL_GOLD			    = 107 
+POINT_POLYMORPH			        = 108 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£
+POINT_MOUNT				        = 109 --Å¸ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£
 
-POINT_PARTY_HASTE_BONUS		= 110
+POINT_PARTY_HASTE_BONUS		    = 110
 POINT_PARTY_DEFENDER_BONUS		= 111
-POINT_STAT_RESET_COUNT		= 112 --ÇÇÀÇ ´Ü¾à »ç¿ëÀ» ÅëÇÑ ½ºÅÝ ¸®¼Â Æ÷ÀÎÆ® (1´ç 1Æ÷ÀÎÆ® ¸®¼Â°¡´É)
+POINT_STAT_RESET_COUNT		    = 112 --ï¿½ï¿½ï¿½ï¿½ ï¿½Ü¾ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® (1ï¿½ï¿½ 1ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½Â°ï¿½ï¿½ï¿½)
 
-POINT_HORSE_SKILL			= 113
+POINT_HORSE_SKILL			    = 113
 
-POINT_MALL_ATTBONUS		= 114 --°ø°Ý·Â +x%
-POINT_MALL_DEFBONUS		= 115 --¹æ¾î·Â +x%
-POINT_MALL_EXPBONUS		= 116 --°æÇèÄ¡ +x%
-POINT_MALL_ITEMBONUS		= 117 --¾ÆÀÌÅÛ µå·ÓÀ² x/10¹è
-POINT_MALL_GOLDBONUS		= 118 --µ· µå·ÓÀ² x/10¹è
+POINT_MALL_ATTBONUS		        = 114 --ï¿½ï¿½ï¿½Ý·ï¿½ +x%
+POINT_MALL_DEFBONUS		        = 115 --ï¿½ï¿½ï¿½ï¿½ +x%
+POINT_MALL_EXPBONUS		        = 116 --ï¿½ï¿½ï¿½ï¿½Ä¡ +x%
+POINT_MALL_ITEMBONUS		    = 117 --ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ x/10ï¿½ï¿½
+POINT_MALL_GOLDBONUS		    = 118 --ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ x/10ï¿½ï¿½
 
-POINT_MAX_HP_PCT			= 119 --ÃÖ´ë»ý¸í·Â +x%
-POINT_MAX_SP_PCT			= 120 --ÃÖ´ëÁ¤½Å·Â +x%
+POINT_MAX_HP_PCT			    = 119 --ï¿½Ö´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ +x%
+POINT_MAX_SP_PCT			    = 120 --ï¿½Ö´ï¿½ï¿½ï¿½ï¿½Å·ï¿½ +x%
 
-POINT_SKILL_DAMAGE_BONUS		= 121 --½ºÅ³ µ¥¹ÌÁö *(100+x)%
-POINT_NORMAL_HIT_DAMAGE_BONUS	= 122 --ÆòÅ¸ µ¥¹ÌÁö *(100+x)%
+POINT_SKILL_DAMAGE_BONUS		= 121 --ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ *(100+x)%
+POINT_NORMAL_HIT_DAMAGE_BONUS	= 122 --ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ *(100+x)%
 
 -- DEFEND_BONUS_ATTRIBUTES
-POINT_SKILL_DEFEND_BONUS		= 123 --½ºÅ³ ¹æ¾î µ¥¹ÌÁö
-POINT_NORMAL_HIT_DEFEND_BONUS	= 124 --ÆòÅ¸ ¹æ¾î µ¥¹ÌÁö
+POINT_SKILL_DEFEND_BONUS		= 123 --ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+POINT_NORMAL_HIT_DEFEND_BONUS	= 124 --ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 -- END_OF_DEFEND_BONUS_ATTRIBUTES
 
 -- PC_BANG_ITEM_ADD 
-POINT_PC_BANG_EXP_BONUS		= 125 --PC¹æ Àü¿ë °æÇèÄ¡ º¸³Ê½º
-POINT_PC_BANG_DROP_BONUS		= 126 --PC¹æ Àü¿ë µå·Ó·ü º¸³Ê½º
+POINT_PC_BANG_EXP_BONUS		    = 125 --PCï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ä¡ ï¿½ï¿½ï¿½Ê½ï¿½
+POINT_PC_BANG_DROP_BONUS		= 126 --PCï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ó·ï¿½ ï¿½ï¿½ï¿½Ê½ï¿½
 -- END_PC_BANG_ITEM_ADD
+
+POINT_RAMADAN_CANDY_BONUS_EXP   = 127 -- ë¼ë§ˆë‹¨ ì‚¬íƒ• ê²½í—˜ì¹˜ ì¦ê°€ìš©
+
+POINT_ENERGY                    = 128 -- 128 ê¸°ë ¥
+
+POINT_ENERGY_END_TIME           = 129 -- 129 ê¸°ë ¥ ì¢…ë£Œ ì‹œê°„
+
+POINT_COSTUME_ATTR_BONUS        = 130
+POINT_MAGIC_ATT_BONUS_PER       = 131
+POINT_MELEE_MAGIC_ATT_BONUS_PER = 132
+
+POINT_RESIST_ICE                = 133 -- ëƒ‰ê¸° ì €í•­   : ì–¼ìŒê³µê²©ì— ëŒ€í•œ ëŒ€ë¯¸ì§€ ê°ì†Œ
+POINT_RESIST_EARTH              = 134 -- ëŒ€ì§€ ì €í•­   : ì–¼ìŒê³µê²©ì— ëŒ€í•œ ëŒ€ë¯¸ì§€ ê°ì†Œ
+POINT_RESIST_DARK               = 135 -- ì–´ë‘  ì €í•­   : ì–¼ìŒê³µê²©ì— ëŒ€í•œ ëŒ€ë¯¸ì§€ ê°ì†Œ
+
+POINT_RESIST_CRITICAL           = 136 -- í¬ë¦¬í‹°ì»¬ ì €í•­	: ìƒëŒ€ì˜ í¬ë¦¬í‹°ì»¬ í™•ë¥ ì„ ê°ì†Œ
+POINT_RESIST_PENETRATE          = 137 -- ê´€í†µíƒ€ê²© ì €í•­	: ìƒëŒ€ì˜ ê´€í†µíƒ€ê²© í™•ë¥ ì„ ê°ì†Œ
+
 -- POINT_MAX_NUM = 128	common/length.h
 -- point type start
+-- MR-10: -- END OF -- Fix POINT_* support for Lua
 
 
 function input_number (sentence)
