@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Πίθηκος των Βράχων
 5162	Όρθιος Πίθηκος
 5163	Κύριος των Πιθήκων
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
-6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6001	Φάντασμα της πυρ. Φλόγας
+6002	Τίγρη πυρακτωμ. φλόγας
+6003	Πυρακτωμένη φλόγα
+6004	Πυρακτωμ. Πολεμ. Φλόγας
+6005	Πυρακτωμ. Βασιλιάς Φλόγ.
+6006	Γκόλεμ πυρακτωμ. Φλόγας
+6007	Πυρακτωμέν. Φλογογένης
+6008	Στρατηγ. πυρακτ. φλόγας
+6009	Πρίγκ. πυρακτ. φλόγας
+6051	Ανάφτης
+6091	Ραζαδόρ
+6101	Κρύσταλλος Πάγου
+6102	Έντομο Πάγου
+6103	Παγάνθρωπος
+6104	Γιέτι Πάγου
+6105	Γκόλεμ Πάγου
+6106	Παγογένης
+6107	Τρολ Πάγου
+6108	Παγοστράτηγος
+6109	Άρχοντας του Πάγου
 6151	Szel
 6191	Nemere
 7001	Πίθηκος Στρατιώτης

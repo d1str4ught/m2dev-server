@@ -526,26 +526,26 @@ VNUM	LOCALE_NAME
 5161	Macaco Rocha
 5162	Macaco Andante
 5163	Lorde Macaco
-6001	Ember Flame Ghost
-6002	Ember Flame Tiger
-6003	Ember Flame
-6004	Ember Flame Warrior
-6005	Ember Flame King
-6006	Ember Flame Golem
-6007	Ember Flame Beard
-6008	Ember Flame General
-6009	Ember Flame Chieftain
-6051	Ignitor
+6001	Fantasma de Brasas
+6002	Tigre de Brasas
+6003	Chama de Brasas
+6004	Guerreiro de Brasas
+6005	Rei de Brasas
+6006	Golem de Brasas
+6007	Barba de Brasas
+6008	General de Brasas
+6009	Chefe de Brasas
+6051	Incendiário
 6091	Razador
-6101	Frost Crystal
-6102	Frost Bug
-6103	Frost Man
-6104	Frost Yeti
-6105	Frost Golem
-6106	Frost Troll
-6107	Frost Beard
-6108	Frost General
-6109	Frost Lord
+6101	Cristal da Geada
+6102	Insecto da Geada
+6103	Homem da Geada
+6104	Yeti da Geada
+6105	Golem da Geada
+6106	Troll da Geada
+6107	Barba da Geada
+6108	General da Geada
+6109	Lorde da Geada
 6151	Szel
 6191	Nemere
 7001	Macaco Soldado
