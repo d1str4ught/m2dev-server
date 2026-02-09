@@ -334,6 +334,8 @@ party.setf
 party.setqf
 party.show_cinematic
 party.syschat
+party.check_item
+party.remove_item
 pc.aggregate_monster
 pc.can_warp
 pc.change_alignment
