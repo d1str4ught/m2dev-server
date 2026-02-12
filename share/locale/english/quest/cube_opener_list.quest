@@ -32,8 +32,11 @@ quest cube_opener_list begin
 				say_title(mob_name(20378))
 				say(string.format(gameforge.cube_opener_list._010_say, item_name(vnum)))
 				say_title(gameforge.cube_opener_list._020_sayTitle)
+
 				for i, material in ipairs(material_list) do
-					say("  " .. item_name(material.vnum) .. " " .. locale.count_prefix .. material.count .. " " .. locale.count_postfix .. "")
+					-- MR-11: Removed locale.count_prefix (empty object)
+					say("  " .. item_name(material.vnum) .. " " .. material.count .. " " .. locale.count_postfix .. "")
+					-- MR-11: -- END OF -- Removed locale.count_prefix (empty object)
 					can_change = can_change and (material.count <= pc.count_item(material.vnum)) 
 				end
 
@@ -41,6 +44,7 @@ quest cube_opener_list begin
 				say_title(gameforge.cube_opener_list._030_say)
 				say_item_vnum(upgrade_list[vnum])
 				say("")
+
 				wait()
 
 				if true == can_change then
