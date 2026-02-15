@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Kracht van het Drakenoog ontbreekt "
 gameforge.dragon_soul._1160_say = "De kracht van het Drakenoog heeft je verlaten. "
 gameforge.dragon_soul._1170_say = "Ga morgen terug naar de alchemist om de Kracht[ENTER]van het Drakenoog weet te bemachtigen! "
 gameforge.dragon_soul._1180_say = "Ga naar de alchemist om de Kracht van het[ENTER]Drakenoog te bemachtigen! "
+gameforge.dragon_soul._1190_say = "Je kunt de Drakenziel nog niet gebruiken omdat[ENTER]je nog niet niveau 30 hebt bereikt."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis als cadeau "
 gameforge.dragon_soul_daily_gift._020_say = "Het beheersen van de Kracht van het Drakenoog is[ENTER]niet zo makkelijk als het lijkt. Alleen ervaren[ENTER]krijgers kunnen dit. Train iets langer in de[ENTER]krijgerskunst en kom terug als je level 50 hebt[ENTER]bereikt. "

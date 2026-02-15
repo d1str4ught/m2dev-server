@@ -10,12 +10,14 @@ quest dragon_soul begin
 	state start begin
 		when levelup or letter with pc.level >= dragon_soul_can_use_level begin
 			send_letter(gameforge.dragon_soul._1010_sendLetter)
+
 			local v = find_npc_by_vnum(alchemist)
 			
 			if 0 != v then
 				target.vid("__TARGET__", v, mob_name(alchemist))
 			end
 		end
+
 		when info or button begin
 			say(gameforge.dragon_soul._1020_say)
 		end
@@ -28,13 +30,16 @@ quest dragon_soul begin
 			set_state(state_learning)
 		end
 	end
+
 	state state_learning begin
 		when letter begin
 			send_letter(gameforge.dragon_soul._1050_sendLetter)
 		end
+
 		when info or button begin
 			say(gameforge.dragon_soul._1060_say)
 		end
+
 		when kill begin
 			if npc.is_pc() then
 				return
@@ -46,30 +51,44 @@ quest dragon_soul begin
 				end
 			end
 		end
+
 		when alchemist.chat.gameforge.dragon_soul._1050_sendLetter begin
 			say_title(mob_name(alchemist))
-			if pc.count_item(gemstone) >= gemstone_need_count then
+
+			-- MR-12: Check min level for Dragonsoul qualification
+			if pc.get_level() < dragon_soul_can_use_level then
+				say(gameforge.dragon_soul._1190_say)
+			-- MR-12: -- END OF -- Check min level for Dragonsoul qualification
+			elseif pc.count_item(gemstone) >= gemstone_need_count then
 				say(gameforge.dragon_soul._1070_say)
+
 				pc.remove_item(gemstone, gemstone_need_count)
 				ds.give_qualification()
+
 				char_log(pc.get_player_id(), 'DS_QUALIFICATION', 'SUCCESS')
 				pc.give_item2(reward_box)
+
 				local today = math.floor(get_global_time() / 86400)
+
 				pc.setf("dragon_soul", "eye_timestamp", today)
 				pc.setf("dragon_soul", "eye_left", 9)
+
 				set_state(state_farming)
 			else
 				say(gameforge.dragon_soul._1080_say)
 			end
 		end
 	end
+
 	state state_farming begin
 		when letter begin
 			send_letter(gameforge.dragon_soul._1090_sendLetter)
 		end
+
 		when info or button begin
 			say(string.format(gameforge.dragon_soul._1100_say, pc.getf("dragon_soul", "eye_left")))
 		end
+
 		when kill begin
 			if npc.is_pc() then
 				return
@@ -84,8 +103,10 @@ quest dragon_soul begin
 				end
 			end
 		end
+
 		when gemstone.pick begin
 			local eye_left = pc.getf("dragon_soul", "eye_left")
+
 			if eye_left <= 0 then
 				return
 			end
@@ -94,15 +115,18 @@ quest dragon_soul begin
 				pc.setf("dragon_soul", "eye_left", eye_left - 1)
 				pc.remove_item(gemstone, gemstone_need_count)
 				pc.give_item2(reward_box)
+
 				if 1 == eye_left then
 					notice_multiline(gameforge.dragon_soul._1110_notice, notice)
 					set_state(state_closed_season)
 				end
 			end
 		end
+
 		when alchemist.chat.gameforge.dragon_soul._1120_npcChat begin
 			say_title(mob_name(alchemist))
 			local today = math.floor(get_global_time() / 86400)
+
 			if today == pc.getf("dragon_soul", "eye_timestamp") then
 				say(gameforge.dragon_soul._1130_say)
 			else
@@ -112,13 +136,16 @@ quest dragon_soul begin
 			end	
 		end
 	end
+
 	state state_closed_season begin
 		when letter begin
 			send_letter(gameforge.dragon_soul._1150_sendLetter)
 		end
+
 		when info or button begin
 			say(gameforge.dragon_soul._1160_say)
 			local today = math.floor(get_global_time() / 86400)
+
 			if today == pc.getf("dragon_soul", "eye_timestamp") then
 				say(gameforge.dragon_soul._1170_say)
 			else
@@ -129,27 +156,32 @@ quest dragon_soul begin
 		when alchemist.chat.gameforge.dragon_soul._1090_sendLetter begin
 			say_title(mob_name(alchemist))
 			local today = math.floor(get_global_time() / 86400)
+
 			if today == pc.getf("dragon_soul", "eye_timestamp") then
 				say(gameforge.dragon_soul._1130_say)
 			else
 				say(gameforge.dragon_soul._1140_say)
+
 				pc.setf("dragon_soul", "eye_timestamp", today)
 				pc.setf("dragon_soul", "eye_left", 10)
 				set_state(state_farming)
 			end
 		end
 	end
+
 	-- deprecated states. so, jump to new state.
 	state state_1 begin
 		when login begin
 			set_state(state_learning)
 		end
 	end
+
 	state state_2 begin
 		when login begin
 			set_state(state_learning)
 		end
 	end
+
 	state state_3 begin
 		when login begin
 			set_state(state_closed_season)

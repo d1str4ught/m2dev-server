@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Chybí Síla Dračího oka "
 gameforge.dragon_soul._1160_say = "Síla Dračího oka tě opustila. "
 gameforge.dragon_soul._1170_say = "Zajdi za alchymistou zítra, abys znovu získal[ENTER]Sílu Dračího oka! "
 gameforge.dragon_soul._1180_say = "Zajdi za alchymistou, abys získal Sílu Dračího[ENTER]oka! "
+gameforge.dragon_soul._1190_say = "Zatím nemůžeš používat Duši Draka, protože jsi dosud[ENTER]nedosáhl úrovně 30. "
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis jako dárek "
 gameforge.dragon_soul_daily_gift._020_say = "Ovládat Sílu dračího oka není tak snadné, jak by[ENTER]se mohlo zdát. Jsou toho schopni pouze zkušení[ENTER]válečníci. Trénuj v bitvách o trochu déle a[ENTER]jakmile dosáhneš alespoň 50. úrovně, tak se vrať. "

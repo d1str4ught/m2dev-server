@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Lipseste Puterea Ochiului Dragon"
 gameforge.dragon_soul._1160_say = "Puterea Ochiului Dragon s-a terminat."
 gameforge.dragon_soul._1170_say = "Maine mergi din nou la alchimist pentru a primi[ENTER]Puterea Ochiului Dragon!"
 gameforge.dragon_soul._1180_say = "Du-te la alchimist pentru a primi Puterea[ENTER]Ochiului Dragon!"
+gameforge.dragon_soul._1190_say = "Nu poti folosi Sufletul Dracului inca, deoarece[ENTER]nu ai atins inca nivelul 30."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cadou Cor Draconis"
 gameforge.dragon_soul_daily_gift._020_say = "Să controlezi Puterea Ochiului Dragon nu este un[ENTER]lucru atât de ușor. Doar războinicii[ENTER]experimentați sunt capabili să facă asta.[ENTER]Antrenează-te mai mult În bătălii și apoi[ENTER]Întoarce-te când ai ajuns cel puțin la nivelul[ENTER]50."

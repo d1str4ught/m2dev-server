@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Hiányzó Sárkányszem ereje "
 gameforge.dragon_soul._1160_say = "A Sárkányszem ereje elhagyott téged. "
 gameforge.dragon_soul._1170_say = "Menj vissza az Alkimistához holnap, hogy újra[ENTER]hozzájuss a Sárkányszem erejéhez! "
 gameforge.dragon_soul._1180_say = "Menj az Alkimistához, hogy beszerezd a[ENTER]Sárkányszem erejét! "
+gameforge.dragon_soul._1190_say = "Még nem használhatod a Sárkány Lelkét,[ENTER]mivel még nem érted el a 30-as szintet. "
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis ajándékba "
 gameforge.dragon_soul_daily_gift._020_say = "Nem olyan egyszerű kordában tartani a Sárkányszem[ENTER]erejét, mint amilyennek látszik. Csak a[ENTER]tapasztalt harcosok képesek rá. Képezd még egy[ENTER]kicsit tovább magad a harcművészetek terén, és[ENTER]gyere vissza, ha már elérted a legalább 50-es[ENTER]szintet. "

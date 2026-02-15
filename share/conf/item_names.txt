@@ -3858,7 +3858,7 @@ VNUM	LOCALE_NAME
 39007	Blacksmith Handbook
 39008	Exorcism Scroll
 39009	Skill Reset Document
-39010	Potion of Attack+10
+39010	Potion of Attack +10
 39011	Blessing of Life
 39012	Blessing of Magic
 39013	Blessing of the Dragon
@@ -5102,7 +5102,7 @@ VNUM	LOCALE_NAME
 71011	Emotion Mask
 71012	Book of the Leader
 71013	Firework
-71014	Potion of Attack+10
+71014	Potion of Attack +10
 71015	Experience Ring
 71016	Thief's Gloves
 71017	Lucky Medal
