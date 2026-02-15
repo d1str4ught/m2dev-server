@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Drageøjets Styrke mangler "
 gameforge.dragon_soul._1160_say = "Drageøjets Styrke har forladt dig. "
 gameforge.dragon_soul._1170_say = "Gå tilbage til alkymisten i morgen for endnu en[ENTER]gang at få Drageøjets Styrke! "
 gameforge.dragon_soul._1180_say = "Gå tilbage til alkymisten og få styrke af et[ENTER]drage øje! "
+gameforge.dragon_soul._1190_say = "Du kan ikke bruges Dragon Soul endnu,[ENTER]da du ikke har nået niveau 30. "
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis som en gave "
 gameforge.dragon_soul_daily_gift._020_say = "Kontrollen af drage øjet er ikke så nemt, som det[ENTER]ser ud til. Kun erfarne krigere er i stand til[ENTER]det. Træn lidt længere end i krigs kunsten og så[ENTER]returner, når du er noget mindst level 50. "

@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Fehlende Macht des Drachenauges "
 gameforge.dragon_soul._1160_say = "Die Macht des Drachenauges hat dich verlassen. "
 gameforge.dragon_soul._1170_say = "Geh morgen zum Alchemisten zurück, um dir erneut[ENTER]die Macht des Drachenauges abzuholen! "
 gameforge.dragon_soul._1180_say = "Geh zum Alchemisten, um dir die Macht des[ENTER]Drachenauges abzuholen! "
+gameforge.dragon_soul._1190_say = "Du kannst die Drachenseele noch nicht nutzen,[ENTER]da du noch nicht Level 30 erreicht hast. "
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis als Geschenk "
 gameforge.dragon_soul_daily_gift._020_say = "Die Macht des Drachenauges zu beherrschen ist[ENTER]nicht zu einfach, wie es scheint. Nur erfahrene[ENTER]Kämpfer sind dazu in der Lage. Übe dich weiter im[ENTER]Kampf und komme wieder, wenn du mindestens Level[ENTER]50 erreicht hast. "

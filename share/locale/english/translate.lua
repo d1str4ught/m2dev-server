@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Power of the Dragon Eye missing "
 gameforge.dragon_soul._1160_say = "The Power of the Dragon Eye has left you. "
 gameforge.dragon_soul._1170_say = "Go back to the alchemist tomorrow to once again[ENTER]gain the Power of the Dragon Eye! "
 gameforge.dragon_soul._1180_say = "Go to the alchemist to get yourself the Power of[ENTER]the Dragon Eye! "
+gameforge.dragon_soul._1190_say = "You cannot use the Dragon Soul yet, as you haven't reached level 30."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis as a gift "
 gameforge.dragon_soul_daily_gift._020_say = "Controlling the Power of the Dragon Eye is not as[ENTER]easy as it seems. Only experienced warriors are[ENTER]capable. Train a little longer in the art of[ENTER]battle and then return when you have reached at[ENTER]least level 50. "

@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Недостающая сила Дра
 gameforge.dragon_soul._1160_say = "Сила Драконьего глаза покинула вас. "
 gameforge.dragon_soul._1170_say = "Отправляйтесь завтра, снова к алхимику и возьмите[ENTER]у него силу Драконьего Глаза! "
 gameforge.dragon_soul._1180_say = "Отправляйтесь к алхимику и возьмите у него силу[ENTER]Драконьего Глаза! "
+gameforge.dragon_soul._1190_say = "Вы не можете использовать Душу Дракона, так как еще[ENTER]не достигли уровня 30."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Кор Драконис в подарок "
 gameforge.dragon_soul_daily_gift._020_say = "Как оказалось, овладеть силой Драконьего глаза,[ENTER]не так легко. Лишь опытные бойцы способны на это.[ENTER]Продолжайте тренироваться и возвращайтесь когда[ENTER]достигните 50 уровня. "

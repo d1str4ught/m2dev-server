@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Λείπει η Δύναμη του Δ
 gameforge.dragon_soul._1160_say = "Η Δύναμη του Δρακόματου σε εγκατέλειψε. "
 gameforge.dragon_soul._1170_say = "Αύριο πήγαινε πάλι στον Αλχημιστή, για να σου[ENTER]δώσει ξανά την Δύναμη του Δρακόματου! "
 gameforge.dragon_soul._1180_say = "Πήγαινε στον Αλχημιστή για να σου δώσει την[ENTER]Δύναμη του Δρακόματου! "
+gameforge.dragon_soul._1190_say = "Δεν μπορείς ακόμα να χρησιμοποιήσεις την Αλχημία Δρακόλιθων,[ENTER]διότι δεν έχεις φτάσει ακόμα το επίπεδο 30. "
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis ως δώρο "
 gameforge.dragon_soul_daily_gift._020_say = "Δεν είναι απλό να κατέχεις την δύναμη του[ENTER]Δρακόματου. Μόνο οι πιο έμπειροι πολεμιστές[ENTER]μπορούν. Συνέχισε να εξασκείσαι στη μάχη κι έλα[ENTER]πάλι όταν φτάσεις στο επίπεδο 50. "

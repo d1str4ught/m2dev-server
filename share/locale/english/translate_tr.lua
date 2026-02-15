@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Ejderha Gözü Güçsüzlüğü "
 gameforge.dragon_soul._1160_say = "Ejderha gözünün gücü seni terk etti. "
 gameforge.dragon_soul._1170_say = "Tekrar ejderha gözü gücünü almak için yarın[ENTER]Simyacı'ya geri dön! "
 gameforge.dragon_soul._1180_say = "Ejderha gözü gücünü almak için Simyacı'ya git! "
+gameforge.dragon_soul._1190_say = "Henüz Ejderha Ruhunu kullanamazsın, çünkü henüz 30.[ENTER]seviyeye ulaşmadın."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Hediyelik Cor Draconis "
 gameforge.dragon_soul_daily_gift._020_say = "Ejderha gözü gücüne hakim olmak göründüğü kadar[ENTER]kolay değil. Bu ancak tecrübeli savaşçıların[ENTER]harcıdır. Ustalaşıp en az seviye 50'e ulaştığında[ENTER]tekrar gel. "

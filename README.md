@@ -9,7 +9,9 @@ This repository contains the core server files and configurations. It includes f
 ## 📋 Changelog
 
 ### 🐛 Bug Fixes
-* **`cube_opener_list.quest`**: Removed `locale.count_prefix` that was pointing to an empty object and wouldn't let the dialog continue after that point.
+* **Dragon stone antiflags**: Dragon stone items with grade between Rough and Rare are no longer tradable, droppable or sellable (consistency with the official).
+* **Dragonsoul Qualification**: Minimum level hardcoded in the checks for qualification.
+* **Item Proto**: Some affect item values adjusted, minor translation improvements
 
 <br>
 <br>

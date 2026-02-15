@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Brakuje Mocy Smoczego Oka "
 gameforge.dragon_soul._1160_say = "Opuściła cię Moc Smoczego Oka "
 gameforge.dragon_soul._1170_say = "Wróć jutro do alchemika, aby odebrać Moc Smoczego[ENTER]Oka! "
 gameforge.dragon_soul._1180_say = "Udaj się do alchemika, aby odebrać Moc Smoczego[ENTER]Oka! "
+gameforge.dragon_soul._1190_say = "Nie możesz jeszcze używać Duszy Smoka, ponieważ nie[ENTER]osiągnąłeś jeszcze poziomu 30."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis jako prezent "
 gameforge.dragon_soul_daily_gift._020_say = "Nie jest łatwo opanować Moc Smoczego Oka. Tylko[ENTER]doświadczeni wojownicy są w stanie to zrobić.[ENTER]Trenuj dalej sztukę walki i wróć, gdy co najmniej[ENTER]osiągniesz poziom 50. "

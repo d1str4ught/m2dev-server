@@ -1370,14 +1370,6 @@ LOCK TABLES `sms_pool` WRITE;
 /*!40000 ALTER TABLE `sms_pool` ENABLE KEYS */;
 UNLOCK TABLES;
 
---
--- Dumping data for table `string`
---
-
-LOCK TABLES `string` WRITE;
-/*!40000 ALTER TABLE `string` DISABLE KEYS */;
-/*!40000 ALTER TABLE `string` ENABLE KEYS */;
-UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;

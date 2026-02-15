@@ -813,6 +813,7 @@ gameforge.dragon_soul._1150_sendLetter = "Poder do Olho do Dragão em falta "
 gameforge.dragon_soul._1160_say = "O Poder do Olho do Dragão abandonou-te. "
 gameforge.dragon_soul._1170_say = "Regressa ao alquimista amanhã para mais uma vez[ENTER]possuíres o Poder do Olho do Dragão! "
 gameforge.dragon_soul._1180_say = "Vai ter com o alquimista para conseguires o Poder[ENTER]do Olho do Dragão! "
+gameforge.dragon_soul._1190_say = "Ainda não podes usar a Alma do Dragão pois ainda não[ENTER]alcançaste o nível 30."
 gameforge.dragon_soul_daily_gift = {}
 gameforge.dragon_soul_daily_gift._010_npcChat = "Cor Draconis como presente "
 gameforge.dragon_soul_daily_gift._020_say = "Controlar o Poder do Olho do Dragão não é tão[ENTER]fácil como parece. Apenas guerreiros experientes[ENTER]são capazes de o fazer. Treina um pouco mais as[ENTER]tuas artes de combate e regressa quando tiveres[ENTER]atingido pelo menos o nível 50. "
