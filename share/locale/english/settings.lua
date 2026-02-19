@@ -45,7 +45,7 @@ add_goto_info("fd1", 0, 126, 12288+225, 1024 + 655 )
 add_goto_info("fd2", 0, 127, 12288+225, 2048 + 655 )
 add_goto_info("fd3", 0, 128, 12288+225, 3072 + 655 )
 
-add_goto_info("milgyomid|밀교사원중앙", 0 , 65, 5905,1106 )
+add_goto_info("milgyomid", 0 , 65, 5905,1106 )
 
 add_goto_info("sd3", 0, 193, 959, 5710)
 
@@ -77,14 +77,13 @@ add_goto_info("cheonjo", 0, 183, 9728, 1536)
 
 add_goto_info("guild", 0, 150, 7936, 0)
 
-add_goto_info("OX이벤트", 0, 113, 8964, 215)
 add_goto_info("em1", 0, 181, 1024+225, 3328+225 )
 add_goto_info("em1", 0, 182, 1792+225, 3328+225 )
 add_goto_info("em1", 0, 183, 2560+225, 3328+225 )
 
-add_goto_info("heaven|천1", 0, 64, 2842, 8105)
-add_goto_info("heaven2|천2", 0, 73, 2418, 12750)
-add_goto_info("heaven3|천용", 0, 208, 8192, 10496)
+add_goto_info("heaven", 0, 64, 2842, 8105)
+add_goto_info("heaven2", 0, 73, 2418, 12750)
+add_goto_info("heaven3", 0, 208, 8192, 10496)
 
 arena.add_map(112, 8534, 101, 8564, 101)
 arena.add_map(112, 8584, 101, 8614, 101)
