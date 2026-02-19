@@ -1,4 +1,4 @@
-﻿-- /goto #??
+-- /goto #??
 -- add_goto_info("string_type_name", 0, map_name, x, y)
 add_goto_info("a1", 0, 1, 4693, 9642)
 add_goto_info("a3", 0, 3, 3608, 8776)
