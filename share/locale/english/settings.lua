@@ -1,4 +1,4 @@
--- /goto #??
+Ôªø-- /goto #??
 -- add_goto_info("string_type_name", 0, map_name, x, y)
 add_goto_info("a1", 0, 1, 4693, 9642)
 add_goto_info("a3", 0, 3, 3608, 8776)
@@ -45,49 +45,46 @@ add_goto_info("fd1", 0, 126, 12288+225, 1024 + 655 )
 add_goto_info("fd2", 0, 127, 12288+225, 2048 + 655 )
 add_goto_info("fd3", 0, 128, 12288+225, 3072 + 655 )
 
-add_goto_info("milgyomid|π–±≥ªÁø¯¡ﬂæ”", 0 , 65, 5905,1106 )
+add_goto_info("milgyomid|Î∞ÄÍµêÏÇ¨ÏõêÏ§ëÏïô", 0 , 65, 5905,1106 )
 
-add_goto_info("sd3|∞≈πÃ3", 0, 193, 959, 5710)
+add_goto_info("sd3", 0, 193, 959, 5710)
 
-add_goto_info("dc1|æ∆±Õ1", 0, 216, 3153 , 12095)
-add_goto_info("dc2|æ∆±Õ2", 0, 216, 3624 , 12078)
-add_goto_info("dc3|æ∆±Õ3", 0, 216, 4444 , 12281)
-add_goto_info("dc4|æ∆±Õ4", 0, 216, 3142 , 12611)
-add_goto_info("dc5|æ∆±Õ5", 0, 216, 3917 , 12927)
-add_goto_info("dc6|æ∆±Õ6", 0, 216, 4375 , 12736)
-add_goto_info("dc7|æ∆±Õ7", 0, 216, 3145 , 13188)
+add_goto_info("dc1", 0, 216, 3153 , 12095)
+add_goto_info("dc2", 0, 216, 3624 , 12078)
+add_goto_info("dc3", 0, 216, 4444 , 12281)
+add_goto_info("dc4", 0, 216, 3142 , 12611)
+add_goto_info("dc5", 0, 216, 3917 , 12927)
+add_goto_info("dc6", 0, 216, 4375 , 12736)
+add_goto_info("dc7", 0, 216, 3145 , 13188)
 
-add_goto_info("a4|±ÊµÂ∫Œ¡ˆ1", 0, 4, 2048, 2048)
-add_goto_info("b4|±ÊµÂ∫Œ¡ˆ2", 0, 26, 6144, 3840)
-add_goto_info("c4|±ÊµÂ∫Œ¡ˆ3", 0, 46, 2560, 8192)
+add_goto_info("a4", 0, 4, 2048, 2048)
+add_goto_info("b4", 0, 26, 6144, 3840)
+add_goto_info("c4", 0, 46, 2560, 8192)
 
-add_goto_info("cape|øÎµŒ∞˘", 0, 301, 11043, 17885)
-add_goto_info("dawn|»øπ´∏≤", 0, 302, 12263, 16811)
-add_goto_info("bay|»ÊªÁ∏∏", 0, 303, 10869, 16558)
-add_goto_info("thunder|≥˙º∫ªÍ", 0, 304, 11345, 16546)
+add_goto_info("cape", 0, 301, 11043, 17885)
+add_goto_info("daw", 0, 302, 12263, 16811)
+add_goto_info("bay", 0, 303, 10869, 16558)
+add_goto_info("thunder", 0, 304, 11345, 16546)
 
-add_goto_info("Ω≈π–±≥", 0, 78, 1536, 10496)
-add_goto_info("Ω≈µµø∞", 0, 75, 4608, 10496)
-add_goto_info("Ω≈º≠«—", 0, 74, 0 , 10496)
-add_goto_info("Ω≈Ω¬∑Ê", 0, 77, 6144, 10496)
+add_goto_info("newmilgyo", 0, 78, 1536, 10496)
+add_goto_info("newdoeum", 0, 75, 4608, 10496)
+add_goto_info("newseohan", 0, 74, 0 , 10496)
+add_goto_info("newseongryong", 0, 77, 6144, 10496)
 
---/add_goto_info("»≤π´¡ˆ", 0, 69, 10496, 7168) replaced with sneak
--- /add_goto_info("≥ ΩΩ∑∞", 0, 70, 8192, 7168) replaced with giant
+add_goto_info("newshusung", 0, 181, 9728, 1024)
+add_goto_info("jinnoseong", 0, 182, 9216, 1536)
+add_goto_info("cheonjo", 0, 183, 9728, 1536)
 
-add_goto_info("Ω≈ºˆº∫", 0, 181, 9728, 1024)
-add_goto_info("¡¯≥Îº∫", 0, 182, 9216, 1536)
-add_goto_info("√µ¡∂º∫", 0, 183, 9728, 1536)
+add_goto_info("guild", 0, 150, 7936, 0)
 
-add_goto_info("±ÊµÂ≥ª∫Œ", 0, 150, 7936, 0)
-
-add_goto_info("OX¿Ã∫•∆Æ", 0, 113, 8964, 215)
+add_goto_info("OXÏù¥Î≤§Ìä∏", 0, 113, 8964, 215)
 add_goto_info("em1", 0, 181, 1024+225, 3328+225 )
 add_goto_info("em1", 0, 182, 1792+225, 3328+225 )
 add_goto_info("em1", 0, 183, 2560+225, 3328+225 )
 
-add_goto_info("heaven|√µ1", 0, 64, 2842, 8105)
-add_goto_info("heaven2|√µ2", 0, 73, 2418, 12750)
-add_goto_info("heaven3|√µøÎ", 0, 208, 8192, 10496)
+add_goto_info("heaven|Ï≤ú1", 0, 64, 2842, 8105)
+add_goto_info("heaven2|Ï≤ú2", 0, 73, 2418, 12750)
+add_goto_info("heaven3|Ï≤úÏö©", 0, 208, 8192, 10496)
 
 arena.add_map(112, 8534, 101, 8564, 101)
 arena.add_map(112, 8584, 101, 8614, 101)
@@ -116,7 +113,8 @@ add_goto_info("sd1", 0, 104, 600, 4970)
 -- /goto GF SD2
 add_goto_info("sd2", 0, 71, 7038, 4625)
 
-add_goto_info("flamed|¿˚∑Êº∫", 0, 351, 7777, 6504)
+add_goto_info("flamed", 0, 351, 7777, 6504)
+add_goto_info("snowd", 0, 352, 5291, 1814)
 
 add_bgm_info( 1, "enter_the_east.mp3", 0.5);
 add_bgm_info(21, "enter_the_east.mp3", 0.5);
