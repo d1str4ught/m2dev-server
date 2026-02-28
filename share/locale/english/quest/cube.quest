@@ -26,23 +26,6 @@ quest cube begin
             command("cube open")
         end
 
-        when 20018.chat.gameforge.cube._060_npcChat with pc.level >= 15 begin
-            setskin(NOWINDOW)
-            command("cube make all")
-        end
-
-
-        when 20017.chat.gameforge.cube._060_npcChat with pc.level >= 30 begin
-            setskin(NOWINDOW)
-            command("cube make all")
-        end
-
-
-        when 20022.chat.gameforge.cube._060_npcChat with pc.level >=45 begin
-            setskin(NOWINDOW)
-            command("cube make all")
-        end
-
         when 20383.chat.gameforge.cube._30_npcChat with pc.level >=90 begin
             setskin(NOWINDOW)
             command("cube open")

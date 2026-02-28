@@ -70,16 +70,6 @@ quest cube_opener_list begin
 
 			end
 		end
-		
-        when
-            20383.take or
-            20018.take or
-            20017.take or
-            20015.take
-        begin
-
-            command("cube open")
-        end
     end
 end
 
