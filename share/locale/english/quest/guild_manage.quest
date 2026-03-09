@@ -93,6 +93,18 @@ quest guild_building begin
 		when guild_man1.chat.gameforge.guild_manage._160_npcChat or guild_man2.chat.gameforge.guild_manage._170_npcChat or guild_man3.chat.gameforge.guild_manage._170_npcChat begin
 			local level_limit;
 			local guild_create_item
+			local withdraw_time_limit
+			local disband_time_limit
+
+			if is_test_server() then
+				withdraw_time_limit = 60
+				disband_time_limit = 60
+			else
+				withdraw_time_limit = 86400
+				disband_time_limit = 86400
+			end
+
+
 
 			level_limit = 40
 			guild_create_item = false
@@ -100,20 +112,21 @@ quest guild_building begin
 			if pc.hasguild() then
 				return
 			end
-			if game.get_event_flag("guild_withdraw_delay")*86400 > 
-				get_global_time() - pc.getqf("new_withdraw_time") then
+
+			local withdraw_time = game.get_event_flag("guild_withdraw_delay") * withdraw_time_limit
+			if withdraw_time > get_global_time() - pc.getqf("new_withdraw_time") then
 			say_title(gameforge.find_squareguard._10_targetVid)
 			say(gameforge.guild_manage._180_say)
--- say(string.format(gameforge.guild_manage._190_say, game.get_event_flag("guild_withdraw_delay")))
+		-- say(string.format(gameforge.guild_manage._190_say, game.get_event_flag("guild_withdraw_delay")))
 			return
 			end
-
-			if game.get_event_flag("guild_disband_delay")*86400 > 
-				get_global_time() - pc.getqf("new_withdraw_time") then
-			say_title(gameforge.find_squareguard._10_targetVid)
-			say(gameforge.guild_manage._200_say)
--- say(string.format(gameforge.guild_manage._190_say, game.get_event_flag("guild_disband_delay")))
-			return
+			
+			local disband_time = game.get_event_flag("guild_disband_delay") * disband_time_limit
+			if disband_time > get_global_time() - pc.getqf("new_withdraw_time") then
+				say_title(gameforge.find_squareguard._10_targetVid)
+				say(gameforge.guild_manage._200_say)
+			-- say(string.format(gameforge.guild_manage._190_say, game.get_event_flag("guild_disband_delay")))
+				return
 			end
 			say_title(gameforge.find_squareguard._10_targetVid)
 			say(gameforge.guild_manage._210_say)
